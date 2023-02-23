@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Labrada:wght@100&display=swap" rel="stylesheet">
+    <title>Classifier</title>
+
+
+
+    <style>
+        body{
+            font-family: 'Labrada', serif;
+            background-color: rgba(141, 171, 161, 0.403);
+            padding: 0px;
+            margin: 0px;
+        }
+        .container{
+            display: flex;
+            width: 98vw;
+            height: 98vh;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+            flex-direction: column;
+        }
+        .form{
+            display: flex;
+            justify-content: center;
+            width: 1000px;
+            height: 200px;
+            align-items: center;
+            align-content: center;
+            flex-direction: column;
+        }
+        input{
+            border-radius: 10px;
+            margin: 5px;
+            border: 1px solid rgb(19, 32, 44);
+            width: 100px;
+            height: 50px;
+        }
+        .text{
+            height: 100px;
+            width: 700px;
+            overflow: hidden;
+            border-radius: 20px;
+            margin: 5px;
+            border: 1px solid rgb(19, 32, 44);
+            padding: 10px;
+        }
+        .result{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            width: 800px;
+            height: 150px;
+            align-items: center;
+            align-content: center;
+
+        }
+        .outputtext{
+            height: 80px;
+            width: 800px;
+            overflow: hidden;
+            border-radius: 20px;
+            margin: 2px;
+            border: 1px solid rgb(19, 32, 44);
+            padding: 5px;
+            background-color: white;
+            color: black;
+        }
+        .label{
+            border-radius: 20px;
+            margin: 2px;
+            border: 1px solid rgb(19, 32, 44));
+            padding: 5px;
+        }
+        .category{
+            display: flex;
+            flex-direction: row;
+            width: 900px;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form action="" method="post" class="form">
+            <textarea name="text" rows="1000" cols="3000" class="text"></textarea>
+            <input type="submit" value="Enter">
+        </form>
+        {% if text %}
+            <div class="result">
+                <div class="outputtext">
+                    <strong>{{text}}</strong>
+
+                </div>
+                
+            </div>
+            <div class="category">
+                    {% for i in labels%}
+                        <h4 class="label">
+                            {{i}}
+                        </h4>
+                    {%endfor%}
+            </div>
+        {%endif%}
+    </div>
+    
+</body>
+</html>
