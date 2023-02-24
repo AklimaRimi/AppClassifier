@@ -2,7 +2,7 @@
 
 ## Motive
 
-AppClassifier is a `multilabel` `NLP` project. Almost 360+ labels are used in this project.
+AppClassifier is a `multilabel` `NLP` project. Almost 360+ labels are used in this project which is deployed and rendered.
 
 ## Data Collection
 
@@ -17,7 +17,7 @@ Around 360+ labels are chosen and then Converted the string categories into nume
 
 ## Training
 
-For the rest of the work I use `PyTorch` WorkFrame. Also `Blurr` Api for training models. As a model I used two types of models, those are collected from the `HuggingFace` model library.
+For the rest of the work I use `PyTorch` WorkFrame. Also `Blurr` Api for training models. For model choosing, I used two types of models, those are collected from the `HuggingFace` model library.
 
 1. `distilroberta-base` and <br>
 2. `bertabaporu-large`<br>
@@ -26,7 +26,7 @@ For the rest of the work I use `PyTorch` WorkFrame. Also `Blurr` Api for trainin
 
 I used 2 models for comparison. But both models performed the same; they gave `99%` accuracy. Both model did great work.
 
-1. **distilroberta-base** : As all the processes done in Pytorch so I had to use `dataloaders` for transform dataset for model. In that case I choose batch size `32`. This model is very faster than other models.  <br>
+1. **distilroberta-base** : As all the processes done in Pytorch so I had to use `dataloaders` for transform dataset for model. In that case I choose batch size `32`. This model is very faster than other models. **So I used this model for that project**  <br>
 2. **bertabaporu-large** : For this model I had to choose the Batch size 2. Othewise `CUDA` Terminate the training process for crossing the limit of `CUDA`. This model is the most Slower.  <br>
 
 ## Models
