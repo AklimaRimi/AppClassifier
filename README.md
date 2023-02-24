@@ -2,18 +2,18 @@
 
 ## Motive
 
-AppClassifier is a `multilabel` `NLP` project. Almost 600+ labels are used in this project.
+AppClassifier is a `multilabel` `NLP` project. Almost 360+ labels are used in this project.
 
 ## Data Collection
 
 I collected data from : https://sourceforge.net/ <br>
-Around 17000 pieces of data have been collected.
+Around 33634 pieces of data have been collected.
 
 ## Data Preprocessing
 
 Because this project is based on 'MultiLabel,' each entity must have more than one label. I chose the most common labels because the least common labels can distract a model from detecting accurate labels.
 
-Around 600+ labels are chosen and then Converted the string categories into numerical form.
+Around 360+ labels are chosen and then Converted the string categories into numerical form.
 
 ## Training
 
@@ -26,10 +26,19 @@ For the rest of the work I use `PyTorch` WorkFrame. Also `Blurr` Api for trainin
 
 I used 2 models for comparison. But both models performed the same; they gave `99%` accuracy. Both model did great work.
 
+1. **distilroberta-base** : As all the processes done in Pytorch so I had to use `dataloaders` for transform dataset for model. In that case I choose batch size `32`. This model is very faster than other models.  <br>
+2. **bertabaporu-large** : For this model I had to choose the Batch size 2. Othewise `CUDA` Terminate the training process for crossing the limit of `CUDA`. This model is the most Slower.  <br>
+
+## Models
+
+All of the models can be found in [here](https://drive.google.com/drive/folders/1OB12YLmqM38qGf0AMWnXZoHfli6UJ-9j?usp=sharing).
+
 ## Deployment
 
 I used `HuggingFace` to deploy this project. It is very easy to use and free. 
-You can use this project as deployed : https://huggingface.co/spaces/Rimi98/AppClassifier
+You can use this project as deployed : https://huggingface.co/spaces/Rimi98/AppClassifier <br>
+
+![](https://github.com/AklimaRimi/AppClassifier/blob/main/images/hugging.png)
 
 ## Integration/ Render
 
@@ -37,6 +46,8 @@ I used `Flask` for rendering this project as an open website. I created a very b
 Also I use the [Render](https://dashboard.render.com/) for integration.
 
 Click this [link](appclassifier.onrender.com/)
+
+![](https://github.com/AklimaRimi/AppClassifier/blob/main/images/website.png)
 
 
 ## Future Work
