@@ -11,7 +11,7 @@ Around 33634 pieces of data have been collected.
 
 ## Data Preprocessing
 
-Because this project is based on 'MultiLabel,' each entity must have more than one label. I chose the most common labels because the least common labels can distract a model from detecting accurate labels.
+Because this project is based on `MultiLabel`, each entity must have more than one label. I chose the most common labels because the least common labels can distract a model from detecting accurate labels.
 
 Around 360+ labels are chosen and then Converted the string categories into numerical form.
 
