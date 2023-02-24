@@ -52,6 +52,6 @@ Click this [link](appclassifier.onrender.com/)
 
 ## Future Work
 
-Almost 50000+ data points can be found on [this](https://sourceforge.net/) website where I have collected 33634 data points. My future work will be to collect more data and develop this project. Anyone can join me. Feel free to knock on my door. 
+Almost 50000+ data points can be found on [this](https://sourceforge.net/) website where I have collected 33634 data points. My future work will be to collect more data and develop this project. Anyone can join me. Feel free to pull a request.
 
 
