@@ -1,0 +1,663 @@
+Description,Category
+"[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.","Categories
+XML, File Sharing, Cryptography"
+"MD5 Hash Calculator for VB6 (Module).
+You can add the module to your project.MD5 Hash Calculator for VB6 (Module).
+You can add the module to your project.","Categories
+Cryptography, Hash Calculators"
+Tool to automatically fire regular security scans with Nessus. Compare results of the current scan with the previous scan and report on the delta in a web interface. Main objective of the tool is to make repeated scans more efficient. Not affiliatedTool to automatically fire regular security scans with Nessus. Compare results of the current scan with the previous scan and report on the delta in a web interface. Main objective of the tool is to make repeated scans more efficient. Not affiliated,"Categories
+Security"
+"PyLoris is a scriptable tool for testing a server's vulnerability to connection exhaustion denial of service (DoS) attacks. PyLoris can utilize SOCKS proxies and SSL connections, and can target protocols such as HTTP, FTP, SMTP, IMAP, and Telnet.PyLoris is a scriptable tool for testing a server's vulnerability to connection exhaustion denial of service (DoS) attacks. PyLoris can utilize SOCKS proxies and SSL connections, and can target protocols such as HTTP, FTP, SMTP, IMAP, and Telnet.","Categories
+Security, HTTP Servers, Performance Testing"
+"srm (secure rm) is a command-line compatible rm(1) which overwrites file contents before unlinking. The goal is to provide drop in security for users who wish to prevent recovery of deleted information, even if the machine is compromised.srm (secure rm) is a command-line compatible rm(1) which overwrites file contents before unlinking. The goal is to provide drop in security for users who wish to prevent recovery of deleted information, even if the machine is compromised.","Categories
+Security, Systems Administration"
+"This project is devoted to provide a simple software layer for digital signature, when an hardware cryptographic token is required. The default implementation tries to comply as strictly as possible with the italian law digital signature directives.This project is devoted to provide a simple software layer for digital signature, when an hardware cryptographic token is required. The default implementation tries to comply as strictly as possible with the italian law digital signature directives.","Categories
+Cryptography"
+ZoneMinder is video and cctv surveillance and security application. It supports multiple video or IP cameras and a sophisticated motion detection system based around zones. Both live streams and historic events can be viewed via the web interface.ZoneMinder is video and cctv surveillance and security application. It supports multiple video or IP cameras and a sophisticated motion detection system based around zones. Both live streams and historic events can be viewed via the web interface.,"Categories
+Security, Image Viewers, Capture"
+DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.,"Categories
+Security, Software Testing"
+The libSRTP project has been moved to https://github.com/cisco/libsrtpThe libSRTP project has been moved to https://github.com/cisco/libsrtp,"Categories
+Internet Phone, Telephony, Cryptography, Networking"
+uTorrent users can benefit from having naughty IP addresses removed from the torrent swarm.uTorrent users can benefit from having naughty IP addresses removed from the torrent swarm.,"Categories
+BitTorrent, Security, Networking"
+"It completely removes a file from your disk without leaving any track. It is very fast. It overwrites any deleted file with blanks or random data N times - where N is given by the user. Also, it changes the filename. No setup is needed.It completely removes a file from your disk without leaving any track. It is very fast. It overwrites any deleted file with blanks or random data N times - where N is given by the user. Also, it changes the filename. No setup is needed.","Categories
+Security"
+"The Sentry tools provide host-level security services for the Unix platform. PortSentry, Logcheck/LogSentry, and HostSentry protect against portscans, automate log file auditing, and detect suspicious login activity on a continuous basis.The Sentry tools provide host-level security services for the Unix platform. PortSentry, Logcheck/LogSentry, and HostSentry protect against portscans, automate log file auditing, and detect suspicious login activity on a continuous basis.","Categories
+Security"
+"THIS PROJECT HAS BEEN ABANDONED SINCE 2007, NO SUPPORT WILL BE PROVIDED.
+
+Winpooch is a watchdog for Windows (2000, XP, 2003, but only 32-bits). It detects modifications in your system, so as to detect a trojan or a spyware installation. It also includes a real-time anti-virus. Set your own security level for anti-spyware, antTHIS PROJECT HAS BEEN ABANDONED SINCE 2007, NO SUPPORT WILL BE PROVIDED.
+
+Winpooch is a watchdog for Windows (2000, XP, 2003, but only 32-bits). It detects modifications in your system, so as to detect a trojan or a spyware installation. It also includes a real-time anti-virus. Set your own security level for anti-spyware, ant","Categories
+Security, Logging"
+"FileVerifier++ is a Windows utility for calculating hashes using a number of algorithms including CRC32, MD5, SHA-1, SHA-256/224/384/512, WHIRLPOOL, and RIPEMD-128/160/256/320. Supported hash file formats include MD5SUM .MD5, SFV, BSD CKSUM, and others.FileVerifier++ is a Windows utility for calculating hashes using a number of algorithms including CRC32, MD5, SHA-1, SHA-256/224/384/512, WHIRLPOOL, and RIPEMD-128/160/256/320. Supported hash file formats include MD5SUM .MD5, SFV, BSD CKSUM, and others.","Categories
+Cryptography, Algorithms, File Managers"
+"FreeArc combines best 7-zip and RAR features: auto-selected LZMA/PPMD/Multimedia compression, 1gb dictionary, exe/dict/delta data filters, updatable solid archives, SFXes, recovery record, AES+Twofish+Serpent encryption, Linux support and much more...FreeArc combines best 7-zip and RAR features: auto-selected LZMA/PPMD/Multimedia compression, 1gb dictionary, exe/dict/delta data filters, updatable solid archives, SFXes, recovery record, AES+Twofish+Serpent encryption, Linux support and much more...","Categories
+Cryptography, File Compression, Backup"
+"Brave is a free and open source browser that lets you browse safer and faster by blocking ads and trackers. Brave blocks harmful advertising, tracking pixels and cookies, and redirects sites to HTTPS.
+
+Brave is available for macOS, Windows, and Linux.Brave is a free and open source browser that lets you browse safer and faster by blocking ads and trackers. Brave blocks harmful advertising, tracking pixels and cookies, and redirects sites to HTTPS.
+
+Brave is available for macOS, Windows, and Linux.","Categories
+Security, Browsers"
+"A simple keylogger written in python. It is primarily designed for backup purposes, but can be used as a stealth keylogger, too. It does not raise any trust issues, since it is a set of [relatively] short python scripts that you can easily examine.A simple keylogger written in python. It is primarily designed for backup purposes, but can be used as a stealth keylogger, too. It does not raise any trust issues, since it is a set of [relatively] short python scripts that you can easily examine.","Categories
+Security, Backup, Logging"
+Atricore’s JOSSO is an open source and commercially supported Internet Single Sign-On (FSSO) solution for point-and-click and standards-based (SAML2) Internet-scale SSO implementations. For more information contact us at : http://www.josso.orgAtricore’s JOSSO is an open source and commercially supported Internet Single Sign-On (FSSO) solution for point-and-click and standards-based (SAML2) Internet-scale SSO implementations. For more information contact us at : http://www.josso.org,"Categories
+Security, Object Brokering, LDAP, Networking"
+"OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
+
+NOTE: the official project page is now hosted on GitHub: https://github.com/OpenVPN/openvpn-gui/OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
+
+NOTE: the official project page is now hosted on GitHub: https://github.com/OpenVPN/openvpn-gui/","Categories
+Security, VPN"
+"Simple Machine Protect is portable antivirus software for your Windows Operating System, build to remove certain variant of virus, worm, trojan and spyware from your computer. SMP was designed to be a simple, open source antivirus.Simple Machine Protect is portable antivirus software for your Windows Operating System, build to remove certain variant of virus, worm, trojan and spyware from your computer. SMP was designed to be a simple, open source antivirus.","Categories
+Security"
+"Lockscreen Pro's main feature is to lock your computer screen to not give other people access to it. You can simply unlock your computer with a password or an USB flash-drive. Every time someone enter a wrong password, Lockscreen will take a snapshot using your computers webcam. This will give you information about who tried to get into your computer.Lockscreen Pro's main feature is to lock your computer screen to not give other people access to it. You can simply unlock your computer with a password or an USB flash-drive. Every time someone enter a wrong password, Lockscreen will take a snapshot using your computers webcam. This will give you information about who tried to get into your computer.","Categories
+Security, Desktop Environment"
+LKL is a userspace keylogger that runs under Linux on the x86 arch. LKL logs everything that passes through the hardware keyboard port (0x60). It translates keycodes to ASCII with a keymap file.LKL is a userspace keylogger that runs under Linux on the x86 arch. LKL logs everything that passes through the hardware keyboard port (0x60). It translates keycodes to ASCII with a keymap file.,"Categories
+Security, Logging"
+"The ADHD project has moved. You can check out the project page here:
+http://www.blackhillsinfosec.com/?page_id=4419
+
+Download the latest release here:
+https://github.com/adhdproject/buildkit
+
+Or check out the latest documentation here:
+https://adhdproject.github.io/#!index.mdThe ADHD project has moved. You can check out the project page here:
+http://www.blackhillsinfosec.com/?page_id=4419
+
+Download the latest release here:
+https://github.com/adhdproject/buildkit
+
+Or check out the latest documentation here:
+https://adhdproject.github.io/#!index.md","Categories
+Security"
+"What you need for managing your passwords, including the passwords of your online accounts, bank accounts and ... with the corresponding URLs. The passwords are encrypted by AES. Can be used on almost all operating systems including Windows & Linux.What you need for managing your passwords, including the passwords of your online accounts, bank accounts and ... with the corresponding URLs. The passwords are encrypted by AES. Can be used on almost all operating systems including Windows & Linux.","Categories
+Password Managers, Password Generators"
+PHP ClamAV - ClamAV Interface for PHP5 Scripts PHP-ClamAV is a PHP5 extension that allows to incorporate virus scanning features on your PHP5 scripts. It uses the Clam AV API for virus scanning.PHP ClamAV - ClamAV Interface for PHP5 Scripts PHP-ClamAV is a PHP5 extension that allows to incorporate virus scanning features on your PHP5 scripts. It uses the Clam AV API for virus scanning.,"Categories
+Antivirus, Libraries"
+"Pwgen is a small, GPL'ed password generator which creates passwords which can be easily memorized by a human.Pwgen is a small, GPL'ed password generator which creates passwords which can be easily memorized by a human.","Categories
+Password Generators"
+"silvertunnel.org is a project that provides an end-user browser, a Java library and additional Java security tools to easily access anonymity networks such as the Tor (torproject.org) network. Secure and easy to use. Tor4Java and Tor Browser.
+
+Attention: see project status on page https://sourceforge.net/p/silvertunnel/discussion/962278/thread/83dc2d02/#silvertunnel.org is a project that provides an end-user browser, a Java library and additional Java security tools to easily access anonymity networks such as the Tor (torproject.org) network. Secure and easy to use. Tor4Java and Tor Browser.
+
+Attention: see project status on page https://sourceforge.net/p/silvertunnel/discussion/962278/thread/83dc2d02/#","Categories
+Cryptography, Browsers, Libraries"
+"ccrypt is a command-line tool for encrypting and decrypting files and streams. It provides strong encryption based on the Rijndael cipher, a version of which is also used in the Advanced Encryption Standard.ccrypt is a command-line tool for encrypting and decrypting files and streams. It provides strong encryption based on the Rijndael cipher, a version of which is also used in the Advanced Encryption Standard.","Categories
+Cryptography, Command Line Tools"
+"What is DracOS GNU/Linux Remastered ?
+
+DracOS GNU/Linux Remastered ( https://github.com/dracos-linux ) is the Linux operating system from Indonesian , open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Use a GUI-based tools-tools the software using the CLI (command line interface) and GUI (graphical user interface) to perform its operations. Now Dracos currently already up to version 3.1.5 with the code name ""KUNTILANAK WITH REMASTERED"".What is DracOS GNU/Linux Remastered ?
+
+DracOS GNU/Linux Remastered ( https://github.com/dracos-linux ) is the Linux operating system from Indonesian , open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Use a GUI-based tools-tools the software using the CLI (command line interface) and GUI (graphical user interface) to perform its operations. Now Dracos currently already up to version 3.1.5 with the code name ""KUNTILANAK WITH REMASTERED"".","Categories
+Operating System Kernels, OS distribution, Live CD, Penetration Testing"
+"DISCLAIMER:
+THIS APPLICATION IS IN BETA AND MIGHT HARM YOUR SYSTEM, ONLY USE IT IF YOU ARE A TECH EXPERIENCED PERSON. POSSIBLE DAMAGE DOES INCLUDE BUT IS NOT LIMITED TO DAMAGE ON OTHER APPLICATIONS, HARDWARE DAMAGE (OVERHEATING) AND DATA LOSS
+
+QuantumAccelerator is a free and open source application to easily manage Windows 10/11 in one place. With this application, I want to allow less tech experienced people to be able to manage their computer, especially when it comes to privacy. It isn't made with only less tech experienced people in mind, it accelerates the process of managing the operating system for everyone, and more advanced features will be added later.
+
+Managing files and privacy settings is heavily trust based and in my opinion should be available to everyone. That's why this application is completely free and open source.DISCLAIMER:
+THIS APPLICATION IS IN BETA AND MIGHT HARM YOUR SYSTEM, ONLY USE IT IF YOU ARE A TECH EXPERIENCED PERSON. POSSIBLE DAMAGE DOES INCLUDE BUT IS NOT LIMITED TO DAMAGE ON OTHER APPLICATIONS, HARDWARE DAMAGE (OVERHEATING) AND DATA LOSS
+
+QuantumAccelerator is a free and open source application to easily manage Windows 10/11 in one place. With this application, I want to allow less tech experienced people to be able to manage their computer, especially when it comes to privacy. It isn't made with only less tech experienced people in mind, it accelerates the process of managing the operating system for everyone, and more advanced features will be added later.
+
+Managing files and privacy settings is heavily trust based and in my opinion should be available to everyone. That's why this application is completely free and open source.","Categories
+System, Password Generators"
+"This is a plugin to KeePass <http://www.KeePass.info> to force all fields, notes and file attachments to use in-memory protection <https://keepass.info/help/base/security.html#secmemprot>.
+
+It should be regarded as highly experimentalThis is a plugin to KeePass <http://www.KeePass.info> to force all fields, notes and file attachments to use in-memory protection <https://keepass.info/help/base/security.html#secmemprot>.
+
+It should be regarded as highly experimental","Categories
+Password Managers"
+VictimCorp sourceforge repository for source codes and developments.VictimCorp sourceforge repository for source codes and developments.,"Categories
+OSINT"
+"This is a diary that allows you to digitally write entries and view them. What makes this a masterpiece from its counterparts is how user data is created and abstracted. User data is protected and stored in PNG images, the image it self is not encrypted but the data inside the image is encrypted. If you open any one of the created PNG images, they look like blank images!. These ""normal"" looking images protect your information from prying eyes. The simplicity and elegance of my program stores your data(password and entry) locally and hidden from everyone.This is a diary that allows you to digitally write entries and view them. What makes this a masterpiece from its counterparts is how user data is created and abstracted. User data is protected and stored in PNG images, the image it self is not encrypted but the data inside the image is encrypted. If you open any one of the created PNG images, they look like blank images!. These ""normal"" looking images protect your information from prying eyes. The simplicity and elegance of my program stores your data(password and entry) locally and hidden from everyone.","Categories
+Text Editors, Security"
+Black Box Encryption Program: A program that uses encryption to prevent unauthorized access to digital information. Encryption is used to protect digital information on computers. The user can add various files in an organized way and merge them into one executive fileBlack Box Encryption Program: A program that uses encryption to prevent unauthorized access to digital information. Encryption is used to protect digital information on computers. The user can add various files in an organized way and merge them into one executive file,"Categories
+Encryption"
+"Bitwarden is an easy-to-use and secure desktop vault for managing passwords and other sensitive data. It helps individuals and teams share, store and sync sensitive data, and create and secure passwords. All data is fully encrypted before it even leaves your device, with end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256.
+
+Written using Electron and Angular, this native desktop application can be accessed on Windows, macOS and Linux desktops.Bitwarden is an easy-to-use and secure desktop vault for managing passwords and other sensitive data. It helps individuals and teams share, store and sync sensitive data, and create and secure passwords. All data is fully encrypted before it even leaves your device, with end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256.
+
+Written using Electron and Angular, this native desktop application can be accessed on Windows, macOS and Linux desktops.","Categories
+Password Managers"
+"This plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/alternateautotypeThis plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/alternateautotype","Categories
+Password Managers"
+"HashPW is a password creator. Each time you need to login to a program or site, HashPW can be used to paste a required username into the site. Then the hashed password can be (re)created and pasted into the program or site password field. Click help file button for features and instructions.
+
+See WIKI for update information.HashPW is a password creator. Each time you need to login to a program or site, HashPW can be used to paste a required username into the site. Then the hashed password can be (re)created and pasted into the program or site password field. Click help file button for features and instructions.
+
+See WIKI for update information.","Categories
+Password Managers"
+"This plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/kpcolorchangeThis plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/kpcolorchange","Categories
+Password Managers"
+"Linux WiFi pentesting distribution built off Tiny Core Linux and inspired by the Xiaopan OS project. Lightweight with some new tools and updates to tools that have stood the test of time.
+
+Official forum redirected to: http://tinypawlinux.rf.gd
+
+Ideal for:
+
+-Wireless network auditing
+
+-Running from USB / CD / VM
+
+-Minimal system footprint and resource consumption
+
+-Intermediate - Advanced skill range
+
+*Due to some ""word lists"" exceeding 1000Mb as well as user preference - only basic ones are included in .iso downloads*
+
+*Not intended for use on or against any wireless device, network or system other then your own. The creator of TinyPaw-Linux does not advocate illegal activity*Linux WiFi pentesting distribution built off Tiny Core Linux and inspired by the Xiaopan OS project. Lightweight with some new tools and updates to tools that have stood the test of time.
+
+Official forum redirected to: http://tinypawlinux.rf.gd
+
+Ideal for:
+
+-Wireless network auditing
+
+-Running from USB / CD / VM
+
+-Minimal system footprint and resource consumption
+
+-Intermediate - Advanced skill range
+
+*Due to some ""word lists"" exceeding 1000Mb as well as user preference - only basic ones are included in .iso downloads*
+
+*Not intended for use on or against any wireless device, network or system other then your own. The creator of TinyPaw-Linux does not advocate illegal activity*","Categories
+Security, Wireless, OS distribution"
+"Free TACACS+ (tac_plus) engine (written in C++) and webui (PHP) allows network administrators to limit access to network devices.
+
+This project (tacplus/webui) use to be on www.networkforums.net.
+New and improved features been added since the last release on old website.
+
+** New Release of WebUI **
+Improved useability
+More searching capabilities in reportsFree TACACS+ (tac_plus) engine (written in C++) and webui (PHP) allows network administrators to limit access to network devices.
+
+This project (tacplus/webui) use to be on www.networkforums.net.
+New and improved features been added since the last release on old website.
+
+** New Release of WebUI **
+Improved useability
+More searching capabilities in reports","Categories
+Security, Networking"
+"This package implements the FF1, FF3, and FFX algorithms and the A2 and A10 parameter sets for format-preserving encryption.
+
+The FF1 and FF3 methods for format-preserving encryption are implementations of NIST Special Publication 800-38G, Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption.
+
+The FFX algorithm and A2 and A10 parameter sets are implementations of ""The FFX Mode of Operation for Format-Preserving Encryption,"" by Mihir Bellare, Phillip Rogaway, and Terence Spies.
+
+For more information see the README.txt and package-info.java files in the source.This package implements the FF1, FF3, and FFX algorithms and the A2 and A10 parameter sets for format-preserving encryption.
+
+The FF1 and FF3 methods for format-preserving encryption are implementations of NIST Special Publication 800-38G, Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption.
+
+The FFX algorithm and A2 and A10 parameter sets are implementations of ""The FFX Mode of Operation for Format-Preserving Encryption,"" by Mihir Bellare, Phillip Rogaway, and Terence Spies.
+
+For more information see the README.txt and package-info.java files in the source.","Categories
+Cryptography, Libraries, Encryption, Encryption Algorithms"
+"Инструмент для шифрования файлов на русском языке. Только для операционной системы Windows. Интеграции с контекстным меню проводника нет. AES шифрование 256 бит. Официальная страница http://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rusimplecrypt-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2.html
+
+A tool to encrypt files in Russian. Only for the Windows operating system. Integration with Explorer context menu does not. AES encryption of 256 bits.
+
+based on sourceforge.net/projects/oss-simplecrypt/Инструмент для шифрования файлов на русском языке. Только для операционной системы Windows. Интеграции с контекстным меню проводника нет. AES шифрование 256 бит. Официальная страница http://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rusimplecrypt-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2.html
+
+A tool to encrypt files in Russian. Only for the Windows operating system. Integration with Explorer context menu does not. AES encryption of 256 bits.
+
+based on sourceforge.net/projects/oss-simplecrypt/","Categories
+Cryptography, Encryption"
+"This program generate random password of a specified length, with numbers, upper and lowercase letters and special symbols.This program generate random password of a specified length, with numbers, upper and lowercase letters and special symbols.","Categories
+Security, eCommerce, Password Managers"
+"Free portable cross-platform multi-user password manager, 100%-pure Java. DB for each pkg-user is encrypted and protected by pkg-user hash. In addition - passwords in DB are stored in encrypted form. In result - stored passwords are double encrypted ! Passwords of pkg-users are not stored in program - stored and compared only hashes. Support md2, md5, sha1, sha256, sha384 and sha512 hash. Support export DB to CSV, HTML, XLS or XML and import from CSV, XLS or XML. Simple and intuitive GUI - Graphical User Interface. PKG use crypto security random generator. Developed with Java Spring Framework. Tested in Windows/Linux.
+Need Jre-1.8 - https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html.
+Source - https://github.com/harp077/pkg .
+If you like this - put a star on https://github.com/harp077/pkg/ for support project please.Free portable cross-platform multi-user password manager, 100%-pure Java. DB for each pkg-user is encrypted and protected by pkg-user hash. In addition - passwords in DB are stored in encrypted form. In result - stored passwords are double encrypted ! Passwords of pkg-users are not stored in program - stored and compared only hashes. Support md2, md5, sha1, sha256, sha384 and sha512 hash. Support export DB to CSV, HTML, XLS or XML and import from CSV, XLS or XML. Simple and intuitive GUI - Graphical User Interface. PKG use crypto security random generator. Developed with Java Spring Framework. Tested in Windows/Linux.
+Need Jre-1.8 - https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html.
+Source - https://github.com/harp077/pkg .
+If you like this - put a star on https://github.com/harp077/pkg/ for support project please.","Categories
+Security, Cryptography, Password Managers"
+"XOR encryption software for Windows. Generates random key files which it then uses to mimic the One-Time Pad encryption technique.
+
+Distributed together with RandFileGen, a program that can generate random files of any size and is extensible by plugins.XOR encryption software for Windows. Generates random key files which it then uses to mimic the One-Time Pad encryption technique.
+
+Distributed together with RandFileGen, a program that can generate random files of any size and is extensible by plugins.","Categories
+Security, Cryptography, Encryption"
+"This tool is created by a Technician for the Technicians.
+This will simplify your job on the Windows Operating System.
+Working with these systems, more often than not tasks like maintenance become perpetual.
+With that in mind, my ultimate goal and function of WinBOLT were simple, fool proof secure automation.
+WinBOLT automates the standard process of annoying Windows Updates, Malware Scans, running CCleaner etc.
+
+
+This tool is simple, effective and powerful.
+
+
+Check out our website!
+http://WinBOLT.net/
+
+
+Developed by Christian Vazquez
+https://Linkedin.com/in/TechnicianOnlineThis tool is created by a Technician for the Technicians.
+This will simplify your job on the Windows Operating System.
+Working with these systems, more often than not tasks like maintenance become perpetual.
+With that in mind, my ultimate goal and function of WinBOLT were simple, fool proof secure automation.
+WinBOLT automates the standard process of annoying Windows Updates, Malware Scans, running CCleaner etc.
+
+
+This tool is simple, effective and powerful.
+
+
+Check out our website!
+http://WinBOLT.net/
+
+
+Developed by Christian Vazquez
+https://Linkedin.com/in/TechnicianOnline","Categories
+Security, System, School Management"
+"The most advanced, powerful and yet beautiful penetration testing distribution ever created.Lined up with ultimate collection of tools for pro Ethical Hackers and Cyber Security Experts.
+
+Simplify security in your IT infrastructure with Cyborg. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment.The most advanced, powerful and yet beautiful penetration testing distribution ever created.Lined up with ultimate collection of tools for pro Ethical Hackers and Cyber Security Experts.
+
+Simplify security in your IT infrastructure with Cyborg. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment.","Categories
+Cybersecurity, Penetration Testing"
+"For each entry, this plugin allows to define a system-wide hot key that auto-types a specific sequence.
+
+Minimum required version: KeePass 2.24
+
+Installation:
+Just copy to KEEPASS_2_FOLDER/Plugins directory (If doesn't exists - create it)For each entry, this plugin allows to define a system-wide hot key that auto-types a specific sequence.
+
+Minimum required version: KeePass 2.24
+
+Installation:
+Just copy to KEEPASS_2_FOLDER/Plugins directory (If doesn't exists - create it)","Categories
+Enterprise, Password Managers"
+Online Signature Verification technology requires primarily a digitizing tablet and a special pen connected to the USB port of a computer. An individual can sign on the digitizing tablet using the special pen regardless of his signature size and position. The signature is characterized as pen-strokes consisting x-y coordinates and pressure with the data being stored in a signature database. Dynamic time warping (DTW) and quadratic discriminant analysis (QDA) is used to get results where the system accepts 2% of forged signatures and rejects 5% of true signaturesOnline Signature Verification technology requires primarily a digitizing tablet and a special pen connected to the USB port of a computer. An individual can sign on the digitizing tablet using the special pen regardless of his signature size and position. The signature is characterized as pen-strokes consisting x-y coordinates and pressure with the data being stored in a signature database. Dynamic time warping (DTW) and quadratic discriminant analysis (QDA) is used to get results where the system accepts 2% of forged signatures and rejects 5% of true signatures,"Categories
+Security, Algorithms, Bio-Informatics"
+"Program generates as many fake names as you want in lots of different languages. Works in Linux, *BSD & Windows.
+
+Version 2.0x saves the names to a file called filenames.txt , which you can load into a text editor. Currently v2.0x is the Latest Version.Program generates as many fake names as you want in lots of different languages. Works in Linux, *BSD & Windows.
+
+Version 2.0x saves the names to a file called filenames.txt , which you can load into a text editor. Currently v2.0x is the Latest Version.","Categories
+Security, Internet, Education"
+"Open-Hashtool is an easy2use Qt based application, which can be used to calculate the hash (MD4; MD5; SHA-1; SHA-224; SHA-256; SHA-384; SHA-512; SHA3-224; SHA3-256; SHA3-386; SHA3-512) of texts and files.
+
+It's compatible with Windows and Linux. But Linux users need Qt5.1 or Wine (configuration: Windows Version <= Windows 2008) to run the Open-Hashtool.
+Please read the Wiki for compiling instructions.Open-Hashtool is an easy2use Qt based application, which can be used to calculate the hash (MD4; MD5; SHA-1; SHA-224; SHA-256; SHA-384; SHA-512; SHA3-224; SHA3-256; SHA3-386; SHA3-512) of texts and files.
+
+It's compatible with Windows and Linux. But Linux users need Qt5.1 or Wine (configuration: Windows Version <= Windows 2008) to run the Open-Hashtool.
+Please read the Wiki for compiling instructions.","Categories
+Cryptography"
+"This is a plugin to KeePass <http://www.KeePass.info> to allow other plugins to check for updates using the latest file release on SourceForge. On it's own, it does nothing, but other plugins may require this one in order to provide version information when KeePass checks for upadesThis is a plugin to KeePass <http://www.KeePass.info> to allow other plugins to check for updates using the latest file release on SourceForge. On it's own, it does nothing, but other plugins may require this one in order to provide version information when KeePass checks for upades","Categories
+Password Managers"
+"A python script used to generate all possible password combinations for cracking WAP and other logins or password files.
+
+This program is open source. If you see the need to repair or change something by all means do so, but share your findings. *HONK*
+
+Usage: wordpie.py [-h] [-o OUTPUT] [-min MIN_SIZE] [-max MAX_SIZE] [-N] [-L] [-U] [-S] [-A] [-v]
+
+Generate a wordlist with all possible combinations of letters including:
+
+-L (Lowercase Letters)
+-U (Uppercase Letters)
+-N (Numbers)
+-S (Special Characters)
+-A (All Characters, Numbers, and Letters)
+
+-min (Minimum Size)
+-max (Maximum Size)
+
+-o outputfile.gz
+or
+-o stdout
+
+By default -o filename.gz to create a GZ compressed text file of all the words. Use the keyword ""stdout"" to print to screen or for use with other programs like Aircrack-ng or Medusa
+
+./wordpie.py | xargs -L 1 medusa -h 192.168.1.1 -u admin -M web-form -p
+
+./wordpie.py -o stdout -A | aircrack-ng -b XX:XX:XX:XX:XX:XX -w - *.capA python script used to generate all possible password combinations for cracking WAP and other logins or password files.
+
+This program is open source. If you see the need to repair or change something by all means do so, but share your findings. *HONK*
+
+Usage: wordpie.py [-h] [-o OUTPUT] [-min MIN_SIZE] [-max MAX_SIZE] [-N] [-L] [-U] [-S] [-A] [-v]
+
+Generate a wordlist with all possible combinations of letters including:
+
+-L (Lowercase Letters)
+-U (Uppercase Letters)
+-N (Numbers)
+-S (Special Characters)
+-A (All Characters, Numbers, and Letters)
+
+-min (Minimum Size)
+-max (Maximum Size)
+
+-o outputfile.gz
+or
+-o stdout
+
+By default -o filename.gz to create a GZ compressed text file of all the words. Use the keyword ""stdout"" to print to screen or for use with other programs like Aircrack-ng or Medusa
+
+./wordpie.py | xargs -L 1 medusa -h 192.168.1.1 -u admin -M web-form -p
+
+./wordpie.py -o stdout -A | aircrack-ng -b XX:XX:XX:XX:XX:XX -w - *.cap","Categories
+Cryptography, Wireless, Password Crackers"
+"Change log 1.01:
+1)Error fixed on clicking solve and arrow buttons in the vigenere decoder
+2)Error fixed when number of columns exceeds text length in substiution cipher
+3)Can now handle variable block length when changing columns
+4)Multiple identicle conversion values onn the frequency analysis page now not allowed
+
+This project is near its final stages but there may still be improvements to be made. If you could write some form of review or send me an email with advice I would greatly appreciate it.
+
+This is a series of three simple programs that will allow you to easily encrypt and decrypt text using any combination of substitutions, transpositions, vigenere ciphers or caesar shifts. The programs will not completely solve the ciphers for you haowever they will make it very clear to see how to solve them and ensure that there is no need for tedious manual work.Change log 1.01:
+1)Error fixed on clicking solve and arrow buttons in the vigenere decoder
+2)Error fixed when number of columns exceeds text length in substiution cipher
+3)Can now handle variable block length when changing columns
+4)Multiple identicle conversion values onn the frequency analysis page now not allowed
+
+This project is near its final stages but there may still be improvements to be made. If you could write some form of review or send me an email with advice I would greatly appreciate it.
+
+This is a series of three simple programs that will allow you to easily encrypt and decrypt text using any combination of substitutions, transpositions, vigenere ciphers or caesar shifts. The programs will not completely solve the ciphers for you haowever they will make it very clear to see how to solve them and ensure that there is no need for tedious manual work.","Categories
+Cryptography"
+"WAP automatic detects and corrects input validation vulnerabilities in web applications written in PHP Language (version 4.0 or higher) and with a low rate of false positives.
+
+WAP detects the following vulnerabilities:
+- SQL injection using MySQL, PostgreSQL and DB2 DBMS
+- Reflected cross-site scripting (XSS)
+- Stored XSS
+- Remote file inclusion
+- Local file inclusion
+- Directory traversal
+- Source code disclosure
+- OS command injection
+- PHP code injection
+
+WAP is a static analysis tool that performs taint analysis to detect vulnerabilities, tracking malicious users inputs and checking if they reach calls of sensitive functions. It has a low rate of false positives because has implemented a data mining module to predict false positives when detects vulnerabilities.
+
+The output of the tool is:
+- shows the vulnerabilities found and how they are corrected
+- new files with the correctionsWAP automatic detects and corrects input validation vulnerabilities in web applications written in PHP Language (version 4.0 or higher) and with a low rate of false positives.
+
+WAP detects the following vulnerabilities:
+- SQL injection using MySQL, PostgreSQL and DB2 DBMS
+- Reflected cross-site scripting (XSS)
+- Stored XSS
+- Remote file inclusion
+- Local file inclusion
+- Directory traversal
+- Source code disclosure
+- OS command injection
+- PHP code injection
+
+WAP is a static analysis tool that performs taint analysis to detect vulnerabilities, tracking malicious users inputs and checking if they reach calls of sensitive functions. It has a low rate of false positives because has implemented a data mining module to predict false positives when detects vulnerabilities.
+
+The output of the tool is:
+- shows the vulnerabilities found and how they are corrected
+- new files with the corrections","Categories
+Security, Source Code Analysis"
+"SecuXabber is a secure Jabber-client for Android that bases on Xabber and uses a strong, asymmetric enryption that works on top of the XMPP protocol. A key pair is generated on application start-up. Users can send their public key to other SecuXabber users via Bluetooth. This ensures the origin of the public key because people do a face-to-face check during key exchange. After the keys are imported by both users, all communication between them is done fully encrpyted using a strong 4096 bit end-to-end encryption.SecuXabber is a secure Jabber-client for Android that bases on Xabber and uses a strong, asymmetric enryption that works on top of the XMPP protocol. A key pair is generated on application start-up. Users can send their public key to other SecuXabber users via Bluetooth. This ensures the origin of the public key because people do a face-to-face check during key exchange. After the keys are imported by both users, all communication between them is done fully encrpyted using a strong 4096 bit end-to-end encryption.","Categories
+Cryptography, XMPP"
+"After Death is a handy and reliable program designed to detect autorun files on Flash drives, cleaning their traces thoroughly.
+
+By doing so, the application prevents such infections from restoring themselves the next time you insert the Flash drive into the computer.
+
+In addition, files that have been hidden by viruses will be made visible again.After Death is a handy and reliable program designed to detect autorun files on Flash drives, cleaning their traces thoroughly.
+
+By doing so, the application prevents such infections from restoring themselves the next time you insert the Flash drive into the computer.
+
+In addition, files that have been hidden by viruses will be made visible again.","Categories
+Antivirus"
+This is just an extremely basic key-logger.The source code is up so have fun. This key-logger stores it's logs inside of a text file known as Logs.txt. Later versions will contain a couple perks. I will release them in the coming weeks. This is for educational purposes only. I do not condone any nefarious uses for said keylogger. DO NOT USE ON ANY SYSTEM THAT IS NOT YOUR OWN. Also you must inform all users of said computer (if their are multiple accounts) that you will be using said program. I am not responsible for how you use this. (*Note: Looking for more positive criticism than actual publishing)This is just an extremely basic key-logger.The source code is up so have fun. This key-logger stores it's logs inside of a text file known as Logs.txt. Later versions will contain a couple perks. I will release them in the coming weeks. This is for educational purposes only. I do not condone any nefarious uses for said keylogger. DO NOT USE ON ANY SYSTEM THAT IS NOT YOUR OWN. Also you must inform all users of said computer (if their are multiple accounts) that you will be using said program. I am not responsible for how you use this. (*Note: Looking for more positive criticism than actual publishing),"Categories
+Security"
+"AttackVector Linux is a new distribution for anonymized penetration and security. It is based on Kali and TAILS, which are both based on Debian. While Kali requires a modified kernel for network drivers to use injection and so forth, the Tor Project's TAILS is designed from the bottom up for encryption, and anonymity. Nmap can't UDP via Tor. The intention of AttackVector Linux is to provide the capability to anonymize attacks while warning the user when he or she takes actions that may compromize anonymity. The two projects have different design philosophies that can directly conflict with one another. In spite of this, the goal of AttackVector Linux is to integrate them complementarily into one OS.AttackVector Linux is a new distribution for anonymized penetration and security. It is based on Kali and TAILS, which are both based on Debian. While Kali requires a modified kernel for network drivers to use injection and so forth, the Tor Project's TAILS is designed from the bottom up for encryption, and anonymity. Nmap can't UDP via Tor. The intention of AttackVector Linux is to provide the capability to anonymize attacks while warning the user when he or she takes actions that may compromize anonymity. The two projects have different design philosophies that can directly conflict with one another. In spite of this, the goal of AttackVector Linux is to integrate them complementarily into one OS.","Categories
+Security, Cryptography, Password Recovery"
+MyZone is a peer to peer social network that supports almost all features common in Facebook and Google+. In addition you can share unlimited mp3s and mp4s with your friends. MyZone does not downgrade the resolution of your photos and all established connections are encrypted using state of the art encryption techniques. MyZone is designed to be resilient towards cyber attacks especially DDoS attacks and government imposed censorships. MyZone should be an interesting social networking platform for users who are more concerned with the privacy of their profile information.MyZone is a peer to peer social network that supports almost all features common in Facebook and Google+. In addition you can share unlimited mp3s and mp4s with your friends. MyZone does not downgrade the resolution of your photos and all established connections are encrypted using state of the art encryption techniques. MyZone is designed to be resilient towards cyber attacks especially DDoS attacks and government imposed censorships. MyZone should be an interesting social networking platform for users who are more concerned with the privacy of their profile information.,"Categories
+Security, Software Development, Distributed Computing"
+"Polish version of Kali LINUX
+pentesting linux distroPolish version of Kali LINUX
+pentesting linux distro","Categories
+Security, OS distribution, Live CD"
+"With URC ACCESS MODES v3.0 we can have complete protection & control for our desktop/laptop with a password protected interface it has 6 best tools which includes :
+USB Tool & CD/DVD Tool,
+Registry(regedit.exe) Tool & Command Prompt(cmd.exe) Tool,
+Group Policy Tool(gpedit.msc) & Task Manager Tool(taskmgr.exe),
+
+With USB & CD Tools , Data Theft is Eliminated , No one can access our data without our permission since we can disable USB Mass Storage Devices such as Pen Drives , Hard Disk etc whereas your USB Peripheral Devices will work normal including USB Mouse, Keyboard, Webcam etc Also Virus Problem is Eliminated since no data is transferred it protects us from Viruses
+
+With Registry & Command Prompt Tools , Unauthorized Code Execution is Eliminated since we can disable command prompt & registry no one can write commands/registry entries manually and execute it Also Protection From Hackers since they can execute some codes via command prompt which may retrieve our dataWith URC ACCESS MODES v3.0 we can have complete protection & control for our desktop/laptop with a password protected interface it has 6 best tools which includes :
+USB Tool & CD/DVD Tool,
+Registry(regedit.exe) Tool & Command Prompt(cmd.exe) Tool,
+Group Policy Tool(gpedit.msc) & Task Manager Tool(taskmgr.exe),
+
+With USB & CD Tools , Data Theft is Eliminated , No one can access our data without our permission since we can disable USB Mass Storage Devices such as Pen Drives , Hard Disk etc whereas your USB Peripheral Devices will work normal including USB Mouse, Keyboard, Webcam etc Also Virus Problem is Eliminated since no data is transferred it protects us from Viruses
+
+With Registry & Command Prompt Tools , Unauthorized Code Execution is Eliminated since we can disable command prompt & registry no one can write commands/registry entries manually and execute it Also Protection From Hackers since they can execute some codes via command prompt which may retrieve our data","Categories
+Security"
+"Time based One Time Password Plugin to enable 2 step authentification (supports Google and Dropbox) by generating TOTPs from the KeePass tray icon. This plugin also provides a custom column to display and/or generate TOTP's. Auto-Type is also supported when the specified custom field is used in a keystroke sequence.
+This plugin requires KeePass 2.21 as it uses features that are not available in earlier versions.Time based One Time Password Plugin to enable 2 step authentification (supports Google and Dropbox) by generating TOTPs from the KeePass tray icon. This plugin also provides a custom column to display and/or generate TOTP's. Auto-Type is also supported when the specified custom field is used in a keystroke sequence.
+This plugin requires KeePass 2.21 as it uses features that are not available in earlier versions.","Categories
+Password Managers"
+"This software is made with the purpose of making easy the Unix/Linux Server management. Is made completly in Python, making this project as a OS independent.
+
+Was tested over Linux and Windows.
+
+For documentation go to http://www.life-microsystems.com/index.php/ecommands-documentationThis software is made with the purpose of making easy the Unix/Linux Server management. Is made completly in Python, making this project as a OS independent.
+
+Was tested over Linux and Windows.
+
+For documentation go to http://www.life-microsystems.com/index.php/ecommands-documentation","Categories
+System Shells, Systems Administration, Password Managers"
+"It Shows Asterix Password Like Outlook For Windows
+
+Compiled and Tested On Windows 7.
+
+Tested on Windows 10
+
+It works only desktop applications, not web pages.
+
+Note: Program compressed with exe packer program.It Shows Asterix Password Like Outlook For Windows
+
+Compiled and Tested On Windows 7.
+
+Tested on Windows 10
+
+It works only desktop applications, not web pages.
+
+Note: Program compressed with exe packer program.","Categories
+Security"
+The Trusted Platform Commander (TPC) is an open source software for the management of a Trusted Computing Platform (TCP) and its Trusted Platform Module (TPM). With an user-friendly Graphical User Interface (GUI) even not experienced user can maintain the TCP without any loss of security.The Trusted Platform Commander (TPC) is an open source software for the management of a Trusted Computing Platform (TCP) and its Trusted Platform Module (TPM). With an user-friendly Graphical User Interface (GUI) even not experienced user can maintain the TCP without any loss of security.,"Categories
+Security"
+"Antivirus Live CD is an official 4MLinux fork including the ClamAV scanner. It's designed for users who need a lightweight live CD, which will help them to protect their computers against viruses. Ethernet, WiFi, PPP and PPPoE are supported by Antivirus Live CD to enable automatic updates of its virus signature databases. All partitions are mounted during the boot process so that they can be scanned by ClamAV. The Antivirus Live CD ISO images are fully compatible with UNetbootin, which can be used to create an easy-to-use Antivirus Live USB.Antivirus Live CD is an official 4MLinux fork including the ClamAV scanner. It's designed for users who need a lightweight live CD, which will help them to protect their computers against viruses. Ethernet, WiFi, PPP and PPPoE are supported by Antivirus Live CD to enable automatic updates of its virus signature databases. All partitions are mounted during the boot process so that they can be scanned by ClamAV. The Antivirus Live CD ISO images are fully compatible with UNetbootin, which can be used to create an easy-to-use Antivirus Live USB.","Categories
+Antivirus"
+This tool will verify the credit card numbers entered is valid or not. Supports almost all brands.This tool will verify the credit card numbers entered is valid or not. Supports almost all brands.,"Categories
+Security, Algorithms"
+PwnPi is a Linux-based penetration testing dropbox distribution for the Raspberry Pi. It currently has 200+ network security tools pre-installed to aid the penetration tester. It is built a stripped down version of the Debian Wheezy image from the Raspberry Pi foundation's website and uses Openbox as the window manager. PwnPi can be easily setup to send reverse connections from inside a target network by editing a simple configuration file.PwnPi is a Linux-based penetration testing dropbox distribution for the Raspberry Pi. It currently has 200+ network security tools pre-installed to aid the penetration tester. It is built a stripped down version of the Debian Wheezy image from the Raspberry Pi foundation's website and uses Openbox as the window manager. PwnPi can be easily setup to send reverse connections from inside a target network by editing a simple configuration file.,"Categories
+Security, Penetration Testing"
+"Guardian add-on is a security program which works in conjunction with Snort to automaticly update firewall rules based on alerts generated by Snort.
+
+You must install Snort add-on ipcop v2 before :
+https://sourceforge.net/projects/snortaddonipcop/
+
+Last IPCOP version 2.1.8Guardian add-on is a security program which works in conjunction with Snort to automaticly update firewall rules based on alerts generated by Snort.
+
+You must install Snort add-on ipcop v2 before :
+https://sourceforge.net/projects/snortaddonipcop/
+
+Last IPCOP version 2.1.8","Categories
+Security"
+"Originally designed as a word list creation tool, thad0ctor's BT5 Toolkit has become an all purpose security script to help simplify many Backtrack 5 functions to help Pentesters strengthen their systems.
+
+The backbone of thad0ctor's Backtrack 5 Toolkit is the Wordlist Toolkit that contains a plethora of tools to create, modify, and manipulate word lists in order for end users to strengthen their systems by testing their passwords against a variety of tools designed to expose their pass phrases. In short it is the ultimate tool for those looking to make a wide variety of word lists for dictionary based and other brute force attacks.
+
+The toolkit is designed with usability in mind for the Backtrack 5R2 linux distro but will also work on BT5 R1 and other Ubuntu based distros if configured properly. The script is constantly updated with multiple revisions to include new cutting edge features and improvements in order to provide full spectrum wordlist creation capabilities.Originally designed as a word list creation tool, thad0ctor's BT5 Toolkit has become an all purpose security script to help simplify many Backtrack 5 functions to help Pentesters strengthen their systems.
+
+The backbone of thad0ctor's Backtrack 5 Toolkit is the Wordlist Toolkit that contains a plethora of tools to create, modify, and manipulate word lists in order for end users to strengthen their systems by testing their passwords against a variety of tools designed to expose their pass phrases. In short it is the ultimate tool for those looking to make a wide variety of word lists for dictionary based and other brute force attacks.
+
+The toolkit is designed with usability in mind for the Backtrack 5R2 linux distro but will also work on BT5 R1 and other Ubuntu based distros if configured properly. The script is constantly updated with multiple revisions to include new cutting edge features and improvements in order to provide full spectrum wordlist creation capabilities.","Categories
+Security"
+"MicroZip is a powerful file compression and encryption utility for mobile phones which allows you to create and extract compressed archives in multiple formats and encrypt sensitive information with powerful AES-256 encryption. MicroZip can create and extract ZIP,TAR,TGZ,TBZ2 archives and extract many other formats as JAR,GZ,BZ2,TBZ,WAR,BZIP2,GZIP,Z,TAZ,CBZ etc.
+MicroZip allows you to extract selected files without extracting the whole ZIP archive.
+MicroZip also supports encrypted ZIP archives with both classic ZIP encryption and AES 256 encryption algorithm.MicroZip is a powerful file compression and encryption utility for mobile phones which allows you to create and extract compressed archives in multiple formats and encrypt sensitive information with powerful AES-256 encryption. MicroZip can create and extract ZIP,TAR,TGZ,TBZ2 archives and extract many other formats as JAR,GZ,BZ2,TBZ,WAR,BZIP2,GZIP,Z,TAZ,CBZ etc.
+MicroZip allows you to extract selected files without extracting the whole ZIP archive.
+MicroZip also supports encrypted ZIP archives with both classic ZIP encryption and AES 256 encryption algorithm.","Categories
+Archiving, File Compression, Mobile, Encryption Algorithms"
+mod_csrf is a module for the Apache Web server. It prevents cross-site request forgery attacks to vulnerable HTML forms.mod_csrf is a module for the Apache Web server. It prevents cross-site request forgery attacks to vulnerable HTML forms.,"Categories
+Security"
+"Do you want to delete some top secret files? DON'T do that by only pressing DELETE, because the data would still be on your drive! Use Turbo Shredder and remove files by securely wiping them out.
+
+Requires JRE 7 to run properly.Do you want to delete some top secret files? DON'T do that by only pressing DELETE, because the data would still be on your drive! Use Turbo Shredder and remove files by securely wiping them out.
+
+Requires JRE 7 to run properly.","Categories
+Security"
+"Simple way to encode files and images in base64...
+
+Tutorial: http://www.youtube.com/watch?v=G1cQXnzOwcsSimple way to encode files and images in base64...
+
+Tutorial: http://www.youtube.com/watch?v=G1cQXnzOwcs","Categories
+Cryptography, Internet, Image Converters"
+"SaBackup creates incremental backups of your data. For this it utilizes Microsoft's Robocopy and the Volume Shadow Copy Service. You can use any file browser to access your backups, no special program is needed.SaBackup creates incremental backups of your data. For this it utilizes Microsoft's Robocopy and the Volume Shadow Copy Service. You can use any file browser to access your backups, no special program is needed.","Categories
+Backup, Encryption"
+A versatile gui and console application capable of generating and comparing hashes using a variety of popular hashing libraries.A versatile gui and console application capable of generating and comparing hashes using a variety of popular hashing libraries.,"Categories
+Security, Software Development"
+Simple file encryption utility with AES-256 for Windows 2000/2003/XP/Vista/7. Beside the standard enc/decryption operations has a Cut/Copy and Paste like interface.Simple file encryption utility with AES-256 for Windows 2000/2003/XP/Vista/7. Beside the standard enc/decryption operations has a Cut/Copy and Paste like interface.,"Categories
+Cryptography"
+"Smooth-Sec is a lightweight and fully-ready IDS/IPS (Intrusion Detection/Prevention System) Linux distribution based on Debian 7 (wheezy), available for 32 and 64 bit architecture. The distribution includes the latest version of Snorby, Snort, Suricata, PulledPork and Pigsty. An easy setup process allows to deploy a complete IDS/IPS System within minutes, even for security beginners with minimal Linux experience. Join the community, share your experiences, tips and ideas.Smooth-Sec is a lightweight and fully-ready IDS/IPS (Intrusion Detection/Prevention System) Linux distribution based on Debian 7 (wheezy), available for 32 and 64 bit architecture. The distribution includes the latest version of Snorby, Snort, Suricata, PulledPork and Pigsty. An easy setup process allows to deploy a complete IDS/IPS System within minutes, even for security beginners with minimal Linux experience. Join the community, share your experiences, tips and ideas.","Categories
+Security"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Cryptography"
+"StrongKey CryptoEngine (SKCE) 2.0 is a ""crypto Swiss Army knife"" server to perform cryptographic functions through web services, while freeing application developers to focus on business functionality. Its modules include:
+
+- A FIDO Engine to support FIDO U2F key registrations/authentications
+- An encryption engine to encrypt/decrypt files using AES/TDES keys
+- Escrowing keys to on-premises key management system (StrongAuth KeyAppliance/SAKA)
+- Integration to cloud storage services (AWS S3, Azure and Eucalyptus Walrus)
+- A signing engine to digitally sign documents, code, etc. with FIPS 140-2 HSM support
+- An LDAP Engine for AD/LDAP integration for authorization decisions
+
+SKCE is battle-tested and in production at one of the largest e-commerce companies in the world, protecting more than 50M documents within the business process; see http://bit.ly/14VPYlO for the case study.
+
+Download StrongKey CryptoCabinet (SKCC) on this site to see how to use SKCE.StrongKey CryptoEngine (SKCE) 2.0 is a ""crypto Swiss Army knife"" server to perform cryptographic functions through web services, while freeing application developers to focus on business functionality. Its modules include:
+
+- A FIDO Engine to support FIDO U2F key registrations/authentications
+- An encryption engine to encrypt/decrypt files using AES/TDES keys
+- Escrowing keys to on-premises key management system (StrongAuth KeyAppliance/SAKA)
+- Integration to cloud storage services (AWS S3, Azure and Eucalyptus Walrus)
+- A signing engine to digitally sign documents, code, etc. with FIPS 140-2 HSM support
+- An LDAP Engine for AD/LDAP integration for authorization decisions
+
+SKCE is battle-tested and in production at one of the largest e-commerce companies in the world, protecting more than 50M documents within the business process; see http://bit.ly/14VPYlO for the case study.
+
+Download StrongKey CryptoCabinet (SKCC) on this site to see how to use SKCE.","Categories
+Point of Sale (POS), Cryptography, Libraries"
+TCP over RDP tunneling toolTCP over RDP tunneling tool,"Categories
+Security, Networking"
+"SSL Diagnos is used to test SSL strength; get information about SSL protocols (pct, ssl2, ssl3, tls, dtls) and cipher suites. It can also be used for testing and rating ciphers on SSL clients. It has also specific support for pop3s, sip, smtp and explicit ftps.
+
+Tests for heartbleed (including dtls).
+
+Furthermore a separate tool, SSLPressure, not using openssl can be used to check the whole spectrum of possible SSL protocols on a server.
+
+Can also be used for testing ssl for mssql-servers (was added since nessus did not support this) and contains mitm poc for stripping ssl from mssql-connections.SSL Diagnos is used to test SSL strength; get information about SSL protocols (pct, ssl2, ssl3, tls, dtls) and cipher suites. It can also be used for testing and rating ciphers on SSL clients. It has also specific support for pop3s, sip, smtp and explicit ftps.
+
+Tests for heartbleed (including dtls).
+
+Furthermore a separate tool, SSLPressure, not using openssl can be used to check the whole spectrum of possible SSL protocols on a server.
+
+Can also be used for testing ssl for mssql-servers (was added since nessus did not support this) and contains mitm poc for stripping ssl from mssql-connections.","Categories
+Cryptography"
+"Feel like locking your mouse when you are away?
+Well... you can!
+
+Mouse Lock dims your desktop (or set to solid black background) while sucking your mouse cursor to the centre of the screen!
+
+The password window also acts like an inescapable mouse trap. Neat! (No mouse is harmed during the production of this software.)
+
+If you encounter any bugs, please contact me at wongchoonjie (at) gmail (dot) com.
+If you really like Mouse Lock, please consider donating ;) https://ko-fi.com/warmwolf
+
+Thanks!Feel like locking your mouse when you are away?
+Well... you can!
+
+Mouse Lock dims your desktop (or set to solid black background) while sucking your mouse cursor to the centre of the screen!
+
+The password window also acts like an inescapable mouse trap. Neat! (No mouse is harmed during the production of this software.)
+
+If you encounter any bugs, please contact me at wongchoonjie (at) gmail (dot) com.
+If you really like Mouse Lock, please consider donating ;) https://ko-fi.com/warmwolf
+
+Thanks!","Categories
+Security"
+"SCSI Tape Encryption Manager - Manages encryption on LTO 4 and LTO 5 tape drives with hardware-based encryption. Program should work on any other SSP capable tape drives. Built specifically for Linux and AIX. Now supports key change auditing and key descriptors (uKAD). Check the Project News under the Develop section for more information.
+
+Project source code has moved to https://github.com/scsitape/stencSCSI Tape Encryption Manager - Manages encryption on LTO 4 and LTO 5 tape drives with hardware-based encryption. Program should work on any other SSP capable tape drives. Built specifically for Linux and AIX. Now supports key change auditing and key descriptors (uKAD). Check the Project News under the Develop section for more information.
+
+Project source code has moved to https://github.com/scsitape/stenc","Categories
+Cryptography, Storage, Hardware, Encryption"
+"Perfenc is a encryption program that encrypts/decrypts files or the standard input with a one-time pad.
+More information about one-time pads is available at http://en.wikipedia.org/wiki/One-time_padPerfenc is a encryption program that encrypts/decrypts files or the standard input with a one-time pad.
+More information about one-time pads is available at http://en.wikipedia.org/wiki/One-time_pad","Categories
+Cryptography, Encryption"
+A generic web application fingerprinter that produces results by examining a small set of static files.A generic web application fingerprinter that produces results by examining a small set of static files.,"Categories
+Security, WWW/HTTP"
+"REL (Research and Education Language) is a simple but very powerfull language with a compiler, an interpreter and a verifier.REL (Research and Education Language) is a simple but very powerfull language with a compiler, an interpreter and a verifier.","Categories
+Security, Source Code Analysis, XML Parsers"
+"The Logging of User Actions in Relational Mode (LUARM) is a logging/audit engine designed to record in detail user actions in a Relational Database Management System (RDBMS). You can then have an organized 'who is doing what' view in your system, being able to easily correlate program execution, file access and network endpoint activity to user entities.The Logging of User Actions in Relational Mode (LUARM) is a logging/audit engine designed to record in detail user actions in a Relational Database Management System (RDBMS). You can then have an organized 'who is doing what' view in your system, being able to easily correlate program execution, file access and network endpoint activity to user entities.","Categories
+Security, Monitoring, Logging"
+"File Nuke, the Nuclear File Shredder! Whipe out suspicious data forever with this nuclear file removal tool ...File Nuke, the Nuclear File Shredder! Whipe out suspicious data forever with this nuclear file removal tool ...","Categories
+Security, System"
+"!! THIS PROJECT HAS MOVED TO GITHUB !!
+!! https://github.com/durzo/fail2sql !!
+
+Fail2SQL is an addon to Fail2Ban which logs information to a MySQL database. This information can then be used in reports, graphs or by third party programs to take further action such as permanent blocking, reporting to ISP etc.!! THIS PROJECT HAS MOVED TO GITHUB !!
+!! https://github.com/durzo/fail2sql !!
+
+Fail2SQL is an addon to Fail2Ban which logs information to a MySQL database. This information can then be used in reports, graphs or by third party programs to take further action such as permanent blocking, reporting to ISP etc.","Categories
+Security, Logging"
+Login system! mySQL /JDBC Demonstrates the use of secured Hash functions in javaLogin system! mySQL /JDBC Demonstrates the use of secured Hash functions in java,"Categories
+Database, Password Managers"
+"""Dynamic Behavioral Attestation for Mobile Platform"", Objective of Project is to develop a dynamic remote attestation technique for diverse computing environments enabled by mobile platforms and to implement remote attestation on mobile platforms.""Dynamic Behavioral Attestation for Mobile Platform"", Objective of Project is to develop a dynamic remote attestation technique for diverse computing environments enabled by mobile platforms and to implement remote attestation on mobile platforms.","Categories
+Security"
+ExploitMyUnion is a tool written in Python with a PyQt user interface made to automate sql injection exploitation.ExploitMyUnion is a tool written in Python with a PyQt user interface made to automate sql injection exploitation.,"Categories
+Security, WWW/HTTP"
+"A geoblock module created by Triple IT. It can be added to the IIS7 pipeline (now also on IIS 8.5). It uses the IPv4 address to determine the geographic location of the request by using maxminds geo IP file and takes action accordingly.
+
+Next to the module, 2 tools are included. 1 to quickly lookup the country for a specific IP address and 1 to help you automate the update of the MaxMind data file.
+
+An extensive manual is available to install and use the module.A geoblock module created by Triple IT. It can be added to the IIS7 pipeline (now also on IIS 8.5). It uses the IPv4 address to determine the geographic location of the request by using maxminds geo IP file and takes action accordingly.
+
+Next to the module, 2 tools are included. 1 to quickly lookup the country for a specific IP address and 1 to help you automate the update of the MaxMind data file.
+
+An extensive manual is available to install and use the module.","Categories
+Security, HTTP Servers"
+"pidCrypt is no longer maintained!
+
+pidCrypt is a crypto library offering modular cryptographic functions in JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256, SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible to OpenSSL.pidCrypt is no longer maintained!
+
+pidCrypt is a crypto library offering modular cryptographic functions in JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256, SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible to OpenSSL.","Categories
+Cryptography, Browsers, Libraries"
+"mendelson AS2 is a JAVA-based open source EDIINT AS2 solution. Logging- and configuration GUI (SWING), async & sync MDN, signatures, encryption, SSL, web interface, pluggable into any servlet container, TP manager, compression, optional profiles: MA, FNmendelson AS2 is a JAVA-based open source EDIINT AS2 solution. Logging- and configuration GUI (SWING), async & sync MDN, signatures, encryption, SSL, web interface, pluggable into any servlet container, TP manager, compression, optional profiles: MA, FN","Categories
+Communications, Enterprise, Cryptography"
+"The WiKID Strong Authentication System is a public-key based two-factor authentication system. It is a flexible, extensible, and secure alternative to tokens, certs and passwords. Application & API support exists for Java, ASP, PHP, Ruby, OpenVPN, TACACS+, etc.
+
+Read our eGuide on how to setup your network with two-factor authentication: http://www.wikidsystems.com/learn-more/two-factor-authentication-white-papersThe WiKID Strong Authentication System is a public-key based two-factor authentication system. It is a flexible, extensible, and secure alternative to tokens, certs and passwords. Application & API support exists for Java, ASP, PHP, Ruby, OpenVPN, TACACS+, etc.
+
+Read our eGuide on how to setup your network with two-factor authentication: http://www.wikidsystems.com/learn-more/two-factor-authentication-white-papers","Categories
+Security, Authentication/Directory, Networking"
+"The Koozali SME Server is the open source community side of the original e-smith server.
+
+SME Server consists of a modified Red Hat / CentOS Linux installation, together with a number of server applications as well as the server management web panel.
+
+Its strengths are its ease to use for anyone able to use a web interface, and its robustness, giving the ability to recover its initial state even after any upgrade.
+
+The server is designed for Small Offices and Home Offices to act as a gateway with a firewall web and email services, but fits also home user needs or even the needs as a simple and robust server only in the cloud to host your website projects and emails.The Koozali SME Server is the open source community side of the original e-smith server.
+
+SME Server consists of a modified Red Hat / CentOS Linux installation, together with a number of server applications as well as the server management web panel.
+
+Its strengths are its ease to use for anyone able to use a web interface, and its robustness, giving the ability to recover its initial state even after any upgrade.
+
+The server is designed for Small Offices and Home Offices to act as a gateway with a firewall web and email services, but fits also home user needs or even the needs as a simple and robust server only in the cloud to host your website projects and emails.","Categories
+Enterprise, Security, Networking"

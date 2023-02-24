@@ -1,0 +1,723 @@
+Description,Category
+"An APT repository hosting the Mozilla builds of the latest official releases of Firefox, Thunderbird, and Seamonkey. Do not manually download the files - read the wiki, https://sourceforge.net/p/ubuntuzilla/wiki/ for instructions on using the repository.An APT repository hosting the Mozilla builds of the latest official releases of Firefox, Thunderbird, and Seamonkey. Do not manually download the files - read the wiki, https://sourceforge.net/p/ubuntuzilla/wiki/ for instructions on using the repository.","Categories
+Software Distribution, Systems Administration, Installation/Setup"
+"Cyberoam iView; the Intelligent Logging & Reporting solution provides organizations network visibility across multiple devices to achieve higher levels of security, data confidentiality while meeting the requirements of regulatory compliance.
+
+To know more about Cyberoam and it’s security solutions visit us at www.cyberoam.com.Cyberoam iView; the Intelligent Logging & Reporting solution provides organizations network visibility across multiple devices to achieve higher levels of security, data confidentiality while meeting the requirements of regulatory compliance.
+
+To know more about Cyberoam and it’s security solutions visit us at www.cyberoam.com.","Categories
+Security, Monitoring, Logging, SIEM"
+User contributed components that extends the functionality of NHibernate. More information in the wiki: http://www.nhforge.org/wikis/. Development List: http://groups.google.com/group/nhcdevsUser contributed components that extends the functionality of NHibernate. More information in the wiki: http://www.nhforge.org/wikis/. Development List: http://groups.google.com/group/nhcdevs,"Categories
+Database, Code Generators, Search"
+"Data Crow allows you to use the standard movie & video (divx, xvid, DVD, Blu-ray, etc), book (and eBooks), images, games & software, music (mp3 and other music files) cataloging modules. Besides these modules, which you can change to fit your requirements, you can create new modules (want to catalogue your stamps, equipment, or anything else?).
+
+The GUI is skinnable.
+
+Reporting (using JasperReports and their community edition JasperSoft Developer Studio ), loan administration, item importing & exporting, backup & restore and many other optional features are waiting for you.Data Crow allows you to use the standard movie & video (divx, xvid, DVD, Blu-ray, etc), book (and eBooks), images, games & software, music (mp3 and other music files) cataloging modules. Besides these modules, which you can change to fit your requirements, you can create new modules (want to catalogue your stamps, equipment, or anything else?).
+
+The GUI is skinnable.
+
+Reporting (using JasperReports and their community edition JasperSoft Developer Studio ), loan administration, item importing & exporting, backup & restore and many other optional features are waiting for you.","Categories
+File Managers, Collection Management, Cataloguing"
+"GNOME Partition Editor for creating, reorganizing, and deleting disk partitions. It uses libparted from the parted project to detect and manipulate partition tables. Optional file system tools permit managing file systems not included in libparted.GNOME Partition Editor for creating, reorganizing, and deleting disk partitions. It uses libparted from the parted project to detect and manipulate partition tables. Optional file system tools permit managing file systems not included in libparted.","Categories
+Storage"
+"iperf was developed by NLANR/DAST as a modern alternative for measuring maximum TCP and UDP bandwidth performance. Iperf allows the tuning of various parameters and UDP characteristics. Iperf reports bandwidth, delay jitter, and datagram loss.
+
+iperf version 2 (in this repository) is no longer maintained by its original developers. Current ESnet development efforts are focused on version 3 of iperf (otherwise known as iperf3), which is available at:
+
+https://github.com/esnet/iperf
+http://software.es.net/iperf
+
+Meanwhile, a third party has taken up development and maintenance of iperf2. As of this update (November 2017), this work can be found in the following repository:
+
+https://sourceforge.net/projects/iperf2/iperf was developed by NLANR/DAST as a modern alternative for measuring maximum TCP and UDP bandwidth performance. Iperf allows the tuning of various parameters and UDP characteristics. Iperf reports bandwidth, delay jitter, and datagram loss.
+
+iperf version 2 (in this repository) is no longer maintained by its original developers. Current ESnet development efforts are focused on version 3 of iperf (otherwise known as iperf3), which is available at:
+
+https://github.com/esnet/iperf
+http://software.es.net/iperf
+
+Meanwhile, a third party has taken up development and maintenance of iperf2. As of this update (November 2017), this work can be found in the following repository:
+
+https://sourceforge.net/projects/iperf2/","Categories
+Monitoring"
+"The best USB Flash method is using Rofus to create a bootable USB
+Most common problem + easy fix: https://askubuntu.com/questions/985612/running-ubuntu-from-a-usb-failed-to-load-ldlinux-c32
+
+Please note: default password is pass
+Lonero OS is based off of the Lubuntu OS, and has a few adding things such as:
+1) The uncompiled source binaries of: GitPrep, SMesh, Kademlia, Beaker Browser, and VPNBook
+2) Telegram Desktop installed
+3) DuckDuckGo should be the default browser
+This project is part of an aim to create an open, distributed, censorship resistant operating system, and this is the beta of that.The best USB Flash method is using Rofus to create a bootable USB
+Most common problem + easy fix: https://askubuntu.com/questions/985612/running-ubuntu-from-a-usb-failed-to-load-ldlinux-c32
+
+Please note: default password is pass
+Lonero OS is based off of the Lubuntu OS, and has a few adding things such as:
+1) The uncompiled source binaries of: GitPrep, SMesh, Kademlia, Beaker Browser, and VPNBook
+2) Telegram Desktop installed
+3) DuckDuckGo should be the default browser
+This project is part of an aim to create an open, distributed, censorship resistant operating system, and this is the beta of that.","Categories
+Operating System Kernels, OS distribution, Live CD"
+"tkdiff is a graphical front end to the diff program. It provides a side-by-side view of the differences between two text files, along with several innovative features such as diff bookmarks, a graphical map of differences for quick navigation, and a facility for slicing diff regions to achieve exactly the merge output desired.tkdiff is a graphical front end to the diff program. It provides a side-by-side view of the differences between two text files, along with several innovative features such as diff bookmarks, a graphical map of differences for quick navigation, and a facility for slicing diff regions to achieve exactly the merge output desired.","Categories
+Source Code Analysis, Code Review, Diff Tools"
+"PHPfileNavigator is a PHP Open Source Web File Manager. Easy to install and use. All in CSS and Valid XHTML 1.1, allow manage all possibilities with files and folders.PHPfileNavigator is a PHP Open Source Web File Manager. Easy to install and use. All in CSS and Valid XHTML 1.1, allow manage all possibilities with files and folders.","Categories
+Site Management, File Managers"
+"Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes.
+
+It has application for both stand-alone systems and multi-user networks.Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes.
+
+It has application for both stand-alone systems and multi-user networks.","Categories
+WWW/HTTP, Firewall"
+"PostfixAdmin is a Web Based Management tool created for Postfix. It is a PHP based application that handles Postfix Style Virtual Domains and Users that are stored in MySQL, PostgreSQL or SQLitePostfixAdmin is a Web Based Management tool created for Postfix. It is a PHP based application that handles Postfix Style Virtual Domains and Users that are stored in MySQL, PostgreSQL or SQLite","Categories
+Email, Systems Administration, Email Servers"
+"p7zip is a quick port of 7z.exe and 7za.exe (command line version of 7zip, see www.7-zip.org) for Unix.
+7-Zip is a file archiver with highest compression ratio.
+Since 4.10, p7zip (like 7-zip) supports little-endian and big-endian machines.p7zip is a quick port of 7z.exe and 7za.exe (command line version of 7zip, see www.7-zip.org) for Unix.
+7-Zip is a file archiver with highest compression ratio.
+Since 4.10, p7zip (like 7-zip) supports little-endian and big-endian machines.","Categories
+File Compression, Backup, Application Packaging, File Archivers"
+"winPenPack is a project that aims at collecting the most frequently used and most popular open source applications made portable, so that they can be executed without installation from any USB Flash Drive or Hard Disk. The winPenPack suites offer a wide range of portable applications like office tools, internet tools, multimedia tools, development tools, security applications and other frequently used utilities. Everything you need, completely free, open source and portable!winPenPack is a project that aims at collecting the most frequently used and most popular open source applications made portable, so that they can be executed without installation from any USB Flash Drive or Hard Disk. The winPenPack suites offer a wide range of portable applications like office tools, internet tools, multimedia tools, development tools, security applications and other frequently used utilities. Everything you need, completely free, open source and portable!","Categories
+Communications, Office Suites, Security, System, Internet, Graphics"
+"Tools for Windows users with dual or multiple monitors. Has hotkeys for moving windows around, restrict mouse/cursor movement between screens, application launcher, wallpaper creator and changer and a screen capture tool.Tools for Windows users with dual or multiple monitors. Has hotkeys for moving windows around, restrict mouse/cursor movement between screens, application launcher, wallpaper creator and changer and a screen capture tool.","Categories
+Desktop Environment, System"
+"DeSmuME is the most seasoned open source Nintendo DS emulator. It sports tools designed for hackers, speedrunners, youtubers, and casual gamers. Homebrew programs are supported and can even be debugged through GDB.
+
+The Windows and OSX versions are both relatively feature rich, and there is a small universe of forks and mods that add even more features for casual gaming.
+
+DeSmuME is the origin of RetroArch and OpenEmu Nintendo DS support and is used by several mobile Nintendo DS emulators, with the notable exception of DraStic.
+
+DeSmuME's source code is now hosted at https://github.com/TASVideos/desmume/
+
+win32 autobuilds @ https://ci.appveyor.com/project/zeromus/desmume/build/artifactsDeSmuME is the most seasoned open source Nintendo DS emulator. It sports tools designed for hackers, speedrunners, youtubers, and casual gamers. Homebrew programs are supported and can even be debugged through GDB.
+
+The Windows and OSX versions are both relatively feature rich, and there is a small universe of forks and mods that add even more features for casual gaming.
+
+DeSmuME is the origin of RetroArch and OpenEmu Nintendo DS support and is used by several mobile Nintendo DS emulators, with the notable exception of DraStic.
+
+DeSmuME's source code is now hosted at https://github.com/TASVideos/desmume/
+
+win32 autobuilds @ https://ci.appveyor.com/project/zeromus/desmume/build/artifacts","Categories
+Games/Entertainment, Emulators"
+"Rufus is a standalone app designed to format and create a bootable USB drive for a large variety of ISOs. The app is just over 1MB in size and is notably faster than similar competitor apps such as the Windows 7 USB utility, Universal USB Installer, and UNetbootin.
+
+Rufus can come in handy when you need to simply format a USB drive, install an OS on a machine that lacks a CD/DVD-ROM drive, or when you need to boot an operating system temporarily without intentions of actually installing the media. This can be immensely useful while you're on the go or just need access to an OS for a temporary, isolated reason. The app can even be used to flash firmware to BIOS or other destinations by just using DOS.
+
+Even though Rufus is a tiny utility in comparison to other USB creation tools that can be rather bulky in size, it contends easily with the competition and creates bootable USB drives in record time!Rufus is a standalone app designed to format and create a bootable USB drive for a large variety of ISOs. The app is just over 1MB in size and is notably faster than similar competitor apps such as the Windows 7 USB utility, Universal USB Installer, and UNetbootin.
+
+Rufus can come in handy when you need to simply format a USB drive, install an OS on a machine that lacks a CD/DVD-ROM drive, or when you need to boot an operating system temporarily without intentions of actually installing the media. This can be immensely useful while you're on the go or just need access to an OS for a temporary, isolated reason. The app can even be used to flash firmware to BIOS or other destinations by just using DOS.
+
+Even though Rufus is a tiny utility in comparison to other USB creation tools that can be rather bulky in size, it contends easily with the competition and creates bootable USB drives in record time!","Categories
+System, OS distribution"
+"Rockstor is a Network Attached Storage (NAS) and private cloud storage solution based on advanced Linux technologies like BTRFS, Docker and others. In addition to standard NAS features like file sharing via NFS, Samba, SFTP and AFP, advanced features such as online volume management, CoW Snapshots, asynchronous replication, compression, and bitrot protection are supported based on BTRFS.
+
+Rockstor also provides apps like ownCloud, Syncthing, OpenVPN, and Plex to name a few. Apps or ""Rock-ons"" are powered by a Docker-based application hosting framework. And new ones can be simply added. These Rock-ons, combined with advanced NAS features, turn Rockstor into a private cloud storage solution accessible from anywhere, giving users complete control of cost, ownership, privacy and data security.
+
+Rockstor UI is written in Javascript, making it simple to manage everything from your Web browser. The backend is written in Python and exposes RESTful APIs to easily extend functionality!Rockstor is a Network Attached Storage (NAS) and private cloud storage solution based on advanced Linux technologies like BTRFS, Docker and others. In addition to standard NAS features like file sharing via NFS, Samba, SFTP and AFP, advanced features such as online volume management, CoW Snapshots, asynchronous replication, compression, and bitrot protection are supported based on BTRFS.
+
+Rockstor also provides apps like ownCloud, Syncthing, OpenVPN, and Plex to name a few. Apps or ""Rock-ons"" are powered by a Docker-based application hosting framework. And new ones can be simply added. These Rock-ons, combined with advanced NAS features, turn Rockstor into a private cloud storage solution accessible from anywhere, giving users complete control of cost, ownership, privacy and data security.
+
+Rockstor UI is written in Javascript, making it simple to manage everything from your Web browser. The backend is written in Python and exposes RESTful APIs to easily extend functionality!","Categories
+Storage, File Managers, Backup"
+"The tool is designed for IT Professionals to troubleshoot SMS/SCCM Client related Issues. The SCCM Client Center provides a quick and easy overview of client settings, including running services and SCCM settings in a good easy to use, user interface. Project has moved to: https://sccmclictr.codeplex.com/The tool is designed for IT Professionals to troubleshoot SMS/SCCM Client related Issues. The SCCM Client Center provides a quick and easy overview of client settings, including running services and SCCM settings in a good easy to use, user interface. Project has moved to: https://sccmclictr.codeplex.com/","Categories
+Software Distribution, Systems Administration"
+"JSmooth creates standard Windows executable files (.exe) that smartly launch java applications. It makes java deployment much smoother and user-friendly, as it is able to find and run Java VMs by itself, or help the user get one if none are available.JSmooth creates standard Windows executable files (.exe) that smartly launch java applications. It makes java deployment much smoother and user-friendly, as it is able to find and run Java VMs by itself, or help the user get one if none are available.","Categories
+Build Tools, Compilers, Software Distribution, Installation/Setup"
+"Ettercap is a multipurpose sniffer/interceptor/logger for switched LAN.
+It supports active and passive dissection of many protocols (even ciphered ones) and includes many feature for network and host analysis. Development has been moved to GitHub, https://github.com/Ettercap/ettercapEttercap is a multipurpose sniffer/interceptor/logger for switched LAN.
+It supports active and passive dissection of many protocols (even ciphered ones) and includes many feature for network and host analysis. Development has been moved to GitHub, https://github.com/Ettercap/ettercap","Categories
+Security, Monitoring, Logging"
+"Apcupsd is a program for monitoring UPSes and performing a graceful computer shutdown in the event of a power failure. It runs on Linux, Mac OS/X, Win32, BSD, Solaris, and other OSes.Apcupsd is a program for monitoring UPSes and performing a graceful computer shutdown in the event of a power failure. It runs on Linux, Mac OS/X, Win32, BSD, Solaris, and other OSes.","Categories
+Systems Administration, Battery Monitoring"
+"The archive-crawler project is building Heritrix: a flexible, extensible, robust, and scalable web crawler capable of fetching, archiving, and analyzing the full diversity and breadth of internet-accesible content.The archive-crawler project is building Heritrix: a flexible, extensible, robust, and scalable web crawler capable of fetching, archiving, and analyzing the full diversity and breadth of internet-accesible content.","Categories
+WWW/HTTP, Library, Archiving"
+"Bochs is a portable x86 PC emulation software package that emulates enough of the x86 CPU, related AT hardware, and BIOS to run Windows, Linux, *BSD, Minix, and other OS's, all on your workstation.Bochs is a portable x86 PC emulation software package that emulates enough of the x86 CPU, related AT hardware, and BIOS to run Windows, Linux, *BSD, Minix, and other OS's, all on your workstation.","Categories
+Emulators"
+"Clonezilla is a partition and disk imaging/cloning program similar to True Image®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).Clonezilla is a partition and disk imaging/cloning program similar to True Image®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).","Categories
+Backup, Systems Administration, Installation/Setup, Disk Cloning, Disk Imaging"
+"PHP Server Monitor is a script that checks whether your websites and servers are up and running. It comes with a web based user interface where you can manage your services and websites, and you can manage users for each server with a mobile number and email address.
+
+For services a connection will be made to the entered ip or domain, on the given port. This way you can check if certain services on your machine are still running. To check your IMAP service for example, enter port 143.
+
+For websites you can enter a link and it will check the HTTP status code. If the HTTP status code is in the 4xx range or a timeout, it means an error occurred and the tool will start sending out notifications. You can also set a regular expression to match for content on the page itself.
+
+Each server has its own settings regarding notification. You can choose for email, text message (SMS) and Pushover.net notifications.
+
+For more info please visit http://www.phpservermonitor.orgPHP Server Monitor is a script that checks whether your websites and servers are up and running. It comes with a web based user interface where you can manage your services and websites, and you can manage users for each server with a mobile number and email address.
+
+For services a connection will be made to the entered ip or domain, on the given port. This way you can check if certain services on your machine are still running. To check your IMAP service for example, enter port 143.
+
+For websites you can enter a link and it will check the HTTP status code. If the HTTP status code is in the 4xx range or a timeout, it means an error occurred and the tool will start sending out notifications. You can also set a regular expression to match for content on the page itself.
+
+Each server has its own settings regarding notification. You can choose for email, text message (SMS) and Pushover.net notifications.
+
+For more info please visit http://www.phpservermonitor.org","Categories
+Link Checking, Monitoring"
+"Racktables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!Racktables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!","Categories
+Front-Ends, Systems Administration, Networking"
+"htop is an interactive text-mode process viewer for Linux. It aims to be a better 'top'.
+
+http://hisham.hm/htophtop is an interactive text-mode process viewer for Linux. It aims to be a better 'top'.
+
+http://hisham.hm/htop","Categories
+Systems Administration"
+"Zenoss provides software-defined IT operations for the world’s largest organizations. We deliver the ultimate level of IT service health with simplicity by providing the most granular and intelligent IT service modeling possible, at any scale, and sharing these unique insights with other IT operations management (ITOM) tools to make them more efficient.
+
+Zenoss Community Edition is not a “demo” or trial version of Zenoss Enterprise or Zenoss Cloud! Before You install Zenoss Community Edition, check out Zenoss Cloud, our new Saas-based platform for intelligent IT operations management, designed for enterprise hybrid IT environments.
+
+https://www.zenoss.com/product/zenoss-cloud-it-operations-management
+
+Zenoss Cloud extends your monitoring capabilities well beyond those available in our Community Edition. View the differences here:
+
+https://www.zenoss.com/get-started
+
+Features of Zenoss Cloud include:Zenoss provides software-defined IT operations for the world’s largest organizations. We deliver the ultimate level of IT service health with simplicity by providing the most granular and intelligent IT service modeling possible, at any scale, and sharing these unique insights with other IT operations management (ITOM) tools to make them more efficient.
+
+Zenoss Community Edition is not a “demo” or trial version of Zenoss Enterprise or Zenoss Cloud! Before You install Zenoss Community Edition, check out Zenoss Cloud, our new Saas-based platform for intelligent IT operations management, designed for enterprise hybrid IT environments.
+
+https://www.zenoss.com/product/zenoss-cloud-it-operations-management
+
+Zenoss Cloud extends your monitoring capabilities well beyond those available in our Community Edition. View the differences here:
+
+https://www.zenoss.com/get-started
+
+Features of Zenoss Cloud include:","Categories
+Enterprise, Monitoring, Cloud Services"
+"Salix is a linux distribution based on Slackware that is simple and easy to use. Salix aims to be completely backwards compatible with Slackware, so Slackware users can benefit from Salix repositories.Salix is a linux distribution based on Slackware that is simple and easy to use. Salix aims to be completely backwards compatible with Slackware, so Slackware users can benefit from Salix repositories.","Categories
+OS distribution"
+SnapRAID is a backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures.SnapRAID is a backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures.,"Categories
+Backup, Home Theater PC"
+"The Sleuth Kit is a C++ library and collection of open source file system forensics tools that allow you to, among other things, view allocated and deleted data from NTFS, FAT, FFS, EXT2, Ext3, HFS+, and ISO9660 images.The Sleuth Kit is a C++ library and collection of open source file system forensics tools that allow you to, among other things, view allocated and deleted data from NTFS, FAT, FFS, EXT2, Ext3, HFS+, and ISO9660 images.","Categories
+Security, File Systems"
+"ChibiOS/RT is a free and efficient RTOS designed for deeply embedded applications. It offers a comprehensive set of kernel primitives and supports many architectures: ARM7, Cortex-M0, Cortex-M3, Cortex-M4, PowerPC e200z, STM8, AVR, MSP430, ColdFire, H8S, x86.ChibiOS/RT is a free and efficient RTOS designed for deeply embedded applications. It offers a comprehensive set of kernel primitives and supports many architectures: ARM7, Cortex-M0, Cortex-M3, Cortex-M4, PowerPC e200z, STM8, AVR, MSP430, ColdFire, H8S, x86.","Categories
+Software Development, Operating System Kernels, Embedded Systems"
+"Note: This project is no longer maintained on Sourceforge. Information here has mostly been left for historical purposes. PLEASE REFER TO THE OFFICIAL PROJECT PAGE AT https://github.com/phppgadmin. Thank You!
+
+phpPgAdmin is a fully functional web-based administration utility for a PostgreSQL database server. It handles all the basic functionality as well as some advanced features such as triggers, views, and functions (stored procs)Note: This project is no longer maintained on Sourceforge. Information here has mostly been left for historical purposes. PLEASE REFER TO THE OFFICIAL PROJECT PAGE AT https://github.com/phppgadmin. Thank You!
+
+phpPgAdmin is a fully functional web-based administration utility for a PostgreSQL database server. It handles all the basic functionality as well as some advanced features such as triggers, views, and functions (stored procs)","Categories
+Front-Ends, Dynamic Content, Systems Administration"
+Extundelete is a utility to undelete files from an ext3 or ext4 partition.Extundelete is a utility to undelete files from an ext3 or ext4 partition.,"Categories
+File Systems, Data Recovery"
+"This project has moved to http://wixtoolset.org.
+
+The WiX toolset is a set of tools that builds Windows installation packages from text source code. The toolset supports a command line environment that developers may integrate into their build processes to build setup packages for the Windows platform.This project has moved to http://wixtoolset.org.
+
+The WiX toolset is a set of tools that builds Windows installation packages from text source code. The toolset supports a command line environment that developers may integrate into their build processes to build setup packages for the Windows platform.","Categories
+Compilers, Installation/Setup"
+"MX Linux is a cooperative venture between the antiX and MX Linux communities. It is a family of operating systems that are designed to combine elegant and efficient desktops with high stability and solid performance. MX’s graphical tools provide an easy way to do a wide variety of tasks, while the Live USB and snapshot tools inherited from antiX add impressive portability and remastering capabilities. Extensive support is available through videos, documentation and a very friendly Forum.MX Linux is a cooperative venture between the antiX and MX Linux communities. It is a family of operating systems that are designed to combine elegant and efficient desktops with high stability and solid performance. MX’s graphical tools provide an easy way to do a wide variety of tasks, while the Live USB and snapshot tools inherited from antiX add impressive portability and remastering capabilities. Extensive support is available through videos, documentation and a very friendly Forum.","Categories
+OS distribution, Live CD"
+"crDroid is a free Android based ROM, bringing a lot of features that are most advanced in terms of customization and stability!crDroid is a free Android based ROM, bringing a lot of features that are most advanced in terms of customization and stability!","Categories
+OS distribution, ROMs"
+"Efficient Client-Server Backup system for Linux, macOS and Windows. A client for Windows, FreeBSD and Linux lets you backup open files and complete partition images (Windows). Backups are stored to disks in a efficient way (deduplication) on either Windows or Linux servers.Efficient Client-Server Backup system for Linux, macOS and Windows. A client for Windows, FreeBSD and Linux lets you backup open files and complete partition images (Windows). Backups are stored to disks in a efficient way (deduplication) on either Windows or Linux servers.","Categories
+Backup"
+Local Update Publisher allows system administrators to publish their own updates to Windows Server Update Services using WSUS local publishing.Local Update Publisher allows system administrators to publish their own updates to Windows Server Update Services using WSUS local publishing.,"Categories
+Software Distribution"
+Yabause is a portable Sega Saturn emulator.Yabause is a portable Sega Saturn emulator.,"Categories
+Games/Entertainment, Console Games, Emulators"
+HTB.init is a shell script derived from CBQ.init that allows for easy setup of HTB-based traffic control on Linux. HTB (Hierachical Token Bucket) is a new queueing discipline which attempts to address the weaknesses of current CBQ implementation.HTB.init is a shell script derived from CBQ.init that allows for easy setup of HTB-based traffic control on Linux. HTB (Hierachical Token Bucket) is a new queueing discipline which attempts to address the weaknesses of current CBQ implementation.,"Categories
+Networking, Internet"
+"Migrated to GitHub
+
+We have migrated our main development to GitHub: https://github.com/icinga
+
+Downloads have been moved: http://www.icinga.org/download/ for detailsMigrated to GitHub
+
+We have migrated our main development to GitHub: https://github.com/icinga
+
+Downloads have been moved: http://www.icinga.org/download/ for details","Categories
+Monitoring"
+ClusterSSH controls a number of xterm windows via a single graphical console window to allow commands to be interactively run on multiple servers over an ssh connection.ClusterSSH controls a number of xterm windows via a single graphical console window to allow commands to be interactively run on multiple servers over an ssh connection.,"Categories
+Terminal Emulators, Systems Administration, Installation/Setup, Clustering"
+http://processpriority.wiki.sourceforge.net/http://processpriority.wiki.sourceforge.net/,"Categories
+Software Development, System Shells, Multimedia"
+"Fink brings the full world of Unix Open Source software to Darwin and macOS. Packages are downloaded and built automatically and installed into a tree managed by dpkg, all with full dependency tracking.Fink brings the full world of Unix Open Source software to Darwin and macOS. Packages are downloaded and built automatically and installed into a tree managed by dpkg, all with full dependency tracking.","Categories
+Software Distribution, Installation/Setup"
+"This project contains the Linux kernel drivers for all Intel(R) Ethernet adapters and LOMs (LAN On Motherboard). To learn more about Intel Ethernet visit http://communities.intel.com/community/tech/wired
+
+Mailing list for out-of-tree Support:
+e1000-devel@lists.sourceforge.net
+
+Mailing list for in-kernel Support:
+intel-wired-lan@lists.osuosl.orgThis project contains the Linux kernel drivers for all Intel(R) Ethernet adapters and LOMs (LAN On Motherboard). To learn more about Intel Ethernet visit http://communities.intel.com/community/tech/wired
+
+Mailing list for out-of-tree Support:
+e1000-devel@lists.sourceforge.net
+
+Mailing list for in-kernel Support:
+intel-wired-lan@lists.osuosl.org","Categories
+Dynamic Content, Networking, Operating System Kernels, Hardware Drivers"
+"OpenSearchServer is a powerful, enterprise-class, search engine program. Using the web user interface, the crawlers (web, file, database, etc.) and the client libraries (REST/API , Ruby, Rails, Node.js, PHP, Perl) you will be able to integrate quickly and easily advanced full-text search capabilities in your application: Full-text with basic semantic, join queries, boolean queries, facet and filter, document (PDF, Office, etc.) indexation, web scrapping,etc. OpenSearchServer runs on Windows and Linux/Unix/BSD.OpenSearchServer is a powerful, enterprise-class, search engine program. Using the web user interface, the crawlers (web, file, database, etc.) and the client libraries (REST/API , Ruby, Rails, Node.js, PHP, Perl) you will be able to integrate quickly and easily advanced full-text search capabilities in your application: Full-text with basic semantic, join queries, boolean queries, facet and filter, document (PDF, Office, etc.) indexation, web scrapping,etc. OpenSearchServer runs on Windows and Linux/Unix/BSD.","Categories
+Enterprise, Search Engines, Search"
+"ZSNES is a SNES/Super Famicom emulator for x86 computers. It runs on Windows, MS-DOS and Linux/FreeBSD and supports mode 7, sound, Super FX, and a lot more.ZSNES is a SNES/Super Famicom emulator for x86 computers. It runs on Windows, MS-DOS and Linux/FreeBSD and supports mode 7, sound, Super FX, and a lot more.","Categories
+Games/Entertainment, Emulators"
+"A full-fledged autoclicker with two modes of autoclicking, at your dynamic cursor location or at a prespecified location. The maximum amounts of clicked can also be set (or left as infinite).
+
+Hotkeys work in the background for convenience.
+
+If you want to automate group of mouse actions, Please try this https://sourceforge.net/projects/orphamielautoclicker/files/AutoClickers.exe/download
+
+Whats new in v1.0.0.2:
+1. You can now change your hotkeys!
+2. Changed the about page
+3. Added a few minor options
+
+v1.0.0.1 :
+1. Your settings are now saved from your last session so you only need to enter them once. (Includes last fixed location)
+2. Added double clicking and triple clicking
+3. Added Right clicking and middle clickingA full-fledged autoclicker with two modes of autoclicking, at your dynamic cursor location or at a prespecified location. The maximum amounts of clicked can also be set (or left as infinite).
+
+Hotkeys work in the background for convenience.
+
+If you want to automate group of mouse actions, Please try this https://sourceforge.net/projects/orphamielautoclicker/files/AutoClickers.exe/download
+
+Whats new in v1.0.0.2:
+1. You can now change your hotkeys!
+2. Changed the about page
+3. Added a few minor options
+
+v1.0.0.1 :
+1. Your settings are now saved from your last session so you only need to enter them once. (Includes last fixed location)
+2. Added double clicking and triple clicking
+3. Added Right clicking and middle clicking","Categories
+Professional Services Automation, Auto Clicker"
+"Network Spoofer lets you change websites on other people’s computers from an Android phone. After downloading simply log onto a Wifi network, choose a spoof to use and press start.
+Please note that there is no intention for Network Spoofer to include any malicious features. This application is a fun demonstration of how vulnerable home networks are to simple attacks, with permission of the network owner - DO NOT attempt to use Network Spoofer on any corporate or other non-residential networks (eg. at school, university). It becomes very obvious when Network Spoofer is being used on a Network, and use of Network Spoofer will be considered malicious hacking by network administrators.
+
+Available on the Android Market.Network Spoofer lets you change websites on other people’s computers from an Android phone. After downloading simply log onto a Wifi network, choose a spoof to use and press start.
+Please note that there is no intention for Network Spoofer to include any malicious features. This application is a fun demonstration of how vulnerable home networks are to simple attacks, with permission of the network owner - DO NOT attempt to use Network Spoofer on any corporate or other non-residential networks (eg. at school, university). It becomes very obvious when Network Spoofer is being used on a Network, and use of Network Spoofer will be considered malicious hacking by network administrators.
+
+Available on the Android Market.","Categories
+WWW/HTTP, Networking"
+"This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.","Categories
+Terminals, Security, Software Development, Systems Administration, Networking, Internet"
+FLAC is a free lossless compressed audio format which supports streaming and archival. The FLAC project maintains the format and provides a reference encoder/decoder and input plugins for several popular audio players.FLAC is a free lossless compressed audio format which supports streaming and archival. The FLAC project maintains the format and provides a reference encoder/decoder and input plugins for several popular audio players.,"Categories
+Data Formats, File Compression, Audio Conversion, CD Audio"
+"Wireless Air Cut is a WPS wireless, portable and free network audit software for Ms Windows.
+
+It is used to check the security of our wps wireless networks and to detect possible security breaches.
+You can check if the router has a generic and known wps pin set, if it is vulnerable to a brute-force attack or is vulnerable to a Pixie-Dust attack.
+
+You can see the Installation instructions on Wiki.
+-------
+Wireless Air Cut es un software de auditoria del protocolo WPS en redes wireless, portable, libre y gratuito para Ms Windows.
+
+Sirve para comprobar la seguridad WPS de nuestras redes wireless y detectar posibles brechas de seguridad. Puede comprobar si el router tiene establecido un pin wps genérico y conocido, si es vulnerable a un ataque por fuerza bruta o si es vulnerable a un ataque Pixie-Dust.
+
+Ver Instrucciones de instalación en la wiki.Wireless Air Cut is a WPS wireless, portable and free network audit software for Ms Windows.
+
+It is used to check the security of our wps wireless networks and to detect possible security breaches.
+You can check if the router has a generic and known wps pin set, if it is vulnerable to a brute-force attack or is vulnerable to a Pixie-Dust attack.
+
+You can see the Installation instructions on Wiki.
+-------
+Wireless Air Cut es un software de auditoria del protocolo WPS en redes wireless, portable, libre y gratuito para Ms Windows.
+
+Sirve para comprobar la seguridad WPS de nuestras redes wireless y detectar posibles brechas de seguridad. Puede comprobar si el router tiene establecido un pin wps genérico y conocido, si es vulnerable a un ataque por fuerza bruta o si es vulnerable a un ataque Pixie-Dust.
+
+Ver Instrucciones de instalación en la wiki.","Categories
+Security, Cryptography, Wireless"
+"SBZ Switcher allows automated switching of Speakers/Headphones and more for Creative Sound Blaster Z-Series and Recon3D owners. while the master volume and mute controls are handled in the OS level, the switching mechanism is on-screen auto click based, thus is dependent on Sound Blaster Control Panel availability.
+SBZ Switcher is synchronized with the Sound Blaster Control Panel via registry, to display current info and switch accordingly.SBZ Switcher allows automated switching of Speakers/Headphones and more for Creative Sound Blaster Z-Series and Recon3D owners. while the master volume and mute controls are handled in the OS level, the switching mechanism is on-screen auto click based, thus is dependent on Sound Blaster Control Panel availability.
+SBZ Switcher is synchronized with the Sound Blaster Control Panel via registry, to display current info and switch accordingly.","Categories
+Audio Mixers, Home Automation"
+"Systemback makes it easy to create backups of the system and the users configuration files. In case of problems you can easily restore the previous state of the system. There are extra features like system copying, system installation and Live system creation.Systemback makes it easy to create backups of the system and the users configuration files. In case of problems you can easily restore the previous state of the system. There are extra features like system copying, system installation and Live system creation.","Categories
+Backup"
+CloseTheDoor indentifies all the listening ports TCP/UDP over IPv4/v6 and the associated program files. This will help you to detect security holes and close backdoors when you want to prevent remote attacks.CloseTheDoor indentifies all the listening ports TCP/UDP over IPv4/v6 and the associated program files. This will help you to detect security holes and close backdoors when you want to prevent remote attacks.,"Categories
+Security, Monitoring"
+"GDesk is a customizable and extendable desktop system for Symbian (UIQ 3, S60 3rd and 5th editions). Icons can be placed on the desktop representing applications, page links and plug-ins; these can then be launched by tapping them.GDesk is a customizable and extendable desktop system for Symbian (UIQ 3, S60 3rd and 5th editions). Icons can be placed on the desktop representing applications, page links and plug-ins; these can then be launched by tapping them.","Categories
+User Interface (UI), System Shells"
+"This is a system for fully automating Windows 2000 and XP installations, both OS and applications. See http://unattended.sourceforge.net/ for details.This is a system for fully automating Windows 2000 and XP installations, both OS and applications. See http://unattended.sourceforge.net/ for details.","Categories
+Unattended"
+JPPF makes it easy to parallelize computationally intensive tasks and execute them on a Grid.JPPF makes it easy to parallelize computationally intensive tasks and execute them on a Grid.,"Categories
+Frameworks, Clustering, Distributed Computing, Load Balancers"
+Multiband Atheros Driver for WiFi (MADWIFI): Linux driver for 802.11a/b/g Cardbus/PCI/MiniPCI cards using Atheros chipsets. *** Attention: homepage moved to http://madwifi-project.org - files from sf.net CVS deprecated! ***Multiband Atheros Driver for WiFi (MADWIFI): Linux driver for 802.11a/b/g Cardbus/PCI/MiniPCI cards using Atheros chipsets. *** Attention: homepage moved to http://madwifi-project.org - files from sf.net CVS deprecated! ***,"Categories
+Networking, Operating System Kernels"
+"XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.","Categories
+Text Processing, Other/Nonlisted Topic, Interpreters, System Shells"
+"GPT fdisk is a disk partitioning tool loosely modeled on Linux fdisk, but used for modifying GUID Partition Table (GPT) disks. The related FixParts utility fixes some common problems on Master Boot Record (MBR) disks.GPT fdisk is a disk partitioning tool loosely modeled on Linux fdisk, but used for modifying GUID Partition Table (GPT) disks. The related FixParts utility fixes some common problems on Master Boot Record (MBR) disks.","Categories
+Storage, Systems Administration"
+"DenyHosts is a python program that automatically blocks ssh attacks by adding entries to /etc/hosts.deny.
+
+DenyHosts will also inform Linux administrators about offending hosts, attacked users and suspicious logins.
+
+This project is being actively developed on GitHub (https://github.com/denyhosts)DenyHosts is a python program that automatically blocks ssh attacks by adding entries to /etc/hosts.deny.
+
+DenyHosts will also inform Linux administrators about offending hosts, attacked users and suspicious logins.
+
+This project is being actively developed on GitHub (https://github.com/denyhosts)","Categories
+Log Analysis, Systems Administration, Monitoring"
+"Info-ZIP portable compression/archiver utilities (Zip, UnZip, WiZ, etc.)Info-ZIP portable compression/archiver utilities (Zip, UnZip, WiZ, etc.)","Categories
+File Compression, Backup, Software Distribution"
+"Stella is a multi-platform Atari 2600 VCS emulator. It allows you to play all of your favorite Atari 2600 games again! Stella was originally developed for Linux by Bradford W. Mott, and is currently maintained by Stephen Anthony.Stella is a multi-platform Atari 2600 VCS emulator. It allows you to play all of your favorite Atari 2600 games again! Stella was originally developed for Linux by Bradford W. Mott, and is currently maintained by Stephen Anthony.","Categories
+Games/Entertainment, Emulators"
+PearPC is an architecture independent PowerPC platform emulator capable of running most PowerPC operating systems. It includes a JITC for x86-Processors.PearPC is an architecture independent PowerPC platform emulator capable of running most PowerPC operating systems. It includes a JITC for x86-Processors.,"Categories
+Emulators"
+"Included languages:
+English (en.miui.com, xiaomi.eu)
+Chinese (miui.com)
+Polish (Acid, miuipolska.pl)
+Slovak (ingbrzy, https://miuios.cz)
+Czech (VMach, https://miuios.cz)
+Bulgarian (Global)
+Hungarian (vagyula, miui.hu)
+French (Global)
+Swedish (Global)
+Russian (Global)
+Ukrainian (Global)
+Belorussian (Global)
+Croatian (Masva, MIUI Adria)
+Vietnamese (Belmont-Gabriel)
+Italian (miui.it)
+Greek (Global)
+Norwegian (Global)
+Dutch (cueie, mannyribo, redmaner)
+Spanish (nosijf982)
+Turkish (suatsari)
+Brazilian-Portuguese (Global, Feurrado, Lobianco)
+Portuguese (KcNirvana, Lippe35)
+Hebrew (Global)
+Romanian (ashtefan)
+German (muhamed89, cp82, dahool2016, and more)
+Catalan (deivids84)
+Korean (cjhyuky, bradly1, xiaomiqm)
+Slovenian (bostjan2016)
+Serbian (dudjaa)
+Thai (Global)
+Finnish (dogiex)
+Arabic (Global)
+Japanese (ScratchBuild)
+Burmese (Global)
+Danish (Global)Included languages:
+English (en.miui.com, xiaomi.eu)
+Chinese (miui.com)
+Polish (Acid, miuipolska.pl)
+Slovak (ingbrzy, https://miuios.cz)
+Czech (VMach, https://miuios.cz)
+Bulgarian (Global)
+Hungarian (vagyula, miui.hu)
+French (Global)
+Swedish (Global)
+Russian (Global)
+Ukrainian (Global)
+Belorussian (Global)
+Croatian (Masva, MIUI Adria)
+Vietnamese (Belmont-Gabriel)
+Italian (miui.it)
+Greek (Global)
+Norwegian (Global)
+Dutch (cueie, mannyribo, redmaner)
+Spanish (nosijf982)
+Turkish (suatsari)
+Brazilian-Portuguese (Global, Feurrado, Lobianco)
+Portuguese (KcNirvana, Lippe35)
+Hebrew (Global)
+Romanian (ashtefan)
+German (muhamed89, cp82, dahool2016, and more)
+Catalan (deivids84)
+Korean (cjhyuky, bradly1, xiaomiqm)
+Slovenian (bostjan2016)
+Serbian (dudjaa)
+Thai (Global)
+Finnish (dogiex)
+Arabic (Global)
+Japanese (ScratchBuild)
+Burmese (Global)
+Danish (Global)","Categories
+Software Development, OS distribution, ROMs"
+"Asuswrt-Merlin is a third party firmware for select Asus wireless routers. Based on the Asuswrt firmware developed by Asus, it brings tweaks, new features and other improvements to the original firmware, while retaining its performance and ease of use.
+
+Note that only downloads are hosted on SF.net - the complete source code can be found on https://github.com/RMerl/asuswrt-merlin (legacy 380.xx) and https://github.com/RMerl/asuswrt-merlin.ng (382 and newer releases).Asuswrt-Merlin is a third party firmware for select Asus wireless routers. Based on the Asuswrt firmware developed by Asus, it brings tweaks, new features and other improvements to the original firmware, while retaining its performance and ease of use.
+
+Note that only downloads are hosted on SF.net - the complete source code can be found on https://github.com/RMerl/asuswrt-merlin (legacy 380.xx) and https://github.com/RMerl/asuswrt-merlin.ng (382 and newer releases).","Categories
+Hardware"
+"ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).","Categories
+Operating System Kernels"
+"Pydio Cells is the mature open source alternative to dropbox and box, for the enterprise.
+
+Why building your own box?
+
+You need to access your documents across multiple devices, and regularly share documents (weblinks) and folders with your contacts and teams. Still, using a consumer SaaS box or drive service is neither practical nor safe. And enterprise SaaS box or drive services are expensive and come with Disk Storage that you already have on your servers or private cloud.
+
+How to build your own box with Pydio?
+
+Easily install Pydio on your servers or cloud of choice,
+Simply share documents and folders with your teams,
+Administrate your box with an Entreprise grade console (rights, groups, plug ins),
+Access documents with a Web Gui, Smartphones and tablet apps (iOS, Android),
+Sync folders on your computer (PC, Mac, Linux).Pydio Cells is the mature open source alternative to dropbox and box, for the enterprise.
+
+Why building your own box?
+
+You need to access your documents across multiple devices, and regularly share documents (weblinks) and folders with your contacts and teams. Still, using a consumer SaaS box or drive service is neither practical nor safe. And enterprise SaaS box or drive services are expensive and come with Disk Storage that you already have on your servers or private cloud.
+
+How to build your own box with Pydio?
+
+Easily install Pydio on your servers or cloud of choice,
+Simply share documents and folders with your teams,
+Administrate your box with an Entreprise grade console (rights, groups, plug ins),
+Access documents with a Web Gui, Smartphones and tablet apps (iOS, Android),
+Sync folders on your computer (PC, Mac, Linux).","Categories
+File Sharing, File Managers, Cloud Storage"
+"rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. rEFInd goes beyond rEFIt in that rEFInd better handles systems with many boot loaders, gives better control over the boot loader search process, and provides the ability for users to define their own boot loader entries.rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. rEFInd goes beyond rEFIt in that rEFInd better handles systems with many boot loaders, gives better control over the boot loader search process, and provides the ability for users to define their own boot loader entries.","Categories
+Boot"
+"SuperiorOS is a AOSP based ROM works on android Operating System . We trying to fullfil the demands of users regarding features , Stability & perfermanceSuperiorOS is a AOSP based ROM works on android Operating System . We trying to fullfil the demands of users regarding features , Stability & perfermance","Categories
+ROMs"
+Snappy Driver Installer Origin is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. The perfect technicians tool. Download the latest version from the home page below.Snappy Driver Installer Origin is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. The perfect technicians tool. Download the latest version from the home page below.,"Categories
+Installation/Setup, Hardware Drivers"
+"This project is no longer actively maintained. It is succeeded by the Eclipse RDF4J project, which can be found at GitHub and at http://www.rdf4j.org/.
+
+Sesame is a de-facto standard framework for processing RDF data. This includes parsing, scalable storage, reasoning and full SPARQL 1.1 query/update support. Sesame offers a fully modular toolkit and an easy-to-use Java API that can be connected to all leading RDF storage solutions.This project is no longer actively maintained. It is succeeded by the Eclipse RDF4J project, which can be found at GitHub and at http://www.rdf4j.org/.
+
+Sesame is a de-facto standard framework for processing RDF data. This includes parsing, scalable storage, reasoning and full SPARQL 1.1 query/update support. Sesame offers a fully modular toolkit and an easy-to-use Java API that can be connected to all leading RDF storage solutions.","Categories
+Storage, Libraries, Semantic Web"
+Unpacker for installations made by Inno SetupUnpacker for installations made by Inno Setup,"Categories
+Archiving, Installation/Setup"
+"Kernelloader is a free bootloader for PS2 Linux and other Playstation 2 operating systems. Loading can be done by ""Action Replay Media Player"", by ""memory card exploit"", by ""FMCB"" or any other homebrew loading method.
+If you downloaded the latest Linux Live DVD, you need to run the online updater to be able to play Youtube videos.Kernelloader is a free bootloader for PS2 Linux and other Playstation 2 operating systems. Loading can be done by ""Action Replay Media Player"", by ""memory card exploit"", by ""FMCB"" or any other homebrew loading method.
+If you downloaded the latest Linux Live DVD, you need to run the online updater to be able to play Youtube videos.","Categories
+Operating System Kernels, Boot"
+"Kwok Information Server is an open source IT management system, providing IT asset tracking (hardware inventory and software license), issue tracking (helpdesk), service contract management, vendor contact management, and knowledge base.Kwok Information Server is an open source IT management system, providing IT asset tracking (hardware inventory and software license), issue tracking (helpdesk), service contract management, vendor contact management, and knowledge base.","Categories
+Hardware, Knowledge Management"
+"REPOSITORY MOVED TO GITHUB!!
+https://github.com/medooze/media-server
+
+Video Multiconference Media Server with WebRTC support.
+
+Provide Multiconference and video broadcasting services to any SIP service.
+
+Supports VP8, H264, MP4V-ES, H263 and H263P, continuous presence, RTMP flash broadcasting, adhoc conferences, load balancing and administrative WEB interface.
+
+JSR309 driver implementation under development.
+
+.REPOSITORY MOVED TO GITHUB!!
+https://github.com/medooze/media-server
+
+Video Multiconference Media Server with WebRTC support.
+
+Provide Multiconference and video broadcasting services to any SIP service.
+
+Supports VP8, H264, MP4V-ES, H263 and H263P, continuous presence, RTMP flash broadcasting, adhoc conferences, load balancing and administrative WEB interface.
+
+JSR309 driver implementation under development.
+
+.","Categories
+Streaming, VoIP, Video Conferencing, SIP Servers, Load Balancers"
+"phpFileManager is a complete filesystem management tool on a single file.
+
+This is a tool meant for rapid file access, and also to verify the server php configuration and security.
+The script can be renamed and deployed on an unique known url, and offers password protection.
+
+Online Demo: http://phpfm-demo.dulldusk.com
+Feel free to mess around! This is a public demo installation, and will reset itself every hour.phpFileManager is a complete filesystem management tool on a single file.
+
+This is a tool meant for rapid file access, and also to verify the server php configuration and security.
+The script can be renamed and deployed on an unique known url, and offers password protection.
+
+Online Demo: http://phpfm-demo.dulldusk.com
+Feel free to mess around! This is a public demo installation, and will reset itself every hour.","Categories
+Terminal Emulators, File Systems"
+"This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)","Categories
+Desktop Environment, Usability, Clipboard Managers"
+SharpEnviro is a GPL (Copyleft) Windows Shell Replacement created in Delphi.SharpEnviro is a GPL (Copyleft) Windows Shell Replacement created in Delphi.,"Categories
+Desktop Environment, System Shells"
+"BrazilFW is a mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers. An old PC running BrazilFW is much more powerful and efficient than commercial software for routing in offices and residences running on a ""powerful"" computer.
+BrazilFW is based on Coyote Linux, which was designed by Joshua Jackson who discontinued Coyote Linux in version 2.24 in August 2005. In that same month comes on the scene BrazilFW Firewall and Router (BFW) with version 2.24, which is led by ""Claudio"" and ""Marcelo - Brazil"", running only on floppy disks, and being 2.30.1 the last version with this support . The following versions, as well having automatic detection of network cards, only run on large capacity media, such as hard disk (HD).
+Versions in Development:
+* 2.33.x: Uses kernel 2.4.x and is developed by Marcinho Samurai.
+* 3.x: Uses kernel 4.x and is developed by WoshManBrazilFW is a mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers. An old PC running BrazilFW is much more powerful and efficient than commercial software for routing in offices and residences running on a ""powerful"" computer.
+BrazilFW is based on Coyote Linux, which was designed by Joshua Jackson who discontinued Coyote Linux in version 2.24 in August 2005. In that same month comes on the scene BrazilFW Firewall and Router (BFW) with version 2.24, which is led by ""Claudio"" and ""Marcelo - Brazil"", running only on floppy disks, and being 2.30.1 the last version with this support . The following versions, as well having automatic detection of network cards, only run on large capacity media, such as hard disk (HD).
+Versions in Development:
+* 2.33.x: Uses kernel 2.4.x and is developed by Marcinho Samurai.
+* 3.x: Uses kernel 4.x and is developed by WoshMan","Categories
+Firewall"
+"Create zip files, extract zip files, replace text in files, search in files using expressions, stream text editor, instant command line ftp and http server, send folder via network, copy folder excluding sub folders and files, find duplicate files, run a command on all files of a folder, split and join large files, make md5 checksum lists of files, remove tab characters, convert CR/LF, list newest or biggest files of a folder, compare folders, treesize, show first or last lines of a file, find filenames fast using index files, rename many files using expressions, copy part of a file, change times of a file, set file time from filename, print colored text to terminal, convert csv to tab separated, download files from web, send http or udp requests, print tcp or udp traffic, create hexdump of files, join many text files into one, list nested .zip .tar .tar.gz .tar.bz2 archive contents. Fully portable, for USB stick, without installation. For Windows, Linux and Mac OS/X.Create zip files, extract zip files, replace text in files, search in files using expressions, stream text editor, instant command line ftp and http server, send folder via network, copy folder excluding sub folders and files, find duplicate files, run a command on all files of a folder, split and join large files, make md5 checksum lists of files, remove tab characters, convert CR/LF, list newest or biggest files of a folder, compare folders, treesize, show first or last lines of a file, find filenames fast using index files, rename many files using expressions, copy part of a file, change times of a file, set file time from filename, print colored text to terminal, convert csv to tab separated, download files from web, send http or udp requests, print tcp or udp traffic, create hexdump of files, join many text files into one, list nested .zip .tar .tar.gz .tar.bz2 archive contents. Fully portable, for USB stick, without installation. For Windows, Linux and Mac OS/X.","Categories
+Text Processing, File Managers, Duplicate File Finders"
+"Lossless compressor for multichannel 8,16 and 24 bits audio data, with the ability of password data protection. Being 'lossless' means that no data/quality is lost in the compression - when uncompressed, the data will be identical to the original.Lossless compressor for multichannel 8,16 and 24 bits audio data, with the ability of password data protection. Being 'lossless' means that no data/quality is lost in the compression - when uncompressed, the data will be identical to the original.","Categories
+File Compression, Audio Conversion, CD Audio"
+"========================
+Extra! Extra! Read all about it!
+The next generation of YFi Hotspot Manager is now available.
+It is called RADIUSdesk and packed with goodies.
+
+https://sourceforge.net/projects/radiusdesk/
+===========================
+
+Modern Ajax web front-end for FreeRADIUS 2.x.
+Supports: vouchers, permanent users, billing post paid and pre-paid. Multi language support.
+Stats.
+Works with CoovaChilli and Mikrotik.
+Runs on Ubuntu and CentOS.
+Thorough documentation.
+
+Can be downloaded as a virtual appliance in order to be up and running within minutes.
+Can be used as a standard RADIUS server.========================
+Extra! Extra! Read all about it!
+The next generation of YFi Hotspot Manager is now available.
+It is called RADIUSdesk and packed with goodies.
+
+https://sourceforge.net/projects/radiusdesk/
+===========================
+
+Modern Ajax web front-end for FreeRADIUS 2.x.
+Supports: vouchers, permanent users, billing post paid and pre-paid. Multi language support.
+Stats.
+Works with CoovaChilli and Mikrotik.
+Runs on Ubuntu and CentOS.
+Thorough documentation.
+
+Can be downloaded as a virtual appliance in order to be up and running within minutes.
+Can be used as a standard RADIUS server.","Categories
+Wireless, Monitoring, Router"
+"SimpleID is a simple, personal OpenID provider written in PHP.SimpleID is a simple, personal OpenID provider written in PHP.","Categories
+WWW/HTTP, Authentication/Directory"
+"This an application launcher for removable drives (although it can also be used as a normal application). Rather than organizing the apps as a list like the Windows Start menu, they are organized in a tool bar a bit similar to the Mac OSX dock bar.This an application launcher for removable drives (although it can also be used as a normal application). Rather than organizing the apps as a list like the Windows Start menu, they are organized in a tool bar a bit similar to the Mac OSX dock bar.","Categories
+File Managers"
+"Greenstone is a complete digital library creation, management and distribution package created and distributed by the New Zealand Digital Library Project.
+
+There are two major versions of the software. Greenstone 3 is under active development, and is recommended for download. We also provide maintenance releases for its forerunner, Greenstone 2.
+
+Featured download not what you're looking for? Click ""Browse all files"" to access binaries and source releases of both versions.Greenstone is a complete digital library creation, management and distribution package created and distributed by the New Zealand Digital Library Project.
+
+There are two major versions of the software. Greenstone 3 is under active development, and is recommended for download. We also provide maintenance releases for its forerunner, Greenstone 2.
+
+Featured download not what you're looking for? Click ""Browse all files"" to access binaries and source releases of both versions.","Categories
+Search Engines, Archiving, Multimedia"
+"Xymon is a system for monitoring of hosts and networks, inspired by the Big Brother system. It provides real-time monitoring, an easy web-interface, historical data, availability reports and performance graphs.Xymon is a system for monitoring of hosts and networks, inspired by the Big Brother system. It provides real-time monitoring, an easy web-interface, historical data, availability reports and performance graphs.","Categories
+Systems Administration, Monitoring"
+"*** THIS SITE IS NO LONGER MAINTAINED, PLEASE GO TO ***
+
+https://www.keka.io*** THIS SITE IS NO LONGER MAINTAINED, PLEASE GO TO ***
+
+https://www.keka.io","Categories
+File Compression, Backup, Application Packaging"
+"FreeNAS is an Open Source Storage Platform and supports sharing across Windows, Apple, and UNIX-like systems. It includes ZFS (high storage capacities and integrates file systems and volume management into a single piece of software).
+
+Note: This project is currently inactive on sourceforge as it has moved to github (see https://github.com/freenas)FreeNAS is an Open Source Storage Platform and supports sharing across Windows, Apple, and UNIX-like systems. It includes ZFS (high storage capacities and integrates file systems and volume management into a single piece of software).
+
+Note: This project is currently inactive on sourceforge as it has moved to github (see https://github.com/freenas)","Categories
+Storage"
+Snappy Driver Installer is an application for installing/updating drivers on PCs running Microsoft Windows using driverpacks or included folders with drivers. It can be used to install drivers on newly assembled PCs at places where Internet isn't available. Users can also use the software to keep their drivers up to date.Snappy Driver Installer is an application for installing/updating drivers on PCs running Microsoft Windows using driverpacks or included folders with drivers. It can be used to install drivers on newly assembled PCs at places where Internet isn't available. Users can also use the software to keep their drivers up to date.,"Categories
+Installation/Setup, Hardware, Hardware Drivers"
+A distutils extension to create standalone windows programs from python scripts.A distutils extension to create standalone windows programs from python scripts.,"Categories
+Build Tools, Software Distribution"
+"LogicalDOC is both document management and collaboration system. The software is loaded with many functions and allows organizing, index, retrieving, controlling and distributing important business documents securely and safely for any organization and individual.
+
+Gone are the days when companies used paper-based processes such as printing, mailing and manual filing of paper documents; our document management system replaces all of this with electronic procedures that allow your organization to reduce costs significantly.
+
+Check out https://www.logicaldoc.com to learn more.
+
+The design of LogicalDOC is based on best-of-breed Java technologies in order to provide a reliable DMS platform. The main interface is web-based, no need to install anything else; users can access the system through their browser.
+
+LogicalDOC CE is 100% free software and is packaged with an open source database; while it supports all major DBMS, developers still recommend MySQL for production systems.LogicalDOC is both document management and collaboration system. The software is loaded with many functions and allows organizing, index, retrieving, controlling and distributing important business documents securely and safely for any organization and individual.
+
+Gone are the days when companies used paper-based processes such as printing, mailing and manual filing of paper documents; our document management system replaces all of this with electronic procedures that allow your organization to reduce costs significantly.
+
+Check out https://www.logicaldoc.com to learn more.
+
+The design of LogicalDOC is based on best-of-breed Java technologies in order to provide a reliable DMS platform. The main interface is web-based, no need to install anything else; users can access the system through their browser.
+
+LogicalDOC CE is 100% free software and is packaged with an open source database; while it supports all major DBMS, developers still recommend MySQL for production systems.","Categories
+File Managers, Content Management Systems (CMS), Knowledge Management, Document Management"
+"PeaZip is a free archiver tool. The application provides an unified, natively portable, cross-platform file manager and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
+
+Create: 7Z, ARC, Brotl, BZip, GZip, PEA, TAR, WIM, XZ, ZPAQ, ZIP, Zstandard files and more
+
+Open and extract 200+ file types: ACE, CAB, DEB, ISO, RAR, ZIPX and more
+
+Features of PeaZip includes extract, create and convert multiple archives at once, create self-extracting archives (sfx), split files, strong encryption with two factor authentication, encrypted password manager, secure deletion, find duplicate files, calculate hashes, export task definition as command line script.PeaZip is a free archiver tool. The application provides an unified, natively portable, cross-platform file manager and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
+
+Create: 7Z, ARC, Brotl, BZip, GZip, PEA, TAR, WIM, XZ, ZPAQ, ZIP, Zstandard files and more
+
+Open and extract 200+ file types: ACE, CAB, DEB, ISO, RAR, ZIPX and more
+
+Features of PeaZip includes extract, create and convert multiple archives at once, create self-extracting archives (sfx), split files, strong encryption with two factor authentication, encrypted password manager, secure deletion, find duplicate files, calculate hashes, export task definition as command line script.","Categories
+File Managers, Archiving, File Compression, Hash Calculators"
+"Salient OS is an arch-based rolling-release distribution aimed at multi-media / gaming enthusiasts. It comes pre-configured with various applications out of the box to aid you in getting started quickly without having to download these applications yourself.
+
+The default user is 'liveuser' with no password, although auto login is enabled for the live session.
+
+The installer can be found in the main menu under the System category, namely, Install Salient OS. Salient OS uses the Calamares Installer by default. By default the installer auto loads at the desktop.
+
+For gamers utilising esync/dxvk, lutris/steam proton, the system and security limits have been configured accordingly to give the best performance out of the box saving you these additional steps.
+
+Essentially, there are two versions of Salient OS, XFCE and an KDE Plasma version.
+
+** Note: Please do not submit this project to DistroWatch yet!Salient OS is an arch-based rolling-release distribution aimed at multi-media / gaming enthusiasts. It comes pre-configured with various applications out of the box to aid you in getting started quickly without having to download these applications yourself.
+
+The default user is 'liveuser' with no password, although auto login is enabled for the live session.
+
+The installer can be found in the main menu under the System category, namely, Install Salient OS. Salient OS uses the Calamares Installer by default. By default the installer auto loads at the desktop.
+
+For gamers utilising esync/dxvk, lutris/steam proton, the system and security limits have been configured accordingly to give the best performance out of the box saving you these additional steps.
+
+Essentially, there are two versions of Salient OS, XFCE and an KDE Plasma version.
+
+** Note: Please do not submit this project to DistroWatch yet!","Categories
+Live CD"
+"Grub2Win is completely free and open source. All modules are digitally signed for your security.
+
+Safely multiboot Windows and Linux systems on both GPT and MBR disks.
+
+Works with both EFI and BIOS firmware. Supports Windows 11, 10, 8, 7 and XP.
+
+Grub2Win boots native GNU Grub version 2.06 code. Everything is installed to a single 20 MB directory on your Windows C: drive. The install also copies a few small boot modules to your EFI partition.
+
+Automatically generates config files for PhoenixOS, Android, Ubuntu, Debian, Suse, Fedora, Manjaro, Mint, Clover and Windows. You can import Linux config files for most other distributions.
+
+Please Note: ChromeOS is not supported by Grub2Win,
+
+You can enter your own custom commands for each menu entry.
+
+Grub2Win began in 2010. It has been downloaded more than a million times in 180 countries worldwide.
+
+If you find Grub2Win useful, please consider making a small donation to be used for hardware and testing.Grub2Win is completely free and open source. All modules are digitally signed for your security.
+
+Safely multiboot Windows and Linux systems on both GPT and MBR disks.
+
+Works with both EFI and BIOS firmware. Supports Windows 11, 10, 8, 7 and XP.
+
+Grub2Win boots native GNU Grub version 2.06 code. Everything is installed to a single 20 MB directory on your Windows C: drive. The install also copies a few small boot modules to your EFI partition.
+
+Automatically generates config files for PhoenixOS, Android, Ubuntu, Debian, Suse, Fedora, Manjaro, Mint, Clover and Windows. You can import Linux config files for most other distributions.
+
+Please Note: ChromeOS is not supported by Grub2Win,
+
+You can enter your own custom commands for each menu entry.
+
+Grub2Win began in 2010. It has been downloaded more than a million times in 180 countries worldwide.
+
+If you find Grub2Win useful, please consider making a small donation to be used for hardware and testing.","Categories
+Boot"
+"openQRM is a web-based open source datacenter management and hybrid cloud computing platform that integrates flexibly with existing components in enterprise data centers.
+
+Legacy Release available on Sourceforge. Please visit http://www.openqrm-enterprise.com/index-2.html for latest 5.3 free Community Release. Includes important security updates, bugfixes and enhancements especially for KVM and Cloud plugin.
+
+openQRM abstracts Virtualization and supports the following virtualization technologies: KVM, XEN, Citrix XenServer, VMWare ESX, LXC, OpenVZ.
+
+The Hybrid Cloud Connector in openQRM supports a range of private or public cloud providers to extend your infrastructure on demand via Amazon AWS, Eucalyptus or OpenStack.
+
+openQRM automates provisioning, virtualization, storage and configuration management, and it takes care of high-availability. A self-service cloud portal with integrated billing system enables end-users to request new servers and application stacks on-demanopenQRM is a web-based open source datacenter management and hybrid cloud computing platform that integrates flexibly with existing components in enterprise data centers.
+
+Legacy Release available on Sourceforge. Please visit http://www.openqrm-enterprise.com/index-2.html for latest 5.3 free Community Release. Includes important security updates, bugfixes and enhancements especially for KVM and Cloud plugin.
+
+openQRM abstracts Virtualization and supports the following virtualization technologies: KVM, XEN, Citrix XenServer, VMWare ESX, LXC, OpenVZ.
+
+The Hybrid Cloud Connector in openQRM supports a range of private or public cloud providers to extend your infrastructure on demand via Amazon AWS, Eucalyptus or OpenStack.
+
+openQRM automates provisioning, virtualization, storage and configuration management, and it takes care of high-availability. A self-service cloud portal with integrated billing system enables end-users to request new servers and application stacks on-deman","Categories
+Enterprise, Systems Administration, Operating System Kernels, Clustering, Distributed Computing"
+"Thinstation is a thin client linux distro using std. x86 hw. It can boot from network, pxe, syslinux, CD, floppy or flash-disk and connect to servers using VNC, RDP, XDM, SSH, Telnet, tn5250, tarentella, 2X, NX, Thinlinc, VMWare VDI or ICA.Thinstation is a thin client linux distro using std. x86 hw. It can boot from network, pxe, syslinux, CD, floppy or flash-disk and connect to servers using VNC, RDP, XDM, SSH, Telnet, tn5250, tarentella, 2X, NX, Thinlinc, VMWare VDI or ICA.","Categories
+Terminal Emulators, OS distribution, Live CD"
+"We started as a small project based on AOSiP for the Oneplus 5T back on Android 9.0. Then various users and maintainers got interested in supporting this project. Now we make efforts to cut the cord and stand on our own feet. We try to be a platform for beginners and support the Custom ROM community with our own unique contributions as well. This ROM exists thanks to our base - AOSiP, Thank you!We started as a small project based on AOSiP for the Oneplus 5T back on Android 9.0. Then various users and maintainers got interested in supporting this project. Now we make efforts to cut the cord and stand on our own feet. We try to be a platform for beginners and support the Custom ROM community with our own unique contributions as well. This ROM exists thanks to our base - AOSiP, Thank you!","Categories
+ROMs"

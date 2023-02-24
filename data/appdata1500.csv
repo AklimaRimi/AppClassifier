@@ -1,0 +1,984 @@
+Description,Category
+A general purpose source code indexer and cross-referencer that provides web-based browsing of source code with links to the definition and usage of any identifier. Supports multiple languages. Up-to-date information in http://lxr.sourceforge.netA general purpose source code indexer and cross-referencer that provides web-based browsing of source code with links to the definition and usage of any identifier. Supports multiple languages. Up-to-date information in http://lxr.sourceforge.net,"Categories
+Search Engines, Source Code Analysis, Source Code Management"
+"This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).","Categories
+BBS, Message Board, Internationalization (I18N)"
+"This is NASM - the famous Netwide Assembler.
+
+THIS PAGE IS OUT OF DATE; we no longer use any Sourceforge services other than mailing lists.
+
+Get the current versions from http://www.nasm.us/.This is NASM - the famous Netwide Assembler.
+
+THIS PAGE IS OUT OF DATE; we no longer use any Sourceforge services other than mailing lists.
+
+Get the current versions from http://www.nasm.us/.","Categories
+Build Tools, Compilers, Cross Compilers"
+"QP real-time embedded frameworks (RTEFs) provide lightweight, modern event-driven architecture based on active objects (actors) and hierarchical state machines. The matching QM model-based design tool and other host-based tools complement the QP frameworks by supporting graphical modeling, code generation, software tracing and unit testing for event-driven embedded software. Visit https://www.state-machine.com for more information.
+
+The QP RTEFs can run on bare-metal single-chip microcontrollers, completely replacing a traditional RTOS. The frameworks contain a selection of built-in real-time kernels (RTOS kernels), such as the cooperative QV kernel, the preemptive non-blocking QK kernel, and the unique preemptive, dual-mode (blocking/non-blocking) QXK kernel. Native QP ports and ready-to-use examples are provided for ARM Cortex-M (M0/M0+/M3/M4F/M7) as well as other CPUs.
+
+The QP RTEFs can also work with many traditional RTOSes and desktop OSes, such as Linux and Windows.QP real-time embedded frameworks (RTEFs) provide lightweight, modern event-driven architecture based on active objects (actors) and hierarchical state machines. The matching QM model-based design tool and other host-based tools complement the QP frameworks by supporting graphical modeling, code generation, software tracing and unit testing for event-driven embedded software. Visit https://www.state-machine.com for more information.
+
+The QP RTEFs can run on bare-metal single-chip microcontrollers, completely replacing a traditional RTOS. The frameworks contain a selection of built-in real-time kernels (RTOS kernels), such as the cooperative QV kernel, the preemptive non-blocking QK kernel, and the unique preemptive, dual-mode (blocking/non-blocking) QXK kernel. Native QP ports and ready-to-use examples are provided for ARM Cortex-M (M0/M0+/M3/M4F/M7) as well as other CPUs.
+
+The QP RTEFs can also work with many traditional RTOSes and desktop OSes, such as Linux and Windows.","Categories
+Frameworks, Operating System Kernels, Embedded Systems"
+"Saros brings multi-writer synchronous distributed editing to the Eclipse IDE, e.g. for joint code reviews, explaining code remotely, or distributed pair programming -- all also for more than 2 participants; we call this Distributed Party Programming. It includes refined awareness functionality, text chat, and a simple distributed whiteboard/sketching facility.
+
+Eclipse Update Site: https://www.saros-project.org/update-site/eclipseSaros brings multi-writer synchronous distributed editing to the Eclipse IDE, e.g. for joint code reviews, explaining code remotely, or distributed pair programming -- all also for more than 2 participants; we call this Distributed Party Programming. It includes refined awareness functionality, text chat, and a simple distributed whiteboard/sketching facility.
+
+Eclipse Update Site: https://www.saros-project.org/update-site/eclipse","Categories
+Collaborative Development, Agile Development Tools, Whiteboard"
+"TinyXML is a simple, small, minimal, C++ XML parser that can be easily integrating into other programs. It reads XML and creates C++ objects representing the XML document. The objects can be manipulated, changed, and saved again as XML.
+
+*Please Note* that TinyXML development has stopped and all development has moved to TinyXML-2. TinyXML-2 is available at https://github.com/leethomason/tinyxml2TinyXML is a simple, small, minimal, C++ XML parser that can be easily integrating into other programs. It reads XML and creates C++ objects representing the XML document. The objects can be manipulated, changed, and saved again as XML.
+
+*Please Note* that TinyXML development has stopped and all development has moved to TinyXML-2. TinyXML-2 is available at https://github.com/leethomason/tinyxml2","Categories
+Software Development, XML Parsers"
+"An Eclipse-based IDE for Erlang http://www.erlang.org, a concurrency-oriented language developed by Ericsson.
+
+The project is now hosted at https://github.com/erlang/erlide_eclipse
+
+Please install/update from http://download.erlide.org/updateAn Eclipse-based IDE for Erlang http://www.erlang.org, a concurrency-oriented language developed by Ericsson.
+
+The project is now hosted at https://github.com/erlang/erlide_eclipse
+
+Please install/update from http://download.erlide.org/update","Categories
+Integrated Development Environments (IDE), Software Development"
+"The Lightweight Java Game Library (LWJGL) is a solution aimed directly at professional and amateur Java programmers alike to enable commercial quality games to be written in Java. LWJGL provides developers access to high performance crossplatform libraries such as OpenGL (Open Graphics Library), OpenCL (Open Computing Language) and OpenAL (Open Audio Library) allowing for state of the art 3D games and 3D sound. Additionally LWJGL provides access to controllers such as Gamepads, Steering wheel and Joysticks. All in a simple and straight forward API.
+
+LWJGL is available under a BSD license, which means it's open source and freely available at no charge.The Lightweight Java Game Library (LWJGL) is a solution aimed directly at professional and amateur Java programmers alike to enable commercial quality games to be written in Java. LWJGL provides developers access to high performance crossplatform libraries such as OpenGL (Open Graphics Library), OpenCL (Open Computing Language) and OpenAL (Open Audio Library) allowing for state of the art 3D games and 3D sound. Additionally LWJGL provides access to controllers such as Gamepads, Steering wheel and Joysticks. All in a simple and straight forward API.
+
+LWJGL is available under a BSD license, which means it's open source and freely available at no charge.","Categories
+Software Development"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU Library or Lesser General Public License version 2.0 (LGPLv2)","Categories
+Email, Office/Business, Games/Entertainment, Browsers, Design, Education"
+The JEDI Code Library (JCL) consists of a set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects.The JEDI Code Library (JCL) consists of a set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects.,"Categories
+Software Development"
+Boost provides free portable peer-reviewed C++ libraries. The emphasis is on portable libraries which work well with the C++ Standard Library. See http://www.boost.orgBoost provides free portable peer-reviewed C++ libraries. The emphasis is on portable libraries which work well with the C++ Standard Library. See http://www.boost.org,"Categories
+Software Development"
+"Report Manager is both a print scheme designer (report) and a high level printing (reporting) engine. Also a TCP Report Server and a Web Report Server (PDF on the fly), supports Windows and Linux.
+Connectivity to almost all databases is provided.Report Manager is both a print scheme designer (report) and a high level printing (reporting) engine. Also a TCP Report Server and a Web Report Server (PDF on the fly), supports Windows and Linux.
+Connectivity to almost all databases is provided.","Categories
+Front-Ends, Build Tools, Printing"
+"JasperReports Library is the world's most popular open source business intelligence and reporting engine.
+It is entirely written in Java and it is able to use data coming from any kind of data source and produce pixel-perfect documents that can be viewed, printed or exported in a variety of document formats including HTML, PDF, Excel, OpenOffice and Word.
+
+The project is also available at:
+https://github.com/TIBCOSoftware/jasperreports
+
+Jaspersoft Studio is the open source report designer for the JasperReports Library.
+https://community.jaspersoft.com/project/jaspersoft-studio
+
+JasperReports Server is the most popular open source interactive reporting and analytics server built-on JasperReports Library.
+https://community.jaspersoft.com/project/jasperreports-server
+
+JasperReports IO is for reporting and data visualization in a world of cloud, microservices, and DevOps.
+https://community.jaspersoft.com/project/jasperreports-ioJasperReports Library is the world's most popular open source business intelligence and reporting engine.
+It is entirely written in Java and it is able to use data coming from any kind of data source and produce pixel-perfect documents that can be viewed, printed or exported in a variety of document formats including HTML, PDF, Excel, OpenOffice and Word.
+
+The project is also available at:
+https://github.com/TIBCOSoftware/jasperreports
+
+Jaspersoft Studio is the open source report designer for the JasperReports Library.
+https://community.jaspersoft.com/project/jaspersoft-studio
+
+JasperReports Server is the most popular open source interactive reporting and analytics server built-on JasperReports Library.
+https://community.jaspersoft.com/project/jasperreports-server
+
+JasperReports IO is for reporting and data visualization in a world of cloud, microservices, and DevOps.
+https://community.jaspersoft.com/project/jasperreports-io","Categories
+Software Development, Printing, Business Intelligence"
+PSeInt is a pseudo-code interpreter for spanish-speaking programming students. Its main purpose is to be a tool for learning and understanding the basic concepts about programming and applying them with an easy understanding spanish pseudocode.PSeInt is a pseudo-code interpreter for spanish-speaking programming students. Its main purpose is to be a tool for learning and understanding the basic concepts about programming and applying them with an easy understanding spanish pseudocode.,"Categories
+Interpreters, Computer Aided Instruction (CAI)"
+"Develop Native iOS applications with Delphi XE8~XE10
+
+Develop iPhone & iPad & iPod Touch apps with fast native performance and native styles.
+
+Some Wrapped Frameworks:
+
+* AddressBookUI.framework
+* AddressBook.framework
+* iAd.framework
+* EventKit.framework
+* GameKit.framework
+* MapKit.framework
+* MessageUI.framework
+* MobileCoreServices.framework
+* QuickLook.framework
+* SystemConfiguration.framework
+* Social.framework
+* StoreKit.framework
+* WebKit.framework
+
+Follow me:
+
+https://twitter.com/BabakYaghoobii
+https://www.facebook.com/babak.yaghoobii
+https://www.linkedin.com/in/babakyaghoobi
+https://plus.google.com/+BabakYaghoobii
+http://babakyaghoobi.blogspot.com
+https://stackoverflow.com/users/4557781/babak-yaghoobi
+https://www.colatform.com/en/
+
+Use our more than 90 demos for quick development.
+
+Enjoy iOS Apps Developing
+
+Babak YaghoobiDevelop Native iOS applications with Delphi XE8~XE10
+
+Develop iPhone & iPad & iPod Touch apps with fast native performance and native styles.
+
+Some Wrapped Frameworks:
+
+* AddressBookUI.framework
+* AddressBook.framework
+* iAd.framework
+* EventKit.framework
+* GameKit.framework
+* MapKit.framework
+* MessageUI.framework
+* MobileCoreServices.framework
+* QuickLook.framework
+* SystemConfiguration.framework
+* Social.framework
+* StoreKit.framework
+* WebKit.framework
+
+Follow me:
+
+https://twitter.com/BabakYaghoobii
+https://www.facebook.com/babak.yaghoobii
+https://www.linkedin.com/in/babakyaghoobi
+https://plus.google.com/+BabakYaghoobii
+http://babakyaghoobi.blogspot.com
+https://stackoverflow.com/users/4557781/babak-yaghoobi
+https://www.colatform.com/en/
+
+Use our more than 90 demos for quick development.
+
+Enjoy iOS Apps Developing
+
+Babak Yaghoobi","Categories
+Frameworks, Mobile, Libraries"
+"Alphons van der Heijden, author of LSLEditor, the great off-line editor and debugging tool for scripting in Second Life, has donated his opus magnum to the free and open source community where it can grow and keep pace with the SL platform!Alphons van der Heijden, author of LSLEditor, the great off-line editor and debugging tool for scripting in Second Life, has donated his opus magnum to the free and open source community where it can grow and keep pace with the SL platform!","Categories
+Integrated Development Environments (IDE), Software Development"
+"libjpeg-turbo is a JPEG image codec that uses SIMD instructions (MMX, SSE2, NEON, AltiVec) to accelerate baseline JPEG compression and decompression on x86, x86-64, ARM, and PowerPC systems. On such systems, libjpeg-turbo is generally 2-6x as fast as libjpeg, all else being equal. On other types of systems, libjpeg-turbo can still outperform libjpeg by a significant amount, by virtue of its highly-optimized Huffman coding routines. In many cases, the performance of libjpeg-turbo rivals that of proprietary high-speed JPEG codecs.
+
+libjpeg-turbo implements both the traditional libjpeg API as well as the less powerful but more straightforward TurboJPEG API. libjpeg-turbo also features colorspace extensions that allow it to compress from/decompress to 32-bit and big-endian pixel buffers (RGBX, XBGR, etc.), as well as a full-featured Java interface.libjpeg-turbo is a JPEG image codec that uses SIMD instructions (MMX, SSE2, NEON, AltiVec) to accelerate baseline JPEG compression and decompression on x86, x86-64, ARM, and PowerPC systems. On such systems, libjpeg-turbo is generally 2-6x as fast as libjpeg, all else being equal. On other types of systems, libjpeg-turbo can still outperform libjpeg by a significant amount, by virtue of its highly-optimized Huffman coding routines. In many cases, the performance of libjpeg-turbo rivals that of proprietary high-speed JPEG codecs.
+
+libjpeg-turbo implements both the traditional libjpeg API as well as the less powerful but more straightforward TurboJPEG API. libjpeg-turbo also features colorspace extensions that allow it to compress from/decompress to 32-bit and big-endian pixel buffers (RGBX, XBGR, etc.), as well as a full-featured Java interface.","Categories
+Image Converters, Video Converters, Libraries"
+SourceAFIS is a software library for human fingerprint recognition. It can compare two fingerprints 1:1 or search a large database for matching fingerprint. It takes raw fingerprint images on input and produces matching score on output. Click the website link above for more info.SourceAFIS is a software library for human fingerprint recognition. It can compare two fingerprints 1:1 or search a large database for matching fingerprint. It takes raw fingerprint images on input and produces matching score on output. Click the website link above for more info.,"Categories
+Security, Algorithms, Libraries"
+"Toolkit for rapid XML and web application development including a full XForms 1.1 implementation and a rich set of widget and layout-containers. Extensible interfaces for integration of custom controls, functions and data connectors.Toolkit for rapid XML and web application development including a full XForms 1.1 implementation and a rich set of widget and layout-containers. Extensible interfaces for integration of custom controls, functions and data connectors.","Categories
+XML, Frameworks, User Interface (UI)"
+"WinCacheGrind is a viewer for cachegrind.out files generated by xdebug 2. WinCacheGrind is functionally similar to KCacheGrind, only it is much simpler and runs on Windows. This project has ceased development due to me not active in developing with PHP aWinCacheGrind is a viewer for cachegrind.out files generated by xdebug 2. WinCacheGrind is functionally similar to KCacheGrind, only it is much simpler and runs on Windows. This project has ceased development due to me not active in developing with PHP a","Categories
+Debuggers"
+A pure Java library for reading from and writing to MS Access databases.A pure Java library for reading from and writing to MS Access databases.,"Categories
+Database, Libraries"
+"With QGit you will be able to browse revisions history, view patch content and changed files, graphically following different development branches.With QGit you will be able to browse revisions history, view patch content and changed files, graphically following different development branches.","Categories
+Version Control, User Interface (UI)"
+"IUP is a portable toolkit for building graphical user interfaces. It offers a configuration API in three basic languages: C, Lua and LED. IUP purpose is to allow a program to be executed in different systems without any modification.IUP is a portable toolkit for building graphical user interfaces. It offers a configuration API in three basic languages: C, Lua and LED. IUP purpose is to allow a program to be executed in different systems without any modification.","Categories
+Frameworks, User Interface (UI)"
+"A free OpenGL utility toolkit, the open-sourced alternative to the GLUT library.A free OpenGL utility toolkit, the open-sourced alternative to the GLUT library.","Categories
+Software Development, 3D Rendering"
+"eAccelerator is a further development from mmcache PHP Accelerator & Encoder. It increases performance of PHP scripts by caching them in compiled state, so that the overhead of compiling is almost completely eliminated.eAccelerator is a further development from mmcache PHP Accelerator & Encoder. It increases performance of PHP scripts by caching them in compiled state, so that the overhead of compiling is almost completely eliminated.","Categories
+Dynamic Content, Code Generators"
+"Super CSV is a fast, programmer-friendly, open-source library for reading and writing CSV files with Java.
+
+PLEASE NOTE: As of January 2015 we have now moved to GitHub (https://github.com/super-csv/super-csv). This SourceForge page will remain, but with limited functionality (please go to GitHub to report issues and for project downloads).
+
+It is highly configurable, and supports reading and writing with POJOs, Maps and Lists. It also has support for deep-mapping and index-based mapping with POJOs, using the powerful Dozer extension.
+
+Its flexible 'Cell Processor' API automates data type conversions (parsing and formatting Dates, Integers, Booleans etc) and enforces constraints (mandatory columns, matching against regular expressions etc) - and it's easy to write your own if required.
+
+Super CSV is actively maintained, and the developers are ready and willing to help out if you get stuck :)
+
+Please check out the project website for examples and help getting startedSuper CSV is a fast, programmer-friendly, open-source library for reading and writing CSV files with Java.
+
+PLEASE NOTE: As of January 2015 we have now moved to GitHub (https://github.com/super-csv/super-csv). This SourceForge page will remain, but with limited functionality (please go to GitHub to report issues and for project downloads).
+
+It is highly configurable, and supports reading and writing with POJOs, Maps and Lists. It also has support for deep-mapping and index-based mapping with POJOs, using the powerful Dozer extension.
+
+Its flexible 'Cell Processor' API automates data type conversions (parsing and formatting Dates, Integers, Booleans etc) and enforces constraints (mandatory columns, matching against regular expressions etc) - and it's easy to write your own if required.
+
+Super CSV is actively maintained, and the developers are ready and willing to help out if you get stuck :)
+
+Please check out the project website for examples and help getting started","Categories
+File Managers, CSV, Libraries"
+"nuBuilder Forte is the 4th version of nuBuilder.
+
+A open-source browser-based tool created for developing web-based database applications.
+nuBuilder uses either MySQL or MariaDB databases and gives its users the ability to do database operations like...
+
+• Search, Create, Insert, Read, Update, Delete
+
+✪ With low-code tools that create ...
+
+- Forms with the Form Builder
+- Fast Reports
+- Database queries with the SQL Builder
+- Customised date and number formats with the Format Builder
+- Calculated fields with the Formula Builder
+- Email Templates
+
+- Move and resize objects.
+- Further customisation that can be done with JavaScript and PHP.
+
+
+✪ nuBuilder stores all forms, reports, company data and PHP/JavaScript code in MySQL. You can backup your entire application within a single database file.
+
+
+✪ Easy installation:
+
+- Download and unzip the nuBuilder files
+- Upload to your webserver
+- Create a database (e.g. nubuilder4) and optionally a user
+- Make a copy ofnuBuilder Forte is the 4th version of nuBuilder.
+
+A open-source browser-based tool created for developing web-based database applications.
+nuBuilder uses either MySQL or MariaDB databases and gives its users the ability to do database operations like...
+
+• Search, Create, Insert, Read, Update, Delete
+
+✪ With low-code tools that create ...
+
+- Forms with the Form Builder
+- Fast Reports
+- Database queries with the SQL Builder
+- Customised date and number formats with the Format Builder
+- Calculated fields with the Formula Builder
+- Email Templates
+
+- Move and resize objects.
+- Further customisation that can be done with JavaScript and PHP.
+
+
+✪ nuBuilder stores all forms, reports, company data and PHP/JavaScript code in MySQL. You can backup your entire application within a single database file.
+
+
+✪ Easy installation:
+
+- Download and unzip the nuBuilder files
+- Upload to your webserver
+- Create a database (e.g. nubuilder4) and optionally a user
+- Make a copy of","Categories
+Front-Ends, Build Tools, Frameworks, Application Servers, Collaborative Development"
+"The CAM editor is the leading open source XML Editor/Validation/Schema toolset for rapidly building / deploying XML /JSON /Hibernate /SQL data /Forms applications. Visual WYSIWYG data design, rule entry wizards + drag & drop dictionary components. Will import, analyze / refactor from XML Schema / JSON.
+
+Oracle is a proud enterprise sponsor; with NIEM.gov support. Do SQL data import/map+ Open Data API delivery+ Hibernate JPA + UI Forms/Pencil
+
+Makes XSD schema (default, flatten, NIEM, & OASIS modes) + JAXB bindings; Mindmap FreeMind or UML models(XMI); XML unit test & live SQL data; HTML docs + spreadsheets (NIEM IEPDs). Canonical component dictionaries from schema sets, SQL, JSON, ERwin XSD, or spreadsheets.
+
+The XML CAM templates (OASIS standard) store the exchange structure, content model, code lists, DBMappings, SQL lookups+business rules (XPath). Java CAMV XML/JSON validation engine is a complete exchange test framework [XMLUnit, TEAM(Schematron)].
+
+Java/Eclipse +Saxon/XSLThe CAM editor is the leading open source XML Editor/Validation/Schema toolset for rapidly building / deploying XML /JSON /Hibernate /SQL data /Forms applications. Visual WYSIWYG data design, rule entry wizards + drag & drop dictionary components. Will import, analyze / refactor from XML Schema / JSON.
+
+Oracle is a proud enterprise sponsor; with NIEM.gov support. Do SQL data import/map+ Open Data API delivery+ Hibernate JPA + UI Forms/Pencil
+
+Makes XSD schema (default, flatten, NIEM, & OASIS modes) + JAXB bindings; Mindmap FreeMind or UML models(XMI); XML unit test & live SQL data; HTML docs + spreadsheets (NIEM IEPDs). Canonical component dictionaries from schema sets, SQL, JSON, ERwin XSD, or spreadsheets.
+
+The XML CAM templates (OASIS standard) store the exchange structure, content model, code lists, DBMappings, SQL lookups+business rules (XPath). Java CAMV XML/JSON validation engine is a complete exchange test framework [XMLUnit, TEAM(Schematron)].
+
+Java/Eclipse +Saxon/XSL","Categories
+Data Formats, Database, Object-Relational Mapping (ORM)"
+"Sahi Pro is an Enterprise Grade Test Automation Tool that is simple to use and easy to learn. For over a decade now Sahi Pro has helped over 400 Enterprise clients solve everyday problems faced by their QA teams. Sahi Pro is a unique Test Automation tool that is tester-centric while being business-driven in its design and functionality. The result? A Test Automation tool that understands your business and reduces your time to market by over 50%.
+
+Sahi website: http://sahipro.com/
+Sahi documentation: http://sahipro.com/docs/
+Sahi forums: http://sahipro.com/forums/Sahi Pro is an Enterprise Grade Test Automation Tool that is simple to use and easy to learn. For over a decade now Sahi Pro has helped over 400 Enterprise clients solve everyday problems faced by their QA teams. Sahi Pro is a unique Test Automation tool that is tester-centric while being business-driven in its design and functionality. The result? A Test Automation tool that understands your business and reduces your time to market by over 50%.
+
+Sahi website: http://sahipro.com/
+Sahi documentation: http://sahipro.com/docs/
+Sahi forums: http://sahipro.com/forums/","Categories
+Software Testing, Automated Testing"
+"The Universal Binary Repository Manager.
+This page is deprecated. Please see:
+https://www.jfrog.com/artifactory/The Universal Binary Repository Manager.
+This page is deprecated. Please see:
+https://www.jfrog.com/artifactory/","Categories
+Build Tools"
+"Coding Boot Camp
+Learning to program? Check out the free boot camp from Embarcadero which runs from Monday, August 22nd to Friday, August 26th.
+
+https://learndelphi.org/boot-camp-2022/
+
+Embarcadero Dev-C++ is a new and improved fork (sponsored by Embarcadero) of Bloodshed Dev-C++ and Orwell Dev-C++. It is a full-featured Integrated Development Environment (IDE) and code editor for the C/C++ programming language. It uses Mingw port of GCC (GNU Compiler Collection) as its compiler. Embarcadero Dev-C++ can also be used in combination with Cygwin or any other GCC based compiler. Embarcadero Dev-C++ is built using the latest version of Embarcadero Delphi. Embarcadero Dev-C++ has a low memory footprint because it is a native Windows application and does not use Electron. Optimized for parallel compilation on modern multi-core machines.
+
+GitHub Project:
+https://github.com/Embarcadero/Dev-Cpp/
+
+Sponsored by Embarcadero:
+https://www.embarcadero.com/free-tools/dev-cppCoding Boot Camp
+Learning to program? Check out the free boot camp from Embarcadero which runs from Monday, August 22nd to Friday, August 26th.
+
+https://learndelphi.org/boot-camp-2022/
+
+Embarcadero Dev-C++ is a new and improved fork (sponsored by Embarcadero) of Bloodshed Dev-C++ and Orwell Dev-C++. It is a full-featured Integrated Development Environment (IDE) and code editor for the C/C++ programming language. It uses Mingw port of GCC (GNU Compiler Collection) as its compiler. Embarcadero Dev-C++ can also be used in combination with Cygwin or any other GCC based compiler. Embarcadero Dev-C++ is built using the latest version of Embarcadero Delphi. Embarcadero Dev-C++ has a low memory footprint because it is a native Windows application and does not use Electron. Optimized for parallel compilation on modern multi-core machines.
+
+GitHub Project:
+https://github.com/Embarcadero/Dev-Cpp/
+
+Sponsored by Embarcadero:
+https://www.embarcadero.com/free-tools/dev-cpp","Categories
+Integrated Development Environments (IDE), Software Development, Compilers"
+"FAT-FREE is a powerful and lightweight PHP 5.3+ Web application framework designed to help you build dynamic and robust Web sites - fast! Unlike other PHP frameworks, Fat-Free aims to be usable - not usual.FAT-FREE is a powerful and lightweight PHP 5.3+ Web application framework designed to help you build dynamic and robust Web sites - fast! Unlike other PHP frameworks, Fat-Free aims to be usable - not usual.","Categories
+XML, HTML/XHTML, Frameworks, Web Development Frameworks"
+"Joone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base componentJoone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base component","Categories
+Software Development, Distributed Computing, Artificial Intelligence"
+"UPDATE: download files are no longer hosted on Sourceforge. Go to the TurnKey website to download them directly from our mirror network.
+
+TurnKey Linux is a free software project that aims to develop high-quality software appliances that are easy to deploy, easy to use and free. In a nutshell, we believe everything that can be easy, should be easy!
+
+https://www.turnkeylinux.org/UPDATE: download files are no longer hosted on Sourceforge. Go to the TurnKey website to download them directly from our mirror network.
+
+TurnKey Linux is a free software project that aims to develop high-quality software appliances that are easy to deploy, easy to use and free. In a nutshell, we believe everything that can be easy, should be easy!
+
+https://www.turnkeylinux.org/","Categories
+Software Testing, Virtual Machine, Application Servers"
+"DocFetcher is an Open Source desktop search application: It allows you to search the contents of files on your computer. — You can think of it as Google for your local files. The application runs on Windows, Linux and Mac OS X.DocFetcher is an Open Source desktop search application: It allows you to search the contents of files on your computer. — You can think of it as Google for your local files. The application runs on Windows, Linux and Mac OS X.","Categories
+File Managers, Search, Source Code Management"
+"Note: Delphi NextGen support (Android, iOS, OS X,) has been added the Zeos 8.0 development version. Supported compilers start with Delphi XE 10.2 Tokyo. For problems please contact us in the forums on https://zeoslib.sourceforge.io.
+
+The ZeosLib is a set of database components for MySQL, MariaDB, PostgreSQL, Interbase, Firebird, MS SQL Server, SAP Adaptive Server Enterprise and Adaptive Server Anywhere (previously Sybase), Oracle and SQLite for Delphi, FreePascal/Lazarus and C++ Builder.Note: Delphi NextGen support (Android, iOS, OS X,) has been added the Zeos 8.0 development version. Supported compilers start with Delphi XE 10.2 Tokyo. For problems please contact us in the forums on https://zeoslib.sourceforge.io.
+
+The ZeosLib is a set of database components for MySQL, MariaDB, PostgreSQL, Interbase, Firebird, MS SQL Server, SAP Adaptive Server Enterprise and Adaptive Server Anywhere (previously Sybase), Oracle and SQLite for Delphi, FreePascal/Lazarus and C++ Builder.","Categories
+Database, Libraries"
+"codelite is an open-source, cross platform IDE for the C/C++/PHP and JavaScript programming languages (build and tested on Windows 7, 8, ubuntu >=14.04 plus debian, fedora and openSUSE, and Mac OSX 10.8.4). codelite is distributed under the terms of the GPLv2 license
+
+If you need help with codelite, please join our forums at:
+http://forums.codelite.org
+
+Visit our download page at:
+http://codelite.org/support.php
+
+The CodeLite Teamcodelite is an open-source, cross platform IDE for the C/C++/PHP and JavaScript programming languages (build and tested on Windows 7, 8, ubuntu >=14.04 plus debian, fedora and openSUSE, and Mac OSX 10.8.4). codelite is distributed under the terms of the GPLv2 license
+
+If you need help with codelite, please join our forums at:
+http://forums.codelite.org
+
+Visit our download page at:
+http://codelite.org/support.php
+
+The CodeLite Team","Categories
+Integrated Development Environments (IDE), Text Processing, Build Tools"
+"The DITA Open Toolkit is an implementation of the OASIS DITA XML Specification. The Toolkit transforms DITA content into many deliverable formats. See https://www.dita-ot.org/ for documentation and links to downloads.
+
+The source code and issue trackers have been moved to https://github.com/dita-ot/dita-otThe DITA Open Toolkit is an implementation of the OASIS DITA XML Specification. The Toolkit transforms DITA content into many deliverable formats. See https://www.dita-ot.org/ for documentation and links to downloads.
+
+The source code and issue trackers have been moved to https://github.com/dita-ot/dita-ot","Categories
+Text Processing, XML, Documentation"
+"WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB. WampServer automatically installs everything you need to intuitively develope Web applications. You will be able to tune your server without even touching its setting files. Best of all, WampServer is available for free (under GPML license) in both 32 and 64 bit versions. Wampserver is not compatible with Windows XP, SP3, or Windows Server 2003.WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB. WampServer automatically installs everything you need to intuitively develope Web applications. You will be able to tune your server without even touching its setting files. Best of all, WampServer is available for free (under GPML license) in both 32 and 64 bit versions. Wampserver is not compatible with Windows XP, SP3, or Windows Server 2003.","Categories
+HTTP Servers, Web Development"
+"Mecrisp - A family of optimising native code Forth implementations for MSP430, ARM Cortex M, RISC-V RV32IM(C), MIPS M4K and FPGAs.Mecrisp - A family of optimising native code Forth implementations for MSP430, ARM Cortex M, RISC-V RV32IM(C), MIPS M4K and FPGAs.","Categories
+Compilers, Scientific/Engineering, Assemblers"
+"USBDM BDM Interface for Freescale Microcontrollers
+
+USBDM consists of two components:
+
+Hardware interfaces for various target devices
+This includes interfaces ranging from very simple hardware to more complete and capable hardware.
+
+Software to support these interfaces
+This includes:
+- Plugins to work with Freescale's Codewarrior software under Windows
+- Plugins to extend the usabilty of Eclipse with USBDM and Codesourcery & ARM toolchains. This includes GDB sprites providing a complete open source development toolchain.
+- A set of stand-alone programmer applications. These support programming of RS08, HCS08, HCS12, Coldfire and Kinetis devices.
+
+Where applicable, the software is available for Windows and Linux.USBDM BDM Interface for Freescale Microcontrollers
+
+USBDM consists of two components:
+
+Hardware interfaces for various target devices
+This includes interfaces ranging from very simple hardware to more complete and capable hardware.
+
+Software to support these interfaces
+This includes:
+- Plugins to work with Freescale's Codewarrior software under Windows
+- Plugins to extend the usabilty of Eclipse with USBDM and Codesourcery & ARM toolchains. This includes GDB sprites providing a complete open source development toolchain.
+- A set of stand-alone programmer applications. These support programming of RS08, HCS08, HCS12, Coldfire and Kinetis devices.
+
+Where applicable, the software is available for Windows and Linux.","Categories
+Debuggers, Embedded Systems"
+LuaBinaries is a distribution of the Lua libraries and executables compiled for several platforms.LuaBinaries is a distribution of the Lua libraries and executables compiled for several platforms.,"Categories
+Interpreters, Libraries"
+"This is Java 2 Micro Edition (J2ME) CLDC/MIDP Emulator. Allows demonstrate MIDlet based applications in web browser applet, also can be run as standalone java application.This is Java 2 Micro Edition (J2ME) CLDC/MIDP Emulator. Allows demonstrate MIDlet based applications in web browser applet, also can be run as standalone java application.","Categories
+Software Development, Emulators"
+"Lightweight, fast, Java-centric Lua interpreter written for JME and JSE, with string, table, package, math, io, os, debug, coroutine & luajava libraries, JSR-223 bindings, all metatags, weak tables and unique direct lua-to-java-bytecode compiling.Lightweight, fast, Java-centric Lua interpreter written for JME and JSE, with string, table, package, math, io, os, debug, coroutine & luajava libraries, JSR-223 bindings, all metatags, weak tables and unique direct lua-to-java-bytecode compiling.","Categories
+Interpreters"
+"Pexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpectPexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpect","Categories
+Terminals, Build Tools, Systems Administration, Installation/Setup"
+"Lazarus is a free and open source development tool for the Free Pascal Compiler. The purpose of this project is to serve as a Code Repository, Wiki Knowledgebase and support site for converting existing components and libraries to work with Lazarus and the Free Pascal Compiler.Lazarus is a free and open source development tool for the Free Pascal Compiler. The purpose of this project is to serve as a Code Repository, Wiki Knowledgebase and support site for converting existing components and libraries to work with Lazarus and the Free Pascal Compiler.","Categories
+Build Tools, Code Generators, Debuggers, Compilers"
+"Community websites can be difficult to maintain and a target for hackers. But, not with ImpressCMS behind it.
+
+Started in 2007 by a talented and committed group of developers and designers unhappy with the progress of the projects they were working on, ImpressCMS continues to lead in providing secure, easy to build and maintain community websites.
+
+ImpressCMS is built using PHP and MySQL, and employs JavaScript and Smarty and is optimized for performance - on even shared hosts.
+
+Secure. Easy. Open. Friendly.Community websites can be difficult to maintain and a target for hackers. But, not with ImpressCMS behind it.
+
+Started in 2007 by a talented and committed group of developers and designers unhappy with the progress of the projects they were working on, ImpressCMS continues to lead in providing secure, easy to build and maintain community websites.
+
+ImpressCMS is built using PHP and MySQL, and employs JavaScript and Smarty and is optimized for performance - on even shared hosts.
+
+Secure. Easy. Open. Friendly.","Categories
+Site Management, Frameworks, Content Management Systems (CMS)"
+"*** Please note that the downloads here on Sourceforge are out of date! See https://gexperts.dummzeuch.de for the latest releases. ***
+
+GExperts is a free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and encourages user contributions to the project.*** Please note that the downloads here on Sourceforge are out of date! See https://gexperts.dummzeuch.de for the latest releases. ***
+
+GExperts is a free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and encourages user contributions to the project.","Categories
+Software Development"
+"The strace project has been moved to https://strace.io.
+
+strace is a diagnostic, debugging and instructional userspace tracer for Linux. It is used to monitor and tamper with interactions between userspace processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state. The operation of strace is made possible by the kernel feature known as ptrace.The strace project has been moved to https://strace.io.
+
+strace is a diagnostic, debugging and instructional userspace tracer for Linux. It is used to monitor and tamper with interactions between userspace processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state. The operation of strace is made possible by the kernel feature known as ptrace.","Categories
+Debuggers"
+"A multi-platform software synthesiser emulating (somewhat inaccurately) pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I. In no way endorsed by or affiliated with Roland Corp. Source hosted at: http://www.github.com/munt/A multi-platform software synthesiser emulating (somewhat inaccurately) pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I. In no way endorsed by or affiliated with Roland Corp. Source hosted at: http://www.github.com/munt/","Categories
+MIDI, Sound Synthesis, Libraries"
+"Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.","Categories
+Terminals, Communications, Software Development, Networking, Internet"
+"tcllib is a Tcl-only library of standard routines for Tcl (no compiling required). This project also houses the CVS modules for BWidgets, tclbench, mclistbox, tclapps, and tklib. All of these are deprecated in favor of the fossil repositories found at the sites listed below.
+
+Bug reports to
+https://core.tcl.tk/tcllib
+https://core.tcl.tk/tklib
+https://core.tcl.tk/tclapps
+https://core.tcl.tk/bwidget
+https://core.tcl.tk/tclbench
+https://core.tcl.tk/mclistbox
+https://core.tcl.tk/widget
+
+Follow code development at the same sites.tcllib is a Tcl-only library of standard routines for Tcl (no compiling required). This project also houses the CVS modules for BWidgets, tclbench, mclistbox, tclapps, and tklib. All of these are deprecated in favor of the fossil repositories found at the sites listed below.
+
+Bug reports to
+https://core.tcl.tk/tcllib
+https://core.tcl.tk/tklib
+https://core.tcl.tk/tclapps
+https://core.tcl.tk/bwidget
+https://core.tcl.tk/tclbench
+https://core.tcl.tk/mclistbox
+https://core.tcl.tk/widget
+
+Follow code development at the same sites.","Categories
+Interpreters"
+"Texlipse is a plugin that adds Latex editing support for the popular Eclipse Java IDE. Key features include: syntax highlight, command completion, bibliography completion, outline navigation and automatic building.Texlipse is a plugin that adds Latex editing support for the popular Eclipse Java IDE. Key features include: syntax highlight, command completion, bibliography completion, outline navigation and automatic building.","Categories
+Integrated Development Environments (IDE), TeX/LaTeX, Documentation"
+"pH7Builder is a Professional, Free & Open Source PHP Social Dating Builder Software (primarily designed for developers ...).
+
+This Social Dating Web App is fully coded in object-oriented PHP (OOP) with the MVC pattern (Model-View-Controller). It is low resource-intensive, extremely powerful and highly secure. pH7Builder is included with over 42 native modules and is based on its homemade pH7 Framework which includes more than 52 packages
+
+To summarize, pH7Builder Social Dating Script gives you the perfect ingredients to create the best dating web app or social networking site on the World Wide Web!
+
+
+-- Get Involved! --
+If you want to work on an Innovative Open Source Social/Dating Software Project with a Beautiful PHP Code using the latest PHP Features while collaborating with nice people and finally if you love the ""Social"" and ""Dating"" Services, ...you HAVE TO DO IT!
+
+- Fork the repo http://github.com/pH7Software/pH7-Social-Dating-CMSpH7Builder is a Professional, Free & Open Source PHP Social Dating Builder Software (primarily designed for developers ...).
+
+This Social Dating Web App is fully coded in object-oriented PHP (OOP) with the MVC pattern (Model-View-Controller). It is low resource-intensive, extremely powerful and highly secure. pH7Builder is included with over 42 native modules and is based on its homemade pH7 Framework which includes more than 52 packages
+
+To summarize, pH7Builder Social Dating Script gives you the perfect ingredients to create the best dating web app or social networking site on the World Wide Web!
+
+
+-- Get Involved! --
+If you want to work on an Innovative Open Source Social/Dating Software Project with a Beautiful PHP Code using the latest PHP Features while collaborating with nice people and finally if you love the ""Social"" and ""Dating"" Services, ...you HAVE TO DO IT!
+
+- Fork the repo http://github.com/pH7Software/pH7-Social-Dating-CMS","Categories
+Dynamic Content, Content Management Systems (CMS), Social Networking, Web Development Frameworks"
+CLIPS is a forward-chaining rule-based programming language written in C that also provides procedural and object-oriented programming facilities.CLIPS is a forward-chaining rule-based programming language written in C that also provides procedural and object-oriented programming facilities.,"Categories
+Interpreters, Artificial Intelligence"
+"SCons is a software construction tool that is a superior alternative to the classic ""Make"" build tool that we all know and love. SCons is implemented as a Python script and set of modules, and SCons ""configuration files"" are actually executed as Python scripts. This gives SCons many powerful capabilities not found in other software build tools.
+
+We make SCons available in three distinct packages, for different purposes.
+
+- The scons package is the basic package to install SCons. You don't need any other package if you just want to try out SCons.
+- The scons-local package executes as a SCons standalone, out of a local directory. It's intended to be dropped in to and shipped with packages of other software for builds with SCons but not as a required install.
+- The scons-src package is the complete source tree, including everything we use to package SCons and all of the regression tests.SCons is a software construction tool that is a superior alternative to the classic ""Make"" build tool that we all know and love. SCons is implemented as a Python script and set of modules, and SCons ""configuration files"" are actually executed as Python scripts. This gives SCons many powerful capabilities not found in other software build tools.
+
+We make SCons available in three distinct packages, for different purposes.
+
+- The scons package is the basic package to install SCons. You don't need any other package if you just want to try out SCons.
+- The scons-local package executes as a SCons standalone, out of a local directory. It's intended to be dropped in to and shipped with packages of other software for builds with SCons but not as a required install.
+- The scons-src package is the complete source tree, including everything we use to package SCons and all of the regression tests.","Categories
+Build Tools"
+"Leo is an outlining-oriented project manager and browser. With Leo you can organize programs, web sites, URL's, pictures or any other kind of data. Leo is fully scriptable in Python. Leo is 100% pure Python. It requires the Qt gui toolkit.Leo is an outlining-oriented project manager and browser. With Leo you can organize programs, web sites, URL's, pictures or any other kind of data. Leo is fully scriptable in Python. Leo is 100% pure Python. It requires the Qt gui toolkit.","Categories
+Integrated Development Environments (IDE), Documentation"
+"Eclipse plugin for editing Java resource bundles. Lets you manage all localized properties files in one screen. Some features: sorted keys, warning icons on missing keys/values, conversion to/from Unicode, hierarchical view of keys, more...
+
+--------------
+THIS PROJECT HAS BEEN MIGRATED TO GITHUB AND IS MAINTAINED OVER THERE: https://github.com/essiembre/eclipse-rbeEclipse plugin for editing Java resource bundles. Lets you manage all localized properties files in one screen. Some features: sorted keys, warning icons on missing keys/values, conversion to/from Unicode, hierarchical view of keys, more...
+
+--------------
+THIS PROJECT HAS BEEN MIGRATED TO GITHUB AND IS MAINTAINED OVER THERE: https://github.com/essiembre/eclipse-rbe","Categories
+Localization (L10N), Internationalization (I18N)"
+"New version stable.
+The proposal was fulfilled.
+REST DW was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database.
+Today to be able to write data in a Bank via WebService is very complex for simple operations, making scheduling of simple screens time-consuming.
+With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer,
+Use it, have fun, and need support.
+Skype: cyber_one27@hotmail.com
+I am available.
+
+Vídeos :
+https://www.youtube.com/watch?v=6FVXT36j-7U
+
+Site/Forum: http://resteasyobjects.com.br/
+Blog : http://delphitotal
+License GPL - 3.0New version stable.
+The proposal was fulfilled.
+REST DW was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database.
+Today to be able to write data in a Bank via WebService is very complex for simple operations, making scheduling of simple screens time-consuming.
+With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer,
+Use it, have fun, and need support.
+Skype: cyber_one27@hotmail.com
+I am available.
+
+Vídeos :
+https://www.youtube.com/watch?v=6FVXT36j-7U
+
+Site/Forum: http://resteasyobjects.com.br/
+Blog : http://delphitotal
+License GPL - 3.0","Categories
+Communications, Software Development"
+"Laragon makes coding more fun and easier.
+Instant setup - extremely fast, lightweight, intuitive, and powerful universal development enviroment for creating modern apps with many stacks: Ruby on Rails, Laravel, Django, Flask, MEAN and Spring Boot.
+Portable, reliable and Zero operation on MySQL, PostgreSQL, MongoDB, Memcached, Redis, PHP, Ruby, Python, Node.js and Java.Laragon makes coding more fun and easier.
+Instant setup - extremely fast, lightweight, intuitive, and powerful universal development enviroment for creating modern apps with many stacks: Ruby on Rails, Laravel, Django, Flask, MEAN and Spring Boot.
+Portable, reliable and Zero operation on MySQL, PostgreSQL, MongoDB, Memcached, Redis, PHP, Ruby, Python, Node.js and Java.","Categories
+Integrated Development Environments (IDE), Agile Development Tools, Git"
+"Welcome to the world of Android programming!
+
+Develop Native Android applications with Delphi XE5/XE6/XE7
+
+Some components:
++ Added TDPFJAlertDialog
++ TDPFJAnalogClock
++ TDPFJButton
++ TDPFJCheckBox
++ TDPFJChronometer
++ TDPFJDatePicker
++ TDPFJDatePickerDialog
++ TDPFJEditText
++ TDPFJImageView
++ TDPFJListView (not completed)
++ TDPFJProgressBar
++ TDPFJProgressDialog
++ TDPFJTextView
++ TDPFJTimePickerDialog
++ TDPFJToast
++ TDPFJView
++ TDPFJRadioButton
++ TDPFJNumberPicker
++ TDPFJSeekBar
++ TDPFJTabHost Component (Tabbed view)
++ TDPFJSpinner Component (Dropdown list)
++ TDPFJTextSwitcher Component (Fade/Slide Texts)
++ TDPFJTextClock
++ TDPFJWebView
+
+Follow me:
+https://www.facebook.com/babak.yaghoobii
+https://www.linkedin.com/in/babakyaghoobi
+https://plus.google.com/+BabakYaghoobii
+http://babakyaghoobi.blogspot.com
+https://stackoverflow.com/users/4557781/babak-yaghoobi
+https://www.colatform.com/en/
+
+Enjoy AndWelcome to the world of Android programming!
+
+Develop Native Android applications with Delphi XE5/XE6/XE7
+
+Some components:
++ Added TDPFJAlertDialog
++ TDPFJAnalogClock
++ TDPFJButton
++ TDPFJCheckBox
++ TDPFJChronometer
++ TDPFJDatePicker
++ TDPFJDatePickerDialog
++ TDPFJEditText
++ TDPFJImageView
++ TDPFJListView (not completed)
++ TDPFJProgressBar
++ TDPFJProgressDialog
++ TDPFJTextView
++ TDPFJTimePickerDialog
++ TDPFJToast
++ TDPFJView
++ TDPFJRadioButton
++ TDPFJNumberPicker
++ TDPFJSeekBar
++ TDPFJTabHost Component (Tabbed view)
++ TDPFJSpinner Component (Dropdown list)
++ TDPFJTextSwitcher Component (Fade/Slide Texts)
++ TDPFJTextClock
++ TDPFJWebView
+
+Follow me:
+https://www.facebook.com/babak.yaghoobii
+https://www.linkedin.com/in/babakyaghoobi
+https://plus.google.com/+BabakYaghoobii
+http://babakyaghoobi.blogspot.com
+https://stackoverflow.com/users/4557781/babak-yaghoobi
+https://www.colatform.com/en/
+
+Enjoy And","Categories
+Frameworks, Mobile, Libraries"
+"The Spinal Cord Toolbox is a comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord.
+
+IMPORTANT: SCT WEBSITE HAS NOW MOVED HERE: https://spinalcordtoolbox.com/The Spinal Cord Toolbox is a comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord.
+
+IMPORTANT: SCT WEBSITE HAS NOW MOVED HERE: https://spinalcordtoolbox.com/","Categories
+Software Development, Medical Physics"
+"Nana C++ Library takes aim at easy-to-use and portable library, it provides a GUI framework and threads for easy programming with modern C++ methods, such as traits, metaprogramming and other template technologies.
+
+Documentation http://nanapro.org/en-us/documentation
+
+Feel free to report a bug at https://github.com/cnjinhao/nana/issuesNana C++ Library takes aim at easy-to-use and portable library, it provides a GUI framework and threads for easy programming with modern C++ methods, such as traits, metaprogramming and other template technologies.
+
+Documentation http://nanapro.org/en-us/documentation
+
+Feel free to report a bug at https://github.com/cnjinhao/nana/issues","Categories
+Software Development, Frameworks, Libraries"
+"Convertigo is an open source Low Code Application Platform (LCAP) featuring MXDP (Multi eXperience Development Platform) for full-stack mobile and web application development
+
+- Large variety of connectors to enterprise apps
+- Low Code microservice builder to orchestrate and combine data and processes from multiple enterprise apps.
+- Offline data and complete data synchronization for disconnected scenarios.
+- Cross-platform WebApp and Native app mobile application development tools for iOS, Android platforms
+- Security managers and Identity managers
+- Mobile application updates and administration
+- Monitoring and administration tools.
+
+Convertigo also features an RPA integration tool for legacy mainframe applications and Web html applications.
+
+Convertigo Community Edition is AGPL based.Convertigo is an open source Low Code Application Platform (LCAP) featuring MXDP (Multi eXperience Development Platform) for full-stack mobile and web application development
+
+- Large variety of connectors to enterprise apps
+- Low Code microservice builder to orchestrate and combine data and processes from multiple enterprise apps.
+- Offline data and complete data synchronization for disconnected scenarios.
+- Cross-platform WebApp and Native app mobile application development tools for iOS, Android platforms
+- Security managers and Identity managers
+- Mobile application updates and administration
+- Monitoring and administration tools.
+
+Convertigo also features an RPA integration tool for legacy mainframe applications and Web html applications.
+
+Convertigo Community Edition is AGPL based.","Categories
+Build Tools, Mobile"
+"Re2c is a tool for writing very fast and very flexible scanners. Unlike any other such tool, re2c focuses on generating high efficient code for regular expression matching. As a result this allows a much broader range of use than any traditional lexer.Re2c is a tool for writing very fast and very flexible scanners. Unlike any other such tool, re2c focuses on generating high efficient code for regular expression matching. As a result this allows a much broader range of use than any traditional lexer.","Categories
+Code Generators"
+"The Bug Genie is a user-friendly and powerful PHP5.3-based bug tracker/bug tracking tool with features such as project management, VCS integration (git, svn, hig), wiki and more. Ready to use out-of-the-box, and easy to install.The Bug Genie is a user-friendly and powerful PHP5.3-based bug tracker/bug tracking tool with features such as project management, VCS integration (git, svn, hig), wiki and more. Ready to use out-of-the-box, and easy to install.","Categories
+Project Management, Software Development, Help Desk"
+ECL development has moved to https://gitlab.com/embeddable-common-lisp/eclECL development has moved to https://gitlab.com/embeddable-common-lisp/ecl,"Categories
+Compilers, Interpreters"
+"A simple, portable and lightweight generic library for handling UTF-8 encoded strings.A simple, portable and lightweight generic library for handling UTF-8 encoded strings.","Categories
+Internationalization (I18N)"
+"flex is a tool for generating scanners. A scanner, sometimes called a tokenizer, is a program which recognizes lexical patterns in text. The flex program reads user-specified input files, or its standard input if no file names are given, for a description of a scanner to generate. The description is in the form of pairs of regular expressions and C code, called rules. Flex generates a C source file named, ""lex.yy.c"", which defines the function yylex(). The file ""lex.yy.c"" can be compiled and linked to produce an executable. When the executable is run, it analyzes its input for occurrences of text matching the regular expressions for each rule. Whenever it finds a match, it executes the corresponding C code.flex is a tool for generating scanners. A scanner, sometimes called a tokenizer, is a program which recognizes lexical patterns in text. The flex program reads user-specified input files, or its standard input if no file names are given, for a description of a scanner to generate. The description is in the form of pairs of regular expressions and C code, called rules. Flex generates a C source file named, ""lex.yy.c"", which defines the function yylex(). The file ""lex.yy.c"" can be compiled and linked to produce an executable. When the executable is run, it analyzes its input for occurrences of text matching the regular expressions for each rule. Whenever it finds a match, it executes the corresponding C code.","Categories
+Code Generators"
+"EMBedded SYStems REGister VIEW is an Eclipse Plugin which is designed for monitoring and modifying memory values of embedded devices.
+Therefore it offers a structured display of the special functions registers (SFR).
+
+While debugging, the register values are presented in the Hexadecimal (HEX) and Binary (Bin) column of the view.
+
+Modifications of peripheral registers values are possible via Editing in the Binary column via BitButtons, Editing in the Hex column, Choosing an interpretation from an ComboBox in the Hex column
+
+The EmbSysRegView works with any 32 bit target that stores data in little endian byte order and maps its register into memory adress space.
+In other words, if you find your registers in the CDT Memory View, the RegisterView will also work with that device assumin that a chip xml description is available.EMBedded SYStems REGister VIEW is an Eclipse Plugin which is designed for monitoring and modifying memory values of embedded devices.
+Therefore it offers a structured display of the special functions registers (SFR).
+
+While debugging, the register values are presented in the Hexadecimal (HEX) and Binary (Bin) column of the view.
+
+Modifications of peripheral registers values are possible via Editing in the Binary column via BitButtons, Editing in the Hex column, Choosing an interpretation from an ComboBox in the Hex column
+
+The EmbSysRegView works with any 32 bit target that stores data in little endian byte order and maps its register into memory adress space.
+In other words, if you find your registers in the CDT Memory View, the RegisterView will also work with that device assumin that a chip xml description is available.","Categories
+Software Development"
+"Fast and easy TYPO3-Setup for Windows (WAMP). Just Download, Setup and Run TYPO3. Complete Apache Webserver with PHP/MySQL, easy Windows-Frontend for Endusers. Preconfigured Dummy, Quickstart and Testsite-Package of TYPO3 available.Fast and easy TYPO3-Setup for Windows (WAMP). Just Download, Setup and Run TYPO3. Complete Apache Webserver with PHP/MySQL, easy Windows-Frontend for Endusers. Preconfigured Dummy, Quickstart and Testsite-Package of TYPO3 available.","Categories
+HTTP Servers, Application Servers, Mobile"
+"Python bindings for Ogre3d graphics engine, built using Py++ and Boost.Python library - Also refered to a Python-Ogre.Python bindings for Ogre3d graphics engine, built using Py++ and Boost.Python library - Also refered to a Python-Ogre.","Categories
+Games/Entertainment, Code Generators, Multimedia"
+jquerywtp is a eclipse plugin make eclipse wtp's javascript content assistance support jquery.jquerywtp is a eclipse plugin make eclipse wtp's javascript content assistance support jquery.,"Categories
+Usability"
+"SMC takes a state machine stored in a .sm file and generates a State pattern in 14 programming languages. Includes: default transitions, transition args, transition guards, push/pop transitions and Entry/Exit actions. See User Manual for more info.SMC takes a state machine stored in a .sm file and generates a State pattern in 14 programming languages. Includes: default transitions, transition args, transition guards, push/pop transitions and Entry/Exit actions. See User Manual for more info.","Categories
+Build Tools, Object Oriented, Code Generators, Compilers"
+"An implementation of the the ANSI Standard REXX Programming Language, available for most operating systems.An implementation of the the ANSI Standard REXX Programming Language, available for most operating systems.","Categories
+Interpreters"
+"Source Navigator NG is a source code analysis tool.
+With it, you can edit your source code, display relationships between classes and functions and members, and display call trees.
+
+You can navigate your source code and easily get to declarations or implementations of functions, variables and macros (commonly called ""symbols"") which helps you discovering and mapping unknown source code for enhancement or maintenance tasks.Source Navigator NG is a source code analysis tool.
+With it, you can edit your source code, display relationships between classes and functions and members, and display call trees.
+
+You can navigate your source code and easily get to declarations or implementations of functions, variables and macros (commonly called ""symbols"") which helps you discovering and mapping unknown source code for enhancement or maintenance tasks.","Categories
+Build Tools, Source Code Analysis, Source Code Management"
+"JChart2D is a easy to use component for displaying two- dimensional traces in a coordinate system written in Java. It supports real-time (animated) charting, custom trace rendering, Multithreading, viewports, automatic scaling and labels.
+Former UI controls (right click context menu, file menu) have been ported to the subproject jchart2d-uimenu (https://sourceforge.net/projects/jchart2d-uimenu.jchart2d.p/) for the benefit of having no dependencies to 3rd party libraries.JChart2D is a easy to use component for displaying two- dimensional traces in a coordinate system written in Java. It supports real-time (animated) charting, custom trace rendering, Multithreading, viewports, automatic scaling and labels.
+Former UI controls (right click context menu, file menu) have been ported to the subproject jchart2d-uimenu (https://sourceforge.net/projects/jchart2d-uimenu.jchart2d.p/) for the benefit of having no dependencies to 3rd party libraries.","Categories
+User Interface (UI), Library, Graphics, Data Visualization, Charting Libraries"
+"EPIC is an open source Perl IDE for the Eclipse platform. Features supported are syntax highlighting, on the fly syntax check, content assist, perldoc support, source formatter, templating support, regular expression plugin and a Perl debugger.EPIC is an open source Perl IDE for the Eclipse platform. Features supported are syntax highlighting, on the fly syntax check, content assist, perldoc support, source formatter, templating support, regular expression plugin and a Perl debugger.","Categories
+Integrated Development Environments (IDE), Software Development"
+"PICSimLab is a realtime emulator of development boards with MPLABX/avr-gdb debugger integration. PICSimLab supports microcontrollers from picsim, simavr, uCsim, qemu-stm32, qemu-esp32, and gpsim. PICSimLab has integration with MPLABX/Arduino IDE for programming the microcontroller's boards. As the purpose of PICSimLab is to emulate real hardware it does not have any source code editing support. For code editing and debugging the same tools used for a real board should be used with PICSimLab, such as MPLABX, Arduino IDE, or VSCode with PlatformIO.
+PICSimLab supports several devices (spare parts) that can be connected to the boards for simulation. Such as example LEDs and push buttons for simple outputs and inputs and some more complex ones like the ethernet shield w5500 for internet connection or the color graphic display ili9340 with touchscreen. The complete list of parts can be accessed in the documentation.
+
+Documentation at https://lcgamboa.github.io/picsimlab/PICSimLab is a realtime emulator of development boards with MPLABX/avr-gdb debugger integration. PICSimLab supports microcontrollers from picsim, simavr, uCsim, qemu-stm32, qemu-esp32, and gpsim. PICSimLab has integration with MPLABX/Arduino IDE for programming the microcontroller's boards. As the purpose of PICSimLab is to emulate real hardware it does not have any source code editing support. For code editing and debugging the same tools used for a real board should be used with PICSimLab, such as MPLABX, Arduino IDE, or VSCode with PlatformIO.
+PICSimLab supports several devices (spare parts) that can be connected to the boards for simulation. Such as example LEDs and push buttons for simple outputs and inputs and some more complex ones like the ethernet shield w5500 for internet connection or the color graphic display ili9340 with touchscreen. The complete list of parts can be accessed in the documentation.
+
+Documentation at https://lcgamboa.github.io/picsimlab/","Categories
+Software Testing, Simulation, Electronic Design Automation (EDA), Computer Aided Instruction (CAI)"
+"Nifty GUI is a Java Library that supports the building of interactive user interfaces for games or similar applications. It utilizes LWJGL, JME, Java2d or JOGL for OpenGL rendering. Nifty = Layout + Display + Interact done in a Nifty way :)Nifty GUI is a Java Library that supports the building of interactive user interfaces for games or similar applications. It utilizes LWJGL, JME, Java2d or JOGL for OpenGL rendering. Nifty = Layout + Display + Interact done in a Nifty way :)","Categories
+User Interface (UI)"
+"The dominant application framework for Java, Spring solves core enterprise development and runtime problems, offering configuration via Dependency Injection; declarative services via AOP; and packaged enterprise services. Developed by SpringSource.The dominant application framework for Java, Spring solves core enterprise development and runtime problems, offering configuration via Dependency Injection; declarative services via AOP; and packaged enterprise services. Developed by SpringSource.","Categories
+Software Development"
+"NOTE! We have moved to https://gitlab.com/msc-generator/msc-generator All development happens there. Also, download new releases & submit issues there.
+
+A tool to draw various charts from textual descriptions. Currently, three types of charts are supported: Message Sequence Charts, generic Graphs, and Block Diagrams, with more to be added in the future. There is a command-line version for Linux and Mac (replacing mscgen), which now sports a GUI, as well.
+
+Msc-generator allows fine control over the appearance and has a rich feature set complete with detailed documentation. On Windows, you can embed the charts in a document or presentation and simply double-click it in Office to edit them. On Linux and the Mac, a command-line version is available, and a GUI, as well.
+A .deb package is available starting from Debian Bookworm (currently testing) and Ubuntu Jammy Jellyfish (22.04) from the official repositories. For older releases see the Wiki. A Mac homebrew package is available.NOTE! We have moved to https://gitlab.com/msc-generator/msc-generator All development happens there. Also, download new releases & submit issues there.
+
+A tool to draw various charts from textual descriptions. Currently, three types of charts are supported: Message Sequence Charts, generic Graphs, and Block Diagrams, with more to be added in the future. There is a command-line version for Linux and Mac (replacing mscgen), which now sports a GUI, as well.
+
+Msc-generator allows fine control over the appearance and has a rich feature set complete with detailed documentation. On Windows, you can embed the charts in a document or presentation and simply double-click it in Office to edit them. On Linux and the Mac, a command-line version is available, and a GUI, as well.
+A .deb package is available starting from Debian Bookworm (currently testing) and Ubuntu Jammy Jellyfish (22.04) from the official repositories. For older releases see the Wiki. A Mac homebrew package is available.","Categories
+Documentation, Data Visualization"
+"RSyntaxTextArea is a syntax highlighting, code folding text component written in Swing.
+
+NOTE: For quite awhile now, RSTA's source has been hosted on GitHub, but releases were mirrored here on SourceForge. As of late 2015, all release artifacts are also hosted solely on GitHub. This SourceForge site is simply here to forward folks to our GitHub home:
+
+http://github.com/bobbylight/RSyntaxTextArea
+
+Artifacts are also available in Maven, e.g. com.fifesoft:rsyntaxtextarea:2.x.xRSyntaxTextArea is a syntax highlighting, code folding text component written in Swing.
+
+NOTE: For quite awhile now, RSTA's source has been hosted on GitHub, but releases were mirrored here on SourceForge. As of late 2015, all release artifacts are also hosted solely on GitHub. This SourceForge site is simply here to forward folks to our GitHub home:
+
+http://github.com/bobbylight/RSyntaxTextArea
+
+Artifacts are also available in Maven, e.g. com.fifesoft:rsyntaxtextarea:2.x.x","Categories
+Integrated Development Environments (IDE), User Interface (UI)"
+"Psyco showed that it is possible to execute Python code at speeds approaching that of fully compiled languages, by ""specialization"".
+
+The project is now dead and replaced by PyPy: http://pypy.org/Psyco showed that it is possible to execute Python code at speeds approaching that of fully compiled languages, by ""specialization"".
+
+The project is now dead and replaced by PyPy: http://pypy.org/","Categories
+Compilers, Interpreters"
+"Mac OS X Transformation Pack. Macbuntu is an open-source program, designed to transform Linux’s appearance and layout into a Mac OS X environment. Although Macbuntu is dedicated to Ubuntu Linux OS, it could be used in other OS based on Debian/GTKMac OS X Transformation Pack. Macbuntu is an open-source program, designed to transform Linux’s appearance and layout into a Mac OS X environment. Although Macbuntu is dedicated to Ubuntu Linux OS, it could be used in other OS based on Debian/GTK","Categories
+Enlightenment Themes, GNOME, User Interface (UI)"
+"PyDev is a Python Development Environment (Python IDE plugin for Eclipse).
+
+It features an editor with code completion, code analysis, refactoring, outline view, debugger, mark occurrences and other goodies - check http://pydev.org for more details).
+
+It's kept going by community contributions, so, if you think it's a worthy project, please contribute through http://pydev.orgPyDev is a Python Development Environment (Python IDE plugin for Eclipse).
+
+It features an editor with code completion, code analysis, refactoring, outline view, debugger, mark occurrences and other goodies - check http://pydev.org for more details).
+
+It's kept going by community contributions, so, if you think it's a worthy project, please contribute through http://pydev.org","Categories
+Integrated Development Environments (IDE), Software Development"
+**Click 'Browse all files' to see the release notes** -- This tool is an Eclipse editor plugin to provide source code formatting for Adobe Flex code (i.e. Actionscript and MXML).**Click 'Browse all files' to see the release notes** -- This tool is an Eclipse editor plugin to provide source code formatting for Adobe Flex code (i.e. Actionscript and MXML).,"Categories
+Integrated Development Environments (IDE), Code Generators"
+"Modbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for ServerModbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for Server","Categories
+Communications, Software Development, Scientific/Engineering"
+"The Regulator is an advanced Regular expressions testing tool, featuring syntax highlighting and web-service integration with Regexlib.com's database of online regular expressions.
+See more info at http://regulator.sourceforge.netThe Regulator is an advanced Regular expressions testing tool, featuring syntax highlighting and web-service integration with Regexlib.com's database of online regular expressions.
+See more info at http://regulator.sourceforge.net","Categories
+Software Development"
+"JVCL is a library of over 600 Delphi components developed by ""Project JEDI"" members.JVCL is a library of over 600 Delphi components developed by ""Project JEDI"" members.","Categories
+Software Development"
+"This is the home of the old MindTouch Platform and Core. This project was turned over to the community in 2010. Please visit www.MindTouch.com for the most up to date version of MindTouch--software that accelerates customer success.
+
+More info on the old Core and Platform: http://mndt.ch/oss-dep
+
+Thanks for your interest and for making the old MindTouch open source one of the most popular (top 5) open source projects in the world from 2007-2010.
+
+Some key terms commonly associated with this project are: customer support, self service support, customer success center, help center, enterprise wiki, etcThis is the home of the old MindTouch Platform and Core. This project was turned over to the community in 2010. Please visit www.MindTouch.com for the most up to date version of MindTouch--software that accelerates customer success.
+
+More info on the old Core and Platform: http://mndt.ch/oss-dep
+
+Thanks for your interest and for making the old MindTouch open source one of the most popular (top 5) open source projects in the world from 2007-2010.
+
+Some key terms commonly associated with this project are: customer support, self service support, customer success center, help center, enterprise wiki, etc","Categories
+Text Editors, Enterprise, Site Management, Frameworks, Wiki"
+"Image32 is a comprehensive 2D graphics library written in Delphi Pascal. It provides an extensive range of image manipulation and drawing functions.
+
+NOTE: THIS LIBRARY IS NOW HOSTED ON GITHUB AND FURTHER DEVELOPMENT CONTINUES THERE.
+THE SOURCE CODE HERE IS FUNCTIONAL BUT NO LONGER UP TO DATE.Image32 is a comprehensive 2D graphics library written in Delphi Pascal. It provides an extensive range of image manipulation and drawing functions.
+
+NOTE: THIS LIBRARY IS NOW HOSTED ON GITHUB AND FURTHER DEVELOPMENT CONTINUES THERE.
+THE SOURCE CODE HERE IS FUNCTIONAL BUT NO LONGER UP TO DATE.","Categories
+Libraries"
+"v3.9.0
+one C file + header (add them to your C or C++ project) with 8 functions:
+- beep
+- tray notify popup
+- message & question
+- input & password
+- save file
+- open file(s)
+- select folder
+- color picker
+
+complements OpenGL Vulkan GLFW GLUT GLUI VTK SFML TGUI
+SDL Ogre Unity3d ION OpenCV CEGUI MathGL GLM CPW GLOW
+Open3D IMGUI MyGUI GLT NGL STB Nuklear & GUI-less programs
+
+NO INIT
+NO MAIN LOOP
+NO LINKING
+NO INCLUDE
+
+win (XP to 11) ASCII MBCS UTF-8 UTF-16 (wchar_t)
+- native code creates the graphic dialogs
+
+osx/unix ASCII UTF-8
+- applescript, kdialog, zenity ...
+
+° SSH console / X forwarding
+° the dialogs can be forced into console mode
+° curses dialogs via dialog.exe/Dialog
+
+C89/C18 & C++98/C++20 compliant
+VisualStudio MinGW GCC Clang TinyCC OpenWatcom-v2 BorlandC SunCC ZapCC
+on Windows Mac Linux Bsd Solaris Minix Raspbian Flatpak
+
+bindings for VCPKG, C#, LUA, Fortran, Rust, Haskell, Java, Basic
+
+click on tab 'Files' to see the function prototypesv3.9.0
+one C file + header (add them to your C or C++ project) with 8 functions:
+- beep
+- tray notify popup
+- message & question
+- input & password
+- save file
+- open file(s)
+- select folder
+- color picker
+
+complements OpenGL Vulkan GLFW GLUT GLUI VTK SFML TGUI
+SDL Ogre Unity3d ION OpenCV CEGUI MathGL GLM CPW GLOW
+Open3D IMGUI MyGUI GLT NGL STB Nuklear & GUI-less programs
+
+NO INIT
+NO MAIN LOOP
+NO LINKING
+NO INCLUDE
+
+win (XP to 11) ASCII MBCS UTF-8 UTF-16 (wchar_t)
+- native code creates the graphic dialogs
+
+osx/unix ASCII UTF-8
+- applescript, kdialog, zenity ...
+
+° SSH console / X forwarding
+° the dialogs can be forced into console mode
+° curses dialogs via dialog.exe/Dialog
+
+C89/C18 & C++98/C++20 compliant
+VisualStudio MinGW GCC Clang TinyCC OpenWatcom-v2 BorlandC SunCC ZapCC
+on Windows Mac Linux Bsd Solaris Minix Raspbian Flatpak
+
+bindings for VCPKG, C#, LUA, Fortran, Rust, Haskell, Java, Basic
+
+click on tab 'Files' to see the function prototypes","Categories
+User Interface (UI), Libraries"
+"WinPython is a free open-source portable distribution of the Python programming language for Windows XP/7/8, designed for scientists, supporting both 32bit and 64bit versions of Python 2 and Python 3.
+Since September 2014, Developpement has moved to https://winpython.github.io/WinPython is a free open-source portable distribution of the Python programming language for Windows XP/7/8, designed for scientists, supporting both 32bit and 64bit versions of Python 2 and Python 3.
+Since September 2014, Developpement has moved to https://winpython.github.io/","Categories
+Software Development, Scientific/Engineering"
+"QtRPT is the easy-to-use report engine written in C++ QtToolkit. It allows combining several reports in one XML file. For separately taken field, you can specify some condition depending on which this field will display in different font and background color, etc. The project consists of two parts: report library QtRPT and report designer application QtRptDesigner. Report file is a file in XML format. The report designer makes easy to create report XML file.QtRPT is the easy-to-use report engine written in C++ QtToolkit. It allows combining several reports in one XML file. For separately taken field, you can specify some condition depending on which this field will display in different font and background color, etc. The project consists of two parts: report library QtRPT and report designer application QtRptDesigner. Report file is a file in XML format. The report designer makes easy to create report XML file.","Categories
+Printing, Libraries, Report Generators"
+"PL-jrxml2pdf is a PL/SQL-program which takes a report-definition in jrxml-format and generated a PDF-result from it. It's pure PL/SQL, so there's no need for any middleware.
+
+Design your reports graphically, e.g. by using iReports from JasperSoft, then use PL-jrxml2pdf as runtime-engine to generate PDF from PL/SQL.
+
+The software comes with an Oracle APEX-application whichs installs all required objects and samples.
+Also the APEX-application allows you
+- to manage all PL-jrxml2pdf-objects
+- to run reports
+- to view logs written when running a report
+
+The JRXML-generator allows you to generate report-definitions out of APEX-pages to fasten the process of creating reports.
+
+See the Wiki for detailed version-info.PL-jrxml2pdf is a PL/SQL-program which takes a report-definition in jrxml-format and generated a PDF-result from it. It's pure PL/SQL, so there's no need for any middleware.
+
+Design your reports graphically, e.g. by using iReports from JasperSoft, then use PL-jrxml2pdf as runtime-engine to generate PDF from PL/SQL.
+
+The software comes with an Oracle APEX-application whichs installs all required objects and samples.
+Also the APEX-application allows you
+- to manage all PL-jrxml2pdf-objects
+- to run reports
+- to view logs written when running a report
+
+The JRXML-generator allows you to generate report-definitions out of APEX-pages to fasten the process of creating reports.
+
+See the Wiki for detailed version-info.","Categories
+Software Development, Printing, Admin Templates"
+Debugger for Bash version 3(Bourne again shell). Plugin for Eclipse. Will only work with shell script editor ShellEd.Debugger for Bash version 3(Bourne again shell). Plugin for Eclipse. Will only work with shell script editor ShellEd.,"Categories
+Debuggers, System Shells"
+Makefile generation tool for Code::Blocks IDEMakefile generation tool for Code::Blocks IDE,"Categories
+Build Tools"
+"Ralasafe Access Control Middleware focus on data-level privilege management, including database row/column and content privilege management. It also manages 2) login control; 3) function-level privilege management; and 4) URL privilege authenticationRalasafe Access Control Middleware focus on data-level privilege management, including database row/column and content privilege management. It also manages 2) login control; 3) function-level privilege management; and 4) URL privilege authentication","Categories
+Security, Software Development"
+A jQuery plugin which extends normal dropdown (select) elements to be searchable.A jQuery plugin which extends normal dropdown (select) elements to be searchable.,"Categories
+Software Development"

@@ -1,0 +1,627 @@
+Description,Category
+"See http://www.cubrid.org/cluster. CUBRID Cluster is an open source clustered DBMS for high scalability including global schema, distributed partition and load balancing features. It is a spin-off project from CUBRID project and supported by NHN.See http://www.cubrid.org/cluster. CUBRID Cluster is an open source clustered DBMS for high scalability including global schema, distributed partition and load balancing features. It is a spin-off project from CUBRID project and supported by NHN.","Categories
+Database Engines/Servers, Clustering, Load Balancers"
+"TCP/IP Manager is designed to help computer users keep track of their network configuration in different locations. At home or at work, changing network settings is now just one click away!TCP/IP Manager is designed to help computer users keep track of their network configuration in different locations. At home or at work, changing network settings is now just one click away!","Categories
+Systems Administration, Networking"
+"AspeQt is the free Atari serial peripheral emulator for Qt. This program emulates various Atari 8-bit family peripherals, most notably the disk drives via an SIO2PC cable.AspeQt is the free Atari serial peripheral emulator for Qt. This program emulates various Atari 8-bit family peripherals, most notably the disk drives via an SIO2PC cable.","Categories
+Emulators"
+"Please note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etcPlease note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etc","Categories
+Communications, WWW/HTTP, Logging, Hardware Drivers, File Systems, Scientific/Engineering"
+"Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.","Categories
+Communications, Security, Systems Administration, Internet"
+hdparm - get/set ATA/SATA drive parameters under Linuxhdparm - get/set ATA/SATA drive parameters under Linux,"Categories
+Systems Administration, Hardware Drivers"
+A class for PHP to talk to Active Directory through LDAP.A class for PHP to talk to Active Directory through LDAP.,"Categories
+WWW/HTTP, LDAP"
+"Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. If you use Vim, vifm gives you complete keyboard control over your files without having to learn a new set of commands.Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. If you use Vim, vifm gives you complete keyboard control over your files without having to learn a new set of commands.","Categories
+File Managers"
+BASE is the Basic Analysis and Security Engine. It is based on the code from the Analysis Console for Intrusion Databases (ACID) project. This application provides a web front-end to query and analyze the alerts coming from a SNORT IDS system.BASE is the Basic Analysis and Security Engine. It is based on the code from the Analysis Console for Intrusion Databases (ACID) project. This application provides a web front-end to query and analyze the alerts coming from a SNORT IDS system.,"Categories
+Security, Systems Administration, Firewall, Monitoring, Logging"
+"Supporting applications for John Haller's PortableApps.com, including some open source tools set up in PAF installer format.Supporting applications for John Haller's PortableApps.com, including some open source tools set up in PAF installer format.","Categories
+Software Testing, User Interface (UI), QA Automation, Usability, Installation/Setup"
+"This project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txtThis project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txt","Categories
+Internet Phone, Telephony, Networking, Internet"
+fsarchiver is a system tool that allows you to save the contents of a file-system to a compressed archive file. The file-system can be restored on a partition which has a different size and it can be restored on a different file-system.fsarchiver is a system tool that allows you to save the contents of a file-system to a compressed archive file. The file-system can be restored on a partition which has a different size and it can be restored on a different file-system.,"Categories
+File Systems"
+"swatchdog.pl started out as swatch, the ""simple watchdog"" for activity monitoring log files produced by UNIX's syslog facility. It has since been evolving into a utility that can monitor just about any type of log. The name has been changed to satisfy a request made by the old Swiss watch company.swatchdog.pl started out as swatch, the ""simple watchdog"" for activity monitoring log files produced by UNIX's syslog facility. It has since been evolving into a utility that can monitor just about any type of log. The name has been changed to satisfy a request made by the old Swiss watch company.","Categories
+Log Analysis, Systems Administration, Logging"
+"Remote control software for applications using Bluetooth or Wi-Fi.
+
+anyRemote supports wide range of modern cell phones line Nokia, SonyEricsson, Motorola, majority of Android phones and others.Remote control software for applications using Bluetooth or Wi-Fi.
+
+anyRemote supports wide range of modern cell phones line Nokia, SonyEricsson, Motorola, majority of Android phones and others.","Categories
+Telephony, Wireless"
+"i-Blue 747 / i-Blue 757 / Qstarz BT-Q1000 / i.Trek Z1 / Konet BGL-32 / Holux M-241 / ... control SW (for Java Phones, PalmOS, WinCe (PPC), Java platforms, Windows, Linux, and MacOS). Compatible with most MTK GPS Chipset based loggers.i-Blue 747 / i-Blue 757 / Qstarz BT-Q1000 / i.Trek Z1 / Konet BGL-32 / Holux M-241 / ... control SW (for Java Phones, PalmOS, WinCe (PPC), Java platforms, Windows, Linux, and MacOS). Compatible with most MTK GPS Chipset based loggers.","Categories
+Hardware Drivers, GPS"
+"Expect is a tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc. Expect is also useful for testing these same applications.Expect is a tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc. Expect is also useful for testing these same applications.","Categories
+Software Development, Systems Administration"
+"The first free tool for Windows able to draw multi-level pie charts of disk space ! HDGraph displays graphically the hard disk space usage. It shows all your directories and subdirectories on a single graph, allowing to see the largest ones at a glance.The first free tool for Windows able to draw multi-level pie charts of disk space ! HDGraph displays graphically the hard disk space usage. It shows all your directories and subdirectories on a single graph, allowing to see the largest ones at a glance.","Categories
+File Managers, File Systems"
+WixEdit is an editor for XML source code of the Windows Installer XML (WiX) toolset. WixEdit lets you create MSI and MSM setup packages with the WiX Toolset. It provides a visual representation of the dialogs and an easy way to edit the WiX source files. (Project moved to Github: https://github.com/WixEdit/WixEdit)WixEdit is an editor for XML source code of the Windows Installer XML (WiX) toolset. WixEdit lets you create MSI and MSM setup packages with the WiX Toolset. It provides a visual representation of the dialogs and an easy way to edit the WiX source files. (Project moved to Github: https://github.com/WixEdit/WixEdit),"Categories
+Build Tools, Software Distribution, Installation/Setup"
+"An open source bluetooth stack for Linux (and other operating systems). Support for SDP/L2CAP/RFCOMM.
+
+No further development is expected for this project as BlueZ has taken the official role as bluetooth stack for Linux.An open source bluetooth stack for Linux (and other operating systems). Support for SDP/L2CAP/RFCOMM.
+
+No further development is expected for this project as BlueZ has taken the official role as bluetooth stack for Linux.","Categories
+Communications, Networking"
+"Do you know all devices connected to your IT network ? Do you know which software or hardware component is installed on a computer ? Are you able to deploy softwares or configuration scripts on your computers ? No, then Try OCS Inventory NG at http://www.ocsinventory-ng.org...Do you know all devices connected to your IT network ? Do you know which software or hardware component is installed on a computer ? Are you able to deploy softwares or configuration scripts on your computers ? No, then Try OCS Inventory NG at http://www.ocsinventory-ng.org...","Categories
+Software Distribution, Systems Administration, Networking"
+"IMPORTANT NOTE: The PyCmd project has moved to GitHub: https://github.com/horeah/PyCmd
+
+PyCmd is a smart command prompt extension for Windows' cmd.exe; its purpose is to emulate a few power features of UNIX shells (decent Tab-completion, persistent history, etc.)IMPORTANT NOTE: The PyCmd project has moved to GitHub: https://github.com/horeah/PyCmd
+
+PyCmd is a smart command prompt extension for Windows' cmd.exe; its purpose is to emulate a few power features of UNIX shells (decent Tab-completion, persistent history, etc.)","Categories
+System Shells"
+"Please find the linuxwacom project's new home on Github:
+https://linuxwacom.github.io/
+
+Previous Description: This project manages the libraries, configuration, and diagnostic tools for Wacom tablets running under Linux. It also maintains updated Linux kernel drivers and Xorg/XFree86 XInput drivers.Please find the linuxwacom project's new home on Github:
+https://linuxwacom.github.io/
+
+Previous Description: This project manages the libraries, configuration, and diagnostic tools for Wacom tablets running under Linux. It also maintains updated Linux kernel drivers and Xorg/XFree86 XInput drivers.","Categories
+Operating System Kernels, Hardware Drivers, Graphics"
+"ShellNewHandler is an Open-Source Tool to enable/disable ShellNew entries, aka New File context menu entries from Windows Explorer in Vista and Windows 7. Check or uncheck items to enable a desktop right-click context menu item. No need to install.ShellNewHandler is an Open-Source Tool to enable/disable ShellNew entries, aka New File context menu entries from Windows Explorer in Vista and Windows 7. Check or uncheck items to enable a desktop right-click context menu item. No need to install.","Categories
+System Shells, File Systems"
+"""Open Source Tripwire® has now moved to https://github.com/Tripwire/tripwire-open-source.
+
+Open Source Tripwire® software is a security and data integrity tool useful for monitoring and alerting on specific file change(s) on a range of systems. The project is based on code originally contributed by Tripwire, Inc. in 2000. """"Open Source Tripwire® has now moved to https://github.com/Tripwire/tripwire-open-source.
+
+Open Source Tripwire® software is a security and data integrity tool useful for monitoring and alerting on specific file change(s) on a range of systems. The project is based on code originally contributed by Tripwire, Inc. in 2000. ""","Categories
+Systems Administration, Monitoring"
+"The Null-modem emulator (com0com) is a kernel-mode virtual serial port driver for Windows. You can create an unlimited number of virtual COM port pairs and use any pair to connect one COM port based application to another. The HUB for communications (hub4com) allows to receive data and signals from one COM or TCP port, modify and send it to a number of other COM or TCP ports and vice versa.The Null-modem emulator (com0com) is a kernel-mode virtual serial port driver for Windows. You can create an unlimited number of virtual COM port pairs and use any pair to connect one COM port based application to another. The HUB for communications (hub4com) allows to receive data and signals from one COM or TCP port, modify and send it to a number of other COM or TCP ports and vice versa.","Categories
+Serial, Telnet, Emulators"
+"Change is good but changing everything isn't always great. Same is true for aging computers and their operating systems. Support is sometimes lost too quickly with a 6 month core release cycle. Graphics & Audio cards and chipsets get dropped along with other miscellaneous functions with programs or drivers that just go missing. We all like having updated software we certainly don't like down time or loss of features and capabilities.
+
+I believe most aging hardware just needs the right system on it, and lets face it, it helps keep a couple bucks in your pocket if you can squeeze a few more years out of your current system; without sacrificing, performance, capability, usability and of course aesthetics.
+
+http://lxle.net/forums/Change is good but changing everything isn't always great. Same is true for aging computers and their operating systems. Support is sometimes lost too quickly with a 6 month core release cycle. Graphics & Audio cards and chipsets get dropped along with other miscellaneous functions with programs or drivers that just go missing. We all like having updated software we certainly don't like down time or loss of features and capabilities.
+
+I believe most aging hardware just needs the right system on it, and lets face it, it helps keep a couple bucks in your pocket if you can squeeze a few more years out of your current system; without sacrificing, performance, capability, usability and of course aesthetics.
+
+http://lxle.net/forums/","Categories
+Live CD"
+"Zentyal Server is an easy to use and affordable Linux server, specially designed to meet the needs of small and medium businesses
+
+Thanks to Zentyal's Samba integration, Zentyal provides native compatibility with Microsoft Active Directory, allowing you to join Microsoft clients to a domain and manage them easily.
+
+Zentyal Server incorporates all the network services required in a small and medium business environment:
+
+* Directory & Domain Server with native compatibility with Microsoft Active Directory
+* Mail Server with ActiveSync and webmail
+* Gateway with firewall and proxy
+* Infrastructure Server with DNS/DHCP server, Certification Authority and Virtual Private Networks
+
+For more information and download, please access the project's home page.Zentyal Server is an easy to use and affordable Linux server, specially designed to meet the needs of small and medium businesses
+
+Thanks to Zentyal's Samba integration, Zentyal provides native compatibility with Microsoft Active Directory, allowing you to join Microsoft clients to a domain and manage them easily.
+
+Zentyal Server incorporates all the network services required in a small and medium business environment:
+
+* Directory & Domain Server with native compatibility with Microsoft Active Directory
+* Mail Server with ActiveSync and webmail
+* Gateway with firewall and proxy
+* Infrastructure Server with DNS/DHCP server, Certification Authority and Virtual Private Networks
+
+For more information and download, please access the project's home page.","Categories
+Email, Calendar, Authentication/Directory, Email Servers"
+"smartmontools contains utility programs (smartctl, smartd) to control/monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (S.M.A.R.T.) built into most modern ATA and SCSI disks. It is derived from smartsuite.smartmontools contains utility programs (smartctl, smartd) to control/monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (S.M.A.R.T.) built into most modern ATA and SCSI disks. It is derived from smartsuite.","Categories
+Systems Administration, Logging, Hardware, Clustering"
+"CopyQ is advanced clipboard manager with searchable and editable history with support for image formats, command line control and more.CopyQ is advanced clipboard manager with searchable and editable history with support for image formats, command line control and more.","Categories
+Office/Business, Storage, Clipboard Managers"
+"nagiosgraph parses output and performance data from Nagios plugins, stores the data in RRD files, and creates graphs and reports from the data. Graphs and reports can be embedded in Nagios. Easy to setup, highly customizable, and few dependencies.nagiosgraph parses output and performance data from Nagios plugins, stores the data in RRD files, and creates graphs and reports from the data. Graphs and reports can be embedded in Nagios. Easy to setup, highly customizable, and few dependencies.","Categories
+Monitoring"
+"Search and replace operations on file content accross multiple files. Recursive operations within entire directory trees. FAR comes with support for regular expressions (regex) over multiple lines, automatic backup and various character encodings. Run grep like extractions to condense or rearrange sources, or perform bulk file renaming.Search and replace operations on file content accross multiple files. Recursive operations within entire directory trees. FAR comes with support for regular expressions (regex) over multiple lines, automatic backup and various character encodings. Run grep like extractions to condense or rearrange sources, or perform bulk file renaming.","Categories
+Text Processing, Software Development, Search"
+"A very high quality package of printer drivers for CUPS on Linux, Macintosh OS X, and other POSIX-compliant operating systems. This project also maintains an enhanced Print plug-in for GIMP 2.x from the same code base.A very high quality package of printer drivers for CUPS on Linux, Macintosh OS X, and other POSIX-compliant operating systems. This project also maintains an enhanced Print plug-in for GIMP 2.x from the same code base.","Categories
+Hardware Drivers, Printing, Raster Graphics"
+"Now you can easily install pure arch linux from my Arch Live Linux with Calam-Arch-Installer through video instructions, following the steps.
+
+Install Legacy-Bios or UEFI,
+
+Support Luks Yes
+
+There are also 9 selectable graphical environments for installation, Xfce, Gnome, Plasma,Cinnamon, Budgie, Openbox, I3, Mate, Deepin
+
+Good Luck!Now you can easily install pure arch linux from my Arch Live Linux with Calam-Arch-Installer through video instructions, following the steps.
+
+Install Legacy-Bios or UEFI,
+
+Support Luks Yes
+
+There are also 9 selectable graphical environments for installation, Xfce, Gnome, Plasma,Cinnamon, Budgie, Openbox, I3, Mate, Deepin
+
+Good Luck!","Categories
+Operating System Kernels, Live CD"
+"SwiftSearch is a lightweight program whose purpose is to help you quickly find the files you need on your Windows machine without ever requiring you to index your drives.
+Most search utilities that achieve similar speeds do so by indexing drives while the computer is idle, but because idleness detection is so difficult to get right, in practice they end up slowing down the whole system just to speed up search. SwiftSearch works differently: given administrator privileges, it completely bypasses the file system (only NTFS supported) and reads the file table directly every time, which speeds up search by many orders of magnitude. Typically searches yield full results in ~10 seconds or less, a significant speedup for many users.
+As a bonus, this program also supports path-based search (for example, you can search for ""*Program*\Windows*""), regular expressions (just start the search name with '>' character), and full directory sizes. Its goal is to be simple, swift, and intuitive to use.SwiftSearch is a lightweight program whose purpose is to help you quickly find the files you need on your Windows machine without ever requiring you to index your drives.
+Most search utilities that achieve similar speeds do so by indexing drives while the computer is idle, but because idleness detection is so difficult to get right, in practice they end up slowing down the whole system just to speed up search. SwiftSearch works differently: given administrator privileges, it completely bypasses the file system (only NTFS supported) and reads the file table directly every time, which speeds up search by many orders of magnitude. Typically searches yield full results in ~10 seconds or less, a significant speedup for many users.
+As a bonus, this program also supports path-based search (for example, you can search for ""*Program*\Windows*""), regular expressions (just start the search name with '>' character), and full directory sizes. Its goal is to be simple, swift, and intuitive to use.","Categories
+File Managers"
+An extremly fast and lightweight file manager which features tabbed browsing and user-friendly interfaceAn extremly fast and lightweight file manager which features tabbed browsing and user-friendly interface,"Categories
+Desktop Environment, File Managers"
+"VERY IMPORTANT: If you are installing MiyoLinux for the first time or if you are a current user, please see the announcement in the following link so that you will be able to update your system...
+https://sourceforge.net/p/miyolinux/blog/2022/09/fix-for-inability-to-update-the-system-expired-keyring/
+
+Miyo - is simply an acronym for ""make it your own"". Primarily intended for users with older hardware, MiyoLinux is a very minimal and base system that allows users the freedom to add the software and applications that they want or need without having to remove the ones that they don't want.
+
+SPECIAL ACKNOWLEDGMENTS: I would like to thank Mike Smith and Adarsh Bhat for all of their help, advice, input, and testing. Thank you Mike and Adarsh!
+
+Please do not submit MiyoLinux to DistroWatch. MiyoLinux is a personal project.VERY IMPORTANT: If you are installing MiyoLinux for the first time or if you are a current user, please see the announcement in the following link so that you will be able to update your system...
+https://sourceforge.net/p/miyolinux/blog/2022/09/fix-for-inability-to-update-the-system-expired-keyring/
+
+Miyo - is simply an acronym for ""make it your own"". Primarily intended for users with older hardware, MiyoLinux is a very minimal and base system that allows users the freedom to add the software and applications that they want or need without having to remove the ones that they don't want.
+
+SPECIAL ACKNOWLEDGMENTS: I would like to thank Mike Smith and Adarsh Bhat for all of their help, advice, input, and testing. Thank you Mike and Adarsh!
+
+Please do not submit MiyoLinux to DistroWatch. MiyoLinux is a personal project.","Categories
+Live CD"
+"NOTE PROJECT MIGRATED TO GITHUB - https://github.com/samrocketman/ekeyfinder
+
+is a Magical Jelly Bean Keyfinder fork. It is a utility that retrieves the product key used to install Windows from your registry or from an unbootable Windows installation. It works on Windows 9X, ME, NT/2K/XP, and Vista/Win7 and for other software.NOTE PROJECT MIGRATED TO GITHUB - https://github.com/samrocketman/ekeyfinder
+
+is a Magical Jelly Bean Keyfinder fork. It is a utility that retrieves the product key used to install Windows from your registry or from an unbootable Windows installation. It works on Windows 9X, ME, NT/2K/XP, and Vista/Win7 and for other software.","Categories
+Security, Systems Administration, Logging"
+"nmon is short for Nigel's Performance Monitor It either shows you the stats on-screen updating once a second or saves the data to a CSV file for later analysis and graphing. For details see the homepage ==> http://nmon.sourceforge.net
+Please use the latest version.
+The new version ""njmon"" outputs JSON format that a lot of tools use these days.nmon is short for Nigel's Performance Monitor It either shows you the stats on-screen updating once a second or saves the data to a CSV file for later analysis and graphing. For details see the homepage ==> http://nmon.sourceforge.net
+Please use the latest version.
+The new version ""njmon"" outputs JSON format that a lot of tools use these days.","Categories
+Systems Administration, Benchmark"
+"Flame Auto Clicker is an Open Source minimalist Auto Clicker.
+
+The CPS limit is your PC, but you can also add delay or click limit,
+or change the click button or start/stop clicking with a HotKey, which can be edited too.
+
+This Auto Clicker can be used with ANY game, Minecraft, Roblox and more!
+
+Source Code:
+GitHub: https://github.com/PETEROLO291/Flame-Auto-Clicker
+
+TIP: Set delay to 0 to get super fast clicks. Clicks are only limited by your PC hardwere!
+
+Installer: 9,22 MB
+Program: 27,3 MB
+Version: 1.6.1
+
+New in Version 1.6.1:
+-Fixed the bug that caused the Settings window to appear under the main window
+-Now you can start and stop with the same hotkey
+-Other minor bugs have been fixed
+-Fixed a bug that didn't allow the program work with normality if the ""Click until stopped"" box was checked
+
+If you liked this project consider buying me a coffee ☕
+Buy me a coffee ☕: https://www.paypal.me/PeterJSM
+
+Consider trying Ozyr: https://sourceforge.net/projects/ozyr/Flame Auto Clicker is an Open Source minimalist Auto Clicker.
+
+The CPS limit is your PC, but you can also add delay or click limit,
+or change the click button or start/stop clicking with a HotKey, which can be edited too.
+
+This Auto Clicker can be used with ANY game, Minecraft, Roblox and more!
+
+Source Code:
+GitHub: https://github.com/PETEROLO291/Flame-Auto-Clicker
+
+TIP: Set delay to 0 to get super fast clicks. Clicks are only limited by your PC hardwere!
+
+Installer: 9,22 MB
+Program: 27,3 MB
+Version: 1.6.1
+
+New in Version 1.6.1:
+-Fixed the bug that caused the Settings window to appear under the main window
+-Now you can start and stop with the same hotkey
+-Other minor bugs have been fixed
+-Fixed a bug that didn't allow the program work with normality if the ""Click until stopped"" box was checked
+
+If you liked this project consider buying me a coffee ☕
+Buy me a coffee ☕: https://www.paypal.me/PeterJSM
+
+Consider trying Ozyr: https://sourceforge.net/projects/ozyr/","Categories
+Games/Entertainment, Auto Clicker, Roblox Mods, Minecraft Mods"
+"Parrot is a cloud friendly operating system designed for Pentesting, Computer Forensic, Reverse engineering, Hacking, Cloud pentesting, privacy/anonimity and cryptography. Based on Debian and developed by Frozenbox network.Parrot is a cloud friendly operating system designed for Pentesting, Computer Forensic, Reverse engineering, Hacking, Cloud pentesting, privacy/anonimity and cryptography. Based on Debian and developed by Frozenbox network.","Categories
+Security, OS distribution, Live CD"
+"I present to you Voyager 22.10 non LTS and 22.04 LTS Edition Explorer in final version. A 2-in-1 version with, for the first time, the Gnome and Xfce desktops unified in a single Voyager distribution, to be selected during your session. All in an old school adventure style completely redesigned for this duo. The Gnome desktop coupled with the Xfce desktop with the promise finally kept, to have 2 unified Gnome and Xfce systems, light, fast, modern, fluid, secure and efficient in a hybrid PC and Tablet environment. The 2 offices are quite distinct and their respective applications are for the most part invisible, for one or the other environment. This release is based on the final Linux kernel and the latest Ubuntu release either in non-LTS 9 months updates or LTS (long term support) 5 years updates. Other Voyager distributions are available such as Voyager 11 based on Debian 11 Bullseye. And all the old Voyagers to see on the Voyager website.I present to you Voyager 22.10 non LTS and 22.04 LTS Edition Explorer in final version. A 2-in-1 version with, for the first time, the Gnome and Xfce desktops unified in a single Voyager distribution, to be selected during your session. All in an old school adventure style completely redesigned for this duo. The Gnome desktop coupled with the Xfce desktop with the promise finally kept, to have 2 unified Gnome and Xfce systems, light, fast, modern, fluid, secure and efficient in a hybrid PC and Tablet environment. The 2 offices are quite distinct and their respective applications are for the most part invisible, for one or the other environment. This release is based on the final Linux kernel and the latest Ubuntu release either in non-LTS 9 months updates or LTS (long term support) 5 years updates. Other Voyager distributions are available such as Voyager 11 based on Debian 11 Bullseye. And all the old Voyagers to see on the Voyager website.","Categories
+OS distribution"
+"Polarity is a dual engine browser powered by both Chromium and Trident that focuses on system efficiency by bringing low RAM and low CPU usage. This browser was also programmed to be optimized for Windows with an Android version available. Browse the web with an uncomplicated UI that is highly customizable with themes, apps, and extensions from the Polarity Store, GreasyFork, OpenUserJS, and UserStyles. Polarity also comes with a built in password manager which safely encrypts all data to prevent theft. Polarity also comes with a built in adblocker and privacy tools such as proxy/VPN support and header masking to prevent further tracking online.
+
+If you appreciate all the hard work that we put into creating and developing Polarity, please consider giving a small donation at: https://polaritybrowser.netlify.com/donatePolarity is a dual engine browser powered by both Chromium and Trident that focuses on system efficiency by bringing low RAM and low CPU usage. This browser was also programmed to be optimized for Windows with an Android version available. Browse the web with an uncomplicated UI that is highly customizable with themes, apps, and extensions from the Polarity Store, GreasyFork, OpenUserJS, and UserStyles. Polarity also comes with a built in password manager which safely encrypts all data to prevent theft. Polarity also comes with a built in adblocker and privacy tools such as proxy/VPN support and header masking to prevent further tracking online.
+
+If you appreciate all the hard work that we put into creating and developing Polarity, please consider giving a small donation at: https://polaritybrowser.netlify.com/donate","Categories
+Internet, VPN, YouTube Downloaders, Download Managers"
+"Windows XP+/32 bit native port of GNU Midnight Commander,
+based on the current 4.8.28 development stream.
+
+Midnight Commander (also known as mc) is a free cross-platform orthodox file manager
+and a clone of Norton Commander.
+
+Supports both the recent Windows 10 enhanced plus legacy consoles,
+16 and 256+ colour modes are available within either. Features include the ability work with common archive formats as if they were simply another directory, and function as an SFTP/FTP client.
+
+Also includes an built-in editor/viewer, features include syntax highlighting for many languages,
+macros, code snippets, simple integration with external tools, automatic indentation, mouse support,
+clipboard and the ability to work in both ASCII and hex modes.
+
+MC can also rename groups of files, move files to a different directory at the same time as it.renames them. It lets the user specify the original and resulting file names using wildcard.
+
+https://github.com/adamyg/mcwin32Windows XP+/32 bit native port of GNU Midnight Commander,
+based on the current 4.8.28 development stream.
+
+Midnight Commander (also known as mc) is a free cross-platform orthodox file manager
+and a clone of Norton Commander.
+
+Supports both the recent Windows 10 enhanced plus legacy consoles,
+16 and 256+ colour modes are available within either. Features include the ability work with common archive formats as if they were simply another directory, and function as an SFTP/FTP client.
+
+Also includes an built-in editor/viewer, features include syntax highlighting for many languages,
+macros, code snippets, simple integration with external tools, automatic indentation, mouse support,
+clipboard and the ability to work in both ASCII and hex modes.
+
+MC can also rename groups of files, move files to a different directory at the same time as it.renames them. It lets the user specify the original and resulting file names using wildcard.
+
+https://github.com/adamyg/mcwin32","Categories
+Text Processing, File Transfer Protocol (FTP), File Managers, FTP Clients"
+"Size: 2.3 MB. If you want to customize some functions and attributes, please contact me. If you think it is helpful, please donate a little.
+This is an AD bulk administration tool for AD administrator to administer a large number of Active Directory users, you can use it to check a large number of users, create a large number of users, reset a large number of users' passwords, enable or disable a large number of users, set a large number of users' properties, check groups, add users to group or remove users from group. Hope you like it.
+Tool requirements:
+1. .NetFramework 4.0 higher.
+2. Office 2007 higher for creating a large number of users and setting properties, download x86 version for 32bit Office, x64 version for 64bit Office.
+Update history:
+2019.7.28 V1.1.0.33
+Adjusted a label layout, fixed a small bug.Size: 2.3 MB. If you want to customize some functions and attributes, please contact me. If you think it is helpful, please donate a little.
+This is an AD bulk administration tool for AD administrator to administer a large number of Active Directory users, you can use it to check a large number of users, create a large number of users, reset a large number of users' passwords, enable or disable a large number of users, set a large number of users' properties, check groups, add users to group or remove users from group. Hope you like it.
+Tool requirements:
+1. .NetFramework 4.0 higher.
+2. Office 2007 higher for creating a large number of users and setting properties, download x86 version for 32bit Office, x64 version for 64bit Office.
+Update history:
+2019.7.28 V1.1.0.33
+Adjusted a label layout, fixed a small bug.","Categories
+Systems Administration"
+"SpaceFM is a file manager with built-in VFS, udev-based device manager, customizable menu system, and bash integration.
+
+See website for more screenshots...SpaceFM is a file manager with built-in VFS, udev-based device manager, customizable menu system, and bash integration.
+
+See website for more screenshots...","Categories
+File Managers"
+Display power off utility. Powers off desktop/notebook display and optionally locks workstation. Can be set as a screensaver. Can be launched as a system tray icon application.Display power off utility. Powers off desktop/notebook display and optionally locks workstation. Can be set as a screensaver. Can be launched as a system tray icon application.,"Categories
+Desktop Environment, Screen Savers, Hardware"
+"Grsync is used to synchronize folders, files and make backups. It is a rsync GUI (Graphical User Interface).Grsync is used to synchronize folders, files and make backups. It is a rsync GUI (Graphical User Interface).","Categories
+File Managers, Backup, File Sync"
+"Disk Cleaner is a tool to quickly and easily free disk space that is used by temporary files like the system temporary folder, the Internet Explorer Cache and Cookies folder, and the Recycle Bin. It can be expanded with simple text-based plug-ins.Disk Cleaner is a tool to quickly and easily free disk space that is used by temporary files like the system temporary folder, the Internet Explorer Cache and Cookies folder, and the Recycle Bin. It can be expanded with simple text-based plug-ins.","Categories
+Office/Business, File Managers"
+"RoboMirror's aim is to provide a very simple and user-centered GUI for Robocopy to allow for easy synchronization of two directory trees, e.g., to perform a robust incremental backup, both locally (e.g., to an external hard disk) and across the network.
+
+Additionally, RoboMirror supports volume shadow copies. By using shadow copies, all files can be copied, including files locked by running processes (Outlook, SQL Server...).RoboMirror's aim is to provide a very simple and user-centered GUI for Robocopy to allow for easy synchronization of two directory trees, e.g., to perform a robust incremental backup, both locally (e.g., to an external hard disk) and across the network.
+
+Additionally, RoboMirror supports volume shadow copies. By using shadow copies, all files can be copied, including files locked by running processes (Outlook, SQL Server...).","Categories
+Backup"
+"Web AND Mobile (Apple iPhone) based, multi user, java port of the KeePass project. A free, easy to use password manager which helps you to manage your passwords in a secure way. Focused on deep encryption and ease of use.Web AND Mobile (Apple iPhone) based, multi user, java port of the KeePass project. A free, easy to use password manager which helps you to manage your passwords in a secure way. Focused on deep encryption and ease of use.","Categories
+Office/Business, Cryptography, Systems Administration, Password Generators"
+"GRUB for DOS is the dos extension of GRUB. It enables dos users to run the configuration console directly in real mode. The project also contains an utility called WINGRUB, an GUI intends to help configuring and installing GRUB in the WINDOWS environmentGRUB for DOS is the dos extension of GRUB. It enables dos users to run the configuration console directly in real mode. The project also contains an utility called WINGRUB, an GUI intends to help configuring and installing GRUB in the WINDOWS environment","Categories
+Boot"
+"EasyHotspot is a web bassed billing hotspot written in PHP and MySQL. Easyhotspot is a complete billing system and ready to use. EasyHotspot comes with linux distro and other software deppendencies (Apache,MySQL,Chillispot,Freeradius).EasyHotspot is a web bassed billing hotspot written in PHP and MySQL. Easyhotspot is a complete billing system and ready to use. EasyHotspot comes with linux distro and other software deppendencies (Apache,MySQL,Chillispot,Freeradius).","Categories
+Point of Sale (POS), Systems Administration, Internet"
+NfSen is the web based front end for the nfdump netflow tools. See http://nfdump.sourceforge.net. Current stable release is 1.3.6NfSen is the web based front end for the nfdump netflow tools. See http://nfdump.sourceforge.net. Current stable release is 1.3.6,"Categories
+Monitoring"
+The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.,"Categories
+File Sharing, Firewall, Internet"
+"UbuDSL is a tool that helps users to configure their ADSL modem and connection under Ubuntu (and most of Ubuntu-based) distributions. It supports USB ADSL modems working under the following drivers: ueagle-atm, speedtch, cxacru, unicorn II.UbuDSL is a tool that helps users to configure their ADSL modem and connection under Ubuntu (and most of Ubuntu-based) distributions. It supports USB ADSL modems working under the following drivers: ueagle-atm, speedtch, cxacru, unicorn II.","Categories
+Hardware"
+"libdc1394 is a library that provides a high level programming interface for application developers who wish to control and capture streams from IEEE 1394 based cameras that conform to the 1394-based Digital Camera Specifications (also known as the IIDC or DCAM Specifications). libdc1394 also supports some USB cameras that are IIDC compliant.
+
+Besides capture and control, libdc1394 provides a full set of colour space conversion functions (including RAW decoding), vendor specific functions and direct camera register access.
+
+Keywords: ieee1394, IIDC, DCAM, firewire, USB, machine vision, computer vision, video capture, librarylibdc1394 is a library that provides a high level programming interface for application developers who wish to control and capture streams from IEEE 1394 based cameras that conform to the 1394-based Digital Camera Specifications (also known as the IIDC or DCAM Specifications). libdc1394 also supports some USB cameras that are IIDC compliant.
+
+Besides capture and control, libdc1394 provides a full set of colour space conversion functions (including RAW decoding), vendor specific functions and direct camera register access.
+
+Keywords: ieee1394, IIDC, DCAM, firewire, USB, machine vision, computer vision, video capture, library","Categories
+Hardware Drivers, Scientific/Engineering, Video Capture"
+"zsh is a shell probably most similar to ksh, but with countless enhancements and differences.zsh is a shell probably most similar to ksh, but with countless enhancements and differences.","Categories
+System Shells"
+"Simple Movie Catalog will scan a given directory for movies, query imdb for info and generate a catalog in html which offers sorting and grouping of found movies by different criteria.
+
+Note: source code has been moved to github: https://github.com/damienlangg/SimpleMovieCatalogSimple Movie Catalog will scan a given directory for movies, query imdb for info and generate a catalog in html which offers sorting and grouping of found movies by different criteria.
+
+Note: source code has been moved to github: https://github.com/damienlangg/SimpleMovieCatalog","Categories
+File Managers, Multimedia"
+"UCSC SMART suite controls and monitors storage devices using the Self-Monitoring, Analysis and Reporting Technology System(S.M.A.R.T.) build into ATA and SCSI Hard Drives. This is used to check the reliability of the hard drive and predict drive failures.UCSC SMART suite controls and monitors storage devices using the Self-Monitoring, Analysis and Reporting Technology System(S.M.A.R.T.) build into ATA and SCSI Hard Drives. This is used to check the reliability of the hard drive and predict drive failures.","Categories
+Hardware"
+"The Network Tracking Database (NetDB for short) tracks all changes to the MAC address tables on your switches and the ARP tables on your routers over time stored in MySQL. It supports extensive switch, VLAN and vendor code reports from a CLI or Web App. NetDB can generate CSV reports, track the usage of static IP addresses, record neighbor discovery data and much more.
+
+There is now a VM ""appliance"" with easier upgrades available in the Files section.
+
+See the http://netdbtracking.sourceforge.net for more details.The Network Tracking Database (NetDB for short) tracks all changes to the MAC address tables on your switches and the ARP tables on your routers over time stored in MySQL. It supports extensive switch, VLAN and vendor code reports from a CLI or Web App. NetDB can generate CSV reports, track the usage of static IP addresses, record neighbor discovery data and much more.
+
+There is now a VM ""appliance"" with easier upgrades available in the Files section.
+
+See the http://netdbtracking.sourceforge.net for more details.","Categories
+Security, Monitoring"
+"Abbrevia is a compression toolkit for Delphi, C++Builder, Kylix, and Free Pascal.
+
+It supports compressing and decompressing PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression.
+
+Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components.Abbrevia is a compression toolkit for Delphi, C++Builder, Kylix, and Free Pascal.
+
+It supports compressing and decompressing PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression.
+
+Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components.","Categories
+Software Development, File Compression"
+"Highly scalable/configurable Messaging Platform allowing users in a domain to be distributed on multiple hosts, has multiple queues. Provides virtual domains/users in MySQL. Modern MSP class qmail replacement with ESMTP, POP3/IMAP, QMTP, QMQP supportHighly scalable/configurable Messaging Platform allowing users in a domain to be distributed on multiple hosts, has multiple queues. Provides virtual domains/users in MySQL. Modern MSP class qmail replacement with ESMTP, POP3/IMAP, QMTP, QMQP support","Categories
+POP3, IMAP, Mail Transfer Agents, Email Marketing, Email Servers"
+Blazegraph has moved to Github. Please see https://github.com/blazegraph/database/.Blazegraph has moved to Github. Please see https://github.com/blazegraph/database/.,"Categories
+Database Engines/Servers, Distributed Computing"
+"xinco [eXtensibe INformation COre] is a powerful Web-Service based Information and Document Management System (DMS) for files, text, URLs and contacts, featuring ACLs, versioning, full text search, an FTP-like client (easy install, J2EE+MySQL/PostgreSQL)xinco [eXtensibe INformation COre] is a powerful Web-Service based Information and Document Management System (DMS) for files, text, URLs and contacts, featuring ACLs, versioning, full text search, an FTP-like client (easy install, J2EE+MySQL/PostgreSQL)","Categories
+Office/Business, File Managers, Archiving, Operating System Kernels, Document Management"
+"BlueCove is a JSR-82 implementation on Java Standard Edition (J2SE) on BlueZ Linux, Mac OS X, WIDCOMM, BlueSoleil and Microsoft Bluetooth stack on WinXPsp2 and newer. Originally developed by Intel Research and currently maintained by volunteers.BlueCove is a JSR-82 implementation on Java Standard Edition (J2SE) on BlueZ Linux, Mac OS X, WIDCOMM, BlueSoleil and Microsoft Bluetooth stack on WinXPsp2 and newer. Originally developed by Intel Research and currently maintained by volunteers.","Categories
+Wireless, Mobile"
+"For Changelog, full characteristics, etc see on website.For Changelog, full characteristics, etc see on website.","Categories
+ROMs"
+"This is a project to port Android open source project to x86 platform, formerly known as ""patch hosting for android x86 support"". http://www.android-x86.org/This is a project to port Android open source project to x86 platform, formerly known as ""patch hosting for android x86 support"". http://www.android-x86.org/","Categories
+OS distribution"
+"VeraCrypt is a free disk encryption software brought to you by IDRIX (https://www.idrix.fr) and based on TrueCrypt 7.1a.
+
+It adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in brute-force attacks. It also solves many vulnerabilities and security issues found in TrueCrypt.
+
+This enhanced security adds some delay ONLY to the opening of encrypted partitions without any performance impact to the application use phase. This is acceptable to the legitimate owner but it makes it much harder for an attacker to gain access to the encrypted data.
+
+All released files are PGP signed with key ID=0x680D16DE, available on key servers and downloadable at https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc
+
+VeraCrypt can mount TrueCrypt volumes. It also can convert them to VeraCrypt format.
+
+Documentation: https://www.veracrypt.fr/en/Documentation.html
+FAQ : https://www.veracrypt.fr/en/FAQ.htmlVeraCrypt is a free disk encryption software brought to you by IDRIX (https://www.idrix.fr) and based on TrueCrypt 7.1a.
+
+It adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in brute-force attacks. It also solves many vulnerabilities and security issues found in TrueCrypt.
+
+This enhanced security adds some delay ONLY to the opening of encrypted partitions without any performance impact to the application use phase. This is acceptable to the legitimate owner but it makes it much harder for an attacker to gain access to the encrypted data.
+
+All released files are PGP signed with key ID=0x680D16DE, available on key servers and downloadable at https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc
+
+VeraCrypt can mount TrueCrypt volumes. It also can convert them to VeraCrypt format.
+
+Documentation: https://www.veracrypt.fr/en/Documentation.html
+FAQ : https://www.veracrypt.fr/en/FAQ.html","Categories
+Security, Cryptography, File Systems, Encryption"
+"This is the home of Star live distro powered by Devuan stable linux (Non-Systemd).
+
+Images to choose from:
+64 bit - Xfce (minimal), Fluxbox, Openbox, Jwm, i3, Cli
+32bit - Jwm, Cli
+
+There is a small selection of applications, including: web browser, text editor, image viewer, pdf viewer, file manager, terminal, media player.
+
+If you like to customize your desktop, then this is the distro you you!
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.This is the home of Star live distro powered by Devuan stable linux (Non-Systemd).
+
+Images to choose from:
+64 bit - Xfce (minimal), Fluxbox, Openbox, Jwm, i3, Cli
+32bit - Jwm, Cli
+
+There is a small selection of applications, including: web browser, text editor, image viewer, pdf viewer, file manager, terminal, media player.
+
+If you like to customize your desktop, then this is the distro you you!
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.","Categories
+Communications, OS distribution, Live CD, PDF Readers"
+Bridge Linux is an Arch derivative that includes a GUI and standard applications. It intends to stick with an Arch base and will not fork.Bridge Linux is an Arch derivative that includes a GUI and standard applications. It intends to stick with an Arch base and will not fork.,"Categories
+Live CD"
+SocketTest - powerful and small software tool for socket testing. It can create both TCP and UDP client or server. It can be used to test any server or client that uses TCP or UDP protocol to communicate.SocketTest - powerful and small software tool for socket testing. It can create both TCP and UDP client or server. It can be used to test any server or client that uses TCP or UDP protocol to communicate.,"Categories
+Software Testing, Networking, Distributed Computing"
+"As of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise editionAs of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise edition","Categories
+Other/Nonlisted Topic, Frameworks, Clustering"
+"AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.","Categories
+Cryptography, Monitoring, Internet"
+YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!,"Categories
+POP3, Mail Transfer Agents, Browsers, Email Servers"
+"cdrtfe is a CD/DVD/BD burning application for Microsoft Windows. You can burn data discs, Audio CDs, XCDs, (S)VCDs and DVD-Video discs. It supports creation and writing of ISO images and bootable discs.
+
+cdrtfe has a multi-language interface and is also available as portable version.cdrtfe is a CD/DVD/BD burning application for Microsoft Windows. You can burn data discs, Audio CDs, XCDs, (S)VCDs and DVD-Video discs. It supports creation and writing of ISO images and bootable discs.
+
+cdrtfe has a multi-language interface and is also available as portable version.","Categories
+File Managers, Archiving, CD Ripping, CD Burners"
+Automatic configuration server (ACS) implementing CPE configuration protocol CWMP as specified in TR-069.Automatic configuration server (ACS) implementing CPE configuration protocol CWMP as specified in TR-069.,"Categories
+Systems Administration"
+"Conky is an advanced, highly configurable system monitor for X based on torsmo.
+
+Development has moved to GitHub at https://github.com/brndnmtthws/conkyConky is an advanced, highly configurable system monitor for X based on torsmo.
+
+Development has moved to GitHub at https://github.com/brndnmtthws/conky","Categories
+Desktop Environment, Systems Administration"
+"OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.","Categories
+Communications, Security, Internet, Load Balancers"
+Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.,"Categories
+Systems Administration"
+"ATTENTION: This project is not maintained anymore. Current Macs properly manage temperature and fans.
+
+Speed fan controller and temp monitoring for MacBook Pro Unibody (Nvidia) for Windows under BootCamp. It allows to control MacBook fans speeds depending on the CPU and GPU temperature.
+
+ATTENTION: This program is designed and tested only on MacBook Pro with NVIDIA GPU.
+
+On newer MacBooks with ATI GPU the GPU temperature is not checked.
+On iMacs some sensors and fans are not used.
+
+In any case USE AT YOUR OWN RISK, I'm not responsible for overheating or hardware damage.ATTENTION: This project is not maintained anymore. Current Macs properly manage temperature and fans.
+
+Speed fan controller and temp monitoring for MacBook Pro Unibody (Nvidia) for Windows under BootCamp. It allows to control MacBook fans speeds depending on the CPU and GPU temperature.
+
+ATTENTION: This program is designed and tested only on MacBook Pro with NVIDIA GPU.
+
+On newer MacBooks with ATI GPU the GPU temperature is not checked.
+On iMacs some sensors and fans are not used.
+
+In any case USE AT YOUR OWN RISK, I'm not responsible for overheating or hardware damage.","Categories
+Hardware"
+"BRL-CAD is a powerful cross-platform constructive solid geometry solid modeling system that includes an interactive geometry editor, ray-tracing for rendering & geometric analyses, network distributed framebuffer support, image & signal-processing tools.BRL-CAD is a powerful cross-platform constructive solid geometry solid modeling system that includes an interactive geometry editor, ray-tracing for rendering & geometric analyses, network distributed framebuffer support, image & signal-processing tools.","Categories
+Symmetric Multiprocessing (SMP), Benchmark, 3D Modeling, 3D Rendering, Image Converters, Scientific/Engineering"
+"deepin is a Debian-based distribution that aims to provide an elegant, user-friendly and reliable operating system. It does not only include the best the open source world has to offer, but it has also created its own desktop environment called DDE or Deepin Desktop Environment which is based on the Qt 5 toolkit. Deepin focuses much of its attention on intuitive design. Its home-grown applications, like Deepin Software Centre, DMusic and DPlayer are tailored to the average user. Being easy to install and use, deepin can be a good Windows alternative for office and home use.deepin is a Debian-based distribution that aims to provide an elegant, user-friendly and reliable operating system. It does not only include the best the open source world has to offer, but it has also created its own desktop environment called DDE or Deepin Desktop Environment which is based on the Qt 5 toolkit. Deepin focuses much of its attention on intuitive design. Its home-grown applications, like Deepin Software Centre, DMusic and DPlayer are tailored to the average user. Being easy to install and use, deepin can be a good Windows alternative for office and home use.","Categories
+Live CD"
+"Ext2Fsd is an open source Linux ext2/ext3 file system driver for Windows systems (2K/XP/VISTA/WIN7/WIN8, X86/AMD64).Ext2Fsd is an open source Linux ext2/ext3 file system driver for Windows systems (2K/XP/VISTA/WIN7/WIN8, X86/AMD64).","Categories
+File Systems"
+* This convertor can convert the following archives: * 7-ZIP/ LZH / CAB / ZIP / ARJ / ACE / RAR / TAR / TGZ / GZ / Z / BZ2 / YZ1 / YZ2 / GCA / BEL / RPM / DEB/ BH / Noa32 / HKI / PAQAR / SQX /HA /ZOO /UHARC /LFB / ZLIB / UCL / IMP / RS / SPL / APK / Arc* This convertor can convert the following archives: * 7-ZIP/ LZH / CAB / ZIP / ARJ / ACE / RAR / TAR / TGZ / GZ / Z / BZ2 / YZ1 / YZ2 / GCA / BEL / RPM / DEB/ BH / Noa32 / HKI / PAQAR / SQX /HA /ZOO /UHARC /LFB / ZLIB / UCL / IMP / RS / SPL / APK / Arc,"Categories
+File Compression"
+"Corvus OS is another retarded ROM with many retarded Customization. First, it's inspired by Dirty Unicorns (thanks to Alex Cruz), but then we picked many other features too. Our objectives are a stable and feature ROM that can be enjoyed by many devices. We won't say that Corvus is better ROM than others, but we always try to give you the best.Corvus OS is another retarded ROM with many retarded Customization. First, it's inspired by Dirty Unicorns (thanks to Alex Cruz), but then we picked many other features too. Our objectives are a stable and feature ROM that can be enjoyed by many devices. We won't say that Corvus is better ROM than others, but we always try to give you the best.","Categories
+ROMs"
+"A networking tool that has main purpose for VPN with extra settings. Surf any blocked websites through this app privately and securely, You can also add profile (SSH/V2Ray/OpenVPN/Proxy) as much as possible, so you wont get bother when your preferred server down and just change it to another profile by easily.
+
+This project is non-profit if you like this project and you want to support me, You can help by donation:
+https://www.paypal.com/paypalme/NetModSyna
+
+Any question related to project can be asked in here:
+https://www.facebook.com/NetModSyna/
+netmodsyna@gmail.com
+
+Android Version:
+https://play.google.com/store/apps/details?id=com.netmod.synaA networking tool that has main purpose for VPN with extra settings. Surf any blocked websites through this app privately and securely, You can also add profile (SSH/V2Ray/OpenVPN/Proxy) as much as possible, so you wont get bother when your preferred server down and just change it to another profile by easily.
+
+This project is non-profit if you like this project and you want to support me, You can help by donation:
+https://www.paypal.com/paypalme/NetModSyna
+
+Any question related to project can be asked in here:
+https://www.facebook.com/NetModSyna/
+netmodsyna@gmail.com
+
+Android Version:
+https://play.google.com/store/apps/details?id=com.netmod.syna","Categories
+Networking, Internet, SSH, VPN"
+"grepWin is a simple search and replace tool which can use regular expressions to do its job. This allows to do much more powerful searches and replaces.
+
+Note: project has moved to GitHub
+https://github.com/stefankueng/grepWingrepWin is a simple search and replace tool which can use regular expressions to do its job. This allows to do much more powerful searches and replaces.
+
+Note: project has moved to GitHub
+https://github.com/stefankueng/grepWin","Categories
+Search, File Systems"
+Solution to the cooling fan noise annoyances Thinkpad T4x (T40/T41/T42/T43) notebook series. Allows the user to control fan activity based on the system temperature. Win XP Visual C++ project controls the fan via port IO to the embedded controller.Solution to the cooling fan noise annoyances Thinkpad T4x (T40/T41/T42/T43) notebook series. Allows the user to control fan activity based on the system temperature. Win XP Visual C++ project controls the fan via port IO to the embedded controller.,"Categories
+System"
+"Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one to display and interact with a remote computer screen. In other words, you can use Chicken of the VNC to interact with a remote computer as though it's right next to you.
+
+This project has has been superseded by http://chicken.sourceforge.net/Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one to display and interact with a remote computer screen. In other words, you can use Chicken of the VNC to interact with a remote computer as though it's right next to you.
+
+This project has has been superseded by http://chicken.sourceforge.net/","Categories
+Systems Administration, Internet"
+"Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman's original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman's original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.","Categories
+Security, Systems Administration, Password Crackers"
+"Expand a TrueCrypt volume on the fly without reformatting. All kind of volumes (container files, disks and partitions) formatted with the NTFS file system are supported.Expand a TrueCrypt volume on the fly without reformatting. All kind of volumes (container files, disks and partitions) formatted with the NTFS file system are supported.","Categories
+Cryptography, File Systems"
+"A complete Hotspot or Internet Cafe solution. Provides a simple interface to managing users, and does the hard work of bring all the components together (Coova Chilli, MySQL, FreeRadius). Packaged as Debs for Debian/Ubuntu. NOT installable from tar.
+
+Code now hosted on Github https://github.com/GraseHotspotA complete Hotspot or Internet Cafe solution. Provides a simple interface to managing users, and does the hard work of bring all the components together (Coova Chilli, MySQL, FreeRadius). Packaged as Debs for Debian/Ubuntu. NOT installable from tar.
+
+Code now hosted on Github https://github.com/GraseHotspot","Categories
+Networking, Internet"
+"Peppermint has migrated into its own continuous delivery OS, based on the Debian/Devuan repositories. Giving you the option to pull from testing if you like and we believe this will appeal to new and experienced Linux users. Peppermint comes with nearly nothing installed other than, the core packages needed to run the system and you have the choice to which packages should best fit your build. The desktop environment is xfce with the nemo file manager set as default, but you have the option to use thunar if you prefer.
+
+The builds and processes we do are hosted on a
+Virtual Private Server: https://www.hostcolor.com/vps/ by https://www.hostcolor.com.
+That allows us to scale and provide the options of ISO downloads we are able offer.Peppermint has migrated into its own continuous delivery OS, based on the Debian/Devuan repositories. Giving you the option to pull from testing if you like and we believe this will appeal to new and experienced Linux users. Peppermint comes with nearly nothing installed other than, the core packages needed to run the system and you have the choice to which packages should best fit your build. The desktop environment is xfce with the nemo file manager set as default, but you have the option to use thunar if you prefer.
+
+The builds and processes we do are hosted on a
+Virtual Private Server: https://www.hostcolor.com/vps/ by https://www.hostcolor.com.
+That allows us to scale and provide the options of ISO downloads we are able offer.","Categories
+Live CD"
+"A fast, comprehensive, and easy-to-use Java API for communicating with LDAP directory servers and performing related tasks like reading and writing LDIF, encoding and decoding data using base64 and ASN.1 BER, and performing secure communication.A fast, comprehensive, and easy-to-use Java API for communicating with LDAP directory servers and performing related tasks like reading and writing LDIF, encoding and decoding data using base64 and ASN.1 BER, and performing secure communication.","Categories
+LDAP, Mobile, Libraries"
+"LumoGate is a professional Hotspot Billing Software solution designed to provide secured and regulated Wifi Internet access to your customers.
+
+For anyone trying to contact me, directly report a bug or feature request for LumoGate you can contact me on: +233242914426 Whatsapp
+
+LumoGate locks down Internet access to anyone that's not authenticated or has not agreed to EULA/accepted use policies. LumoGate interrupts Internet access, lets any unauthorized user login, then Internet access is restored. LumoGate is based on Captive Portal Technology.
+
+LumoGate acts as a hotspot firewall and management software that control authentication, bandwidth management, session usage, internet traffic log . LumoGate is the simplest yet complete, intuitive tool to manage your public Wifi HotSpot in Internet Cafes, Schools, Hotels, Restaurants, etc
+
+Please donate to support this project. Cheers !!!
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives V4.0LumoGate is a professional Hotspot Billing Software solution designed to provide secured and regulated Wifi Internet access to your customers.
+
+For anyone trying to contact me, directly report a bug or feature request for LumoGate you can contact me on: +233242914426 Whatsapp
+
+LumoGate locks down Internet access to anyone that's not authenticated or has not agreed to EULA/accepted use policies. LumoGate interrupts Internet access, lets any unauthorized user login, then Internet access is restored. LumoGate is based on Captive Portal Technology.
+
+LumoGate acts as a hotspot firewall and management software that control authentication, bandwidth management, session usage, internet traffic log . LumoGate is the simplest yet complete, intuitive tool to manage your public Wifi HotSpot in Internet Cafes, Schools, Hotels, Restaurants, etc
+
+Please donate to support this project. Cheers !!!
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives V4.0","Categories
+Wireless, Firewall, Monitoring"
+"Syberia Project (aka Syberia OS) is a custom ROM for many devices that implements various features. This project was designed by our ""Syberia Team"" from scratch based on AOSP source code with some CAF fixes and improvements. Our team: @blinoff82, @DennySPB, @alexxxdev. Also many thanks to our designer @rlshukhov for logos, wallpapers and bootanimation.
+If you like our work you can you can buy us a cup of coffee or a glass of beer here: https://syberiaos.com/linksSyberia Project (aka Syberia OS) is a custom ROM for many devices that implements various features. This project was designed by our ""Syberia Team"" from scratch based on AOSP source code with some CAF fixes and improvements. Our team: @blinoff82, @DennySPB, @alexxxdev. Also many thanks to our designer @rlshukhov for logos, wallpapers and bootanimation.
+If you like our work you can you can buy us a cup of coffee or a glass of beer here: https://syberiaos.com/links","Categories
+ROMs"
+"Archman Linux
+Arch Linux based linux distributionArchman Linux
+Arch Linux based linux distribution","Categories
+Operating System Kernels"
+"Pearl Desktop 7.1 is just an updated version. Along with our own repo we get updates from the Ubuntu repositories for a secure system. We are 100% compatable with Ubuntu the 18.04 / Linux Mint 19 releases.
+Now both 64 bit as well as 32 bit are available for download.
+Pearl Desktop is very lightweight on how quick it runs however chances are you won't need any additional software before using this system as your main go to system. All pre configured ready to go system running Compiz with full effects (plus more) as the main Window Manager.Pearl Desktop 7.1 is just an updated version. Along with our own repo we get updates from the Ubuntu repositories for a secure system. We are 100% compatable with Ubuntu the 18.04 / Linux Mint 19 releases.
+Now both 64 bit as well as 32 bit are available for download.
+Pearl Desktop is very lightweight on how quick it runs however chances are you won't need any additional software before using this system as your main go to system. All pre configured ready to go system running Compiz with full effects (plus more) as the main Window Manager.","Categories
+OS distribution, Live CD"
+"myFocuserPro is an ASCOM and Moonlite compatible stepper motor telescope focus controller (DIY) based on Arduino Nano/Uno. A popular DIY ASCOM focuser with more than 114,000+ downloads.
+
+(c) Copyright Robert Brown 2014-2023. All Rights reserved.
+Permission is granted for personal and Academic use only.
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown).
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/downloadmyFocuserPro is an ASCOM and Moonlite compatible stepper motor telescope focus controller (DIY) based on Arduino Nano/Uno. A popular DIY ASCOM focuser with more than 114,000+ downloads.
+
+(c) Copyright Robert Brown 2014-2023. All Rights reserved.
+Permission is granted for personal and Academic use only.
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown).
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download","Categories
+Hardware, Astronomy"

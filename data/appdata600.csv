@@ -1,0 +1,885 @@
+Description,Category
+"Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodingsAegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodings","Categories
+Email, Email Clients, Cryptography, Email Servers"
+"Xiaopan OS is an easy to use software package for beginners and experts that includes a number of advanced hacking tools to penetrate WPA / WPA2 / WPS / WEP wireless networks.
+
+Based on the Tiny Core Linux (TCL) operating system (OS), it has a slick graphical user interface (GUI) requiring no need for typing Linux commands. Xiaopan OS is Windows, Mac and Linux compatible and users can simply install and boot this ~70mb OS through a USB pen drive or in a virtual machine (VM) environment.
+
+Some of the tools included are Inflator, Aircrack-ng, Minidwep GTK, XFE, wifite and feeding bottle. Supported cards include RTL8187L, RT3070, AR9271 and many more.Xiaopan OS is an easy to use software package for beginners and experts that includes a number of advanced hacking tools to penetrate WPA / WPA2 / WPS / WEP wireless networks.
+
+Based on the Tiny Core Linux (TCL) operating system (OS), it has a slick graphical user interface (GUI) requiring no need for typing Linux commands. Xiaopan OS is Windows, Mac and Linux compatible and users can simply install and boot this ~70mb OS through a USB pen drive or in a virtual machine (VM) environment.
+
+Some of the tools included are Inflator, Aircrack-ng, Minidwep GTK, XFE, wifite and feeding bottle. Supported cards include RTL8187L, RT3070, AR9271 and many more.","Categories
+Security, Software Distribution, Live CD"
+"BitKiller securely shreds files and directories, removing them completely from your hard disk. It can quickly and efficiently overwrite files using anything from random data to the Gutmann method. It also changes filenames to make them harder to find. No setup or installation needed.BitKiller securely shreds files and directories, removing them completely from your hard disk. It can quickly and efficiently overwrite files using anything from random data to the Gutmann method. It also changes filenames to make them harder to find. No setup or installation needed.","Categories
+Security, File Systems"
+"Operative Systems Suported are:
+Linux-ubuntu, kali-linux, backtack-linux (un-continued), freeBSD, Mac osx (un-continued)
+
+Netool its a toolkit written using 'bash, python, ruby' that allows you to automate frameworks like Nmap, Driftnet, Sslstrip, Metasploit and Ettercap MitM attacks. this toolkit makes it easy tasks such as SNIFFING tcp/udp traffic, Man-In-The-Middle attacks, SSL-sniff, DNS-spoofing, D0S attacks in wan/lan networks, TCP/UDP packet manipulation using etter-filters, and gives you the ability to capture pictures of target webbrowser surfing (driftnet), also uses macchanger to decoy scans changing the mac address.
+
+Rootsector module allows you to automate some attacks over DNS_SPOOF + MitM (phishing - social engineering) using metasploit, apache2 and ettercap frameworks. Like the generation of payloads, shellcode, backdoors delivered using dns_spoof and MitM method to redirect a target to your phishing webpage. recent as introducted the scanner inurlbr (by cleiton)Operative Systems Suported are:
+Linux-ubuntu, kali-linux, backtack-linux (un-continued), freeBSD, Mac osx (un-continued)
+
+Netool its a toolkit written using 'bash, python, ruby' that allows you to automate frameworks like Nmap, Driftnet, Sslstrip, Metasploit and Ettercap MitM attacks. this toolkit makes it easy tasks such as SNIFFING tcp/udp traffic, Man-In-The-Middle attacks, SSL-sniff, DNS-spoofing, D0S attacks in wan/lan networks, TCP/UDP packet manipulation using etter-filters, and gives you the ability to capture pictures of target webbrowser surfing (driftnet), also uses macchanger to decoy scans changing the mac address.
+
+Rootsector module allows you to automate some attacks over DNS_SPOOF + MitM (phishing - social engineering) using metasploit, apache2 and ettercap frameworks. Like the generation of payloads, shellcode, backdoors delivered using dns_spoof and MitM method to redirect a target to your phishing webpage. recent as introducted the scanner inurlbr (by cleiton)","Categories
+Security, Monitoring"
+"THIS IS NOT WHONIX'S HOMEPAGE. Please go to:
+https://www.whonix.org/
+
+(This is only Whonix's sourceforge must-have project page.)
+
+Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
+
+Whonix consists of two parts: One solely runs Tor and acts as a gateway, which we call Whonix-Gateway. The other, which we call Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible.
+
+Whonix is produced independently of, and carries no guarantee from, The Tor Project.
+
+For download:
+https://www.whonix.org/wiki/DownloadTHIS IS NOT WHONIX'S HOMEPAGE. Please go to:
+https://www.whonix.org/
+
+(This is only Whonix's sourceforge must-have project page.)
+
+Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
+
+Whonix consists of two parts: One solely runs Tor and acts as a gateway, which we call Whonix-Gateway. The other, which we call Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible.
+
+Whonix is produced independently of, and carries no guarantee from, The Tor Project.
+
+For download:
+https://www.whonix.org/wiki/Download","Categories
+Security, Software Distribution"
+"Steghide UI is a nifty GUI written by Drunken.Canadian for the console application steghide as the name suggests. It allows the user to everything steghide can but with a nice user friendly GUI. Now, steghide UI has a new options panel.Steghide UI is a nifty GUI written by Drunken.Canadian for the console application steghide as the name suggests. It allows the user to everything steghide can but with a nice user friendly GUI. Now, steghide UI has a new options panel.","Categories
+Cryptography"
+"A Java library for executing, parsing and persisting NMap output.A Java library for executing, parsing and persisting NMap output.","Categories
+Security, Networking, Libraries"
+"xpy is a small software, securing your Windows 2000/XP/2003 installation and protecting your privacy. In addition to so-called Antispy features, it disables common security threats (RPC/DCOM, LMHash) and increases your Windows performance.xpy is a small software, securing your Windows 2000/XP/2003 installation and protecting your privacy. In addition to so-called Antispy features, it disables common security threats (RPC/DCOM, LMHash) and increases your Windows performance.","Categories
+Security, System"
+"A.L.A.R.M. is A Laptop A/C Removal Monitor for Windows XP and later. If your workstation is locked and A/C power is being removed, it loudly plays a warning signal for theft protection. Slim, sound file can be specified.A.L.A.R.M. is A Laptop A/C Removal Monitor for Windows XP and later. If your workstation is locked and A/C power is being removed, it loudly plays a warning signal for theft protection. Slim, sound file can be specified.","Categories
+Security"
+"Tabbed notebook with RichText editor, multi-level notes and strong encryptionTabbed notebook with RichText editor, multi-level notes and strong encryption","Categories
+Text Editors, Office/Business, Security"
+"MUTE is a secure, anonymous, distributed communications framework. Node-to-node connections are encrypted, and messages are routed using an ant-inspired algorithm. The first MUTE-based app supports anonymous file sharing.MUTE is a secure, anonymous, distributed communications framework. Node-to-node connections are encrypted, and messages are routed using an ant-inspired algorithm. The first MUTE-based app supports anonymous file sharing.","Categories
+File Sharing, Security"
+"RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.","Categories
+Cryptography, Algorithms, System"
+The Saint Jude Project is a Project to develop Kernel-Level IDS mechinisms to protect the integrity of host systems.The Saint Jude Project is a Project to develop Kernel-Level IDS mechinisms to protect the integrity of host systems.,"Categories
+Security, Operating System Kernels"
+Magstripper is a magnetic card reader and decoder that takes raw waveform information from a magnetic audio head (soldered directly to a mono audio jack) and processes it via a mic input. It also includes a multi-user door lock access control system.Magstripper is a magnetic card reader and decoder that takes raw waveform information from a magnetic audio head (soldered directly to a mono audio jack) and processes it via a mic input. It also includes a multi-user door lock access control system.,"Categories
+Point of Sale (POS), Security, Information Analysis"
+Mac OS X frontend for OpenSSH's sftp/scp toolsMac OS X frontend for OpenSSH's sftp/scp tools,"Categories
+Security, File Transfer Protocol (FTP)"
+"The GlobalPlatform card specification is a standard for the management of the contents on a smart card. Mainly this comprises the installation and the removal of applications. This project offers a C library and a command line shell.
+
+Find more information on https://kaoh.github.io/globalplatform/The GlobalPlatform card specification is a standard for the management of the contents on a smart card. Mainly this comprises the installation and the removal of applications. This project offers a C library and a command line shell.
+
+Find more information on https://kaoh.github.io/globalplatform/","Categories
+Security, Installation/Setup, Hardware"
+"Sqlninja is an exploitation tool to be used against web apps based on MS SQL Server that are vulnerable to SQL Injection attacks, in order to get a shell or extract data also in very hostile conditions. For more information please check http://sqlninja.sf.netSqlninja is an exploitation tool to be used against web apps based on MS SQL Server that are vulnerable to SQL Injection attacks, in order to get a shell or extract data also in very hostile conditions. For more information please check http://sqlninja.sf.net","Categories
+Security"
+"Tor Browser enables you to use Tor on Windows, Mac OS X, or Linux without needing to install any software. Tor is a software that bounces your communications around a distributed network of relays run by volunteers. This effectively prevents anyone watching your Internet connection from learning what sites you visit; it prevents the sites you visit from learning your physical location; and allows you access to sites which are blocked.
+
+Tor Browser can run off a USB flash drive, comes with a pre-configured web browser to protect your anonymity, and is self-contained (portable).Tor Browser enables you to use Tor on Windows, Mac OS X, or Linux without needing to install any software. Tor is a software that bounces your communications around a distributed network of relays run by volunteers. This effectively prevents anyone watching your Internet connection from learning what sites you visit; it prevents the sites you visit from learning your physical location; and allows you access to sites which are blocked.
+
+Tor Browser can run off a USB flash drive, comes with a pre-configured web browser to protect your anonymity, and is self-contained (portable).","Categories
+Security, Browsers"
+SSL VPN Client for Windows (OpenVPN).SSL VPN Client for Windows (OpenVPN).,"Categories
+Security, Networking, Mobile, VPN"
+"RIPS is a static code analysis tool for the automated detection of security vulnerabilities in PHP applications. It was released 2010 during the Month of PHP Security (www.php-security.org).
+
+NOTE: RIPS 0.5 development is abandoned. A complete rewrite with OOP support and higher precision is available at https://www.ripstech.com/next-generation/RIPS is a static code analysis tool for the automated detection of security vulnerabilities in PHP applications. It was released 2010 during the Month of PHP Security (www.php-security.org).
+
+NOTE: RIPS 0.5 development is abandoned. A complete rewrite with OOP support and higher precision is available at https://www.ripstech.com/next-generation/","Categories
+Security"
+"The project provides functionality to interface the SmartCardIO Java SDK library to Global Platform compliant smart cards, similar to globalplatform.sf.net. The difference is pure Java implementation and easy plug in to your SmartCardIO applications.
+
+This project is now more or less subsumed by Martin Paljak's continuation of the project at https://github.com/martinpaljak/GlobalPlatformPro.The project provides functionality to interface the SmartCardIO Java SDK library to Global Platform compliant smart cards, similar to globalplatform.sf.net. The difference is pure Java implementation and easy plug in to your SmartCardIO applications.
+
+This project is now more or less subsumed by Martin Paljak's continuation of the project at https://github.com/martinpaljak/GlobalPlatformPro.","Categories
+Cryptography"
+"When you need encrypt/obfuscate strings in your program so that they don't just show up with a strings or hex tool when your executable is examined, this tool can be useful.
+See Code Project article: https://www.codeproject.com/Articles/1210398/Small-String-Obfuscator by Michael HaephratiWhen you need encrypt/obfuscate strings in your program so that they don't just show up with a strings or hex tool when your executable is examined, this tool can be useful.
+See Code Project article: https://www.codeproject.com/Articles/1210398/Small-String-Obfuscator by Michael Haephrati","Categories
+Cryptography"
+"This is a easy to use Mass-IP-Blocker/Blacklister Tool.
+Much more efficient than a Batch-Script.
+You can automatically block IP Addresses from a Online-IP-List, or just paste in your own IP's you want to block.This is a easy to use Mass-IP-Blocker/Blacklister Tool.
+Much more efficient than a Batch-Script.
+You can automatically block IP Addresses from a Online-IP-List, or just paste in your own IP's you want to block.","Categories
+Security, Networking, Firewall"
+"*Updated 11/05/2021
+TinfoilSec Presents:
+Sn3rpOs [Codename: CoNt4g1N]
+Features:
+Xfce4 Desktop
+Kali Linux Full
+System Torified with Privoxy & Tor
+bleachbit
+Wire
+Signal
+Veracrypt
+All repos transported through Privoxy&Tor
+dnscrypt-proxy (no-logs)
+Tor Browser
+Custom Tor Switcher and Pyloris
+Firefox-esr (configured with tor)
+Thunderbird
+ProtonVPN (Free VPN no-logs)
+Sn1per
+Vault Scanner
+RED_HAWK
+Fork of Kali Rolling, Debian Stretch/Buster
+-No Back Doors-
+Now with UEFI boot support
+and of course bacon. XD
+login: tfs
+passwd: toor
+As Always RTFM! (README file)*Updated 11/05/2021
+TinfoilSec Presents:
+Sn3rpOs [Codename: CoNt4g1N]
+Features:
+Xfce4 Desktop
+Kali Linux Full
+System Torified with Privoxy & Tor
+bleachbit
+Wire
+Signal
+Veracrypt
+All repos transported through Privoxy&Tor
+dnscrypt-proxy (no-logs)
+Tor Browser
+Custom Tor Switcher and Pyloris
+Firefox-esr (configured with tor)
+Thunderbird
+ProtonVPN (Free VPN no-logs)
+Sn1per
+Vault Scanner
+RED_HAWK
+Fork of Kali Rolling, Debian Stretch/Buster
+-No Back Doors-
+Now with UEFI boot support
+and of course bacon. XD
+login: tfs
+passwd: toor
+As Always RTFM! (README file)","Categories
+Security, VPN"
+"Password Manager is created mainly for my personal use. Memorizing lots of account is impossible, keeping on plain text is insecure. With a very simple gui and using AES encryption I solved my problem. You can group your accounts in a single file and multiple users can save their passwords in different files.
+version3.1
+remove version checking that becomes annoying.
+version3
+*Keyboard short cuts for menu items
+*Configuration file, account form display time and time before asking the password again before displaying account form can be configured.
+*Open Last open file menu item
+
+version2.2
+*simple password manager icon
+*password suggestion frame
+*copy to clipboard buttons
+*menu icons
+
+version 2.1
+*Version checker
+
+version 2
+*GUI changes
+*Account window automatically shut down after 5 minutes
+*bug fix description search
+*user manual
+
+version 1.1
+*input boxes are changed to password boxes.
+*link to latest release
+*minor bug fixPassword Manager is created mainly for my personal use. Memorizing lots of account is impossible, keeping on plain text is insecure. With a very simple gui and using AES encryption I solved my problem. You can group your accounts in a single file and multiple users can save their passwords in different files.
+version3.1
+remove version checking that becomes annoying.
+version3
+*Keyboard short cuts for menu items
+*Configuration file, account form display time and time before asking the password again before displaying account form can be configured.
+*Open Last open file menu item
+
+version2.2
+*simple password manager icon
+*password suggestion frame
+*copy to clipboard buttons
+*menu icons
+
+version 2.1
+*Version checker
+
+version 2
+*GUI changes
+*Account window automatically shut down after 5 minutes
+*bug fix description search
+*user manual
+
+version 1.1
+*input boxes are changed to password boxes.
+*link to latest release
+*minor bug fix","Categories
+Password Managers"
+"Warning: moved to https://github.com/nuxsmin/sysPass
+
+sysPass es un moderno sistema de gestión de claves basado en web para un entorno multiusuario de uso empresarial y personal.
+
+Claves encriptadas con una clave maestra, acceso basado en grupos y perfiles, subida de archivos, integración con LDAP/Active Directory, auditoría de eventos y más...
+
+Detalles de instalación y log de cambios en Wiki
+
+Wiki: http://wiki.syspass.org
+DEMO: http://demo.syspass.org
+
+-------------------------------------------------------------
+
+sysPass is the a modern web based password manager to run in a multiuser environment for business and personal use
+
+Accounts passwords are encrypted with a unique master password, group/profile based access, file uploading, LDAP/Active Directory integration, auditing and more....
+
+Installation instructions and changelog at Wiki
+
+Wiki: http://wiki.syspass.org
+DEMO: http://demo.syspass.orgWarning: moved to https://github.com/nuxsmin/sysPass
+
+sysPass es un moderno sistema de gestión de claves basado en web para un entorno multiusuario de uso empresarial y personal.
+
+Claves encriptadas con una clave maestra, acceso basado en grupos y perfiles, subida de archivos, integración con LDAP/Active Directory, auditoría de eventos y más...
+
+Detalles de instalación y log de cambios en Wiki
+
+Wiki: http://wiki.syspass.org
+DEMO: http://demo.syspass.org
+
+-------------------------------------------------------------
+
+sysPass is the a modern web based password manager to run in a multiuser environment for business and personal use
+
+Accounts passwords are encrypted with a unique master password, group/profile based access, file uploading, LDAP/Active Directory integration, auditing and more....
+
+Installation instructions and changelog at Wiki
+
+Wiki: http://wiki.syspass.org
+DEMO: http://demo.syspass.org","Categories
+Dynamic Content, Systems Administration, Password Managers"
+Droid Pentest help you to find all android apps for penetration testing and hacking so you can make complete penetration test platform .Droid Pentest help you to find all android apps for penetration testing and hacking so you can make complete penetration test platform .,"Categories
+Database, Security, Mobile, Penetration Testing"
+"VCG is an automated code security review tool for C++, C#, VB, PHP, Java, PL/SQL and COBOL, which is intended to speed up the code review process by identifying bad/insecure code.
+
+It has a few features that should make it useful. In addition to performing some more complex checks it also has a config file for each language that basically allows you to add any bad functions (or other text) that you want to search for. It attempts to find phrases within comments that can indicate broken code and it provides stats and a pie chart (for the entire codebase and for individual files) showing relative proportions of code, whitespace, comments, 'ToDo'-style comments and bad code.
+
+I've tried to produce something which searches intelligently for buffer overflows and signed/unsigned comparison in C, violations of OWASP recommendations in Java code, etc.
+
+Current version: 2.2.0VCG is an automated code security review tool for C++, C#, VB, PHP, Java, PL/SQL and COBOL, which is intended to speed up the code review process by identifying bad/insecure code.
+
+It has a few features that should make it useful. In addition to performing some more complex checks it also has a config file for each language that basically allows you to add any bad functions (or other text) that you want to search for. It attempts to find phrases within comments that can indicate broken code and it provides stats and a pie chart (for the entire codebase and for individual files) showing relative proportions of code, whitespace, comments, 'ToDo'-style comments and bad code.
+
+I've tried to produce something which searches intelligently for buffer overflows and signed/unsigned comparison in C, violations of OWASP recommendations in Java code, etc.
+
+Current version: 2.2.0","Categories
+Security, Source Code Analysis, Code Review"
+"This module provides attack surface reduction enhancements against the HTTP Flood Attacks at the web application level. Massive crawling/scanning tools, HTTP Flood tools can be detected and blocked by this module via htaccess, firewall or iptables, etc. (like mod_evasive)
+
+You can use this module by including ""iosec.php"" to any PHP file which wants to be protected.
+
+You can test module here: http://www.iosec.org/test.php (demo)
+
+Watch the Proof of Concept video: http://goo.gl/dSiAL
+
+Hakin9 IT Security Magazine Article about IOSEC http://goo.gl/aQM4Di (different format -> http://goo.gl/JKMUPN)
+
+IJNSA Article at http://goo.gl/LLxRdX
+
+WP Plugin Page http://goo.gl/nF5nD
+
+CHANGES v.1.8.2
+- Iptables Auto Ban Bash Script Included
+- Token Access via Implicit Deny
+- Reverse Proxy Support
+- reCAPTCHA Support
+
+Do you want more features? Check for third party addons http://sf.net/projects/iosecaddons
+
+Gökhan MuharremoğluThis module provides attack surface reduction enhancements against the HTTP Flood Attacks at the web application level. Massive crawling/scanning tools, HTTP Flood tools can be detected and blocked by this module via htaccess, firewall or iptables, etc. (like mod_evasive)
+
+You can use this module by including ""iosec.php"" to any PHP file which wants to be protected.
+
+You can test module here: http://www.iosec.org/test.php (demo)
+
+Watch the Proof of Concept video: http://goo.gl/dSiAL
+
+Hakin9 IT Security Magazine Article about IOSEC http://goo.gl/aQM4Di (different format -> http://goo.gl/JKMUPN)
+
+IJNSA Article at http://goo.gl/LLxRdX
+
+WP Plugin Page http://goo.gl/nF5nD
+
+CHANGES v.1.8.2
+- Iptables Auto Ban Bash Script Included
+- Token Access via Implicit Deny
+- Reverse Proxy Support
+- reCAPTCHA Support
+
+Do you want more features? Check for third party addons http://sf.net/projects/iosecaddons
+
+Gökhan Muharremoğlu","Categories
+Security, Firewall, Monitoring"
+"Free open source knowledge base software. Extensively search-able, Versatile and easy to use. easy to set up and administer. Comment hover links let you read in an AJAX generated hover window, the comments to an article in the main list view without having to go to the comments page. Password protected user accounts, and group support, with read only guest user, full control admin, power user/moderator, and default data entry user with restricted privileges. Users can view all data but only modify their own data unless user is admin or moderator, default users can't delete anything. Moderator is more restricted then admin but less restricted then default user. Supported data export formats: .doc .xls .csv .pdf and .xml. Printing and exporting can be done from any part of the site. single articles or multiple items from the list view. Multiple report types to keep track of your site. Change password support, Password recovery by user name or email supportFree open source knowledge base software. Extensively search-able, Versatile and easy to use. easy to set up and administer. Comment hover links let you read in an AJAX generated hover window, the comments to an article in the main list view without having to go to the comments page. Password protected user accounts, and group support, with read only guest user, full control admin, power user/moderator, and default data entry user with restricted privileges. Users can view all data but only modify their own data unless user is admin or moderator, default users can't delete anything. Moderator is more restricted then admin but less restricted then default user. Supported data export formats: .doc .xls .csv .pdf and .xml. Printing and exporting can be done from any part of the site. single articles or multiple items from the list view. Multiple report types to keep track of your site. Change password support, Password recovery by user name or email support","Categories
+Database, Front-Ends, Knowledge Management, Password Recovery"
+"sktrap (script kiddies trap) is a tiny intrusion detection system. Installed on the monitor server, it runs tests via ssh on its clients. Cracks very visible (files,open ports). Built in reply to and very succesful in finding real-world break-ins.sktrap (script kiddies trap) is a tiny intrusion detection system. Installed on the monitor server, it runs tests via ssh on its clients. Cracks very visible (files,open ports). Built in reply to and very succesful in finding real-world break-ins.","Categories
+Anti-Malware"
+"UDP Unicorn is a Win32 UDP flooding/DoS (Denial of Service) utility with multithreading. Uses Winsock to create UDP sockets and flood a target.
+
+I created this tool for system administrators and game developers to test their servers.
+
+DISCLAIMER: USE AT YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.UDP Unicorn is a Win32 UDP flooding/DoS (Denial of Service) utility with multithreading. Uses Winsock to create UDP sockets and flood a target.
+
+I created this tool for system administrators and game developers to test their servers.
+
+DISCLAIMER: USE AT YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.","Categories
+Security"
+"This is mainly just an interface tweak. Added function of mac address changer.
+
+If you have problems getting the mac changer to work, try using a mac address that starts with something other than ""00"" in the first octet.
+
+If you are intersted in learning about network security please check out my Juniper Networks training course at: http://academy.gns3.com/courses/juniper-jncia-intro-to-junosThis is mainly just an interface tweak. Added function of mac address changer.
+
+If you have problems getting the mac changer to work, try using a mac address that starts with something other than ""00"" in the first octet.
+
+If you are intersted in learning about network security please check out my Juniper Networks training course at: http://academy.gns3.com/courses/juniper-jncia-intro-to-junos","Categories
+Cryptography, Wireless"
+"QPass is easy to use, open source password manager application with built-in password generator. You can store in it's database such data as passwords and logins which will be encrypted using AES-256 with PBKDF2(number of iterations set by user). Each entry can include additional information about entry such as name, url adress and description.QPass is easy to use, open source password manager application with built-in password generator. You can store in it's database such data as passwords and logins which will be encrypted using AES-256 with PBKDF2(number of iterations set by user). Each entry can include additional information about entry such as name, url adress and description.","Categories
+Cryptography, Internet, Password Managers, Password Generators, Encryption Algorithms"
+"This project hosts the Windows Mobile ports of the famous Windows PC application ""KeePass - The Open-Source Password Safe"" from Dominik Reichl (http://keepass.sourceforge.net). KeePassPPC is based on KeePass V1.xx and KeePassSD on KeePass V2.xx.This project hosts the Windows Mobile ports of the famous Windows PC application ""KeePass - The Open-Source Password Safe"" from Dominik Reichl (http://keepass.sourceforge.net). KeePassPPC is based on KeePass V1.xx and KeePassSD on KeePass V2.xx.","Categories
+Database, Security, Internet"
+The Open Web Application Security Project (OWASP) software and documentation repository.The Open Web Application Security Project (OWASP) software and documentation repository.,"Categories
+Security, Dynamic Content"
+"SetACL: manage permissions (ACLs) on Windows systems from the command line or your programs/scripts. Supports all options available in Explorer, and more.SetACL: manage permissions (ACLs) on Windows systems from the command line or your programs/scripts. Supports all options available in Explorer, and more.","Categories
+Security, Systems Administration, File Systems"
+JECC is an open source implementation of public key Elliptic Curve Cryptography written in Java. As of now it provides en-/decrypted out- and input streams.JECC is an open source implementation of public key Elliptic Curve Cryptography written in Java. As of now it provides en-/decrypted out- and input streams.,"Categories
+Cryptography"
+"We can briefly define HDIV as a Java Web Application Security Framework. HDIV extends web application frameworks behaviour (Struts 1.x, Struts 2.x, Spring MVC) in order to avoid most common web application security vulnerabilitiesWe can briefly define HDIV as a Java Web Application Security Framework. HDIV extends web application frameworks behaviour (Struts 1.x, Struts 2.x, Spring MVC) in order to avoid most common web application security vulnerabilities","Categories
+Security"
+"PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt
+
+Jasypt (Java Simplified Encryption) is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowledge on how cryptography works.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasyptPLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt
+
+Jasypt (Java Simplified Encryption) is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowledge on how cryptography works.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt","Categories
+Cryptography, Algorithms, Object Oriented"
+"encrypt is a multi-platform, file encryption application. Binary packages are currently provided for Arch, Debian, Fedora, MS Windows, Android and OS X. For further details, including the latest source code, visit https://albinoloverats.net/projects/encryptencrypt is a multi-platform, file encryption application. Binary packages are currently provided for Arch, Debian, Fedora, MS Windows, Android and OS X. For further details, including the latest source code, visit https://albinoloverats.net/projects/encrypt","Categories
+Cryptography"
+"OSSIM, AlienVault’s Open Source Security Information and Event Management (SIEM) product, provides event collection, normalization and correlation. For more advanced functionality, AlienVault Unified Security Management (USM) builds on OSSIM with these additional capabilities:
+
+* Log management
+* Advanced threat detection with a continuously updated library of pre-built correlation rules
+* Actionable threat intelligence updates from AlienVault Labs Security Research Team
+* Rich analytics dashboards and data visualizationOSSIM, AlienVault’s Open Source Security Information and Event Management (SIEM) product, provides event collection, normalization and correlation. For more advanced functionality, AlienVault Unified Security Management (USM) builds on OSSIM with these additional capabilities:
+
+* Log management
+* Advanced threat detection with a continuously updated library of pre-built correlation rules
+* Actionable threat intelligence updates from AlienVault Labs Security Research Team
+* Rich analytics dashboards and data visualization","Categories
+Security, Log Analysis, Monitoring, SIEM"
+"Fast and transparent file system and swap encryption package for linux. No source code changes to linux kernel. Works with 6.x, 5.x, 4.x, 3.x, 2.6, 2.4, 2.2 and 2.0 kernels.Fast and transparent file system and swap encryption package for linux. No source code changes to linux kernel. Works with 6.x, 5.x, 4.x, 3.x, 2.6, 2.4, 2.2 and 2.0 kernels.","Categories
+Cryptography"
+"Crypto++ is a free C++ class library of cryptographic schemes originally written by Wei Dai. The library is now maintained by a community of volunteers.
+
+The Crypto++ website is located at https://cryptopp.com/, and the source code is located at https://github.com/weidai11/cryptopp. The repository was moved in response to developer requests for Git access.
+
+The SourceForge site will remain in ""read only"" mode for historical purposes. You should visit the Crypto++ website at https://cryptopp.com/ or GitHub at https://github.com/weidai11/cryptopp to view the latest news, download the latest source code, file bugs and request features.
+
+We thank SourceForge for hosting us through the years.Crypto++ is a free C++ class library of cryptographic schemes originally written by Wei Dai. The library is now maintained by a community of volunteers.
+
+The Crypto++ website is located at https://cryptopp.com/, and the source code is located at https://github.com/weidai11/cryptopp. The repository was moved in response to developer requests for Git access.
+
+The SourceForge site will remain in ""read only"" mode for historical purposes. You should visit the Crypto++ website at https://cryptopp.com/ or GitHub at https://github.com/weidai11/cryptopp to view the latest news, download the latest source code, file bugs and request features.
+
+We thank SourceForge for hosting us through the years.","Categories
+Cryptography"
+"Copfilter is a easy to install addon for the opensource firewall IPCop. It filters POP3, SMTP, HTTP, and FTP traffic for viruses and spam using various open source programs.Copfilter is a easy to install addon for the opensource firewall IPCop. It filters POP3, SMTP, HTTP, and FTP traffic for viruses and spam using various open source programs.","Categories
+Email Spam Filter, Anti-Spam, Anti-Malware"
+"Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.","Categories
+Office/Business, Security, Systems Administration, Internet, Scientific/Engineering, Education"
+"SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.","Categories
+Cryptography, Software Testing, Systems Administration, Networking, Internet"
+Bruter is a parallel network login brute-forcer on Win32. This tool is intended to demonstrate the importance of choosing strong passwords. The goal of Bruter is to support a variety of services that allow remote authentication.Bruter is a parallel network login brute-forcer on Win32. This tool is intended to demonstrate the importance of choosing strong passwords. The goal of Bruter is to support a variety of services that allow remote authentication.,"Categories
+Security"
+"Store your most valuable notes in a LockNote. Hide your everyday notes in a safe place. Application and document in one: the mechanism to encrypt and decrypt a note is part of it. Secure, simple, independent. No installation required.Store your most valuable notes in a LockNote. Hide your everyday notes in a safe place. Application and document in one: the mechanism to encrypt and decrypt a note is part of it. Secure, simple, independent. No installation required.","Categories
+Text Editors, Cryptography"
+"A tool to block viruses in USB flash/disk from auto-running. When a USB disk is inserted, this tool not only locks the ""autorun.inf"" file, but also locks all the autorun-related virus and other suspicious files.A tool to block viruses in USB flash/disk from auto-running. When a USB disk is inserted, this tool not only locks the ""autorun.inf"" file, but also locks all the autorun-related virus and other suspicious files.","Categories
+Antivirus, Anti-Malware"
+"Qubes OS is an open source operating system designed to provide strong security for desktop computing using Security by Compartmentalization approach. Qubes is based on Xen, X Window System, and Linux, and can run most Linux applications and utilize most of the Linux drivers. It can also run Windows apps natively in Windows AppVMs (""Beta"").Qubes OS is an open source operating system designed to provide strong security for desktop computing using Security by Compartmentalization approach. Qubes is based on Xen, X Window System, and Linux, and can run most Linux applications and utilize most of the Linux drivers. It can also run Windows apps natively in Windows AppVMs (""Beta"").","Categories
+Security, OS distribution"
+"Logs Analyzer, Alerter & Reporter with a Web InterfaceLogs Analyzer, Alerter & Reporter with a Web Interface","Categories
+Security, Log Analysis, Logging"
+"Moved to GitHub!
+
+This project has moved to https://github.com/SamuraiWTF/samuraiwtfMoved to GitHub!
+
+This project has moved to https://github.com/SamuraiWTF/samuraiwtf","Categories
+Security"
+Eraser is a secure data removal tool for Windows. It completely removes sensitive data from your hard drive by overwriting it several times with carefully selected patterns.Eraser is a secure data removal tool for Windows. It completely removes sensitive data from your hard drive by overwriting it several times with carefully selected patterns.,"Categories
+Security"
+"CyoHash is a simple shell extension that is used from within Windows Explorer to calculate the MD5 hash, SHA1 hash, or CRC32 checksum of a file. (Additional SHA256, SHA384, and SHA512 algorithms are available for users of Windows XP SP3 or newer.)CyoHash is a simple shell extension that is used from within Windows Explorer to calculate the MD5 hash, SHA1 hash, or CRC32 checksum of a file. (Additional SHA256, SHA384, and SHA512 algorithms are available for users of Windows XP SP3 or newer.)","Categories
+Security"
+"updated version of The most advanced, powerful and yet beautiful penetration testing distribution ever created.Lined up with ultimate collection of tools for pro Ethical Hackers and Cyber Security Experts.
+
+Simplify security in your IT infrastructure with Cyborg. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment.updated version of The most advanced, powerful and yet beautiful penetration testing distribution ever created.Lined up with ultimate collection of tools for pro Ethical Hackers and Cyber Security Experts.
+
+Simplify security in your IT infrastructure with Cyborg. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment.","Categories
+Cybersecurity, Penetration Testing"
+"CamDesk is a free, open source, desktop webcam widget, that was created as home surveillance application. Although others have used it for demonstrations even with CamStudio, and QuickTime Player for screen casting.CamDesk is a free, open source, desktop webcam widget, that was created as home surveillance application. Although others have used it for demonstrations even with CamStudio, and QuickTime Player for screen casting.","Categories
+Security, Desktop Environment, Still Capture"
+"Yet Another Process Monitor (YAPM) is a powerful process viewer for Windows that monitors the services & processes, their modules, threads, handles, windows, TCP/UDP connections... etc. running on local system or on any of the computers on your network.Yet Another Process Monitor (YAPM) is a powerful process viewer for Windows that monitors the services & processes, their modules, threads, handles, windows, TCP/UDP connections... etc. running on local system or on any of the computers on your network.","Categories
+Security, Systems Administration, Benchmark"
+"Alfa Autorun Killer 3.0 , the latest version of the famous software that helped millions of people around the world protecting their USB flash Memories and their PCs from the dangerous autorun viruses.Alfa Autorun Killer 3.0 , the latest version of the famous software that helped millions of people around the world protecting their USB flash Memories and their PCs from the dangerous autorun viruses.","Categories
+Security"
+"ClamTk is a graphical interface for Clam Antivirus. It is designed to be an easy-to-use, lightweight, on-demand desktop virus scanner for Linux.ClamTk is a graphical interface for Clam Antivirus. It is designed to be an easy-to-use, lightweight, on-demand desktop virus scanner for Linux.","Categories
+Desktop Environment, Antivirus, Anti-Malware"
+"A python software that can be used for encrypting text in SHA384, SHA512, SHA224, SHA1, SHA256 and MD5; or for cracking six different types of hashes, namely SHA384, SHA512, SHA224, SHA1, SHA256 and MD5 through a dictionary attack using an online txt file.
+
+You need to have python 3 or above installed to run this progam.
+
+If you would like to change the online dictionary URL for hash decryption, use CTRL+F in your text editor and search for this line:
+
+LIST_OF_WORDS = str(urlopen('https://raw.githubusercontent.com/dwyl/english-words/master/words.txt').read(), 'utf-8')
+
+Change the url in the urlopen function and replace all instances with your version of the above line.
+
+If you want to use a txt dictionary stored in your computer, then, well, nothing. Unless the word search fails with the online dictionary, you can't use a txt dictionary. But don't worry; you just have to store your txt on github (like the default dictionary above).A python software that can be used for encrypting text in SHA384, SHA512, SHA224, SHA1, SHA256 and MD5; or for cracking six different types of hashes, namely SHA384, SHA512, SHA224, SHA1, SHA256 and MD5 through a dictionary attack using an online txt file.
+
+You need to have python 3 or above installed to run this progam.
+
+If you would like to change the online dictionary URL for hash decryption, use CTRL+F in your text editor and search for this line:
+
+LIST_OF_WORDS = str(urlopen('https://raw.githubusercontent.com/dwyl/english-words/master/words.txt').read(), 'utf-8')
+
+Change the url in the urlopen function and replace all instances with your version of the above line.
+
+If you want to use a txt dictionary stored in your computer, then, well, nothing. Unless the word search fails with the online dictionary, you can't use a txt dictionary. But don't worry; you just have to store your txt on github (like the default dictionary above).","Categories
+Cryptography"
+"Digital Signer is a digital signature software, sign pdf by Hardware Devices, DSC, Smart Cards, pfx, pkcs12. Feature-packed eSigning made simple, easy and sign documents effortlessly.
+
+Digital Signature software protects, and prevents documents tamper-proof your personal, official, Invoice, Bills, Tax forms, Business Contracts, Legal and any other document. Prevent and protect PDF file editing, tampering and fraud. Your documents become permanently uneditable with high-grade security.
+
+Try for Expert Mode (Import Excel, CSV, Text), Send Emails, Bulk PDF Signing, Extra Tools, PDF operations. Multiple Signatures, Invisible Signature, Timestamping. LTV Enabled, Custom Signature, Auto Signing (No Human Require) and many more.
+
+-Sign All Pages
+-Signing Templates
+-PDF Operations
+-Extract Pages
+-Merge File
+-Delete Pages
+-Insert Page
+-Customized Signing Date
+-Certify Signature
+-Customized Signing Location
+-Change Signature DirectionDigital Signer is a digital signature software, sign pdf by Hardware Devices, DSC, Smart Cards, pfx, pkcs12. Feature-packed eSigning made simple, easy and sign documents effortlessly.
+
+Digital Signature software protects, and prevents documents tamper-proof your personal, official, Invoice, Bills, Tax forms, Business Contracts, Legal and any other document. Prevent and protect PDF file editing, tampering and fraud. Your documents become permanently uneditable with high-grade security.
+
+Try for Expert Mode (Import Excel, CSV, Text), Send Emails, Bulk PDF Signing, Extra Tools, PDF operations. Multiple Signatures, Invisible Signature, Timestamping. LTV Enabled, Custom Signature, Auto Signing (No Human Require) and many more.
+
+-Sign All Pages
+-Signing Templates
+-PDF Operations
+-Extract Pages
+-Merge File
+-Delete Pages
+-Insert Page
+-Customized Signing Date
+-Certify Signature
+-Customized Signing Location
+-Change Signature Direction","Categories
+Office/Business, Financial, Cryptography, Encryption Algorithms"
+"A program made with Python, consists of generating passwords of the characters that you request, it can generate passwords from 1 character to X, the one that you put to him.
+
+It is a secure program, created personally by me, the passwords are not stored in any place, only YOU have them.
+
+I hope you like it, I will release new versions as time goes by.
+
+The next version will add new features.A program made with Python, consists of generating passwords of the characters that you request, it can generate passwords from 1 character to X, the one that you put to him.
+
+It is a secure program, created personally by me, the passwords are not stored in any place, only YOU have them.
+
+I hope you like it, I will release new versions as time goes by.
+
+The next version will add new features.","Categories
+Password Generators"
+"ClamAV-Suite is a gui for ClamAV developed for Windows 10 (x64 only). ClamAV-Suite allows to scan your device in three different ways:
+-fast scan
+-full scan
+-custom scan
+For other information see documentation.
+If you represent CISCO and suspect trademark violations contact me at: dntpanic[at]users[dot]sourceforge[dot]net
+After 3 years since the project is on sourceforge I realized that names and logo could be copyrighted.ClamAV-Suite is a gui for ClamAV developed for Windows 10 (x64 only). ClamAV-Suite allows to scan your device in three different ways:
+-fast scan
+-full scan
+-custom scan
+For other information see documentation.
+If you represent CISCO and suspect trademark violations contact me at: dntpanic[at]users[dot]sourceforge[dot]net
+After 3 years since the project is on sourceforge I realized that names and logo could be copyrighted.","Categories
+Security"
+"The architecture of the system is integrated by different Fingerprinting mechanisms.
+
+The system is designed from a core that avoids the detection of sdhash and Memory analysis
+
+Built-in security, allows anonymous browsing by filtering requests
+external identification, Exit Tor Nodes and using the TOR Fingerprinting structure
+
+The system is designed to navigate without being detected or registered by any search engine or online platform denying all types of response to servers,
+
+The system will deny the pings, scan nmap and any type of test that is made to the system, Protecting from the core
+
+The mechanism of the system will prevent the retrieval of information or any forence attempt by creating a different identity at each beginning of the system and permanently erasing the previous identity
+
+with a click on you can hide your activity, delete safely with different modules, each identity is different to avoid the digital forensic analysis.
+
+advanceatz6x2ozf.onion / SiteThe architecture of the system is integrated by different Fingerprinting mechanisms.
+
+The system is designed from a core that avoids the detection of sdhash and Memory analysis
+
+Built-in security, allows anonymous browsing by filtering requests
+external identification, Exit Tor Nodes and using the TOR Fingerprinting structure
+
+The system is designed to navigate without being detected or registered by any search engine or online platform denying all types of response to servers,
+
+The system will deny the pings, scan nmap and any type of test that is made to the system, Protecting from the core
+
+The mechanism of the system will prevent the retrieval of information or any forence attempt by creating a different identity at each beginning of the system and permanently erasing the previous identity
+
+with a click on you can hide your activity, delete safely with different modules, each identity is different to avoid the digital forensic analysis.
+
+advanceatz6x2ozf.onion / Site","Categories
+Security, OS distribution, Live CD"
+"This is an effective tool which is capable of detecting thousands and thousands of malware in your PC, including the shortcut virus to nasty ransomware, The database is regularly updated. See the video for how to use this tool.
+
+Version: 1.3
+
+MD5: 707D4BE2AA4547A542A7EEFDB7BC4C4D
+
+SHA-1: 899B80928DF59C5745B56480DAA6A51E7F65CB18A4
+
+Source code MD5: 38B3A08D62E7ADD2EE30FCA375207499
+
+IMPORTANT:
+===========
+
+FULL VERSION : https://sourceforge.net/projects/cybergod-ksgmprh/
+
+NOTE:
+=====
+
+If this tool has helped you consider supporting it please
+
+http://bit.ly/supportCyberGodKSGMPRH
+
+via paypal
+
+http://bit.ly/CyberGodSecurityDonateThis is an effective tool which is capable of detecting thousands and thousands of malware in your PC, including the shortcut virus to nasty ransomware, The database is regularly updated. See the video for how to use this tool.
+
+Version: 1.3
+
+MD5: 707D4BE2AA4547A542A7EEFDB7BC4C4D
+
+SHA-1: 899B80928DF59C5745B56480DAA6A51E7F65CB18A4
+
+Source code MD5: 38B3A08D62E7ADD2EE30FCA375207499
+
+IMPORTANT:
+===========
+
+FULL VERSION : https://sourceforge.net/projects/cybergod-ksgmprh/
+
+NOTE:
+=====
+
+If this tool has helped you consider supporting it please
+
+http://bit.ly/supportCyberGodKSGMPRH
+
+via paypal
+
+http://bit.ly/CyberGodSecurityDonate","Categories
+Antivirus, Anti-Malware"
+"Cyborg Essenitals is all new series Debian based Penetration Testing Distro , a product of Cyborg Linux and cousin of Cyborg Hawk Linux .
+It is different from cyborg hawk as it is based on DEBIAN. It contains all the essentials tools a pro ethical hacker and security expert needs
+which makes it lightweight and half the size of Cyborg Hawk Linux. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment. Cyborg Essentials comes with full UEFI Support. It can also be upgraded over the air for upcoming versions as it has its own REPOSITORY. Cyborg Essentials also have Anonymous-Mode for hiding identity.Cyborg Essenitals is all new series Debian based Penetration Testing Distro , a product of Cyborg Linux and cousin of Cyborg Hawk Linux .
+It is different from cyborg hawk as it is based on DEBIAN. It contains all the essentials tools a pro ethical hacker and security expert needs
+which makes it lightweight and half the size of Cyborg Hawk Linux. Its real strength comes from the understanding that a tester requires a strong and efficient system,that benefits from a strong selection of tools, integrated with a stable linux environment. Cyborg Essentials comes with full UEFI Support. It can also be upgraded over the air for upcoming versions as it has its own REPOSITORY. Cyborg Essentials also have Anonymous-Mode for hiding identity.","Categories
+Penetration Testing"
+"OPNsense is an open source,
+easy to use and easy to build FreeBSD based firewall and routing platform.
+
+OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases.
+
+Mission statement of the project:
+
+""Give users, developers and businesses a friendly, stable and transparent environment.
+Make OPNsense the most widely used open source security platform.""OPNsense is an open source,
+easy to use and easy to build FreeBSD based firewall and routing platform.
+
+OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases.
+
+Mission statement of the project:
+
+""Give users, developers and businesses a friendly, stable and transparent environment.
+Make OPNsense the most widely used open source security platform.""","Categories
+Security, Firewall"
+"Mirrors:
+* https://bitbucket.org/pxb1988/dex2jar
+* https://github.com/pxb1988/dex2jar
+
+
+dex2jar contains following compment
+
+
+* dex-reader is designed to read the Dalvik Executable (.dex/.odex) format. It has a light weight API similar with ASM.
+
+* dex-translator is designed to do the convert job. It reads the dex instruction to dex-ir format, after some optimize, convert to ASM format.
+
+* dex-ir used by dex-translator, is designed to represent the dex instruction
+dex-tools tools to work with .class files.
+
+* d2j-smali disassemble dex to smali files and assemble dex from smali files. different implementation to smali/baksmali, same syntax, but we support escape in type desc ""Lcom/dex2jar\t\u1234;""
+
+* dex-writer write dex same way as dex-reader.Mirrors:
+* https://bitbucket.org/pxb1988/dex2jar
+* https://github.com/pxb1988/dex2jar
+
+
+dex2jar contains following compment
+
+
+* dex-reader is designed to read the Dalvik Executable (.dex/.odex) format. It has a light weight API similar with ASM.
+
+* dex-translator is designed to do the convert job. It reads the dex instruction to dex-ir format, after some optimize, convert to ASM format.
+
+* dex-ir used by dex-translator, is designed to represent the dex instruction
+dex-tools tools to work with .class files.
+
+* d2j-smali disassemble dex to smali files and assemble dex from smali files. different implementation to smali/baksmali, same syntax, but we support escape in type desc ""Lcom/dex2jar\t\u1234;""
+
+* dex-writer write dex same way as dex-reader.","Categories
+Mobile, Antivirus, Assemblers"
+"File Wiper .NET is a program intended to safely destroy the content of files. This destructive job is done by overwriting the content of a given file before deleting it. To overwrite the file content a user can choose one of the predefined wiping algorithms. Further, after wiping the file content the name of a file is also overwritten using a special wiping algorithm.File Wiper .NET is a program intended to safely destroy the content of files. This destructive job is done by overwriting the content of a given file before deleting it. To overwrite the file content a user can choose one of the predefined wiping algorithms. Further, after wiping the file content the name of a file is also overwritten using a special wiping algorithm.","Categories
+Security"
+"* SecretManager V2 started.
+
+*New design and new features
+
+************************************
+
+This tool allows you to store (AES 256) and share passwords. Passwords are placed in groups. Groups are associated with user profiles. Finally, we associate user porfiles with users. So users have access to passwords for which they are authorized. In addition, it is possible to supervise the access to secrets (alarm and all access).* SecretManager V2 started.
+
+*New design and new features
+
+************************************
+
+This tool allows you to store (AES 256) and share passwords. Passwords are placed in groups. Groups are associated with user profiles. Finally, we associate user porfiles with users. So users have access to passwords for which they are authorized. In addition, it is possible to supervise the access to secrets (alarm and all access).","Categories
+Dynamic Content, Password Managers, Knowledge Management"
+"HoneyDrive is the premier honeypot Linux distro. It is a virtual appliance (OVA) with Xubuntu Desktop 12.04.4 LTS edition installed. It contains over 10 pre-installed and pre-configured honeypot software packages such as Kippo SSH honeypot, Dionaea and Amun malware honeypots, Honeyd low-interaction honeypot, Glastopf web honeypot and Wordpot, Conpot SCADA/ICS honeypot, Thug and PhoneyC honeyclients and more. Additionally it includes many useful pre-configured scripts and utilities to analyze, visualize and process the data it can capture, such as Kippo-Graph, Honeyd-Viz, DionaeaFR, an ELK stack and much more. Lastly, almost 90 well-known malware analysis, forensics and network monitoring related tools are also present in the distribution.HoneyDrive is the premier honeypot Linux distro. It is a virtual appliance (OVA) with Xubuntu Desktop 12.04.4 LTS edition installed. It contains over 10 pre-installed and pre-configured honeypot software packages such as Kippo SSH honeypot, Dionaea and Amun malware honeypots, Honeyd low-interaction honeypot, Glastopf web honeypot and Wordpot, Conpot SCADA/ICS honeypot, Thug and PhoneyC honeyclients and more. Additionally it includes many useful pre-configured scripts and utilities to analyze, visualize and process the data it can capture, such as Kippo-Graph, Honeyd-Viz, DionaeaFR, an ELK stack and much more. Lastly, almost 90 well-known malware analysis, forensics and network monitoring related tools are also present in the distribution.","Categories
+Security, Anti-Malware, OS distribution"
+"360-FAAR (Firewall Analysis Audit and Repair) is an offline, command line, firewall policy manipulation tool to filter, compare to logs, merge, translate and output firewall commands for new policies, in Checkpoint dbedit, Cisco ASA or ScreenOS commands, and its one file!
+
+Read Policy and Logs for:
+
+Checkpoint FW1 (in odumper.csv / logexport format),
+Netscreen ScreenOS (in get config / syslog format),
+Cisco ASA (show run / syslog format),
+
+360-FAAR compares firewall policies and uses CIDR and text filters to split rulebases / policies into target sections and identify connectivity for further analysis.
+
+360-FAAR supports, policy to log association, object translation, rulebase reordering and simplification, rule moves and duplicate matching automatically. Allowing you to move rules to where you need them.
+
+Build new rulebases from scratch with a single 'any' rule and log files, with the 'res' and 'name' options.
+
+Switch into DROPS mode to analyse drop log entries.360-FAAR (Firewall Analysis Audit and Repair) is an offline, command line, firewall policy manipulation tool to filter, compare to logs, merge, translate and output firewall commands for new policies, in Checkpoint dbedit, Cisco ASA or ScreenOS commands, and its one file!
+
+Read Policy and Logs for:
+
+Checkpoint FW1 (in odumper.csv / logexport format),
+Netscreen ScreenOS (in get config / syslog format),
+Cisco ASA (show run / syslog format),
+
+360-FAAR compares firewall policies and uses CIDR and text filters to split rulebases / policies into target sections and identify connectivity for further analysis.
+
+360-FAAR supports, policy to log association, object translation, rulebase reordering and simplification, rule moves and duplicate matching automatically. Allowing you to move rules to where you need them.
+
+Build new rulebases from scratch with a single 'any' rule and log files, with the 'res' and 'name' options.
+
+Switch into DROPS mode to analyse drop log entries.","Categories
+Security, Firewall, Logging"
+"Pmcma is a tool aimed at automating the most time consuming taskes of exploitation. It for instance determine why an application is triggering a segmentention fault, evaluate if the faulting instruction can be used to write to memory or execute arbitrary code, and list all the function pointers potentially called from a given point in time by an application.
+
+Pmcma is a totally new kind of debugger, which allows for easy experimentation with a process in memory by forcing it to fork. The exact replicas of the process created in memory can then be intrumented while keeping the properties (eg: state of variables, ASLR, permissions...) of the original process.
+
+Pmcma is an easily extensible framework available under the Apache 2.0 license.
+Read more at https://moabi.com/research/jbrossard/index.html#pmcmaPmcma is a tool aimed at automating the most time consuming taskes of exploitation. It for instance determine why an application is triggering a segmentention fault, evaluate if the faulting instruction can be used to write to memory or execute arbitrary code, and list all the function pointers potentially called from a given point in time by an application.
+
+Pmcma is a totally new kind of debugger, which allows for easy experimentation with a process in memory by forcing it to fork. The exact replicas of the process created in memory can then be intrumented while keeping the properties (eg: state of variables, ASLR, permissions...) of the original process.
+
+Pmcma is an easily extensible framework available under the Apache 2.0 license.
+Read more at https://moabi.com/research/jbrossard/index.html#pmcma","Categories
+Security"
+"Seriously entertaining dolphins on echo networks.
+
+The official source repository is located at https://github.com/textbrowser/spot-on.
+
+Downloads are located at https://github.com/textbrowser/spot-on/releases.Seriously entertaining dolphins on echo networks.
+
+The official source repository is located at https://github.com/textbrowser/spot-on.
+
+Downloads are located at https://github.com/textbrowser/spot-on/releases.","Categories
+Communications, Education, Encryption"
+"Last update on tue mar 26 16:25 UTC 2012
+
+The Web Crawler Security is a python based tool to automatically crawl a web site. It is a web crawler oriented to help in penetration testing tasks. The main task of this tool is to search and list all the links (pages and files) in a web site.
+
+The crawler has been completely rewritten in v1.0 bringing a lot of improvements: improved the data visualization, interactive option to download files, increased speed in crawling, exports list of found files into a separated file (useful to crawl a site once, then download files and analyse them with FOCA), generate an output log in Common Log Format (CLF), manage basic authentication and more!
+
+Many of the old features has been reimplemented and the most interesting one is the capability of the crawler to search for directory indexing.Last update on tue mar 26 16:25 UTC 2012
+
+The Web Crawler Security is a python based tool to automatically crawl a web site. It is a web crawler oriented to help in penetration testing tasks. The main task of this tool is to search and list all the links (pages and files) in a web site.
+
+The crawler has been completely rewritten in v1.0 bringing a lot of improvements: improved the data visualization, interactive option to download files, increased speed in crawling, exports list of found files into a separated file (useful to crawl a site once, then download files and analyse them with FOCA), generate an output log in Common Log Format (CLF), manage basic authentication and more!
+
+Many of the old features has been reimplemented and the most interesting one is the capability of the crawler to search for directory indexing.","Categories
+Security, Penetration Testing"
+"*aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México***aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México**","Categories
+Security, Desktop Environment, Internet"
+"Project has been moved to GitHub: https://github.com/colejohnson66/iDecryptIt
+
+iDecryptIt is a tool to decrypt the root filesystem of an IPSW.Project has been moved to GitHub: https://github.com/colejohnson66/iDecryptIt
+
+iDecryptIt is a tool to decrypt the root filesystem of an IPSW.","Categories
+Cryptography, File Managers"
+"Moscrack is a perl application designed to facilitate cracking WPA keys on a cluster of computers. This is accomplished with any one of Mosix clustering software, ssh, rsh or Pyrit connectivity to nodes. Cluster nodes can run any Un*x variant (includMoscrack is a perl application designed to facilitate cracking WPA keys on a cluster of computers. This is accomplished with any one of Mosix clustering software, ssh, rsh or Pyrit connectivity to nodes. Cluster nodes can run any Un*x variant (includ","Categories
+Cryptography, Distributed Computing"
+"A free, open source, ""on-the-fly"" (OTFE) transparent disk encryption program. Using this software, you can create one or more ""virtual disks"" on your PC - anything written to which will be automatically, and securely, encrypted before being storeA free, open source, ""on-the-fly"" (OTFE) transparent disk encryption program. Using this software, you can create one or more ""virtual disks"" on your PC - anything written to which will be automatically, and securely, encrypted before being store","Categories
+Cryptography, Storage, File Systems, Encryption"
+"Hexjector is an Opensource,Cross Platform PHP script to automate Site Pentest for SQL Injection Vulnerabilties.Hexjector is an Opensource,Cross Platform PHP script to automate Site Pentest for SQL Injection Vulnerabilties.","Categories
+Security, Source Code Analysis"
+"A software policy makes a powerful addition to Microsoft Windows' malware protection.
+
+In particular, it is more effective against ransomware than traditional approaches to security.
+
+If you know about the Linux 'execute permission' bit then you'll understand what this is for. The mode of operation is somewhat different in that execute permission is granted to folders and subfolders rather than individual files, but the intention is the same, to stop undesirable or unknown software from launching unless you OK it.
+
+Additionally, it is possible to specify that certain executables (typically browsers and email clients) are run with reduced rights. This is a valuable damage-limitation measure against browser plugin vulns, etc.
+
+The protection can be turned off without a reboot whilst installing legitimate software, and will automatically reactivate after a specified timeA software policy makes a powerful addition to Microsoft Windows' malware protection.
+
+In particular, it is more effective against ransomware than traditional approaches to security.
+
+If you know about the Linux 'execute permission' bit then you'll understand what this is for. The mode of operation is somewhat different in that execute permission is granted to folders and subfolders rather than individual files, but the intention is the same, to stop undesirable or unknown software from launching unless you OK it.
+
+Additionally, it is possible to specify that certain executables (typically browsers and email clients) are run with reduced rights. This is a valuable damage-limitation measure against browser plugin vulns, etc.
+
+The protection can be turned off without a reboot whilst installing legitimate software, and will automatically reactivate after a specified time","Categories
+Systems Administration, Anti-Malware"
+"A simple but powerful cross-platform utility for managing and accessing your most secret data. It stores passwords and whole files, so it can literally store any information you want to keep secret. Access your most-used passwords/URLs right out of a desktop tray icon.
+
+For advanced users, it includes a separate utility called Grypto-Transforms, which has a universal hash calculator with all the major hash functions, generic encrypt/decrypt functions and a base64/hex converter.
+
+Although the interface is simple and intuitive, the security is top-notch. It uses AES with CCM to secure and authenticate the data.A simple but powerful cross-platform utility for managing and accessing your most secret data. It stores passwords and whole files, so it can literally store any information you want to keep secret. Access your most-used passwords/URLs right out of a desktop tray icon.
+
+For advanced users, it includes a separate utility called Grypto-Transforms, which has a universal hash calculator with all the major hash functions, generic encrypt/decrypt functions and a base64/hex converter.
+
+Although the interface is simple and intuitive, the security is top-notch. It uses AES with CCM to secure and authenticate the data.","Categories
+Cryptography, Password Managers, Hash Calculators"
+Msieve is a C library implementing a suite of algorithms to factor large integers. It contains an implementation of the SIQS and GNFS algorithms; the latter has helped complete some of the largest public factorizations knownMsieve is a C library implementing a suite of algorithms to factor large integers. It contains an implementation of the SIQS and GNFS algorithms; the latter has helped complete some of the largest public factorizations known,"Categories
+Cryptography, Mathematics"
+"Web Security Dojo is a virtual machine that provides the tools, targets, and documentation to learn and practice web application security testing. A preconfigured, stand-alone training environment ideal for classroom and conferences. No Internet required to use. Ideal for those interested in getting hands-on practice for ethical hacking, penetration testing, bug bounties, and capture the flag (CTF). A single OVA file will import into VirtualBox and VMware. There is also an Ansible script for those brave souls that want transform their stock Ubuntu into a virtual dojo. Bow to your sensei!
+
+username: dojo
+password: dojoWeb Security Dojo is a virtual machine that provides the tools, targets, and documentation to learn and practice web application security testing. A preconfigured, stand-alone training environment ideal for classroom and conferences. No Internet required to use. Ideal for those interested in getting hands-on practice for ethical hacking, penetration testing, bug bounties, and capture the flag (CTF). A single OVA file will import into VirtualBox and VMware. There is also an Ansible script for those brave souls that want transform their stock Ubuntu into a virtual dojo. Bow to your sensei!
+
+username: dojo
+password: dojo","Categories
+Security, WWW/HTTP, Education, Penetration Testing"
+"Rcracki_mt can be used to perform a rainbow table attack on password hashes. It is intended for indexed&perfected rainbow tables, mainly generated by the distributed project www.freerainbowtables.comRcracki_mt can be used to perform a rainbow table attack on password hashes. It is intended for indexed&perfected rainbow tables, mainly generated by the distributed project www.freerainbowtables.com","Categories
+Cryptography"
+TRMSim-WSN (Trust and Reputation Models Simulator for Wireless Sensor Networks) is a Java-based simulator aimed to test Trust and Reputation models for WSNs. It provides several Trust and Reputation models and new ones can be easily added.TRMSim-WSN (Trust and Reputation Models Simulator for Wireless Sensor Networks) is a Java-based simulator aimed to test Trust and Reputation models for WSNs. It provides several Trust and Reputation models and new ones can be easily added.,"Categories
+Security, Frameworks, User Interface (UI), Benchmark, Simulation, Bio-Informatics"
+"Recursive computing and matching of Context Triggered Piecewise Hashing (aka Fuzzy Hashing). Supports Windows, *nix, BSD, OS X, etc.Recursive computing and matching of Context Triggered Piecewise Hashing (aka Fuzzy Hashing). Supports Windows, *nix, BSD, OS X, etc.","Categories
+Security, Logging"
+Moved to https://github.com/syvaidya/openstegoMoved to https://github.com/syvaidya/openstego,"Categories
+Cryptography, Graphics"
+An open source project originally designed to provide the University of Michigan with a secure single sign-on web authentication system. Cosign is part of the National Science Foundation Middleware Initiative (NMI) EDIT software release.An open source project originally designed to provide the University of Michigan with a secure single sign-on web authentication system. Cosign is part of the National Science Foundation Middleware Initiative (NMI) EDIT software release.,"Categories
+Security, WWW/HTTP, Systems Administration"
+"SSL-Explorer is a fully-featured, web-based SSL VPN server. This project is no longer actively maintained as the SSL-Explorer technology has now been acquired by Barracuda Networks, Inc.SSL-Explorer is a fully-featured, web-based SSL VPN server. This project is no longer actively maintained as the SSL-Explorer technology has now been acquired by Barracuda Networks, Inc.","Categories
+Cryptography, Systems Administration, Networking, Internet, VPN"
+"Please see http://firehol.org/ for up-to-date releases and information. FireHOL is a stateful iptables packet filtering firewall configurator. It is abstracted, extensible, easy and powerful. It can handle any kind of firewall, but most importantly, it gives you the means to configure it, the same way you think of it.Please see http://firehol.org/ for up-to-date releases and information. FireHOL is a stateful iptables packet filtering firewall configurator. It is abstracted, extensible, easy and powerful. It can handle any kind of firewall, but most importantly, it gives you the means to configure it, the same way you think of it.","Categories
+Security, Systems Administration, Firewall"
+An iptables based firewall for systems running the Linux 2.4 or later kernel. Very flexible configuration allows the firewall to be used in a wide variety of firewall/gateway/router and VPN environments.An iptables based firewall for systems running the Linux 2.4 or later kernel. Very flexible configuration allows the firewall to be used in a wide variety of firewall/gateway/router and VPN environments.,"Categories
+Security, Firewall"
+A fork of WASTE 1.5.0.408 beta 3 starting form 1.5.1.412 beta 3A fork of WASTE 1.5.0.408 beta 3 starting form 1.5.1.412 beta 3,"Categories
+Chat, Conferencing, File Sharing, Cryptography, Internet"
+"OpenVPN-Admin is a GUI for OpenVPN, programmed in Mono. Packages are available for Linux and Windows. Packages for Nokia 770 are under development. OpenVPN-Admin should work on every platform where Mono runs. Included in OpenVPN-Admin is a Certificate wiOpenVPN-Admin is a GUI for OpenVPN, programmed in Mono. Packages are available for Linux and Windows. Packages for Nokia 770 are under development. OpenVPN-Admin should work on every platform where Mono runs. Included in OpenVPN-Admin is a Certificate wi","Categories
+Security, Desktop Environment"
+"Zebedee is a simple program to establish an encrypted, compressed ""tunnel"" for TCP/IP or UDP data transfer between two systems.Zebedee is a simple program to establish an encrypted, compressed ""tunnel"" for TCP/IP or UDP data transfer between two systems.","Categories
+Security, Networking, Internet"
+"Keyring lets you securely store digital secret keys on your Palm handheld computer. This information might include computer account passwords, credit card or banking numbers, GnuPG passphrases, or OPIE pads. (Previously ""GNU Keyring for PalmOS"".)Keyring lets you securely store digital secret keys on your Palm handheld computer. This information might include computer account passwords, credit card or banking numbers, GnuPG passphrases, or OPIE pads. (Previously ""GNU Keyring for PalmOS"".)","Categories
+Database, Cryptography"
+"KeeForm is a popular extension for KeePass that can launch web sites, scan for username and password fields and fill in that information for you automatically.
+
+https://keeform.orgKeeForm is a popular extension for KeePass that can launch web sites, scan for username and password fields and fill in that information for you automatically.
+
+https://keeform.org","Categories
+Security"
+TrouSerS - An open-source TCG Software Stack implementation.TrouSerS - An open-source TCG Software Stack implementation.,"Categories
+Security"
+Poptop is an open source implementation of a PPTP server. Running under x86 or embedded Motorola ColdFire architectures Poptop provides full interoperability with the Microsoft PPTP VPN client.Poptop is an open source implementation of a PPTP server. Running under x86 or embedded Motorola ColdFire architectures Poptop provides full interoperability with the Microsoft PPTP VPN client.,"Categories
+Cryptography, Networking, VPN"

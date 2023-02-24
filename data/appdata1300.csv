@@ -1,0 +1,469 @@
+Description,Category
+RC4Crypt is a petite library that allows you to use RC4 encryption easily in PHP. It's OO and can produce outputs in binary and hex.RC4Crypt is a petite library that allows you to use RC4 encryption easily in PHP. It's OO and can produce outputs in binary and hex.,"Categories
+Cryptography"
+"The PHP Web Toolkit enables the rapid development of multi-layered web applications and is designed to be easy to use, extensible, reliable, reusable, scalable and secure. It integrates with ADOdb, FCKeditor, kses, Libmcrypt, Libmhash and Smarty.The PHP Web Toolkit enables the rapid development of multi-layered web applications and is designed to be easy to use, extensible, reliable, reusable, scalable and secure. It integrates with ADOdb, FCKeditor, kses, Libmcrypt, Libmhash and Smarty.","Categories
+Database, Cryptography, Dynamic Content, Frameworks, Object Oriented, Authentication/Directory"
+"SSHDOS is a DOS port of SSH, SCP, SFTP and Telnet clients. Needs a packet driver (or a PPP driver for dialup connection) only. There are two separate packages for SSH1 and for SSH2.SSHDOS is a DOS port of SSH, SCP, SFTP and Telnet clients. Needs a packet driver (or a PPP driver for dialup connection) only. There are two separate packages for SSH1 and for SSH2.","Categories
+Terminals, Communications, Cryptography, Internet"
+"chaRME is a web based open source Risk management engine, which currently supports the steps necessary to implement and maintain an ISO/IEC 27001 compliant Information Security Management System. It also supports the international payment card standard PchaRME is a web based open source Risk management engine, which currently supports the steps necessary to implement and maintain an ISO/IEC 27001 compliant Information Security Management System. It also supports the international payment card standard P","Categories
+Security"
+"The Entropy Gathering Daemon is a portable perl script which provides a source of randomness on systems that lack an in-kernel /dev/random. GnuPG, OpenSSH, and the OpenSSL toolkit can use EGD to seed their random number generators.The Entropy Gathering Daemon is a portable perl script which provides a source of randomness on systems that lack an in-kernel /dev/random. GnuPG, OpenSSH, and the OpenSSL toolkit can use EGD to seed their random number generators.","Categories
+Cryptography"
+"A pure Python module that implements client side RADIUS authentication, as defined by RFC2138.
+
+This project has moved to GitHub.
+
+http://github.com/btimby/py-radius/A pure Python module that implements client side RADIUS authentication, as defined by RFC2138.
+
+This project has moved to GitHub.
+
+http://github.com/btimby/py-radius/","Categories
+Security, Networking, Internet"
+"This project allows placing rules into an iptables based policy, and having these rules expire after a set time. This is useful for opening ports after successful port knocking, or for blocking source IPs using port sentry.This project allows placing rules into an iptables based policy, and having these rules expire after a set time. This is useful for opening ports after successful port knocking, or for blocking source IPs using port sentry.","Categories
+Security"
+a smal tool tat can split a file into to files for encryption only both files can restore the orginal filea smal tool tat can split a file into to files for encryption only both files can restore the orginal file,"Categories
+Cryptography"
+A security scanner coded in a tcl/tk extension for use with linux and unix systems . It automatically downloads patches and exploits how ever testing of them is left up to the user for security reasonsA security scanner coded in a tcl/tk extension for use with linux and unix systems . It automatically downloads patches and exploits how ever testing of them is left up to the user for security reasons,"Categories
+Security, Source Code Control System (SCCS)"
+The Leeter is an easy-to-use and convinient program to easily write hardly understandable text. While this is mainly not the intention of normal chatters it may be a nice joke to try out on friends. Provides 5 different options to scramble up your text.The Leeter is an easy-to-use and convinient program to easily write hardly understandable text. While this is mainly not the intention of normal chatters it may be a nice joke to try out on friends. Provides 5 different options to scramble up your text.,"Categories
+Text Processing, Chat, Cryptography"
+"BankOfEuler stores a set of accounts, each with a set of values. Value can be split into two parts, merged into a sum, or transferred between accounts. The server is never aware of the quantities being manipulated because they are encrypted.BankOfEuler stores a set of accounts, each with a set of values. Value can be split into two parts, merged into a sum, or transferred between accounts. The server is never aware of the quantities being manipulated because they are encrypted.","Categories
+Cryptography"
+"This is a program that creates one-time-pads, encodes plaintext files with the one-time-pads, decodes them, and creates number-stations-like sound files for message transmission.This is a program that creates one-time-pads, encodes plaintext files with the one-time-pads, decodes them, and creates number-stations-like sound files for message transmission.","Categories
+Cryptography"
+Umbrella is a security mechanism that implements a combination of Process-Based Access Control (PBAC) and authentication of Digital Signed Binaries (DSB). Umbrella is designed for Linux-based consumer electronic devices.Umbrella is a security mechanism that implements a combination of Process-Based Access Control (PBAC) and authentication of Digital Signed Binaries (DSB). Umbrella is designed for Linux-based consumer electronic devices.,"Categories
+Security, Operating System Kernels"
+"The High Interaction Honeypot Analysis Toolkit (HIHAT) allows to transform arbitrary PHP applications into a web-based Honeypot. A semi-automatic user interface supports the analysis process, scans for attacks etc.The High Interaction Honeypot Analysis Toolkit (HIHAT) allows to transform arbitrary PHP applications into a web-based Honeypot. A semi-automatic user interface supports the analysis process, scans for attacks etc.","Categories
+Security, Monitoring, Logging"
+FLAG was designed to simplify the process of log file analysis and forensic investigations. FLAG facilitates efficient analysis of large quantities of data within an interactive environment. PyFlag is the reimplementation of FLAG in Python.FLAG was designed to simplify the process of log file analysis and forensic investigations. FLAG facilitates efficient analysis of large quantities of data within an interactive environment. PyFlag is the reimplementation of FLAG in Python.,"Categories
+Front-Ends, Database Engines/Servers, Security, Data Visualization"
+"This programm is able to block your computer.
+so other people are only able to access you computer if they know how to use the program and if they know your personal password.This programm is able to block your computer.
+so other people are only able to access you computer if they know how to use the program and if they know your personal password.","Categories
+Security"
+"Libnids - NIDS E-component, based on Linux kernel. This library provides IP defragmentation, TCP reassembly and port scan detection.Libnids - NIDS E-component, based on Linux kernel. This library provides IP defragmentation, TCP reassembly and port scan detection.","Categories
+Security, Monitoring, Internet"
+"This project is moved to https://github.com/salarcode/ASProxy
+ASProxy is a free and open-source service which allows the user to surf the net anonymously. It hides your identity and allows you to pass any filtering system. ASProxy supports most current web technologies such as AJAX, HTTPS, JavaScript, FTP and so onThis project is moved to https://github.com/salarcode/ASProxy
+ASProxy is a free and open-source service which allows the user to surf the net anonymously. It hides your identity and allows you to pass any filtering system. ASProxy supports most current web technologies such as AJAX, HTTPS, JavaScript, FTP and so on","Categories
+Security, Browsers, Dynamic Content"
+"Coyote Linux is a security centric distribution of Linux designed to provide firewall, VPN service, IP routing, and various other functions.Coyote Linux is a security centric distribution of Linux designed to provide firewall, VPN service, IP routing, and various other functions.","Categories
+Security, Firewall"
+"It's hard remembering good passwords. Most people pick a one or two passwords and use them all over the place, which is a really bad idea, and we all feel bad about doing it. I got sick of feeling like this, so I wrote PWM to manage passwords for me. I fIt's hard remembering good passwords. Most people pick a one or two passwords and use them all over the place, which is a really bad idea, and we all feel bad about doing it. I got sick of feeling like this, so I wrote PWM to manage passwords for me. I f","Categories
+Cryptography"
+"The Autorun.inf-file is unsafe, but turning it off is uncomfortable and does not protect other computers. This program does. And it also performs certain actions when a USB-Stick is plugged in, so you won't lose functionality.The Autorun.inf-file is unsafe, but turning it off is uncomfortable and does not protect other computers. This program does. And it also performs certain actions when a USB-Stick is plugged in, so you won't lose functionality.","Categories
+Security"
+"PWCT is not a Wizard for creating your application in 1 2 3 steps. PWCT is a general-purpose visual programming language designed for novice and expert programmers.
+
+A novice programmer can use PWCT to learn programming concepts like Data Structures, Control Structures and Programming Paradigms. An expert programmer can use PWCT to create any large and complex software.
+
+Using PWCT we developed a textual programming language Compiler and Virtual Machine without writing a single line of code where the programming process done using the PWCT visual components. This language called Supernova and it's free-open source.
+
+Many database, Multi-Media, Network, AI, Simulation & Math applications are developed using PWCT
+
+You can see/edit the generated source code. PWCT support Harbour, Supernova, C, Python, & C#.NET and you can extend PWCT to support code generation in any text based programming language.
+
+PWCT comes with many samples, tutorials and movies.PWCT is not a Wizard for creating your application in 1 2 3 steps. PWCT is a general-purpose visual programming language designed for novice and expert programmers.
+
+A novice programmer can use PWCT to learn programming concepts like Data Structures, Control Structures and Programming Paradigms. An expert programmer can use PWCT to create any large and complex software.
+
+Using PWCT we developed a textual programming language Compiler and Virtual Machine without writing a single line of code where the programming process done using the PWCT visual components. This language called Supernova and it's free-open source.
+
+Many database, Multi-Media, Network, AI, Simulation & Math applications are developed using PWCT
+
+You can see/edit the generated source code. PWCT support Harbour, Supernova, C, Python, & C#.NET and you can extend PWCT to support code generation in any text based programming language.
+
+PWCT comes with many samples, tutorials and movies.","Categories
+Software Development, Artificial Intelligence, Education"
+"Notepad++ project is moving to GitHub:
+https://github.com/notepad-plus-plus/notepad-plus-plusNotepad++ project is moving to GitHub:
+https://github.com/notepad-plus-plus/notepad-plus-plus","Categories
+Text Editors, Software Development"
+jEdit is a programmer's text editor written in Java. It uses the Swing toolkit for the GUI and can be configured as a rather powerful IDE through the use of its plugin architecture.jEdit is a programmer's text editor written in Java. It uses the Swing toolkit for the GUI and can be configured as a rather powerful IDE through the use of its plugin architecture.,"Categories
+Text Editors, Software Development, Web Development"
+"ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash).
+As Windows console window enhancement (local terminal emulator), it presents multiple consoles and simple GUI applications as one customizable tabbed GUI window with various features.
+
+Also, due to deep integration, ConEmu is the best companion for Far Manager, my favorite shell replacement.
+
+Disclaimer.
+ConEmu is not a shell, so it does not provide ""shell features"" like tab-completion, command history and others. But you can run any shell or remote access client of your choice in ConEmu! Try Clink for bash-style completion in cmd.exe and PSReadLine or PowerTab in powershell.exe. Or just run Bash from your favourite distro.
+Also, ConEmu does not provide remote access (SSH/Telnet/...) too, just use your remote client (ssh.exe, telnet.exe) instead.ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash).
+As Windows console window enhancement (local terminal emulator), it presents multiple consoles and simple GUI applications as one customizable tabbed GUI window with various features.
+
+Also, due to deep integration, ConEmu is the best companion for Far Manager, my favorite shell replacement.
+
+Disclaimer.
+ConEmu is not a shell, so it does not provide ""shell features"" like tab-completion, command history and others. But you can run any shell or remote access client of your choice in ConEmu! Try Clink for bash-style completion in cmd.exe and PSReadLine or PowerTab in powershell.exe. Or just run Bash from your favourite distro.
+Also, ConEmu does not provide remote access (SSH/Telnet/...) too, just use your remote client (ssh.exe, telnet.exe) instead.","Categories
+Terminals, Usability, Emulators"
+"A 32/64/16-bit Pascal compiler for Win32/64/CE, Linux, Mac OS X/iOS, Android, FreeBSD, OS/2, Game Boy Advance, Nintendo NDS and DOS; semantically compatible with Delphi, Borland Pascal and Mac Pascal (partially) with extra features, e.g. operator overloading.A 32/64/16-bit Pascal compiler for Win32/64/CE, Linux, Mac OS X/iOS, Android, FreeBSD, OS/2, Game Boy Advance, Nintendo NDS and DOS; semantically compatible with Delphi, Borland Pascal and Mac Pascal (partially) with extra features, e.g. operator overloading.","Categories
+Compilers"
+"OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.","Categories
+Text Processing, Localization (L10N), Computer Aided Translation (CAT)"
+"Scintilla is a free source code editing component which includes useful features such as syntax styling, error indicators, folding, code completion and call tips. The project includes SciTE (SCIntilla based Text Editor).Scintilla is a free source code editing component which includes useful features such as syntax styling, error indicators, folding, code completion and call tips. The project includes SciTE (SCIntilla based Text Editor).","Categories
+Text Editors, Software Development"
+"Doxygen is a JavaDoc like documentation system for C++, C, Java and IDL.Doxygen is a JavaDoc like documentation system for C++, C, Java and IDL.","Categories
+Documentation, Source Code Analysis"
+"Hibernate is an Object/Relational Mapper tool. It's very popular among Java applications and implements the Java Persistence API. Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).Hibernate is an Object/Relational Mapper tool. It's very popular among Java applications and implements the Java Persistence API. Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).","Categories
+Database, Search Engines, Frameworks, Scientific/Engineering, Object-Relational Mapping (ORM)"
+"Tool Command Language (Tcl) is an interpreted language and very portable interpreter for that language. Tcl is embeddable and extensible, and has been widely used since its creation in 1988 by John Ousterhout.
+
+Bug reports to http://core.tcl.tk/tcl/
+
+Follow code development at http://core.tcl.tk/tcl/Tool Command Language (Tcl) is an interpreted language and very portable interpreter for that language. Tcl is embeddable and extensible, and has been widely used since its creation in 1988 by John Ousterhout.
+
+Bug reports to http://core.tcl.tk/tcl/
+
+Follow code development at http://core.tcl.tk/tcl/","Categories
+Desktop Environment, Interpreters, Internet"
+"************************************************************************************************************************
+* The primary FreeRTOS repository is now in Git. Go to https://github.com/freertos for the latest FreeRTOS kernel and libraries.
+* Our support has moved to https://forums.freertos.org.
+************************************************************************************************************************
+
+FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors. Distributed freely under the MIT open source license, FreeRTOS includes a kernel and a growing set of libraries suitable for use across all industry sectors. Visit https://www.freertos.org for more information and other download options.
+
+Note about support/discussions forum:
+The FreeRTOS support forum has moved to https://forums.freertos.org. Please update your bookmarks and create new posts in the appropriate category in the new community forums.************************************************************************************************************************
+* The primary FreeRTOS repository is now in Git. Go to https://github.com/freertos for the latest FreeRTOS kernel and libraries.
+* Our support has moved to https://forums.freertos.org.
+************************************************************************************************************************
+
+FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors. Distributed freely under the MIT open source license, FreeRTOS includes a kernel and a growing set of libraries suitable for use across all industry sectors. Visit https://www.freertos.org for more information and other download options.
+
+Note about support/discussions forum:
+The FreeRTOS support forum has moved to https://forums.freertos.org. Please update your bookmarks and create new posts in the appropriate category in the new community forums.","Categories
+Software Development, Operating System Kernels, Embedded Systems, ROMs"
+"NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution.
+
+Being a user's first experience with your product, a stable and reliable installer is an important component of succesful software. With NSIS you can create such installers that are capable of doing everything that is needed to setup your software.
+
+NSIS is script-based and allows you to create the logic to handle even the most complex installation tasks. Many plug-ins and scripts are already available: you can create web installers, communicate with Windows and other software components, install or update shared components and more.NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution.
+
+Being a user's first experience with your product, a stable and reliable installer is an important component of succesful software. With NSIS you can create such installers that are capable of doing everything that is needed to setup your software.
+
+NSIS is script-based and allows you to create the logic to handle even the most complex installation tasks. Many plug-ins and scripts are already available: you can create web installers, communicate with Windows and other software components, install or update shared components and more.","Categories
+Build Tools, Software Distribution, Installation/Setup"
+"Community driven projects featuring the latest innovations for cutting edge apps. Our flagship project JBoss AS is the leading Open Source, standards-compliant, Java EE based application server implemented in 100% Pure Java.Community driven projects featuring the latest innovations for cutting edge apps. Our flagship project JBoss AS is the leading Open Source, standards-compliant, Java EE based application server implemented in 100% Pure Java.","Categories
+Dynamic Content, Object Brokering, Operating System Kernels"
+"SharpDevelop is the open-source IDE for the .NET platform. Write applications in languages including C#, VB.NET, F#, IronPython and IronRuby, as well as target rich and reach: Windows Forms or WPF, as well as ASP.NET MVC and WCF. It starts from USB drives, supports read-only projects, comes with integrated unit and performance testing tools, Git, NuGet and a lot more features that make you productive as a developer.SharpDevelop is the open-source IDE for the .NET platform. Write applications in languages including C#, VB.NET, F#, IronPython and IronRuby, as well as target rich and reach: Windows Forms or WPF, as well as ASP.NET MVC and WCF. It starts from USB drives, supports read-only projects, comes with integrated unit and performance testing tools, Git, NuGet and a lot more features that make you productive as a developer.","Categories
+Integrated Development Environments (IDE), Software Testing, Debuggers"
+"The home page for the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1 processor has moved to http://www.saxonica.com/. Information on this site is no longer kept up to date.
+
+Sourceforge was the home for open-source versions of the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1, processor from 1999 until 2022. From version 12.0 in January 2023, you need to visit the Saxonica site at http://www.saxonica.com/ for the latest information and releases.The home page for the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1 processor has moved to http://www.saxonica.com/. Information on this site is no longer kept up to date.
+
+Sourceforge was the home for open-source versions of the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1, processor from 1999 until 2022. From version 12.0 in January 2023, you need to visit the Saxonica site at http://www.saxonica.com/ for the latest information and releases.","Categories
+Dynamic Content, Interpreters"
+"A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective-C, C#, and Java Source Code.
+
+Website: http://astyle.sourceforge.net/A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective-C, C#, and Java Source Code.
+
+Website: http://astyle.sourceforge.net/","Categories
+Software Development"
+"wxWidgets is a C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. It has popular language bindings for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it uses the platform's native API rather than emulating the GUI. It's also extensive, free, open-source and mature.wxWidgets is a C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. It has popular language bindings for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it uses the platform's native API rather than emulating the GUI. It's also extensive, free, open-source and mature.","Categories
+Frameworks"
+"ATTENTION: Corey here, creator of BugTracker.NET. Please checkout the successor to BugTracker.NET, ""Budoco"", which is like BugTracker.NET, but runs cross platform and uses PostgreSQL.
+https://github.com/ctrager/budoco
+
+In November 2020 Microsoft released .NET 5, aka .NET Core aka dotnet core. It drops technologies that BugTracker.NET depends on. Budoco is a rewrite that runs on dotnet core. Budoco is *BU*gtracker dot net on *DO*tnet *CO*re.
+
+Microsoft has a good track record of keeping so BugTracker.NET ""Classic"", which was born in 2001 and is still alive going into 2021, should be fine for the next few years.
+
+So, about BugTracker.NET ""Classic"":
+
+A web-based bug or issue tracker written using .NET 4.x Framework, ASP.NET, C#, and SQL Server (SQL Server Express too). Probably has all the features you need. Easy to setup. Power and flexibility when you need it. Learn more at http://ifdefined.com/bugtrackernet.htmlATTENTION: Corey here, creator of BugTracker.NET. Please checkout the successor to BugTracker.NET, ""Budoco"", which is like BugTracker.NET, but runs cross platform and uses PostgreSQL.
+https://github.com/ctrager/budoco
+
+In November 2020 Microsoft released .NET 5, aka .NET Core aka dotnet core. It drops technologies that BugTracker.NET depends on. Budoco is a rewrite that runs on dotnet core. Budoco is *BU*gtracker dot net on *DO*tnet *CO*re.
+
+Microsoft has a good track record of keeping so BugTracker.NET ""Classic"", which was born in 2001 and is still alive going into 2021, should be fine for the next few years.
+
+So, about BugTracker.NET ""Classic"":
+
+A web-based bug or issue tracker written using .NET 4.x Framework, ASP.NET, C#, and SQL Server (SQL Server Express too). Probably has all the features you need. Easy to setup. Power and flexibility when you need it. Learn more at http://ifdefined.com/bugtrackernet.html","Categories
+Help Desk, Collaborative Development, Agile Development Tools"
+"TDM-GCC is now hosted on Github at https://jmeubank.github.io/tdm-gcc/.
+
+The most recent stable releases from the GCC compiler project, for 32-bit and 64-bit Windows, cleverly disguised with a real installer & updater.TDM-GCC is now hosted on Github at https://jmeubank.github.io/tdm-gcc/.
+
+The most recent stable releases from the GCC compiler project, for 32-bit and 64-bit Windows, cleverly disguised with a real installer & updater.","Categories
+Compilers"
+"We are deprecating our SourceForge installation.
+
+For the latest information, downloads, and opportunities to contribute, please visit http://junit.org.
+
+(JUnit is a simple framework for writing and running automated tests. As a political gesture, it celebrates programmers testing their own software.)We are deprecating our SourceForge installation.
+
+For the latest information, downloads, and opportunities to contribute, please visit http://junit.org.
+
+(JUnit is a simple framework for writing and running automated tests. As a political gesture, it celebrates programmers testing their own software.)","Categories
+Software Development"
+"The Lazarus IDE is a stable and feature rich visual programming environment for the FreePascal Compiler. It supports the creation of self-standing graphical and console applications and runs on Linux, FreeBSD, MacOSX and Windows.The Lazarus IDE is a stable and feature rich visual programming environment for the FreePascal Compiler. It supports the creation of self-standing graphical and console applications and runs on Linux, FreeBSD, MacOSX and Windows.","Categories
+Integrated Development Environments (IDE), Build Tools, Code Generators, Debuggers"
+"These plug-ins provide build and debug extensions for Eclipse CDT (C/C++ Development Tools) for 32/64-bits GNU ARM toolchains like GNU Tools for Embedded, Linaro, etc, ready to run STM32Fx project templates and full integration for advanced J-Link JTAG/SWD probes, including SWO tracing console and peripheral registers view.These plug-ins provide build and debug extensions for Eclipse CDT (C/C++ Development Tools) for 32/64-bits GNU ARM toolchains like GNU Tools for Embedded, Linaro, etc, ready to run STM32Fx project templates and full integration for advanced J-Link JTAG/SWD probes, including SWO tracing console and peripheral registers view.","Categories
+Software Development, Build Tools"
+"TortoiseSVN is a Subversion (SVN) client, implemented as a windows shell extension. Which means it's available right where you need it: in the Windows file explorer.
+It's intuitive and easy to use, since it doesn't require the Subversion command line client to run. Simply the coolest Interface to (Sub)Version Control!
+
+NOTE: The project has moved to osdn.net:
+https://osdn.net/projects/tortoisesvn/TortoiseSVN is a Subversion (SVN) client, implemented as a windows shell extension. Which means it's available right where you need it: in the Windows file explorer.
+It's intuitive and easy to use, since it doesn't require the Subversion command line client to run. Simply the coolest Interface to (Sub)Version Control!
+
+NOTE: The project has moved to osdn.net:
+https://osdn.net/projects/tortoisesvn/","Categories
+Version Control, Usability, Subversion"
+Integrates Eclipse with the SAP NetWeaver Application Server.Integrates Eclipse with the SAP NetWeaver Application Server.,"Categories
+Application Servers"
+"The TEI is an international and interdisciplinary standard used by libraries, museums, publishers, and academics to represent all kinds of literary and linguistic texts, using an encoding scheme that is maximally expressive and minimally obsolescent.The TEI is an international and interdisciplinary standard used by libraries, museums, publishers, and academics to represent all kinds of literary and linguistic texts, using an encoding scheme that is maximally expressive and minimally obsolescent.","Categories
+Text Processing, Documentation, TEI"
+The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.,"Categories
+QA Automation, Source Code Analysis, Code Review"
+"With LT Browser, you can see mobile view of website on different screen sizes and resolution. With over 50+ devices to choose from, mobile website test hasn't been much easier. Use LT Browser and ensure that your website is mobile responsive. You can create your own custom devices and save it for future uses. Create new mobile, tablet or desktop devices and test website on various devices, screen resolution and perform screen resolution test for website on different screen sizes.
+You don’t have to switch between two devices to perform mobile website test. Test on two devices simultaneously with LT Browser and perform mobile website test on different tablet and desktop devices and inspect website on different resolution and resolution simultaneously.
+LT Browser comes with Dev Tool to debug multiple devices while performing responsiveness test on your devices simultaneously. Test website on various devices simultaneously with separate Dev Tools for each device.With LT Browser, you can see mobile view of website on different screen sizes and resolution. With over 50+ devices to choose from, mobile website test hasn't been much easier. Use LT Browser and ensure that your website is mobile responsive. You can create your own custom devices and save it for future uses. Create new mobile, tablet or desktop devices and test website on various devices, screen resolution and perform screen resolution test for website on different screen sizes.
+You don’t have to switch between two devices to perform mobile website test. Test on two devices simultaneously with LT Browser and perform mobile website test on different tablet and desktop devices and inspect website on different resolution and resolution simultaneously.
+LT Browser comes with Dev Tool to debug multiple devices while performing responsiveness test on your devices simultaneously. Test website on various devices simultaneously with separate Dev Tools for each device.","Categories
+Software Testing"
+"Mantis is an easily deployable, web based bugtracker to aid product bug tracking. It requires PHP, MySQL and a web server. Checkout our demo and hosted offering.Mantis is an easily deployable, web based bugtracker to aid product bug tracking. It requires PHP, MySQL and a web server. Checkout our demo and hosted offering.","Categories
+Software Development, Workflow Management"
+"Octave Forge is a central location for collaborative development of packages for GNU Octave. The Octave Forge packages expand Octave's core functionality by providing field specific features via Octave's package system. See https://octave.sourceforge.io/packages.php for a list of all available packages.
+
+GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation. Octave is normally used through its interactive command line interface, but it can also be used to write non-interactive programs. The Octave language is quite similar to Matlab so that most programs are easily portable. Refer to https://www.octave.org for more information.Octave Forge is a central location for collaborative development of packages for GNU Octave. The Octave Forge packages expand Octave's core functionality by providing field specific features via Octave's package system. See https://octave.sourceforge.io/packages.php for a list of all available packages.
+
+GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation. Octave is normally used through its interactive command line interface, but it can also be used to write non-interactive programs. The Octave language is quite similar to Matlab so that most programs are easily portable. Refer to https://www.octave.org for more information.","Categories
+Scientific/Engineering, Libraries"
+Home of the Open Object Rexx Project. ooRexx is the open source version of IBM's Object REXX Interpreter. It is upwardly compatible with classic REXX and will execute classic REXX programs unchanged. The project is managed by the Rexx Language Association.Home of the Open Object Rexx Project. ooRexx is the open source version of IBM's Object REXX Interpreter. It is upwardly compatible with classic REXX and will execute classic REXX programs unchanged. The project is managed by the Rexx Language Association.,"Categories
+CGI Scripts, HTTP Servers, Interpreters, Systems Administration"
+"ProGuard has moved to Github now: https://github.com/Guardsquare/proguard
+
+ProGuard is a free Java class file shrinker, optimizer, obfuscator, and preverifier. It detects and removes unused classes, fields, methods, and attributes. It optimizes bytecode and removes unused instructions. It renames the remaining classes, fields, and methods using short meaningless names.
+
+ProGuard is useful for making code more compact and more efficient, on the desktop, on tablets, on smartphones, and on embedded devices. It also makes code more difficult to reverse engineer.ProGuard has moved to Github now: https://github.com/Guardsquare/proguard
+
+ProGuard is a free Java class file shrinker, optimizer, obfuscator, and preverifier. It detects and removes unused classes, fields, methods, and attributes. It optimizes bytecode and removes unused instructions. It renames the remaining classes, fields, and methods using short meaningless names.
+
+ProGuard is useful for making code more compact and more efficient, on the desktop, on tablets, on smartphones, and on embedded devices. It also makes code more difficult to reverse engineer.","Categories
+Build Tools, Code Generators"
+JAGS is Just Another Gibbs Sampler. It is a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.JAGS is Just Another Gibbs Sampler. It is a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.,"Categories
+Build Tools, Mathematics"
+"JTrac is a generic issue-tracking web-application that can be easily customized by adding custom fields and drop-downs. Features include a customizable workflow, field level permissions, e-mail integration, file attachments, a detailed history view and changeable colors to fit a particular CI/CD.
+
+After a long hiatus, development has resumed with version 2.2.0 in December 2021, 2.2.1 in February 2022, and 2.3.0 in February 2023. See https://sourceforge.net/p/j-trac/wiki/Home/ for release notes and documentation, and download it at https://sourceforge.net/projects/j-trac/files/jtrac/. Feedback is welcome.
+
+It continues to be improved, and has recently been awarded the SourceForge ""Open Source Excellence"" badge.JTrac is a generic issue-tracking web-application that can be easily customized by adding custom fields and drop-downs. Features include a customizable workflow, field level permissions, e-mail integration, file attachments, a detailed history view and changeable colors to fit a particular CI/CD.
+
+After a long hiatus, development has resumed with version 2.2.0 in December 2021, 2.2.1 in February 2022, and 2.3.0 in February 2023. See https://sourceforge.net/p/j-trac/wiki/Home/ for release notes and documentation, and download it at https://sourceforge.net/projects/j-trac/files/jtrac/. Feedback is welcome.
+
+It continues to be improved, and has recently been awarded the SourceForge ""Open Source Excellence"" badge.","Categories
+To-Do Lists, Software Testing, QA Automation"
+"A fast and reliable tool, written in Java 8, for generating professional UML sequence diagrams from text. Supports actors, con-/destructors, threads, broadcasts, notes, and fragments. Can serve as a Javadoc taglet. Exports PDF, (E)PS, SVG, PNG, ...
+
+The source code is hosted at http://github.com/sdedit/sdeditA fast and reliable tool, written in Java 8, for generating professional UML sequence diagrams from text. Supports actors, con-/destructors, threads, broadcasts, notes, and fragments. Can serve as a Javadoc taglet. Exports PDF, (E)PS, SVG, PNG, ...
+
+The source code is hosted at http://github.com/sdedit/sdedit","Categories
+UML, Documentation, Design"
+The docking library for .Net Windows Forms development which mimics Visual Studio .Net.The docking library for .Net Windows Forms development which mimics Visual Studio .Net.,"Categories
+Window Managers, User Interface (UI)"
+"An open source, AJAX implementation of the VirtualBox user interface written in PHP. As a modern web interface, it allows you to access and control remote VirtualBox instances. phpVirtualBox is designed to allow users to administer VirtualBox in a headless environment - mirroring the VirtualBox GUI through its web interface.
+
+I develop phpVirtualBox in my spare time, free of charge. If you find this program useful, I ask that you please donate.
+
+Thank you!
+-- IanAn open source, AJAX implementation of the VirtualBox user interface written in PHP. As a modern web interface, it allows you to access and control remote VirtualBox instances. phpVirtualBox is designed to allow users to administer VirtualBox in a headless environment - mirroring the VirtualBox GUI through its web interface.
+
+I develop phpVirtualBox in my spare time, free of charge. If you find this program useful, I ask that you please donate.
+
+Thank you!
+-- Ian","Categories
+Virtual Machine"
+"Projects joined MinGW-W64, and the new builds will be available on the MinGW-W64(https://sourceforge.net/projects/mingw-w64) site.Projects joined MinGW-W64, and the new builds will be available on the MinGW-W64(https://sourceforge.net/projects/mingw-w64) site.","Categories
+Debuggers, Compilers, Cross Compilers"
+"Windows hooker - intercepts system calls to make Win32 programs run in a window, to enhance application compatibility, to enhance video modes, to stretch timing and emulate CD disk data and audio tracks. It is typically very useful to run old Windows games.Windows hooker - intercepts system calls to make Win32 programs run in a window, to enhance application compatibility, to enhance video modes, to stretch timing and emulate CD disk data and audio tracks. It is typically very useful to run old Windows games.","Categories
+User Interface (UI), Presentation"
+"PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Salesforce.com Apex, Java, JavaScript, XML, XSL.
+
+Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, PHP, Ruby, Fortran, JavaScript, Matlab, Swift.
+
+You can fork us on https://github.com/pmdPMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Salesforce.com Apex, Java, JavaScript, XML, XSL.
+
+Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, PHP, Ruby, Fortran, JavaScript, Matlab, Swift.
+
+You can fork us on https://github.com/pmd","Categories
+Software Development, Source Code Analysis"
+"Freemat is an interpreted, matrix-oriented development environment for engineering and scientific applications, similar to the commercial package MATLAB. Freemat provides visualization, image manipulation, and plotting as well as parallel programming.Freemat is an interpreted, matrix-oriented development environment for engineering and scientific applications, similar to the commercial package MATLAB. Freemat provides visualization, image manipulation, and plotting as well as parallel programming.","Categories
+Interpreters, Data Visualization, Mathematics, Information Analysis"
+IKVM.NET is a JVM for the Microsoft .NET Framework and Mono. It can both dynamically run Java classes and can be used to convert Java jars into .NET assemblies. It also includes a port of the OpenJDK class libraries to .NET.IKVM.NET is a JVM for the Microsoft .NET Framework and Mono. It can both dynamically run Java classes and can be used to convert Java jars into .NET assemblies. It also includes a port of the OpenJDK class libraries to .NET.,"Categories
+Frameworks, Compilers, Emulators"
+"Win32++ is a C++ library used to build windows applications. It is a simple, open source alternative to MFC. Win32++ supports the C++ compilers from GNU and Microsoft. It is an ideal starting point for anyone learning to program for windows, but also caters for the needs of professional developers.Win32++ is a C++ library used to build windows applications. It is a simple, open source alternative to MFC. Win32++ supports the C++ compilers from GNU and Microsoft. It is an ideal starting point for anyone learning to program for windows, but also caters for the needs of professional developers.","Categories
+Frameworks, Libraries"
+"JFreeChart is a free (LGPL) chart library for the Java(tm) platform. It supports bar charts, pie charts, line charts, time series charts, scatter plots, histograms, simple Gantt charts, Pareto charts, bubble plots, dials, thermometers and more.
+
+*** JFreeChart has moved to GitHub: https://github.com/jfree/jfreechart ***JFreeChart is a free (LGPL) chart library for the Java(tm) platform. It supports bar charts, pie charts, line charts, time series charts, scatter plots, histograms, simple Gantt charts, Pareto charts, bubble plots, dials, thermometers and more.
+
+*** JFreeChart has moved to GitHub: https://github.com/jfree/jfreechart ***","Categories
+User Interface (UI), Presentation, Data Visualization, Charting Libraries"
+"Code::Blocks is a free, open-source, cross-platform C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+
+Finally, an IDE with all the features you need, having a consistent look, feel and operation across platforms.
+
+Built around a plugin framework, Code::Blocks can be extended with plugins. Any kind of functionality can be added by installing/coding a plugin. For instance, compiling and debugging functionality is already provided by plugins!
+
+We hope you enjoy using Code::Blocks!
+
+The Code::Blocks TeamCode::Blocks is a free, open-source, cross-platform C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+
+Finally, an IDE with all the features you need, having a consistent look, feel and operation across platforms.
+
+Built around a plugin framework, Code::Blocks can be extended with plugins. Any kind of functionality can be added by installing/coding a plugin. For instance, compiling and debugging functionality is already provided by plugins!
+
+We hope you enjoy using Code::Blocks!
+
+The Code::Blocks Team","Categories
+Integrated Development Environments (IDE), Build Tools, User Interface (UI)"
+"PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode. Based on libqrencode C library, provides API for creating QR Code barcode images (PNG, JPEG thanks to GD2). Implemented purely in PHP.PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode. Based on libqrencode C library, provides API for creating QR Code barcode images (PNG, JPEG thanks to GD2). Implemented purely in PHP.","Categories
+HTML/XHTML, Usability"
+"Ajax+Mobile Java Web framework. With 200+ Ajax components and event-driven, Ajax/RIA apps are as effortless and rich as desktop apps and HTML/XUL pages. Support JSP/JSF/JavaEE/Spring, Ajax Push and Client-fusion; also Java/Groovy/Python/JavaScript.Ajax+Mobile Java Web framework. With 200+ Ajax components and event-driven, Ajax/RIA apps are as effortless and rich as desktop apps and HTML/XUL pages. Support JSP/JSF/JavaEE/Spring, Ajax Push and Client-fusion; also Java/Groovy/Python/JavaScript.","Categories
+Browsers, User Interface (UI), AJAX, Web Development Frameworks"
+"Snap7, through three specialized components: Client and the inedited Server and Partner, allows you to definitively integrate your PC based systems into a PLC automation chain.
+
+Designed to transfer large amounts of hi-speed data in industrial facilities, it scales easily, down to small Linux Arm boards such as Raspberry PI.
+
+Hi level object oriented wrappers are provided, currently C/C++, .NET/Mono, Pascal, LabVIEW, Python with many source code examples.
+
+Very easy to use, a full working server example is not bigger than the “Hello world”.
+
+Many projects/makefiles are ready to run to easily rebuild Snap7 in any platform without the need of be a C++ guru.
+
+Very detailed documentation provided.Snap7, through three specialized components: Client and the inedited Server and Partner, allows you to definitively integrate your PC based systems into a PLC automation chain.
+
+Designed to transfer large amounts of hi-speed data in industrial facilities, it scales easily, down to small Linux Arm boards such as Raspberry PI.
+
+Hi level object oriented wrappers are provided, currently C/C++, .NET/Mono, Pascal, LabVIEW, Python with many source code examples.
+
+Very easy to use, a full working server example is not bigger than the “Hello world”.
+
+Many projects/makefiles are ready to run to easily rebuild Snap7 in any platform without the need of be a C++ guru.
+
+Very detailed documentation provided.","Categories
+Communications, Software Development, HMI"
+"DirectX-powered game creator. Easy to use event-based logic with no programming. Drag and drop interface. Includes shaders, physics, layers, debugger and built in behaviors.DirectX-powered game creator. Easy to use event-based logic with no programming. Drag and drop interface. Includes shaders, physics, layers, debugger and built in behaviors.","Categories
+Software Development"
+"MadEdit is a Cross-Platform Text/Hex Editor written in C++&wxWidgets. MadEdit can edit files in Text/Column/Hex modes, and supports many useful functions e.g. SyntaxHighlightings, WordWrap, Encodings(UTF8/16/32,Big5,GBK...) and WordCount.MadEdit is a Cross-Platform Text/Hex Editor written in C++&wxWidgets. MadEdit can edit files in Text/Column/Hex modes, and supports many useful functions e.g. SyntaxHighlightings, WordWrap, Encodings(UTF8/16/32,Big5,GBK...) and WordCount.","Categories
+Text Editors, Software Development"
+"Process Hacker is a free and open source process viewer. This multi-purpose tool will assist you with debugging, malware detection and system monitoring.Process Hacker is a free and open source process viewer. This multi-purpose tool will assist you with debugging, malware detection and system monitoring.","Categories
+Security, Software Development, Systems Administration"
+"Static analysis of C/C++ code. Checks for: memory leaks, mismatching allocation-deallocation, buffer overrun, and many more. The goal is 0% false positives. See http://cppcheck.sourceforge.net for more information.Static analysis of C/C++ code. Checks for: memory leaks, mismatching allocation-deallocation, buffer overrun, and many more. The goal is 0% false positives. See http://cppcheck.sourceforge.net for more information.","Categories
+QA Automation, Source Code Analysis"
+"WinMerge is a Windows tool for visual difference display and merging, for both files and directories. It is highly useful for determining what has changed between file versions, and then merging those changes. WinMerge has Unicode support, Flexible syntax coloring editor, Visual SourceSafe integration, and Windows Shell integration. Regexp filtering for filenames and lines. Side-by-side line difference and highlights differences inside lines. A file map shows the overall file differences in a location pane. The user interface is translated into several languages.WinMerge is a Windows tool for visual difference display and merging, for both files and directories. It is highly useful for determining what has changed between file versions, and then merging those changes. WinMerge has Unicode support, Flexible syntax coloring editor, Visual SourceSafe integration, and Windows Shell integration. Regexp filtering for filenames and lines. Side-by-side line difference and highlights differences inside lines. A file map shows the overall file differences in a location pane. The user interface is translated into several languages.","Categories
+Version Control, File Managers"
+WhiteStarUML is a fork of StarUML 5.0 providing a number of bug fixes and improving compatibility with modern operating systems.WhiteStarUML is a fork of StarUML 5.0 providing a number of bug fixes and improving compatibility with modern operating systems.,"Categories
+UML, Computer-Aided Software Engineering (CASE)"
+"Importer library to import assets from different common 3D file formats such as Collada, Blend, Obj, X, 3DS, LWO, MD5, MD2, MD3, MDL, MS3D and a lot of other formats. The data is stored in an own in-memory data-format, which can be easily processed.
+
+www.open3mod.com/ is a 3D model viewer and exporter based on Assimp that is also Open Source.Importer library to import assets from different common 3D file formats such as Collada, Blend, Obj, X, 3DS, LWO, MD5, MD2, MD3, MDL, MS3D and a lot of other formats. The data is stored in an own in-memory data-format, which can be easily processed.
+
+www.open3mod.com/ is a 3D model viewer and exporter based on Assimp that is also Open Source.","Categories
+3D Modeling, Image Viewers, Libraries"
+"SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. SWIG is used with different types of target languages including common scripting languages such as Javascript, Perl, PHP, Python, Tcl and Ruby. The list of supported languages also includes non-scripting languages such as C#, D, Go language, Java, Lua, OCaml, Octave, R and Scilab. Also several interpreted and compiled Scheme implementations (Guile, MzScheme/Racket) are supported. SWIG is most commonly used to create high-level interpreted or compiled programming environments, user interfaces, and as a tool for testing and prototyping C/C++ software. SWIG is typically used to parse C/C++ interfaces and generate the 'glue code' required for the above target languages to call into the C/C++ code. SWIG can also export its parse tree in the form of XML.SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. SWIG is used with different types of target languages including common scripting languages such as Javascript, Perl, PHP, Python, Tcl and Ruby. The list of supported languages also includes non-scripting languages such as C#, D, Go language, Java, Lua, OCaml, Octave, R and Scilab. Also several interpreted and compiled Scheme implementations (Guile, MzScheme/Racket) are supported. SWIG is most commonly used to create high-level interpreted or compiled programming environments, user interfaces, and as a tool for testing and prototyping C/C++ software. SWIG is typically used to parse C/C++ interfaces and generate the 'glue code' required for the above target languages to call into the C/C++ code. SWIG can also export its parse tree in the form of XML.","Categories
+Code Generators, Compilers"
+"EclEmma is a free Java code coverage tool for Eclipse, available under the Eclipse Public License. It brings code coverage analysis directly into the Eclipse workbench.
+
+The EclEmma project is also the home of the JaCoCo code coverage library which is the technical back-end for EclEmma and also has integrations with many other build and software quality tools.EclEmma is a free Java code coverage tool for Eclipse, available under the Eclipse Public License. It brings code coverage analysis directly into the Eclipse workbench.
+
+The EclEmma project is also the home of the JaCoCo code coverage library which is the technical back-end for EclEmma and also has integrations with many other build and software quality tools.","Categories
+Software Testing, QA Automation"
+"CppCMS is the web development framework written in C++, that is aimed on development of high performance web application. It uses different web APIs, most noticably FastCGI, as a web layer and various databases as a storage backed.CppCMS is the web development framework written in C++, that is aimed on development of high performance web application. It uses different web APIs, most noticably FastCGI, as a web layer and various databases as a storage backed.","Categories
+CGI Scripts, Frameworks, Web Development Frameworks"
+"Gammu is a cellular manager for mobile phones/modems. It contains libraries and functions for ringtones,logos,phonebook,SMS,etc. (used by external software), a command line version (with backup/restore) and SMS gateway (with MySQL and PostgreSQL suppGammu is a cellular manager for mobile phones/modems. It contains libraries and functions for ringtones,logos,phonebook,SMS,etc. (used by external software), a command line version (with backup/restore) and SMS gateway (with MySQL and PostgreSQL supp","Categories
+Telephony, Scheduling, Software Development, Hardware"
+CruiseControl.NET is an automated continuous integration server for the .NET platform. It is a C# port of CruiseControl for Java.CruiseControl.NET is an automated continuous integration server for the .NET platform. It is a C# port of CruiseControl for Java.,"Categories
+Build Tools, CI/CD"
+"Windows Template Library (WTL) is a C++ library for developing Windows applications and UI components. It extends ATL (Active Template Library) and provides a set of classes for controls, dialogs, frame windows, GDI objects, and more.Windows Template Library (WTL) is a C++ library for developing Windows applications and UI components. It extends ATL (Active Template Library) and provides a set of classes for controls, dialogs, frame windows, GDI objects, and more.","Categories
+Software Development"
+"SDCC is a retargettable, optimizing standard C (ANSI C89 / ISO C90, ISO C99, ISO C11 / C17) compiler that targets a growing list of architectures STM8, MCS-51, DS390, HC08, S08, Z80, Z180, Rabbit, SM83, eZ80 in Z80 mode, Z80N, TLCS-90, Padauk PDK13 and PDk14 microprocessors. There also is incomplete support for the Microchip PIC16 and PIC18 and the Padauk PDK13 and MOS 6502.SDCC is a retargettable, optimizing standard C (ANSI C89 / ISO C90, ISO C99, ISO C11 / C17) compiler that targets a growing list of architectures STM8, MCS-51, DS390, HC08, S08, Z80, Z180, Rabbit, SM83, eZ80 in Z80 mode, Z80N, TLCS-90, Padauk PDK13 and PDk14 microprocessors. There also is incomplete support for the Microchip PIC16 and PIC18 and the Padauk PDK13 and MOS 6502.","Categories
+Compilers, Cross Compilers"
+"This repository is no longer maintained and is kept for archival purposes. See https://invent.kde.org/sdk/kdiff3 for the newest code and https://download.kde.org/stable/kdiff3/ for release bundles. All bugs should be filed at bugs.kde.org.
+
+KDiff3 is a graphical text difference analyzer for up to 3 input files, provides character-by-character analysis and a text merge tool with integrated editor. It can also compare and merge directories. Platform-independant.This repository is no longer maintained and is kept for archival purposes. See https://invent.kde.org/sdk/kdiff3 for the newest code and https://download.kde.org/stable/kdiff3/ for release bundles. All bugs should be filed at bugs.kde.org.
+
+KDiff3 is a graphical text difference analyzer for up to 3 input files, provides character-by-character analysis and a text merge tool with integrated editor. It can also compare and merge directories. Platform-independant.","Categories
+Text Processing, Version Control"
+"An open-source x64/x32 debugger for windows.
+
+Development is done on GitHub (https://github.com/x64dbg/x64dbg). Daily snapshots are uploaded here, snapshots for every commit can be found on http://releases.x64dbg.comAn open-source x64/x32 debugger for windows.
+
+Development is done on GitHub (https://github.com/x64dbg/x64dbg). Daily snapshots are uploaded here, snapshots for every commit can be found on http://releases.x64dbg.com","Categories
+Security, Debuggers"
+A Graphical Developement Environment based on a Basic Interpreter with object extensions.A Graphical Developement Environment based on a Basic Interpreter with object extensions.,"Categories
+Object Oriented, Interpreters, User Interface (UI)"
+User contributed components that extends the functionality of NHibernate. More information in the wiki: http://www.nhforge.org/wikis/. Development List: http://groups.google.com/group/nhcdevsUser contributed components that extends the functionality of NHibernate. More information in the wiki: http://www.nhforge.org/wikis/. Development List: http://groups.google.com/group/nhcdevs,"Categories
+Database, Code Generators, Search"
+"Uniform Server is a free lightweight WAMP server solution for Windows.
+Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer.
+
+No installation required! No registry dust! Just unpack and fire up!
+
+-------
+Note: The latest version of Uniform Server requires a **64-bit version** of Windows.
+-------Uniform Server is a free lightweight WAMP server solution for Windows.
+Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer.
+
+No installation required! No registry dust! Just unpack and fire up!
+
+-------
+Note: The latest version of Uniform Server requires a **64-bit version** of Windows.
+-------","Categories
+Database Engines/Servers, HTTP Servers, Web Development"
+NOTE: We're moving! See adempiere.net for more info. ADempiere Business Suite is a fully functional ERP/CRM/MFG/SCM/POS system suitable for large enterprise adoption. The software is fully open source and supported by an international community of developers and system experts.NOTE: We're moving! See adempiere.net for more info. ADempiere Business Suite is a fully functional ERP/CRM/MFG/SCM/POS system suitable for large enterprise adoption. The software is fully open source and supported by an international community of developers and system experts.,"Categories
+ERP, Accounting, Object Oriented"
+"Great Cow BASIC is an open-source BASIC compiler for 8 bit Microchip PIC and Atmel AVR microcontrollers. Also included in the project is Great Cow Graphical BASIC, an icon based editor for GCBASIC programs.
+
+The latest release is December 2022. This is the most complete toolchain to create and program 8-bit PIC, AVR and LGT microcontrollers.
+
+We have added new capabilities that make Great Cow BASIC the easiest tool set available - supporting over 1300's microcontrollers with tools to make this fun and simple.
+
+Please see the download section for your options. We have a Graphical IDE and textual IDE, we have just the compiler and we have a minimal install - it is your choice.
+
+Please see the homepage here: http://gcbasic.sourceforge.net and also see http://gcbasic.sourceforge.net/download.html for other Great Cow Basic download options.Great Cow BASIC is an open-source BASIC compiler for 8 bit Microchip PIC and Atmel AVR microcontrollers. Also included in the project is Great Cow Graphical BASIC, an icon based editor for GCBASIC programs.
+
+The latest release is December 2022. This is the most complete toolchain to create and program 8-bit PIC, AVR and LGT microcontrollers.
+
+We have added new capabilities that make Great Cow BASIC the easiest tool set available - supporting over 1300's microcontrollers with tools to make this fun and simple.
+
+Please see the download section for your options. We have a Graphical IDE and textual IDE, we have just the compiler and we have a minimal install - it is your choice.
+
+Please see the homepage here: http://gcbasic.sourceforge.net and also see http://gcbasic.sourceforge.net/download.html for other Great Cow Basic download options.","Categories
+Code Generators, Compilers, Robotics"
+"A java GUI-Less browser, which allows high-level manipulation of web pages, such as filling forms and clicking links; just getPage(url), find a hyperlink, click() and you have all the HTML, JavaScript, and Ajax are automatically processed.A java GUI-Less browser, which allows high-level manipulation of web pages, such as filling forms and clicking links; just getPage(url), find a hyperlink, click() and you have all the HTML, JavaScript, and Ajax are automatically processed.","Categories
+Software Testing"
+A static analysis tool to find bugs in Java programs.A static analysis tool to find bugs in Java programs.,"Categories
+Software Development"
+"tkdiff is a graphical front end to the diff program. It provides a side-by-side view of the differences between two text files, along with several innovative features such as diff bookmarks, a graphical map of differences for quick navigation, and a facility for slicing diff regions to achieve exactly the merge output desired.tkdiff is a graphical front end to the diff program. It provides a side-by-side view of the differences between two text files, along with several innovative features such as diff bookmarks, a graphical map of differences for quick navigation, and a facility for slicing diff regions to achieve exactly the merge output desired.","Categories
+Source Code Analysis, Code Review, Diff Tools"
+The JTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. JTS conforms to the Simple Features Specification for SQL published by the Open GIS Consortium.The JTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. JTS conforms to the Simple Features Specification for SQL published by the Open GIS Consortium.,"Categories
+Algorithms, Mathematics, GIS"
+wxDev-C++ is an opensource wxWidgets Dialog designer that mimics the Delphi/Borland C++ Builder designer.wxDev-C++ is an opensource wxWidgets Dialog designer that mimics the Delphi/Borland C++ Builder designer.,"Categories
+Integrated Development Environments (IDE), Dynamic Content, Software Development"
+"Concrete CMS (formerly concrete5) is an Open Source Content Management System for teams. You can have the best of both worlds and run a secure website your content contributors will love using with Concrete CMS.
+
+The user experience is built around in-context editing, it’s as easy to use as a word processor.
+You'll spend less time training people, and less time having to fix things yourself. As an open source framework you can build complex applications as features like permissions, workflow, file management, calendar, forms, SEO and so much more are built right in. A marketplace of add-ons & themes and active community can help you finish building an amazing product using Concrete CMS.Concrete CMS (formerly concrete5) is an Open Source Content Management System for teams. You can have the best of both worlds and run a secure website your content contributors will love using with Concrete CMS.
+
+The user experience is built around in-context editing, it’s as easy to use as a word processor.
+You'll spend less time training people, and less time having to fix things yourself. As an open source framework you can build complex applications as features like permissions, workflow, file management, calendar, forms, SEO and so much more are built right in. A marketplace of add-ons & themes and active community can help you finish building an amazing product using Concrete CMS.","Categories
+Frameworks, Content Management Systems (CMS), Blogging"
+Maintaining a GnuWin32.sourceforge.net package archive: Automatic download and installation of the newest binary and documentation GnuWin32 packages.Maintaining a GnuWin32.sourceforge.net package archive: Automatic download and installation of the newest binary and documentation GnuWin32 packages.,"Categories
+Office/Business, Desktop Environment, Build Tools"
+"Castle aspires to simplify the development of enterprise and web applications. Offering a set of tools (working together or indepedently) and integration with other open source projects, Castle helps you get more done with less code.Castle aspires to simplify the development of enterprise and web applications. Offering a set of tools (working together or indepedently) and integration with other open source projects, Castle helps you get more done with less code.","Categories
+Frameworks, Object Oriented"
+"Notepad++ plugins is a collection of tools which plays a role of completion for Notepad++. This project contains Explorer, Function List, Hex Editor, Spell Checker and a console program NppExec. Other plugin developers are invited to share their projectsNotepad++ plugins is a collection of tools which plays a role of completion for Notepad++. This project contains Explorer, Function List, Hex Editor, Spell Checker and a console program NppExec. Other plugin developers are invited to share their projects","Categories
+Text Editors, Software Development"
+"Free video screencam tutorials for Eclipse and Java. Includes ""Eclipse and Java for Total Beginners"", ""Using the Eclipse Workbench"", ""Introducing Persistence"", and ""Using the Debugger"". Intended for beginning and intermediate users and programmer. You can view the Total Beginners tutorials on Youtube at https://www.youtube.com/playlist?list=PLv6UtFrA7VEu4PtzJaGHHSeZBi6mdJtwv.
+
+You can read descriptions and download all of the tutorials at http://eclipsetutorial.sourceforge.net.Free video screencam tutorials for Eclipse and Java. Includes ""Eclipse and Java for Total Beginners"", ""Using the Eclipse Workbench"", ""Introducing Persistence"", and ""Using the Debugger"". Intended for beginning and intermediate users and programmer. You can view the Total Beginners tutorials on Youtube at https://www.youtube.com/playlist?list=PLv6UtFrA7VEu4PtzJaGHHSeZBi6mdJtwv.
+
+You can read descriptions and download all of the tutorials at http://eclipsetutorial.sourceforge.net.","Categories
+Frameworks, Documentation, Object Oriented"
+.NET port of the excellent Java Hibernate which provides Object/Relational mapping to persist objects in a relational database..NET port of the excellent Java Hibernate which provides Object/Relational mapping to persist objects in a relational database.,"Categories
+Database, Frameworks"

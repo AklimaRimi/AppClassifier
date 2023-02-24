@@ -1,0 +1,537 @@
+Description,Category
+"Feb. 7, 2019
+
+Transmission is a respected Fast, Easy, and Free BitTorrent Client, as from their site https://transmissionbt.com/about
+
+Unofficial Windows build runs perfect either Windows service or daemon.
+
+32 bit and 64 bit versions.
+32 (runs everywhere), 64 only 64-bit Windows.
+
+Decision made to maintain choice 2.7x core rather than somewhat buggy 2.8x-2.9x cores. That's why you will see infrequent and less bug fixes than official branches. All the features of 2.8x-2.9x (except rename). Run this solid 2.77+ port for extended days, it doesn't crash or lock. Prime for seedbox use.
+
+The included remote GUI port is fine tuned to the daemon released here.
+
+Temporary piece support. https://trac.transmissionbt.com/ticket/532 plus many featured enhancements! Tested, stable enhancements users requested.
+
+Specifically modified and bug tested for Linux GCC and Windows (cygwin gcc/g++) compilers.
+
+Current release 14734-18 020619
+https://github.com/cfpp2p/transmission/releasesFeb. 7, 2019
+
+Transmission is a respected Fast, Easy, and Free BitTorrent Client, as from their site https://transmissionbt.com/about
+
+Unofficial Windows build runs perfect either Windows service or daemon.
+
+32 bit and 64 bit versions.
+32 (runs everywhere), 64 only 64-bit Windows.
+
+Decision made to maintain choice 2.7x core rather than somewhat buggy 2.8x-2.9x cores. That's why you will see infrequent and less bug fixes than official branches. All the features of 2.8x-2.9x (except rename). Run this solid 2.77+ port for extended days, it doesn't crash or lock. Prime for seedbox use.
+
+The included remote GUI port is fine tuned to the daemon released here.
+
+Temporary piece support. https://trac.transmissionbt.com/ticket/532 plus many featured enhancements! Tested, stable enhancements users requested.
+
+Specifically modified and bug tested for Linux GCC and Windows (cygwin gcc/g++) compilers.
+
+Current release 14734-18 020619
+https://github.com/cfpp2p/transmission/releases","Categories
+BitTorrent"
+CyanogenMod 7 for Samsung Galaxy S Series Phones Sources: http://github.com/CyanogenModCyanogenMod 7 for Samsung Galaxy S Series Phones Sources: http://github.com/CyanogenMod,"Categories
+Telephony, Mobile"
+"This is my version of a Nokia PC Suite(r) but for Ubuntu. Nokuntu could be no longer exist!! (I have no time to develop it!!) please donate so I can hire a programmer!!
+Upubuntu makes a better job with a PPA, to add Nokuntu just:
+sudo add-apt-repository ppa:upubuntu-com/mobile
+sudo apt-get update
+sudo apt-get install obextool nokuntuspThis is my version of a Nokia PC Suite(r) but for Ubuntu. Nokuntu could be no longer exist!! (I have no time to develop it!!) please donate so I can hire a programmer!!
+Upubuntu makes a better job with a PPA, to add Nokuntu just:
+sudo add-apt-repository ppa:upubuntu-com/mobile
+sudo apt-get update
+sudo apt-get install obextool nokuntusp","Categories
+Communications"
+Google Wave Notifier for your Windows desktop and Wine on Linux.Google Wave Notifier for your Windows desktop and Wine on Linux.,"Categories
+Chat, Email"
+"A cross-platform Duke3D (Duke Nukem 3D) port which provides many new features for mod authors, including an enhanced scripting system and OpenGL renderer. Go to http://www.eduke32.com for downloads and http://bit.ly/dn_3d to get the game!A cross-platform Duke3D (Duke Nukem 3D) port which provides many new features for mod authors, including an enhanced scripting system and OpenGL renderer. Go to http://www.eduke32.com for downloads and http://bit.ly/dn_3d to get the game!","Categories
+File Sharing, First Person Shooters, Game Development Frameworks"
+"Server bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manualsServer bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manuals","Categories
+Email, Database, File Transfer Protocol (FTP), Site Management, HTTP Servers, Interpreters, Email Servers"
+"Blocks ""known bad"" IP-addresses from accessing your machine, especially corporate/governmental agencies. This is a fork of PeerGuardian 2, fixing various Vista/Win7 problems.Blocks ""known bad"" IP-addresses from accessing your machine, especially corporate/governmental agencies. This is a fork of PeerGuardian 2, fixing various Vista/Win7 problems.","Categories
+File Sharing, Firewall"
+"small-footprint UNIX/Linux daemon to relay multicast UDP traffic to client's TCP (HTTP) connection.
+
+This app targets home users and is designed for small-scale usage. For enterprise purposes please consider Gigapxy (gigapxy.com),small-footprint UNIX/Linux daemon to relay multicast UDP traffic to client's TCP (HTTP) connection.
+
+This app targets home users and is designed for small-scale usage. For enterprise purposes please consider Gigapxy (gigapxy.com),","Categories
+Streaming"
+"Enterprise telephony recording and retrieval system with web based user interface. The project currently supports recording voice from VoIP SIP, Cisco Skinny (aka SCCP), raw RTP and audio sound device and runs on multiple operating systems and database systems.
+It can record audio from most PBX and telephony systems such as BroadWorks, Metaswitch, Asterisk, FreeSwitch, OpenSIPS, Avaya, Nortel, Mitel, Siemens, Cisco Call Manager, Cosmocom, NEC, etc...
+It is amongst others being used in Call Centers and Contact Centers for Quality monitoring (QM) purposes.Enterprise telephony recording and retrieval system with web based user interface. The project currently supports recording voice from VoIP SIP, Cisco Skinny (aka SCCP), raw RTP and audio sound device and runs on multiple operating systems and database systems.
+It can record audio from most PBX and telephony systems such as BroadWorks, Metaswitch, Asterisk, FreeSwitch, OpenSIPS, Avaya, Nortel, Mitel, Siemens, Cisco Call Manager, Cosmocom, NEC, etc...
+It is amongst others being used in Call Centers and Contact Centers for Quality monitoring (QM) purposes.","Categories
+Telephony, CRM, Audio Recording, PBX"
+"HeXHub is an IOCP-based file-sharing hub and web server with anti-flood protection, built-in firewall designed to filter DDoS, and to prevent most common forms of DoS currently used against hubs, anti-spam protection, content filtering and more.HeXHub is an IOCP-based file-sharing hub and web server with anti-flood protection, built-in firewall designed to filter DDoS, and to prevent most common forms of DoS currently used against hubs, anti-spam protection, content filtering and more.","Categories
+File Sharing"
+"BrewBlogger is a easy to set up, easy to use, web-based beer homebrewing log. It is a PHP/MySQL-based system that provides today's brewer not only an easy way to record their beer brewing activities, but also blog-like forum to share their efforts.BrewBlogger is a easy to set up, easy to use, web-based beer homebrewing log. It is a PHP/MySQL-based system that provides today's brewer not only an easy way to record their beer brewing activities, but also blog-like forum to share their efforts.","Categories
+Communications, Games/Entertainment, Dynamic Content"
+Emu10k1 sound driverEmu10k1 sound driver,"Categories
+File Sharing, Hardware Drivers"
+"AppKonference , a high-performance Asterisk conferencing module, is a fork of AppConference focused on voice.AppKonference , a high-performance Asterisk conferencing module, is a fork of AppConference focused on voice.","Categories
+Conferencing, Telephony"
+"Development of CRG is now in
+
+https://www.facebook.com/groups/126006504596245 (This is for DEVELOPERS). For Users, use the normal Derby Scoreboard group
+
+https://www.facebook.com/groups/derbyscoreboard/Development of CRG is now in
+
+https://www.facebook.com/groups/126006504596245 (This is for DEVELOPERS). For Users, use the normal Derby Scoreboard group
+
+https://www.facebook.com/groups/derbyscoreboard/","Categories
+Chat, Other/Nonlisted Topic, Sports Games"
+"Acarsdec is an open source, multi-channels realtime ACARS decoder for Linux.
+
+It features :
+- up to four channels decoded simultaneously
+- error detection AND correction
+- input from sound file , alsa sound card or software defined radio (SRD) via a rtl dongle (http://sdr.osmocom.org/trac/wiki/rtl-sdr) or airspy (http://www.airspy.com)
+- could send decoded acars to a server via UDP in planeploter format or its own dedicated format.
+
+The 4 channels decoding is particularly useful with the rtl dongle. It allows to directly listen simultaneously to 4 different frequencies , with a very low cost hardware.
+
+Since version 3.0, acarsdec comes with acarsserv : a database backend program to store received acars messages.Acarsdec is an open source, multi-channels realtime ACARS decoder for Linux.
+
+It features :
+- up to four channels decoded simultaneously
+- error detection AND correction
+- input from sound file , alsa sound card or software defined radio (SRD) via a rtl dongle (http://sdr.osmocom.org/trac/wiki/rtl-sdr) or airspy (http://www.airspy.com)
+- could send decoded acars to a server via UDP in planeploter format or its own dedicated format.
+
+The 4 channels decoding is particularly useful with the rtl dongle. It allows to directly listen simultaneously to 4 different frequencies , with a very low cost hardware.
+
+Since version 3.0, acarsdec comes with acarsserv : a database backend program to store received acars messages.","Categories
+Ham Radio"
+"ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.","Categories
+File Sharing, Security, Intelligent Agents"
+"Plugin for ChatZilla which monitors torrent IRC announce channels, downloads torrent files based on a user-defined filter, and then sends the torrent files to a local or remote torrent client. Supports several different private trackers.Plugin for ChatZilla which monitors torrent IRC announce channels, downloads torrent files based on a user-defined filter, and then sends the torrent files to a local or remote torrent client. Supports several different private trackers.","Categories
+IRC Clients, BitTorrent"
+What is t38modem? From your application view point it's a fax/voice modem pool. From IP network view point it's a H.323/SIP endpoint with T.38 fax support. From your view point it's a gateway between an application and IP network. Works with HylaFAX.What is t38modem? From your application view point it's a fax/voice modem pool. From IP network view point it's a H.323/SIP endpoint with T.38 fax support. From your view point it's a gateway between an application and IP network. Works with HylaFAX.,"Categories
+Fax, VoIP"
+"Unofficial fork of the GyachE (www.phrozensmoke.com), intended for bug-fixes and further development.Unofficial fork of the GyachE (www.phrozensmoke.com), intended for bug-fixes and further development.","Categories
+Chat, Conferencing, Speech"
+"Vuze (formerly Azureus) is an extremely powerful and configurable BitTorrent client. Search and download torrent files. Play, convert and transcode videos and music for playing on many devices such as PSP, TiVo, XBox, PS3, iTunes (iPhone, iPod, Apple TV).Vuze (formerly Azureus) is an extremely powerful and configurable BitTorrent client. Search and download torrent files. Play, convert and transcode videos and music for playing on many devices such as PSP, TiVo, XBox, PS3, iTunes (iPhone, iPod, Apple TV).","Categories
+BitTorrent, Internet"
+"MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically.MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically.","Categories
+Data Formats, Email"
+eMule Morph Mod - eMule Modding ProjecteMule Morph Mod - eMule Modding Project,"Categories
+File Sharing"
+MLDonkey is a multi-platform multi-network peer-to-peer client.MLDonkey is a multi-platform multi-network peer-to-peer client.,"Categories
+File Sharing, File Transfer Protocol (FTP)"
+"VideoWhisper Video Conference is a modern web based multiple way video chat and real time file sharing tool. It can be used stand alone or integrated as extra feature to existing sites.
+
+Homepage: https://videowhisper.com/?p=PHP+Video+Conference
+Demo: https://www.videowhisper.com/demos/conference/
+
+Video Conference key features
++ many to many 2 way video chat
++ 3 default video panels
++ unlimited extra video panels
++ user list with online participants
++ room list with avatars
++ file sharing
++ private messaging
++ profile picture , info and link
++ push to talk
++ P2P group streaming support
++ codec setup (H264, Speex, NellyMoser)
++ acoustic echo cancellation
++ session timer and control with scripts
++ 100% web based for clients
+
+PHP Video Conference Edition:
++ Webcam Video Conferencing Rooms
++ Create Private Rooms
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
++ Profile Picture and Avatar from Webcam SnapshotVideoWhisper Video Conference is a modern web based multiple way video chat and real time file sharing tool. It can be used stand alone or integrated as extra feature to existing sites.
+
+Homepage: https://videowhisper.com/?p=PHP+Video+Conference
+Demo: https://www.videowhisper.com/demos/conference/
+
+Video Conference key features
++ many to many 2 way video chat
++ 3 default video panels
++ unlimited extra video panels
++ user list with online participants
++ room list with avatars
++ file sharing
++ private messaging
++ profile picture , info and link
++ push to talk
++ P2P group streaming support
++ codec setup (H264, Speex, NellyMoser)
++ acoustic echo cancellation
++ session timer and control with scripts
++ 100% web based for clients
+
+PHP Video Conference Edition:
++ Webcam Video Conferencing Rooms
++ Create Private Rooms
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
++ Profile Picture and Avatar from Webcam Snapshot","Categories
+Communications, Web Conferencing, Video Conferencing"
+"This email notifier sits in your system tray and pops up a notification when new messages arrive. Preview your email before downloading it to your mail client or launching webmail applications. Create rules to delete or change the priority of messages.
+
+This program builds upon the open source PopTray mail notifier adding many new features including Windows Vista/7/8/10 support, UTF-8 and unicode support, HTML Preview, IMAP support, TLS & SASL support, etc.This email notifier sits in your system tray and pops up a notification when new messages arrive. Preview your email before downloading it to your mail client or launching webmail applications. Create rules to delete or change the priority of messages.
+
+This program builds upon the open source PopTray mail notifier adding many new features including Windows Vista/7/8/10 support, UTF-8 and unicode support, HTML Preview, IMAP support, TLS & SASL support, etc.","Categories
+Email Clients"
+"Send SMTP email silently from command line (CLI), or a batch file using Exchange, Gmail, Hotmail, or Yahoo! Plus.
+
+Supports XML settings files, variables, or all settings explicitly from the command line.
+
+Now supporting Exit Codes for batch file use (will return ""0"" for successful delivery, or ""1"" for error delivering) - handle your batch file accordingly.Send SMTP email silently from command line (CLI), or a batch file using Exchange, Gmail, Hotmail, or Yahoo! Plus.
+
+Supports XML settings files, variables, or all settings explicitly from the command line.
+
+Now supporting Exit Codes for batch file use (will return ""0"" for successful delivery, or ""1"" for error delivering) - handle your batch file accordingly.","Categories
+POP3, Communications, Email"
+"FAXCOVER SUPPORT AVAILABLE! START INSTALLER TO LEARN MORE.
+Enhanced version of Winprint HylaFAX. Fully supports Vista / 7 / 8 /10 and 64 bit systems. Can send multiple documents as a single fax. Supports multiple recipients and delayed send. Can read fax numbers from Extended MAPI (Outlook) and ODBC sources. Multilanguage. Terminal Services compliant. NOTE: this is NOT a standalone faxing program. It requires HylaFAX to do its work.FAXCOVER SUPPORT AVAILABLE! START INSTALLER TO LEARN MORE.
+Enhanced version of Winprint HylaFAX. Fully supports Vista / 7 / 8 /10 and 64 bit systems. Can send multiple documents as a single fax. Supports multiple recipients and delayed send. Can read fax numbers from Extended MAPI (Outlook) and ODBC sources. Multilanguage. Terminal Services compliant. NOTE: this is NOT a standalone faxing program. It requires HylaFAX to do its work.","Categories
+Fax"
+Complete mail business rules processor and MTA. Also provides antivirus (ClamAV) and anti spam (Spamassassin) solutions. Based in Java and OSGI with Spring DM and MySQL data base for statistics. Can be easily extended.Complete mail business rules processor and MTA. Also provides antivirus (ClamAV) and anti spam (Spamassassin) solutions. Based in Java and OSGI with Spring DM and MySQL data base for statistics. Can be easily extended.,"Categories
+Email, Enterprise"
+"Audio toolkit for streaming, aiming at complex Internet radio systems. Our stream generator is highly extensible and flexible. Script based, it can be a fully automatic daemon streamer, but is also used for live shows with an user-friendly GUI.Audio toolkit for streaming, aiming at complex Internet radio systems. Our stream generator is highly extensible and flexible. Script based, it can be a fully automatic daemon streamer, but is also used for live shows with an user-friendly GUI.","Categories
+Streaming, Video, Sound/Audio"
+A Note is faulty. Do not use it any more! It will do more bad than good. Your notes may just disappear.A Note is faulty. Do not use it any more! It will do more bad than good. Your notes may just disappear.,"Categories
+Office/Business, Desktop Environment, File Sync"
+"The FNET is a free, open source, dual TCP/IPv4 and IPv6 Stack (under Apache Version 2.0 license) for building embedded communication software on 32bit MCUs.The FNET is a free, open source, dual TCP/IPv4 and IPv6 Stack (under Apache Version 2.0 license) for building embedded communication software on 32bit MCUs.","Categories
+Communications, Internet"
+"Apple Disk Transfer ProDOS (ADTPro) transfers classic 8-bit Apple disk images over a serial, ethernet or audio link to a more modern computer. Based on the seminal ADT, ADTPro can transfer any ProDOS- or SOS-visible volume.Apple Disk Transfer ProDOS (ADTPro) transfers classic 8-bit Apple disk images over a serial, ethernet or audio link to a more modern computer. Based on the seminal ADT, ADTPro can transfer any ProDOS- or SOS-visible volume.","Categories
+Communications, Emulators"
+"Vem ai o Disc-OS 3.0 Aguardem..
+Estamos Voltando!
+Modificações:
+Asterisk 17
+Nova Interface UI
+Centos 8
+Nodejs
+Disc-OS é uma distribuição de um PABX IP baseado em software livre. Desenvolvido para o mercado brasileiro com interfaces em português, de fácil instalação e configuração, contendo Linux customizado, software Asterisk 1.4 e configurador Disc.Vem ai o Disc-OS 3.0 Aguardem..
+Estamos Voltando!
+Modificações:
+Asterisk 17
+Nova Interface UI
+Centos 8
+Nodejs
+Disc-OS é uma distribuição de um PABX IP baseado em software livre. Desenvolvido para o mercado brasileiro com interfaces em português, de fácil instalação e configuração, contendo Linux customizado, software Asterisk 1.4 e configurador Disc.","Categories
+Internet Phone, VoIP"
+"Asterisk Monitor is a HTML interface that acts a operator pannel for asterisk to display user/peer status and calls. This uses a reverse AJAX, PHP and Python to originate, transfer and hangup calls, manage queues and meetme rooms.Asterisk Monitor is a HTML interface that acts a operator pannel for asterisk to display user/peer status and calls. This uses a reverse AJAX, PHP and Python to originate, transfer and hangup calls, manage queues and meetme rooms.","Categories
+VoIP"
+"OpenSIPS (former OpenSER) is an GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server platforms.
+
+IMPORTANT: this is no longer the main hosting for the project. This was moved on GITHUB - https://github.com/OpenSIPS/opensipsOpenSIPS (former OpenSER) is an GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server platforms.
+
+IMPORTANT: this is no longer the main hosting for the project. This was moved on GITHUB - https://github.com/OpenSIPS/opensips","Categories
+VoIP, SIP Servers"
+"This ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1cThis ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1c","Categories
+Telephony, Cryptography, Code Generators, Compilers, Networking, Interface Engine/Protocol Translator"
+"A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.","Categories
+Telnet, BBS, SSH"
+"JMSN is a pure Java Microsoft MSN Messenger clone, including Instant messaging, File Send/Receive, msnlib (for developers), and additional chat log etc. JMSN has many interesting features that MSN doesn't have.JMSN is a pure Java Microsoft MSN Messenger clone, including Instant messaging, File Send/Receive, msnlib (for developers), and additional chat log etc. JMSN has many interesting features that MSN doesn't have.","Categories
+Chat"
+"MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.","Categories
+BBS, Message Board, Mathematics, Computer Aided Instruction (CAI), Blogging, Wiki"
+"Convert text to International Morse Code. Input is ASCII text. Output can be: - . -..- - on the console, raw 8bit PCM suitable for piping to /dev/audio, .wav files or even (mp3|ogg). Good for headlines on your MP3 player or code practice.Convert text to International Morse Code. Input is ASCII text. Output can be: - . -..- - on the console, raw 8bit PCM suitable for piping to /dev/audio, .wav files or even (mp3|ogg). Good for headlines on your MP3 player or code practice.","Categories
+Ham Radio, Sound Synthesis"
+EM stands for enforcement module. It is a security module which create bastion host machine. the process involved reading an XML policy file and translate it into Linux/Unix system call set. the translation process is created by CSG(command set generatorEM stands for enforcement module. It is a security module which create bastion host machine. the process involved reading an XML policy file and translate it into Linux/Unix system call set. the translation process is created by CSG(command set generator,"Categories
+Communications, Security"
+A graphical notification plugin for the instant message client gaim. Now hosted at http://plugins.guifications.org/tracA graphical notification plugin for the instant message client gaim. Now hosted at http://plugins.guifications.org/trac,"Categories
+AOL Instant Messenger, IRC Clients, ICQ"
+Undernet Coder Committee -- ircu developmentUndernet Coder Committee -- ircu development,"Categories
+IRC Clients"
+The Hamlib project's purpose is to develop flexible and portable shared libraries that offer a standardized API to control any radio oriented equipment through a computer interface.The Hamlib project's purpose is to develop flexible and portable shared libraries that offer a standardized API to control any radio oriented equipment through a computer interface.,"Categories
+Ham Radio, Interface Engine/Protocol Translator"
+"G4J is a set of API that communicate to GMail. Use this API to login, retrive/search/browse message, download attachment and do others action on GMail account! An email application (Gmailer for java) is included to demonstrate the usage of the API.G4J is a set of API that communicate to GMail. Use this API to login, retrive/search/browse message, download attachment and do others action on GMail account! An email application (Gmailer for java) is included to demonstrate the usage of the API.","Categories
+Email Clients"
+"PHP app to access Gmail/Googlemail/Gmail-for-Your-Domain accounts on wireless devices. Convenient alternative access method to your email account on the move, gmail-mobile incorporates as many Gmail features as possible within limits of a mobile device.PHP app to access Gmail/Googlemail/Gmail-for-Your-Domain accounts on wireless devices. Convenient alternative access method to your email account on the move, gmail-mobile incorporates as many Gmail features as possible within limits of a mobile device.","Categories
+Email Clients, WAP, CGI Scripts"
+"The SF repository for all projects on my.gnus.org: Tutorial, FAQ, dotfiles, HowTosThe SF repository for all projects on my.gnus.org: Tutorial, FAQ, dotfiles, HowTos","Categories
+Emacs, Usenet News, Email Clients"
+"This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.","Categories
+Communications, Security, Internet, Proxy Servers"
+"TorrentFlux is a PHP front end for bittorrent. Manage all of your Torrent downloads through a convenient web interface from anywhere. Requires Apache with PHP module, MySQL and, BitTornado or BitTorrent source (included).TorrentFlux is a PHP front end for bittorrent. Manage all of your Torrent downloads through a convenient web interface from anywhere. Requires Apache with PHP module, MySQL and, BitTornado or BitTorrent source (included).","Categories
+BitTorrent"
+"Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.","Categories
+Communications, Wireless, Command Line Tools"
+PHP2ICQ is a libary which lets you easily send ICQ Messages from your own php scripts by using a direct connection to the ICQ server via the Oscar protocol (ICQ v7/v8/v9). It is completely written from scratch.PHP2ICQ is a libary which lets you easily send ICQ Messages from your own php scripts by using a direct connection to the ICQ server via the Oscar protocol (ICQ v7/v8/v9). It is completely written from scratch.,"Categories
+ICQ, CGI Scripts"
+"Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.","Categories
+Communications, Office/Business, Frameworks, Hardware Drivers, Interface Engine/Protocol Translator"
+"This project is a software oscilloscope for the Universal Software Radio Peripheral. It includes such features as maximum level triggers on any channel, a spectrum analyzer, and more.This project is a software oscilloscope for the Universal Software Radio Peripheral. It includes such features as maximum level triggers on any channel, a spectrum analyzer, and more.","Categories
+Communications, Audio Analysis"
+"Sshpass is a tool for non-interactivly performing password authentication with SSH's so called ""interactive keyboard password authentication"". Most user should use SSH's more secure public key authentiaction instead.Sshpass is a tool for non-interactivly performing password authentication with SSH's so called ""interactive keyboard password authentication"". Most user should use SSH's more secure public key authentiaction instead.","Categories
+Communications"
+"OpenDocMan is a web based document management system (DMS) written in PHP designed to comply with ISO 17025 and OIE standard for document management. It features fine grained control of access to files, and automated install and upgrades.OpenDocMan is a web based document management system (DMS) written in PHP designed to comply with ISO 17025 and OIE standard for document management. It features fine grained control of access to files, and automated install and upgrades.","Categories
+File Sharing, Content Management Systems (CMS), Knowledge Management, Document Management"
+VMukti open source is leading Asterisk/ Yate enabled p2p Video IP Communications Suite for Web / PSTN. These serverless broadband ready platform enable OS community to save 90% on capital & operating costs over proprietary software for conferencing &VMukti open source is leading Asterisk/ Yate enabled p2p Video IP Communications Suite for Web / PSTN. These serverless broadband ready platform enable OS community to save 90% on capital & operating costs over proprietary software for conferencing &,"Categories
+Internet Phone, Enterprise, Video"
+"Fldigi is a modem program for most of the digital modes used by radio amateurs today: CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia, and Throb are all supported. It can help calibrate a sound card to a time signal and do frequency measurement tests.
+
+NOTICE: You must proceed to the Files section to locate the correct fldigi, flrig etal download for your particular operating system. Do not blithely use the big green Download button! Use the ""Files"" menu item or the ""Browse All Files"" link.Fldigi is a modem program for most of the digital modes used by radio amateurs today: CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia, and Throb are all supported. It can help calibrate a sound card to a time signal and do frequency measurement tests.
+
+NOTICE: You must proceed to the Files section to locate the correct fldigi, flrig etal download for your particular operating system. Do not blithely use the big green Download button! Use the ""Files"" menu item or the ""Browse All Files"" link.","Categories
+Ham Radio"
+OpenNX is an OSS drop-in replacement for Nomachine's nxclient.OpenNX is an OSS drop-in replacement for Nomachine's nxclient.,"Categories
+Communications"
+"Longing for the good old days of Asterisk@Home? Welcome back to the steroid-enhanced version. PBX in a Flash 3.0 & Incredible PBX 2020/2021/2022/2027 are the latest Lean, Mean Asterisk Machines, high-performance, turnkey Asterisk PBXs that are easy to upgrade. Features include Rocky8, CentOS/SL 7.x, Ubuntu 22.04 & 20.04, Debian 10 and Raspbian 10 support with Asterisk 20/18/16 and FreePBX 16/15 GPL modules. Add-ons include one-click installs of Incredible Fax and many other Asterisk utilities. Visit Nerd Vittles for the latest tutorials.Longing for the good old days of Asterisk@Home? Welcome back to the steroid-enhanced version. PBX in a Flash 3.0 & Incredible PBX 2020/2021/2022/2027 are the latest Lean, Mean Asterisk Machines, high-performance, turnkey Asterisk PBXs that are easy to upgrade. Features include Rocky8, CentOS/SL 7.x, Ubuntu 22.04 & 20.04, Debian 10 and Raspbian 10 support with Asterisk 20/18/16 and FreePBX 16/15 GPL modules. Add-ons include one-click installs of Incredible Fax and many other Asterisk utilities. Visit Nerd Vittles for the latest tutorials.","Categories
+PBX"
+"goText is a free software for Mobile Phones to send free SMS messages over GPRS/EDGE/UMTS/WiFi connection. It is coded in Java (J2ME) with MIDP 1.0 and CLDC 1.0 profiles, so it can be used an almost any java enabled mobile phone/device!goText is a free software for Mobile Phones to send free SMS messages over GPRS/EDGE/UMTS/WiFi connection. It is coded in Java (J2ME) with MIDP 1.0 and CLDC 1.0 profiles, so it can be used an almost any java enabled mobile phone/device!","Categories
+Internet Phone, Mobile"
+GTK-based BitTorrent client. You can find Ubuntu packages of Flush at http://bit.ly/cYBYQf. Git repository: http://bit.ly/cdwdPE.GTK-based BitTorrent client. You can find Ubuntu packages of Flush at http://bit.ly/cYBYQf. Git repository: http://bit.ly/cdwdPE.,"Categories
+BitTorrent, Internet"
+"phpFreeChat is a free, simple to install, fast and customizable chat that uses by default files for message and nickname storage. It uses AJAX to smoothly refresh and display the chat zone and the nickname zone.phpFreeChat is a free, simple to install, fast and customizable chat that uses by default files for message and nickname storage. It uses AJAX to smoothly refresh and display the chat zone and the nickname zone.","Categories
+Chat, Dynamic Content"
+"GazePointer is a Webcam eye tracker software that lets you move mouse cursor using your eyes.
+
+GazePointer is a software that uses an ordinary webcam to estimate the direction of your gaze. This information can then be passed to other applications (e.g https://gazerecorder.com/gazescroll/, https://sourceforge.net/projects/gazeboard/ ). For example, used in conjunction with Dasher, GazePointer allows you to write with your eyes.
+
+
+if you want to integrate GazePointer with your own solution you can access gaze data via GazeFlowAPI: https://github.com/szydej/GazeFlowAPI
+
+You can also check out:
+GazeRecorder, which records your eye movement on the screen:
+https://gazerecorder.com
+
+Online Live Demo:
+GazeCloudAPI real-time eye tracking https://api.gazerecorder.com
+GazeRecorder APP (Behavior Analytics Made Easy. Website Eye-Tracking Heatmaps & More) https://app.gazerecorder.comGazePointer is a Webcam eye tracker software that lets you move mouse cursor using your eyes.
+
+GazePointer is a software that uses an ordinary webcam to estimate the direction of your gaze. This information can then be passed to other applications (e.g https://gazerecorder.com/gazescroll/, https://sourceforge.net/projects/gazeboard/ ). For example, used in conjunction with Dasher, GazePointer allows you to write with your eyes.
+
+
+if you want to integrate GazePointer with your own solution you can access gaze data via GazeFlowAPI: https://github.com/szydej/GazeFlowAPI
+
+You can also check out:
+GazeRecorder, which records your eye movement on the screen:
+https://gazerecorder.com
+
+Online Live Demo:
+GazeCloudAPI real-time eye tracking https://api.gazerecorder.com
+GazeRecorder APP (Behavior Analytics Made Easy. Website Eye-Tracking Heatmaps & More) https://app.gazerecorder.com","Categories
+Communications, HMI"
+"This Library includes a DMX Master, DMX Slave and various examples on how to use its implementation. This projects has been started to support the use of our Shielded DMX / RDM Shield for Arduino. The library is made available under the GNU Lesser General Public License
+
+If you would like to make contributions to the source code feel free to contact the project adminThis Library includes a DMX Master, DMX Slave and various examples on how to use its implementation. This projects has been started to support the use of our Shielded DMX / RDM Shield for Arduino. The library is made available under the GNU Lesser General Public License
+
+If you would like to make contributions to the source code feel free to contact the project admin","Categories
+Communications, Embedded Systems, Libraries"
+"A C# .NET app to download or capture data from several medical device interfaces such as Datex AS3 S/5 Anesthesia, Philips Intellivue, GE Dash, Mindray, Spacelabs patient monitors, GE Engstrom, Draeger (Medibus), Maquet (Servo-i & Flow-i), Puritan Bennett ventilators, Fresenius Agilia, Alaris Carefusion, BBraun Spacecom syringe and volumetric pumps, Roche Cobas ASTM ABG analyzers. Requires Visual Studio 2019, .NET 5 or Visual Studio for Mac to compile. Android version requires Xamarin Studio, Android SDK to compile. Support for capture from other monitors is planned in future.A C# .NET app to download or capture data from several medical device interfaces such as Datex AS3 S/5 Anesthesia, Philips Intellivue, GE Dash, Mindray, Spacelabs patient monitors, GE Engstrom, Draeger (Medibus), Maquet (Servo-i & Flow-i), Puritan Bennett ventilators, Fresenius Agilia, Alaris Carefusion, BBraun Spacecom syringe and volumetric pumps, Roche Cobas ASTM ABG analyzers. Requires Visual Studio 2019, .NET 5 or Visual Studio for Mac to compile. Android version requires Xamarin Studio, Android SDK to compile. Support for capture from other monitors is planned in future.","Categories
+Communications"
+Roundcube Plugin that adds a new tab to the settings section to create simple client-side e-mail filtering.Roundcube Plugin that adds a new tab to the settings section to create simple client-side e-mail filtering.,"Categories
+Email, Enterprise, WWW/HTTP"
+"OpenLTE is an open source implementation of the 3GPP LTE specifications.
+
+Currently, octave code is available for test and simulation of downlink transmit and receive functionality and uplink PRACH transmit and receive functionality. In addition, GNU Radio applications are available for downlink transmit and receive to and from a file, downlink receive using rtl-sdr, HackRF, or USRP B2X0, LTE I/Q file recording using rtl-sdr, HackRF, or USRP B2X0, and a simple eNodeB using USRP B2X0. The current focus is on extending the capabilities of the GNU Radio applications and adding capabilities to the simple base station application (LTE_fdd_enodeb).OpenLTE is an open source implementation of the 3GPP LTE specifications.
+
+Currently, octave code is available for test and simulation of downlink transmit and receive functionality and uplink PRACH transmit and receive functionality. In addition, GNU Radio applications are available for downlink transmit and receive to and from a file, downlink receive using rtl-sdr, HackRF, or USRP B2X0, LTE I/Q file recording using rtl-sdr, HackRF, or USRP B2X0, and a simple eNodeB using USRP B2X0. The current focus is on extending the capabilities of the GNU Radio applications and adding capabilities to the simple base station application (LTE_fdd_enodeb).","Categories
+Communications, Telephony"
+This project is an implementation of the Precision Time Protocol (PTP) according to IEEE standard 1588 for Linux.This project is an implementation of the Precision Time Protocol (PTP) according to IEEE standard 1588 for Linux.,"Categories
+Distributed Computing, File Sync, Test and Measurement"
+Synchronize your Lotus Notes calendar to calendar on your Android device. It works only via Bluetooth.Synchronize your Lotus Notes calendar to calendar on your Android device. It works only via Bluetooth.,"Categories
+Mobile, File Sync"
+"Dec 2013 update:
+The Skype Diceroller has become officially obsolete. Skype announced that they are discontinuing support for the Skype API, which the project depends on in order to read chat message data. Unfortunately, there isn't an alternative mechanism currently available to that would support the diceroller's functionality. This project is essentially on hiatus until a new API or other means of retrieving chat data from Skype becomes available.
+
+Thank you all for downloading. It was fun to work on this project, and I hope to work on it more.
+
+August 3rd 2013 update:
+
+DiceRoller v2.0 is now v2.1! The dice roll parsing and result mechanism has been offloaded to Lua, The current script is bare-bones, but more features will be added over time, and you can add them yourself without the need for downloading/compiling source code.
+
+Version 2.1 is currently in beta.Dec 2013 update:
+The Skype Diceroller has become officially obsolete. Skype announced that they are discontinuing support for the Skype API, which the project depends on in order to read chat message data. Unfortunately, there isn't an alternative mechanism currently available to that would support the diceroller's functionality. This project is essentially on hiatus until a new API or other means of retrieving chat data from Skype becomes available.
+
+Thank you all for downloading. It was fun to work on this project, and I hope to work on it more.
+
+August 3rd 2013 update:
+
+DiceRoller v2.0 is now v2.1! The dice roll parsing and result mechanism has been offloaded to Lua, The current script is bare-bones, but more features will be added over time, and you can add them yourself without the need for downloading/compiling source code.
+
+Version 2.1 is currently in beta.","Categories
+Chat, Board Games, Multiplayer"
+"Imagine being understood anywhere in any language. We are developing a very simple photo-like written language that you can use on your notepad while traveling abroad. Wither you are in China, France, Japan, Egypt or Mexico, you'll be understood.Imagine being understood anywhere in any language. We are developing a very simple photo-like written language that you can use on your notepad while traveling abroad. Wither you are in China, France, Japan, Egypt or Mexico, you'll be understood.","Categories
+Communications"
+Naufrago! is a simple offline RSS reader (including images) written in Python.Naufrago! is a simple offline RSS reader (including images) written in Python.,"Categories
+RSS Feed Readers"
+"The Collaboration Environment, supporting e-Science, is a comprehensive resource sharing and collaboration platform specific for research group.The Collaboration Environment, supporting e-Science, is a comprehensive resource sharing and collaboration platform specific for research group.","Categories
+Mailing List Servers"
+"Client-server transfers files/folders P2P, fast and secure: transparent compression/encryption (SSL), pause/resume, TCP/UDP connection, auto-discover, proxy support (HTTP, SOCKS5), NAT Traversal (Teredo, UPnP), HTTP/FTP downloads, speed graph, chat.Client-server transfers files/folders P2P, fast and secure: transparent compression/encryption (SSL), pause/resume, TCP/UDP connection, auto-discover, proxy support (HTTP, SOCKS5), NAT Traversal (Teredo, UPnP), HTTP/FTP downloads, speed graph, chat.","Categories
+File Sharing, File Transfer Protocol (FTP), WWW/HTTP"
+Iptables match module capable of matching various peer-to-peer networks by examining the application-layer protocolIptables match module capable of matching various peer-to-peer networks by examining the application-layer protocol,"Categories
+File Sharing, Firewall"
+Antitheft software for WM5 and WM6 phones with GPS module(tested on Eten X500+ and Mio A701). Useful for searching of lost/stolen phones and children monitoring. Can monitor sim card changes. Coordinates of the phone can be acquired by SMS.Antitheft software for WM5 and WM6 phones with GPS module(tested on Eten X500+ and Mio A701). Useful for searching of lost/stolen phones and children monitoring. Can monitor sim card changes. Coordinates of the phone can be acquired by SMS.,"Categories
+Communications, Security, Monitoring"
+"emule client, based on emule Xtreme Mod (see https://sourceforge.net/projects/emulextreme/) many enhancements, bugfixes and useful features from other mods. Lite Mod, based on X Mod only keep the commonly used features and reduce memory usageemule client, based on emule Xtreme Mod (see https://sourceforge.net/projects/emulextreme/) many enhancements, bugfixes and useful features from other mods. Lite Mod, based on X Mod only keep the commonly used features and reduce memory usage","Categories
+File Sharing"
+A milter program for domain authentication technologies.A milter program for domain authentication technologies.,"Categories
+Email Spam Filter"
+"TinyRadius is a small, fast and reliable Java Radius library capable of
+sending and receiving Radius packets as specified by RFC 2865/2866. TinyRadius is not a fully-fledged Radius server, but helps you to implement Radius services in your application.TinyRadius is a small, fast and reliable Java Radius library capable of
+sending and receiving Radius packets as specified by RFC 2865/2866. TinyRadius is not a fully-fledged Radius server, but helps you to implement Radius services in your application.","Categories
+Communications, Networking, Internet"
+"NOTE: Code commits are FROZEN on SourceForge: New code is now at <http://github.com/Xastir/Xastir>. Real-time tracking & messaging of stations via radio/internet APRS data streams, w/125 map formats supported. Linux/FreeBSD/Solaris/MacOSX/Windows in any of 7 languages. Can also be used for mobile mapping w/GPS. MAILING LISTS ARE AT: PROJECT->WEB SITE.NOTE: Code commits are FROZEN on SourceForge: New code is now at <http://github.com/Xastir/Xastir>. Real-time tracking & messaging of stations via radio/internet APRS data streams, w/125 map formats supported. Linux/FreeBSD/Solaris/MacOSX/Windows in any of 7 languages. Can also be used for mobile mapping w/GPS. MAILING LISTS ARE AT: PROJECT->WEB SITE.","Categories
+Ham Radio, Data Visualization, GIS"
+"VMime is a free mail library for C++. This is an open-source solution for working with MIME messages and Internet messaging services like IMAP, POP or SMTP.VMime is a free mail library for C++. This is an open-source solution for working with MIME messages and Internet messaging services like IMAP, POP or SMTP.","Categories
+Email, Software Development, Networking, Internet"
+"Frontera is an open art project which uses interactive video combined with hand tracking to make an ""interactive portrait"". It uses open standards like OpenCV and the OSC protocol.Frontera is an open art project which uses interactive video combined with hand tracking to make an ""interactive portrait"". It uses open standards like OpenCV and the OSC protocol.","Categories
+Streaming, Media Players, Realtime Processing, Video Capture"
+Enhanced CTorrent is a BitTorrent client for unix-like environments. High performance with minimal system resources and dependencies is a priority.Enhanced CTorrent is a BitTorrent client for unix-like environments. High performance with minimal system resources and dependencies is a priority.,"Categories
+BitTorrent"
+"[antispam] MailCleaner is an anti-spam / anti-virus filter SMTP gateway with user and admin web interfaces, quarantine, multi-domains, multi-templates, multi-languages. Using Bayes, RBLs, Spamassassin, MailScanner, ClamAV. Based on Debian. Enterprise ready.
+MailCleaner is an anti spam gateway installed between your mail infrastructure and the Internet.
+It includes a complete GNU/Linux OS and a graphical web interface for user and administrative access. It comes in the form of virtual machine templates..
+- fully compatible with any SMTP mail server (Exchange, Zimbra, O365,...)
+
+You can install now MailCleaner within the following virtual environments:
+qcow2 (KVM, Proxmox, OpenStack, Xen)
+ova (OVA, VMware ESXi, VMware Workstation, Fusion)
+vhd (Asure, VirtualPC)
+vhdx (Hyper-V)
+AMI (Amazon)
+
+Dedicate a server to MailCleaner, and you will have a working professional mail filter in less than an hour.[antispam] MailCleaner is an anti-spam / anti-virus filter SMTP gateway with user and admin web interfaces, quarantine, multi-domains, multi-templates, multi-languages. Using Bayes, RBLs, Spamassassin, MailScanner, ClamAV. Based on Debian. Enterprise ready.
+MailCleaner is an anti spam gateway installed between your mail infrastructure and the Internet.
+It includes a complete GNU/Linux OS and a graphical web interface for user and administrative access. It comes in the form of virtual machine templates..
+- fully compatible with any SMTP mail server (Exchange, Zimbra, O365,...)
+
+You can install now MailCleaner within the following virtual environments:
+qcow2 (KVM, Proxmox, OpenStack, Xen)
+ova (OVA, VMware ESXi, VMware Workstation, Fusion)
+vhd (Asure, VirtualPC)
+vhdx (Hyper-V)
+AMI (Amazon)
+
+Dedicate a server to MailCleaner, and you will have a working professional mail filter in less than an hour.","Categories
+Email Spam Filter, Firewall, Anti-Spam, Load Balancers, Email Servers"
+"Fidoip contain shell scripts, sources which automatically compile and binaries, install FIDO software(Binkd, Hisky HPT and Golded), create directories, setup configuration files and script on FreeBSD, Linux, Windows and DragonFly BSD.
+Fidoip could be used for:
+* clients(FIDONet points) - as software package for client access to FIDONet;
+* system operators(aka FIDONet bosses) - as automatic installation package for IP-node creation (FIDONet servers).
+* detailed documentation - see links at http://sourceforge.net/p/fidoip/wiki
+* brief description of Design and features of fidoip on Russian and English http://sourceforge.net/projects/fidoip/files/media/fidoip-design-and-features.pdf
+* video guides for FIDO points and bosses at http://sf.net/projects/fidoip/files/media/videoguide/Fidoip contain shell scripts, sources which automatically compile and binaries, install FIDO software(Binkd, Hisky HPT and Golded), create directories, setup configuration files and script on FreeBSD, Linux, Windows and DragonFly BSD.
+Fidoip could be used for:
+* clients(FIDONet points) - as software package for client access to FIDONet;
+* system operators(aka FIDONet bosses) - as automatic installation package for IP-node creation (FIDONet servers).
+* detailed documentation - see links at http://sourceforge.net/p/fidoip/wiki
+* brief description of Design and features of fidoip on Russian and English http://sourceforge.net/projects/fidoip/files/media/fidoip-design-and-features.pdf
+* video guides for FIDO points and bosses at http://sf.net/projects/fidoip/files/media/videoguide/","Categories
+FIDO"
+"Convert Webmail to POP3.Is also included a SMTP/POP3 tunneling system that allow send and receive email in a private network HTTP PROXY based. All connection are plugin based. Over 450 email server supported and tested, GMAIL POP3/SMTP over Proxy Network.Convert Webmail to POP3.Is also included a SMTP/POP3 tunneling system that allow send and receive email in a private network HTTP PROXY based. All connection are plugin based. Over 450 email server supported and tested, GMAIL POP3/SMTP over Proxy Network.","Categories
+POP3, Usenet News, Email Servers"
+"Social Networking Open Source Software, an open source social networking framework, written in PHP, Javascript and MySQL with an AJAX UI.Social Networking Open Source Software, an open source social networking framework, written in PHP, Javascript and MySQL with an AJAX UI.","Categories
+Chat, Dynamic Content"
+Coccinella is a free and open-source cross-platform communication tool with a built-in whiteboard for improved collaboration with other people.Coccinella is a free and open-source cross-platform communication tool with a built-in whiteboard for improved collaboration with other people.,"Categories
+Chat, Conferencing, Whiteboard"
+Popfax printer is a driver that converts any document your desktop can print into a black and white TIFF FAX G3 format and then sends it to any fax machine via Popfax.com Internet fax services. Releases after 2.3 are maintained on Popfax.com own servers.Popfax printer is a driver that converts any document your desktop can print into a black and white TIFF FAX G3 format and then sends it to any fax machine via Popfax.com Internet fax services. Releases after 2.3 are maintained on Popfax.com own servers.,"Categories
+Fax, Office/Business, Internet"
+Clavier virtuel et synthétiseur vocal pour les personnes ne pouvant plus parler et ayant du mal à utiliser leurs mains. Virtual keyboard and speech synthetiser for people with reduced mobility and unability to speak. In French and english.Clavier virtuel et synthétiseur vocal pour les personnes ne pouvant plus parler et ayant du mal à utiliser leurs mains. Virtual keyboard and speech synthetiser for people with reduced mobility and unability to speak. In French and english.,"Categories
+Communications, Speech, Sound Synthesis"
+"From this time on, LibPST will not be maintained here. It will be maintained at http://alioth.debian.org/projects/libpst/. Also, check the version at http://www.five-ten-sg.com/libpstFrom this time on, LibPST will not be maintained here. It will be maintained at http://alioth.debian.org/projects/libpst/. Also, check the version at http://www.five-ten-sg.com/libpst","Categories
+Email Spam Filter"
+"""Nearly Intelligent Computer Operated Language Examiner"" - NICOLE is a theory or experiment that if a computer is given enough combinations of how words, phrases and sentences are related to one another, it could talk back to you.""Nearly Intelligent Computer Operated Language Examiner"" - NICOLE is a theory or experiment that if a computer is given enough combinations of how words, phrases and sentences are related to one another, it could talk back to you.","Categories
+Chat, Simulation Games, Artificial Intelligence"
+"A GTK+ Gnutella client, efficient, reliable and fast, written in C. It has been optimized for speed and scalability, with low-memory consumption. It is meant to be left running 24x7, using little CPU and only the configured bandwidth.
+It is possible to run gtk-gnutella without a GUI or using a shell interface.A GTK+ Gnutella client, efficient, reliable and fast, written in C. It has been optimized for speed and scalability, with low-memory consumption. It is meant to be left running 24x7, using little CPU and only the configured bandwidth.
+It is possible to run gtk-gnutella without a GUI or using a shell interface.","Categories
+Gnutella"
+"A replacement firmware distribution for the 3com 3CRADSL72 a.k.a 3com wireless 11g (distributed by Ya.com) and its identical twin, the SMC7804WBRA, with an ucLinux kernel based system and associated system tools.A replacement firmware distribution for the 3com 3CRADSL72 a.k.a 3com wireless 11g (distributed by Ya.com) and its identical twin, the SMC7804WBRA, with an ucLinux kernel based system and associated system tools.","Categories
+Communications, Firewall, Operating System Kernels, Hardware, Internet"
+"Simscan enables qmail to reject viruses, spam, and block attachments during the SMTP conversation so the email never makes it into your email server. Supports ClamAV, SpamAssassin, DSpam and other virus scanners. Very efficient and written in C.Simscan enables qmail to reject viruses, spam, and block attachments during the SMTP conversation so the email never makes it into your email server. Supports ClamAV, SpamAssassin, DSpam and other virus scanners. Very efficient and written in C.","Categories
+Email Spam Filter, Email Servers"
+qutim - multiplatform ICQ instant messenger.qutim - multiplatform ICQ instant messenger.,"Categories
+ICQ, Messaging"
+"VideoWhisper Live Streaming provides web based live video streaming (from webcam or similar sources).
+
+Live Streaming key features:
++ 1 to many 1 way video streaming
++ Live chat for viewers
++ User list with online participants
++ Channel title
++ HTML embed code to publish video channel
++ P2P group streaming support
++ Session timer and control with scripts
++ 100% web based for clients
+
+
+The php edition is the easiest choice to setup and run the Live Streaming application on a website.
+Also to integrate with any php script or content management system that does not have a ready made integration, yet.
+
+PHP Live Streaming Edition Highlights:
++ Create Live Video Channels
++ Broadcast Live Video from Browser
++ Share Channels Link/Embed Code
++ Limit Total Use Time by Channel
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
+
+
+Requires a RTMP hosting to setup rtmp side (see installation instructions).VideoWhisper Live Streaming provides web based live video streaming (from webcam or similar sources).
+
+Live Streaming key features:
++ 1 to many 1 way video streaming
++ Live chat for viewers
++ User list with online participants
++ Channel title
++ HTML embed code to publish video channel
++ P2P group streaming support
++ Session timer and control with scripts
++ 100% web based for clients
+
+
+The php edition is the easiest choice to setup and run the Live Streaming application on a website.
+Also to integrate with any php script or content management system that does not have a ready made integration, yet.
+
+PHP Live Streaming Edition Highlights:
++ Create Live Video Channels
++ Broadcast Live Video from Browser
++ Share Channels Link/Embed Code
++ Limit Total Use Time by Channel
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
+
+
+Requires a RTMP hosting to setup rtmp side (see installation instructions).","Categories
+Communications, Sound/Audio, Video Conferencing"
+FreePOPs is a webmail to pop3 conversion daemon. It is extensible to support other webmail using the scripting language LUA. See the homepage for supported webmails.FreePOPs is a webmail to pop3 conversion daemon. It is extensible to support other webmail using the scripting language LUA. See the homepage for supported webmails.,"Categories
+POP3, WWW/HTTP"
+"NOTE: Source code is now hosted on github at https://github.com/plutinosoft/Platinum.
+
+A cross-platform C++ library for discovering, controlling or implementing UPnP devices. Contains sample code for a UPnP AV Media Server, Media Renderer & Control Point. (Platinum is copyrighted by Plutinosoft, LLC. http://www.plutinosoft.com)NOTE: Source code is now hosted on github at https://github.com/plutinosoft/Platinum.
+
+A cross-platform C++ library for discovering, controlling or implementing UPnP devices. Contains sample code for a UPnP AV Media Server, Media Renderer & Control Point. (Platinum is copyrighted by Plutinosoft, LLC. http://www.plutinosoft.com)","Categories
+Streaming, Software Development"
+"base64 RFC1113 Vanilla ANSI-C Code for a portable stand-alone file encode/decode utility. In 2001, I asked people to 'Help me break it!' Since then, 10+years later, the code remains unbroken and is in wide production use world-wide. It has been ported to all major architectures and been used as a template for ports to different computer and human languages. This is very mature and stable code.
+
+Although this comes from a project that was constrained by export controls and is used in secure systems, it is not security code per-se. I have therefore altered the 'Export Controls' category.base64 RFC1113 Vanilla ANSI-C Code for a portable stand-alone file encode/decode utility. In 2001, I asked people to 'Help me break it!' Since then, 10+years later, the code remains unbroken and is in wide production use world-wide. It has been ported to all major architectures and been used as a template for ports to different computer and human languages. This is very mature and stable code.
+
+Although this comes from a project that was constrained by export controls and is used in secure systems, it is not security code per-se. I have therefore altered the 'Export Controls' category.","Categories
+Email, Libraries"

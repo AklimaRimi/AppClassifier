@@ -1,0 +1,596 @@
+Description,Category
+OpenVRML is a cross-platform VRML and X3D browser and C++ runtime library.OpenVRML is a cross-platform VRML and X3D browser and C++ runtime library.,"Categories
+GNOME, Browsers, 3D Rendering"
+A minimalist application to provide clipboard buffering for OS X.A minimalist application to provide clipboard buffering for OS X.,"Categories
+Desktop Environment"
+"Q4OS is a fast and friendly, desktop oriented operating system based on Debian Linux. It deploys Plasma, optionally Trinity, as desktop environment on top of Debian Linux rock stable base.
+
+The goal is to provide long-term supported system with a special emphasis on security. This is exactly what Debian base guarantees. We prefer the Debian development model to keep the core system as immutable as possible. It results in a reliable and stable system that you can definitely rely on.
+
+Thanks to unique Q4OS tools a user can rather easily achieve setup of a fitted system eliminating superfluous packages and libraries. Therefore Q4OS performs faster and more efficient, doesn't exploit memory and computing resources with useless tasks and processes.
+
+Another exclusive Q4OS feature is an optimized support for setting up Trinity desktop environment alongside the default Plasma desktop. Installed side by side, carefully separated, both ready to run as needed. Just select one at login.Q4OS is a fast and friendly, desktop oriented operating system based on Debian Linux. It deploys Plasma, optionally Trinity, as desktop environment on top of Debian Linux rock stable base.
+
+The goal is to provide long-term supported system with a special emphasis on security. This is exactly what Debian base guarantees. We prefer the Debian development model to keep the core system as immutable as possible. It results in a reliable and stable system that you can definitely rely on.
+
+Thanks to unique Q4OS tools a user can rather easily achieve setup of a fitted system eliminating superfluous packages and libraries. Therefore Q4OS performs faster and more efficient, doesn't exploit memory and computing resources with useless tasks and processes.
+
+Another exclusive Q4OS feature is an optimized support for setting up Trinity desktop environment alongside the default Plasma desktop. Installed side by side, carefully separated, both ready to run as needed. Just select one at login.","Categories
+Desktop Environment"
+We develop 2 artful digital font-families called “Linux Libertine” (serif font) and “Biolinum” (sans-serif). Both elegant good-readable Unicode fonts for daily & professional use (see OpenType & WOFF). Break the monotony of (c) W*ndows Fonts!We develop 2 artful digital font-families called “Linux Libertine” (serif font) and “Biolinum” (sans-serif). Both elegant good-readable Unicode fonts for daily & professional use (see OpenType & WOFF). Break the monotony of (c) W*ndows Fonts!,"Categories
+Fonts"
+"GnuCash is a personal and small-business finance manager with a check-book like register GUI to enter and track bank accounts, stocks, income and expenses. GnuCash is designed to be simple and easy to use but still based on formal accounting principles.GnuCash is a personal and small-business finance manager with a check-book like register GUI to enter and track bank accounts, stocks, income and expenses. GnuCash is designed to be simple and easy to use but still based on formal accounting principles.","Categories
+Accounting, GNOME, Personal Finance"
+This is the GTK+2 Runtime Environment Installer for Windows. It includes all of the files required to run GTK+2 applications on Windows. Some support tools are also available.This is the GTK+2 Runtime Environment Installer for Windows. It includes all of the files required to run GTK+2 applications on Windows. Some support tools are also available.,"Categories
+Desktop Environment, Libraries"
+"This tool imitates the 7.1 to binaural sound effect of many surround virtualizations by making use of Equalizer APO's convolution filter. Available are impulse response that were recorded with activated...
+
+– Dolby Atmos Headphone
+– CMSS-3D
+– SBX Pro Studio Surround (also found in BlasterX Acoustic Engine & THX TruStudio Pro)
+– Dolby Headphone
+– Sennheiser GSX Binaural 7.1
+– DTS Headphone:X
+– Windows Sonic Headphone
+– Dolby Home Theater v4 Headphone Surround Virtualizer
+– Razer Surround
+– Out Of Your Head
+– Flux HEar V3
+– OpenAL and DirectSound3D HRTFs
+– Waves Nx
+– and many more!
+
+Visit the wiki for more information on how it works and how to set up: https://sourceforge.net/p/hesuvi/wiki/Help/
+A little demonstration video can be found here: https://www.youtube.com/watch?v=WlqpG2euh50
+Equalizer APO by Jonas Thedering has to be installed first: https://equalizerapo.sourceforge.ioThis tool imitates the 7.1 to binaural sound effect of many surround virtualizations by making use of Equalizer APO's convolution filter. Available are impulse response that were recorded with activated...
+
+– Dolby Atmos Headphone
+– CMSS-3D
+– SBX Pro Studio Surround (also found in BlasterX Acoustic Engine & THX TruStudio Pro)
+– Dolby Headphone
+– Sennheiser GSX Binaural 7.1
+– DTS Headphone:X
+– Windows Sonic Headphone
+– Dolby Home Theater v4 Headphone Surround Virtualizer
+– Razer Surround
+– Out Of Your Head
+– Flux HEar V3
+– OpenAL and DirectSound3D HRTFs
+– Waves Nx
+– and many more!
+
+Visit the wiki for more information on how it works and how to set up: https://sourceforge.net/p/hesuvi/wiki/Help/
+A little demonstration video can be found here: https://www.youtube.com/watch?v=WlqpG2euh50
+Equalizer APO by Jonas Thedering has to be installed first: https://equalizerapo.sourceforge.io","Categories
+Desktop Environment, Sound/Audio"
+Matroska is an open standard audio/video container format. Visit our homepage at http://www.matroska.orgMatroska is an open standard audio/video container format. Visit our homepage at http://www.matroska.org,"Categories
+File Sharing, GNOME, Graphics, Video Capture, Sound/Audio"
+Fluxbox is a X11 windowmanager build for speed and flexibility.Fluxbox is a X11 windowmanager build for speed and flexibility.,"Categories
+Window Managers"
+"This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)","Categories
+Desktop Environment, Usability, Clipboard Managers"
+SharpEnviro is a GPL (Copyleft) Windows Shell Replacement created in Delphi.SharpEnviro is a GPL (Copyleft) Windows Shell Replacement created in Delphi.,"Categories
+Desktop Environment, System Shells"
+"gImageReader is a simple Gtk/Qt front-end to tesseract. Features include:
+- Import PDF documents and images from disk, scanning devices, clipboard and screenshots
+- Process multiple images and documents in one go
+- Manual or automatic recognition area definition
+- Recognize to plain text or to hOCR documents
+- Recognized text displayed directly next to the image
+- Post-process the recognized text, including spellchecking
+- Generate PDF documents from hOCR documents
+
+**Note**: This page is only a mirror for the downloads. Development is happening on github at https://github.com/manisandro/gImageReader, release binaries are also posted there.gImageReader is a simple Gtk/Qt front-end to tesseract. Features include:
+- Import PDF documents and images from disk, scanning devices, clipboard and screenshots
+- Process multiple images and documents in one go
+- Manual or automatic recognition area definition
+- Recognize to plain text or to hOCR documents
+- Recognized text displayed directly next to the image
+- Post-process the recognized text, including spellchecking
+- Generate PDF documents from hOCR documents
+
+**Note**: This page is only a mirror for the downloads. Development is happening on github at https://github.com/manisandro/gImageReader, release binaries are also posted there.","Categories
+KDE, GNOME, Scanner, OCR"
+Main Menu Editor for LXDE. Written in Java.Main Menu Editor for LXDE. Written in Java.,"Categories
+Desktop Environment"
+"rekonq is a lightweight, WebKit based web browser for KDErekonq is a lightweight, WebKit based web browser for KDE","Categories
+KDE, Browsers"
+"GnuWin provides Win32-versions of GNU tools, or tools with a similar open source licence. The ports are native ports, relying only on libraries provided with any modern 32-bits MS-Windows operating system, such as 2000 / XP / Vista / 7GnuWin provides Win32-versions of GNU tools, or tools with a similar open source licence. The ports are native ports, relying only on libraries provided with any modern 32-bits MS-Windows operating system, such as 2000 / XP / Vista / 7","Categories
+Office/Business, Desktop Environment, Build Tools"
+"DDMM is a program for people who use 2 or more displays. It prevents the mouse from crossing from one display to another too easily, and allows teleporting mouse pointer between displays with a hotkey. See http://ddmm.sourceforge.net/ for details.DDMM is a program for people who use 2 or more displays. It prevents the mouse from crossing from one display to another too easily, and allows teleporting mouse pointer between displays with a hotkey. See http://ddmm.sourceforge.net/ for details.","Categories
+Desktop Environment"
+This is a gnome panel applet that lets you switch between open windows using icons.This is a gnome panel applet that lets you switch between open windows using icons.,"Categories
+GNOME"
+"MaxLauncher is an open source tabbed launcher. Its primary goal is to reduce the amount of time to run a program/file. It is capable of creating multiple configuration files, each of which can have a maximum of 10 tabs. Each tab and button are assigned keys corresponding to a standard keyboard. A user can click on the buttons/tabs or simply press the corresponding key to run the program or file.MaxLauncher is an open source tabbed launcher. Its primary goal is to reduce the amount of time to run a program/file. It is capable of creating multiple configuration files, each of which can have a maximum of 10 tabs. Each tab and button are assigned keys corresponding to a standard keyboard. A user can click on the buttons/tabs or simply press the corresponding key to run the program or file.","Categories
+Desktop Environment"
+"A basic video player screensaver for Windows, written in C#. Requires .NET 4.5 runtimes. Compatible with most video formats. Hard to find good alternatives out there, so I wrote my own.A basic video player screensaver for Windows, written in C#. Requires .NET 4.5 runtimes. Compatible with most video formats. Hard to find good alternatives out there, so I wrote my own.","Categories
+Screen Savers"
+"icewm is a window manager for the X Window System. The features of icewm are speed, simplicity, and not getting in the user's way.icewm is a window manager for the X Window System. The features of icewm are speed, simplicity, and not getting in the user's way.","Categories
+Window Managers"
+"Regain is a Java search engine based on Jakarta Lucene. It provides indexing and searching files for plenty of formats (HTML,XML,doc(x),xls(x),ppt(x),oo,PDF,RTF,mp3,mp4,Java). A TagLibrary eases integrating search results in your JSP based web page.Regain is a Java search engine based on Jakarta Lucene. It provides indexing and searching files for plenty of formats (HTML,XML,doc(x),xls(x),ppt(x),oo,PDF,RTF,mp3,mp4,Java). A TagLibrary eases integrating search results in your JSP based web page.","Categories
+Data Formats, Desktop Environment, Search Engines"
+"Gourmet Recipe Manager is now housed at http://thinkle.github.io/gourmet/
+
+Gourmet is a recipe-organizer for GNOME that generates shopping lists and allows rapid searching and entry of recipes.
+
+It imports mealmaster & mastercook files, as well as providing tools to help users import from text files or webpages. Gourmet can exports webpages & other formats.
+
+Gourmet has a plugin infrastructure allowing users to choose add-ins they want, such as a plugin to calculate nutritional information. Gourmet also includes an interactive python shell plugin which is a great way for new developers to get started playing around.
+
+Gourmet is now built on Python, SqlObject, and GTK tools.
+
+Among the plugins is an experimental web front-end which shows the way forward to other possible future front-ends.Gourmet Recipe Manager is now housed at http://thinkle.github.io/gourmet/
+
+Gourmet is a recipe-organizer for GNOME that generates shopping lists and allows rapid searching and entry of recipes.
+
+It imports mealmaster & mastercook files, as well as providing tools to help users import from text files or webpages. Gourmet can exports webpages & other formats.
+
+Gourmet has a plugin infrastructure allowing users to choose add-ins they want, such as a plugin to calculate nutritional information. Gourmet also includes an interactive python shell plugin which is a great way for new developers to get started playing around.
+
+Gourmet is now built on Python, SqlObject, and GTK tools.
+
+Among the plugins is an experimental web front-end which shows the way forward to other possible future front-ends.","Categories
+GNOME"
+Tools for every developer to collaborate and work together.Tools for every developer to collaborate and work together.,"Categories
+Desktop Environment, Dynamic Content"
+"Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/","Categories
+Security, Desktop Environment, WWW/HTTP, Networking"
+"Wally is a Qt4 wallpaper / background changer, using multiple sources like files, folders, FTP remote folders, Flickr, Panoramio, Ipernity, Photobucket, Buzznet, Picasa, Smugmug, Google, Vladstudio and deviantART images.Wally is a Qt4 wallpaper / background changer, using multiple sources like files, folders, FTP remote folders, Flickr, Panoramio, Ipernity, Photobucket, Buzznet, Picasa, Smugmug, Google, Vladstudio and deviantART images.","Categories
+Window Managers, KDE, GNOME"
+"Very customizable beautiful clock.
+
+PROJECT IS CLOSED AND NO LONGER MAINTAINED!
+The final version is 4.7.9.
+
+Windows 10 ready!
+Supported macOS version is 10.12+. Retina display ready! Apple silicon based macs (i.e. M1) are NOT supported!
+Linux build is available only for 64-bit systems.
+
+Nothing special required to start using this clock. Just launch it and enjoy! When it starts, apart the clock itself, small tray icon appears (if system tray is available). Tray icon color depends on operating system, in most cases it is black, but on Windows 10 and macOS with dark theme it is white. This tray icon can be used to call clock configuration dialog. Also this dialog can be called using clock context menu.
+
+You can create your own skin! See this link for details: https://sourceforge.net/p/digitalclock4/wiki/How%20to%20create%20skin/
+
+NOTE: do NOT download any .rar or .exe files marked as my software, these files are made NOT by me and I'm not responsible for their content!Very customizable beautiful clock.
+
+PROJECT IS CLOSED AND NO LONGER MAINTAINED!
+The final version is 4.7.9.
+
+Windows 10 ready!
+Supported macOS version is 10.12+. Retina display ready! Apple silicon based macs (i.e. M1) are NOT supported!
+Linux build is available only for 64-bit systems.
+
+Nothing special required to start using this clock. Just launch it and enjoy! When it starts, apart the clock itself, small tray icon appears (if system tray is available). Tray icon color depends on operating system, in most cases it is black, but on Windows 10 and macOS with dark theme it is white. This tray icon can be used to call clock configuration dialog. Also this dialog can be called using clock context menu.
+
+You can create your own skin! See this link for details: https://sourceforge.net/p/digitalclock4/wiki/How%20to%20create%20skin/
+
+NOTE: do NOT download any .rar or .exe files marked as my software, these files are made NOT by me and I'm not responsible for their content!","Categories
+Time Tracking, Scheduling, Desktop Environment"
+"LXDE - Lightweight X11 Desktop Environment. This project aimed to provide a new desktop environment which is useful enough and keep resource usage lower at the same time. Useabiliy, speed, and memory usage are our main concern. Suitable for netbooks.LXDE - Lightweight X11 Desktop Environment. This project aimed to provide a new desktop environment which is useful enough and keep resource usage lower at the same time. Useabiliy, speed, and memory usage are our main concern. Suitable for netbooks.","Categories
+Desktop Environment"
+"To get അങ്ങനെ simply type ""angane"" this is known as malayalam transliteration you have to simply type what you need in "" manglish"" it will be automatically converted to malayalam (screenshot 4) or in the traditional way click buttons(screenshot 3)
+HariSree Malayalam Keyboard consists of keyboard based entry and transliteration based (based on Mozhi scheme) entry for typing malayalam.
+HariSree Malayalam Keyboard(later referred as HMK ) is a leading software in malayalam computing with over 200,000 customers in over 140 nations.With the success of initial release of HMK the option for transliteration scheme based entry was implemented on Varamozhi scheme considering its popularity.
+HMK is the proprietary property of HariSree Software Solutions however the source code for the same is available for download here.There are no restrictions in viewing the source code.Although it is primarily for malayalam other languages can be usTo get അങ്ങനെ simply type ""angane"" this is known as malayalam transliteration you have to simply type what you need in "" manglish"" it will be automatically converted to malayalam (screenshot 4) or in the traditional way click buttons(screenshot 3)
+HariSree Malayalam Keyboard consists of keyboard based entry and transliteration based (based on Mozhi scheme) entry for typing malayalam.
+HariSree Malayalam Keyboard(later referred as HMK ) is a leading software in malayalam computing with over 200,000 customers in over 140 nations.With the success of initial release of HMK the option for transliteration scheme based entry was implemented on Varamozhi scheme considering its popularity.
+HMK is the proprietary property of HariSree Software Solutions however the source code for the same is available for download here.There are no restrictions in viewing the source code.Although it is primarily for malayalam other languages can be us","Categories
+Software Distribution, Fonts, Languages"
+"Qalculate! is a multi-purpose desktop calculator for GNU/Linux (now ported to Mac via MacPorts). It is small and simple to use but with much power and versatility underneath. Features include customizable functions, units, arbitrary precision, plotting, and a user-friendly interface (GTK+).
+
+Qalculate! has now moved to GitHub (https://github.com/Qalculate). Get the latest version from http://qalculate.github.io/downloads.html.Qalculate! is a multi-purpose desktop calculator for GNU/Linux (now ported to Mac via MacPorts). It is small and simple to use but with much power and versatility underneath. Features include customizable functions, units, arbitrary precision, plotting, and a user-friendly interface (GTK+).
+
+Qalculate! has now moved to GitHub (https://github.com/Qalculate). Get the latest version from http://qalculate.github.io/downloads.html.","Categories
+KDE, GNOME, Mathematics, Calculators"
+Really Slick Screensavers is primarily a collection of eye candy. The various libraries included in this project may be used for the creation of other screensavers or to support other software projects.Really Slick Screensavers is primarily a collection of eye candy. The various libraries included in this project may be used for the creation of other screensavers or to support other software projects.,"Categories
+Screen Savers"
+"Mac OS X Transformation Pack. Macbuntu is an open-source program, designed to transform Linux’s appearance and layout into a Mac OS X environment. Although Macbuntu is dedicated to Ubuntu Linux OS, it could be used in other OS based on Debian/GTKMac OS X Transformation Pack. Macbuntu is an open-source program, designed to transform Linux’s appearance and layout into a Mac OS X environment. Although Macbuntu is dedicated to Ubuntu Linux OS, it could be used in other OS based on Debian/GTK","Categories
+Enlightenment Themes, GNOME, User Interface (UI)"
+"Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit.
+
+Workrave development has moved to GitGub: https://github.com/rcaelers/workraveWorkrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit.
+
+Workrave development has moved to GitGub: https://github.com/rcaelers/workrave","Categories
+Office/Business, GNOME"
+WinBar is a free and compact program that lets you monitor your system and provides easy access to frequently used controls. WinBar will run on Windows 2000 and newer operating systems and is available in 32 and 64 bit flavors.WinBar is a free and compact program that lets you monitor your system and provides easy access to frequently used controls. WinBar will run on Windows 2000 and newer operating systems and is available in 32 and 64 bit flavors.,"Categories
+Desktop Environment"
+"Contiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.xContiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.x","Categories
+Desktop Environment, Browsers, HTTP Servers, Networking, Operating System Kernels"
+"Remmina has moved away from SourceForge in favor of GitLab and it's own domain.
+
+Thanks a lot for your understanding and we look forward to seeing very
+soon on:
+
+http://www.remmina.org/
+https://gitlab.com/Remmina/RemminaRemmina has moved away from SourceForge in favor of GitLab and it's own domain.
+
+Thanks a lot for your understanding and we look forward to seeing very
+soon on:
+
+http://www.remmina.org/
+https://gitlab.com/Remmina/Remmina","Categories
+GNOME, Systems Administration, Networking, Remote Desktop"
+"What does WinlockPro do?
+
+Brings the entire Windows 10 metro theme across all versions of windows(XP and above)
+Proprietary password encryption technology
+Flash Drive Unlock!
+View login attempts that have occurred
+Sends you an email if many failed attempts occur
+Shuts down the computer if multiple failed attempts occur
+Desktop widget which can be used to easily control all aspects of the software
+Ability to leave notes on the Lock Screen interface
+Extremely simple to use
+Almost every small aspect of the software can be customized
+Fonts, colors, styles, positions, wallpapers, avatars, EVERYTHING can be changed to your liking
+Now has a minimalist mode, to make it even easier to use
+Dual monitor support
+G-mail integration - Ability to control WinlockPro with simple email commands.
+A whole lot more to be discovered
+
+Future
+
+I am currently building a cross platform app that will allow users to control WinlockPro from their mobile phones.What does WinlockPro do?
+
+Brings the entire Windows 10 metro theme across all versions of windows(XP and above)
+Proprietary password encryption technology
+Flash Drive Unlock!
+View login attempts that have occurred
+Sends you an email if many failed attempts occur
+Shuts down the computer if multiple failed attempts occur
+Desktop widget which can be used to easily control all aspects of the software
+Ability to leave notes on the Lock Screen interface
+Extremely simple to use
+Almost every small aspect of the software can be customized
+Fonts, colors, styles, positions, wallpapers, avatars, EVERYTHING can be changed to your liking
+Now has a minimalist mode, to make it even easier to use
+Dual monitor support
+G-mail integration - Ability to control WinlockPro with simple email commands.
+A whole lot more to be discovered
+
+Future
+
+I am currently building a cross platform app that will allow users to control WinlockPro from their mobile phones.","Categories
+Security, Desktop Environment, Password Managers"
+"The goal of this project is to offer a consolidated library of icons used in various libraries, window makers, themes and other applications. Over 10,000 unique icons in svg, png, xpm, ico, and icns formats. See homepage for details.The goal of this project is to offer a consolidated library of icons used in various libraries, window makers, themes and other applications. Over 10,000 unique icons in svg, png, xpm, ico, and icns formats. See homepage for details.","Categories
+Icon Sets"
+RDP Server - An open source RDP server and X server capable of accepting connections from rdesktop and ms terminal server clients.RDP Server - An open source RDP server and X server capable of accepting connections from rdesktop and ms terminal server clients.,"Categories
+Terminals, Desktop Environment"
+"GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10. Some of the activities are game oriented, but nonetheless still educational.GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10. Some of the activities are game oriented, but nonetheless still educational.","Categories
+GNOME, Board Games, Education"
+"FlashFolder extends the file-related common dialogs (e.g. open/save dialog) seen in most Windows programs. A small toolbar docks onto these dialogs that provides menus for quick access to recently-used folders, favorite folders and more.FlashFolder extends the file-related common dialogs (e.g. open/save dialog) seen in most Windows programs. A small toolbar docks onto these dialogs that provides menus for quick access to recently-used folders, favorite folders and more.","Categories
+Desktop Environment"
+An extremly fast and lightweight file manager which features tabbed browsing and user-friendly interfaceAn extremly fast and lightweight file manager which features tabbed browsing and user-friendly interface,"Categories
+Desktop Environment, File Managers"
+Virtual numeric keypad for Windows.Virtual numeric keypad for Windows.,"Categories
+Office/Business, Desktop Environment"
+Display power off utility. Powers off desktop/notebook display and optionally locks workstation. Can be set as a screensaver. Can be launched as a system tray icon application.Display power off utility. Powers off desktop/notebook display and optionally locks workstation. Can be set as a screensaver. Can be launched as a system tray icon application.,"Categories
+Desktop Environment, Screen Savers, Hardware"
+Enlightenment is a window manager for the X11 windowing system. Its design goal is to be as configurable as possible - in look AND in feel.Enlightenment is a window manager for the X11 windowing system. Its design goal is to be as configurable as possible - in look AND in feel.,"Categories
+Enlightenment"
+Access your remote files over SFTP directly from Windows Explorer and 'My Computer'.Access your remote files over SFTP directly from Windows Explorer and 'My Computer'.,"Categories
+File Sharing, Desktop Environment, System Shells, Networking, File Systems"
+"Conky is an advanced, highly configurable system monitor for X based on torsmo.
+
+Development has moved to GitHub at https://github.com/brndnmtthws/conkyConky is an advanced, highly configurable system monitor for X based on torsmo.
+
+Development has moved to GitHub at https://github.com/brndnmtthws/conky","Categories
+Desktop Environment, Systems Administration"
+"Domination is a game that is a bit like the well known board game of Risk or RisiKo. It has many game options and includes many maps.
+
+Written in java it includes a map editor, a simple map format, multiplayer network play, single player, hotseat, 5 user interfaces and many more features, it works in all OSs that run java 1.5 or higher, iOS and Android.Domination is a game that is a bit like the well known board game of Risk or RisiKo. It has many game options and includes many maps.
+
+Written in java it includes a map editor, a simple map format, multiplayer network play, single player, hotseat, 5 user interfaces and many more features, it works in all OSs that run java 1.5 or higher, iOS and Android.","Categories
+Desktop Environment, Board Games, Turn Based Strategy, Vector Graphics"
+"Explore procedural worlds on your GPU. Worlds are defined by GLSL programs that map XYZ coordinates to the distance to the nearest surface. Design your own worlds, modify parameters in realtime and render hires videos of your recorded journey.Explore procedural worlds on your GPU. Worlds are defined by GLSL programs that map XYZ coordinates to the distance to the nearest surface. Design your own worlds, modify parameters in realtime and render hires videos of your recorded journey.","Categories
+Screen Savers, 3D Rendering, Fractal"
+"MIGRATED: https://github.com/igr/dm2
+
+DM2 provides several enhancements that helps in every day work. DM2 can minimize any window to ""floating icon"" (unique feature!). DM2 can minimize window to tray, make it ""on-top"" and provide favorites files/folders in common Open/Save dialogs.MIGRATED: https://github.com/igr/dm2
+
+DM2 provides several enhancements that helps in every day work. DM2 can minimize any window to ""floating icon"" (unique feature!). DM2 can minimize window to tray, make it ""on-top"" and provide favorites files/folders in common Open/Save dialogs.","Categories
+Window Managers"
+a small but powerful text editor for the GNOME desktopa small but powerful text editor for the GNOME desktop,"Categories
+Text Editors, GNOME"
+Xfce is an easy-to-use and easy-to-configure desktop environment using the popular GTK+ toolkit.Xfce is an easy-to-use and easy-to-configure desktop environment using the popular GTK+ toolkit.,"Categories
+Window Managers"
+Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.,"Categories
+Desktop Environment, Software Development, Search"
+"Twin is a text-mode window environment. It supports mouse and multiple windows, has a built-in terminal emulator and window manager, and can serve as display for client applications. Its retro look-and-feel comes with very modern features: it is best described as a VNC-like server, that can use a variety of displays - all with mouse support: from a plain text terminal, to a Linux console, to a full kde, gnome or X11 desktop.
+
+Source code hosted at https://github.com/cosmos72/twinTwin is a text-mode window environment. It supports mouse and multiple windows, has a built-in terminal emulator and window manager, and can serve as display for client applications. Its retro look-and-feel comes with very modern features: it is best described as a VNC-like server, that can use a variety of displays - all with mouse support: from a plain text terminal, to a Linux console, to a full kde, gnome or X11 desktop.
+
+Source code hosted at https://github.com/cosmos72/twin","Categories
+Terminal Emulators, Window Managers"
+"A circular, oval, and spiral dock for Windows implemented in .Net using C#. It is based on the idea of pie menus but in a dock form. Official Hompage: http://circledock.wikidot.comA circular, oval, and spiral dock for Windows implemented in .Net using C#. It is based on the idea of pie menus but in a dock form. Official Hompage: http://circledock.wikidot.com","Categories
+Enlightenment Themes"
+A plugin for the Gnome editor »gedit« that supports you in editing LaTeX documents and BibTeX bibliographies.A plugin for the Gnome editor »gedit« that supports you in editing LaTeX documents and BibTeX bibliographies.,"Categories
+Integrated Development Environments (IDE), TeX/LaTeX, GNOME"
+Folder Size for Windows adds a new column to the Windows Explorer details view that displays the sizes of files and folders. A service scans your hard disk in the background and caches the results. Designed for performance!Folder Size for Windows adds a new column to the Windows Explorer details view that displays the sizes of files and folders. A service scans your hard disk in the background and caches the results. Designed for performance!,"Categories
+Desktop Environment"
+"ASuite is an application launcher to manage an unlimited number of files, folders and webpage for quick access. It is designed to work with removable storage (uses relative paths) media like USB sticks, hard drives, iPods, etc.ASuite is an application launcher to manage an unlimited number of files, folders and webpage for quick access. It is designed to work with removable storage (uses relative paths) media like USB sticks, hard drives, iPods, etc.","Categories
+Desktop Environment, File Managers, Software Distribution"
+RBTray is a small Windows program that runs in the background and allows almost any window to be minimized to the system tray by right clicking its minimize button.RBTray is a small Windows program that runs in the background and allows almost any window to be minimized to the system tray by right clicking its minimize button.,"Categories
+Desktop Environment"
+"Beta - https://sourceforge.net/projects/linkbar/files/Version%201.7.0%20beta/
+Linkbar - ideological heir to desktop panels from Windows XP.
+
+This application that is useful for those users who are on the desktop requires more than one tray to place shortcuts for launching frequently used programs, files, etc.
+
+Note: Windows XP and prior not support.
+
+GitHub - https://github.com/ATGH15102AFMLD/LinkbarBeta - https://sourceforge.net/projects/linkbar/files/Version%201.7.0%20beta/
+Linkbar - ideological heir to desktop panels from Windows XP.
+
+This application that is useful for those users who are on the desktop requires more than one tray to place shortcuts for launching frequently used programs, files, etc.
+
+Note: Windows XP and prior not support.
+
+GitHub - https://github.com/ATGH15102AFMLD/Linkbar","Categories
+Desktop Environment"
+"HotShots is an application for capturing screens and saving them in a variety of image formats as well as adding annotations and graphical data (arrows, lines, texts, ...).HotShots is an application for capturing screens and saving them in a variety of image formats as well as adding annotations and graphical data (arrows, lines, texts, ...).","Categories
+Desktop Environment, Screen Capture, Graphic Design"
+"Korora is a 64bit installable Fedora Remix Live image, which aims to provide a complete out of the box experience for new users, including support for multimedia content. It comes with choice of five desktops, being Cinnamon, GNOME, KDE, MATE and Xfce.Korora is a 64bit installable Fedora Remix Live image, which aims to provide a complete out of the box experience for new users, including support for multimedia content. It comes with choice of five desktops, being Cinnamon, GNOME, KDE, MATE and Xfce.","Categories
+KDE, GNOME, OS distribution"
+Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.,"Categories
+Desktop Environment, Browsers"
+A Note is faulty. Do not use it any more! It will do more bad than good. Your notes may just disappear.A Note is faulty. Do not use it any more! It will do more bad than good. Your notes may just disappear.,"Categories
+Office/Business, Desktop Environment, File Sync"
+"KShutdown is a graphical shutdown utility for Linux and Windows. It allows you to turn off or suspend a computer at a specified time. It features various time and delay options, command-line support, and notifications.KShutdown is a graphical shutdown utility for Linux and Windows. It allows you to turn off or suspend a computer at a specified time. It features various time and delay options, command-line support, and notifications.","Categories
+KDE, System"
+"ReactOS Server is a fork of ReactOS which aims to be compatible to the NT architecture (but not a clone)and optmizire for server systems.Provide secure and stable OS, based on highly modified Linux Kernel, own package system, like ""BSD Ports"".ReactOS Server is a fork of ReactOS which aims to be compatible to the NT architecture (but not a clone)and optmizire for server systems.Provide secure and stable OS, based on highly modified Linux Kernel, own package system, like ""BSD Ports"".","Categories
+KDE, GNOME, System Shells, Operating System Kernels"
+"Don't want to get busted by your boss or your teacher playing Solitaire, chatting or surfing the web? Close (hide or minimize) and open multiple programs with the click of a button. So you won't have to panic anymore...Don't want to get busted by your boss or your teacher playing Solitaire, chatting or surfing the web? Close (hide or minimize) and open multiple programs with the click of a button. So you won't have to panic anymore...","Categories
+Window Managers"
+The KDE on ReactOS project was started to enable the kde desktop on React Operating System.For KDE-windows packages see http://sourceforge.net/projects/kde-windows/.For the qt3 win32 port see http://qtwin.sf.netThe KDE on ReactOS project was started to enable the kde desktop on React Operating System.For KDE-windows packages see http://sourceforge.net/projects/kde-windows/.For the qt3 win32 port see http://qtwin.sf.net,"Categories
+Window Managers, KDE"
+"Krusader is a twin-panel (commander style) filemanager for KDE. It supports mime-type, complete drag n' drop, multiple filesystems, archives, bookmarks etc. Krusader's GUI is intuitive, and allows an easy access to all of your file-management needs.Krusader is a twin-panel (commander style) filemanager for KDE. It supports mime-type, complete drag n' drop, multiple filesystems, archives, bookmarks etc. Krusader's GUI is intuitive, and allows an easy access to all of your file-management needs.","Categories
+KDE, File Managers"
+"gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.","Categories
+Cryptography, GNOME, Networking"
+"Terminal Server Client [tsclient] is a GTK2 frontend for rdesktop and other remote desktop tools.
+
+This project has been superseded by Remmina - https://sourceforge.net/projects/remmina/Terminal Server Client [tsclient] is a GTK2 frontend for rdesktop and other remote desktop tools.
+
+This project has been superseded by Remmina - https://sourceforge.net/projects/remmina/","Categories
+GNOME, Remote Desktop"
+"Define some filters to apply to a list of files, which can be in multiple folders, to rename the whole list at once. It checks the file names, integrates in the Shell (via Explorer context menu), supports regular expressions, ID3 tags, and much more.
+
+Moved to GitHub https://github.com/wernight/renameit/Define some filters to apply to a list of files, which can be in multiple folders, to rename the whole list at once. It checks the file names, integrates in the Shell (via Explorer context menu), supports regular expressions, ID3 tags, and much more.
+
+Moved to GitHub https://github.com/wernight/renameit/","Categories
+Window Managers, System"
+"GnomeBaker is a CD/DVD burning application for the Gnome desktop.
+
+I am considering closing the project, please mail me at mario.danic AT gmail.com if you have any concerns about that.GnomeBaker is a CD/DVD burning application for the Gnome desktop.
+
+I am considering closing the project, please mail me at mario.danic AT gmail.com if you have any concerns about that.","Categories
+GNOME, CD Ripping, DVD Burners, CD Burners"
+"WinLaunch provides a beautiful way to organize and access
+all of your important applications and documents.
+
+The overall style has been heavily influenced by Apples OS X Launchpad.
+
+WinLaunch is being actively developed and improved,
+my goal is to provide the best app launching experience available on Windows.
+
+You can now support the development of WinLaunch on Patreon
+for access to custom themes and priority feature requests
+https://www.patreon.com/WinLaunchWinLaunch provides a beautiful way to organize and access
+all of your important applications and documents.
+
+The overall style has been heavily influenced by Apples OS X Launchpad.
+
+WinLaunch is being actively developed and improved,
+my goal is to provide the best app launching experience available on Windows.
+
+You can now support the development of WinLaunch on Patreon
+for access to custom themes and priority feature requests
+https://www.patreon.com/WinLaunch","Categories
+Desktop Environment, System"
+Minime is a tool that allows you to minimize applications to the system tray using a simple hotkey. What makes this tool somewhat unique is that it keeps your system tray clean by minimizing all applicationsMinime is a tool that allows you to minimize applications to the system tray using a simple hotkey. What makes this tool somewhat unique is that it keeps your system tray clean by minimizing all applications,"Categories
+Window Managers"
+This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.,"Categories
+KDE, Video Downloaders"
+"For Windows users with more than 1 monitor, Mousenitor helps control the way your mouse is permitted to move from one monitor to the other. It's annoying when not using a 2nd monitor to have the mouse keep /spilling/ over it. Mousenitor is the cure.For Windows users with more than 1 monitor, Mousenitor helps control the way your mouse is permitted to move from one monitor to the other. It's annoying when not using a 2nd monitor to have the mouse keep /spilling/ over it. Mousenitor is the cure.","Categories
+Office/Business, Desktop Environment"
+"Notion is a tiling, tabbed window manager for the X window system:
+
+* Tiling: you divide the screen into non-overlapping 'tiles'. Every window occupies one tile, and is maximized to it
+
+* Tabbing: a tile may contain multiple windows - they will be 'tabbed'
+
+* Static: most tiled window managers are 'dynamic', meaning they automatically resize and move around tiles as windows appear and disappear. Notion, by contrast, does not automatically change the tiling. You're in control.
+
+Features include:
+
+* Workspaces: each workspace has its own tiling
+
+* Multihead: the mod_xinerama plugin provides very nice dual-monitor support
+
+* RandR: mod_xrandr expands on mod_xinerama and picks up changes in the randr configuration without the need for restarting Notion
+
+* Extensibility: Notion can be extended with lua scripts.Notion is a tiling, tabbed window manager for the X window system:
+
+* Tiling: you divide the screen into non-overlapping 'tiles'. Every window occupies one tile, and is maximized to it
+
+* Tabbing: a tile may contain multiple windows - they will be 'tabbed'
+
+* Static: most tiled window managers are 'dynamic', meaning they automatically resize and move around tiles as windows appear and disappear. Notion, by contrast, does not automatically change the tiling. You're in control.
+
+Features include:
+
+* Workspaces: each workspace has its own tiling
+
+* Multihead: the mod_xinerama plugin provides very nice dual-monitor support
+
+* RandR: mod_xrandr expands on mod_xinerama and picks up changes in the randr configuration without the need for restarting Notion
+
+* Extensibility: Notion can be extended with lua scripts.","Categories
+Window Managers"
+"Gui for aircrack-ng that can crack WEP and WPA networks, automatically scans for available networks, provides fake authentication and injection support.Gui for aircrack-ng that can crack WEP and WPA networks, automatically scans for available networks, provides fake authentication and injection support.","Categories
+Security, GNOME, Networking, Password Generators"
+"regexxer is a nifty GUI search/replace tool featuring Perl-style regular expressions. If you need project-wide substitution and you're tired of hacking sed command lines together, then you should definitely give regexxer a try.regexxer is a nifty GUI search/replace tool featuring Perl-style regular expressions. If you need project-wide substitution and you're tired of hacking sed command lines together, then you should definitely give regexxer a try.","Categories
+Text Processing, GNOME, Software Development"
+EDE is fast desktop environment with familiar look and feel. It should work fine on slower computers too.EDE is fast desktop environment with familiar look and feel. It should work fine on slower computers too.,"Categories
+Desktop Environment, Software Development"
+"Style for Qt4, derived from the Style for the Oxygen projectStyle for Qt4, derived from the Style for the Oxygen project","Categories
+KDE Themes"
+"Comix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books, but also serves as a generic viewer. It reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as well as plain image files.Comix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books, but also serves as a generic viewer. It reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as well as plain image files.","Categories
+GNOME, Games/Entertainment, Image Viewers"
+Achelous is attempt to clone Mac OS X for the Intel X86 Chipset. There are currently two teams working on the project: the Kernel team and the GUI team.Achelous is attempt to clone Mac OS X for the Intel X86 Chipset. There are currently two teams working on the project: the Kernel team and the GUI team.,"Categories
+Desktop Environment, Operating System Kernels, Installation/Setup"
+"xmlroff is a fast, multilingual, multi-platform XSL formatter that transforms XSL-FO (or any XML with a stylesheet) into PDF or PostScript. New development is at http://xmlroff.org. This SF project is inactive.xmlroff is a fast, multilingual, multi-platform XSL formatter that transforms XSL-FO (or any XML with a stylesheet) into PDF or PostScript. New development is at http://xmlroff.org. This SF project is inactive.","Categories
+Text Processing, GNOME, Printing"
+A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.,"Categories
+Office/Business, Desktop Environment, Scanner, OCR"
+"Syllable Desktop is a complete operating system that is easy to use, powerful, lightweight and extraordinarily fast and responsive. It has its own kernel, filesystem, GUI and applications. Syllable Server is a matching small and efficient Linux server.Syllable Desktop is a complete operating system that is easy to use, powerful, lightweight and extraordinarily fast and responsive. It has its own kernel, filesystem, GUI and applications. Syllable Server is a matching small and efficient Linux server.","Categories
+Desktop Environment, Operating System Kernels, OS distribution"
+The XonX project is used by developers of XFree86 for Darwin and Mac OS X to share and distribute code and information. All of the code developed is committed to the XFree86 Project's CVS server.The XonX project is used by developers of XFree86 for Darwin and Mac OS X to share and distribute code and information. All of the code developed is committed to the XFree86 Project's CVS server.,"Categories
+Desktop Environment, Graphics"
+"The Autosofted Auto Keyboard Presser and Recorder is a fully hotkey compatible tool, it is also very simple to use. This is a FREE to download auto keyboard button pressing program which enables you to control which specified keys you want to keep getting pressed repeatedly.
+
+You can also control how any times you want the keys to get pressed and how long you want to wait between each key press.The Autosofted Auto Keyboard Presser and Recorder is a fully hotkey compatible tool, it is also very simple to use. This is a FREE to download auto keyboard button pressing program which enables you to control which specified keys you want to keep getting pressed repeatedly.
+
+You can also control how any times you want the keys to get pressed and how long you want to wait between each key press.","Categories
+Desktop Environment, Multi-User Dungeons (MUD), MMORPG"
+"Ultimate Edition Linux, previously ""Ubuntu Ultimate Edition"". We cater to a large base of *nix users including, but certainly not limited to gamers & low resource computers. We have a Ultimate Edition for virtually any user.Ultimate Edition Linux, previously ""Ubuntu Ultimate Edition"". We cater to a large base of *nix users including, but certainly not limited to gamers & low resource computers. We have a Ultimate Edition for virtually any user.","Categories
+KDE, GNOME, Games/Entertainment"
+Sodipodi is general vector illustrating application for Linux/Unix and Windows. It uses W3C SVG as native file and in-memory image format and can do many neat things.Sodipodi is general vector illustrating application for Linux/Unix and Windows. It uses W3C SVG as native file and in-memory image format and can do many neat things.,"Categories
+GNOME, Image Viewers, Vector Graphics"
+"Desktop wallpaper management application for Gnome. Cortina changes wallpapers by time. It works as an tray application with an configuration interface. It works great under Ubuntu Lucid and all other gnome using distributions.Cortina is a lightweigh
+
+Repository:
+ppa:cs-sniffer/cortina
+http://ppa.launchpad.net/cs-sniffer/cortina/ubuntuDesktop wallpaper management application for Gnome. Cortina changes wallpapers by time. It works as an tray application with an configuration interface. It works great under Ubuntu Lucid and all other gnome using distributions.Cortina is a lightweigh
+
+Repository:
+ppa:cs-sniffer/cortina
+http://ppa.launchpad.net/cs-sniffer/cortina/ubuntu","Categories
+GNOME, Photo Management"
+"emerge is an alternate windows shell. It's purpose is to replace Windows Explorer as your desktop user interface, providing similar functionality, with the additional plugins to provide even more.emerge is an alternate windows shell. It's purpose is to replace Windows Explorer as your desktop user interface, providing similar functionality, with the additional plugins to provide even more.","Categories
+Front-Ends, Desktop Environment"
+Double Agent is an Open Source alternative to Microsoft™ Agent that allows Agent applications to work on Windows 7 or later. It is available in both 32-bit and 64-bit versions.Double Agent is an Open Source alternative to Microsoft™ Agent that allows Agent applications to work on Windows 7 or later. It is available in both 32-bit and 64-bit versions.,"Categories
+Desktop Environment, Multimedia"
+"Add support for making Gmail the default mail application for the GNOME desktop. ""Gmail"" will be a choice for Mail Reader in the Preferred Applications dialog. ""Mailto"" links, ""Send Link"", etc., will be handled by Gmail.Add support for making Gmail the default mail application for the GNOME desktop. ""Gmail"" will be a choice for Mail Reader in the Preferred Applications dialog. ""Mailto"" links, ""Send Link"", etc., will be handled by Gmail.","Categories
+Email Clients, GNOME"
+"Modificación de HEN 3.0.3 Contiene:
+HEN 3.0.3 Oficial
+
+-Traducción Español de la sección Red para (Hybrid Firmware Tools )
+Herramientas de Firmware Hibrido
+
+-Activador de HEN personalizado en español + icono nuevo
+-Fix para instalar 29 tiendas al mismo tiempo integrado
+-Tema personalizado moderno que tiene que ser activado luego de instalar el XHEN MOD+
+-Logo de inicio personalizado XHEN MOD+ | + Sonidos de PS4
+-Imágenes para perfil de usuario personalizados
+-Contiene varios archivos personalizados extraídos de PS3 4K Pro con animaciones y efectos
+-Sonido de arranque de PS4
+-Sonidos de GameBoot de PS4
+-Sonidos de XMB de PS4
+-Icono de PS4 Store
+-XHEN MOD+ Logotipo de Arranque
+-XHEN MOD+ Logotipo de GameBoot
+-XHEN MOD+ Textos
+-PSP Fondos de Onda
+-PSP Fondos de Colores
+-Botones Animados de Playstation
+-Menus Secundarios Animados
+-Icono de Reloj Animado
+-Menu de Opciones de Juego Animados
+-Indicador de Bateria de Color
+-Soporte 2160p en Salida de Video
+Y Mas...Modificación de HEN 3.0.3 Contiene:
+HEN 3.0.3 Oficial
+
+-Traducción Español de la sección Red para (Hybrid Firmware Tools )
+Herramientas de Firmware Hibrido
+
+-Activador de HEN personalizado en español + icono nuevo
+-Fix para instalar 29 tiendas al mismo tiempo integrado
+-Tema personalizado moderno que tiene que ser activado luego de instalar el XHEN MOD+
+-Logo de inicio personalizado XHEN MOD+ | + Sonidos de PS4
+-Imágenes para perfil de usuario personalizados
+-Contiene varios archivos personalizados extraídos de PS3 4K Pro con animaciones y efectos
+-Sonido de arranque de PS4
+-Sonidos de GameBoot de PS4
+-Sonidos de XMB de PS4
+-Icono de PS4 Store
+-XHEN MOD+ Logotipo de Arranque
+-XHEN MOD+ Logotipo de GameBoot
+-XHEN MOD+ Textos
+-PSP Fondos de Onda
+-PSP Fondos de Colores
+-Botones Animados de Playstation
+-Menus Secundarios Animados
+-Icono de Reloj Animado
+-Menu de Opciones de Juego Animados
+-Indicador de Bateria de Color
+-Soporte 2160p en Salida de Video
+Y Mas...","Categories
+Desktop Environment, Games/Entertainment, Console Games"
+"Lilidog is a lightweight full featured distribution based on Debian with Openbox. Click on ""Files"" for a full description and available versions.
+The Download button defaults to the stable Lilidog-amd64 Bullseye version. Please go to Files -> Releases, to access the other versions.
+
+Website: https://lilidog.org/
+Forum: https://www.forum.lilidog.org/Lilidog is a lightweight full featured distribution based on Debian with Openbox. Click on ""Files"" for a full description and available versions.
+The Download button defaults to the stable Lilidog-amd64 Bullseye version. Please go to Files -> Releases, to access the other versions.
+
+Website: https://lilidog.org/
+Forum: https://www.forum.lilidog.org/","Categories
+Window Managers, OS distribution, Live CD"
+"SystemTrayMenu is an open source 'Desktop Toolbar' or 'Start Menu' alternative.
+It offers a clear, personalized menu which can be controlled via keyboard, mouse or touchscreen. Files, links and folders are organized in several levels as dropdown menus. Various options like appearance, hotkey, autostart and behavior can be adjusted.
+It is written in C# and using .NET 6.
+
+SystemTrayMenu is portable, so it does not need to be installed. After downloading the zip file, unzip the folder, then start SystemTrayMenu.exe. After starting the application the first time you have to choose the root directory. In this directory you should put shortcuts, files and folders (App, Game, Script, URL, Network), which you are often using and especially when you can not find them over the windows start menu search. You can also consider to put there all files from your desktop.
+
+If you have ideas, questions or a problem you can contact the developer Markus Hofknecht via GitHub or email.SystemTrayMenu is an open source 'Desktop Toolbar' or 'Start Menu' alternative.
+It offers a clear, personalized menu which can be controlled via keyboard, mouse or touchscreen. Files, links and folders are organized in several levels as dropdown menus. Various options like appearance, hotkey, autostart and behavior can be adjusted.
+It is written in C# and using .NET 6.
+
+SystemTrayMenu is portable, so it does not need to be installed. After downloading the zip file, unzip the folder, then start SystemTrayMenu.exe. After starting the application the first time you have to choose the root directory. In this directory you should put shortcuts, files and folders (App, Game, Script, URL, Network), which you are often using and especially when you can not find them over the windows start menu search. You can also consider to put there all files from your desktop.
+
+If you have ideas, questions or a problem you can contact the developer Markus Hofknecht via GitHub or email.","Categories
+Window Managers, Search, File Systems"
+"MPos is a minimalistic and easy to use tool to track the current position of the cursor on the screen. MPos especially considers High-DPI monitors and DPI scaling of Windows 10. The mouse position is provided in physical/ unscaled Windows pixels and in coordinates scaled by DPI-virtualization. The tool also provides information about the DPI scaling and the raw/ physical DPI of the current monitor.
+
+Note: MPos requires Windows 8.1 or newer and .NET Framework v.4.6 or newer.
+
+Get support:
+https://sourceforge.net/p/mpos/discussion/
+https://github.com/bluegrams/MPos/issues
+
+Support the development:
+https://ko-fi.com/alxnullMPos is a minimalistic and easy to use tool to track the current position of the cursor on the screen. MPos especially considers High-DPI monitors and DPI scaling of Windows 10. The mouse position is provided in physical/ unscaled Windows pixels and in coordinates scaled by DPI-virtualization. The tool also provides information about the DPI scaling and the raw/ physical DPI of the current monitor.
+
+Note: MPos requires Windows 8.1 or newer and .NET Framework v.4.6 or newer.
+
+Get support:
+https://sourceforge.net/p/mpos/discussion/
+https://github.com/bluegrams/MPos/issues
+
+Support the development:
+https://ko-fi.com/alxnull","Categories
+Desktop Environment, Software Development"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Based on Arch Linux
+Gnome 3 Desktop
+Stylish Themes & Icons
+Rolling Release
+Startup greeting","Categories
+GNOME, Operating System Kernels"
+"For measuring your screen in pixels
+(Requires .NET Framework 4.0 or higher)For measuring your screen in pixels
+(Requires .NET Framework 4.0 or higher)","Categories
+Desktop Environment"

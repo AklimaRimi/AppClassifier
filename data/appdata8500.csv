@@ -1,0 +1,579 @@
+Description,Category
+"SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman). Work provided by UK Sheffield University funded by (AKT) an IRC sponsored by EPSRC, grant number GR/N15764/01.SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman). Work provided by UK Sheffield University funded by (AKT) an IRC sponsored by EPSRC, grant number GR/N15764/01.","Categories
+Algorithms, Artificial Intelligence"
+"The source code has been migrated and is now hosted on Github: https://github.com/jenetics/jenetics
+
+Jenetics is an advanced Genetic Algorithm, Evolutionary Algorithm and Genetic Programming library, respectively, written in modern day Java. It is designed with a clear separation of the several algorithm concepts, e. g. Gene, Chromosome, Genotype, Phenotype, Population and fitness Function. Jenetics allows you to minimize or maximize the given fitness function without tweaking it. In contrast to other GA implementations, the library uses the concept of an evolution stream (EvolutionStream) for executing the evolution steps. Since the EvolutionStream implements the Java Stream interface, it works smoothly with the rest of the Java Stream API.
+
+Other repositories:
+- https://github.com/jenetics/jenetics
+
+Maven:
+- https://mvnrepository.com/artifact/io.jeneticsThe source code has been migrated and is now hosted on Github: https://github.com/jenetics/jenetics
+
+Jenetics is an advanced Genetic Algorithm, Evolutionary Algorithm and Genetic Programming library, respectively, written in modern day Java. It is designed with a clear separation of the several algorithm concepts, e. g. Gene, Chromosome, Genotype, Phenotype, Population and fitness Function. Jenetics allows you to minimize or maximize the given fitness function without tweaking it. In contrast to other GA implementations, the library uses the concept of an evolution stream (EvolutionStream) for executing the evolution steps. Since the EvolutionStream implements the Java Stream interface, it works smoothly with the rest of the Java Stream API.
+
+Other repositories:
+- https://github.com/jenetics/jenetics
+
+Maven:
+- https://mvnrepository.com/artifact/io.jenetics","Categories
+Genetic Algorithms, Bio-Informatics, Artificial Intelligence"
+"Modbus RTU and TCP/IP slave simulator. For Testing, Training or Learning these protocols - includes an AllenBradley DF1 master and a slave mode.Modbus RTU and TCP/IP slave simulator. For Testing, Training or Learning these protocols - includes an AllenBradley DF1 master and a slave mode.","Categories
+HMI, SCADA"
+Biogenesis is an artificial life program that simulates the processes involved in the evolution of organisms. It shows colored segment based organisms that mutate and evolve in a 2D environment. Biogenesis is based on Primordial Life.Biogenesis is an artificial life program that simulates the processes involved in the evolution of organisms. It shows colored segment based organisms that mutate and evolve in a 2D environment. Biogenesis is based on Primordial Life.,"Categories
+Simulation Games, Intelligent Agents, Education"
+"A framework and runtime environment for exploring agent-based models designed to support the definition of models using an expressive, high-level and extensible Java API and to support the exploration of these models in both interactive and batch modA framework and runtime environment for exploring agent-based models designed to support the definition of models using an expressive, high-level and extensible Java API and to support the exploration of these models in both interactive and batch mod","Categories
+Frameworks, Simulation"
+"ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.","Categories
+File Sharing, Security, Intelligent Agents"
+"Display, log and upload data to the internet from your Oregon Scientific or AcuRite 02032C weather station. The Arduino WxShield also supported. See project web site for FAQs. Use Open Discussion for support requests.Display, log and upload data to the internet from your Oregon Scientific or AcuRite 02032C weather station. The Arduino WxShield also supported. See project web site for FAQs. Use Open Discussion for support requests.","Categories
+Interface Engine/Protocol Translator, Earth Sciences, Weather, Weather Station"
+"Open source server for GPS trackers. It includes support for popular devices: TK101, TK102, TK103, TK201, TK202, TK203, TK206, GPS-103, GL100, GL200, AVL-05, AVL-08, Mini MT, GT30i, GT60, VT300, VT310, VT400, PST-AVL01, PT60, PT300X, PT30, MVT340, MVT380, MVT600, GT30, GT30X, MT80, GT200, GT300, GT500, Datamax, ST210, ST900, ST910 and many others. Application includes embedded web server to track devices on map.
+
+Official web page: https://www.traccar.org/
+
+Demo: https://www.traccar.org/demo-server/
+
+Source code repository: https://github.com/tananaev/traccar
+
+Issues tracker: https://github.com/tananaev/traccar/issuesOpen source server for GPS trackers. It includes support for popular devices: TK101, TK102, TK103, TK201, TK202, TK203, TK206, GPS-103, GL100, GL200, AVL-05, AVL-08, Mini MT, GT30i, GT60, VT300, VT310, VT400, PST-AVL01, PT60, PT300X, PT30, MVT340, MVT380, MVT600, GT30, GT30X, MT80, GT200, GT300, GT500, Datamax, ST210, ST900, ST910 and many others. Application includes embedded web server to track devices on map.
+
+Official web page: https://www.traccar.org/
+
+Demo: https://www.traccar.org/demo-server/
+
+Source code repository: https://github.com/tananaev/traccar
+
+Issues tracker: https://github.com/tananaev/traccar/issues","Categories
+Mapping, GPS, GIS"
+"TreeForm Syntax tree drawing software is a Linguistic Syntax/Semantics tree drawing editor. Designed for graphical n-ary tree drawing. Mac users can install the software through the new package, but must give authority through ""System Preferences"" > ""Security & Privacy"". Windows and Linux users can run the software through the JAR file directly. All users must have Java 8 or higher installed. https://java.com/en/download/TreeForm Syntax tree drawing software is a Linguistic Syntax/Semantics tree drawing editor. Designed for graphical n-ary tree drawing. Mac users can install the software through the new package, but must give authority through ""System Preferences"" > ""Security & Privacy"". Windows and Linux users can run the software through the JAR file directly. All users must have Java 8 or higher installed. https://java.com/en/download/","Categories
+Data Visualization, Computer Aided Instruction (CAI)"
+"Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.","Categories
+Board Games, Puzzle Games, User Interface (UI), File Managers, HMI, Media Players"
+KTechlab is an IDE for microcontrollers and electronics.KTechlab is an IDE for microcontrollers and electronics.,"Categories
+Electronic Design Automation (EDA)"
+"Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO moduleHunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO module","Categories
+Word Processors, Search Engines, Internationalization (I18N), Artificial Intelligence, HMI, Information Analysis"
+"The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.","Categories
+Data Formats, Other/Nonlisted Topic, Information Analysis"
+"OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.","Categories
+Bio-Informatics, Billing, Healthcare, Clinic Management, Pharmacy, Hospital Management"
+"CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.","Categories
+Build Tools, Compilers, Interpreters, System Shells, Artificial Intelligence, Mathematics"
+"MAX home automation is a GTK+ application to manage ELV/eQ-3 MAX! cubes. A cube is a gateway to a network of radiator thermostats, shutter contacts etc. Radiator and wall-mounted thermostat schedule can be edited uploaded, stored into a file and restored from there. Wall-mounted thermostat temperature graphs are indicated on a separate page sorted by the installation room. HTTP server is provided for integration with HTTP-enabled controls. E.g. thermostats can be queried and controlled remotely via HTTP GET-queries.MAX home automation is a GTK+ application to manage ELV/eQ-3 MAX! cubes. A cube is a gateway to a network of radiator thermostats, shutter contacts etc. Radiator and wall-mounted thermostat schedule can be edited uploaded, stored into a file and restored from there. Wall-mounted thermostat temperature graphs are indicated on a separate page sorted by the installation room. HTTP server is provided for integration with HTTP-enabled controls. E.g. thermostats can be queried and controlled remotely via HTTP GET-queries.","Categories
+Building Automation, Thermostat, MQTT Brokers"
+"Modbus Simulator for RS-232 and TCP/IP. Fork of mod_RSsim (https://sourceforge.net/projects/modrssim).
+
+Requires Microsoft Visual C++ Redistributable for Visual Studio 2010.
+
+For 32 bit and 64 bit Operating Systems
+http://go.microsoft.com/fwlink/?LinkID=177916&clcid=0x489Modbus Simulator for RS-232 and TCP/IP. Fork of mod_RSsim (https://sourceforge.net/projects/modrssim).
+
+Requires Microsoft Visual C++ Redistributable for Visual Studio 2010.
+
+For 32 bit and 64 bit Operating Systems
+http://go.microsoft.com/fwlink/?LinkID=177916&clcid=0x489","Categories
+HMI"
+"TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org. It contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads. TurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance. TurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative.
+
+TurboVNC forked from TightVNC in 2004 and still covers all of the TightVNC 1.3.x features, but TurboVNC contains numerous feature enhancements and bug fixes relative to TightVNC, and it compresses 3D and video workloads much better than TightVNC while using generally only 5-20% of the CPU time of the latter. Using non-default settings, TurboVNC can also be made to compress 2D workloads as ""tightly"" as TightVNC.TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org. It contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads. TurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance. TurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative.
+
+TurboVNC forked from TightVNC in 2004 and still covers all of the TightVNC 1.3.x features, but TurboVNC contains numerous feature enhancements and bug fixes relative to TightVNC, and it compresses 3D and video workloads much better than TightVNC while using generally only 5-20% of the CPU time of the latter. Using non-default settings, TurboVNC can also be made to compress 2D workloads as ""tightly"" as TightVNC.","Categories
+Systems Administration, Distributed Computing, Data Visualization, Remote Desktop"
+"Circuitmod is a circuit simulator that extend the capacity of the original Falstad's Java Circuit Simulator into CMOS Chips, Led Arrays, Led Matrix and PIC Programming. The Horizon is limitless.
+Try today.Circuitmod is a circuit simulator that extend the capacity of the original Falstad's Java Circuit Simulator into CMOS Chips, Led Arrays, Led Matrix and PIC Programming. The Horizon is limitless.
+Try today.","Categories
+Simulation, Electronic Design Automation (EDA), Computer Aided Instruction (CAI)"
+"Program for downloading web source maps or local files maps for various programs or GPS devices.
+Terra Incognita™ main features:
+navigating through map by simple clicking
+generating OziExplorer, Kmz, JNX, GPSdash or TrekBuddy calibrated map file
+possibility to use many web map sources Google Maps™, Bing™, Open street map ...
+managing of waypoints or tracks saved in gpx and many other formats
+selected user defined map area for saving
+simplified and easy user interface
+downloading and saving maps on background
+automatic split of very large areas to many smaller map filesProgram for downloading web source maps or local files maps for various programs or GPS devices.
+Terra Incognita™ main features:
+navigating through map by simple clicking
+generating OziExplorer, Kmz, JNX, GPSdash or TrekBuddy calibrated map file
+possibility to use many web map sources Google Maps™, Bing™, Open street map ...
+managing of waypoints or tracks saved in gpx and many other formats
+selected user defined map area for saving
+simplified and easy user interface
+downloading and saving maps on background
+automatic split of very large areas to many smaller map files","Categories
+GPS"
+"This software implements the IEC60870-5-104 protocol (client side) for substation data acquisition and control via tcp/ip network using the QT UI Framework. It can be compiled on Linux and Windows platforms. It's possible to poll and view data from the remote system (RTU) and also send commands.
+>>> Have a look also at my new SCADA project here:
+https://github.com/riclolsen/json-scadaThis software implements the IEC60870-5-104 protocol (client side) for substation data acquisition and control via tcp/ip network using the QT UI Framework. It can be compiled on Linux and Windows platforms. It's possible to poll and view data from the remote system (RTU) and also send commands.
+>>> Have a look also at my new SCADA project here:
+https://github.com/riclolsen/json-scada","Categories
+Data Formats, SCADA, Test and Measurement"
+"Docear (pronounced dog-ear) is what we call an “academic literature suite”. It integrates everything you need to search, organize and create academic literature in a single application: a digital library, reference manager, PDF and file manager, note taking and mind mapping. And the best: Docear works seemlessly with many existing tools like Mendeley, Microsoft Word, and Foxit Reader.
+
+Docear is free and open source, based on Freeplane, funded by the German Federal Ministry of Technology and developed by scientists from around the world, among others from OvGU, and the University of California, Berkeley.Docear (pronounced dog-ear) is what we call an “academic literature suite”. It integrates everything you need to search, organize and create academic literature in a single application: a digital library, reference manager, PDF and file manager, note taking and mind mapping. And the best: Docear works seemlessly with many existing tools like Mendeley, Microsoft Word, and Foxit Reader.
+
+Docear is free and open source, based on Freeplane, funded by the German Federal Ministry of Technology and developed by scientists from around the world, among others from OvGU, and the University of California, Berkeley.","Categories
+Word Processors, Scientific/Engineering, Research"
+"This material enables IBM SPSS Statistics users to run code written in the R language inside Statistics.
+
+Additional free items for R in Statistics and other materials are available from the SPSS Community at www.ibm.com/developerworks/spssdevcentralThis material enables IBM SPSS Statistics users to run code written in the R language inside Statistics.
+
+Additional free items for R in Statistics and other materials are available from the SPSS Community at www.ibm.com/developerworks/spssdevcentral","Categories
+Data Visualization, Business Intelligence, Statistics"
+injooosm integrades OpenStreetMap in Joomla. It shows Tracks and Waypoints in a SlippyMap. Registred Users can uploads own Files.injooosm integrades OpenStreetMap in Joomla. It shows Tracks and Waypoints in a SlippyMap. Registred Users can uploads own Files.,"Categories
+Dynamic Content, GPS"
+"Firmware development/ improvement for the digital storage oscilloscope ""Welec 2000a- series"".Firmware development/ improvement for the digital storage oscilloscope ""Welec 2000a- series"".","Categories
+Data Visualization"
+"C++, Matlab and Python library for Hidden-state Conditional Random Fields. Implements 3 algorithms: LDCRF, HCRF and CRF. For Windows and Linux, 32- and 64-bits. Optimized for multi-threading. Works with sparse or dense input features.C++, Matlab and Python library for Hidden-state Conditional Random Fields. Implements 3 algorithms: LDCRF, HCRF and CRF. For Windows and Linux, 32- and 64-bits. Optimized for multi-threading. Works with sparse or dense input features.","Categories
+Algorithms, Library, Information Analysis"
+"A Java interface and implementation for the W3C Web Ontology Language (OWL), used to represent Semantic Web ontologies. The API is focused towards OWL 2 and offers an interface to inference engines and validation functionality.A Java interface and implementation for the W3C Web Ontology Language (OWL), used to represent Semantic Web ontologies. The API is focused towards OWL 2 and offers an interface to inference engines and validation functionality.","Categories
+WWW/HTTP, Artificial Intelligence"
+"Eclipse Verilog editor is a plugin for the Eclipse IDE. It provides Verilog(IEEE-1364) and VHDL language specific code viewer, contents outline, code assist etc. It helps coding and debugging in hardware development based on Verilog or VHDL.Eclipse Verilog editor is a plugin for the Eclipse IDE. It provides Verilog(IEEE-1364) and VHDL language specific code viewer, contents outline, code assist etc. It helps coding and debugging in hardware development based on Verilog or VHDL.","Categories
+Integrated Development Environments (IDE), Electronic Design Automation (EDA)"
+"This ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1cThis ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1c","Categories
+Telephony, Cryptography, Code Generators, Compilers, Networking, Interface Engine/Protocol Translator"
+"MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.","Categories
+BBS, Message Board, Mathematics, Computer Aided Instruction (CAI), Blogging, Wiki"
+"UnBBayes is a probabilistic network framework written in Java. It has both a GUI and an API with inference, sampling, learning and evaluation. It supports Bayesian networks, influence diagrams, MSBN, OOBN, HBN, MEBN/PR-OWL, PRM, structure, parameter and incremental learning.
+
+Please, visit our wiki (https://sourceforge.net/p/unbbayes/wiki/Home/) for more information. Check out the license section (https://sourceforge.net/p/unbbayes/wiki/License/) for our licensing policy.UnBBayes is a probabilistic network framework written in Java. It has both a GUI and an API with inference, sampling, learning and evaluation. It supports Bayesian networks, influence diagrams, MSBN, OOBN, HBN, MEBN/PR-OWL, PRM, structure, parameter and incremental learning.
+
+Please, visit our wiki (https://sourceforge.net/p/unbbayes/wiki/Home/) for more information. Check out the license section (https://sourceforge.net/p/unbbayes/wiki/License/) for our licensing policy.","Categories
+Artificial Intelligence"
+"Impact is an explicit Finite Element Program Suite which simulates dynamic impact events. It has a range of elements, contact handling and different material laws. Models can be created, solved and analyzed with the included pre- and postprocessor. Impact is based on an Explicit Time stepping algorithm. These kind of codes are used to simulate dynamic phenomena such as car crashes and similar, usually involving large deformations.Impact is an explicit Finite Element Program Suite which simulates dynamic impact events. It has a range of elements, contact handling and different material laws. Models can be created, solved and analyzed with the included pre- and postprocessor. Impact is based on an Explicit Time stepping algorithm. These kind of codes are used to simulate dynamic phenomena such as car crashes and similar, usually involving large deformations.","Categories
+Simulation, Data Visualization, Computer-aided technologies (CADD/CAM/CAE)"
+Stand-alone application and Python tools for interactive and/or batch processing analysis of X-Ray Fluorescence Spectra. Graphical user interface (GUI) and batch processing capabilities provided.Stand-alone application and Python tools for interactive and/or batch processing analysis of X-Ray Fluorescence Spectra. Graphical user interface (GUI) and batch processing capabilities provided.,"Categories
+Chemistry, Data Visualization, Physics"
+"A Binary Decision Diagram library, with :
+many highly efficient vectorized BDD operations,
+dynamic variable reordering,
+automated garbage collection,
+a C++ interface with automatic reference counting,
+and much more.A Binary Decision Diagram library, with :
+many highly efficient vectorized BDD operations,
+dynamic variable reordering,
+automated garbage collection,
+a C++ interface with automatic reference counting,
+and much more.","Categories
+Electronic Design Automation (EDA), Mathematics"
+"Panini is a visual tool for creating perspective views from panoramic and wide angle photographs. More than a pano viewer, more than a view camera, with features of both. For Linux/Unix, Win32, and Mac systems with OpenGL 2.0 +
+Nov. 2017: now hosted at https://github.com/lazarus-pkgs/paniniPanini is a visual tool for creating perspective views from panoramic and wide angle photographs. More than a pano viewer, more than a view camera, with features of both. For Linux/Unix, Win32, and Mac systems with OpenGL 2.0 +
+Nov. 2017: now hosted at https://github.com/lazarus-pkgs/panini","Categories
+Other/Nonlisted Topic, Data Visualization"
+The Hamlib project's purpose is to develop flexible and portable shared libraries that offer a standardized API to control any radio oriented equipment through a computer interface.The Hamlib project's purpose is to develop flexible and portable shared libraries that offer a standardized API to control any radio oriented equipment through a computer interface.,"Categories
+Ham Radio, Interface Engine/Protocol Translator"
+"PreviSat is a satellite tracking software for observing purposes. Very easy to use, it shows positions of artificial satellites in real-time or manual mode. PreviSat is able to make predictions of their passes, predictions of MetOp and COSMO-SkyMed flares, ISS transits and several other calculations.PreviSat is a satellite tracking software for observing purposes. Very easy to use, it shows positions of artificial satellites in real-time or manual mode. PreviSat is able to make predictions of their passes, predictions of MetOp and COSMO-SkyMed flares, ISS transits and several other calculations.","Categories
+Astronomy, Physics, Education"
+Eclim is a set of eclipse and vim plugins to integrate the two projects.Eclim is a set of eclipse and vim plugins to integrate the two projects.,"Categories
+Integrated Development Environments (IDE), Software Development, Scientific/Engineering"
+"AJT is a set of utility classes for Java for handling some bioinformatics data, graphics file export, GUI widgets, and classes that should long have been added to the official Java API.AJT is a set of utility classes for Java for handling some bioinformatics data, graphics file export, GUI widgets, and classes that should long have been added to the official Java API.","Categories
+Software Development, Graphics, Bio-Informatics"
+PARs is a bioinformatics tool for the analysis of cis-regulatory DNA sequences. Composed of two parts: a suite of sequence analysis algorithms for predicting cis-binding sites in DNA sequences and a GUI for visualisation and exploration of the results.PARs is a bioinformatics tool for the analysis of cis-regulatory DNA sequences. Composed of two parts: a suite of sequence analysis algorithms for predicting cis-binding sites in DNA sequences and a GUI for visualisation and exploration of the results.,"Categories
+Bio-Informatics"
+GSim - free software tool for visualisation and processing of experimental and simulated nuclear magnetic resonance (NMR) spectra.GSim - free software tool for visualisation and processing of experimental and simulated nuclear magnetic resonance (NMR) spectra.,"Categories
+Molecular Science, Chemistry"
+"EdytorNC is text editor for CNC programmers. Some features : bolt holes calculation; solutions of triangles calculation; speed, feed calculation; conversion inch/mm, mm/inch; code colouring; RS232 data transmission with automatic file saving and possibility to download new CNC program directly from machine (beta function, look in tool tips in serial port configuration dialog).
+Clipboard to keep texts from system clipboard.EdytorNC is text editor for CNC programmers. Some features : bolt holes calculation; solutions of triangles calculation; speed, feed calculation; conversion inch/mm, mm/inch; code colouring; RS232 data transmission with automatic file saving and possibility to download new CNC program directly from machine (beta function, look in tool tips in serial port configuration dialog).
+Clipboard to keep texts from system clipboard.","Categories
+Mechanical and Civil Engineering"
+Grinder is a versatile open-source bioinformatic tool to create simulated omic shotgun and amplicon sequence libraries for all main sequencing platforms.Grinder is a versatile open-source bioinformatic tool to create simulated omic shotgun and amplicon sequence libraries for all main sequencing platforms.,"Categories
+Bio-Informatics"
+The VISL Constraint Grammar Compiler is a natural language parser generator. It is an implementation of Pasi Tapanainen's CG-2 constraint grammar formalism.The VISL Constraint Grammar Compiler is a natural language parser generator. It is an implementation of Pasi Tapanainen's CG-2 constraint grammar formalism.,"Categories
+Artificial Intelligence"
+"Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.","Categories
+Communications, Office/Business, Frameworks, Hardware Drivers, Interface Engine/Protocol Translator"
+"The aim of the project is to develop an open source iSCSI target with professional features, works well in enterprise environment under real workload, and is scalable and versatile enough to meet the challenge of future storage needs and developements.The aim of the project is to develop an open source iSCSI target with professional features, works well in enterprise environment under real workload, and is scalable and versatile enough to meet the challenge of future storage needs and developements.","Categories
+Software Development, Backup, Networking, Hardware Drivers, Clustering, Scientific/Engineering"
+The OpenDSS is an electric power Distribution System Simulator (DSS) for supporting distributed resource integration and grid modernization efforts. See Discussion Forum for latest news.The OpenDSS is an electric power Distribution System Simulator (DSS) for supporting distributed resource integration and grid modernization efforts. See Discussion Forum for latest news.,"Categories
+Simulation"
+"Production recording and barcoding solution using EAN128 barcodes. Runs on Windows, OSX, Linux and supports MS SQL, Oracle and mySQL databases.Production recording and barcoding solution using EAN128 barcodes. Runs on Windows, OSX, Linux and supports MS SQL, Oracle and mySQL databases.","Categories
+Enterprise, Printing, Test and Measurement"
+Provides optical character recognition (OCR) solutions for Vietnamese language.Provides optical character recognition (OCR) solutions for Vietnamese language.,"Categories
+Other/Nonlisted Topic, Scanner, Image Converters, OCR"
+Open Source CAM - Toolpath Generation for 3-Axis CNC machiningOpen Source CAM - Toolpath Generation for 3-Axis CNC machining,"Categories
+Computer-aided technologies (CADD/CAM/CAE)"
+"Logic Gate Simulator is an open-source tool for experimenting with and learning about logic gates. Features include drag-and-drop gate layout and wiring, and user created ""integrated circuits"".Logic Gate Simulator is an open-source tool for experimenting with and learning about logic gates. Features include drag-and-drop gate layout and wiring, and user created ""integrated circuits"".","Categories
+Simulation"
+"[ENG]
+Mod FreeCAD-PCB allow you to import PCB boards to FreeCAD.
+
+Scope of mod:
+- support for many different layers,
+- possible to choose colours, transparency and names for each layer,
+- mod allows you to import IGES models with colours,
+- possible to show holes/vias independent.
+
+[PL]
+Moduł FreeCAD-PCB pozwala na importowanie płytek PCB do programu FreeCAD.
+
+Możliwości modułu:
+- wsparcie dla wielu różnych warstw,
+- wyświetlanie otworów, przelotek niezależnie od siebie,
+- możliwość wyboru koloru, przeźroczystości oraz nazwy dla poszczególnych warstw,
+- importowanie modeli zapisanych w formacie IGS wraz z kolorami.
+
+*****
+
+Supported software:
+- Eagle (*.brd)
+- Razen (*.rzp)
+- FreePCB (*.fpc)
+- gEDA (*.pcb)
+- FidoCadJ (*.fcd)
+- KiCad (*.kicad_pcb)
+- IDF v2/v3
+
+Requirements: FreeCAD >= 0.14
+
+Project forum: https://sourceforge.net/p/eaglepcb2freecad/forum/[ENG]
+Mod FreeCAD-PCB allow you to import PCB boards to FreeCAD.
+
+Scope of mod:
+- support for many different layers,
+- possible to choose colours, transparency and names for each layer,
+- mod allows you to import IGES models with colours,
+- possible to show holes/vias independent.
+
+[PL]
+Moduł FreeCAD-PCB pozwala na importowanie płytek PCB do programu FreeCAD.
+
+Możliwości modułu:
+- wsparcie dla wielu różnych warstw,
+- wyświetlanie otworów, przelotek niezależnie od siebie,
+- możliwość wyboru koloru, przeźroczystości oraz nazwy dla poszczególnych warstw,
+- importowanie modeli zapisanych w formacie IGS wraz z kolorami.
+
+*****
+
+Supported software:
+- Eagle (*.brd)
+- Razen (*.rzp)
+- FreePCB (*.fpc)
+- gEDA (*.pcb)
+- FidoCadJ (*.fcd)
+- KiCad (*.kicad_pcb)
+- IDF v2/v3
+
+Requirements: FreeCAD >= 0.14
+
+Project forum: https://sourceforge.net/p/eaglepcb2freecad/forum/","Categories
+3D Modeling, Electronic Design Automation (EDA)"
+Open tool platform for the cost effective rigorous development of dependable complex software systems services. This platform is based on the event-B formal method and provides natural support for refinement and mathematical proof.Open tool platform for the cost effective rigorous development of dependable complex software systems services. This platform is based on the event-B formal method and provides natural support for refinement and mathematical proof.,"Categories
+Integrated Development Environments (IDE), UML, Mathematics"
+NaroCAD is a fully fledged and extensible 3D parametric modeling CAD application. It is based on OpenCascade.NaroCAD is a fully fledged and extensible 3D parametric modeling CAD application. It is based on OpenCascade.,"Categories
+3D Modeling, 3D Rendering, Data Visualization"
+"AnyTXT Searcher is a powerful file full-text search engine, a desktop search application for fast document retrieval. Just like a local disk Google search engine, much faster than Windows Search, it is your ideal free desktop file content full-text search engine.
+It has a powerful document parsing engine built in, which extracts the text of commonly used file formats without installing any other software, and combines the built-in high-speed indexing system to store the metadata of the text. You can quickly find any text in any file on your disk by Anytxt almost in 1 second. It works on Windows 11,10, 8, 7, Vista, XP, 2008, 2012, 2016,2022...
+AnyTXT Searcher supports the following file formats:
+Plain text (txt, cpp, py, html, etc.)
+Microsoft OneNote (one)
+Microsoft Word (doc, docx)
+Microsoft Excel (xls, xlsx)
+Microsoft PowerPoint (ppt, pptx)
+PDF
+WPS Office (wps, et, dps)
+EBook (epub, mobi, azw3, fb2 etc.)
+Mind Map Format (lighten, mmap, mm, xmind etc.)
+OFD
+.....AnyTXT Searcher is a powerful file full-text search engine, a desktop search application for fast document retrieval. Just like a local disk Google search engine, much faster than Windows Search, it is your ideal free desktop file content full-text search engine.
+It has a powerful document parsing engine built in, which extracts the text of commonly used file formats without installing any other software, and combines the built-in high-speed indexing system to store the metadata of the text. You can quickly find any text in any file on your disk by Anytxt almost in 1 second. It works on Windows 11,10, 8, 7, Vista, XP, 2008, 2012, 2016,2022...
+AnyTXT Searcher supports the following file formats:
+Plain text (txt, cpp, py, html, etc.)
+Microsoft OneNote (one)
+Microsoft Word (doc, docx)
+Microsoft Excel (xls, xlsx)
+Microsoft PowerPoint (ppt, pptx)
+PDF
+WPS Office (wps, et, dps)
+EBook (epub, mobi, azw3, fb2 etc.)
+Mind Map Format (lighten, mmap, mm, xmind etc.)
+OFD
+.....","Categories
+OCR"
+"2022-04-17 - PLEASE NOTE: The auto-proxy feature might be blocked by Hathitrust. Please disable Auto Proxy in the user settings in case of problems (infinite waiting loop).
+
+Hathi Download Helper is a tool for downloading public domain books from hathitrust.org.
+
+(For alternatives or information about Hathitrust Emergency Temporary Access Service (ETAS) see Wiki section)
+
+Dependencies:
+- for merging of pdf files the freeware ""pdftk"" (http://www.pdflabs.com/) is used.
+
+Miscellaneous:
+- Developed under Qt 5.14.2 (mingw) Win 10 Pro
+- Compatible to Qt5 with Webkit
+- tested with Win 7 Pro, Win 10 Pro, Mac OS 10.13 High Sierra, Mac OS 10.15 Catalina, Ubuntu 16.04-18.04
+- binary installer for windows: HDH_vX.Y.Z_setup.exe / HDH_vX.Y.Z_winxp_setup.exe
+- installer for Mac OS X: HDH_vX.Y.Z_setup_MacOsX
+- AppImage for Linux-Ubuntu x64 LTS versions
+
+
+E-Mail contact: hathidownloadhelper@hotmail.com
+
+Facebook: https://www.facebook.com/hathidownloadhelperTool2022-04-17 - PLEASE NOTE: The auto-proxy feature might be blocked by Hathitrust. Please disable Auto Proxy in the user settings in case of problems (infinite waiting loop).
+
+Hathi Download Helper is a tool for downloading public domain books from hathitrust.org.
+
+(For alternatives or information about Hathitrust Emergency Temporary Access Service (ETAS) see Wiki section)
+
+Dependencies:
+- for merging of pdf files the freeware ""pdftk"" (http://www.pdflabs.com/) is used.
+
+Miscellaneous:
+- Developed under Qt 5.14.2 (mingw) Win 10 Pro
+- Compatible to Qt5 with Webkit
+- tested with Win 7 Pro, Win 10 Pro, Mac OS 10.13 High Sierra, Mac OS 10.15 Catalina, Ubuntu 16.04-18.04
+- binary installer for windows: HDH_vX.Y.Z_setup.exe / HDH_vX.Y.Z_winxp_setup.exe
+- installer for Mac OS X: HDH_vX.Y.Z_setup_MacOsX
+- AppImage for Linux-Ubuntu x64 LTS versions
+
+
+E-Mail contact: hathidownloadhelper@hotmail.com
+
+Facebook: https://www.facebook.com/hathidownloadhelperTool","Categories
+OCR"
+An offline map viewer for the Desktop based on OsmAnd.An offline map viewer for the Desktop based on OsmAnd.,"Categories
+Image Viewers, Mapping, GIS"
+"GazePointer is a Webcam eye tracker software that lets you move mouse cursor using your eyes.
+
+GazePointer is a software that uses an ordinary webcam to estimate the direction of your gaze. This information can then be passed to other applications (e.g https://gazerecorder.com/gazescroll/, https://sourceforge.net/projects/gazeboard/ ). For example, used in conjunction with Dasher, GazePointer allows you to write with your eyes.
+
+
+if you want to integrate GazePointer with your own solution you can access gaze data via GazeFlowAPI: https://github.com/szydej/GazeFlowAPI
+
+You can also check out:
+GazeRecorder, which records your eye movement on the screen:
+https://gazerecorder.com
+
+Online Live Demo:
+GazeCloudAPI real-time eye tracking https://api.gazerecorder.com
+GazeRecorder APP (Behavior Analytics Made Easy. Website Eye-Tracking Heatmaps & More) https://app.gazerecorder.comGazePointer is a Webcam eye tracker software that lets you move mouse cursor using your eyes.
+
+GazePointer is a software that uses an ordinary webcam to estimate the direction of your gaze. This information can then be passed to other applications (e.g https://gazerecorder.com/gazescroll/, https://sourceforge.net/projects/gazeboard/ ). For example, used in conjunction with Dasher, GazePointer allows you to write with your eyes.
+
+
+if you want to integrate GazePointer with your own solution you can access gaze data via GazeFlowAPI: https://github.com/szydej/GazeFlowAPI
+
+You can also check out:
+GazeRecorder, which records your eye movement on the screen:
+https://gazerecorder.com
+
+Online Live Demo:
+GazeCloudAPI real-time eye tracking https://api.gazerecorder.com
+GazeRecorder APP (Behavior Analytics Made Easy. Website Eye-Tracking Heatmaps & More) https://app.gazerecorder.com","Categories
+Communications, HMI"
+"Gerber2PDF is a command-line tool to convert Gerber files to PDF for proofing and hobbyist printing purposes.
+
+It converts multiple Gerber files at once, placing the resulting layers each on it's own page within the PDF. Each layer has a PDF bookmark for easy reference.
+
+Layers can optionally be combined onto a single page and rendered with custom colours and transparency.
+
+There is a Drill to Gerber converter available from the downloads page.Gerber2PDF is a command-line tool to convert Gerber files to PDF for proofing and hobbyist printing purposes.
+
+It converts multiple Gerber files at once, placing the resulting layers each on it's own page within the PDF. Each layer has a PDF bookmark for easy reference.
+
+Layers can optionally be combined onto a single page and rendered with custom colours and transparency.
+
+There is a Drill to Gerber converter available from the downloads page.","Categories
+Electronic Design Automation (EDA), PDF, Command Line Tools"
+"Framework to enable PLC Visualisations (like Wago 750-841, Beck IPC, CoDeSys 2.3) displayed in a standalone Browser without Java applets.
+Including Browsers of iPad, iPhone, iPod, Android aso..
+Based on HTML5 canvas and Javascript.Framework to enable PLC Visualisations (like Wago 750-841, Beck IPC, CoDeSys 2.3) displayed in a standalone Browser without Java applets.
+Including Browsers of iPad, iPhone, iPod, Android aso..
+Based on HTML5 canvas and Javascript.","Categories
+Data Visualization, HMI, SCADA"
+"GHDL is the leading open source VHDL simulator.
+
+*** Now on github.com/tgingold/ghdl ***
+
+We have binary distributions for Debian Linux, Mac OSX and Windows. On other systems, getting GHDL from here means downloading the current source package and building GHDL from source. Alternatively you can get the latest source version (warning : occasionally unstable!) by pulling a snapshot from the git repository.GHDL is the leading open source VHDL simulator.
+
+*** Now on github.com/tgingold/ghdl ***
+
+We have binary distributions for Debian Linux, Mac OSX and Windows. On other systems, getting GHDL from here means downloading the current source package and building GHDL from source. Alternatively you can get the latest source version (warning : occasionally unstable!) by pulling a snapshot from the git repository.","Categories
+Electronic Design Automation (EDA)"
+"MathMod is a portable interactive plotting and graphing program for Windows, Linux, MacOSX and many other platforms.
+MathMod allows to plot 3D mathematical surfaces, described by implicit or parametric equations, and offers a very large database of model samples that can be generated with it. It's Free and Open Source.
+
+Change-log for MathMod-11.1 (16/06/2021)
+Welcome to the realm of complex numbers!
+
+1) Support of graphing functions with complex numbers Z=u+iv in 3D and 4D spaces (demo scripts: ""Complex3D_xx"" and ""Complex4D_Saddle"")
+2) Added support for HSV (hue, saturation, lightness) coloring model (script: ""Complex_Domain_Coloring"")
+3) Texture definitions (RGB and HSV) for parametric surfaces can now be expressed as functions of complex numbers
+4) Added a software implementation for the OpenGL variable gl_FrontFacing (fixed an issue with GPU drivers on MacOSX Catalina).
+The activation of this patch is available from mathmodconfig.js (""OpenGlConfig""-->""GL_FrontFacingSupMathMod is a portable interactive plotting and graphing program for Windows, Linux, MacOSX and many other platforms.
+MathMod allows to plot 3D mathematical surfaces, described by implicit or parametric equations, and offers a very large database of model samples that can be generated with it. It's Free and Open Source.
+
+Change-log for MathMod-11.1 (16/06/2021)
+Welcome to the realm of complex numbers!
+
+1) Support of graphing functions with complex numbers Z=u+iv in 3D and 4D spaces (demo scripts: ""Complex3D_xx"" and ""Complex4D_Saddle"")
+2) Added support for HSV (hue, saturation, lightness) coloring model (script: ""Complex_Domain_Coloring"")
+3) Texture definitions (RGB and HSV) for parametric surfaces can now be expressed as functions of complex numbers
+4) Added a software implementation for the OpenGL variable gl_FrontFacing (fixed an issue with GPU drivers on MacOSX Catalina).
+The activation of this patch is available from mathmodconfig.js (""OpenGlConfig""-->""GL_FrontFacingSup","Categories
+Data Visualization, Mathematics, Education"
+"This open-source software enables profiling and analysis of laser beams.
+It can be used with a variety of cameras supported by ImageJ and Micro-Manager, or images from any other source. It provides all common analysis methods like D4Sigma, knife-edge, as well as fitting of Hermite-Gauss and super-Gauss functions.This open-source software enables profiling and analysis of laser beams.
+It can be used with a variety of cameras supported by ImageJ and Micro-Manager, or images from any other source. It provides all common analysis methods like D4Sigma, knife-edge, as well as fitting of Hermite-Gauss and super-Gauss functions.","Categories
+Physics, Test and Measurement"
+The goal of this project is to open the OpenFOAM CFD toolbox to community contributed extensions. Visit http://openfoam-extend.wiki.sourceforge.net for more information. OPENFOAM(R) is a registered trademark of OpenCFD Limited.The goal of this project is to open the OpenFOAM CFD toolbox to community contributed extensions. Visit http://openfoam-extend.wiki.sourceforge.net for more information. OPENFOAM(R) is a registered trademark of OpenCFD Limited.,"Categories
+Simulation, Computational Fluid Dynamics (CFD)"
+A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization. smina is maintained by David Koes at the University of Pittsburgh and is not directly affiliated with the AutoDock project.A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization. smina is maintained by David Koes at the University of Pittsburgh and is not directly affiliated with the AutoDock project.,"Categories
+Chemistry, Bio-Informatics, Molecular Mechanics"
+"GDS3D is a cross-platform 3D hardware accelerated viewer for chip layouts. Read standalone GDS files or use the Cadence plugin for easy integration with your Virtuoso environment.
+
+Developed by PhDs of the IC-Design Group, University of Twente, The Netherlands
+
+The GDS3D project has now moved to: https://github.com/skuep/GDS3DGDS3D is a cross-platform 3D hardware accelerated viewer for chip layouts. Read standalone GDS files or use the Cadence plugin for easy integration with your Virtuoso environment.
+
+Developed by PhDs of the IC-Design Group, University of Twente, The Netherlands
+
+The GDS3D project has now moved to: https://github.com/skuep/GDS3D","Categories
+3D Rendering, Data Visualization"
+This project is an implementation of the Precision Time Protocol (PTP) according to IEEE standard 1588 for Linux.This project is an implementation of the Precision Time Protocol (PTP) according to IEEE standard 1588 for Linux.,"Categories
+Distributed Computing, File Sync, Test and Measurement"
+"This small program can help you to calculate optimal cut of rectangular details. It can be used to design cutting out of wood, glass, steel and other material.This small program can help you to calculate optimal cut of rectangular details. It can be used to design cutting out of wood, glass, steel and other material.","Categories
+Computer-aided technologies (CADD/CAM/CAE)"
+"YAFU (with assistance from other free software) uses the most powerful modern algorithms (and implementations of them) to factor input integers in a completely automated way. The automation within YAFU is state-of-the-art, combining factorization algorithms in an intelligent and adaptive methodology that minimizes the time to find the factors of arbitrary input integers. Most algorithm implementations are multi-threaded, allowing YAFU to fully utilize multi- or many-core processors (including SNFS, GNFS, SIQS, and ECM).
+
+YAFU is primarily a command-line driven tool. You provide the number to factor and, via screen output and log files, YAFU will provide you the factors. There is also an interactive environment similar to MATLAB or PARI/GP, where you can type commands and store results. YAFU is very customizable, through the optional use of many many command line parameters and a very capable expression interpreter.YAFU (with assistance from other free software) uses the most powerful modern algorithms (and implementations of them) to factor input integers in a completely automated way. The automation within YAFU is state-of-the-art, combining factorization algorithms in an intelligent and adaptive methodology that minimizes the time to find the factors of arbitrary input integers. Most algorithm implementations are multi-threaded, allowing YAFU to fully utilize multi- or many-core processors (including SNFS, GNFS, SIQS, and ECM).
+
+YAFU is primarily a command-line driven tool. You provide the number to factor and, via screen output and log files, YAFU will provide you the factors. There is also an interactive environment similar to MATLAB or PARI/GP, where you can type commands and store results. YAFU is very customizable, through the optional use of many many command line parameters and a very capable expression interpreter.","Categories
+Mathematics, Libraries"
+"**I have stopped development of this program.**
+
+Garena Room Joiner ( GRJ ) - No hacks,just tools. Included features: ChatBot, W3-Keys,W3-Skills and more!**I have stopped development of this program.**
+
+Garena Room Joiner ( GRJ ) - No hacks,just tools. Included features: ChatBot, W3-Keys,W3-Skills and more!","Categories
+Games/Entertainment, Chatbot"
+Ginkgo CADx is an extensible multi-platform Open Source Medical Imaging software which provides a complete DICOM Viewer solution with advanced capabilities.Ginkgo CADx is an extensible multi-platform Open Source Medical Imaging software which provides a complete DICOM Viewer solution with advanced capabilities.,"Categories
+Image Viewers, Data Visualization, Healthcare"
+"The simulator is released under the terms of an academic, non-commercial use license. Please read the license agreement in case of doubt.The simulator is released under the terms of an academic, non-commercial use license. Please read the license agreement in case of doubt.","Categories
+Simulation"
+"Flexbar moved to https://github.com/seqan/flexbar
+
+The program Flexbar processes high-throughput sequencing data efficiently. It demultiplexes barcoded runs and removes adapter sequences. Moreover, trimming and filtering features are provided. Flexbar supports next-generation sequencing data in fasta and fastq format, e.g. from the Illumina platform.
+
+Reference:
+Matthias Dodt, Johannes T. Roehr, Rina Ahmed, Christoph Dieterich: Flexbar — flexible barcode and adapter processing for next-generation sequencing platforms. Biology 2012, 1(3):895-905.Flexbar moved to https://github.com/seqan/flexbar
+
+The program Flexbar processes high-throughput sequencing data efficiently. It demultiplexes barcoded runs and removes adapter sequences. Moreover, trimming and filtering features are provided. Flexbar supports next-generation sequencing data in fasta and fastq format, e.g. from the Illumina platform.
+
+Reference:
+Matthias Dodt, Johannes T. Roehr, Rina Ahmed, Christoph Dieterich: Flexbar — flexible barcode and adapter processing for next-generation sequencing platforms. Biology 2012, 1(3):895-905.","Categories
+Bio-Informatics"
+Fast Fourier Transforms (FFT) for Multi-CPU (and RAM) Stress Testing. Shows detailed information about physical and logical processors in the system. Included CPU Benchmark feature for speed testing. Automatically utilizes and tests all CPU cores.Fast Fourier Transforms (FFT) for Multi-CPU (and RAM) Stress Testing. Shows detailed information about physical and logical processors in the system. Included CPU Benchmark feature for speed testing. Automatically utilizes and tests all CPU cores.,"Categories
+Symmetric Multiprocessing (SMP), Benchmark, Test and Measurement"
+"Intelligent formulas: Numeric and symbolic calculations in LibreOffice and Openoffice Writer. The iMath extension to Libreoffice and OpenOffice enables numeric and symbolic calculations inside a Writer document.
+
+If your OS can install .deb packages, have a look at my PPA http://launchpad.net/~jrheinlaender/+archive/ppaIntelligent formulas: Numeric and symbolic calculations in LibreOffice and Openoffice Writer. The iMath extension to Libreoffice and OpenOffice enables numeric and symbolic calculations inside a Writer document.
+
+If your OS can install .deb packages, have a look at my PPA http://launchpad.net/~jrheinlaender/+archive/ppa","Categories
+Word Processors, Mathematics, Mechanical and Civil Engineering"
+Famous card game Marias played most in Central Europe. Algorithm for computer opponent is important.Famous card game Marias played most in Central Europe. Algorithm for computer opponent is important.,"Categories
+Card Games, Artificial Intelligence"
+"GMOD is a set of interoperable open source software components for visualizing, annotating, and managing biological data. See http://gmod.org for more.GMOD is a set of interoperable open source software components for visualizing, annotating, and managing biological data. See http://gmod.org for more.","Categories
+Database, Dynamic Content, Bio-Informatics"
+"Marsyas (Music Analysis, Retrieval and Synthesis for Audio Signals) is a framework for developing systems for audio processing. It provides an general architecture for connecting audio, soundfiles, signal processing blocks and machine learning.
+
+Source code at SF is outdated! Marsyas is now hosted at GitHub:
+https://github.com/marsyas/marsyas
+
+Downloads are now provided at Bintray:
+https://bintray.com/marsyasMarsyas (Music Analysis, Retrieval and Synthesis for Audio Signals) is a framework for developing systems for audio processing. It provides an general architecture for connecting audio, soundfiles, signal processing blocks and machine learning.
+
+Source code at SF is outdated! Marsyas is now hosted at GitHub:
+https://github.com/marsyas/marsyas
+
+Downloads are now provided at Bintray:
+https://bintray.com/marsyas","Categories
+Audio Analysis, Libraries, Machine Learning"
+The Inverse Ocean Model (IOM) is a software system for developing customized data-assimilation systems for numerical ocean models. It has also been used with general purpose hydrodynamic and geodynamic models.The Inverse Ocean Model (IOM) is a software system for developing customized data-assimilation systems for numerical ocean models. It has also been used with general purpose hydrodynamic and geodynamic models.,"Categories
+Scientific/Engineering"
+"FCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topiFCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topi","Categories
+XML, 3D Modeling, 3D Rendering, Data Visualization"
+"A real-time graph plotter. While your application is computing and logging results to a CSV file using the LiveGraph Writer API, the plotter lets you visualise and monitor the results live - by instantly plotting charts and graphs of the data.A real-time graph plotter. While your application is computing and logging results to a CSV file using the LiveGraph Writer API, the plotter lets you visualise and monitor the results live - by instantly plotting charts and graphs of the data.","Categories
+Data Formats, Frameworks, Simulation, Interface Engine/Protocol Translator, Data Visualization, Information Analysis"
+"NOTE: Code commits are FROZEN on SourceForge: New code is now at <http://github.com/Xastir/Xastir>. Real-time tracking & messaging of stations via radio/internet APRS data streams, w/125 map formats supported. Linux/FreeBSD/Solaris/MacOSX/Windows in any of 7 languages. Can also be used for mobile mapping w/GPS. MAILING LISTS ARE AT: PROJECT->WEB SITE.NOTE: Code commits are FROZEN on SourceForge: New code is now at <http://github.com/Xastir/Xastir>. Real-time tracking & messaging of stations via radio/internet APRS data streams, w/125 map formats supported. Linux/FreeBSD/Solaris/MacOSX/Windows in any of 7 languages. Can also be used for mobile mapping w/GPS. MAILING LISTS ARE AT: PROJECT->WEB SITE.","Categories
+Ham Radio, Data Visualization, GIS"
+"RPy is a very simple, yet robust, Python interface to the R Programming Language. It
+can manage all kinds of R objects and can execute arbitrary R functions
+(including the graphic functions).RPy is a very simple, yet robust, Python interface to the R Programming Language. It
+can manage all kinds of R objects and can execute arbitrary R functions
+(including the graphic functions).","Categories
+Software Development, Data Visualization, Mathematics"
+Toolchain for quantification of fluorescence intensity and morphological parameters in single cells using microscope based cytometry.Toolchain for quantification of fluorescence intensity and morphological parameters in single cells using microscope based cytometry.,"Categories
+Bio-Informatics, Test and Measurement"
+"Open-source weather database system for storage of weather/water observations, forecasts, analysis fields, and hindcasts. includes loading program for GRIB files. Visit project website (http://wdb.met.no) for further information.
+
+Please note: this project has now moved to http://wdb.met.noOpen-source weather database system for storage of weather/water observations, forecasts, analysis fields, and hindcasts. includes loading program for GRIB files. Visit project website (http://wdb.met.no) for further information.
+
+Please note: this project has now moved to http://wdb.met.no","Categories
+Earth Sciences"
+"A Matlab toolkit for all aspects of EEG/ERP analysis, especially PCA. If you run into a problem, please send me a note and I'll fix it. The tutorial is in the documentation folder and the tutorial data is a separate download (tutorial data.zip). The tutorial file has full install instructions. For all platforms supported by Matlab.A Matlab toolkit for all aspects of EEG/ERP analysis, especially PCA. If you run into a problem, please send me a note and I'll fix it. The tutorial is in the documentation folder and the tutorial data is a separate download (tutorial data.zip). The tutorial file has full install instructions. For all platforms supported by Matlab.","Categories
+Scientific/Engineering"
+"'OpenCV for Processing' is a java based, processing library ( http://www.processing.org/ ) that interfaces with OpenCV.'OpenCV for Processing' is a java based, processing library ( http://www.processing.org/ ) that interfaces with OpenCV.","Categories
+Scientific/Engineering"
+Olex2 is visualisation software for small-molecule crystallography developed at Durham University/EPSRC. It provides comprehensive tools for crystallographic model manipulation for the end user and an extensible development framework for programmers. The project has been supported by Olexsys Ltd since 2010.Olex2 is visualisation software for small-molecule crystallography developed at Durham University/EPSRC. It provides comprehensive tools for crystallographic model manipulation for the end user and an extensible development framework for programmers. The project has been supported by Olexsys Ltd since 2010.,"Categories
+User Interface (UI), Molecular Science, Chemistry, Data Visualization"
+"JHotDraw is a two-dimensional graphics framework for structured drawing editors that is written in Java. It is based on Erich Gamma's JHotDraw, which is copyright 1996, 1997 by IFA Informatik and Erich Gamma.JHotDraw is a two-dimensional graphics framework for structured drawing editors that is written in Java. It is based on Erich Gamma's JHotDraw, which is copyright 1996, 1997 by IFA Informatik and Erich Gamma.","Categories
+Software Development, Vector Graphics, Data Visualization"
+"GLUI is a GLUT-based C++ user interface library which provides controls such as buttons, checkboxes, radio buttons, and spinners to OpenGL applications. It is window-system independent, using GLUT or FreeGLUT.GLUI is a GLUT-based C++ user interface library which provides controls such as buttons, checkboxes, radio buttons, and spinners to OpenGL applications. It is window-system independent, using GLUT or FreeGLUT.","Categories
+Simulation Games, Graphics, Scientific/Engineering, Simulation, Physics"
+"The goal of PyTables is to enable the end user to efficiently and easily manipulate large datasets (both homogenous, i.e. arrays, and heterogenous, i.e. tables) on a persistent, hierarchical way.The goal of PyTables is to enable the end user to efficiently and easily manipulate large datasets (both homogenous, i.e. arrays, and heterogenous, i.e. tables) on a persistent, hierarchical way.","Categories
+Database Engines/Servers, Log Analysis, Scientific/Engineering"
+"A Mathematics Equation Editor. Lets you type in equations, which can be added to documents, emails, and webpages or simply exported to picture files. It features a simple graphical interface, equation list management, MathML support, and the unique feature ""Mathcasting"" for adding math to XHTML.A Mathematics Equation Editor. Lets you type in equations, which can be added to documents, emails, and webpages or simply exported to picture files. It features a simple graphical interface, equation list management, MathML support, and the unique feature ""Mathcasting"" for adding math to XHTML.","Categories
+Mathematics"
+"Technical analysis library with indicators like ADX, MACD, RSI, Stochastic, TRIX... includes also candlestick pattern recognition. Useful for trading application developpers using either Excel, .NET, Mono, Java, Perl or C/C++.Technical analysis library with indicators like ADX, MACD, RSI, Stochastic, TRIX... includes also candlestick pattern recognition. Useful for trading application developpers using either Excel, .NET, Mono, Java, Perl or C/C++.","Categories
+Investment Management, Spreadsheet, Front-Ends, Algorithms, Information Analysis"
+"Fully integrated framework for building and deploying service-based networks (SOA / Microservices). Communication includes XML-RPC, REST and Web Services. Other features include service protection, admin scripts, metadata, query processes, autonomous, agent-based, or self-organising.
+
+Special to the system are its AI and text-processing features. In particular, there is an Autonomic Manager framework with a BPEL-style execution script. Sub-packages include text or query processing and a problem solver provides a range of algorithms. These can also be used separately, but advanced programming and configuration is required.
+
+A free All-in-One GUI allows you to manage services and function, and add your own modules. Example Apps are included and the images illustrate the functionality. The open source p2p server requires only the HTTP address and optional passwords. Small jar file sizes and mobile compatible.Fully integrated framework for building and deploying service-based networks (SOA / Microservices). Communication includes XML-RPC, REST and Web Services. Other features include service protection, admin scripts, metadata, query processes, autonomous, agent-based, or self-organising.
+
+Special to the system are its AI and text-processing features. In particular, there is an Autonomic Manager framework with a BPEL-style execution script. Sub-packages include text or query processing and a problem solver provides a range of algorithms. These can also be used separately, but advanced programming and configuration is required.
+
+A free All-in-One GUI allows you to manage services and function, and add your own modules. Example Apps are included and the images illustrate the functionality. The open source p2p server requires only the HTTP address and optional passwords. Small jar file sizes and mobile compatible.","Categories
+Distributed Computing, Intelligent Agents, Application Servers"
+"LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.","Categories
+Operating System Kernels, Hardware, Robotics"
+"Pioneers is an emulation of the board game The Settlers of Catan, which can be played over the internet.Pioneers is an emulation of the board game The Settlers of Catan, which can be played over the internet.","Categories
+Board Games, Turn Based Strategy, Artificial Intelligence"
+"The Mars Simulation Project is an open source Java project to create a simulation of future human settlement on the planet Mars.
+
+See https://github.com/mars-sim/mars-sim for the LATEST issues/wiki/code changeThe Mars Simulation Project is an open source Java project to create a simulation of future human settlement on the planet Mars.
+
+See https://github.com/mars-sim/mars-sim for the LATEST issues/wiki/code change","Categories
+Simulation, Astronomy, Intelligent Agents"
+"""Nearly Intelligent Computer Operated Language Examiner"" - NICOLE is a theory or experiment that if a computer is given enough combinations of how words, phrases and sentences are related to one another, it could talk back to you.""Nearly Intelligent Computer Operated Language Examiner"" - NICOLE is a theory or experiment that if a computer is given enough combinations of how words, phrases and sentences are related to one another, it could talk back to you.","Categories
+Chat, Simulation Games, Artificial Intelligence"
+"G3D is a commercial-grade C++ 3D engine. It is used in commercial games, research papers, military simulators, and university courses. G3D supports real-time rendering, off-line rendering like ray tracing, and general purpose computation on GPUs.
+
+As of January 16, 2018, SourceForge is again the home of the active repository for G3D.G3D is a commercial-grade C++ 3D engine. It is used in commercial games, research papers, military simulators, and university courses. G3D supports real-time rendering, off-line rendering like ray tracing, and general purpose computation on GPUs.
+
+As of January 16, 2018, SourceForge is again the home of the active repository for G3D.","Categories
+Games/Entertainment, 3D Rendering, Scientific/Engineering, Education"
+"Software for sustainability assessment, highly modular; initially focused on Life Cycle Assessments.Software for sustainability assessment, highly modular; initially focused on Life Cycle Assessments.","Categories
+Data Formats, Simulation, Ecosystem Sciences"

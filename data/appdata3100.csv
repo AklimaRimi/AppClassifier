@@ -1,0 +1,752 @@
+Description,Category
+Live MP3/OGG/AAC Flash Player for Icecast and Shoutcast. It has some interesting and necessary features like reconnect on network errors to make sure users never get silence and cache management to avoid memory memory consumption. Works with Flash 10.1 and newer.Live MP3/OGG/AAC Flash Player for Icecast and Shoutcast. It has some interesting and necessary features like reconnect on network errors to make sure users never get silence and cache management to avoid memory memory consumption. Works with Flash 10.1 and newer.,"Categories
+Streaming, Players"
+"ZNC is an IRC bouncer with many advanced features such as a built-in web interface, persistent connection (detaching), multiple users, per channel playback buffer, SSL, IPv6, transparent DCC bouncing, and c++ module support, to name a few.ZNC is an IRC bouncer with many advanced features such as a built-in web interface, persistent connection (detaching), multiple users, per channel playback buffer, SSL, IPv6, transparent DCC bouncing, and c++ module support, to name a few.","Categories
+IRC Clients"
+"This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).","Categories
+BBS, Message Board, Internationalization (I18N)"
+"EGroupware has moved to Github, please find all our downloads there: https://github.com/EGroupware/egroupware/releases
+
+EGroupware is a multi-user, web-based groupware suite. Currently available modules include: email, addressbook, calendar, infolog (notes, to-do's, phone calls), content management, wiki, project management, tracker, timesheet, knowledge base, CalDAV/CardDAVEGroupware has moved to Github, please find all our downloads there: https://github.com/EGroupware/egroupware/releases
+
+EGroupware is a multi-user, web-based groupware suite. Currently available modules include: email, addressbook, calendar, infolog (notes, to-do's, phone calls), content management, wiki, project management, tracker, timesheet, knowledge base, CalDAV/CardDAV","Categories
+File Sharing, Email Clients, Scheduling, Office Suites, Project Management, Site Management"
+"PeerGuardian is a privacy oriented firewall application. It blocks connections to and from hosts specified in huge blocklists (thousands or millions of IP ranges). Its origin seeds in targeting aggressive IPs while you use P2P.
+
+PeerGuardian Linux:
+Not developed actively anymore. Team might still be around. Some unreleased changes on git. Outdated technology.
+
+Peerguardian OS X:
+Not developed anymore. We've lost contact with the OS X developer.
+
+PeerGuardian Windows:
+Not developed anymore. It's highly recommended to use PeerBlock instead, which is a continuation of PeerGuardian's development in Windows, with bug fixes and support for Windows Vista and Windows 7. Collaboration with peerblock.com is welcome!
+
+PeerGuardian is an open project. Not only is its source code open for you to read, use, and modify - but the project is open for you to join and contribute in any form (code, documentation, bug reports, web and support).PeerGuardian is a privacy oriented firewall application. It blocks connections to and from hosts specified in huge blocklists (thousands or millions of IP ranges). Its origin seeds in targeting aggressive IPs while you use P2P.
+
+PeerGuardian Linux:
+Not developed actively anymore. Team might still be around. Some unreleased changes on git. Outdated technology.
+
+Peerguardian OS X:
+Not developed anymore. We've lost contact with the OS X developer.
+
+PeerGuardian Windows:
+Not developed anymore. It's highly recommended to use PeerBlock instead, which is a continuation of PeerGuardian's development in Windows, with bug fixes and support for Windows Vista and Windows 7. Collaboration with peerblock.com is welcome!
+
+PeerGuardian is an open project. Not only is its source code open for you to read, use, and modify - but the project is open for you to join and contribute in any form (code, documentation, bug reports, web and support).","Categories
+File Sharing, Firewall"
+"Untangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.comUntangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.com","Categories
+Email, Security, Networking, Logging, Internet"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.License
+GNU Library or Lesser General Public License version 2.0 (LGPLv2)","Categories
+Email, Office/Business, Games/Entertainment, Browsers, Design, Education"
+"OpenKM is a electronic document management system and record management system EDRMS ( DMS, RMS, CMS ).
+
+It provides modern and flexible architecture that meet today's IT demands, based on open technology (Java, Tomcat, GWT, Lucene, Hibernate, Spring and jBPM), powerful and scalable multiplatform application.
+
+OpenKM is a Web 2.0 application that works with Internet Explorer, Firefox, Safari and Opera.
+
+Can be configured in major DMBS like Oracle, PostgreSQL and MySQL among others.
+
+Due to its technological architecture design, OpenKM meets the document management needs of businesses of all sizes (from SMEs to big corporations). Thanks to its elegant and intuitive interface, OpenKM transforms complex operations into easy tasks.
+
+The most relevant functions of OpenKM is the indexing of the most common types of files: text, Office, Office 2007, OpenOffice, PDF, HTML, XML, MP3, JPEG, etc.
+
+For a complete feature list take a look at http://goo.gl/au8cQyOpenKM is a electronic document management system and record management system EDRMS ( DMS, RMS, CMS ).
+
+It provides modern and flexible architecture that meet today's IT demands, based on open technology (Java, Tomcat, GWT, Lucene, Hibernate, Spring and jBPM), powerful and scalable multiplatform application.
+
+OpenKM is a Web 2.0 application that works with Internet Explorer, Firefox, Safari and Opera.
+
+Can be configured in major DMBS like Oracle, PostgreSQL and MySQL among others.
+
+Due to its technological architecture design, OpenKM meets the document management needs of businesses of all sizes (from SMEs to big corporations). Thanks to its elegant and intuitive interface, OpenKM transforms complex operations into easy tasks.
+
+The most relevant functions of OpenKM is the indexing of the most common types of files: text, Office, Office 2007, OpenOffice, PDF, HTML, XML, MP3, JPEG, etc.
+
+For a complete feature list take a look at http://goo.gl/au8cQy","Categories
+File Sharing, Workflow Management, Knowledge Management, OCR, Document Management"
+This software suite is designed to extend the functionality of the Asterisk PBX through platform-independant web-client applications. Includes the VICIdial inbound/outbound contact center application. The suite is scalable across multiple Asterisk servers.This software suite is designed to extend the functionality of the Asterisk PBX through platform-independant web-client applications. Includes the VICIdial inbound/outbound contact center application. The suite is scalable across multiple Asterisk servers.,"Categories
+Chat, Telephony, CRM, PBX"
+"WE HAVE MOVED OFF SOURCEFORGE. PLEASE VISIT http://openwebmail.acatysmoof.com. OpenWebMail is a full-featured webmail, addressbook, calendar, and webdisk system that is designed to manage very large mail folder files in a quick and memory efficient wWE HAVE MOVED OFF SOURCEFORGE. PLEASE VISIT http://openwebmail.acatysmoof.com. OpenWebMail is a full-featured webmail, addressbook, calendar, and webdisk system that is designed to manage very large mail folder files in a quick and memory efficient w","Categories
+POP3, Email Clients, Calendar"
+"Opensource frimware for platforms based on some SoC (Realtek RTL8186 - Wive-NG, Realtek RTL8671B/RTL8671BH/RTL8672 - Wive-NG-DSL, Ralink RT3050/RT3052 - Wive-NG-RTNL, MT7620/MT7621 - Wive-NG-MT)
+
+For detailed discussion of commercial use please mail to info@wi-cat.ru.
+
+For more details in russian please go to https://wi-cat.ru
+Any support for end user only in https://wi-cat.ru/forums/ forum page.
+Author page: http://wive-ng.sf.net
+Commercial support support@wi-cat.ru
+
+Supported device list:
+1) Wive-NG-HQ - latest FW tree (only commercial access)
+2) Wive-NG-MT (current) - https://wi-cat.ru/wive-ng/ustroystva-postavlyaemyie-s-os-wive-ng-mt-s-zavoda-2015-2017g/
+3) Wive-NG-RTNL (EOL) - http://wive-ng.sourceforge.net/?WR-NL_RT3050%282%29:Sovmestimye_ustroystva
+4) Wive-NG-ADSL (EOL) - http://wive-ng.sourceforge.net/?W422G.v3_8671BH_%284%2F16%29Opensource frimware for platforms based on some SoC (Realtek RTL8186 - Wive-NG, Realtek RTL8671B/RTL8671BH/RTL8672 - Wive-NG-DSL, Ralink RT3050/RT3052 - Wive-NG-RTNL, MT7620/MT7621 - Wive-NG-MT)
+
+For detailed discussion of commercial use please mail to info@wi-cat.ru.
+
+For more details in russian please go to https://wi-cat.ru
+Any support for end user only in https://wi-cat.ru/forums/ forum page.
+Author page: http://wive-ng.sf.net
+Commercial support support@wi-cat.ru
+
+Supported device list:
+1) Wive-NG-HQ - latest FW tree (only commercial access)
+2) Wive-NG-MT (current) - https://wi-cat.ru/wive-ng/ustroystva-postavlyaemyie-s-os-wive-ng-mt-s-zavoda-2015-2017g/
+3) Wive-NG-RTNL (EOL) - http://wive-ng.sourceforge.net/?WR-NL_RT3050%282%29:Sovmestimye_ustroystva
+4) Wive-NG-ADSL (EOL) - http://wive-ng.sourceforge.net/?W422G.v3_8671BH_%284%2F16%29","Categories
+Ham Radio, Wireless"
+"Megaupload Downloader is a programme born to avoid users tons of advertisement, poup-ups, etc.. that we get when we try to download from free file hosting services.Megaupload Downloader is a programme born to avoid users tons of advertisement, poup-ups, etc.. that we get when we try to download from free file hosting services.","Categories
+File Sharing, Internet"
+"The official website of this project is https://danielnoethen.de/butt
+
+butt (broadcast using this tool) is an easy to use, multi OS streaming tool.
+It supports ShoutCast and IceCast and runs on Linux, MacOS and Windows.
+The main purpose of butt is to stream live audio data from your computers Mic or Line input
+to an Shoutcast or Icecast server. Recording is also possible.
+It is NOT intended to be a server by itself or automatically stream a set of audio files.The official website of this project is https://danielnoethen.de/butt
+
+butt (broadcast using this tool) is an easy to use, multi OS streaming tool.
+It supports ShoutCast and IceCast and runs on Linux, MacOS and Windows.
+The main purpose of butt is to stream live audio data from your computers Mic or Line input
+to an Shoutcast or Icecast server. Recording is also possible.
+It is NOT intended to be a server by itself or automatically stream a set of audio files.","Categories
+Streaming, Audio Recording"
+"OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.","Categories
+Text Editors, Communications, Other/Nonlisted Topic, Office/Business, Internet, Simulation, Physics, Multimedia"
+"FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!","Categories
+File Sharing, File Transfer Protocol (FTP), Networking, FTP Clients"
+"aMule stands for all-platform eMule file-sharing program. It is affiliated with the eMule project and was forked from xMule on 08/2003. It connects to the eDonkey2000 network, supports Linux, Mac, Solaris, *BSD platforms, and nearly every processor arch.aMule stands for all-platform eMule file-sharing program. It is affiliated with the eMule project and was forked from xMule on 08/2003. It connects to the eDonkey2000 network, supports Linux, Mac, Solaris, *BSD platforms, and nearly every processor arch.","Categories
+File Sharing"
+"A very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linuxA very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linux","Categories
+MSN Messenger, Networking, Internet, Messaging"
+GSM modem based bulk sms sending tool. Mobile number and message can be imported from Microsoft Excel Worksheet (xlsx) and Text (txt) files to send sms using any GSM modem or phone connected with pc through usb or serial interface.GSM modem based bulk sms sending tool. Mobile number and message can be imported from Microsoft Excel Worksheet (xlsx) and Text (txt) files to send sms using any GSM modem or phone connected with pc through usb or serial interface.,"Categories
+Communications"
+"Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.","Categories
+Email, Security, Live CD"
+"EiskaltDC is a program for UNIX-like systems that uses the Direct Connect protocol. It is compatible with other DC clients, such as the original DC from Neomodus, DC++ and derivatives. EiskaltDC also interoperates with all common DC hub software.EiskaltDC is a program for UNIX-like systems that uses the Direct Connect protocol. It is compatible with other DC clients, such as the original DC from Neomodus, DC++ and derivatives. EiskaltDC also interoperates with all common DC hub software.","Categories
+File Sharing"
+"X-Chat Aqua is X-Chat with an Aqua interface for MacOS X. X-Chat Aqua uses the irc engine from X-Chat, and is designed to look and feel like the GTK+ front end.X-Chat Aqua is X-Chat with an Aqua interface for MacOS X. X-Chat Aqua uses the irc engine from X-Chat, and is designed to look and feel like the GTK+ front end.","Categories
+IRC Clients"
+"NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.","Categories
+Communications, Networking, Internet"
+"=========================
+WEBCAMSTUDIO IS NO MORE MAINTAINED
+=========================
+We are looking for someone to take over.
+If interested please contact:
+soylent.tv@gmail.com
+
+WebcamStudio is a multifeatured virtual webcam software that can be used with Skype or a flash website like UStream, to create a professional looking broadcast, including banners, animations, transit animations and icons, etc...
+
+This tool is not meant as a video editor but as a live video mixer giving you the possibilities to change the look of the broadcast on the fly.
+
+For more info about the WebcamStudio project, please visit our Wiki Home page: https://sourceforge.net/p/webcamstudio/wiki/Home/
+
+IMPORTANT:
+=======
+The former homepages of the project:
+http://code.google.com/p/webcamstudio
+http://ws4gl.org
+should be considered only as a reference to old project news, forums, info etc.
+Have in mind that some of these old links may not work anymore.=========================
+WEBCAMSTUDIO IS NO MORE MAINTAINED
+=========================
+We are looking for someone to take over.
+If interested please contact:
+soylent.tv@gmail.com
+
+WebcamStudio is a multifeatured virtual webcam software that can be used with Skype or a flash website like UStream, to create a professional looking broadcast, including banners, animations, transit animations and icons, etc...
+
+This tool is not meant as a video editor but as a live video mixer giving you the possibilities to change the look of the broadcast on the fly.
+
+For more info about the WebcamStudio project, please visit our Wiki Home page: https://sourceforge.net/p/webcamstudio/wiki/Home/
+
+IMPORTANT:
+=======
+The former homepages of the project:
+http://code.google.com/p/webcamstudio
+http://ws4gl.org
+should be considered only as a reference to old project news, forums, info etc.
+Have in mind that some of these old links may not work anymore.","Categories
+Streaming, Conferencing, Audio Recording"
+"Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.","Categories
+Terminals, Communications, Software Development, Networking, Internet"
+"Peers is a very simple softphone. It's a SIP User-Agent, written in java, it works on windows, linux and mac. It can be used with SIP servers like opensips or asterisk IPBX. It supports G711 codec (PCMU and PCMA) and telephone-events (DTMF).Peers is a very simple softphone. It's a SIP User-Agent, written in java, it works on windows, linux and mac. It can be used with SIP servers like opensips or asterisk IPBX. It supports G711 codec (PCMU and PCMA) and telephone-events (DTMF).","Categories
+Internet Phone, Telephony, Networking, Softphones"
+"The open source Enterprise Content Management (ECM) software that handles any type of content, allowing users to easily share and collaborate on content.The open source Enterprise Content Management (ECM) software that handles any type of content, allowing users to easily share and collaborate on content.","Categories
+File Sharing, Enterprise, Dynamic Content, Productivity"
+Gpredict is a real-time satellite tracking and orbit prediction application. Gpredict can track an unlimited number of satellites and display the data in tables and various graphical view.Gpredict is a real-time satellite tracking and orbit prediction application. Gpredict can track an unlimited number of satellites and display the data in tables and various graphical view.,"Categories
+Ham Radio, Astronomy, Physics"
+TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/,"Categories
+Terminals, Communications, Hardware Drivers"
+SeedDMS is an easy to use but powerful Open Source Document Management System based on PHP and MySQL or sqlite3. Many years of development has made it a mature and enterprise ready plattform for sharing and storing documents.SeedDMS is an easy to use but powerful Open Source Document Management System based on PHP and MySQL or sqlite3. Many years of development has made it a mature and enterprise ready plattform for sharing and storing documents.,"Categories
+File Sharing, Document Management"
+"Simple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demoSimple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demo","Categories
+Email, Other/Nonlisted Topic, CRM, Social Networking"
+"Claroline is collaborative learning environment based on PHP/mySQL. It allows teachers or education institutions to create and administer courses through the web. The software provides group management, forums, document repositories, calendar, SCORM,...Claroline is collaborative learning environment based on PHP/mySQL. It allows teachers or education institutions to create and administer courses through the web. The software provides group management, forums, document repositories, calendar, SCORM,...","Categories
+Communications, Internet, Education, Learning Management Systems (LMS)"
+"EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.","Categories
+Communications, Networking, Internet, Remote Desktop"
+"New version stable.
+The proposal was fulfilled.
+REST DW was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database.
+Today to be able to write data in a Bank via WebService is very complex for simple operations, making scheduling of simple screens time-consuming.
+With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer,
+Use it, have fun, and need support.
+Skype: cyber_one27@hotmail.com
+I am available.
+
+Vídeos :
+https://www.youtube.com/watch?v=6FVXT36j-7U
+
+Site/Forum: http://resteasyobjects.com.br/
+Blog : http://delphitotal
+License GPL - 3.0New version stable.
+The proposal was fulfilled.
+REST DW was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database.
+Today to be able to write data in a Bank via WebService is very complex for simple operations, making scheduling of simple screens time-consuming.
+With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer,
+Use it, have fun, and need support.
+Skype: cyber_one27@hotmail.com
+I am available.
+
+Vídeos :
+https://www.youtube.com/watch?v=6FVXT36j-7U
+
+Site/Forum: http://resteasyobjects.com.br/
+Blog : http://delphitotal
+License GPL - 3.0","Categories
+Communications, Software Development"
+Project moved to https://torrent-file-editor.github.io/Project moved to https://torrent-file-editor.github.io/,"Categories
+BitTorrent"
+DSPAM is a scalable and open-source content-based spam filter designed for multi-user enterprise systems.DSPAM is a scalable and open-source content-based spam filter designed for multi-user enterprise systems.,"Categories
+Email Spam Filter"
+"Artha is a handy thesaurus based on WordNet with distinct features like global hotkey look-up, passive desktop notifications, regular expression based search, etc.. Artha may be used as a free open-source replacement to the proprietary WordWeb Pro.Artha is a handy thesaurus based on WordNet with distinct features like global hotkey look-up, passive desktop notifications, regular expression based search, etc.. Artha may be used as a free open-source replacement to the proprietary WordWeb Pro.","Categories
+Communications, Education, Linguistics"
+"NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players.NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players.","Categories
+NNTP, Usenet News, Other file transfer protocol"
+"MailArchiva is a powerful, full featured email archiving (email archiver) and compliance solution for mail systems such as Microsoft Exchange. It stores all incoming, outgoing and internal emails for long term storage. A web based user interface is availMailArchiva is a powerful, full featured email archiving (email archiver) and compliance solution for mail systems such as Microsoft Exchange. It stores all incoming, outgoing and internal emails for long term storage. A web based user interface is avail","Categories
+Email Spam Filter, Mail Transfer Agents, Enterprise, Data Warehousing, Database, Security"
+"CuteFlow is a webbased document circulation/workflow tool. Users are able to define ""documents"" which are send step by step to every user in a list. It's an electronical way for doing (i.e. internal) document circulations.CuteFlow is a webbased document circulation/workflow tool. Users are able to define ""documents"" which are send step by step to every user in a list. It's an electronical way for doing (i.e. internal) document circulations.","Categories
+Email, Office/Business"
+"A Web-based Usenet News Reader written by PHP, support NNTP/NNRP access to News Server. Authentication can be easily configured with flexibility. It also supports the charset conversion between different Chinese charsets, both Traditional and Simplified.A Web-based Usenet News Reader written by PHP, support NNTP/NNRP access to News Server. Authentication can be easily configured with flexibility. It also supports the charset conversion between different Chinese charsets, both Traditional and Simplified.","Categories
+Usenet News, Message Board"
+"Easy to use, easy to install, actively maintained and actively supported, phpseclib is the best way to utilize SSH, SFTP and RSA in PHP.Easy to use, easy to install, actively maintained and actively supported, phpseclib is the best way to utilize SSH, SFTP and RSA in PHP.","Categories
+Communications"
+"dcm4che is an implementation of DICOM and IHE actors in Java. Homepage: http://www.dcm4che.org, Google Group: http://groups.google.com/group/dcm4che?hl=en, Wiki: http://www.dcm4che.org/confluence, Issue Tracking: http://www.dcm4che.org/jiradcm4che is an implementation of DICOM and IHE actors in Java. Homepage: http://www.dcm4che.org, Google Group: http://groups.google.com/group/dcm4che?hl=en, Wiki: http://www.dcm4che.org/confluence, Issue Tracking: http://www.dcm4che.org/jira","Categories
+Communications, Graphics, Medical"
+"FileBot is the ultimate tool for renaming your movies, tv shows or anime and downloading subtitles. It's smart, streamlined for simplicity and just works. FileBot supports Windows, Linux and Mac, plus there's a full-featured command-line interface for all sorts of automation.FileBot is the ultimate tool for renaming your movies, tv shows or anime and downloading subtitles. It's smart, streamlined for simplicity and just works. FileBot supports Windows, Linux and Mac, plus there's a full-featured command-line interface for all sorts of automation.","Categories
+File Sharing, File Managers, Cataloguing"
+"Modbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for ServerModbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for Server","Categories
+Communications, Software Development, Scientific/Engineering"
+"This is an archive for old versions of OpenEMM. You will find the latest version of OpenEMM here: https://wiki.openemm.org
+
+OpenEMM is a browser-based enterprise application for email automation like info and marketing newsletters, transaction mails or multi-stage email campaigns.
+
+OpenEMM offers tons of features for professional users, among them: a great user interface, template-based HTML mailings, automatic bounce management, mail opening and link tracking, lots of graphical realtime statistics, a content management system, self-defined and behaviour-based target groups, a multi-queue mail backend for maximum sending performance, a time-driven automated data import and export feature, an extensive set of webservices, a plugin interface to easily extend the core functionality, a scripting feature to enhance the functionality of OpenEMM with triggerable customized actions and an audit-proof user activity log.This is an archive for old versions of OpenEMM. You will find the latest version of OpenEMM here: https://wiki.openemm.org
+
+OpenEMM is a browser-based enterprise application for email automation like info and marketing newsletters, transaction mails or multi-stage email campaigns.
+
+OpenEMM offers tons of features for professional users, among them: a great user interface, template-based HTML mailings, automatic bounce management, mail opening and link tracking, lots of graphical realtime statistics, a content management system, self-defined and behaviour-based target groups, a multi-queue mail backend for maximum sending performance, a time-driven automated data import and export feature, an extensive set of webservices, a plugin interface to easily extend the core functionality, a scripting feature to enhance the functionality of OpenEMM with triggerable customized actions and an audit-proof user activity log.","Categories
+Mailing List Servers, CRM, Marketing Automation"
+"Free Windows Mbox Viewer.
+Gain access to mbox archives or single eml messages.
+View attachments and export single mails in eml format.
+Access large box files such as Google Takeout or Mozilla Thunderbird Archives.
+
+Development of mbox viewer continues now at github: https://github.com/eneam/mboxviewer
+
+**NOTE**: Windows Defender may sometimes report incorrectly that mbox-viewer contains malware. Please report the case to the development. Development will ask Windows Security to update Windows Defender rules to resolve the issue. Last time the incorrect detection was corrected by Microsoft Security within few hours. User will need to run Windows Update to install the latest updated detection rules.Free Windows Mbox Viewer.
+Gain access to mbox archives or single eml messages.
+View attachments and export single mails in eml format.
+Access large box files such as Google Takeout or Mozilla Thunderbird Archives.
+
+Development of mbox viewer continues now at github: https://github.com/eneam/mboxviewer
+
+**NOTE**: Windows Defender may sometimes report incorrectly that mbox-viewer contains malware. Please report the case to the development. Development will ask Windows Security to update Windows Defender rules to resolve the issue. Last time the incorrect detection was corrected by Microsoft Security within few hours. User will need to run Windows Update to install the latest updated detection rules.","Categories
+Email Clients"
+"SSVNC adds encryption security to VNC. It provides a GUI for Windows, MacOSX, and Unix that automatically starts up an SSL or SSH tunnel for connections to any VNC server. It also supports VeNCrypt encryption. The Unix viewer has many new features.SSVNC adds encryption security to VNC. It provides a GUI for Windows, MacOSX, and Unix that automatically starts up an SSL or SSH tunnel for connections to any VNC server. It also supports VeNCrypt encryption. The Unix viewer has many new features.","Categories
+Terminal Emulators, Conferencing"
+"Addon for Mozilla Thunderbird and SeaMonkey providing OpenPGP-based encryption and authentication.
+
+Enigmail requires GnuPG.Addon for Mozilla Thunderbird and SeaMonkey providing OpenPGP-based encryption and authentication.
+
+Enigmail requires GnuPG.","Categories
+Email"
+"playSMS is a free and open source SMS management software, a web interface for SMS gateways and bulk SMS services.playSMS is a free and open source SMS management software, a web interface for SMS gateways and bulk SMS services.","Categories
+Communications, WWW/HTTP, Mobile"
+"Please note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etcPlease note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etc","Categories
+Communications, WWW/HTTP, Logging, Hardware Drivers, File Systems, Scientific/Engineering"
+"Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.","Categories
+Communications, Security, Systems Administration, Internet"
+"Multiuser HylaFAX PHP/MySQL Web interface for viewing faxes online, downloading & emailing in PDF format, and categorizing & archiving all sent and received faxes.Multiuser HylaFAX PHP/MySQL Web interface for viewing faxes online, downloading & emailing in PDF format, and categorizing & archiving all sent and received faxes.","Categories
+Fax, OCR"
+RSS to FidoNet (rss2fido) by_Rain 27/09-2006g. The program is designed to track new items RSS and forming specially messages to FidoNet.RSS to FidoNet (rss2fido) by_Rain 27/09-2006g. The program is designed to track new items RSS and forming specially messages to FidoNet.,"Categories
+FIDO"
+"This project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txtThis project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txt","Categories
+Internet Phone, Telephony, Networking, Internet"
+"Kraken is a continuation of the Openfire IM Gateway plugin, but in a way that works for any XMPP server. It provides a way for XMPP users to log into, and communicate through, their legacy IM accounts such as AIM, ICQ, MSN, Yahoo, and friends.Kraken is a continuation of the Openfire IM Gateway plugin, but in a way that works for any XMPP server. It provides a way for XMPP users to log into, and communicate through, their legacy IM accounts such as AIM, ICQ, MSN, Yahoo, and friends.","Categories
+MSN Messenger, AOL Instant Messenger, IRC Clients, ICQ, XMPP, Messaging"
+"MicroPlanet Gravity is a full featured Usenet News Client, newsreader, for Windows XP, Vista and Win7 (32 and 64 bit). Easy to use and highly customizable with binaries support. Also provides the advanced user with rules, scoring and filtering.MicroPlanet Gravity is a full featured Usenet News Client, newsreader, for Windows XP, Vista and Win7 (32 and 64 bit). Easy to use and highly customizable with binaries support. Also provides the advanced user with rules, scoring and filtering.","Categories
+Usenet News"
+openCRX moved to https://github.com/opencrxopenCRX moved to https://github.com/opencrx,"Categories
+File Sharing, CRM, ERP, Calendar"
+"Remote control software for applications using Bluetooth or Wi-Fi.
+
+anyRemote supports wide range of modern cell phones line Nokia, SonyEricsson, Motorola, majority of Android phones and others.Remote control software for applications using Bluetooth or Wi-Fi.
+
+anyRemote supports wide range of modern cell phones line Nokia, SonyEricsson, Motorola, majority of Android phones and others.","Categories
+Telephony, Wireless"
+"Mobicents is the leading Open Source VoIP Platform. It is the First and Only Open Source Certified implementation of JSLEE 1.1 (JSR 240), and SIP Servlets 1.1 (JSR 289). Mobicents also includes a powerful and extensible Media Server.Mobicents is the leading Open Source VoIP Platform. It is the First and Only Open Source Certified implementation of JSLEE 1.1 (JSR 240), and SIP Servlets 1.1 (JSR 289). Mobicents also includes a powerful and extensible Media Server.","Categories
+VoIP, Video Conferencing"
+"With HelloNzb you can download (binary) files from Usenet servers via NZB index files. The software is based on Java and can thus run on many platforms (tested on Windows and Linux). Automatic archive verification via PAR2, automatic RAR archive extraction, built-in yEnc- and UU-decoding. Portable, no installation required.With HelloNzb you can download (binary) files from Usenet servers via NZB index files. The software is based on Java and can thus run on many platforms (tested on Windows and Linux). Automatic archive verification via PAR2, automatic RAR archive extraction, built-in yEnc- and UU-decoding. Portable, no installation required.","Categories
+NNTP, Usenet News"
+"The NCID (Network Caller ID) project is Caller ID (CID) distributed over a network. The project contains the NCID package and 4 optional client packages. Each package is described at the NCID web site. A non-inclusive list of 3rd party addons is also available at the web site
+
+Available Packages:
+NCID - contains the server, gateways, and a client with output modules
+LCDncid - a client that uses LCDproc to display Caller ID on a LCD display
+NCIDandroid - a client and gateway for Android devices
+NCIDdisplay - a homebrew client that displays on large LED modules
+NCIDpop - a popup client for Windows, Mac, and LinuxThe NCID (Network Caller ID) project is Caller ID (CID) distributed over a network. The project contains the NCID package and 4 optional client packages. Each package is described at the NCID web site. A non-inclusive list of 3rd party addons is also available at the web site
+
+Available Packages:
+NCID - contains the server, gateways, and a client with output modules
+LCDncid - a client that uses LCDproc to display Caller ID on a LCD display
+NCIDandroid - a client and gateway for Android devices
+NCIDdisplay - a homebrew client that displays on large LED modules
+NCIDpop - a popup client for Windows, Mac, and Linux","Categories
+Telephony, Internet"
+"An open source bluetooth stack for Linux (and other operating systems). Support for SDP/L2CAP/RFCOMM.
+
+No further development is expected for this project as BlueZ has taken the official role as bluetooth stack for Linux.An open source bluetooth stack for Linux (and other operating systems). Support for SDP/L2CAP/RFCOMM.
+
+No further development is expected for this project as BlueZ has taken the official role as bluetooth stack for Linux.","Categories
+Communications, Networking"
+"전자문서 유통 클라이언트 기술규격(v2.0)을 만족하는 유통 클라이언트 API 구현 프로젝트입니다. 이 프로젝트의 결과물을 이용하여 유통 메시징 서버(#메일 서버)의 클라이언트를 제작할 수 있는데 본 프로젝트에서는 클라이언트 API를 이용하여 안드로이드 용 앱을 구현하여 공개합니다.
+
+클라이언트 API는 ecc-open-sdk이며, 안드로이드 용 앱은 오픈 #메일입니다. 구글플레이에서 ""오픈 #메일""을 검색하세요.
+
+Twitter : https://twitter.com/OpenSharpMail
+Facebook : https://www.facebook.com/OpenSharpMail전자문서 유통 클라이언트 기술규격(v2.0)을 만족하는 유통 클라이언트 API 구현 프로젝트입니다. 이 프로젝트의 결과물을 이용하여 유통 메시징 서버(#메일 서버)의 클라이언트를 제작할 수 있는데 본 프로젝트에서는 클라이언트 API를 이용하여 안드로이드 용 앱을 구현하여 공개합니다.
+
+클라이언트 API는 ecc-open-sdk이며, 안드로이드 용 앱은 오픈 #메일입니다. 구글플레이에서 ""오픈 #메일""을 검색하세요.
+
+Twitter : https://twitter.com/OpenSharpMail
+Facebook : https://www.facebook.com/OpenSharpMail","Categories
+Communications"
+"Zentyal Server is an easy to use and affordable Linux server, specially designed to meet the needs of small and medium businesses
+
+Thanks to Zentyal's Samba integration, Zentyal provides native compatibility with Microsoft Active Directory, allowing you to join Microsoft clients to a domain and manage them easily.
+
+Zentyal Server incorporates all the network services required in a small and medium business environment:
+
+* Directory & Domain Server with native compatibility with Microsoft Active Directory
+* Mail Server with ActiveSync and webmail
+* Gateway with firewall and proxy
+* Infrastructure Server with DNS/DHCP server, Certification Authority and Virtual Private Networks
+
+For more information and download, please access the project's home page.Zentyal Server is an easy to use and affordable Linux server, specially designed to meet the needs of small and medium businesses
+
+Thanks to Zentyal's Samba integration, Zentyal provides native compatibility with Microsoft Active Directory, allowing you to join Microsoft clients to a domain and manage them easily.
+
+Zentyal Server incorporates all the network services required in a small and medium business environment:
+
+* Directory & Domain Server with native compatibility with Microsoft Active Directory
+* Mail Server with ActiveSync and webmail
+* Gateway with firewall and proxy
+* Infrastructure Server with DNS/DHCP server, Certification Authority and Virtual Private Networks
+
+For more information and download, please access the project's home page.","Categories
+Email, Calendar, Authentication/Directory, Email Servers"
+"SmartCam - Smart Phone Web Camera - Turns a camera phone (S60, WinMo6.x, Android, Samsung Bada) with bluetooth or WiFi into a handy webcam ready to use with your PCSmartCam - Smart Phone Web Camera - Turns a camera phone (S60, WinMo6.x, Android, Samsung Bada) with bluetooth or WiFi into a handy webcam ready to use with your PC","Categories
+Streaming, Digital Camera, Mobile"
+"Nokia NBU, NBF, NFB, NFC and ARC backup file parser, extractor and viewer. It can help you to check content of backup or extract files from it. Requires MS .Net Framework 2Nokia NBU, NBF, NFB, NFC and ARC backup file parser, extractor and viewer. It can help you to check content of backup or extract files from it. Requires MS .Net Framework 2","Categories
+Data Formats, Telephony, Mobile"
+Halite is an open-source BitTorrent client and is based on the excellent libtorrent library from Rasterbar Software. The remote control interface for Halite has been put on the back burner while the more pressing features that a bittorrent client needs.Halite is an open-source BitTorrent client and is based on the excellent libtorrent library from Rasterbar Software. The remote control interface for Halite has been put on the back burner while the more pressing features that a bittorrent client needs.,"Categories
+BitTorrent"
+"Megacubo is an intuitive, multi-language and cross-platform IPTV player with support for history, bookmarks and much more.
+
+You can add as many IPTV lists you want (M3U format) and record live broadcasts to your PC or device.
+
+With Miniplayer mode, you can work or navigate on your PC while watching any broadcast.Megacubo is an intuitive, multi-language and cross-platform IPTV player with support for history, bookmarks and much more.
+
+You can add as many IPTV lists you want (M3U format) and record live broadcasts to your PC or device.
+
+With Miniplayer mode, you can work or navigate on your PC while watching any broadcast.","Categories
+Streaming, Other/Nonlisted Topic"
+"ZaDark là tiện ích giúp kích hoạt Dark Mode cho Zalo PC và Web.
+
+[Điểm nổi bật]
+
+- Màu sắc đẹp, độ tương phản tốt
+- Tuỳ chỉnh giao diện trực tiếp trên Zalo : Sáng, Tối hoặc Thay đổi theo Hệ điều hành
+- Ẩn trạng thái : Đang soạn tin nhắn, Đã nhận và Đã xem tin nhắn
+- Đa nền tảng : Windows, macOS, Chrome, Safari, Opera, Edge và Firefox
+- Mã nguồn mở : https://go.quaric.com/zadark-github
+
+[Ghi chú]
+
+- ZaDark là sản phẩm của Quaric
+- ZaDark không phải là sản phẩm từ Zalo Group
+- ZaDark chưa bao giờ thu thập và sẽ không bao giờ thu thập bất kỳ dữ liệu cá nhân nào như lịch sử duyệt web, mật khẩu,...
+
+---
+ZaDark from Quaric
+Website : https://zadark.quaric.comZaDark là tiện ích giúp kích hoạt Dark Mode cho Zalo PC và Web.
+
+[Điểm nổi bật]
+
+- Màu sắc đẹp, độ tương phản tốt
+- Tuỳ chỉnh giao diện trực tiếp trên Zalo : Sáng, Tối hoặc Thay đổi theo Hệ điều hành
+- Ẩn trạng thái : Đang soạn tin nhắn, Đã nhận và Đã xem tin nhắn
+- Đa nền tảng : Windows, macOS, Chrome, Safari, Opera, Edge và Firefox
+- Mã nguồn mở : https://go.quaric.com/zadark-github
+
+[Ghi chú]
+
+- ZaDark là sản phẩm của Quaric
+- ZaDark không phải là sản phẩm từ Zalo Group
+- ZaDark chưa bao giờ thu thập và sẽ không bao giờ thu thập bất kỳ dữ liệu cá nhân nào như lịch sử duyệt web, mật khẩu,...
+
+---
+ZaDark from Quaric
+Website : https://zadark.quaric.com","Categories
+Chat"
+"OBS Studios, also known as Open Broadcaster Software, is a free and open source software program for live streaming and video recording. Features of the software include device/source capture, recording, encoding and broadcasting. Stream on Windows, Mac or Linux. This software is commonly used by video game streamers on the popular streaming platform Twitch.OBS Studios, also known as Open Broadcaster Software, is a free and open source software program for live streaming and video recording. Features of the software include device/source capture, recording, encoding and broadcasting. Stream on Windows, Mac or Linux. This software is commonly used by video game streamers on the popular streaming platform Twitch.","Categories
+Streaming, Video Capture, Audio Recording"
+"Open Source and Unified Communications partners created a new platform based on an Elastix® fork (currently purchased by 3CX) to provide the community with continuity, peace of mind and support needed to continue with their PBX and operation developments.
+Contribute to the funding of Issabel on https://www.patreon.com/issabelOpen Source and Unified Communications partners created a new platform based on an Elastix® fork (currently purchased by 3CX) to provide the community with continuity, peace of mind and support needed to continue with their PBX and operation developments.
+Contribute to the funding of Issabel on https://www.patreon.com/issabel","Categories
+Communications, VoIP, PBX"
+"Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)","Categories
+Security, Browsers, VoIP"
+An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.,"Categories
+Communications, Mobile"
+"Grsync is used to synchronize folders, files and make backups. It is a rsync GUI (Graphical User Interface).Grsync is used to synchronize folders, files and make backups. It is a rsync GUI (Graphical User Interface).","Categories
+File Managers, Backup, File Sync"
+QtMoko is distribution and software stack for Linux based SmartPhonesQtMoko is distribution and software stack for Linux based SmartPhones,"Categories
+Telephony"
+"HTTP server designed for file transfer. Very easy to use, just drag&drop your files in it. It automatically copies in the clipboard the full url of the file, so you just have to paste in your preferred chat. Standalone executable.HTTP server designed for file transfer. Very easy to use, just drag&drop your files in it. It automatically copies in the clipboard the full url of the file, so you just have to paste in your preferred chat. Standalone executable.","Categories
+File Sharing, HTTP Servers"
+"Nested commands, easy configuration, and an incredibly flexible and easy-to-use plugin system distinguish Supybot from other IRC bots. There simply isn't a more flexible or easier to use IRC bot!Nested commands, easy configuration, and an incredibly flexible and easy-to-use plugin system distinguish Supybot from other IRC bots. There simply isn't a more flexible or easier to use IRC bot!","Categories
+IRC Clients"
+The continuation of the Alpine email client from University of Washington.The continuation of the Alpine email client from University of Washington.,"Categories
+Email Clients"
+"THIS LIBRARY IS NOT UNDER ACTIVE DEVELOPMENT (sorry).
+
+AIMLBot (Program#) is a small, fast, standards-compliant yet easily customizable .NET dll implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot. AIMLBot has been tested on both Microsoft's runtime environment and Mono.THIS LIBRARY IS NOT UNDER ACTIVE DEVELOPMENT (sorry).
+
+AIMLBot (Program#) is a small, fast, standards-compliant yet easily customizable .NET dll implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot. AIMLBot has been tested on both Microsoft's runtime environment and Mono.","Categories
+Chat, Artificial Intelligence, HMI"
+"MLE - The Mobile Learning Engine is a learning application for mobile phones written in Java (J2ME). It enables you to use your phone at anytime and at anyplace for computer-aided, multimedia-based learning. It is a content independent engine.MLE - The Mobile Learning Engine is a learning application for mobile phones written in Java (J2ME). It enables you to use your phone at anytime and at anyplace for computer-aided, multimedia-based learning. It is a content independent engine.","Categories
+Communications, Education, Mobile"
+"Jimm is an ICQ clone for mobile devices, such as celluluar phones. It is written in Java 2 Micro Edition (MIDP) and uses protocol version 8. Jimm is not affiliated with or endorsed by ICQ, Inc.Jimm is an ICQ clone for mobile devices, such as celluluar phones. It is written in Java 2 Micro Edition (MIDP) and uses protocol version 8. Jimm is not affiliated with or endorsed by ICQ, Inc.","Categories
+ICQ"
+The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.,"Categories
+File Sharing, Firewall, Internet"
+"Complete manufacturing automation platform for factory and process equipment. It includes multi-protocol communications (including Modbus/TCP), PLC soft logic, HMI, and tools for troubleshooting and installation in 4 comprehensive packages.Complete manufacturing automation platform for factory and process equipment. It includes multi-protocol communications (including Modbus/TCP), PLC soft logic, HMI, and tools for troubleshooting and installation in 4 comprehensive packages.","Categories
+Communications, Scientific/Engineering"
+msn-proxy is a lightweight transparent proxy used to control/monitor the use of msn messenger clients. support all active protocols (all clients). lots of features.msn-proxy is a lightweight transparent proxy used to control/monitor the use of msn messenger clients. support all active protocols (all clients). lots of features.,"Categories
+MSN Messenger"
+"Highly scalable/configurable Messaging Platform allowing users in a domain to be distributed on multiple hosts, has multiple queues. Provides virtual domains/users in MySQL. Modern MSP class qmail replacement with ESMTP, POP3/IMAP, QMTP, QMQP supportHighly scalable/configurable Messaging Platform allowing users in a domain to be distributed on multiple hosts, has multiple queues. Provides virtual domains/users in MySQL. Modern MSP class qmail replacement with ESMTP, POP3/IMAP, QMTP, QMQP support","Categories
+POP3, IMAP, Mail Transfer Agents, Email Marketing, Email Servers"
+"<b>Direct Youtube To Mp3 Downloader App Link</b>
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+https://fvdtube.com/en/youtube-mp3-converter/ <<<< Direct APK ***********
+
+Youtube to mp3 Downloader for Android Phones is the best app for those who love watching youtube videos and the best thing about this application is that, you can download whatever youtube you like and keep it with you forever. The videos can be downloaded in whatever format you like as per the quality and resolution. Youtube Downloader for Android Phones also allows multiple video downloading at one time. This is surely one cool app for android phones.<b>Direct Youtube To Mp3 Downloader App Link</b>
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+https://fvdtube.com/en/youtube-mp3-converter/ <<<< Direct APK ***********
+
+Youtube to mp3 Downloader for Android Phones is the best app for those who love watching youtube videos and the best thing about this application is that, you can download whatever youtube you like and keep it with you forever. The videos can be downloaded in whatever format you like as per the quality and resolution. Youtube Downloader for Android Phones also allows multiple video downloading at one time. This is surely one cool app for android phones.","Categories
+Communications, Video Downloaders, YouTube Downloaders"
+"LAN Messenger is a p2p chat application for intranet communication and does not require a server. A variety of handy features are supported including notifications, personal and group messaging with encryption, file transfer and message logging.LAN Messenger is a p2p chat application for intranet communication and does not require a server. A variety of handy features are supported including notifications, personal and group messaging with encryption, file transfer and message logging.","Categories
+Chat, LAN Messengers"
+"This is the home of Star live distro powered by Devuan stable linux (Non-Systemd).
+
+Images to choose from:
+64 bit - Xfce (minimal), Fluxbox, Openbox, Jwm, i3, Cli
+32bit - Jwm, Cli
+
+There is a small selection of applications, including: web browser, text editor, image viewer, pdf viewer, file manager, terminal, media player.
+
+If you like to customize your desktop, then this is the distro you you!
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.This is the home of Star live distro powered by Devuan stable linux (Non-Systemd).
+
+Images to choose from:
+64 bit - Xfce (minimal), Fluxbox, Openbox, Jwm, i3, Cli
+32bit - Jwm, Cli
+
+There is a small selection of applications, including: web browser, text editor, image viewer, pdf viewer, file manager, terminal, media player.
+
+If you like to customize your desktop, then this is the distro you you!
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.","Categories
+Communications, OS distribution, Live CD, PDF Readers"
+YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!,"Categories
+POP3, Mail Transfer Agents, Browsers, Email Servers"
+Access your remote files over SFTP directly from Windows Explorer and 'My Computer'.Access your remote files over SFTP directly from Windows Explorer and 'My Computer'.,"Categories
+File Sharing, Desktop Environment, System Shells, Networking, File Systems"
+"GOALBIT is a peer to peer distribution system, capable of distributing high-bandwidth live-content to all network peers preserving its perceived quality.GOALBIT is a peer to peer distribution system, capable of distributing high-bandwidth live-content to all network peers preserving its perceived quality.","Categories
+Streaming, Video"
+"FrostWire http://www.frostwire.com/ is a media player and Peer to Peer (P2P) information sharing client for the BitTorrent network.
+
+This project is not affiliated with LimeWire LLC. FrostWires' source code is Licensed under the GNU GPL and Apache Open Source licenses.
+
+
+System Requirements
+
+Any of the following operating systems:
+
+● Windows 10, 8, 7, Vista for Intel processors (64-bit only)
+
+● Mac OS X 10.11 (El Capitan) or later (64-bit)
+
+● Linux, Unix such as Solaris (64-bit)
+
+● Android 7.0 or later
+
+256 MB of RAM (512 MB Recommended)
+An active internet connectionFrostWire http://www.frostwire.com/ is a media player and Peer to Peer (P2P) information sharing client for the BitTorrent network.
+
+This project is not affiliated with LimeWire LLC. FrostWires' source code is Licensed under the GNU GPL and Apache Open Source licenses.
+
+
+System Requirements
+
+Any of the following operating systems:
+
+● Windows 10, 8, 7, Vista for Intel processors (64-bit only)
+
+● Mac OS X 10.11 (El Capitan) or later (64-bit)
+
+● Linux, Unix such as Solaris (64-bit)
+
+● Android 7.0 or later
+
+256 MB of RAM (512 MB Recommended)
+An active internet connection","Categories
+File Sharing, Players, Media Players"
+"OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.","Categories
+Communications, Security, Internet, Load Balancers"
+"Open source DKIM library, MTA filter implementation and associated tools.Open source DKIM library, MTA filter implementation and associated tools.","Categories
+Email Spam Filter, Anti-Spam, Libraries"
+Pandion is an open source instant messaging client for XMPP networks. Keep in touch with friends or collaborate with colleagues using Pandion instant messenger. Pandion is designed for ease of use and secure communication.Pandion is an open source instant messaging client for XMPP networks. Keep in touch with friends or collaborate with colleagues using Pandion instant messenger. Pandion is designed for ease of use and secure communication.,"Categories
+XMPP, Messaging"
+"eBrigade est l’outil en ligne nouvelle génération et l'un des leaders du marché qui facilite la gestion et l’organisation de toutes les structures.
+
+Nous proposons une solution accessible et intuitive, qui permet de gagner un temps précieux en simplifiant notamment la gestion des effectifs, des équipements et des activités.
+
+Avec eBrigade, la gestion complète de votre organisation est prise en charge dans le but d’optimiser votre temps. Cela passe par la gestion des équipes et leurs compétences, de leurs niveaux de formations en passant par la répartition automatisée des gardes et des astreintes jusqu’à la comptabilité, et le tout, à partir d'une même plateforme.
+
+En résumé, eBrigade est le logiciel qui révolutionne le quotidien de toutes les organisations.
+Vous pouvez tester notre logiciel lors d’une période d’essai gratuite en cliquant ici : https://ebrigade.online/
+
+Vous pouvez contacter l'équipe eBrigade au 01 84 25 26 63eBrigade est l’outil en ligne nouvelle génération et l'un des leaders du marché qui facilite la gestion et l’organisation de toutes les structures.
+
+Nous proposons une solution accessible et intuitive, qui permet de gagner un temps précieux en simplifiant notamment la gestion des effectifs, des équipements et des activités.
+
+Avec eBrigade, la gestion complète de votre organisation est prise en charge dans le but d’optimiser votre temps. Cela passe par la gestion des équipes et leurs compétences, de leurs niveaux de formations en passant par la répartition automatisée des gardes et des astreintes jusqu’à la comptabilité, et le tout, à partir d'une même plateforme.
+
+En résumé, eBrigade est le logiciel qui révolutionne le quotidien de toutes les organisations.
+Vous pouvez tester notre logiciel lors d’une période d’essai gratuite en cliquant ici : https://ebrigade.online/
+
+Vous pouvez contacter l'équipe eBrigade au 01 84 25 26 63","Categories
+Email, ERP, Calendar"
+"If you need help, please go to:
+
+https://www.websmithing.com/gps-tracker/
+
+Google Map Gps Cell Phone Tracker has a responsive design using twitter bootstrap! Google Map Gps Cell Phone Tracker includes clients for IOS, Android, Windows Phone and Java Me/J2ME cell phones.
+
+The project allows you to track cell phones periodically. For instance, every minute or every five minutes. With Google Map Gps Cell Phone Tracker, you can watch the cell phone being tracked in real time and you can store and reload routes easily.
+
+With Google Map Gps Cell Phone Tracker, you have the choice of two server stacks. Either using asp.net and Sql Server or using php and mySQL, postgreSQL or Sqlite. Both are included in the same download but you only need to use one.
+
+thanks
+NickIf you need help, please go to:
+
+https://www.websmithing.com/gps-tracker/
+
+Google Map Gps Cell Phone Tracker has a responsive design using twitter bootstrap! Google Map Gps Cell Phone Tracker includes clients for IOS, Android, Windows Phone and Java Me/J2ME cell phones.
+
+The project allows you to track cell phones periodically. For instance, every minute or every five minutes. With Google Map Gps Cell Phone Tracker, you can watch the cell phone being tracked in real time and you can store and reload routes easily.
+
+With Google Map Gps Cell Phone Tracker, you have the choice of two server stacks. Either using asp.net and Sql Server or using php and mySQL, postgreSQL or Sqlite. Both are included in the same download but you only need to use one.
+
+thanks
+Nick","Categories
+Communications, WWW/HTTP, Mobile"
+"phpList delivers Open Source email marketing, including analytics, list segmentation, content personalisaton and bounce processing. Extensive technical features and a secure and stable codebase are the result of over 17 years of continuous development.
+
+Used in 95 countries, available in 20+ languages, and used to send 25 billion email campaigns last year.
+
+Deploy it with your own SMTP server, or get a free hosted account at http://phplist.com.phpList delivers Open Source email marketing, including analytics, list segmentation, content personalisaton and bounce processing. Extensive technical features and a secure and stable codebase are the result of over 17 years of continuous development.
+
+Used in 95 countries, available in 20+ languages, and used to send 25 billion email campaigns last year.
+
+Deploy it with your own SMTP server, or get a free hosted account at http://phplist.com.","Categories
+Mailing List Servers, CRM, Dynamic Content, Email Marketing"
+"═══════════ ▲▲▲ ══════════════════════════════════════════════
+Find the various versions on the ""Files"" tab (https://sourceforge.net/projects/wsjt-x-improved/files/)
+
+wsjt-x_improved is an enhanced version of the excellent WSJT-X software by Joe Taylor K1JT, Steve Franke K9AN, Bill Somerville G4WJS and others (https://sourceforge.net/projects/wsjt/). Sometimes, however, even good things can be improved …
+
+Notes: wsjt-x_improved is experimental and is licensed under GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.txt). I am not aware of any adverse effects. However, use it at your own risk!
+
+Subscribe to the mailing list: https://sourceforge.net/projects/wsjt-x-improved/lists/wsjt-x-improved-community.
+
+If you want more, also take a look at my new jtdx_improved project (https://sourceforge.net/projects/jtdx-improved/).═══════════ ▲▲▲ ══════════════════════════════════════════════
+Find the various versions on the ""Files"" tab (https://sourceforge.net/projects/wsjt-x-improved/files/)
+
+wsjt-x_improved is an enhanced version of the excellent WSJT-X software by Joe Taylor K1JT, Steve Franke K9AN, Bill Somerville G4WJS and others (https://sourceforge.net/projects/wsjt/). Sometimes, however, even good things can be improved …
+
+Notes: wsjt-x_improved is experimental and is licensed under GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.txt). I am not aware of any adverse effects. However, use it at your own risk!
+
+Subscribe to the mailing list: https://sourceforge.net/projects/wsjt-x-improved/lists/wsjt-x-improved-community.
+
+If you want more, also take a look at my new jtdx_improved project (https://sourceforge.net/projects/jtdx-improved/).","Categories
+Ham Radio"
+"Desktop software for windows to create, send and track unlimited bulk emails for lifetime for free.
+
+Includes 500 email templates , automated bounce and subscription processing, spam checker, WYSIWYG HTML editor, google analytics and social media integration, automated delivery tracking to track opens , clicks and geolocation of recipients, multithreaded engine for fast delivery of emails, website forms integration, scheduled mailing and much more features.
+
+It is a 100% free software to send unlimited bulk emails for lifetime.Desktop software for windows to create, send and track unlimited bulk emails for lifetime for free.
+
+Includes 500 email templates , automated bounce and subscription processing, spam checker, WYSIWYG HTML editor, google analytics and social media integration, automated delivery tracking to track opens , clicks and geolocation of recipients, multithreaded engine for fast delivery of emails, website forms integration, scheduled mailing and much more features.
+
+It is a 100% free software to send unlimited bulk emails for lifetime.","Categories
+Email, Email Clients"

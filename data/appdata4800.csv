@@ -1,0 +1,585 @@
+Description,Category
+"A simple tool to rearrange/merge/delete pages from PDF files. The modular backend system uses either JPedal or JPod to display PDFs and iText or Apache PDFBox to save them.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Development of this project has moved to GitHub.
+Please check https://github.com/mgropp/pdfjumbler for current releases!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A simple tool to rearrange/merge/delete pages from PDF files. The modular backend system uses either JPedal or JPod to display PDFs and iText or Apache PDFBox to save them.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Development of this project has moved to GitHub.
+Please check https://github.com/mgropp/pdfjumbler for current releases!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","Categories
+Office/Business, PDF"
+"The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""","Categories
+Text Editors, Data Formats, Software Testing, Mainframe"
+This project aims at providing a plugin for Microsoft Word 2003 to open OpenOffice XML documentsThis project aims at providing a plugin for Microsoft Word 2003 to open OpenOffice XML documents,"Categories
+Word Processors, XML, Office Suites"
+"XForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is availableXForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is available","Categories
+HTML/XHTML, Browsers, User Interface (UI)"
+A plugin for the Gnome editor »gedit« that supports you in editing LaTeX documents and BibTeX bibliographies.A plugin for the Gnome editor »gedit« that supports you in editing LaTeX documents and BibTeX bibliographies.,"Categories
+Integrated Development Environments (IDE), TeX/LaTeX, GNOME"
+"Semantic MediaWiki is an extension to the MediaWiki software (powering Wikipedia), which extends the Wiki with ideas from the Semantic Web. We focus on usability and tight integration.
+
+See the web site for further details and GitHub at https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases for the file releases! (since version 2.4.0).Semantic MediaWiki is an extension to the MediaWiki software (powering Wikipedia), which extends the Wiki with ideas from the Semantic Web. We focus on usability and tight integration.
+
+See the web site for further details and GitHub at https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases for the file releases! (since version 2.4.0).","Categories
+Front-Ends, Dynamic Content, Semantic Web"
+BibDesk is a graphical bibTeX bibliography manager for Mac OS X.BibDesk is a graphical bibTeX bibliography manager for Mac OS X.,"Categories
+Text Processing, TeX/LaTeX"
+"MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically.MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically.","Categories
+Data Formats, Email"
+"Talend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.comTalend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.com","Categories
+Data Formats, Enterprise, Data Warehousing, Front-Ends, Code Generators, Distributed Computing, ETL"
+"The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.","Categories
+Data Formats, Other/Nonlisted Topic, Information Analysis"
+"XMLTreeEdit displays XML files as tree views and allows basic operations: adding, editting and deleting text nodes and their attributes.
+
+The main goal is providing a simple tool to create/edit XML configuration files for users without knowledge of XML.
+
+Built in Free Pascal Lazarus, which allows easy compilation for different target platforms.
+Currently binary executables were produced and tested on Windows (XP, 7) and Ubuntu Linux (GTK2).
+
+For developers: there are two units listed separately to support XML configuration files in your application:
+XMLfile.pas - Lazarus/Free Pascal
+uXMLConfig.pas - Delphi (2007..XE2)XMLTreeEdit displays XML files as tree views and allows basic operations: adding, editting and deleting text nodes and their attributes.
+
+The main goal is providing a simple tool to create/edit XML configuration files for users without knowledge of XML.
+
+Built in Free Pascal Lazarus, which allows easy compilation for different target platforms.
+Currently binary executables were produced and tested on Windows (XP, 7) and Ubuntu Linux (GTK2).
+
+For developers: there are two units listed separately to support XML configuration files in your application:
+XMLfile.pas - Lazarus/Free Pascal
+uXMLConfig.pas - Delphi (2007..XE2)","Categories
+Text Editors, XML"
+"This software implements the IEC60870-5-104 protocol (client side) for substation data acquisition and control via tcp/ip network using the QT UI Framework. It can be compiled on Linux and Windows platforms. It's possible to poll and view data from the remote system (RTU) and also send commands.
+>>> Have a look also at my new SCADA project here:
+https://github.com/riclolsen/json-scadaThis software implements the IEC60870-5-104 protocol (client side) for substation data acquisition and control via tcp/ip network using the QT UI Framework. It can be compiled on Linux and Windows platforms. It's possible to poll and view data from the remote system (RTU) and also send commands.
+>>> Have a look also at my new SCADA project here:
+https://github.com/riclolsen/json-scada","Categories
+Data Formats, SCADA, Test and Measurement"
+"Track your roaming staff, know their whereabouts and give them orders instantly. Works with web admin app,
+Android, Nokia etc. clients...Track your roaming staff, know their whereabouts and give them orders instantly. Works with web admin app,
+Android, Nokia etc. clients...","Categories
+XML, Browsers, AJAX"
+AlphaInnotec heatpump controler Luxtronik 2 saves the data of the last 48h in DTA files. This project should help to decode this files.AlphaInnotec heatpump controler Luxtronik 2 saves the data of the last 48h in DTA files. This project should help to decode this files.,"Categories
+Data Formats"
+"Set of classes for PHP that allow Excel XML files to be generated dynamically.
+Nearly a full implementation of the MS XML architecture.
+Requires PHP 5+
+Does not require any XML librariesSet of classes for PHP that allow Excel XML files to be generated dynamically.
+Nearly a full implementation of the MS XML architecture.
+Requires PHP 5+
+Does not require any XML libraries","Categories
+XML, Libraries, Report Generators"
+OdtPHP is a PHP librairy designed to use OpenDocument file as a template for PHP. It's a kind of PHPLib for OpenOffice document.OdtPHP is a PHP librairy designed to use OpenDocument file as a template for PHP. It's a kind of PHPLib for OpenOffice document.,"Categories
+Text Processing, XML"
+"Java flat text parser. Parse any delimited or fixed width strings. Bind user friendly column names to text positions via XML. Easily parse strings, dates, doubles, integers, etc.Java flat text parser. Parse any delimited or fixed width strings. Bind user friendly column names to text positions via XML. Easily parse strings, dates, doubles, integers, etc.","Categories
+Data Formats"
+"XML Copy Editor is a fast, free, validating XML editor.XML Copy Editor is a fast, free, validating XML editor.","Categories
+Text Processing, XML"
+"QPDF is a C++ library and set of programs that inspect and manipulate the structure of PDF files. It can encrypt and linearize files, expose the internals of a PDF file, and do many other operations useful to end users and PDF developers.QPDF is a C++ library and set of programs that inspect and manipulate the structure of PDF files. It can encrypt and linearize files, expose the internals of a PDF file, and do many other operations useful to end users and PDF developers.","Categories
+Data Formats, PDF"
+"OpenBEXI is a WYSIWYG HTML builder using the magic of HTML5 and CSS3 . By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
+All texts using the DOJO editor, pictures, charts, chart-flows, Dygraphs, timelines, lists and DOJO widgets edited on your browser look like the HTML page you are going to publish to your web site.
+OpenBEXI provides a powerful CSS and JavaScript editor to change on the fly the presentation and the behavior of your web pages.
+Tools allow you to create, manage and publish web projects and HTML pages for Internet.OpenBEXI is a WYSIWYG HTML builder using the magic of HTML5 and CSS3 . By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
+All texts using the DOJO editor, pictures, charts, chart-flows, Dygraphs, timelines, lists and DOJO widgets edited on your browser look like the HTML page you are going to publish to your web site.
+OpenBEXI provides a powerful CSS and JavaScript editor to change on the fly the presentation and the behavior of your web pages.
+Tools allow you to create, manage and publish web projects and HTML pages for Internet.","Categories
+HTML/XHTML, Web Development, Web Design"
+"pdf2xml convertor based on Xpdf library (http://www.foolabs.com/xpdf/home.html). It converts information contained in a PDF file into XML. First, you need to install xpdf and libxml2 (see documentation).
+Hervé Déjean
+Xerox Research Centre Europe
+
+http://www.xrce.xerox.com/About-XRCE/People/Herve-Dejeanpdf2xml convertor based on Xpdf library (http://www.foolabs.com/xpdf/home.html). It converts information contained in a PDF file into XML. First, you need to install xpdf and libxml2 (see documentation).
+Hervé Déjean
+Xerox Research Centre Europe
+
+http://www.xrce.xerox.com/About-XRCE/People/Herve-Dejean","Categories
+XML, Other/Nonlisted Topic, Cataloguing"
+"Easy, fast and free CMS Blog.
+Nibbleblog it's a powerful engine for creating blogs, all you need is PHP to work. Very simple to install and configure (only 1 step).Easy, fast and free CMS Blog.
+Nibbleblog it's a powerful engine for creating blogs, all you need is PHP to work. Very simple to install and configure (only 1 step).","Categories
+XML, Site Management, Blogging"
+"Gerber2PDF is a command-line tool to convert Gerber files to PDF for proofing and hobbyist printing purposes.
+
+It converts multiple Gerber files at once, placing the resulting layers each on it's own page within the PDF. Each layer has a PDF bookmark for easy reference.
+
+Layers can optionally be combined onto a single page and rendered with custom colours and transparency.
+
+There is a Drill to Gerber converter available from the downloads page.Gerber2PDF is a command-line tool to convert Gerber files to PDF for proofing and hobbyist printing purposes.
+
+It converts multiple Gerber files at once, placing the resulting layers each on it's own page within the PDF. Each layer has a PDF bookmark for easy reference.
+
+Layers can optionally be combined onto a single page and rendered with custom colours and transparency.
+
+There is a Drill to Gerber converter available from the downloads page.","Categories
+Electronic Design Automation (EDA), PDF, Command Line Tools"
+"FCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topiFCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topi","Categories
+XML, 3D Modeling, 3D Rendering, Data Visualization"
+"A Java API for XBRL providing comprehensive data access. It is suitable for searching, analysing and presenting LARGE amounts of XBRL data. XBRLAPI also releases a separate XLink processor, XML Base resolver and XPointer parser.A Java API for XBRL providing comprehensive data access. It is suitable for searching, analysing and presenting LARGE amounts of XBRL data. XBRLAPI also releases a separate XLink processor, XML Base resolver and XPointer parser.","Categories
+XML"
+"A real-time graph plotter. While your application is computing and logging results to a CSV file using the LiveGraph Writer API, the plotter lets you visualise and monitor the results live - by instantly plotting charts and graphs of the data.A real-time graph plotter. While your application is computing and logging results to a CSV file using the LiveGraph Writer API, the plotter lets you visualise and monitor the results live - by instantly plotting charts and graphs of the data.","Categories
+Data Formats, Frameworks, Simulation, Interface Engine/Protocol Translator, Data Visualization, Information Analysis"
+"MagpieRSS is a simple, functional PHP inteface for parsing RSS 1.0 (and earlier versions).
+
+Built on PHP's XML (expat) parser, and with an integrated cache for storing the parsed RSS objects, Magpie is designed by simple, and 'PHP-like' to use.MagpieRSS is a simple, functional PHP inteface for parsing RSS 1.0 (and earlier versions).
+
+Built on PHP's XML (expat) parser, and with an integrated cache for storing the parsed RSS objects, Magpie is designed by simple, and 'PHP-like' to use.","Categories
+RSS, WWW/HTTP, Software Development"
+"Writer2LaTeX and Writer2xhtml is a collection of converters from OpenDocument Format (ODF) to LaTeX/BibTeX, HTML+MathML and EPUB.
+It is delivered as a standalone java library, as a command line application and as extensions for LibreOffice.Writer2LaTeX and Writer2xhtml is a collection of converters from OpenDocument Format (ODF) to LaTeX/BibTeX, HTML+MathML and EPUB.
+It is delivered as a standalone java library, as a command line application and as extensions for LibreOffice.","Categories
+Word Processors, HTML/XHTML, TeX/LaTeX, Office Suites"
+"Jaxe is a free Java XML editor with a configurable GUI, using XML schemas for validation and XSL for exports in HTML or XML.Jaxe is a free Java XML editor with a configurable GUI, using XML schemas for validation and XSL for exports in HTML or XML.","Categories
+Text Processing, XML"
+"Aperture is a Java framework for extracting and querying full-text content and metadata from various information systems (file systems, web sites, mail boxes, ...) and the file formats (documents, images, ...) occurring in these systems.Aperture is a Java framework for extracting and querying full-text content and metadata from various information systems (file systems, web sites, mail boxes, ...) and the file formats (documents, images, ...) occurring in these systems.","Categories
+Data Formats, Search Engines, Frameworks, Search"
+PDF Chain is a graphical user interface for the PDF Toolkit (PDFtk). The GUI supports all common features of the command line tool in a comfortable way.PDF Chain is a graphical user interface for the PDF Toolkit (PDFtk). The GUI supports all common features of the command line tool in a comfortable way.,"Categories
+Data Formats, Office/Business, PDF"
+"Software for sustainability assessment, highly modular; initially focused on Life Cycle Assessments.Software for sustainability assessment, highly modular; initially focused on Life Cycle Assessments.","Categories
+Data Formats, Simulation, Ecosystem Sciences"
+"eLML (eLesson Markup Language) is an XML framework for creating structured eLessons based on a pedagogical model. eLML consists of an XMLSchema and XSLT files to create XHTML, PDF, LaTeX, IMS CP and SCORM versions, standards supported by most LMS.eLML (eLesson Markup Language) is an XML framework for creating structured eLessons based on a pedagogical model. eLML consists of an XMLSchema and XSLT files to create XHTML, PDF, LaTeX, IMS CP and SCORM versions, standards supported by most LMS.","Categories
+XML, Frameworks, Education"
+"Cross-platform command-line tool for creation of PDF documents from scans/photos of pages in JPEG (.jpg) format and the lightest weight ANSI C library to put multiple JPEG files into one PDF file.
+
+You can add handwritten comments to PDF scans (over original images) with xournal: http://xournal.sourceforge.net/
+It supports graphics tablets and saves comments to PDFs as vector data.Cross-platform command-line tool for creation of PDF documents from scans/photos of pages in JPEG (.jpg) format and the lightest weight ANSI C library to put multiple JPEG files into one PDF file.
+
+You can add handwritten comments to PDF scans (over original images) with xournal: http://xournal.sourceforge.net/
+It supports graphics tablets and saves comments to PDFs as vector data.","Categories
+Image Converters, Digital Preservation, PDF"
+"PdfBooklet is a Python Gtk application which allows to make books or booklets from existing pdf files. It can also adjust margins, rotate, scale, merge files or extract pages.PdfBooklet is a Python Gtk application which allows to make books or booklets from existing pdf files. It can also adjust margins, rotate, scale, merge files or extract pages.","Categories
+PDF, PDF Merge"
+Editor for both Csv files and Fixed width files. There is automatic attribute detection for single record Csv Files. You can edit Fixed Width file and Multi-Record Csv / Fixed width files using a Xml Schema. There is also limited editing available for Xml and PO files.Editor for both Csv files and Fixed width files. There is automatic attribute detection for single record Csv Files. You can edit Fixed Width file and Multi-Record Csv / Fixed width files using a Xml Schema. There is also limited editing available for Xml and PO files.,"Categories
+Text Editors, XML, CSV"
+HtmlCleaner is HTML parser written in Java. It transforms dirty HTML to well-formed XML following the same rules that the most web-browsers use.HtmlCleaner is HTML parser written in Java. It transforms dirty HTML to well-formed XML following the same rules that the most web-browsers use.,"Categories
+HTML/XHTML"
+SVG Document Object Model in C# on the .Net framework. Help build the future foundation of SVG on .Net.SVG Document Object Model in C# on the .Net framework. Help build the future foundation of SVG on .Net.,"Categories
+XML, Image Viewers"
+"WorkerPDF uses GhostScript https://www.ghostscript.com/.
+WorkerPDF created for PDF conversion.
+Program features:
+- Compress pdf documents;
+- Combine pdf;
+- Moving pdf pages;
+- Rotating pdf pages;
+- Creating pdf from images;
+- Convert pdf to images.
+- Encrypt, decrypt pdf
+
+WorkerPDF использует GhostScript https://www.ghostscript.com/.
+WorkerPDF создан для преобразования PDF.
+Возможности программы:
+- Сжатие pdf документов;
+- Объединение pdf;
+- Перестановка страниц pdf;
+- Поворот страниц pdf;
+- Создание pdf из изображений;
+- Преобразование pdf в изображения.
+- Шифрование, дешифрование pdfWorkerPDF uses GhostScript https://www.ghostscript.com/.
+WorkerPDF created for PDF conversion.
+Program features:
+- Compress pdf documents;
+- Combine pdf;
+- Moving pdf pages;
+- Rotating pdf pages;
+- Creating pdf from images;
+- Convert pdf to images.
+- Encrypt, decrypt pdf
+
+WorkerPDF использует GhostScript https://www.ghostscript.com/.
+WorkerPDF создан для преобразования PDF.
+Возможности программы:
+- Сжатие pdf документов;
+- Объединение pdf;
+- Перестановка страниц pdf;
+- Поворот страниц pdf;
+- Создание pdf из изображений;
+- Преобразование pdf в изображения.
+- Шифрование, дешифрование pdf","Categories
+Data Formats, PDF, PDF Merge"
+Starbatch is a batch lisp program for Autodesk Autocad drawings. Using StarBatch you can automate AutoCAD to save you time and money. Batch your favourite Lisp's while you complete other tasks.Starbatch is a batch lisp program for Autodesk Autocad drawings. Using StarBatch you can automate AutoCAD to save you time and money. Batch your favourite Lisp's while you complete other tasks.,"Categories
+Mechanical and Civil Engineering, Computer-aided technologies (CADD/CAM/CAE), CAD"
+"AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.","Categories
+Data Formats, Software Development, Mechanical and Civil Engineering"
+jQuery4PHP ( jQuery for PHP ) is a PHP 5 library. Makes easy writing javascript code (jQuery syntax) using PHP objects. Develops Rich Internet Applications in an easy way without having to know javascript language with the help and power of jQuery.jQuery4PHP ( jQuery for PHP ) is a PHP 5 library. Makes easy writing javascript code (jQuery syntax) using PHP objects. Develops Rich Internet Applications in an easy way without having to know javascript language with the help and power of jQuery.,"Categories
+HTML/XHTML, JSON, AJAX"
+"ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1","Categories
+Data Formats, Code Generators, Compilers, Interface Engine/Protocol Translator"
+json.py is an implementation of a JSON (http://json.org) reader and writer in Python. jsontests.py are unit tests demonstrating the correctness of the implementation.json.py is an implementation of a JSON (http://json.org) reader and writer in Python. jsontests.py are unit tests demonstrating the correctness of the implementation.,"Categories
+Data Formats"
+A complete open source implementation of DIS (Distributed Interactive Simulation) in C++. 1278.1 and 1278.1a are fully implemented including enumerations. Includes several utility classes to help with developing your DIS app. DIS 7 work is ongoing.A complete open source implementation of DIS (Distributed Interactive Simulation) in C++. 1278.1 and 1278.1a are fully implemented including enumerations. Includes several utility classes to help with developing your DIS app. DIS 7 work is ongoing.,"Categories
+Data Formats, Simulation Games, Simulation"
+"cantools is a set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files. The tools can be used to analyze and convert the data to other formats. Shared libraries for parsing and accessing these files are also provided.cantools is a set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files. The tools can be used to analyze and convert the data to other formats. Shared libraries for parsing and accessing these files are also provided.","Categories
+Data Formats"
+"This is a delphi library implementing JSON (XML alternative, http://www.json.org) data format and objects structure. Lightweight and fast.This is a delphi library implementing JSON (XML alternative, http://www.json.org) data format and objects structure. Lightweight and fast.","Categories
+Data Formats, Software Development"
+"All-in-one program for creating 2D scrolling games. Compile your games into stand-alone .NET executables or customizable C# source code. The IDE and framework are build on OpenTK, which wraps OpenGL, so generated games can be cross-platform.All-in-one program for creating 2D scrolling games. Compile your games into stand-alone .NET executables or customizable C# source code. The IDE and framework are build on OpenTK, which wraps OpenGL, so generated games can be cross-platform.","Categories
+XML, Side-Scrolling, Frameworks, Code Generators, Design, Raster Graphics"
+"""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.","Categories
+XML, Interpreters, System Shells"
+"Web data extraction (web data mining, web scraping) tool. It leverages well proved XML and text processing techologies in order to easely extract useful data from arbitrary web pages.Web data extraction (web data mining, web scraping) tool. It leverages well proved XML and text processing techologies in order to easely extract useful data from arbitrary web pages.","Categories
+XML, HTML/XHTML, Search Engines, Frameworks"
+"Codepage Converter - Convert HTML/Text files to different encoding formats e.g. ANSI to UTF-8 or Unicode. Convert multiple files with 1 click. Works with all encodings.
+
+* The issue with UTF-8 has now been fixed.Codepage Converter - Convert HTML/Text files to different encoding formats e.g. ANSI to UTF-8 or Unicode. Convert multiple files with 1 click. Works with all encodings.
+
+* The issue with UTF-8 has now been fixed.","Categories
+Data Formats, Site Management, Localization (L10N), Internationalization (I18N)"
+The COLLADA Document Object Model (DOM) is an application programming interface (API) that provides a C++ object representation of a COLLADA XML instance document. Contact a project admin to become a developer!The COLLADA Document Object Model (DOM) is an application programming interface (API) that provides a C++ object representation of a COLLADA XML instance document. Contact a project admin to become a developer!,"Categories
+XML, Games/Entertainment, Graphics"
+pstoedit is a tool converting PostScript and PDF files into various other formats suported by different drawing editors. As a prerequesite it needs GhostScript to be installed (binary installation is sufficient).pstoedit is a tool converting PostScript and PDF files into various other formats suported by different drawing editors. As a prerequesite it needs GhostScript to be installed (binary installation is sufficient).,"Categories
+Image Converters, Vector Graphics, PDF"
+"Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!","Categories
+Data Formats, Software Testing, Interface Engine/Protocol Translator"
+A Mozilla Firefox extension for interacting with Amazon Compute Cloud (Amazon EC2). The source code also functions as an example of how to use the Amazon EC2 Query API from JavaScript.A Mozilla Firefox extension for interacting with Amazon Compute Cloud (Amazon EC2). The source code also functions as an example of how to use the Amazon EC2 Query API from JavaScript.,"Categories
+Web Services"
+"Converts Google Earth KML file to a CSV file, and vice versa. This enables you to plot all custom POIs with Google Earth first before transferring them into your Garmin GPS using the POI Loader.Converts Google Earth KML file to a CSV file, and vice versa. This enables you to plot all custom POIs with Google Earth first before transferring them into your Garmin GPS using the POI Loader.","Categories
+Data Formats, Information Analysis, GIS"
+"A Windows Property Handler which backs onto Taglib, allowing Windows Explorer, Windows Search and other applications using the same API to access metadata from a wide range of media formats.A Windows Property Handler which backs onto Taglib, allowing Windows Explorer, Windows Search and other applications using the same API to access metadata from a wide range of media formats.","Categories
+Data Formats, Sound/Audio"
+"ONVIF Device Manager is a Network Video Client (NVC) to manage Network Video Transmitters (NVT), Network Video Storage (NVS) and Network Video Analytics (NVA) devices. Implements Discovery, Device, Media, Imaging, Analytics, Events and PTZ services. Written in C# and uses ffmpeg for media decoding.
+
+English User Guide
+https://wiki.allprojects.info/display/ODMDOC/ONVIF+Device+Manager.+Installation+and+User+Guide
+
+Russian User Guide
+https://wiki.allprojects.info/display/ODMDOC/RUONVIF Device Manager is a Network Video Client (NVC) to manage Network Video Transmitters (NVT), Network Video Storage (NVS) and Network Video Analytics (NVA) devices. Implements Discovery, Device, Media, Imaging, Analytics, Events and PTZ services. Written in C# and uses ffmpeg for media decoding.
+
+English User Guide
+https://wiki.allprojects.info/display/ODMDOC/ONVIF+Device+Manager.+Installation+and+User+Guide
+
+Russian User Guide
+https://wiki.allprojects.info/display/ODMDOC/RU","Categories
+Streaming, Video, Web Services"
+"This library is free for any kind of use, including commercial use. It is licensed under the MIT license.
+
+The parser is compatible with Excel and with OpenOffice/LibreOffice Calc, and can parse hard cases of CSV files
+
+
+Check the Wiki page for usage examples and APIThis library is free for any kind of use, including commercial use. It is licensed under the MIT license.
+
+The parser is compatible with Excel and with OpenOffice/LibreOffice Calc, and can parse hard cases of CSV files
+
+
+Check the Wiki page for usage examples and API","Categories
+Data Formats"
+NOTICE: wimlib hosting has been moved to a dedicated website at https://wimlib.net. All files and source code have been removed from SourceForge and can be found on the new website.NOTICE: wimlib hosting has been moved to a dedicated website at https://wimlib.net. All files and source code have been removed from SourceForge and can be found on the new website.,"Categories
+Data Formats"
+"Simple XML parser written in C, with limited XPath and Unicode support and customizable tags. 'Simple' means that it does not implement all XML specifications, only the most widely used ones.Simple XML parser written in C, with limited XPath and Unicode support and customizable tags. 'Simple' means that it does not implement all XML specifications, only the most widely used ones.","Categories
+XML, XML Parsers"
+"A really wonderful software to visualise and analyse GPS traces in many different ways (speed and elevation variation, etc.), with different background maps (hiking map, road map, orienteering map, aerial image, cycling map, etc.). It is possible to make KML exports.A really wonderful software to visualise and analyse GPS traces in many different ways (speed and elevation variation, etc.), with different background maps (hiking map, road map, orienteering map, aerial image, cycling map, etc.). It is possible to make KML exports.","Categories
+Data Formats, Mobile, Sports Games"
+"SmartSlog (Smart Space Ontology) is a software/application development kit (SDK or ADK) for programming Smart-M3 agents (Knowledge Processors, KPs) that consume/produce smart space content according with its high-level ontological representation. SmartSlog applies the code generation approach: given an OWL ontology description, the ontology programming library is produced. The latter provides API to access the smart space via a Smart-M3 Semantic Information Broker (SIB) and data structures and functions to represent and maintain locally in KP code all ontology classes, relations, properties, and individuals.
+
+Since 2012 the project is supported by grant KA179 of Karelia ENPI programme, http://kareliaenpi.eu/
+
+More information about project: http://oss.fruct.org/wiki/SmartSlog
+Smart-M3 on Wikipedia: http://en.wikipedia.org/wiki/Smart-M3SmartSlog (Smart Space Ontology) is a software/application development kit (SDK or ADK) for programming Smart-M3 agents (Knowledge Processors, KPs) that consume/produce smart space content according with its high-level ontological representation. SmartSlog applies the code generation approach: given an OWL ontology description, the ontology programming library is produced. The latter provides API to access the smart space via a Smart-M3 Semantic Information Broker (SIB) and data structures and functions to represent and maintain locally in KP code all ontology classes, relations, properties, and individuals.
+
+Since 2012 the project is supported by grant KA179 of Karelia ENPI programme, http://kareliaenpi.eu/
+
+More information about project: http://oss.fruct.org/wiki/SmartSlog
+Smart-M3 on Wikipedia: http://en.wikipedia.org/wiki/Smart-M3","Categories
+Code Generators, Embedded Systems, Semantic Web"
+"NO LONGER MAINTAINED, NO LONGER SUPPORTED
+
+The Digital Preservation Recorder (DPR) has been developed by the National Archives of Australia to manage a digital preservation workflow. It features antivirus integration and makes use of the Xena framework for preservation conversions of data objectsNO LONGER MAINTAINED, NO LONGER SUPPORTED
+
+The Digital Preservation Recorder (DPR) has been developed by the National Archives of Australia to manage a digital preservation workflow. It features antivirus integration and makes use of the Xena framework for preservation conversions of data objects","Categories
+XML, Archiving, Digital Preservation"
+"SVG-cards is a collection of decks of playing cards made with the SVG format. They feature high-quality design from different styles and countries (poker, bridge, french, spanish, etc...) and vectorial representation: it means at any resolution on any support, the quality will remain the same.SVG-cards is a collection of decks of playing cards made with the SVG format. They feature high-quality design from different styles and countries (poker, bridge, french, spanish, etc...) and vectorial representation: it means at any resolution on any support, the quality will remain the same.","Categories
+Card Games, XML, Graphics"
+A server-side web-based AJAX-enabled RSS/Atom feed aggregator/news tracking tool. Requires PHP 4/5 and MySQL 4/5. Can host on Windows/Linux/BSD/MacOSX and browse on IE6/IE7/Firefox/Safari/Chrome/et al. See our web site for more details.A server-side web-based AJAX-enabled RSS/Atom feed aggregator/news tracking tool. Requires PHP 4/5 and MySQL 4/5. Can host on Windows/Linux/BSD/MacOSX and browse on IE6/IE7/Firefox/Safari/Chrome/et al. See our web site for more details.,"Categories
+RSS, RSS Feed Readers"
+"VGMToolbox is a C# based tool to assist VGM collectors and dumpers. It includes tools to extract, optimize, and build VGM formats as well as auditing and exploration utilities. [GBS, KSS, MDX, NSF(E), SID, S98, SPC, VGM, XA, XMA, xSF (PSF/PSF2/etc)]VGMToolbox is a C# based tool to assist VGM collectors and dumpers. It includes tools to extract, optimize, and build VGM formats as well as auditing and exploration utilities. [GBS, KSS, MDX, NSF(E), SID, S98, SPC, VGM, XA, XMA, xSF (PSF/PSF2/etc)]","Categories
+Data Formats, Games/Entertainment, Audio Analysis"
+"Program converts Opera Contacts file to gmail contacts file "".csv"", which you can import to gmail contacts.Program converts Opera Contacts file to gmail contacts file "".csv"", which you can import to gmail contacts.","Categories
+Data Formats"
+"HIPAATalk - Contains stored procedures and sample DTS packages for parsing and converting X12 to flat tables and creating HIPAA-compliant X12 files. Currently reads 820, 834, 835, 837P/I/D, 841, 997, TA1, and creates 835, 837P/I/D, 834, 277U, 997, TA1.HIPAATalk - Contains stored procedures and sample DTS packages for parsing and converting X12 to flat tables and creating HIPAA-compliant X12 files. Currently reads 820, 834, 835, 837P/I/D, 841, 997, TA1, and creates 835, 837P/I/D, 834, 277U, 997, TA1.","Categories
+Data Formats, Database, Frameworks"
+"JODConverter automates conversions between office document formats using OpenOffice.org. Supported formats include OpenDocument, PDF, RTF, Word, Excel, PowerPoint, and Flash. It can be used as a Java library, a command line tool, or a Web application.JODConverter automates conversions between office document formats using OpenOffice.org. Supported formats include OpenDocument, PDF, RTF, Word, Excel, PowerPoint, and Flash. It can be used as a Java library, a command line tool, or a Web application.","Categories
+Data Formats, Office/Business, Dynamic Content"
+"An implementation of DSSSL, a style language to format SGML or XML documents.
+OpenJade contains backends for various formats (RTF, HTML, TeX, MIF, SGML2SGML, and FOT). This project also maintains OpenSP.An implementation of DSSSL, a style language to format SGML or XML documents.
+OpenJade contains backends for various formats (RTF, HTML, TeX, MIF, SGML2SGML, and FOT). This project also maintains OpenSP.","Categories
+XML, SGML, DocBook, HTML/XHTML, TeX/LaTeX, Interpreters"
+IBM Z/Series packed and zone decimal conversion routines in Java. Demo program include with code usage sample.IBM Z/Series packed and zone decimal conversion routines in Java. Demo program include with code usage sample.,"Categories
+Data Formats"
+"ShowDown is a simple yet powerful tool for automating the process of finding and downloading new episodes of your favorite shows as they air. Simply choose your shows from the ever growing list of supported shows, then let ShowDown do the rest.ShowDown is a simple yet powerful tool for automating the process of finding and downloading new episodes of your favorite shows as they air. Simply choose your shows from the ever growing list of supported shows, then let ShowDown do the rest.","Categories
+RSS, BitTorrent, Video"
+"Imaging is native Object Pascal (Delphi and FPC) image loading, saving and manipulation library. It is available for several platforms and does not require any third party dynamic libraries.Imaging is native Object Pascal (Delphi and FPC) image loading, saving and manipulation library. It is available for several platforms and does not require any third party dynamic libraries.","Categories
+Data Formats, Graphics, Libraries"
+"ConcatPDF is the tool to concatenate PDF files. It can concatenate, extract, encrypt, decrypt, configure PDF files, convert image files to PDF. GUI version and CUI version are both available.
+
+iText.NET is iText porting on .NET Framework by J#. This library allows you to generate PDF, (X)HTML, XML, RTF files on Microsoft.NET Framework including ASP.NET.ConcatPDF is the tool to concatenate PDF files. It can concatenate, extract, encrypt, decrypt, configure PDF files, convert image files to PDF. GUI version and CUI version are both available.
+
+iText.NET is iText porting on .NET Framework by J#. This library allows you to generate PDF, (X)HTML, XML, RTF files on Microsoft.NET Framework including ASP.NET.","Categories
+Text Processing, Dynamic Content, PDF"
+"JMEDS is a lightweight, modular and extendable software framework for using the ""Devices Profile for Web-Services (DPWS)"" in Java based environments. It runs on Java CLDC (e.g. on embedded devices), CDC, Android and SE platforms.
+
+12.02.2014 v2.0.0 beta 10
+fixed the EXI release and included schema files for EXI's schema informed mode,
+multiple other bug fixes
+
+25.09.2013
+Bugfix release of JMEDS Framework: v2.0.0 beta 9a
+
+30.08.2013 v2.0.0 beta 9
+New version of JMEDS Framework
+
+We are doing our best to answer all questions from you and fix the bugs that are found as fast as we can! So don't hesitate to ask questions or report unexpected behaviour/bugs that you might find.
+
+DPWS Explorer released on http://ws4d.e-technik.uni-rostock.de/dpws-explorer/JMEDS is a lightweight, modular and extendable software framework for using the ""Devices Profile for Web-Services (DPWS)"" in Java based environments. It runs on Java CLDC (e.g. on embedded devices), CDC, Android and SE platforms.
+
+12.02.2014 v2.0.0 beta 10
+fixed the EXI release and included schema files for EXI's schema informed mode,
+multiple other bug fixes
+
+25.09.2013
+Bugfix release of JMEDS Framework: v2.0.0 beta 9a
+
+30.08.2013 v2.0.0 beta 9
+New version of JMEDS Framework
+
+We are doing our best to answer all questions from you and fix the bugs that are found as fast as we can! So don't hesitate to ask questions or report unexpected behaviour/bugs that you might find.
+
+DPWS Explorer released on http://ws4d.e-technik.uni-rostock.de/dpws-explorer/","Categories
+SOAP, Frameworks, Web Services"
+"Decodes CGI data from standard input, $QUERY_STRING , and $HTTP_COOKIE. Stores data in lookup table(s) for easy retrieval. Uploads files by copying
+directly to files created with mkstemp(). Has several handy string conversion
+functions.Decodes CGI data from standard input, $QUERY_STRING , and $HTTP_COOKIE. Stores data in lookup table(s) for easy retrieval. Uploads files by copying
+directly to files created with mkstemp(). Has several handy string conversion
+functions.","Categories
+HTML/XHTML, CGI Scripts"
+"gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.","Categories
+Data Formats, Compilers, Electronic Design Automation (EDA), Earth Sciences"
+"SEEKING NEW MAINTAINER.
+
+Java-library for manipulating the file-format of the gnucash open source accounting-software. Usable to automate accounting-tasks using e.g. HBCI or invoice-parsing or to simplify the preparation of your taxes. Contains a portable gnucash-viewer/editor.SEEKING NEW MAINTAINER.
+
+Java-library for manipulating the file-format of the gnucash open source accounting-software. Usable to automate accounting-tasks using e.g. HBCI or invoice-parsing or to simplify the preparation of your taxes. Contains a portable gnucash-viewer/editor.","Categories
+Data Formats, Accounting"
+This Java application serves to transform W3C XML Schema instances into interactive diagrams in SVG format. The diagram represents structure of XML files and provides information about individual items – elements and attributes.This Java application serves to transform W3C XML Schema instances into interactive diagrams in SVG format. The diagram represents structure of XML files and provides information about individual items – elements and attributes.,"Categories
+XML, Documentation, Presentation, Data Visualization"
+PyXB (“pixbee”) is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema. In concept it is similar to JAXB for Java and CodeSynthesis XSD for C++.PyXB (“pixbee”) is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema. In concept it is similar to JAXB for Java and CodeSynthesis XSD for C++.,"Categories
+XML, Code Generators, Web Services"
+"DDay.iCal is an iCal (RFC 5545) class library for .NET 2.0 and above, Silverlight. It aims at being as RFC 5545 compliant as possible, while targeting compatibility with popular calendaring applications, like Apple iCal, Outlook 2007, etc.DDay.iCal is an iCal (RFC 5545) class library for .NET 2.0 and above, Silverlight. It aims at being as RFC 5545 compliant as possible, while targeting compatibility with popular calendaring applications, like Apple iCal, Outlook 2007, etc.","Categories
+Data Formats, Calendar, Resource Management, Interpreters"
+"Windows file viewer for delimited text files like CSV or Tab delimited files.
+
+Nothing needs to be configured. In case of unusual formatting of the text files the option can be adjusted.
+
+Simply open any delimited text file and access the information in tabular form.Windows file viewer for delimited text files like CSV or Tab delimited files.
+
+Nothing needs to be configured. In case of unusual formatting of the text files the option can be adjusted.
+
+Simply open any delimited text file and access the information in tabular form.","Categories
+Text Editors, CSV"
+Json schema validator in php. It is a PHP class that validates a json data structure against a schema definition. It is a simple class that returns an object containing the result and errors that happened.Json schema validator in php. It is a PHP class that validates a json data structure against a schema definition. It is a simple class that returns an object containing the result and errors that happened.,"Categories
+JSON"
+"[2014-10-31] This project is obsolete, for latest version (6.1.3) see GitHub https://github.com/digital-preservation/droid (source) and http://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/ (binary)
+
+DROID (Digital Record Object Identification) is an automatic file format identification tool. It is the first in a planned series of tools developed by The National Archives under the umbrella of its PRONOM technical registry service.
+
+[2013-01-24] The binary download of the latest version of DROID has now been moved to The National Archives website: http://www.nationalarchives.gov.uk/information-management/projects-and-work/droid.htm
+
+The source code for the latest version of DROID remains available via Github: http://digital-preservation.github.com/droid/
+
+[2012-09-07] DROID 6.1 has been released. New project hosting for the project can be found on GitHub: http://digital-preservation.github.com/droid/[2014-10-31] This project is obsolete, for latest version (6.1.3) see GitHub https://github.com/digital-preservation/droid (source) and http://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/ (binary)
+
+DROID (Digital Record Object Identification) is an automatic file format identification tool. It is the first in a planned series of tools developed by The National Archives under the umbrella of its PRONOM technical registry service.
+
+[2013-01-24] The binary download of the latest version of DROID has now been moved to The National Archives website: http://www.nationalarchives.gov.uk/information-management/projects-and-work/droid.htm
+
+The source code for the latest version of DROID remains available via Github: http://digital-preservation.github.com/droid/
+
+[2012-09-07] DROID 6.1 has been released. New project hosting for the project can be found on GitHub: http://digital-preservation.github.com/droid/","Categories
+Data Formats, Archiving, Digital Preservation"
+"XMLUnit 2.x Development Moved to GitHub
+
+XMLUnit provides help with testing code that creates or consumes XML.
+
+XMLUNit 2.x is available for both Java and .NET with a similar API. Development of this version has moved to a GitHub organization[1] with two git repositories for Java and .NET respectively.
+
+All discussion about XMLUnit independent of any version will happen on the XMLUnit general mailing list[2].
+
+XMLUnit for Java 1.x will still be maintained using the Sourceforge infrastructure that has served as well for many years.
+
+We don't intend to maintain XMLUnit for .NET 0.x any longer.
+
+[1] https://github.com/xmlunit
+[2] https://sourceforge.net/p/xmlunit/mailman/xmlunit-general/XMLUnit 2.x Development Moved to GitHub
+
+XMLUnit provides help with testing code that creates or consumes XML.
+
+XMLUNit 2.x is available for both Java and .NET with a similar API. Development of this version has moved to a GitHub organization[1] with two git repositories for Java and .NET respectively.
+
+All discussion about XMLUnit independent of any version will happen on the XMLUnit general mailing list[2].
+
+XMLUnit for Java 1.x will still be maintained using the Sourceforge infrastructure that has served as well for many years.
+
+We don't intend to maintain XMLUnit for .NET 0.x any longer.
+
+[1] https://github.com/xmlunit
+[2] https://sourceforge.net/p/xmlunit/mailman/xmlunit-general/","Categories
+XML, Build Tools, QA Automation"
+"The PoDoFo library is a free, portable C++ library. It can parse and modify existing PDF files and create new ones from scratch. It also includes several tools to work with PDF files.
+It features an unique approach which provides access to PDF documents via an object tree. Therefore, PDFs can be created and or manipulated using a simple tree structure.
+
+Development of PoDoFo has been moved to GitHub: https://github.com/podofo/podofo
+
+Please raise new issues in the GitHub project.The PoDoFo library is a free, portable C++ library. It can parse and modify existing PDF files and create new ones from scratch. It also includes several tools to work with PDF files.
+It features an unique approach which provides access to PDF documents via an object tree. Therefore, PDFs can be created and or manipulated using a simple tree structure.
+
+Development of PoDoFo has been moved to GitHub: https://github.com/podofo/podofo
+
+Please raise new issues in the GitHub project.","Categories
+Data Formats, Graphics, PDF"
+"CAJUN is a C++ API for the JSON data interchange format with an emphasis on an intuitive, concise interface. The library provides JSON types and operations that mimic standard C++ as closely as possible in concept and design.CAJUN is a C++ API for the JSON data interchange format with an emphasis on an intuitive, concise interface. The library provides JSON types and operations that mimic standard C++ as closely as possible in concept and design.","Categories
+JSON"
+"odt2daisy is an OpenOffice.org Writer extension, enabling to export in DAISY XML, Full DAISY (xml+audio) and Audiobook format. DAISY is an NISO Z39.86 standard for blind, visual impaired, print-disabled, and learning-disabled people.odt2daisy is an OpenOffice.org Writer extension, enabling to export in DAISY XML, Full DAISY (xml+audio) and Audiobook format. DAISY is an NISO Z39.86 standard for blind, visual impaired, print-disabled, and learning-disabled people.","Categories
+Word Processors, Data Formats, Speech"
+"ZPLDesigner is a free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
+
+ZPL commands
+ZPL Designer can help you to write ZPL code. The left panel provides a list of the main ZPL commands used to design a label. By hovering the mouse pointer over the desired ZPL command, a detailled description will be displayed on the top ""Help"" panel. Clicking on it will add this command to the ZPL editor.
+
+ZPL Viewer
+By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on a Preview tab.
+You will be able to zoom/unzoom, rotate or save the generated label as an image.
+
+You can choose how to render your ZPL code: a local Zebra printer or by using the labelary.com webservice.
+An industrial ZPL printer with embedded website and network is required when you choose to use ""Local Zebra Printer"" as renderer.ZPLDesigner is a free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
+
+ZPL commands
+ZPL Designer can help you to write ZPL code. The left panel provides a list of the main ZPL commands used to design a label. By hovering the mouse pointer over the desired ZPL command, a detailled description will be displayed on the top ""Help"" panel. Clicking on it will add this command to the ZPL editor.
+
+ZPL Viewer
+By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on a Preview tab.
+You will be able to zoom/unzoom, rotate or save the generated label as an image.
+
+You can choose how to render your ZPL code: a local Zebra printer or by using the labelary.com webservice.
+An industrial ZPL printer with embedded website and network is required when you choose to use ""Local Zebra Printer"" as renderer.","Categories
+Integrated Development Environments (IDE), Data Formats, Printing"
+"litePDF is a Windows library (DLL), which allows creating new and editing of existing PDF documents with simple API. Page content is drawn with standard GDI functions through a device context (HDC or TCanvas, in case of Delphi or C++ Builder).litePDF is a Windows library (DLL), which allows creating new and editing of existing PDF documents with simple API. Page content is drawn with standard GDI functions through a device context (HDC or TCanvas, in case of Delphi or C++ Builder).","Categories
+PDF"
+"portable python protocol simulator for testing purposes. Support radius, diameter, dhcp, ldap, EAP calculations(SIM, AKA, AKA')portable python protocol simulator for testing purposes. Support radius, diameter, dhcp, ldap, EAP calculations(SIM, AKA, AKA')","Categories
+Data Formats"
+"tiny viewer for the XPS file format.
+Supports external and internal links.
+Many different console parameters possible so you can adapt it easyly for your needs.
+Can load xps files from pipes. Very small exe size (242 KB).tiny viewer for the XPS file format.
+Supports external and internal links.
+Many different console parameters possible so you can adapt it easyly for your needs.
+Can load xps files from pipes. Very small exe size (242 KB).","Categories
+Data Formats"
+"A c# pure RRD tools impl
+all RRD tools functions http://oss.oetiker.ch/rrdtool/
+pure c# implement,mean than can run without extenal RRD tools
+full compatible with jrobin http://jrobin.org
+
+The project on codeplexhttp://sharprobin.codeplex.com/A c# pure RRD tools impl
+all RRD tools functions http://oss.oetiker.ch/rrdtool/
+pure c# implement,mean than can run without extenal RRD tools
+full compatible with jrobin http://jrobin.org
+
+The project on codeplexhttp://sharprobin.codeplex.com/","Categories
+Data Formats, Monitoring, Graphics"
+"This project has been moved to GitHub: https://github.com/tomschr/dbcookbook/
+
+The DoCookBook project aims to create an open source book about DocBook and the DocBook XSL stylesheets written as a cookbook and released under a Creative Commons license.This project has been moved to GitHub: https://github.com/tomschr/dbcookbook/
+
+The DoCookBook project aims to create an open source book about DocBook and the DocBook XSL stylesheets written as a cookbook and released under a Creative Commons license.","Categories
+XML, DocBook, Documentation"
+"Java library for access to Moodle's web services via the REST protocol
+(09/11/2013) Development of this project has been resurrected and the current code may be downloaded from https://github.com/bantonia/MoodleRest
+A compiled .jar will be available here once the code has been finalized.
+(30/03/2012 A newer version (V0.1.5) to work with Moodle 2.2 has been uploaded. Although still requires more documentation (better than it was) etc... Calls to create and update users now provides facilities to add preferences and customfields. Removed the batch calling of the web services (not needed as all calls are via POST and not GET), code is still there but commented out. V0.1.4 was removed, too many bugs!
+
+Previous versions using the Moodle 2.1 webservice calls are still here.
+
+Code for the next release which is under development can be downloaded from:
+
+https://github.com/bantonia/MoodleRest
+
+Note: The software is supplied as is under the GNU version 2.0 License.Java library for access to Moodle's web services via the REST protocol
+(09/11/2013) Development of this project has been resurrected and the current code may be downloaded from https://github.com/bantonia/MoodleRest
+A compiled .jar will be available here once the code has been finalized.
+(30/03/2012 A newer version (V0.1.5) to work with Moodle 2.2 has been uploaded. Although still requires more documentation (better than it was) etc... Calls to create and update users now provides facilities to add preferences and customfields. Removed the batch calling of the web services (not needed as all calls are via POST and not GET), code is still there but commented out. V0.1.4 was removed, too many bugs!
+
+Previous versions using the Moodle 2.1 webservice calls are still here.
+
+Code for the next release which is under development can be downloaded from:
+
+https://github.com/bantonia/MoodleRest
+
+Note: The software is supplied as is under the GNU version 2.0 License.","Categories
+Web Services"
+Devolia Geo is a RPC (Remote Procedure Call) service offering user geolocation (i.e. the service returns the closest city and country names from latitude and longitude or IP address).Devolia Geo is a RPC (Remote Procedure Call) service offering user geolocation (i.e. the service returns the closest city and country names from latitude and longitude or IP address).,"Categories
+Web Services, Application Servers, Mobile"
+Generic viewer for UN/EDIFACT files and interpreter for MSCONS and ORDRSP messagesGeneric viewer for UN/EDIFACT files and interpreter for MSCONS and ORDRSP messages,"Categories
+Data Formats"
+An STL format importer/exporter plugin script for Google SketchUp. Supports both binary and ASCII import and export.An STL format importer/exporter plugin script for Google SketchUp. Supports both binary and ASCII import and export.,"Categories
+Data Formats, Computer-aided technologies (CADD/CAM/CAE)"
+"Java Marine API is an NMEA 0183 library for Java.
+
+For furher info and latest source code, see project's Github pages.
+
+http://github.com/ktuukkan/marine-api/Java Marine API is an NMEA 0183 library for Java.
+
+For furher info and latest source code, see project's Github pages.
+
+http://github.com/ktuukkan/marine-api/","Categories
+Data Formats, Libraries, GPS"

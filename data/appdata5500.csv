@@ -1,0 +1,253 @@
+Description,Category
+wingS (wingS is net generation Swing) is a Java library for developing web based AJAX applications in a way like developing Swing based applications.wingS (wingS is net generation Swing) is a Java library for developing web based AJAX applications in a way like developing Swing based applications.,"Categories
+HTML/XHTML, CGI Scripts, Frameworks"
+"Trdetz is an utility to work with TRD floppy image format, used by many TR-DOS compatible ZX-Spectrum emulators. It provides low-level operations such as disk sector read/write as well as operations with TR-DOS filesystemTrdetz is an utility to work with TRD floppy image format, used by many TR-DOS compatible ZX-Spectrum emulators. It provides low-level operations such as disk sector read/write as well as operations with TR-DOS filesystem","Categories
+Data Formats"
+A QGIS plugin to facilitate data processing for Bayesian spatial modeling. (doi: 10.1111/j.1600-0587.2010.06598.x) Alternative site: http://code.google.com/p/maps2winbugsplugin/A QGIS plugin to facilitate data processing for Bayesian spatial modeling. (doi: 10.1111/j.1600-0587.2010.06598.x) Alternative site: http://code.google.com/p/maps2winbugsplugin/,"Categories
+Data Formats"
+SnuggleTeX is a 100% Java library for converting (a reasonable subset of) LaTeX into XHTML + MathML.SnuggleTeX is a 100% Java library for converting (a reasonable subset of) LaTeX into XHTML + MathML.,"Categories
+XML, HTML/XHTML, TeX/LaTeX"
+Matlab's MAT-file I/O API in JAVA. Supports Matlab 5 MAT-flie format reading and writing. Written in pure JAVA.Matlab's MAT-file I/O API in JAVA. Supports Matlab 5 MAT-flie format reading and writing. Written in pure JAVA.,"Categories
+Data Formats"
+"A lightweight toolkit for efficient processing of XML data. The tools are analagous to the UNIX command-line text processing tools sort, grep, etc. The infrastructure includes an efficient DFA-based engine for streaming evaluation of XPath expressions.A lightweight toolkit for efficient processing of XML data. The tools are analagous to the UNIX command-line text processing tools sort, grep, etc. The infrastructure includes an efficient DFA-based engine for streaming evaluation of XPath expressions.","Categories
+XML, Database, Internet"
+ForeRunner X01 toolkit provides an easy access to Forerunner 201/301/305/305E GPS-units. There are multiple command line tools to read data from GPS into database and tools to export data in different formats like gpx and tcx.ForeRunner X01 toolkit provides an easy access to Forerunner 201/301/305/305E GPS-units. There are multiple command line tools to read data from GPS into database and tools to export data in different formats like gpx and tcx.,"Categories
+XML, Database, GIS"
+"ssRSS (Super Simple RSS) is a lightweight rss creation tool, which runs on all Windows systems, does not require .NET or any other similar stuff. Based on original work by Hunter Davis (http://www.hunterdavis.com/)ssRSS (Super Simple RSS) is a lightweight rss creation tool, which runs on all Windows systems, does not require .NET or any other similar stuff. Based on original work by Hunter Davis (http://www.hunterdavis.com/)","Categories
+RSS"
+"Web based Brewing Recipe Database with integrated calculator and XML Support. Allows users to upload or create beer recipes, save them, and download them as BeerXML files. Visitors can view, rate, and download recipes from the collection.Web based Brewing Recipe Database with integrated calculator and XML Support. Allows users to upload or create beer recipes, save them, and download them as BeerXML files. Visitors can view, rate, and download recipes from the collection.","Categories
+XML, Front-Ends, Dynamic Content"
+"GRPLib is a game library directly supporting Blizzard's GRP format (8-bit sprites) used in StarCraft and Diablo II games. It is very fast and can display realistic terrain, units and effects.GRPLib is a game library directly supporting Blizzard's GRP format (8-bit sprites) used in StarCraft and Diablo II games. It is very fast and can display realistic terrain, units and effects.","Categories
+Data Formats"
+"Read single-band NASA PDS (Planetary Data System) Image files in Python. Query header information and extract binary image data in a format suitable for PIL (Python Imaging Library). Works for Pathfinder and Mars Exploration Rover images, maybe others.Read single-band NASA PDS (Planetary Data System) Image files in Python. Query header information and extract binary image data in a format suitable for PIL (Python Imaging Library). Works for Pathfinder and Mars Exploration Rover images, maybe others.","Categories
+Data Formats, Image Converters, Scientific/Engineering"
+Xeditium is a framework of extensible XML document editior/browser with Swing and Web interfaces on a recursive bootstrap mechanism of JavaWebStart. It launches Tapestry/Jetty httpd internally and serves dynamic generated JNLP files.Xeditium is a framework of extensible XML document editior/browser with Swing and Web interfaces on a recursive bootstrap mechanism of JavaWebStart. It launches Tapestry/Jetty httpd internally and serves dynamic generated JNLP files.,"Categories
+XML, WWW/HTTP, Build Tools, Frameworks, User Interface (UI), Installation/Setup"
+A library to allow query a SPARQL end-point in PythonA library to allow query a SPARQL end-point in Python,"Categories
+WWW/HTTP, Semantic Web"
+"BinaryNotes is the Open Source ASN.1 (Abstract Syntax Notation One) framework for Java and .NET based on annotations/attributes. The framework has the flexible ASN.1 compiler, the runtime library that supports BER, DER and PER, and the Message QueuesBinaryNotes is the Open Source ASN.1 (Abstract Syntax Notation One) framework for Java and .NET based on annotations/attributes. The framework has the flexible ASN.1 compiler, the runtime library that supports BER, DER and PER, and the Message Queues","Categories
+Data Formats, Frameworks, Code Generators"
+"The Genomic Diversity and Phenotype Data Model (GDPDM) captures molecular and phenotypic diversity data. MySQL databases are used to implement the schema. This project develops software tools (written in Java, Perl, etc.) associated with this model.The Genomic Diversity and Phenotype Data Model (GDPDM) captures molecular and phenotypic diversity data. MySQL databases are used to implement the schema. This project develops software tools (written in Java, Perl, etc.) associated with this model.","Categories
+Data Formats, Database, UML, User Interface (UI), Bio-Informatics, Information Analysis"
+PHP Class that provides a easy interface for read and write files in ods format (Open Document Sheet)PHP Class that provides a easy interface for read and write files in ods format (Open Document Sheet),"Categories
+XML, Office Suites, CGI Scripts, Object Oriented"
+"The Eclipse XML-Security Plug-In allows you to experiment with the W3C recommendations on digital signatures and encryption and to learn all about their background. Arbitrary XML documents can be canonicalized, signed, verified and en- or decrypted.The Eclipse XML-Security Plug-In allows you to experiment with the W3C recommendations on digital signatures and encryption and to learn all about their background. Arbitrary XML documents can be canonicalized, signed, verified and en- or decrypted.","Categories
+XML, Cryptography, Education"
+COLLADA Refinery is a GUI-based application for creating content pipelines for 3D assets using modular components called conditioners. Contact a project admin to become a developer!COLLADA Refinery is a GUI-based application for creating content pipelines for 3D assets using modular components called conditioners. Contact a project admin to become a developer!,"Categories
+XML, Games/Entertainment, Image Converters"
+QDICT Dictionary is a client software used to access local and distant dictionaries (from DICT format or with the DICT protocol).QDICT Dictionary is a client software used to access local and distant dictionaries (from DICT format or with the DICT protocol).,"Categories
+Data Formats, Internet"
+"OpenAjax Alliance's (http://www.openajaxalliance.org) open source project that implements technologies defined by OpenAjax Alliance. The first effort is the OpenAjax Hub, a JavaScript module that enables multiple Ajax runtimes on the same Web page.OpenAjax Alliance's (http://www.openajaxalliance.org) open source project that implements technologies defined by OpenAjax Alliance. The first effort is the OpenAjax Hub, a JavaScript module that enables multiple Ajax runtimes on the same Web page.","Categories
+HTML/XHTML, Browsers, Dynamic Content"
+"Ncartographer takes the xml output from an Nmap scan and displays it graphically in an attractive, compact, scalable, and complete manner. Supports saving the display of a scan as .png or .jpg images, and can generate images from a command line.Ncartographer takes the xml output from an Nmap scan and displays it graphically in an attractive, compact, scalable, and complete manner. Supports saving the display of a scan as .png or .jpg images, and can generate images from a command line.","Categories
+XML, Security, Networking, Internet, Image Viewers"
+"You can install the latest Eclipse plugin version from the update site https://javahexeditor.sourceforge.io/update or the Eclipse Marketplace https://marketplace.eclipse.org/content/java-hex-editor. Older versions of the Eclipse plugin are available via the update site for the version, e.g. https://javahexeditor.sourceforge.io/update/0.5.1
+
+You can download the latest stand-alone version and older versions on the ""Files"" tab.You can install the latest Eclipse plugin version from the update site https://javahexeditor.sourceforge.io/update or the Eclipse Marketplace https://marketplace.eclipse.org/content/java-hex-editor. Older versions of the Eclipse plugin are available via the update site for the version, e.g. https://javahexeditor.sourceforge.io/update/0.5.1
+
+You can download the latest stand-alone version and older versions on the ""Files"" tab.","Categories
+Text Editors, Data Formats, Information Analysis"
+SDict Viewer is a viewer for dictionaries in open format developed by AXMASoft (free dictionaries are available for download at http://sdict.com). Primary goal of the project is to provide usable dictionary app for Nokia Internet Tablets running Maemo.SDict Viewer is a viewer for dictionaries in open format developed by AXMASoft (free dictionaries are available for download at http://sdict.com). Primary goal of the project is to provide usable dictionary app for Nokia Internet Tablets running Maemo.,"Categories
+Data Formats, Front-Ends, Education, Dictionary"
+"UIMP(Unified Image Manipulation Program) is an OS independent Image Processing system, which provides over 1000 algorithms and supports web online, console and GUI program.UIMP(Unified Image Manipulation Program) is an OS independent Image Processing system, which provides over 1000 algorithms and supports web online, console and GUI program.","Categories
+Data Formats, Algorithms, Compilers, Multimedia"
+"Helping you rifle through other people's packages.
+The DBPF2 file format is used for most of the content in the Sims 3 engine. This project provides a Java-based API, and supporting GUI application, to unpack, browse, edit and repack these files.Helping you rifle through other people's packages.
+The DBPF2 file format is used for most of the content in the Sims 3 engine. This project provides a Java-based API, and supporting GUI application, to unpack, browse, edit and repack these files.","Categories
+Data Formats, Simulation Games"
+"ThanCad is a 2dimensional cad, with limited 3d support and raster inclusion capability and emphasis in engineering. It is being written in Python and since it uses the Tkinter library, it is platform independent.ThanCad is a 2dimensional cad, with limited 3d support and raster inclusion capability and emphasis in engineering. It is being written in Python and since it uses the Tkinter library, it is platform independent.","Categories
+Vector Graphics, Computer-aided technologies (CADD/CAM/CAE), CAD"
+"The Penguinator is a PHP5-based server management solution for Internet Service Providers. It provides granular control over Apache Virtual Hosts, BIND DNS, Postfix, system accounts, etc, as well as a ticketing system and limited billing capabilities. ItThe Penguinator is a PHP5-based server management solution for Internet Service Providers. It provides granular control over Apache Virtual Hosts, BIND DNS, Postfix, system accounts, etc, as well as a ticketing system and limited billing capabilities. It","Categories
+Data Formats, Email, Database, Dynamic Content, System"
+"gRSShopper is an application that allows you to define your own community of RSS feeds, aggregates content from those feeds and organizes it, and helps you integrate that content into your own posts, articles and other content.gRSShopper is an application that allows you to define your own community of RSS feeds, aggregates content from those feeds and organizes it, and helps you integrate that content into your own posts, articles and other content.","Categories
+RSS, Message Board, CGI Scripts, Blogging, RSS Feed Readers, Social Networking"
+This is a Java port of the original FPDF free PDF generation library for PHP.This is a Java port of the original FPDF free PDF generation library for PHP.,"Categories
+Data Formats"
+"I2 is an API for the abstraction of all common image transformations (thumbnailing, scaling, borders, etc) into an XML file. Through a simple PHP API, images can be loaded through such a transformation to generate a modified image.I2 is an API for the abstraction of all common image transformations (thumbnailing, scaling, borders, etc) into an XML file. Through a simple PHP API, images can be loaded through such a transformation to generate a modified image.","Categories
+XML, WWW/HTTP"
+XML Tree Notes is a simple application that manages text notes attached to a tree structure (inside an XML document)XML Tree Notes is a simple application that manages text notes attached to a tree structure (inside an XML document),"Categories
+XML, Documentation"
+Provides a read/write library of classes for object oriented languages (Initial goals of PHP and Python) that implement and enforce the iCal standard (RFC 2445).Provides a read/write library of classes for object oriented languages (Initial goals of PHP and Python) that implement and enforce the iCal standard (RFC 2445).,"Categories
+Data Formats"
+"XUI is a Java and XML RIA platform for building smart app's. Swing, AWT and other widget sets can be used on a range of hardware. XUI's modular framework can help many aspects of application development. NetBeans and Eclipse are available.XUI is a Java and XML RIA platform for building smart app's. Swing, AWT and other widget sets can be used on a range of hardware. XUI's modular framework can help many aspects of application development. NetBeans and Eclipse are available.","Categories
+XML, Front-Ends, Desktop Environment, Frameworks, User Interface (UI), Internet"
+"A Drupal module that enables Drupal to view and manage objects stored in a Fedora Digital Repository. The Islandora project is no longer maintained on Sourceforge. For the latest download, please visit: http://islandora.ca/A Drupal module that enables Drupal to view and manage objects stored in a Fedora Digital Repository. The Islandora project is no longer maintained on Sourceforge. For the latest download, please visit: http://islandora.ca/","Categories
+XML, SOAP, Library"
+"A set of tools (command line and GUI) to provide a complete digital photo workflow for Unixes. EXIF headers are used as the central information repository, so users may change their software at any time without loosing any data.A set of tools (command line and GUI) to provide a complete digital photo workflow for Unixes. EXIF headers are used as the central information repository, so users may change their software at any time without loosing any data.","Categories
+Archiving, Graphics, Semantic Web"
+PHruts is an open source framework for building web applications. It is a PHP5 port of Jakarta Struts 1.1.PHruts is an open source framework for building web applications. It is a PHP5 port of Jakarta Struts 1.1.,"Categories
+XML, Frameworks, Object Oriented, Internationalization (I18N)"
+"Xiss web is a Java tool to generate photo slide show on the web. Generation of photo description in XML and HTML pages based on layout and skin. Exif display. Google Maps display. Animated photo transition. Uses W3C standards: XML, XSLT, XPATH, CSS.Xiss web is a Java tool to generate photo slide show on the web. Generation of photo description in XML and HTML pages based on layout and skin. Exif display. Google Maps display. Animated photo transition. Uses W3C standards: XML, XSLT, XPATH, CSS.","Categories
+XML, HTML/XHTML, Presentation"
+"Open Source software (PHP) managing iCal (rfc2445) files, for non-calendar systems like CMS, project mgmt systems etc. able to manage calendar information like agendas, tasks, reports, totos, journaling data and communicate with calendar software.Open Source software (PHP) managing iCal (rfc2445) files, for non-calendar systems like CMS, project mgmt systems etc. able to manage calendar information like agendas, tasks, reports, totos, journaling data and communicate with calendar software.","Categories
+Data Formats, Calendar, Build Tools"
+"Simple Java delimited and fixed width file parser. Handles CSV, Excel CSV, Tab, Pipe delimiters, just to name a few. Maps column positions in the file to user friendly names via XML. See ""FlatPack Feature List"" under News for complete feature list.Simple Java delimited and fixed width file parser. Handles CSV, Excel CSV, Tab, Pipe delimiters, just to name a few. Maps column positions in the file to user friendly names via XML. See ""FlatPack Feature List"" under News for complete feature list.","Categories
+Text Processing, CSV"
+"Mbox2eml splits mbox mailboxes into single eml files.
+It is highly configurable and written in C++ to gain maximum performance using a minimum of RAM. It uses the boost-lib to provide maximum portability.
+Binaries for Win and Linux are available.Mbox2eml splits mbox mailboxes into single eml files.
+It is highly configurable and written in C++ to gain maximum performance using a minimum of RAM. It uses the boost-lib to provide maximum portability.
+Binaries for Win and Linux are available.","Categories
+Data Formats, Email"
+"A library providing easy, flexible, and efficient read/write access to video files using a wide variety of codecs in MATLAB on Windows and GNU/Linux platforms, using DirectShow and ffmpeg backends, respectively. Also provided are 'load' and 'imread' for bulk reading.A library providing easy, flexible, and efficient read/write access to video files using a wide variety of codecs in MATLAB on Windows and GNU/Linux platforms, using DirectShow and ffmpeg backends, respectively. Also provided are 'load' and 'imread' for bulk reading.","Categories
+Data Formats, Video"
+"NRtfTree library is a set of classes written entirely in C# which may be used to manage (read and write) RTF documents in your own applications.
+
+A java port of the library can be found in http://www.sgoliver.net/blog/?page_id=92NRtfTree library is a set of classes written entirely in C# which may be used to manage (read and write) RTF documents in your own applications.
+
+A java port of the library can be found in http://www.sgoliver.net/blog/?page_id=92","Categories
+Text Processing, Data Formats, Frameworks"
+Python library that handles and manages communication between client and blip.pl server via blip.pl API.Python library that handles and manages communication between client and blip.pl server via blip.pl API.,"Categories
+Communications, WWW/HTTP, JSON"
+"Relational.OWL automatically extracts the semantics of virtually any relational database and transforms this information automatically into RDF/OWL, processable by a wide majority of Semantic Web applications.Relational.OWL automatically extracts the semantics of virtually any relational database and transforms this information automatically into RDF/OWL, processable by a wide majority of Semantic Web applications.","Categories
+XML, Database, Scientific/Engineering"
+Call the Twitter API from within an Oracle database. ORA_Tweet uses the UTL_HTTP API within Oracle to call the update_status API. It is written completely in PL/SQL.Call the Twitter API from within an Oracle database. ORA_Tweet uses the UTL_HTTP API within Oracle to call the update_status API. It is written completely in PL/SQL.,"Categories
+Web Services"
+"Digital Learning Sciences (DLS) is a mission-centered, not-for-profit organization dedicated to improving learning through the use of digital content and tools.Digital Learning Sciences (DLS) is a mission-centered, not-for-profit organization dedicated to improving learning through the use of digital content and tools.","Categories
+XML, XML-RPC, RSS, Search Engines, Library"
+Identityflow provides a framework for building protocol flows that perform distributed Identity operations. Examples of Identity Operations are Single Sign-On (SSO) and Attribute queries.Identityflow provides a framework for building protocol flows that perform distributed Identity operations. Examples of Identity Operations are Single Sign-On (SSO) and Attribute queries.,"Categories
+HTML/XHTML, Cryptography, HTTP Servers, Object Oriented, Web Services"
+"JSAX - JavaScript Abstractions for X(HT)ML This is a JavaScript framework which is compatibel with the latest versions of Mozilla, Opera, Konqueror(+safari) and M$-IE.JSAX - JavaScript Abstractions for X(HT)ML This is a JavaScript framework which is compatibel with the latest versions of Mozilla, Opera, Konqueror(+safari) and M$-IE.","Categories
+XML, HTML/XHTML, Browsers, Dynamic Content, Frameworks, HMI"
+Emacs editing mode for X12 files and messages. Defines X12-specific font-locking and text navigation.Emacs editing mode for X12 files and messages. Defines X12-specific font-locking and text navigation.,"Categories
+Emacs, Data Formats"
+"joXSI is a .XSI 3D model file importer for Java. The goal is to have joXSI support everything in the .XSI file format, including inverse kinematics and skinned animation. joXSI is used in Wurm, which is a community-centric fantasy Java MMORPG.joXSI is a .XSI 3D model file importer for Java. The goal is to have joXSI support everything in the .XSI file format, including inverse kinematics and skinned animation. joXSI is used in Wurm, which is a community-centric fantasy Java MMORPG.","Categories
+Data Formats, Image Viewers"
+"XPath XSLT Editor and XML Document Explorer for MSXML 6+ XML DOM Tree (Split View, Left DOM Tree, Right Tabbed XPath or XSTL Windows). Create XPath Statements and XSLT (stylesheet transforms).XPath XSLT Editor and XML Document Explorer for MSXML 6+ XML DOM Tree (Split View, Left DOM Tree, Right Tabbed XPath or XSTL Windows). Create XPath Statements and XSLT (stylesheet transforms).","Categories
+Text Editors, XML, Software Testing"
+"NOTE: Project moved to GitHub: http://github.com/ditadxp
+
+The DITA Interchange Package (DXP) is used to create single-file (Zip-based) packages of DITA-based resources and their dependencies for ease of interchange and management. A DXP package uses a specialized DITA map to define the package manifest.NOTE: Project moved to GitHub: http://github.com/ditadxp
+
+The DITA Interchange Package (DXP) is used to create single-file (Zip-based) packages of DITA-based resources and their dependencies for ease of interchange and management. A DXP package uses a specialized DITA map to define the package manifest.","Categories
+XML"
+MarkdownJ is the pure Java port of Markdown (a text-to-html conversion tool written by John Gruber.)MarkdownJ is the pure Java port of Markdown (a text-to-html conversion tool written by John Gruber.),"Categories
+HTML/XHTML"
+"Atabaque DTDtoBean generates JavaBeans from a specified DTD file. You can choose generate standard Java Beans or using Annotations for XStream or Simple, APIs for XML Serialization. It´s available as a command line, Swing application or NetBeans plugin.Atabaque DTDtoBean generates JavaBeans from a specified DTD file. You can choose generate standard Java Beans or using Annotations for XStream or Simple, APIs for XML Serialization. It´s available as a command line, Swing application or NetBeans plugin.","Categories
+XML, Code Generators"
+pyXLReader is a multiplatform Python library for reading Excel compatible spreadsheets (.xls). Based on JExcelApi by Andy Khan (http://www.andykhan.com).pyXLReader is a multiplatform Python library for reading Excel compatible spreadsheets (.xls). Based on JExcelApi by Andy Khan (http://www.andykhan.com).,"Categories
+Data Formats, Database"
+libiptcdata is a standalone C-library for reading and writing the International Press Telecommunications Council (IPTC) metadata contained in various data files such as images.libiptcdata is a standalone C-library for reading and writing the International Press Telecommunications Council (IPTC) metadata contained in various data files such as images.,"Categories
+Data Formats, Digital Camera"
+"YamlBeans makes it easy to serialize and deserialize Java object graphs to and from YAML, a human-friendly data format. Replace XML and properties files with YAML for more expressive power (lists, maps, anchors, etc) and easier hand-editing.YamlBeans makes it easy to serialize and deserialize Java object graphs to and from YAML, a human-friendly data format. Replace XML and properties files with YAML for more expressive power (lists, maps, anchors, etc) and easier hand-editing.","Categories
+Data Formats"
+mod_gsoap is an Apache module that allows Apache to serve SOAP requests via the Gsoap library. Modules are available for both Apache 1.3 and 2.x.mod_gsoap is an Apache module that allows Apache to serve SOAP requests via the Gsoap library. Modules are available for both Apache 1.3 and 2.x.,"Categories
+SOAP, HTTP Servers, Distributed Computing"
+"HSPL is Human Speakable Programming Language, allowing for communication between human-to-computer and human-to-human in the same language.
+
+This project has moved to http://sourceforge.net/p/spel
+
+We are currently working on human-to-computer programming-language with mostly English base vocabulary.
+
+Though once we have that, we plan to add support for other world Languages, including Chinese, Spanish, Russian, Arabic, Hindi, among others.
+
+Eventually HSPL shall be the foundation of GIOS the General Intelligence Operating System. Which is an open source operating system, that can be used for intelligent robots, computers and technological host-bodies.
+
+Regularly post on blog about HSPL at
+http://weyounet.info/?s=hsplHSPL is Human Speakable Programming Language, allowing for communication between human-to-computer and human-to-human in the same language.
+
+This project has moved to http://sourceforge.net/p/spel
+
+We are currently working on human-to-computer programming-language with mostly English base vocabulary.
+
+Though once we have that, we plan to add support for other world Languages, including Chinese, Spanish, Russian, Arabic, Hindi, among others.
+
+Eventually HSPL shall be the foundation of GIOS the General Intelligence Operating System. Which is an open source operating system, that can be used for intelligent robots, computers and technological host-bodies.
+
+Regularly post on blog about HSPL at
+http://weyounet.info/?s=hspl","Categories
+Data Formats, Interpreters"
+blat(mat) is a Braille to print translator for maths. It takes a Spanish Six-dot Mathematical Braille (not Nemeth Code) text and converts it to an HTML file ready to be translated into XHTML+MathML by ASCIIMathML (javascript).blat(mat) is a Braille to print translator for maths. It takes a Spanish Six-dot Mathematical Braille (not Nemeth Code) text and converts it to an HTML file ready to be translated into XHTML+MathML by ASCIIMathML (javascript).,"Categories
+Data Formats, Mathematics, Computer Aided Instruction (CAI)"
+"oNVDL provides a Java based implementation of the Namespace-based Validation and Dispatching Language (NVDL) on top of Jing supporting XML Schema, Relax NG and Schematron and an XSLT 2.0 implementation of the dispatching part of NVDL.oNVDL provides a Java based implementation of the Namespace-based Validation and Dispatching Language (NVDL) on top of Jing supporting XML Schema, Relax NG and Schematron and an XSLT 2.0 implementation of the dispatching part of NVDL.","Categories
+XML"
+"SPIDR (Space Physics Interactive Data Resource) is a distributed database and application server network, built to select, visualize and model historical space weather data. SPIDR is a web-application and a grid of data mining web-services.SPIDR (Space Physics Interactive Data Resource) is a distributed database and application server network, built to select, visualize and model historical space weather data. SPIDR is a web-application and a grid of data mining web-services.","Categories
+Data Formats, Database, Data Visualization, Astronomy, Earth Sciences"
+XAIRA (XML Aware Indexing and Retrieval Architecture) supports indexing and analysis of large XML textual resources such as natural language corpora.XAIRA (XML Aware Indexing and Retrieval Architecture) supports indexing and analysis of large XML textual resources such as natural language corpora.,"Categories
+XML, Database Engines/Servers, TEI"
+"phpMyWebServices is a framework that can serve dotNET-like Web services coded in PHP, so it works on all apache/php servers (MySQL not required). With it, you can easy host any webservice on the most of free hosting services !!!phpMyWebServices is a framework that can serve dotNET-like Web services coded in PHP, so it works on all apache/php servers (MySQL not required). With it, you can easy host any webservice on the most of free hosting services !!!","Categories
+SOAP, Dynamic Content, Frameworks"
+"Software libraries and tools designed for implementation and testing of the Common Image Generator Interface (CIGI), an interface for communication between an image generator (IG) and host device in simulations.Software libraries and tools designed for implementation and testing of the Common Image Generator Interface (CIGI), an interface for communication between an image generator (IG) and host device in simulations.","Categories
+Data Formats, Simulation, Interface Engine/Protocol Translator, Data Visualization"
+"The oBIX toolkit provides a Java software library for implementing oBIX enabled applications. The toolkit contains a data model for obj trees, XML encoder/decoder, REST session management, and a Swing diagnostics tool.The oBIX toolkit provides a Java software library for implementing oBIX enabled applications. The toolkit contains a data model for obj trees, XML encoder/decoder, REST session management, and a Swing diagnostics tool.","Categories
+XML, HTML/XHTML"
+"AJAX framework that uses messages to control AJAX requests. Easy to use AJAX framework that provides message queue, XSLT, XPath, encryption (SHA1, MD5), web service access (SOAP, XML-RPC, JSON-RPC), cross browser AJAX, AJAX history and cache control.AJAX framework that uses messages to control AJAX requests. Easy to use AJAX framework that provides message queue, XSLT, XPath, encryption (SHA1, MD5), web service access (SOAP, XML-RPC, JSON-RPC), cross browser AJAX, AJAX history and cache control.","Categories
+WWW/HTTP, Web Services, AJAX"
+"A C/C++ based client and server implementation of the OGSA Basic Execution Service, used to provide a Web Services interface to distributed resource managers such as Platform LSF and PBS/PBS Pro. The SOAP stack is provided by the gSOAP toolkit.A C/C++ based client and server implementation of the OGSA Basic Execution Service, used to provide a Web Services interface to distributed resource managers such as Platform LSF and PBS/PBS Pro. The SOAP stack is provided by the gSOAP toolkit.","Categories
+XML, SOAP, Communications, Distributed Computing, Internet"
+"TeXCAD is a program for drawing or retouching {picture}s in LaTeX. It extends the original {picture} capabilities, even without any obligatory LaTeX package, class or style sheet. Core of TeXCAD is totally portable. MS Windows version available.TeXCAD is a program for drawing or retouching {picture}s in LaTeX. It extends the original {picture} capabilities, even without any obligatory LaTeX package, class or style sheet. Core of TeXCAD is totally portable. MS Windows version available.","Categories
+TeX/LaTeX, Vector Graphics"
+Curl Data Kit - a Curl Open Source project The CDK library facilitates datacentric application development in Curl. It includes support for client side SQLite databases and support for AMF servers like BlazeDS and WebORBCurl Data Kit - a Curl Open Source project The CDK library facilitates datacentric application development in Curl. It includes support for client side SQLite databases and support for AMF servers like BlazeDS and WebORB,"Categories
+Database, WWW/HTTP, Web Services"
+MM7 protocol library for fast and easy MMSC(Multimedia Messaging Service) client development even for non-telecom guys. Easy to use classes covers all needed functionality for MMS applications developers and Content Providers. Written for .NET 2.0 in C#.MM7 protocol library for fast and easy MMSC(Multimedia Messaging Service) client development even for non-telecom guys. Easy to use classes covers all needed functionality for MMS applications developers and Content Providers. Written for .NET 2.0 in C#.,"Categories
+Data Formats, SOAP, Communications, Software Development"
+RSS Reader is a mobile J2ME (Java ME) app. that runs on Java enabled phones. User can store multiple RSS/ATOM feeds as bookmarks. Can import from OPLM file or HTML file with links. Can read offline. MIDP 2.0/some MIDP 1.0. Specify which MIDP w/issueRSS Reader is a mobile J2ME (Java ME) app. that runs on Java enabled phones. User can store multiple RSS/ATOM feeds as bookmarks. Can import from OPLM file or HTML file with links. Can read offline. MIDP 2.0/some MIDP 1.0. Specify which MIDP w/issue,"Categories
+XML, RSS, WWW/HTTP"
+"The goal of the Tokyo Project is to design a process, an architecture, and tools to provide an XML view of non-XML data. This way, applications can view and create non-XML documents as easily as XML ones.The goal of the Tokyo Project is to design a process, an architecture, and tools to provide an XML view of non-XML data. This way, applications can view and create non-XML documents as easily as XML ones.","Categories
+XML"
+"CookXml is a powerful dynamic XML data binding tool for Java. It is designed to be easily extensible and yet simple to use, with advanced exception handling. CookSwing and CookSwt are tag libraries for CookXml to do XML->GUI (XUL) for Swing and SWT.CookXml is a powerful dynamic XML data binding tool for Java. It is designed to be easily extensible and yet simple to use, with advanced exception handling. CookSwing and CookSwt are tag libraries for CookXml to do XML->GUI (XUL) for Swing and SWT.","Categories
+XML, Interpreters, User Interface (UI)"
+"Simple regular expression-based URI validation, compliant with RFC 2396. Uses regexes based on the ABNF data in RFC 2396.Simple regular expression-based URI validation, compliant with RFC 2396. Uses regexes based on the ABNF data in RFC 2396.","Categories
+Data Formats, Software Development, Internet"
+"OpenPCL - Open Source PCL Viewer, Converter & Toolkit. It can be used as a backend component for developers/integrators or as a standalone desktop application for end users.OpenPCL - Open Source PCL Viewer, Converter & Toolkit. It can be used as a backend component for developers/integrators or as a standalone desktop application for end users.","Categories
+Data Formats, Enterprise, User Interface (UI), Printing"
+The newly introduced security policy for Flash requires the servers to serve the security policy for allowing socket connections to their servers at port 843. This application satisfies this requirement by serving policy files for flash clients.The newly introduced security policy for Flash requires the servers to serve the security policy for allowing socket connections to their servers at port 843. This application satisfies this requirement by serving policy files for flash clients.,"Categories
+XML"
+Vienna is a freeware Mac OSX off-line reader for the CIX conferencing system with additional support for RSS/Atom feeds.Vienna is a freeware Mac OSX off-line reader for the CIX conferencing system with additional support for RSS/Atom feeds.,"Categories
+RSS, Conferencing, Internet"
+qxsl-fo project is intended for generating xsl-fo document using GUI to lay-out FO and XML nodes.qxsl-fo project is intended for generating xsl-fo document using GUI to lay-out FO and XML nodes.,"Categories
+XML, Desktop Environment"
+A web server that runs on the wiiA web server that runs on the wii,"Categories
+HTTP Servers, Web Services"
+"Tools for mass spectrometry, especially for protein mass spectrometry and proteomics: Quantification tools, converters for Applied Biosystems (Q Star and Q Trap), calculation of in-silico fragmentation spectra, converter for Mascot result filesTools for mass spectrometry, especially for protein mass spectrometry and proteomics: Quantification tools, converters for Applied Biosystems (Q Star and Q Trap), calculation of in-silico fragmentation spectra, converter for Mascot result files","Categories
+Data Formats, Bio-Informatics, Information Analysis"
+xml.dom.easydom for python primarily behaves like any xml.dom.* you already use. Additionaly easydom provides operator overloadings which render xml processing descriptions more readable and hence less error-prone. See about 90% of your xml-code boosted.xml.dom.easydom for python primarily behaves like any xml.dom.* you already use. Additionaly easydom provides operator overloadings which render xml processing descriptions more readable and hence less error-prone. See about 90% of your xml-code boosted.,"Categories
+XML"
+Integrate the power of the fully AJAX enabled technology of ICEfaces into the framework of the ESRI WebADF. No need to code in Javascript or to handle XML communication to build AJAX functionalities. OnlineDemo: http://www2.pch.etat.lu/pchViewerIntegrate the power of the fully AJAX enabled technology of ICEfaces into the framework of the ESRI WebADF. No need to code in Javascript or to handle XML communication to build AJAX functionalities. OnlineDemo: http://www2.pch.etat.lu/pchViewer,"Categories
+Frameworks, AJAX, GIS"
+"The first 3D game engine built in C# for .NET, predecessor to the Visual3D Game Engine (https://www.poweraccess.net/visual3d-game-engine), an All-in-One Game Development Tool for Next-Gen 3D Games, MMOs, Simulations and Virtual Worlds powered by Microsoft XNA.The first 3D game engine built in C# for .NET, predecessor to the Visual3D Game Engine (https://www.poweraccess.net/visual3d-game-engine), an All-in-One Game Development Tool for Next-Gen 3D Games, MMOs, Simulations and Virtual Worlds powered by Microsoft XNA.","Categories
+XML, Games/Entertainment, Software Development, Distributed Computing, 3D Rendering, Graphic Design"
+QDBMP (Quick n' Dirty BMP) is a lightweight minimalistic cross-platform C library for handling BMP image files. It is intended to provide small applications with basic image I/O capabilities by utilizing the widely used BMP format.QDBMP (Quick n' Dirty BMP) is a lightweight minimalistic cross-platform C library for handling BMP image files. It is intended to provide small applications with basic image I/O capabilities by utilizing the widely used BMP format.,"Categories
+Data Formats, Graphics"
+Convert various graphics and video formats to ZX Spectrum and Timex Sinclair formats.Convert various graphics and video formats to ZX Spectrum and Timex Sinclair formats.,"Categories
+Data Formats, Image Converters, Video Converters"
+"Object oriented configuration library for easy internal representation of configuration data to the programmer, and to allow an interface for outputting and inputting the data to and from many different file formats.Object oriented configuration library for easy internal representation of configuration data to the programmer, and to allow an interface for outputting and inputting the data to and from many different file formats.","Categories
+Data Formats, Software Development"
+The JWMSClient is a simple Java Swing Client to visualize overlapped maps retrieved from an (Open GIS Consortium) WMS 1.x Server implementation.The JWMSClient is a simple Java Swing Client to visualize overlapped maps retrieved from an (Open GIS Consortium) WMS 1.x Server implementation.,"Categories
+Data Formats"
+tziCal is a conversion utility for converting time zone data from the tz (Olsen) database to iCalendar (.ics) files. See RFC 2445 for details on iCalendar files and VTIMEZONE components.tziCal is a conversion utility for converting time zone data from the tz (Olsen) database to iCalendar (.ics) files. See RFC 2445 for details on iCalendar files and VTIMEZONE components.,"Categories
+Data Formats, Calendar"
+"EWB is a freeware components package for Borland Delphi 5 to D2009. It allow you to create a Web Browser, Chat Client, web updater, Html/Xml Editors and more. home page :http://www.bsalsa.com download link: http://www.bsalsa.com/DP/download.php?file=4EWB is a freeware components package for Borland Delphi 5 to D2009. It allow you to create a Web Browser, Chat Client, web updater, Html/Xml Editors and more. home page :http://www.bsalsa.com download link: http://www.bsalsa.com/DP/download.php?file=4","Categories
+HTML/XHTML, Browsers, Software Development"
+"The openLiberty Client library project is a Liberty Alliance Web Services Client (WSC) Java library supporting Web Service Invocations, using SAML. All discussion lists, public forums, wiki, etc. for this project are hosted at http://www.openliberty.orgThe openLiberty Client library project is a Liberty Alliance Web Services Client (WSC) Java library supporting Web Service Invocations, using SAML. All discussion lists, public forums, wiki, etc. for this project are hosted at http://www.openliberty.org","Categories
+SOAP, Security, WWW/HTTP, Authentication/Directory, Networking"
+"LeafRSS is designed to be a low-maintenance, learning RSS aggregator, with the ability to publish the aggregated results either in a standalone website, an rss feed for news readers, or as an embedded template within an existing site.LeafRSS is designed to be a low-maintenance, learning RSS aggregator, with the ability to publish the aggregated results either in a standalone website, an rss feed for news readers, or as an embedded template within an existing site.","Categories
+RSS, Dynamic Content"
+"Osxcart, or OS X Converting And Reading Tool, is a library designed to import file formats used in Mac OS X, NeXTSTEP, and GnuSTEP into GTK+/GLib-based programs easily, using a lightweight interface.
+
+The ""s"" in Osxcart is silent.
+
+Right now, the Osxcart library includes a module for reading and writing property lists ("".plist"" files) in XML format, and a module for importing and exporting RTF documents to and from GtkTextBuffers.Osxcart, or OS X Converting And Reading Tool, is a library designed to import file formats used in Mac OS X, NeXTSTEP, and GnuSTEP into GTK+/GLib-based programs easily, using a lightweight interface.
+
+The ""s"" in Osxcart is silent.
+
+Right now, the Osxcart library includes a module for reading and writing property lists ("".plist"" files) in XML format, and a module for importing and exporting RTF documents to and from GtkTextBuffers.","Categories
+Data Formats, Libraries"
+"JDeliciousFeedApi is a very simple to use Java API to access the information provided by delicious.com over RSS feeds. It does not depend on other libraries, therefore it is a really lightweight piece of software.JDeliciousFeedApi is a very simple to use Java API to access the information provided by delicious.com over RSS feeds. It does not depend on other libraries, therefore it is a really lightweight piece of software.","Categories
+RSS, RSS Feed Readers, Libraries"
+"FairLuck is an API to access an externalised RNG. We provide libraries to access fair random related services, although not strictly required to access the fundamental XML-RPC layer, they can be used easily for gaming applications developers to enable the fairluck feature.FairLuck is an API to access an externalised RNG. We provide libraries to access fair random related services, although not strictly required to access the fundamental XML-RPC layer, they can be used easily for gaming applications developers to enable the fairluck feature.","Categories
+XML-RPC, Game Development Frameworks"
+TurtleScript is a semantic web project to demonstrate the utility of including the Turtle RDF serialization in HTML files as a form of metadata. It is intended as proposed alternative or supplement to microformats and RDFa.TurtleScript is a semantic web project to demonstrate the utility of including the Turtle RDF serialization in HTML files as a form of metadata. It is intended as proposed alternative or supplement to microformats and RDFa.,"Categories
+WWW/HTTP, Semantic Web"
+"Config is an Ada package for parsing configuration files (.ini, .inf, .cfg, ...) and retrieving keys of various types. New values for single keys, or entire sections, can be set. Standalone and unconditionally portable code.Config is an Ada package for parsing configuration files (.ini, .inf, .cfg, ...) and retrieving keys of various types. New values for single keys, or entire sections, can be set. Standalone and unconditionally portable code.","Categories
+Data Formats, Software Development"
+"This program allows to extract some data from Google Picasa database to famous format files: all face marks into text file, each preview or thumbnail into separate jpeg file.This program allows to extract some data from Google Picasa database to famous format files: all face marks into text file, each preview or thumbnail into separate jpeg file.","Categories
+Data Formats"
+an images to pdf converteran images to pdf converter,"Categories
+Data Formats"
+"HybridAuth enable developers to easily build social applications to engage websites vistors and customers on a social level by implementing social signin, social sharing, users profiles, friends list, activities stream, status updates and more.
+
+HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter, MySpace and Google.HybridAuth enable developers to easily build social applications to engage websites vistors and customers on a social level by implementing social signin, social sharing, users profiles, friends list, activities stream, status updates and more.
+
+HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter, MySpace and Google.","Categories
+Web Services, Social Networking"

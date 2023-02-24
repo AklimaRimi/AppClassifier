@@ -1,0 +1,700 @@
+Description,Category
+"The 4Ever framework provides a OO access layer to a single or a set of XML files. The framework offers a set of basic management services as loading/saving, change history, and consistency checking. It is realized in a component-oriented way.The 4Ever framework provides a OO access layer to a single or a set of XML files. The framework offers a set of basic management services as loading/saving, change history, and consistency checking. It is realized in a component-oriented way.","Categories
+XML, Frameworks, Object Oriented"
+"ATENÇÃO: abnTeX está em novo endereço: http://www.abntex.net.br
+
+abnTeX is a set of LaTeX macros that follow the rules of ABNT (Brazilian Association of Technical Standards). ### abnTeX é um conjunto de macros LaTeX que segue as regras da ABNT (Associação Brasileira de Normas Técnicas).
+
+O projeto foi totalmente reconstruído baseado nas novas regras da ABNT e utilizando uma nova técnica para produção da classe, mais informações em:
+Portal do projeto: http://www.abntex.net.br
+Grupo de desenvolvedores: http://groups.google.com/group/abntex2
+
+Esta página no SourceForge contém os ativos do projeto original, hospedados originalmente no portal CodigoLivre.orgATENÇÃO: abnTeX está em novo endereço: http://www.abntex.net.br
+
+abnTeX is a set of LaTeX macros that follow the rules of ABNT (Brazilian Association of Technical Standards). ### abnTeX é um conjunto de macros LaTeX que segue as regras da ABNT (Associação Brasileira de Normas Técnicas).
+
+O projeto foi totalmente reconstruído baseado nas novas regras da ABNT e utilizando uma nova técnica para produção da classe, mais informações em:
+Portal do projeto: http://www.abntex.net.br
+Grupo de desenvolvedores: http://groups.google.com/group/abntex2
+
+Esta página no SourceForge contém os ativos do projeto original, hospedados originalmente no portal CodigoLivre.org","Categories
+Text Processing, TeX/LaTeX"
+"The NExcel library allows a .NET application to read Ms Excel files,
+compatible with Excel 97 and upper.
+No need to install Ms Office Excel or any third-party libraries.
+Based on JExcelAPI by Andrew Khan.The NExcel library allows a .NET application to read Ms Excel files,
+compatible with Excel 97 and upper.
+No need to install Ms Office Excel or any third-party libraries.
+Based on JExcelAPI by Andrew Khan.","Categories
+Data Formats, Spreadsheet, Office Suites"
+Asterisk PBX Integration Zimlet is an Extension for Zimbra Collaboration Suite. The Zimlet does Interface with the Asterisk Manager Interface to integrate with Asterisk PBX. The main focus is dial-on-click for Phone numbers inside Contacts and Emails.Asterisk PBX Integration Zimlet is an Extension for Zimbra Collaboration Suite. The Zimlet does Interface with the Asterisk Manager Interface to integrate with Asterisk PBX. The main focus is dial-on-click for Phone numbers inside Contacts and Emails.,"Categories
+Dynamic Content, JSON, AJAX, VoIP, PBX"
+"easyrec is a recommender system that aims for easy integration of recommendations into web applications. It has a web based admin tool, and its recommendation engine is accessible through a REST API, providing methods like 'other users also bought'easyrec is a recommender system that aims for easy integration of recommendations into web applications. It has a web based admin tool, and its recommendation engine is accessible through a REST API, providing methods like 'other users also bought'","Categories
+Information Analysis, Web Services, eCommerce"
+Java-based MP3 file splitter. Supports 2 modes: split by size and split by time.Java-based MP3 file splitter. Supports 2 modes: split by size and split by time.,"Categories
+Data Formats, Sound/Audio"
+"Please note that project moved to GitHub: https://github.com/xmlark/xslthl
+
+This is an implementation of syntax highlighting as an extension module for XSLT processors (Xalan, Saxon), so if you have e.g. article about programming written in DocBook, code examples can be automatically syntax highlighted during the XSLT processing phase.Please note that project moved to GitHub: https://github.com/xmlark/xslthl
+
+This is an implementation of syntax highlighting as an extension module for XSLT processors (Xalan, Saxon), so if you have e.g. article about programming written in DocBook, code examples can be automatically syntax highlighted during the XSLT processing phase.","Categories
+Text Processing, XML"
+"FreePascal / Lazarus / Delphi / Kylix - compatible bindings and object-oriented wrapper for LibCURL, the client-side URL transfer library, and TidyLib, the HTML parsing and formatting library based on HTML-Tidy.FreePascal / Lazarus / Delphi / Kylix - compatible bindings and object-oriented wrapper for LibCURL, the client-side URL transfer library, and TidyLib, the HTML parsing and formatting library based on HTML-Tidy.","Categories
+HTML/XHTML, Networking, Internet"
+"unnks extracts data from nks and nkx archives, which are commonly used by several music synthesis programs. It has a similar interface to GNU tar.unnks extracts data from nks and nkx archives, which are commonly used by several music synthesis programs. It has a similar interface to GNU tar.","Categories
+Data Formats, Storage"
+"The EpiDoc Collaborative is developing specifications and tools for standards-based, digital publication and interchange of scholarly and educational editions of documentary and literary texts like inscriptions and papyri.
+
+The link below will take you to the EpiDoc home page on this site.The EpiDoc Collaborative is developing specifications and tools for standards-based, digital publication and interchange of scholarly and educational editions of documentary and literary texts like inscriptions and papyri.
+
+The link below will take you to the EpiDoc home page on this site.","Categories
+Text Processing, XML, TEI"
+The suds project is a python soap web services client lib. Suds leverages python meta programming to provide an intuative API for consuming web services. Runtime objectification of types defined in the WSDL is provided without class generation.The suds project is a python soap web services client lib. Suds leverages python meta programming to provide an intuative API for consuming web services. Runtime objectification of types defined in the WSDL is provided without class generation.,"Categories
+SOAP, Web Services"
+"Minimalistic but full-featured addressbook in your web browser.
+adx is a standalone and portable web app (online and offline).
+
+FEATURES
+Contact Management, portable, small (~200KB), lightweight, contact tagging, geo mapping, web accounts, trigger phone/Skype calls, etc.
+
+EXPORT FUNCTIONALITY
+vCard (as file or QR code via offline generator)
+
+HOW IT WORKS
+Your address-book (XML file) is transformed in your web browser (via XSLT) to a full-featured web application (HTML).
+
+REQUIREMENTS
+Web browser for viewing adx; online hosting or local storage is possible (for local storage most modern browsers need to be configured to open local files); NO server, plugin or anything else needed. Any text editor can be used for contact editing (addressbook.xml).Minimalistic but full-featured addressbook in your web browser.
+adx is a standalone and portable web app (online and offline).
+
+FEATURES
+Contact Management, portable, small (~200KB), lightweight, contact tagging, geo mapping, web accounts, trigger phone/Skype calls, etc.
+
+EXPORT FUNCTIONALITY
+vCard (as file or QR code via offline generator)
+
+HOW IT WORKS
+Your address-book (XML file) is transformed in your web browser (via XSLT) to a full-featured web application (HTML).
+
+REQUIREMENTS
+Web browser for viewing adx; online hosting or local storage is possible (for local storage most modern browsers need to be configured to open local files); NO server, plugin or anything else needed. Any text editor can be used for contact editing (addressbook.xml).","Categories
+XML, HTML/XHTML, Office/Business"
+A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings. Written in C# 2.0 and compatible with all .Net languages.A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings. Written in C# 2.0 and compatible with all .Net languages.,"Categories
+Data Formats, Object Oriented"
+"As the name implies (Javascript RRD), javascriptRRD is a javascript library for reading Round Robin Database (RRD) archives (produced by rrdtool) using AJAX-like techniques. The library also provides graphing classes leveraging the Flot library.As the name implies (Javascript RRD), javascriptRRD is a javascript library for reading Round Robin Database (RRD) archives (produced by rrdtool) using AJAX-like techniques. The library also provides graphing classes leveraging the Flot library.","Categories
+Dynamic Content, Monitoring, AJAX"
+"Start Building Rich Internet Applications Rapidly. OpenWebStudio (OWS) is a robust tool for building data bound forms, modules, utilities and more. Anyone, anywhere can create bullet proof solutions quickly.Start Building Rich Internet Applications Rapidly. OpenWebStudio (OWS) is a robust tool for building data bound forms, modules, utilities and more. Anyone, anywhere can create bullet proof solutions quickly.","Categories
+XML-RPC, Front-Ends, Web Services, JSON, AJAX"
+Library for reading Corel WordPerfect(tm) documents.Library for reading Corel WordPerfect(tm) documents.,"Categories
+Word Processors, Data Formats, Office Suites"
+"Fedora Commons provides open-source software to ensure durability and integrity of digital content, use semantics to contextualize and inter-relate content from many sources, and to enable the creation of innovative, collaborative information spaces.Fedora Commons provides open-source software to ensure durability and integrity of digital content, use semantics to contextualize and inter-relate content from many sources, and to enable the creation of innovative, collaborative information spaces.","Categories
+XML, Dynamic Content, Library"
+HT is a file editor/viewer/analyzer for executables. The goal is to combine the low-level functionality of a debugger and the usability of IDEs. We plan to implement all (hex-)editing features and support of the most important file formats.HT is a file editor/viewer/analyzer for executables. The goal is to combine the low-level functionality of a debugger and the usability of IDEs. We plan to implement all (hex-)editing features and support of the most important file formats.,"Categories
+Data Formats, Security, Debuggers, System"
+The EduCloud SIMS is a software application for educational establishments to manage student data. The EduCloud SIMS project is a data warehouse system with a comprehensive service oriented architecture for enterprise integration.The EduCloud SIMS is a software application for educational establishments to manage student data. The EduCloud SIMS project is a data warehouse system with a comprehensive service oriented architecture for enterprise integration.,"Categories
+Web Services, School Management"
+"JetS3t is a free, open-source Java toolkit and application suite for Amazon Simple Storage Service (Amazon S3), Amazon CloudFront content delivery network, and Google Storage for Developers. Code is available from http://bitbucket.org/jmurty/jets3tJetS3t is a free, open-source Java toolkit and application suite for Amazon Simple Storage Service (Amazon S3), Amazon CloudFront content delivery network, and Google Storage for Developers. Code is available from http://bitbucket.org/jmurty/jets3t","Categories
+Web Services"
+ACCESSdb is a JavaScript library used to dynamically connect to and query locally available Microsoft Access database files within Internet Explorer.ACCESSdb is a JavaScript library used to dynamically connect to and query locally available Microsoft Access database files within Internet Explorer.,"Categories
+XML, Database, JSON"
+This package is a suite of tools meant to allow for the low-level manipulation of Java classes and Java Archive (JAR) files in a hostile environment.This package is a suite of tools meant to allow for the low-level manipulation of Java classes and Java Archive (JAR) files in a hostile environment.,"Categories
+Data Formats, Security, Software Testing"
+"pinyin-kit is a library which provides some functions to handle chinese pinyin issues, such as collating in pinyin order, searching the pinyin of a chinese char.pinyin-kit is a library which provides some functions to handle chinese pinyin issues, such as collating in pinyin order, searching the pinyin of a chinese char.","Categories
+Data Formats"
+"JSefa is a simple library for stream-based serialization of java objects to XML, CSV, or FLR and back again using an iterator-style interface independent of the serialization format. There is a standard and an android edition available.JSefa is a simple library for stream-based serialization of java objects to XML, CSV, or FLR and back again using an iterator-style interface independent of the serialization format. There is a standard and an android edition available.","Categories
+Data Formats"
+"Extensible 3D (X3D) Graphics is a royalty-free International Standard for real-time interactive 3D graphics on the Web, providing unsurpassed interoperability for 3D communications on the Web.
+
+This project includes source for example X3D scene libraries and multiple X3D codebases produced by Web3D Consortium members. All open-source contributions are welcome.Extensible 3D (X3D) Graphics is a royalty-free International Standard for real-time interactive 3D graphics on the Web, providing unsurpassed interoperability for 3D communications on the Web.
+
+This project includes source for example X3D scene libraries and multiple X3D codebases produced by Web3D Consortium members. All open-source contributions are welcome.","Categories
+XML, Simulation Games, 3D Modeling"
+A set of XSL scripts to produce a formatted curriculum vitae or resume from an HR-XML source document.A set of XSL scripts to produce a formatted curriculum vitae or resume from an HR-XML source document.,"Categories
+XML, HTML/XHTML, Office/Business"
+A simple set of Java classes used to handle CSV (Comma-Separated Values) files. The CSVFileReader class has a readFields() method that splits a line of the file into separate String fields; the text qualifier and the field separator are customizable.A simple set of Java classes used to handle CSV (Comma-Separated Values) files. The CSVFileReader class has a readFields() method that splits a line of the file into separate String fields; the text qualifier and the field separator are customizable.,"Categories
+Data Formats"
+RESTEasy is a Java framework for creating RESTful Web Services.RESTEasy is a Java framework for creating RESTful Web Services.,"Categories
+XML, WWW/HTTP"
+Moved to https://github.com/DANS-KNAW/dans-dbf-lib.Moved to https://github.com/DANS-KNAW/dans-dbf-lib.,"Categories
+Data Formats, Database Engines/Servers, Libraries"
+"Java library + tools allowing to parse/create/edit/convert/save almost any type of multimedia playlist. Supported formats: M3U/M3U8/M4U/RAM, ASX/WMX/WVX/WAX, WPL, XSPF, SMIL, PLS, B4S/BPL, RMP, KPL, PLIST, MPCPL, RSS/MediaRSS, Atom, Hypetape, PLA, PLP.Java library + tools allowing to parse/create/edit/convert/save almost any type of multimedia playlist. Supported formats: M3U/M3U8/M4U/RAM, ASX/WMX/WVX/WAX, WPL, XSPF, SMIL, PLS, B4S/BPL, RMP, KPL, PLIST, MPCPL, RSS/MediaRSS, Atom, Hypetape, PLA, PLP.","Categories
+Data Formats, Multimedia, RSS Feed Readers"
+"A simple editor for dbf files. The editor is built with GTK+, making it available on a number of platforms, including Linux and Windows.A simple editor for dbf files. The editor is built with GTK+, making it available on a number of platforms, including Linux and Windows.","Categories
+Data Formats, Database, Front-Ends"
+Create beautiful song books for your church or fellowship using this LaTeX package and related tools.Create beautiful song books for your church or fellowship using this LaTeX package and related tools.,"Categories
+Text Processing, TeX/LaTeX, Religion and Philosophy"
+mstor is an extensible framework for JavaMail local store providers. By default mstor provides support for the mbox email storage format and Java Content Repositories (JCRs).mstor is an extensible framework for JavaMail local store providers. By default mstor provides support for the mbox email storage format and Java Content Repositories (JCRs).,"Categories
+Data Formats, Email, Software Development"
+"A clean and reliable way to migrate from SPS 2003 to MOSS 2007. This is a .NET/C# command line program that copies all your SharePoint 2003 lists and document libraries to a SharePoint 2007 server, keeping metadata like modification date.A clean and reliable way to migrate from SPS 2003 to MOSS 2007. This is a .NET/C# command line program that copies all your SharePoint 2003 lists and document libraries to a SharePoint 2007 server, keeping metadata like modification date.","Categories
+Web Services"
+"deplate is a tool for converting wiki-like markup to latex, docbook, html, or ""html-slides"". It supports embedded LaTeX code, footnotes, citations, biblographies, automatic generation of an index etc.deplate is a tool for converting wiki-like markup to latex, docbook, html, or ""html-slides"". It supports embedded LaTeX code, footnotes, citations, biblographies, automatic generation of an index etc.","Categories
+DocBook, HTML/XHTML, TeX/LaTeX, Office/Business, Site Management, Documentation"
+Methanol is a scriptable multi-purpose web crawling system with an extensible configuration system and speed-optimized architectural design. Methabot is the web crawler of Methanol.Methanol is a scriptable multi-purpose web crawling system with an extensible configuration system and speed-optimized architectural design. Methabot is the web crawler of Methanol.,"Categories
+XML, File Transfer Protocol (FTP), Search Engines"
+"QXmlEdit is a simple XML editor written in qt. Its main features are unusual data visualization modes, nice XML manipulation and presentation and it is multi platform. It can split very big XML files into fragments, compare XML and XSD files, and has a graphical XSD viewers.
+
+Project site:
+http://qxmledit.org
+
+Source code hosted at GitHub (moved from Google Code)
+https://github.com/lbellonda/qxmledit
+
+Report issues at:
+https://github.com/lbellonda/qxmledit/issues
+
+Discussion group:
+https://groups.google.com/group/qxmledit-discussQXmlEdit is a simple XML editor written in qt. Its main features are unusual data visualization modes, nice XML manipulation and presentation and it is multi platform. It can split very big XML files into fragments, compare XML and XSD files, and has a graphical XSD viewers.
+
+Project site:
+http://qxmledit.org
+
+Source code hosted at GitHub (moved from Google Code)
+https://github.com/lbellonda/qxmledit
+
+Report issues at:
+https://github.com/lbellonda/qxmledit/issues
+
+Discussion group:
+https://groups.google.com/group/qxmledit-discuss","Categories
+Text Editors, XML"
+This is the OpenRPG User Interface (OpenRPGUI) project. The goal is to develop a collection of API's allowing RPG programmers to easily talk to various user interfaces. The first attempt will be talking with ExtJS.This is the OpenRPG User Interface (OpenRPGUI) project. The goal is to develop a collection of API's allowing RPG programmers to easily talk to various user interfaces. The first attempt will be talking with ExtJS.,"Categories
+CGI Scripts, Frameworks, JSON"
+"Data integration platform; can be used to transform/map/manipulate data in batch and near-realtime modes. Suppors various input/output formats (CSV,FIXLEN,XML,JSON,Parquet, Avro,EDI/X12,HL7,COBOL,LOTUS, etc.). Connects to RDBMS/JMS/Kafka/SOAP/Rest/LDAP/S3/HTTP/FTP/ZIP/TAR.
+CloverDX offers 100+ specialized components which can be further extended by creation of ""macros"" - subgraphs - in Clover's terminology.
+Simple data manipulation jobs can be created visually. More complex business logic can be implemented using Clover's domain-specific-language CTL, in Java or languages like Python or JavaScript.
+Through its DataServices functionality, it allows to quickly turn data pipelines into REST API endpoints.
+The platform allows to easily scale your data job across multiple cores or nodes/machines.
+Supports Docker/Kubernetes deployments and offers AWS/Azure images in their respective marketplaces.Data integration platform; can be used to transform/map/manipulate data in batch and near-realtime modes. Suppors various input/output formats (CSV,FIXLEN,XML,JSON,Parquet, Avro,EDI/X12,HL7,COBOL,LOTUS, etc.). Connects to RDBMS/JMS/Kafka/SOAP/Rest/LDAP/S3/HTTP/FTP/ZIP/TAR.
+CloverDX offers 100+ specialized components which can be further extended by creation of ""macros"" - subgraphs - in Clover's terminology.
+Simple data manipulation jobs can be created visually. More complex business logic can be implemented using Clover's domain-specific-language CTL, in Java or languages like Python or JavaScript.
+Through its DataServices functionality, it allows to quickly turn data pipelines into REST API endpoints.
+The platform allows to easily scale your data job across multiple cores or nodes/machines.
+Supports Docker/Kubernetes deployments and offers AWS/Azure images in their respective marketplaces.","Categories
+Data Formats, Database, ETL"
+"NBBC is a high-speed, extensible, sophisticated, well-documented, easy-to-use validating BBCode parser written in PHP.
+
+________________________
+
+
+NOTE: THIS COPY OF NBBC HAS NOT BEEN UPDATED IN A LONG TIME.
+
+There are currently two active maintainers of NBBC:
+
+- Theyak (https://github.com/theyak/nbbc) has a copy of NBBC that still works with PHP 4, and is still more-or-less the 1.x source tree, but it has had some of the outstanding bugs fixed.
+
+- Vanilla (https://github.com/vanilla/nbbc) has been actively maintaining NBBC, and now has a v2.x that has been upgraded to support modern PHP 5/6/7 and has new features and functionality. If you want the latest edition of NBBC, this is probably the right place to go!NBBC is a high-speed, extensible, sophisticated, well-documented, easy-to-use validating BBCode parser written in PHP.
+
+________________________
+
+
+NOTE: THIS COPY OF NBBC HAS NOT BEEN UPDATED IN A LONG TIME.
+
+There are currently two active maintainers of NBBC:
+
+- Theyak (https://github.com/theyak/nbbc) has a copy of NBBC that still works with PHP 4, and is still more-or-less the 1.x source tree, but it has had some of the outstanding bugs fixed.
+
+- Vanilla (https://github.com/vanilla/nbbc) has been actively maintaining NBBC, and now has a v2.x that has been upgraded to support modern PHP 5/6/7 and has new features and functionality. If you want the latest edition of NBBC, this is probably the right place to go!","Categories
+HTML/XHTML, CGI Scripts, Libraries"
+PHP 5 Web Service Proxy Generator. wsdl2php is a tool for generating proxy classes that can be used to access web services.PHP 5 Web Service Proxy Generator. wsdl2php is a tool for generating proxy classes that can be used to access web services.,"Categories
+SOAP, Code Generators"
+"NF-e, CT-e, NFS-e, MDF-e e NFC-e
+
+Monitora uma pasta procurando pelos arquivos XML - Assina digitalmente os arquivos XML - Transmitir / Receber arquivos XML usando o Webservice da SEFAZ.NF-e, CT-e, NFS-e, MDF-e e NFC-e
+
+Monitora uma pasta procurando pelos arquivos XML - Assina digitalmente os arquivos XML - Transmitir / Receber arquivos XML usando o Webservice da SEFAZ.","Categories
+XML, SOAP, ERP, Cryptography, Web Services"
+"World's most comprehensive, powerful, process-based and lighting fast PDF editor, reader, and batch processor. Edit PDF with features like Extract Page, Split Page, Rotate Page, Merge Page, Duplicate page, Move Page, Printing, and Compress Page. Make PDF editing easier and faster.
+
+Try advanced features OCR pdf and images, OCR scanned images, searchable pdf, pdf Imposition, Masking Tape/Hide Content, Reverse Pages, Resize Page, Scale Page, Create Booklet, N-up Pages, Page Repeat, Advanced pdf Compression, Batch Processing, Advanced Printing, Replace Page, Insert Page, Delete Page, Add Link, Attachment/Add Files into PDF, Replace Text, Hide Pages, Crop Page, Page Box, Add Text, Add Image, Add Bookmarks, Remove Bookmark, Export Bookmark, Create Form, Delete Form, Flatten Form, Extract Text, Extract Images, Export To Word, Export To Excel, Export To PowerPoint, QR Code & Barcodes, Password Protection, Remove Password, Bates Numbering, Watermark/Background, Sign Pdf, Digital Signature.World's most comprehensive, powerful, process-based and lighting fast PDF editor, reader, and batch processor. Edit PDF with features like Extract Page, Split Page, Rotate Page, Merge Page, Duplicate page, Move Page, Printing, and Compress Page. Make PDF editing easier and faster.
+
+Try advanced features OCR pdf and images, OCR scanned images, searchable pdf, pdf Imposition, Masking Tape/Hide Content, Reverse Pages, Resize Page, Scale Page, Create Booklet, N-up Pages, Page Repeat, Advanced pdf Compression, Batch Processing, Advanced Printing, Replace Page, Insert Page, Delete Page, Add Link, Attachment/Add Files into PDF, Replace Text, Hide Pages, Crop Page, Page Box, Add Text, Add Image, Add Bookmarks, Remove Bookmark, Export Bookmark, Create Form, Delete Form, Flatten Form, Extract Text, Extract Images, Export To Word, Export To Excel, Export To PowerPoint, QR Code & Barcodes, Password Protection, Remove Password, Bates Numbering, Watermark/Background, Sign Pdf, Digital Signature.","Categories
+Office Suites, Graphic Design, PDF, PDF Editors, OCR, PDF Splitters"
+"====== DISCLAIMER ======
+Since 2018 WFM reader is out of date. Thanks for using it for several years :)
+
+Please use official WFM-file format description (pdf) located at:
+http://download.tek.com/manual/001137803web_0.pdf
+====== DISCLAIMER ======
+
+====== OBSOLETED DESCRIPTION ======
+WFM reader and exporter is the simple application to read WFM file that produced by Tektronix/Rigol oscilloscopes. In the version 2.0:
+- Recovered the tabbed interface
+- Added Zooming/Scrolling
+- Added Legend with Min/Max
+- Added CSV / Image exporting
+- Removed 3rd party dependencies for straight recompile
+
+Many thanks to Kirk Wolak. https://sourceforge.net/users/kwolak
+
+Downloading of previous versions is not recommended.
+
+If you want to download the version with full source you can go to ""Files"" section and select appropritate item to download.
+====== OBSOLETED DESCRIPTION ========== DISCLAIMER ======
+Since 2018 WFM reader is out of date. Thanks for using it for several years :)
+
+Please use official WFM-file format description (pdf) located at:
+http://download.tek.com/manual/001137803web_0.pdf
+====== DISCLAIMER ======
+
+====== OBSOLETED DESCRIPTION ======
+WFM reader and exporter is the simple application to read WFM file that produced by Tektronix/Rigol oscilloscopes. In the version 2.0:
+- Recovered the tabbed interface
+- Added Zooming/Scrolling
+- Added Legend with Min/Max
+- Added CSV / Image exporting
+- Removed 3rd party dependencies for straight recompile
+
+Many thanks to Kirk Wolak. https://sourceforge.net/users/kwolak
+
+Downloading of previous versions is not recommended.
+
+If you want to download the version with full source you can go to ""Files"" section and select appropritate item to download.
+====== OBSOLETED DESCRIPTION ====","Categories
+Data Formats, Libraries, Test and Measurement"
+"CalemEAM is an open source enterprise asset management (EAM/CMMS) suite, featuring Web 2.0 Ajax client with drag-and-drop customization and a PHP based server. This free CMMS/EAM project can be used for industrial, facility and IT asset management.CalemEAM is an open source enterprise asset management (EAM/CMMS) suite, featuring Web 2.0 Ajax client with drag-and-drop customization and a PHP based server. This free CMMS/EAM project can be used for industrial, facility and IT asset management.","Categories
+Enterprise, Web Services, AJAX"
+"ChordPro creates elegant, stafless lead sheets for musicians needing only chords and lyrics. It processes plain text input in ChordPro format and it is a rewrite of the old though still popular Chord/Chordii programs.ChordPro creates elegant, stafless lead sheets for musicians needing only chords and lyrics. It processes plain text input in ChordPro format and it is a rewrite of the old though still popular Chord/Chordii programs.","Categories
+Data Formats, Printing"
+"An XML parser written in the REXX programming language. It runs on mainframes (z/OS Rexx) as well as Windows and Linux (Regina or ooRexx).
+
+Includes example Rexx programs that use the parser such as: JCL2XML (converts z/OS JCL into an XML format), AUX2SVG (converts a z/OS CICS auxiliary trace file into a visual SVG format), PRETTY (an XML pretty printer), DEVISIO (an example of removing unwanted tags from an SVG file).An XML parser written in the REXX programming language. It runs on mainframes (z/OS Rexx) as well as Windows and Linux (Regina or ooRexx).
+
+Includes example Rexx programs that use the parser such as: JCL2XML (converts z/OS JCL into an XML format), AUX2SVG (converts a z/OS CICS auxiliary trace file into a visual SVG format), PRETTY (an XML pretty printer), DEVISIO (an example of removing unwanted tags from an SVG file).","Categories
+XML, XML Parsers"
+C# Sitemap generator based on Open sitemap generator 0.6.0 hosted here in sourceforge. I'm registering a new project to add new functionality as original seems to be no longer being developped. Generador de sitemaps en español e inglés.C# Sitemap generator based on Open sitemap generator 0.6.0 hosted here in sourceforge. I'm registering a new project to add new functionality as original seems to be no longer being developped. Generador de sitemaps en español e inglés.,"Categories
+XML, Site Management"
+Python module and command line utility that analyzes XML output from the program pdftohtml in order to extract tables from PDF files. Outputs CSV.Python module and command line utility that analyzes XML output from the program pdftohtml in order to extract tables from PDF files. Outputs CSV.,"Categories
+Data Formats, Office/Business, Libraries"
+"Furon is a web-based football (soccer) league manager written in PHP. It can manage all the aspects of a league (games, players, sanctions, referees ...), create schedules automatically and much more.Furon is a web-based football (soccer) league manager written in PHP. It can manage all the aspects of a league (games, players, sanctions, referees ...), create schedules automatically and much more.","Categories
+HTML/XHTML, Front-Ends, WWW/HTTP"
+"A suite of service programs which enable the easy generation of XML or HTML from within RPG.
+
+XMLi1 enables the building of XML within RPG using procedure calls. Data can be written to your program variables or pointers.
+
+XMLi2 provides an XML-based scripting language that makes XML generation easy. Simply write a template of your desired XML/HTML and use imbedded SQL queries to build your data. Pass parameters to the template from your RPG to be used in your SQL queries. Conditional logic is provided by IF and CHOOSE blocks, and looping constructs are provided by DOW/DOU/FOR loops. Looping through SQL queries is provided using FOR-EACH. Data can be written to the IFS, standard output, or passed to a call-back procedure.
+
+Extend the XMLi language via your own extensions written in RPG. These allow you to call your own business logic from within a running template.
+
+100% ILE RPG - source available in download, and at SVN repository.
+
+Runs on IBM i (iSeries, Series, AS/400)A suite of service programs which enable the easy generation of XML or HTML from within RPG.
+
+XMLi1 enables the building of XML within RPG using procedure calls. Data can be written to your program variables or pointers.
+
+XMLi2 provides an XML-based scripting language that makes XML generation easy. Simply write a template of your desired XML/HTML and use imbedded SQL queries to build your data. Pass parameters to the template from your RPG to be used in your SQL queries. Conditional logic is provided by IF and CHOOSE blocks, and looping constructs are provided by DOW/DOU/FOR loops. Looping through SQL queries is provided using FOR-EACH. Data can be written to the IFS, standard output, or passed to a call-back procedure.
+
+Extend the XMLi language via your own extensions written in RPG. These allow you to call your own business logic from within a running template.
+
+100% ILE RPG - source available in download, and at SVN repository.
+
+Runs on IBM i (iSeries, Series, AS/400)","Categories
+XML"
+A command line utility to convert wko binary files into comma separated variable files for manipulation in generic analysis tools such as excel.A command line utility to convert wko binary files into comma separated variable files for manipulation in generic analysis tools such as excel.,"Categories
+CSV"
+"Microsoft .NET connector for the Fedora Commons repository system. Developed by Jeroen Suijkerbuijk, commissioned and sponsored by Maastricht University Library.Microsoft .NET connector for the Fedora Commons repository system. Developed by Jeroen Suijkerbuijk, commissioned and sponsored by Maastricht University Library.","Categories
+Library, Multimedia, Semantic Web"
+MiniRets is a small PHP RETS client that is simple to use and simple to extend. Mini RETS has been tested with 1.0 - 1.7 RETS servers. The client is built around the articles by Ron Goff http://rontgoff.com built by GonBot Studios http://gonbotstudio.comMiniRets is a small PHP RETS client that is simple to use and simple to extend. Mini RETS has been tested with 1.0 - 1.7 RETS servers. The client is built around the articles by Ron Goff http://rontgoff.com built by GonBot Studios http://gonbotstudio.com,"Categories
+Web Services"
+"AutoSuggest for MooTools provides a simple AJAX JavaScript Auto-Suggest framework for use with MooTools 1.2+ What makes this framework different from the others is that it is built from the ground-up to work with key-value pairs, not just strings.AutoSuggest for MooTools provides a simple AJAX JavaScript Auto-Suggest framework for use with MooTools 1.2+ What makes this framework different from the others is that it is built from the ground-up to work with key-value pairs, not just strings.","Categories
+Dynamic Content, JSON, AJAX"
+Smart-M3 is a functional platform that provides a cross domain search extent for triple based information. Smart-M3 enables smart cross domain applications that rely on information level interoperability.Smart-M3 is a functional platform that provides a cross domain search extent for triple based information. Smart-M3 enables smart cross domain applications that rely on information level interoperability.,"Categories
+Database Engines/Servers, Object Brokering, Semantic Web"
+"A program to assist in writing Arabic text in programs that don't support Arabic, such as Photoshop (the non-ME editions), Scribus, Flash, and others. Source code is hosted on github: http://github.com/hasenj/arabic-writerA program to assist in writing Arabic text in programs that don't support Arabic, such as Photoshop (the non-ME editions), Scribus, Flash, and others. Source code is hosted on github: http://github.com/hasenj/arabic-writer","Categories
+Data Formats, Metadata Editors"
+"A Minor Project made in Python using Tkinter for frontend which fetches Data about Movies/TV-Series from an Online Database and uses the OMDB REST API and pyImdb to show Information about movies.
+
+Github : https://github.com/Cyborg117/ShowtimeA Minor Project made in Python using Tkinter for frontend which fetches Data about Movies/TV-Series from an Online Database and uses the OMDB REST API and pyImdb to show Information about movies.
+
+Github : https://github.com/Cyborg117/Showtime","Categories
+Front-Ends, Education, JSON"
+"ChaiMager is an app created to help everyone who forgets the charachters´names. Our brain can easily identify faces, but that does not work that well when talking about the names. Noone remembers that carachter that appeared once 7 chapters before. The purpose of this tool is to help you in your book reading adventure. If you read in PDF (I am planning to add others formats as well), then you can use the app and add an image (the main goal is to help light novel readers, since they bring images of the charachters, but you can use it in all books you want) and color for each name. When that name appears in a page, the image will be added next to it, on the left margin, making it easier to relate.ChaiMager is an app created to help everyone who forgets the charachters´names. Our brain can easily identify faces, but that does not work that well when talking about the names. Noone remembers that carachter that appeared once 7 chapters before. The purpose of this tool is to help you in your book reading adventure. If you read in PDF (I am planning to add others formats as well), then you can use the app and add an image (the main goal is to help light novel readers, since they bring images of the charachters, but you can use it in all books you want) and color for each name. When that name appears in a page, the image will be added next to it, on the left margin, making it easier to relate.","Categories
+PDF"
+"being fun on game what you bad at
+for Crisis Action only
+you need to load this script whit game guardian
+this is for aim lock
+use game guardian and bypass before u open the vitual app
+dont open real app cause you get banned if you dont use virtual app
+always use bypass before open virtual if you dont want this app get force close in mid game
+that only what you need to do if you want to get this app work on you phone/or maybe you play on emulator in this case you need to get your pc only use vpn you dont need to get hthe bypass if you do that
+this app dont need to get root fo only mac maybe this got to big problem
+use linux to get more safe using thiss script cheat
+i use to talk to much cuz i like it
+ok simply use bypass for CA you can get it from youtube there is alot people share the bypass for thiss game
+dont forget to urn off the anti-viruses beefore you install the bypass no need to panic if your pc get infected you can deleted the bypass and download it again anytime.being fun on game what you bad at
+for Crisis Action only
+you need to load this script whit game guardian
+this is for aim lock
+use game guardian and bypass before u open the vitual app
+dont open real app cause you get banned if you dont use virtual app
+always use bypass before open virtual if you dont want this app get force close in mid game
+that only what you need to do if you want to get this app work on you phone/or maybe you play on emulator in this case you need to get your pc only use vpn you dont need to get hthe bypass if you do that
+this app dont need to get root fo only mac maybe this got to big problem
+use linux to get more safe using thiss script cheat
+i use to talk to much cuz i like it
+ok simply use bypass for CA you can get it from youtube there is alot people share the bypass for thiss game
+dont forget to urn off the anti-viruses beefore you install the bypass no need to panic if your pc get infected you can deleted the bypass and download it again anytime.","Categories
+Data Formats"
+"Tyk is an open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+
+Tyk Gateway is provided ‘Batteries-included’, with no feature lockout. Enabling your organization to control who accesses your APIs, when they access, and how they access it.
+
+Tyk Technologies uses the same API Gateway for all it’s applications. Protecting, securing, and processing APIs for thousands of organizations and businesses around the world. Ideal for Open Banking, building software in the clouds as well as exposing APIs to teams, partners & consumers.
+
+Built from the ground up to be the fastest API gateway on the planet. It does not depend on a legacy proxy underneath. It has no 3rd party dependencies aside from Redis for distributed rate-limiting and token storage. Tyk Gateway can also be deployed as part of a larger Full Lifecycle API Management platform Tyk Self-Managed which also includes Management Control Plane, Dashboard GUI and Developer Portal.Tyk is an open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+
+Tyk Gateway is provided ‘Batteries-included’, with no feature lockout. Enabling your organization to control who accesses your APIs, when they access, and how they access it.
+
+Tyk Technologies uses the same API Gateway for all it’s applications. Protecting, securing, and processing APIs for thousands of organizations and businesses around the world. Ideal for Open Banking, building software in the clouds as well as exposing APIs to teams, partners & consumers.
+
+Built from the ground up to be the fastest API gateway on the planet. It does not depend on a legacy proxy underneath. It has no 3rd party dependencies aside from Redis for distributed rate-limiting and token storage. Tyk Gateway can also be deployed as part of a larger Full Lifecycle API Management platform Tyk Self-Managed which also includes Management Control Plane, Dashboard GUI and Developer Portal.","Categories
+Data Formats, Software Development, Cloud Services, API Gateways"
+PDF Organiser gathers PDF files distributed throughout your system into one place where you can organise them into folders of your choosing. It has minimal dependencies of gtk and json-glib so it is very lightweight and fast with a binary size of less than 45 Kb.PDF Organiser gathers PDF files distributed throughout your system into one place where you can organise them into folders of your choosing. It has minimal dependencies of gtk and json-glib so it is very lightweight and fast with a binary size of less than 45 Kb.,"Categories
+PDF"
+"JUAL OBAT CYTOTEC OBAT ABORSI JEPARA Jual Obat Cytotec Jepara | Penjual Jual Cytotec Di Jepara | Jual Obat Gastrul Jepara | Apotik Yang Jual Cytotec Di Jepara | Obat Aborsi Cytotec Asli Jepara | Obat Aborsi Di Jepara | Harga Cytotec K24 Jepara | Jual Obat Aborsi Jepara | Penjual Obat Cytotec Di Jepara | Obat Penggugur Kandungan Jepara | Alamat Toko Obat Aborsi Di Jepara | Apotik Yang Menjual Cytotec Di Jepara | Tempat Beli Cytotec Di Jepara | Jual Obat Aborsi Di Kota Jepara | Tempat Penjualan Cytotec Di Jepara | Toko Obat Aborsi Jepara | Tempat Aborsi Jepara | Klinik Aborsi Jepara | Tidak Menerima COD
+
+aket 1.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 600.000Djaminan Tuntas
+Paket 2.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 700.00 Djaminan Tuntas
+Paket 3.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 800.000 Djaminan
+Tuntas Paket 4.Bulan: Cytotec + Antibiotik + Antinyeri. Rp.1000.000 Djaminan
+Contoh Format Pemesanan Obat Aborsi hbg 081230087272JUAL OBAT CYTOTEC OBAT ABORSI JEPARA Jual Obat Cytotec Jepara | Penjual Jual Cytotec Di Jepara | Jual Obat Gastrul Jepara | Apotik Yang Jual Cytotec Di Jepara | Obat Aborsi Cytotec Asli Jepara | Obat Aborsi Di Jepara | Harga Cytotec K24 Jepara | Jual Obat Aborsi Jepara | Penjual Obat Cytotec Di Jepara | Obat Penggugur Kandungan Jepara | Alamat Toko Obat Aborsi Di Jepara | Apotik Yang Menjual Cytotec Di Jepara | Tempat Beli Cytotec Di Jepara | Jual Obat Aborsi Di Kota Jepara | Tempat Penjualan Cytotec Di Jepara | Toko Obat Aborsi Jepara | Tempat Aborsi Jepara | Klinik Aborsi Jepara | Tidak Menerima COD
+
+aket 1.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 600.000Djaminan Tuntas
+Paket 2.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 700.00 Djaminan Tuntas
+Paket 3.Bulan: Cytotec + Antibiotik + Antinyeri. Rp. 800.000 Djaminan
+Tuntas Paket 4.Bulan: Cytotec + Antibiotik + Antinyeri. Rp.1000.000 Djaminan
+Contoh Format Pemesanan Obat Aborsi hbg 081230087272","Categories
+HTML/XHTML, Web Conferencing"
+"With the application you can open and browse pdf books.
+In addition you will be able to inspect the codes for characters or locate the images.
+May be an example of basic use of pdfbox.
+
+JDK-17 compatibilityWith the application you can open and browse pdf books.
+In addition you will be able to inspect the codes for characters or locate the images.
+May be an example of basic use of pdfbox.
+
+JDK-17 compatibility","Categories
+Other/Nonlisted Topic, PDF"
+"******WDTVHubGen2 is no more working since July 2022**********
+
+WDTVHubGen2 is a batch processor for getting metadata and thumbs for a wdtv live hub. processes both movies and tv shows, supports many languages and uses themoviedb.org and thetvdb.com.
+
+This program also does a lot of parsing to make the files easier to lookup and even aggressively looks up filenames where there are download tags and such.
+
+Simply download the latest build und unzip.
+
+It will probably need .Net Framework 4.0 or 4.5, wich is standard with Win10.
+
+Despite some little glitches, choosen to release first build.
+
+Known bugs at this time :
+-Posters area not fully functionnal
+-File in use when trying to save several times
+
+WDTVHubGen2 is a rebirth of the defunct WDTVHubGen. All credits are going to the original creator.
+
+WDTVHubGen2 was build with the WDTVHubGen 2.3.1.0 Sources and last build was 2.3.1.1, at https://archive.codeplex.com/?p=wdtvhubgen******WDTVHubGen2 is no more working since July 2022**********
+
+WDTVHubGen2 is a batch processor for getting metadata and thumbs for a wdtv live hub. processes both movies and tv shows, supports many languages and uses themoviedb.org and thetvdb.com.
+
+This program also does a lot of parsing to make the files easier to lookup and even aggressively looks up filenames where there are download tags and such.
+
+Simply download the latest build und unzip.
+
+It will probably need .Net Framework 4.0 or 4.5, wich is standard with Win10.
+
+Despite some little glitches, choosen to release first build.
+
+Known bugs at this time :
+-Posters area not fully functionnal
+-File in use when trying to save several times
+
+WDTVHubGen2 is a rebirth of the defunct WDTVHubGen. All credits are going to the original creator.
+
+WDTVHubGen2 was build with the WDTVHubGen 2.3.1.0 Sources and last build was 2.3.1.1, at https://archive.codeplex.com/?p=wdtvhubgen","Categories
+XML, Video, Cataloguing"
+"THTMLdom is a (Delphi) class with functions to read a HTML source file and dissect it into a tree of THTMLelement. The attributes of the HTML tags are stored in the elements. Functions are provided to select elements on the basis of the attribute values or tag names. The structure of the tree can be shown and it can be rendered as plain text.
+The source is plain Delphi pascal, requiring a version that supports Tdictionary. There is no dependency on 3rd party units.
+The file to be parsed must have valid HTML4/5 tags. It is not necessary that the HTML is ‘correct’ in the sense that end tags may be wrongly placed or be absent altogether. The speed of processing (reading+parsing) is formidable: 15-40 msec per Mbyte or around 1 msec per 1000 HTML tags.THTMLdom is a (Delphi) class with functions to read a HTML source file and dissect it into a tree of THTMLelement. The attributes of the HTML tags are stored in the elements. Functions are provided to select elements on the basis of the attribute values or tag names. The structure of the tree can be shown and it can be rendered as plain text.
+The source is plain Delphi pascal, requiring a version that supports Tdictionary. There is no dependency on 3rd party units.
+The file to be parsed must have valid HTML4/5 tags. It is not necessary that the HTML is ‘correct’ in the sense that end tags may be wrongly placed or be absent altogether. The speed of processing (reading+parsing) is formidable: 15-40 msec per Mbyte or around 1 msec per 1000 HTML tags.","Categories
+HTML/XHTML, WWW/HTTP, Software Development"
+Ce projet permet à l'utilisateur de connaitre différentes informations importantes d'une liste de tweet à partir de différentes commandes. Le programme permet également d'exporter ces informations sous formes de graphiques grâce au l'outil vega-lite.Ce projet permet à l'utilisateur de connaitre différentes informations importantes d'une liste de tweet à partir de différentes commandes. Le programme permet également d'exporter ces informations sous formes de graphiques grâce au l'outil vega-lite.,"Categories
+CSV"
+"Free and open source GUI application for updating bookmarks in a PDF document using the PDF Toolkit command line tool, PDFtk Server. User selects the PDF via drag and drop and then edits the bookmark entries in a text file using a simple, 1-line data format. Program handles everything else in response to a few user button clicks. OS: Windows. Author: David King. License: GPLv3.Free and open source GUI application for updating bookmarks in a PDF document using the PDF Toolkit command line tool, PDFtk Server. User selects the PDF via drag and drop and then edits the bookmark entries in a text file using a simple, 1-line data format. Program handles everything else in response to a few user button clicks. OS: Windows. Author: David King. License: GPLv3.","Categories
+PDF, Command Line Tools, PDF Readers"
+"Design your new betting currency by choosing a blockchain to run on, a name for your coins and an initial supply. Then create your genesis transaction and import the new coins into your wallet. Next decentralize your currency by installing it on a bunch of different nodes and distributing the coins to any initial investors and stakeholders.
+
+PolyCash makes it easy to create a new cryptocurrency for sports betting or betting on any other topic. You can peg your currency to the dollar, the bitcoin or nearly any other source of value.Design your new betting currency by choosing a blockchain to run on, a name for your coins and an initial supply. Then create your genesis transaction and import the new coins into your wallet. Next decentralize your currency by installing it on a bunch of different nodes and distributing the coins to any initial investors and stakeholders.
+
+PolyCash makes it easy to create a new cryptocurrency for sports betting or betting on any other topic. You can peg your currency to the dollar, the bitcoin or nearly any other source of value.","Categories
+Games/Entertainment, JSON, Cryptocurrency"
+"Important: It's an early BETA that's intended for testing purposes only. Currently, the version is available for Windows only, MacOS one is coming soon. Please make sure you have BACKUP copies of all your projects before installing this version.
+Usually, your projects are stored here:
+for PC: C:\Users\YourUserName\AppData\Local\Mobirise.com\Mobirise\projects\
+for Mac: ~/Library/Application Support/Mobirise.com/Mobirise/projects/Important: It's an early BETA that's intended for testing purposes only. Currently, the version is available for Windows only, MacOS one is coming soon. Please make sure you have BACKUP copies of all your projects before installing this version.
+Usually, your projects are stored here:
+for PC: C:\Users\YourUserName\AppData\Local\Mobirise.com\Mobirise\projects\
+for Mac: ~/Library/Application Support/Mobirise.com/Mobirise/projects/","Categories
+HTML/XHTML, Site Management, Blogging"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.","Categories
+Web Services"
+we can use ocr programming in eclipse and everybody can create different things with using ocr in eclipse.join us and lets do it!we can use ocr programming in eclipse and everybody can create different things with using ocr in eclipse.join us and lets do it!,"Categories
+Algorithms, Code Generators, Semantic Web, OCR"
+"Read and write JSON data from and to files or streams.
+Validation by JsonSchema (see http://json-schema.org for specifications)Read and write JSON data from and to files or streams.
+Validation by JsonSchema (see http://json-schema.org for specifications)","Categories
+JSON"
+"TeXworks is a free and simple working environment for authoring TeX (LaTeX, ConTeXt and XeTeX) documents. Inspired by Dick Koch's award-winning TeXShop program for Mac OS X, it makes entry into the TeX world easier for those using desktop operating systems other than OS X. It provides an integrated, easy-to-use environment for users on other platforms particularly GNU/Linux and Windows and features a clean, simple interface accessible to casual and non-technical users.TeXworks is a free and simple working environment for authoring TeX (LaTeX, ConTeXt and XeTeX) documents. Inspired by Dick Koch's award-winning TeXShop program for Mac OS X, it makes entry into the TeX world easier for those using desktop operating systems other than OS X. It provides an integrated, easy-to-use environment for users on other platforms particularly GNU/Linux and Windows and features a clean, simple interface accessible to casual and non-technical users.","Categories
+Text Processing, TeX/LaTeX, Desktop Publishing, PDF Readers"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.License
+GNU General Public License version 2.0 (GPLv2)","Categories
+Data Formats"
+"CSVboard is a tool for loading CSV files with minimum effort. Since I placed a great importance on its easy of use I implemented a search and filtering engine which provides you with the facility to efficiently find specified rows within a table.
+DON'T FORGET TO READ THE QUICK TUTORIAL!!
+
+Features:
+
+Lightweight and portable
+Set and reset title with Ctrl+q and Ctrl+w
+Auto-set column widths
+Auto-detection of delimiters
+Load files by Dragging&Dropping
+XML export
+Powerful search and filtering engine
+CSVboard was written in Java and JavaFX and actually it is a result of some recycled code collections. I experimentally developed during my time as a hobby programmer. So if you find any dysfunctionalities, errors, bugs, or the like do not hesitate to contact me. I'm further going to publish my code at Github in the near future so that everybody has the chance to improve my code.CSVboard is a tool for loading CSV files with minimum effort. Since I placed a great importance on its easy of use I implemented a search and filtering engine which provides you with the facility to efficiently find specified rows within a table.
+DON'T FORGET TO READ THE QUICK TUTORIAL!!
+
+Features:
+
+Lightweight and portable
+Set and reset title with Ctrl+q and Ctrl+w
+Auto-set column widths
+Auto-detection of delimiters
+Load files by Dragging&Dropping
+XML export
+Powerful search and filtering engine
+CSVboard was written in Java and JavaFX and actually it is a result of some recycled code collections. I experimentally developed during my time as a hobby programmer. So if you find any dysfunctionalities, errors, bugs, or the like do not hesitate to contact me. I'm further going to publish my code at Github in the near future so that everybody has the chance to improve my code.","Categories
+CSV"
+"Simple converter tool with GUI (written on JavaFX) for converting large XML-files to JSON and JSON to XML with indicating progress and uses small amount of memory for converting.
+
+Starting from 1.2.0 application supports batch converting files from directory by pattern.
+
+Uses Java 1.8+ (http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). Distributions for Mac, Linux and Windows already have embedded JRE, so just download appropriate distribution and start application.Simple converter tool with GUI (written on JavaFX) for converting large XML-files to JSON and JSON to XML with indicating progress and uses small amount of memory for converting.
+
+Starting from 1.2.0 application supports batch converting files from directory by pattern.
+
+Uses Java 1.8+ (http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). Distributions for Mac, Linux and Windows already have embedded JRE, so just download appropriate distribution and start application.","Categories
+XML, JSON"
+"MP4 Inspector is a Windows based program that parses, and displays MPEG-4 file data structure (Boxes / Atoms) and related details, supports ISO MPEG-4 (ISO/IEC 14496-12, ISO/IEC 14496-14, ISO/IEC 14496-15), iTunes, QuickTime, 3GPP and IIS Smooth Streaming file formats.
+
+Written in Visual Basic 2010.MP4 Inspector is a Windows based program that parses, and displays MPEG-4 file data structure (Boxes / Atoms) and related details, supports ISO MPEG-4 (ISO/IEC 14496-12, ISO/IEC 14496-14, ISO/IEC 14496-15), iTunes, QuickTime, 3GPP and IIS Smooth Streaming file formats.
+
+Written in Visual Basic 2010.","Categories
+Data Formats, Video, Sound/Audio"
+"CsvReader can read .csv files in any characterset encoding (also with BOM) and with configurable separator and optional stringquote (delimiter).
+CsvWriter can write .csv files and supports the same features as CsvReader.
+There are also some other convenient optional configuration values.
+
+For feature documentation and examples see wiki or javadoc.CsvReader can read .csv files in any characterset encoding (also with BOM) and with configurable separator and optional stringquote (delimiter).
+CsvWriter can write .csv files and supports the same features as CsvReader.
+There are also some other convenient optional configuration values.
+
+For feature documentation and examples see wiki or javadoc.","Categories
+Data Formats"
+"(Beta Version)
+
+This is sister project for https://sourceforge.net/projects/dataquality/ . It provides Restful APIs for features for data quality and data preparation features. This project will help projects which want embed data quality and data preparation features in their project or UI using restful calls.
+Data Cleansing APIs
+
+Dockerfile:
+# Pull base image
+FROM frnde/jetty-9.4.2-jre8-alpine-cet
+ADD osdq-v0.0.1.war /var/lib/jetty/webapps/osdq.war
+EXPOSE 8080
+
+Docker Image
+https://hub.docker.com/r/vreddym/osdq-web/tags(Beta Version)
+
+This is sister project for https://sourceforge.net/projects/dataquality/ . It provides Restful APIs for features for data quality and data preparation features. This project will help projects which want embed data quality and data preparation features in their project or UI using restful calls.
+Data Cleansing APIs
+
+Dockerfile:
+# Pull base image
+FROM frnde/jetty-9.4.2-jre8-alpine-cet
+ADD osdq-v0.0.1.war /var/lib/jetty/webapps/osdq.war
+EXPOSE 8080
+
+Docker Image
+https://hub.docker.com/r/vreddym/osdq-web/tags","Categories
+Profiling, Web Services, Business Intelligence"
+"This software allows to generate MD (Message Digest) and SHA hashes from a file or files or files in a directory. Checksum is an value calculated from a content of file by special algorithm. You can also verify the file integrity of the downloaded document or program. File Checksum Utility is very easy to use. From the graphical user interface, choose the file from your computer storage. The tool calculate and display checksum values.
+
+File Checksum Utility is a free software (Freeware) that is available for use at no monetary cost. It is fully functional for an unlimited time. You can copy and diffuse it without restriction if it's free of charge. The author restricts the rights of the user to modify, make derivative works, or reverse-engineer the software.This software allows to generate MD (Message Digest) and SHA hashes from a file or files or files in a directory. Checksum is an value calculated from a content of file by special algorithm. You can also verify the file integrity of the downloaded document or program. File Checksum Utility is very easy to use. From the graphical user interface, choose the file from your computer storage. The tool calculate and display checksum values.
+
+File Checksum Utility is a free software (Freeware) that is available for use at no monetary cost. It is fully functional for an unlimited time. You can copy and diffuse it without restriction if it's free of charge. The author restricts the rights of the user to modify, make derivative works, or reverse-engineer the software.","Categories
+XML, Usability, File Systems"
+"System to allow printing to Dymo Labelwriter labelprinters without NPAPI plugin framework which has recently been disabled in chrome. System runs a local node.js server which accepts XML which is passed into the label framework. Includes a chrome extension to allow CORS/Mixed content posts to localhost to print labels, typically blocked by browser.
+
+See README.txt for information on usage.
+
+-----------------------
+Note: Compiled Binaries are windows only, but this method is macintosh compatible. You'll just need to compile printlabel.exe for mac & write shell scripts to launch the server to replace runserver.exe & obtain a mac copy of node.exe. Please use the discussion page if you have any questionsSystem to allow printing to Dymo Labelwriter labelprinters without NPAPI plugin framework which has recently been disabled in chrome. System runs a local node.js server which accepts XML which is passed into the label framework. Includes a chrome extension to allow CORS/Mixed content posts to localhost to print labels, typically blocked by browser.
+
+See README.txt for information on usage.
+
+-----------------------
+Note: Compiled Binaries are windows only, but this method is macintosh compatible. You'll just need to compile printlabel.exe for mac & write shell scripts to launch the server to replace runserver.exe & obtain a mac copy of node.exe. Please use the discussion page if you have any questions","Categories
+Web Services"
+"This software enable you to run HTML,CSS, VB Script and Java Script programs.
+This software support VB Script & Java Script components.
+you can run any kind of VB Script and Java Script programs without saving,just type program and view it in internal browser.
+you can run HTML,CSS,VB Script & Java Script components without full code of it.
+you can view your code in many browsers like Internal Browser,Default Browser,Internet Explorer,Chrome,Firefox,Safari or you can add your browser path in Options menu.
+this software also enable you to create advanced web pages using CSS.
+In this software you can type your html program on the left side and can view the output on the right side.
+this software also enable you to insert advanced CSS tags and all html tags.
+you can insert advanced CSS function like Buttons,Text Areas etc.
+only just filling simple information about it.
+this software is very easy to use.
+download it and try it.This software enable you to run HTML,CSS, VB Script and Java Script programs.
+This software support VB Script & Java Script components.
+you can run any kind of VB Script and Java Script programs without saving,just type program and view it in internal browser.
+you can run HTML,CSS,VB Script & Java Script components without full code of it.
+you can view your code in many browsers like Internal Browser,Default Browser,Internet Explorer,Chrome,Firefox,Safari or you can add your browser path in Options menu.
+this software also enable you to create advanced web pages using CSS.
+In this software you can type your html program on the left side and can view the output on the right side.
+this software also enable you to insert advanced CSS tags and all html tags.
+you can insert advanced CSS function like Buttons,Text Areas etc.
+only just filling simple information about it.
+this software is very easy to use.
+download it and try it.","Categories
+HTML/XHTML, WWW/HTTP, Site Management"
+"PDF Guru is a simple in use program for merging multiple images and PDF files into a single compact PDF file.
+
+It is capable of selecting specific PDF pages or range of pages, which lets you have more control on the output file. Be able to produce compacted, smaller sized files in any operating system.
+
+Its features makes it a great, must have, tool for everyone.PDF Guru is a simple in use program for merging multiple images and PDF files into a single compact PDF file.
+
+It is capable of selecting specific PDF pages or range of pages, which lets you have more control on the output file. Be able to produce compacted, smaller sized files in any operating system.
+
+Its features makes it a great, must have, tool for everyone.","Categories
+Office/Business, PDF"
+"Конвертация DBF файлов в MySQL, CSV или XML. Русский, English, Deutsch, Español, Italiano, Français, Čeština, Română.
+http://dbf-to-mysql-csv-xml.sourceforge.netКонвертация DBF файлов в MySQL, CSV или XML. Русский, English, Deutsch, Español, Italiano, Français, Čeština, Română.
+http://dbf-to-mysql-csv-xml.sourceforge.net","Categories
+XML, Database, CSV"
+"C/CIF is an interchange format for chess applications. This format is supporting all features of a chess application - PGN does not provide this - and can be used to transfer chess archives without any loss via an application independent format.
+
+C/CIF is supporting two formats: the binary format CCIF, and the human readable format CIF (in XML).C/CIF is an interchange format for chess applications. This format is supporting all features of a chess application - PGN does not provide this - and can be used to transfer chess archives without any loss via an application independent format.
+
+C/CIF is supporting two formats: the binary format CCIF, and the human readable format CIF (in XML).","Categories
+Data Formats, Board Games, Libraries"
+"xsd2pgschema is a Java application suite, which converts XML Schema 1.1 (hierarchical data model) to PostgreSQL DDL (relational data model) and supports XML data migration into PostgreSQL based on the XML Schema without defects on information content. It also supports full-text indexing via either Apache Lucene or Sphinx Search utilizing the relational data model. File convesion from XML to CSV, TSV, or JSON is possible as well as mapping XML Schema to JSON Schema.
+Obtained PostgreSQL database can be optimized at user's discletion. Moreover, differential upate, and XPath query evaluation over PostgreSQL are possible.
+PgSchema server, serialized relational data model server, can be used to speed up the analysis of complex XML Schema.
+Large XML file can be split through xmlsplitter, a flexible XML splitter based on XPath and StAX.xsd2pgschema is a Java application suite, which converts XML Schema 1.1 (hierarchical data model) to PostgreSQL DDL (relational data model) and supports XML data migration into PostgreSQL based on the XML Schema without defects on information content. It also supports full-text indexing via either Apache Lucene or Sphinx Search utilizing the relational data model. File convesion from XML to CSV, TSV, or JSON is possible as well as mapping XML Schema to JSON Schema.
+Obtained PostgreSQL database can be optimized at user's discletion. Moreover, differential upate, and XPath query evaluation over PostgreSQL are possible.
+PgSchema server, serialized relational data model server, can be used to speed up the analysis of complex XML Schema.
+Large XML file can be split through xmlsplitter, a flexible XML splitter based on XPath and StAX.","Categories
+XML, Database, JSON"
+"Json Node Tree framework is provisioning of transformation operations for JSON documents similar XML XPATH and XSLT. The framework parses textual JSON document to nodes tree that represents JSON entity: object, array or value of primitive type. Generated tree allows to modify values of nodes and/or structure of the given JSON document. Representation of JSON object as a nodes tree allows implement an operations such as path query and transformations (like XPATH and XSLT for XML).Json Node Tree framework is provisioning of transformation operations for JSON documents similar XML XPATH and XSLT. The framework parses textual JSON document to nodes tree that represents JSON entity: object, array or value of primitive type. Generated tree allows to modify values of nodes and/or structure of the given JSON document. Representation of JSON object as a nodes tree allows implement an operations such as path query and transformations (like XPATH and XSLT for XML).","Categories
+JSON, Libraries"
+"An application that create a scene in HGE file format that can be used for Hulixerian Game Engine.
+HGE file format is a compatible file format for 3D rendering application, it is mostly compatible with OpenGL.
+This project use Qt5 framework for all of its tasks, and will not make any dependency on other external libraries.
+WARNING: This project is not stable and is under big changes in its every push.An application that create a scene in HGE file format that can be used for Hulixerian Game Engine.
+HGE file format is a compatible file format for 3D rendering application, it is mostly compatible with OpenGL.
+This project use Qt5 framework for all of its tasks, and will not make any dependency on other external libraries.
+WARNING: This project is not stable and is under big changes in its every push.","Categories
+Data Formats, Graphics, Graphic Design"
+"This project is the development of an open source fully emulated Darkfall Online Server and reverse engineering the proprietary game engine that DFO uses, the SF3D engine as well as its source code.This project is the development of an open source fully emulated Darkfall Online Server and reverse engineering the proprietary game engine that DFO uses, the SF3D engine as well as its source code.","Categories
+Data Formats, Database Engines/Servers, MMORPG"
+Just select any folder from your computer and save equivalent JSON file.Just select any folder from your computer and save equivalent JSON file.,"Categories
+JSON"
+"CSV Comparator is a tool for comparing files which contain CSV-Data. It was created for performance engineers to be able to have a easy way to compare data from two testruns and be able to automate the comparing process of various files with scripts.
+There is a command line tool as well as a user interface.
+
+In case you need to compare .xml-Files you can convert them to .csv-Files with my other project CSV Transformer.
+
+The advantages by using CSV as input and output are the following:
+- Many applications allow an export of its data to CSV or Excel(were it could be saved to CSV)
+- It is possible to pre- and postprocess the data, e.g removing version numbers before comparing
+- It is easy to create CSV data from logfiles and other resources by using unix tools like sed or awk
+- CSV can be loaded into other applications, especially Excel, were it can be formatted by macros for analyzing.CSV Comparator is a tool for comparing files which contain CSV-Data. It was created for performance engineers to be able to have a easy way to compare data from two testruns and be able to automate the comparing process of various files with scripts.
+There is a command line tool as well as a user interface.
+
+In case you need to compare .xml-Files you can convert them to .csv-Files with my other project CSV Transformer.
+
+The advantages by using CSV as input and output are the following:
+- Many applications allow an export of its data to CSV or Excel(were it could be saved to CSV)
+- It is possible to pre- and postprocess the data, e.g removing version numbers before comparing
+- It is easy to create CSV data from logfiles and other resources by using unix tools like sed or awk
+- CSV can be loaded into other applications, especially Excel, were it can be formatted by macros for analyzing.","Categories
+CSV, Test and Measurement, Command Line Tools"
+"MorganaXProc is a full implementation of XProc: An XML Pipeline Language (W3C Recommendation 11 May 2010) written in Java, supporting all required and optional steps, the steps proposed on EXProc.org and also the document templating steps ""p:in-scope-names"" and ""p:template"".
+XPath 2.0 or XPath 3.0 is used as expression language.
+XSLT and XQuery are supported out of the box, while a flexible connector mechanism also allows to employ your favorite XSLT and XQuery processors.
+
+The current version is 1.0.x. It is very close to the recommendation with all related tests of the XProc Test Suite passed.MorganaXProc is a full implementation of XProc: An XML Pipeline Language (W3C Recommendation 11 May 2010) written in Java, supporting all required and optional steps, the steps proposed on EXProc.org and also the document templating steps ""p:in-scope-names"" and ""p:template"".
+XPath 2.0 or XPath 3.0 is used as expression language.
+XSLT and XQuery are supported out of the box, while a flexible connector mechanism also allows to employ your favorite XSLT and XQuery processors.
+
+The current version is 1.0.x. It is very close to the recommendation with all related tests of the XProc Test Suite passed.","Categories
+XML, Dynamic Content, Interpreters"
+"Libanvil is a C library for manipulating Minecraft world data, designed to be as simple and efficient as possible. It provides full read and write support for region data in the Anvil file format, with support for other game files planned. It includes APIs for both low- and high-level access.Libanvil is a C library for manipulating Minecraft world data, designed to be as simple and efficient as possible. It provides full read and write support for region data in the Anvil file format, with support for other game files planned. It includes APIs for both low- and high-level access.","Categories
+Data Formats, Game Development Frameworks, Minecraft Mods"
+"IndySoap is a Open Source Library for implementing Web services using Delphi/CBuilder Compilers. IndySoap isn't tied to Indy for transport services, though Indy based transport services are included.
+
+Feature List:
+*RPC and Doc|Lit support
+*Soap using Interfaces
+*WSDL generation
+*WSDL importer
+*Extensively DUnit tested
+*many other thingsIndySoap is a Open Source Library for implementing Web services using Delphi/CBuilder Compilers. IndySoap isn't tied to Indy for transport services, though Indy based transport services are included.
+
+Feature List:
+*RPC and Doc|Lit support
+*Soap using Interfaces
+*WSDL generation
+*WSDL importer
+*Extensively DUnit tested
+*many other things","Categories
+SOAP, Web Services"
+"SBML2LATEX is a tool to convert files in the System Biology Markup Language SBML) format into LATEX files. A convenient online version is available, which allows the user to directly generate report from SBML in form of PDF or TeX, which can be further processed to various file types including DVI, PS, EPS, GIF, JPG, or PNG. SBML2LATEX can also be downloaded and used locally in batch mode or interactively with its Graphical User Interface or several command line options. The purpose of SBML2LATEX is to provide a way to read the contents of XML-based SBML files. This is helpful and important for, e.g., error detection, proofreading and model communication.SBML2LATEX is a tool to convert files in the System Biology Markup Language SBML) format into LATEX files. A convenient online version is available, which allows the user to directly generate report from SBML in form of PDF or TeX, which can be further processed to various file types including DVI, PS, EPS, GIF, JPG, or PNG. SBML2LATEX can also be downloaded and used locally in batch mode or interactively with its Graphical User Interface or several command line options. The purpose of SBML2LATEX is to provide a way to read the contents of XML-based SBML files. This is helpful and important for, e.g., error detection, proofreading and model communication.","Categories
+XML, TeX/LaTeX, Data Visualization"
+Simple tool that can be used export notes from (unencrypted) iTunes backup files to CSV files. The tool scans the iTunes backup of the device and locates the file containing the notes then converts the notes into a sane format.Simple tool that can be used export notes from (unencrypted) iTunes backup files to CSV files. The tool scans the iTunes backup of the device and locates the file containing the notes then converts the notes into a sane format.,"Categories
+Data Formats"
+"P.S. Dear friends. Repository migration to https://github.com/ascrus/getl . You can download jar file from this site or maven.
+
+GETL - based package in Groovy, which automates the work of loading and transforming data. His name is an acronym for «Groovy ETL».
+
+GETL is a set of libraries of pre-built classes and objects that can be used to solve problems unpacking, transform and load data into programs written in Groovy, or Java, as well as from any software that supports the work with Java classes.
+
+GETL taken into account when developing ideas and following requirements:
+1. The simpler the class hierarchy, the easier solution;
+2. The data structures tend to change over time, or not be known in advance, working with them must be maintained;
+3. All routine work ETL should be automated wherever possible;
+4. Compiling the code on the fly bail speed and reserve for the optimization;
+5. Sophisticated class hierarchy guarantee easy connection of other open source solutions.P.S. Dear friends. Repository migration to https://github.com/ascrus/getl . You can download jar file from this site or maven.
+
+GETL - based package in Groovy, which automates the work of loading and transforming data. His name is an acronym for «Groovy ETL».
+
+GETL is a set of libraries of pre-built classes and objects that can be used to solve problems unpacking, transform and load data into programs written in Groovy, or Java, as well as from any software that supports the work with Java classes.
+
+GETL taken into account when developing ideas and following requirements:
+1. The simpler the class hierarchy, the easier solution;
+2. The data structures tend to change over time, or not be known in advance, working with them must be maintained;
+3. All routine work ETL should be automated wherever possible;
+4. Compiling the code on the fly bail speed and reserve for the optimization;
+5. Sophisticated class hierarchy guarantee easy connection of other open source solutions.","Categories
+Data Formats, Database, ETL"
+Remote Support is a simple solution aimed at providing RDP based remote support. Tunneling RDP traffic through firewalls and NAT is done with the help of a private proxy server accessible on the internet.Remote Support is a simple solution aimed at providing RDP based remote support. Tunneling RDP traffic through firewalls and NAT is done with the help of a private proxy server accessible on the internet.,"Categories
+Communications, Internet, Web Services, Proxy Servers"
+"Those of us who are tinkerers, web developers, and/or sys admins sometimes need to quickly hit a complex URL and read the response. This might be done for the sake of testing an API method, or reading a sensor at a remote location. Cheap, small webservers are now commonplace, and the temptation is to use the (now ubiquitous) smart phone as a remote control for all of these new web-connected devices.
+
+https://play.google.com/store/apps/details?id=com.sapienciaexmachina.webremote#?t=W251bGwsMSwxLDIxMiwiY29tLnNhcGllbmNpYWV4bWFjaGluYS53ZWJyZW1vdGUiXQ..Those of us who are tinkerers, web developers, and/or sys admins sometimes need to quickly hit a complex URL and read the response. This might be done for the sake of testing an API method, or reading a sensor at a remote location. Cheap, small webservers are now commonplace, and the temptation is to use the (now ubiquitous) smart phone as a remote control for all of these new web-connected devices.
+
+https://play.google.com/store/apps/details?id=com.sapienciaexmachina.webremote#?t=W251bGwsMSwxLDIxMiwiY29tLnNhcGllbmNpYWV4bWFjaGluYS53ZWJyZW1vdGUiXQ..","Categories
+Web Services"

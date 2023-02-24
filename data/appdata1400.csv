@@ -1,0 +1,655 @@
+Description,Category
+"StarUML is an open source project to develop fast, flexible, extensible, featureful, and freely-available UML/MDA platform running on Win32 platform. The goal is a compelling replacement of commercial UML tools such as RationalRose, Together and so on.StarUML is an open source project to develop fast, flexible, extensible, featureful, and freely-available UML/MDA platform running on Win32 platform. The goal is a compelling replacement of commercial UML tools such as RationalRose, Together and so on.","Categories
+UML, Code Generators"
+Cobertura is a free Java tool that calculates the percentage of code accessed by tests. It can be used to identify which parts of your Java program are lacking test coverage. It is based on jcoverage.Cobertura is a free Java tool that calculates the percentage of code accessed by tests. It can be used to identify which parts of your Java program are lacking test coverage. It is based on jcoverage.,"Categories
+Software Testing, QA Automation"
+"This module provides a forked version of the JSF Pages from Entity Classes wizard inside NetBeans but produces PrimeFaces JSF pages with page layout, menu and dialog boxes. The page style is inspired by Emre Simtay's blog ""Simple CRUD Web Application with JSF 2.1, PrimeFaces 3.5, Maven and JPA"".This module provides a forked version of the JSF Pages from Entity Classes wizard inside NetBeans but produces PrimeFaces JSF pages with page layout, menu and dialog boxes. The page style is inspired by Emre Simtay's blog ""Simple CRUD Web Application with JSF 2.1, PrimeFaces 3.5, Maven and JPA"".","Categories
+Code Generators, Admin Templates, CRUD Generators"
+"The goal of this project is to provide a generator for lexical analyzers of maximum computational efficiency and maximum range of applications. This includes the support for Unicode (UTF8, UTF16, ...) and a large variety of other encodings directly and via nested converters such as ICU(tm) and IConv. Sophisticated buffer handling allows to operate on plain file streams, on sockets, or manually fed buffer content. 'Ready-to-build' examples explain related concepts and facilitate practical applications.The goal of this project is to provide a generator for lexical analyzers of maximum computational efficiency and maximum range of applications. This includes the support for Unicode (UTF8, UTF16, ...) and a large variety of other encodings directly and via nested converters such as ICU(tm) and IConv. Sophisticated buffer handling allows to operate on plain file streams, on sockets, or manually fed buffer content. 'Ready-to-build' examples explain related concepts and facilitate practical applications.","Categories
+Code Generators, Compilers"
+"JSmooth creates standard Windows executable files (.exe) that smartly launch java applications. It makes java deployment much smoother and user-friendly, as it is able to find and run Java VMs by itself, or help the user get one if none are available.JSmooth creates standard Windows executable files (.exe) that smartly launch java applications. It makes java deployment much smoother and user-friendly, as it is able to find and run Java VMs by itself, or help the user get one if none are available.","Categories
+Build Tools, Compilers, Software Distribution, Installation/Setup"
+"Eclipse SQL Client for database querying/browsing any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2, MySQL, PostgreSQL, Sybase, Informix) and can be extended.Eclipse SQL Client for database querying/browsing any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2, MySQL, PostgreSQL, Sybase, Informix) and can be extended.","Categories
+Front-Ends, Software Development, SQL Clients, Database Clients"
+Dlib is a C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems.Dlib is a C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems.,"Categories
+Algorithms, Libraries, Machine Learning"
+"The Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+
+NOTE:
+Since I've just released Clipper2 - https://github.com/AngusJohnson/Clipper2 ,
+this library is now obsolete and no longer being maintained.The Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+
+NOTE:
+Since I've just released Clipper2 - https://github.com/AngusJohnson/Clipper2 ,
+this library is now obsolete and no longer being maintained.","Categories
+Algorithms"
+PlantUml allows to quickly create some UML diagram using a simple textual description language.PlantUml allows to quickly create some UML diagram using a simple textual description language.,"Categories
+UML, Documentation"
+"SynEdit is a syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix (C++ Builder mostly works, but is unsupported).SynEdit is a syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix (C++ Builder mostly works, but is unsupported).","Categories
+Text Editors, Software Development"
+"FreeMarker is a template engine. That is, it provides an easy way to generate text (HTML, source code, configuration files, emails, etc.) that depends on changing data. It's designed to separate the rendering/formatting logic (like visual design, HTML issues, etc.) from the backing application logic and technical complexity. It has a flexible API so you can integrate it into your application the way that best fits it.FreeMarker is a template engine. That is, it provides an easy way to generate text (HTML, source code, configuration files, emails, etc.) that depends on changing data. It's designed to separate the rendering/formatting logic (like visual design, HTML issues, etc.) from the backing application logic and technical complexity. It has a flexible API so you can integrate it into your application the way that best fits it.","Categories
+Dynamic Content, Software Development"
+Allegro is a cross-platform library intended for use in computer games and other types of multimedia programming.Allegro is a cross-platform library intended for use in computer games and other types of multimedia programming.,"Categories
+Games/Entertainment, Software Development"
+"A simple PHP HTML DOM parser written in PHP5+, supports invalid HTML, and provides a very easy way to find, extract and modify the HTML elements of the dom. jquery like syntax allow sophisticated finding methods for locating the elements you care about.A simple PHP HTML DOM parser written in PHP5+, supports invalid HTML, and provides a very easy way to find, extract and modify the HTML elements of the dom. jquery like syntax allow sophisticated finding methods for locating the elements you care about.","Categories
+Libraries"
+"Code::Blocks is an open-source cross-platform IDE (Integrated Development Environment) for C/C++. Designed with flexibility in mind, most of its features are provided by external modules (plugins) making it easily extendable and configurable.Code::Blocks is an open-source cross-platform IDE (Integrated Development Environment) for C/C++. Designed with flexibility in mind, most of its features are provided by external modules (plugins) making it easily extendable and configurable.","Categories
+Integrated Development Environments (IDE), Build Tools, Computer-Aided Software Engineering (CASE)"
+"Git Extensions is now hosted on GitHub
+==============================
+
+Please update your bookmarks and use the links below for downloading and reporting issues.
+
+* Download latest version (Windows only): https://github.com/gitextensions/gitextensions/releases/latest
+* Download latest cross-platform version (Windows and Linux/Mac): https://github.com/gitextensions/gitextensions/releases/v2.51.05
+* Issue tracker: http://github.com/gitextensions/gitextensions/issues
+* Source code: http://github.com/gitextensions/gitextensions
+* Online manual: https://git-extensions-documentation.readthedocs.org/en/latest/Git Extensions is now hosted on GitHub
+==============================
+
+Please update your bookmarks and use the links below for downloading and reporting issues.
+
+* Download latest version (Windows only): https://github.com/gitextensions/gitextensions/releases/latest
+* Download latest cross-platform version (Windows and Linux/Mac): https://github.com/gitextensions/gitextensions/releases/v2.51.05
+* Issue tracker: http://github.com/gitextensions/gitextensions/issues
+* Source code: http://github.com/gitextensions/gitextensions
+* Online manual: https://git-extensions-documentation.readthedocs.org/en/latest/","Categories
+Git"
+UCanAccess is a pure Java JDBC Driver implementation which allows Java developers and JDBC client programs to read/write Microsoft Access database (.mdb and .accdb) files. No ODBC needed.UCanAccess is a pure Java JDBC Driver implementation which allows Java developers and JDBC client programs to read/write Microsoft Access database (.mdb and .accdb) files. No ODBC needed.,"Categories
+Database, Front-Ends, Libraries"
+"ChibiOS/RT is a free and efficient RTOS designed for deeply embedded applications. It offers a comprehensive set of kernel primitives and supports many architectures: ARM7, Cortex-M0, Cortex-M3, Cortex-M4, PowerPC e200z, STM8, AVR, MSP430, ColdFire, H8S, x86.ChibiOS/RT is a free and efficient RTOS designed for deeply embedded applications. It offers a comprehensive set of kernel primitives and supports many architectures: ARM7, Cortex-M0, Cortex-M3, Cortex-M4, PowerPC e200z, STM8, AVR, MSP430, ColdFire, H8S, x86.","Categories
+Software Development, Operating System Kernels, Embedded Systems"
+"PDFsharp is a .NET library for creating and modifying Adobe PDF documents programmatically from any .NET language like C# or VB.NET. PDFsharp defines classes for the objects found in PDF files, so you never have to deal with IDs or references directly.
+The downloads include MigraDoc Foundation, a .NET library for creating documents on the fly (supports PDF and RTF).
+
+PDFsharp is the .NET library that easily creates and processes PDF documents on the fly from any .NET language. The same drawing routines can be used to create PDF documents, draw on the screen, or send output to any printer.
+
+MigraDoc Foundation is the .NET library that easily creates documents based on an object model with paragraphs, tables, styles, etc. and renders them into PDF, XPS, or RTF.
+
+Use PDFsharp or MigraDoc?
+* Use PDFsharp to create PDF files only, but be able to control every pixel and every line that is drawn.
+* Use MigraDoc to create PDF and RTF files and to enjoy the comfort of a word processor.PDFsharp is a .NET library for creating and modifying Adobe PDF documents programmatically from any .NET language like C# or VB.NET. PDFsharp defines classes for the objects found in PDF files, so you never have to deal with IDs or references directly.
+The downloads include MigraDoc Foundation, a .NET library for creating documents on the fly (supports PDF and RTF).
+
+PDFsharp is the .NET library that easily creates and processes PDF documents on the fly from any .NET language. The same drawing routines can be used to create PDF documents, draw on the screen, or send output to any printer.
+
+MigraDoc Foundation is the .NET library that easily creates documents based on an object model with paragraphs, tables, styles, etc. and renders them into PDF, XPS, or RTF.
+
+Use PDFsharp or MigraDoc?
+* Use PDFsharp to create PDF files only, but be able to control every pixel and every line that is drawn.
+* Use MigraDoc to create PDF and RTF files and to enjoy the comfort of a word processor.","Categories
+Software Development, Printing, Data Visualization"
+"TestLink is a web based Test Management tool.
+The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
+
+Repository: https://github.com/TestLinkOpenSourceTRMSTestLink is a web based Test Management tool.
+The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
+
+Repository: https://github.com/TestLinkOpenSourceTRMS","Categories
+Project Management, Software Testing, Documentation, QA Automation, Test Management"
+"This project has moved to http://wixtoolset.org.
+
+The WiX toolset is a set of tools that builds Windows installation packages from text source code. The toolset supports a command line environment that developers may integrate into their build processes to build setup packages for the Windows platform.This project has moved to http://wixtoolset.org.
+
+The WiX toolset is a set of tools that builds Windows installation packages from text source code. The toolset supports a command line environment that developers may integrate into their build processes to build setup packages for the Windows platform.","Categories
+Compilers, Installation/Setup"
+"Notice: iSphere v3.8.x is the last version that is compatible with RDP 8.0 and WDSCi 7.0. The next iSphere version will require at least RDi 9.5.1.3.
+
+iSphere is an open source plugin for WDSCi 7.0 and RDi 8.0+. iSphere provides a lot of important features which are missing in Rationals IDEs. Support for WDSCi 7.0 has been discontinued with version 4.0. So the last version available for WDSCi 7.0 is 3.8.0.r.
+
+For more information about iSphere, visit the iSphere Web site.
+
+The iSphere library requires V7R1 or higher. For lower releases you can try to compile the library from an i Project by hand. Refer to the iSphere help pages for details.
+
+Available at SourceForge since December 3rd, 2013.Notice: iSphere v3.8.x is the last version that is compatible with RDP 8.0 and WDSCi 7.0. The next iSphere version will require at least RDi 9.5.1.3.
+
+iSphere is an open source plugin for WDSCi 7.0 and RDi 8.0+. iSphere provides a lot of important features which are missing in Rationals IDEs. Support for WDSCi 7.0 has been discontinued with version 4.0. So the last version available for WDSCi 7.0 is 3.8.0.r.
+
+For more information about iSphere, visit the iSphere Web site.
+
+The iSphere library requires V7R1 or higher. For lower releases you can try to compile the library from an i Project by hand. Refer to the iSphere help pages for details.
+
+Available at SourceForge since December 3rd, 2013.","Categories
+Software Development"
+"VMWare backup and replication for ESXi vSphere virtual machines to datastore or differential over IP. No agents, self capable, runs in the hypervisor host, ESXi 5.1, ESXi 5.5 & ESXi <=6.7 compatible, hot backups.
+
+Consists in a cron programmable service running in the hypervisor. Hot backups, fully functional, standalone, ideal for dedicated servers. Full version supports quiescing, differential backup, deduplication and much more...
+
+Download link: https://33hops.com/xsibackup-vmware-esxi-backup.html
+
+Free VMWare backup solution for the ESXi hypervisor. Linux style command line tool. Crontab with configurable disk space autoprovision, set the room you want to reserve for your backups and rotate them.
+
+Full backups may be done with vmkfstools or by means of Rsync and its Delta algorithm (read: https://33hops.com/blog_xsibackup-rsync-considerations.html), to a local datastore or over TCP/IP tunneled through SSH, so any transfer over IP is secure.VMWare backup and replication for ESXi vSphere virtual machines to datastore or differential over IP. No agents, self capable, runs in the hypervisor host, ESXi 5.1, ESXi 5.5 & ESXi <=6.7 compatible, hot backups.
+
+Consists in a cron programmable service running in the hypervisor. Hot backups, fully functional, standalone, ideal for dedicated servers. Full version supports quiescing, differential backup, deduplication and much more...
+
+Download link: https://33hops.com/xsibackup-vmware-esxi-backup.html
+
+Free VMWare backup solution for the ESXi hypervisor. Linux style command line tool. Crontab with configurable disk space autoprovision, set the room you want to reserve for your backups and rotate them.
+
+Full backups may be done with vmkfstools or by means of Rsync and its Delta algorithm (read: https://33hops.com/blog_xsibackup-rsync-considerations.html), to a local datastore or over TCP/IP tunneled through SSH, so any transfer over IP is secure.","Categories
+Virtual Machine, Command Line Tools"
+"The Augmented Reality Tool Kit (ARToolKit) captures images from video sources, optically tracks markers in the images, and composites them with computer-generated content using OpenGL. Dual-licensed, under the GPL, plus commercially by ARToolworks, Inc.
+
+NEW: A free demonstration of ARToolKit capabilities has been made available as part of ARToolworks ""Codex Interactivus: Bringing Leonardo to Life!"" Kickstarter project. Download from https://www.kickstarter.com/projects/artoolworks/codex-interactivus-bringing-leonardo-to-life/The Augmented Reality Tool Kit (ARToolKit) captures images from video sources, optically tracks markers in the images, and composites them with computer-generated content using OpenGL. Dual-licensed, under the GPL, plus commercially by ARToolworks, Inc.
+
+NEW: A free demonstration of ARToolKit capabilities has been made available as part of ARToolworks ""Codex Interactivus: Bringing Leonardo to Life!"" Kickstarter project. Download from https://www.kickstarter.com/projects/artoolworks/codex-interactivus-bringing-leonardo-to-life/","Categories
+HMI, AR Development, Augmented Reality"
+Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband and Wideband (AMR-NB and AMR-WB) speech codec. Library of VisualOn implementation of Adaptive Multi Rate Wideband (AMR-WB) encoder and Advanced Audio Coding (AAC) encoder. Modified library of Fraunhofer AAC decoder and encoder.Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband and Wideband (AMR-NB and AMR-WB) speech codec. Library of VisualOn implementation of Adaptive Multi Rate Wideband (AMR-WB) encoder and Advanced Audio Coding (AAC) encoder. Modified library of Fraunhofer AAC decoder and encoder.,"Categories
+Sound/Audio, Libraries"
+A Java library for reading and writing iCalendar (*.ics) files.A Java library for reading and writing iCalendar (*.ics) files.,"Categories
+Data Formats, Calendar, Software Development"
+"Turn Visual Studio into a powerful HMI/SCADA development package by simply dragging and dropping, no coding required. DF1, Ethernet/IP for Allen Bradley PLC controllers, and many more drivers. FreeTurn Visual Studio into a powerful HMI/SCADA development package by simply dragging and dropping, no coding required. DF1, Ethernet/IP for Allen Bradley PLC controllers, and many more drivers. Free","Categories
+User Interface (UI), HMI, SCADA"
+http://processpriority.wiki.sourceforge.net/http://processpriority.wiki.sourceforge.net/,"Categories
+Software Development, System Shells, Multimedia"
+"BASIC-256 is an easy to use version of BASIC designed to teach anybody how to program. A built-in graphics mode lets them draw pictures on screen in minutes, and a set of easy-to-follow tutorials introduce programming concepts through fun exercises,
+
+2021-08-05 - Ubuntu and other LINUX users can install the latest version with snap:
+sudo snap --beta basic256BASIC-256 is an easy to use version of BASIC designed to teach anybody how to program. A built-in graphics mode lets them draw pictures on screen in minutes, and a set of easy-to-follow tutorials introduce programming concepts through fun exercises,
+
+2021-08-05 - Ubuntu and other LINUX users can install the latest version with snap:
+sudo snap --beta basic256","Categories
+Interpreters, Education"
+"Agilefant is a simple but powerful web based tool for lean and agile project management. It is the most versatile open source solution of its kind today, with a rapidly growing user base of more than 10k users around the world in thousands of organizations.
+
+Based on more than ten years of solid scientific research within real world organizations, Agilefant's unique model scales from personal todo-lists to large-scale multi-team development and long-term product and portfolio management.
+
+Unlike other tools, Agilefant adapts to your existing team structure and assignments, and helps achieve true enterprise agility with the fraction of the cost and time needed to adopt cumbersome project management suites offered by competitors.Agilefant is a simple but powerful web based tool for lean and agile project management. It is the most versatile open source solution of its kind today, with a rapidly growing user base of more than 10k users around the world in thousands of organizations.
+
+Based on more than ten years of solid scientific research within real world organizations, Agilefant's unique model scales from personal todo-lists to large-scale multi-team development and long-term product and portfolio management.
+
+Unlike other tools, Agilefant adapts to your existing team structure and assignments, and helps achieve true enterprise agility with the fraction of the cost and time needed to adopt cumbersome project management suites offered by competitors.","Categories
+Time Tracking, Project Management, Agile Development Tools"
+This is the GTK+2 Runtime Environment Installer for Windows. It includes all of the files required to run GTK+2 applications on Windows. Some support tools are also available.This is the GTK+2 Runtime Environment Installer for Windows. It includes all of the files required to run GTK+2 applications on Windows. Some support tools are also available.,"Categories
+Desktop Environment, Libraries"
+"Stripes is a Java web framework with the goal of making Servlet/JSP based web development in Java as easy, intuitive and straight-forward as possible. Stripes has always been guided by the following principles:
+
+* Convention over configuration (CoC)
+* Extremely lightweight with very few external dependencies.
+* Quick, iterative code/deploy/test experience for developers.
+* Application stack agnostic. Developers can integrate Stripes into their existing application stacks.
+* Do a few things and do them extremely well.
+
+For the last 10 years, Stripes has been used as the basis of applications of all types worldwide. We encourage you to download Stripes, browse the documentation, try the samples, and see why Stripes is considered among the best, lightweight Java web frameworks.
+
+See http://www.stripesframework.org/ for more information.
+
+Latest Release v1.6 : https://github.com/StripesFramework/stripes/releasesStripes is a Java web framework with the goal of making Servlet/JSP based web development in Java as easy, intuitive and straight-forward as possible. Stripes has always been guided by the following principles:
+
+* Convention over configuration (CoC)
+* Extremely lightweight with very few external dependencies.
+* Quick, iterative code/deploy/test experience for developers.
+* Application stack agnostic. Developers can integrate Stripes into their existing application stacks.
+* Do a few things and do them extremely well.
+
+For the last 10 years, Stripes has been used as the basis of applications of all types worldwide. We encourage you to download Stripes, browse the documentation, try the samples, and see why Stripes is considered among the best, lightweight Java web frameworks.
+
+See http://www.stripesframework.org/ for more information.
+
+Latest Release v1.6 : https://github.com/StripesFramework/stripes/releases","Categories
+Dynamic Content, Frameworks, Web Development Frameworks"
+"Utilities for general- and special-purpose documentation. Includes reStructuredText, the easy to read, easy to use, what-you-see-is-what-you-get plaintext markup language.Utilities for general- and special-purpose documentation. Includes reStructuredText, the easy to read, easy to use, what-you-see-is-what-you-get plaintext markup language.","Categories
+Text Processing, Documentation"
+"wxHexEditor is another Hex Editor, build because of there is no good hex editor for Linux system, specially for big files. It supports files up to 2^64 bytes. Written with C++/wxWidgets GUI libs and can be used with other OS'es such Windows, Mac OSwxHexEditor is another Hex Editor, build because of there is no good hex editor for Linux system, specially for big files. It supports files up to 2^64 bytes. Written with C++/wxWidgets GUI libs and can be used with other OS'es such Windows, Mac OS","Categories
+Debuggers, Hex Editors"
+"This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.","Categories
+Terminals, Security, Software Development, Systems Administration, Networking, Internet"
+"Windows 8, and above version comes with version 4.x.x of .NET Framework. But if the user is upgrading from Windows 7 to Windows 8, .NET Framework 3.5 is fully enabled. Most of the existing software require version 3.5 of .NET Framework installed to be able to run. When you try to install an app that requires .NET Framework 3.5 on these latest Windows it asks to connect to Internet inorder to download required installation files.its difficult to download if user's internet speed is low. if the user has Windows installation media he simply install .netfx3. Both 2 above methods have their own limitation. if the user does not have internet connection from the system which need .ntfx3 and if the user does not have Windows installation media, this app helps them to install .netfx3 offline without any installation media. and internet. it saves internet bandwith & time when downloading windows installation files. and also it has the feature to install .netfx3 from windows installation media.Windows 8, and above version comes with version 4.x.x of .NET Framework. But if the user is upgrading from Windows 7 to Windows 8, .NET Framework 3.5 is fully enabled. Most of the existing software require version 3.5 of .NET Framework installed to be able to run. When you try to install an app that requires .NET Framework 3.5 on these latest Windows it asks to connect to Internet inorder to download required installation files.its difficult to download if user's internet speed is low. if the user has Windows installation media he simply install .netfx3. Both 2 above methods have their own limitation. if the user does not have internet connection from the system which need .ntfx3 and if the user does not have Windows installation media, this app helps them to install .netfx3 offline without any installation media. and internet. it saves internet bandwith & time when downloading windows installation files. and also it has the feature to install .netfx3 from windows installation media.","Categories
+Frameworks"
+"YAD (yet another dialog) is a tool for create graphical dialogs from shell scripts
+
+Mail list - https://groups.google.com/forum/#!forum/yad-commonYAD (yet another dialog) is a tool for create graphical dialogs from shell scripts
+
+Mail list - https://groups.google.com/forum/#!forum/yad-common","Categories
+Software Development, User Interface (UI)"
+"WinNMP - Nginx MariaDB Redis Php 8 development stack for Windows
+
+A lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx. A lighter alternative to XAMPP and WAMP.
+
+Also known as WTServer and wt-nmp
+
+Current Package contains the latest stable versions of:
+- Nginx web server
+- MariaDB 10 database server, mysql replacement (32/64bit)
+- MongoDB 4 document-based database (64bit)
+- Redis Cache/NoSql, memcached alternative (64bit)
+- Php 5.6 & PHP 7.2 & PHP 7.3 & PHP 7.4 scripting language (32/64bit)
+- WinSCP SFTP client
+- HTTPS using free LetsEncrypt certificates
+- Composer dependency manager for php
+- Adminer web based database manager
+- Reg.php regular expressions tester
+- WTServer Manager (32/64bit), formerly known as *wt-nmp*WinNMP - Nginx MariaDB Redis Php 8 development stack for Windows
+
+A lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx. A lighter alternative to XAMPP and WAMP.
+
+Also known as WTServer and wt-nmp
+
+Current Package contains the latest stable versions of:
+- Nginx web server
+- MariaDB 10 database server, mysql replacement (32/64bit)
+- MongoDB 4 document-based database (64bit)
+- Redis Cache/NoSql, memcached alternative (64bit)
+- Php 5.6 & PHP 7.2 & PHP 7.3 & PHP 7.4 scripting language (32/64bit)
+- WinSCP SFTP client
+- HTTPS using free LetsEncrypt certificates
+- Composer dependency manager for php
+- Adminer web based database manager
+- Reg.php regular expressions tester
+- WTServer Manager (32/64bit), formerly known as *wt-nmp*","Categories
+Communications, HTTP Servers, Software Development, SFTP Clients"
+"GDesk is a customizable and extendable desktop system for Symbian (UIQ 3, S60 3rd and 5th editions). Icons can be placed on the desktop representing applications, page links and plug-ins; these can then be launched by tapping them.GDesk is a customizable and extendable desktop system for Symbian (UIQ 3, S60 3rd and 5th editions). Icons can be placed on the desktop representing applications, page links and plug-ins; these can then be launched by tapping them.","Categories
+User Interface (UI), System Shells"
+A plugin which uses Exuberant Ctags to parse either only the currently activated source file or multiple files of so-called sessions. The results are shown and can be browsed in a treeview inside of a dockable window.A plugin which uses Exuberant Ctags to parse either only the currently activated source file or multiple files of so-called sessions. The results are shown and can be browsed in a treeview inside of a dockable window.,"Categories
+Text Editors, Software Development"
+"jEdit Plugin Central is the primary online repository of plugins for the jEdit text editor. In conjunction with this repository, the integrated Plugin Manager allows jEdit users to install, upgrade, and remove plugins without leaving the editor.jEdit Plugin Central is the primary online repository of plugins for the jEdit text editor. In conjunction with this repository, the integrated Plugin Manager allows jEdit users to install, upgrade, and remove plugins without leaving the editor.","Categories
+Text Editors, Software Development"
+NClass is a free tool to easily create UML class diagrams with full C# and Java language support.NClass is a free tool to easily create UML class diagrams with full C# and Java language support.,"Categories
+UML, Code Generators"
+"Joda-Time provides a library of classes to replace the Java JDK Date and Time classes including formatting. It is based around the ISO8601 datetime standard, but also provides full support for other calendar systems, such as Gregorian and Buddhist.
+
+Project moved to GitHub: https://github.com/JodaOrg/joda-timeJoda-Time provides a library of classes to replace the Java JDK Date and Time classes including formatting. It is based around the ISO8601 datetime standard, but also provides full support for other calendar systems, such as Gregorian and Buddhist.
+
+Project moved to GitHub: https://github.com/JodaOrg/joda-time","Categories
+Data Formats, Localization (L10N), Internationalization (I18N)"
+JPPF makes it easy to parallelize computationally intensive tasks and execute them on a Grid.JPPF makes it easy to parallelize computationally intensive tasks and execute them on a Grid.,"Categories
+Frameworks, Clustering, Distributed Computing, Load Balancers"
+"comtypes is a pure Python, lightweight COM client and server framework, based on the ctypes Python FFI package.comtypes is a pure Python, lightweight COM client and server framework, based on the ctypes Python FFI package.","Categories
+Software Development"
+NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces.NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces.,"Categories
+HTML/XHTML, Search Engines, Link Checking, Software Development"
+"reacTIVision is a computer vision framework for the fast and robust tracking of markers attached on physical objects, and the creation of multi-touch surfaces. It was designed for the rapid development of table-based tangible user interfaces.reacTIVision is a computer vision framework for the fast and robust tracking of markers attached on physical objects, and the creation of multi-touch surfaces. It was designed for the rapid development of table-based tangible user interfaces.","Categories
+Frameworks, HMI, Realtime Processing"
+"The OpenGL Extension Wrangler Library is a simple tool that helps C/C++ developers initialize extensions and write portable applications. GLEW currently supports a variety of operating systems, including Windows, Linux, Darwin, Irix, and Solaris.The OpenGL Extension Wrangler Library is a simple tool that helps C/C++ developers initialize extensions and write portable applications. GLEW currently supports a variety of operating systems, including Windows, Linux, Darwin, Irix, and Solaris.","Categories
+3D Rendering, Libraries"
+"XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.","Categories
+Text Processing, Other/Nonlisted Topic, Interpreters, System Shells"
+"wxCode project is a collection of reusable components based on the cross-platform wxWidgets GUI toolkit. The project provides various tools and facilities for building, maintaining and releasing wxWidgets-based code. Visit the website for more info.
+
+Note: As of January 2018 this project has been retired.wxCode project is a collection of reusable components based on the cross-platform wxWidgets GUI toolkit. The project provides various tools and facilities for building, maintaining and releasing wxWidgets-based code. Visit the website for more info.
+
+Note: As of January 2018 this project has been retired.","Categories
+User Interface (UI)"
+"Publications Xoops francophones (traductions noyau xoops, documentations, modules francisés, thèmes, Plugin smarty, hacks, ...)Publications Xoops francophones (traductions noyau xoops, documentations, modules francisés, thèmes, Plugin smarty, hacks, ...)","Categories
+Dynamic Content, Site Management, Software Development"
+"Neuroph is lightweight Java Neural Network Framework which can be used to develop common neural network architectures. Small number of basic classes which correspond to basic NN concepts, and GUI editor makes it easy to learn and use.Neuroph is lightweight Java Neural Network Framework which can be used to develop common neural network architectures. Small number of basic classes which correspond to basic NN concepts, and GUI editor makes it easy to learn and use.","Categories
+Frameworks, Simulation, Machine Learning, Neural Network Libraries"
+"A comprehensive software suite for reading barcodes. Supports EAN/UPC, Code 128, Code 39, Interleaved 2 of 5 and QR Code. Includes libraries and applications for decoding captured barcode images and using a video device (eg, webcam) as a barcode scanner.A comprehensive software suite for reading barcodes. Supports EAN/UPC, Code 128, Code 39, Interleaved 2 of 5 and QR Code. Includes libraries and applications for decoding captured barcode images and using a video device (eg, webcam) as a barcode scanner.","Categories
+User Interface (UI), Graphics, Realtime Processing"
+"Included languages:
+English (en.miui.com, xiaomi.eu)
+Chinese (miui.com)
+Polish (Acid, miuipolska.pl)
+Slovak (ingbrzy, https://miuios.cz)
+Czech (VMach, https://miuios.cz)
+Bulgarian (Global)
+Hungarian (vagyula, miui.hu)
+French (Global)
+Swedish (Global)
+Russian (Global)
+Ukrainian (Global)
+Belorussian (Global)
+Croatian (Masva, MIUI Adria)
+Vietnamese (Belmont-Gabriel)
+Italian (miui.it)
+Greek (Global)
+Norwegian (Global)
+Dutch (cueie, mannyribo, redmaner)
+Spanish (nosijf982)
+Turkish (suatsari)
+Brazilian-Portuguese (Global, Feurrado, Lobianco)
+Portuguese (KcNirvana, Lippe35)
+Hebrew (Global)
+Romanian (ashtefan)
+German (muhamed89, cp82, dahool2016, and more)
+Catalan (deivids84)
+Korean (cjhyuky, bradly1, xiaomiqm)
+Slovenian (bostjan2016)
+Serbian (dudjaa)
+Thai (Global)
+Finnish (dogiex)
+Arabic (Global)
+Japanese (ScratchBuild)
+Burmese (Global)
+Danish (Global)Included languages:
+English (en.miui.com, xiaomi.eu)
+Chinese (miui.com)
+Polish (Acid, miuipolska.pl)
+Slovak (ingbrzy, https://miuios.cz)
+Czech (VMach, https://miuios.cz)
+Bulgarian (Global)
+Hungarian (vagyula, miui.hu)
+French (Global)
+Swedish (Global)
+Russian (Global)
+Ukrainian (Global)
+Belorussian (Global)
+Croatian (Masva, MIUI Adria)
+Vietnamese (Belmont-Gabriel)
+Italian (miui.it)
+Greek (Global)
+Norwegian (Global)
+Dutch (cueie, mannyribo, redmaner)
+Spanish (nosijf982)
+Turkish (suatsari)
+Brazilian-Portuguese (Global, Feurrado, Lobianco)
+Portuguese (KcNirvana, Lippe35)
+Hebrew (Global)
+Romanian (ashtefan)
+German (muhamed89, cp82, dahool2016, and more)
+Catalan (deivids84)
+Korean (cjhyuky, bradly1, xiaomiqm)
+Slovenian (bostjan2016)
+Serbian (dudjaa)
+Thai (Global)
+Finnish (dogiex)
+Arabic (Global)
+Japanese (ScratchBuild)
+Burmese (Global)
+Danish (Global)","Categories
+Software Development, OS distribution, ROMs"
+The Software Testing Automation Framework (STAF) is a framework designed to improve the level of reuse and automation in test cases and test environments. The goal of STAF is to provide a complete end-to-end automation solution for testers.The Software Testing Automation Framework (STAF) is a framework designed to improve the level of reuse and automation in test cases and test environments. The goal of STAF is to provide a complete end-to-end automation solution for testers.,"Categories
+Software Testing, Frameworks, Test Frameworks, Automated Testing"
+"WillowTree# is a save editor for Borderlands written in C#. It can read, edit, and convert savegame files from PC, PS3, and Xbox 360 versions of the Borderlands game. It has a storage locker that can be used to transfer items between characters.WillowTree# is a save editor for Borderlands written in C#. It can read, edit, and convert savegame files from PC, PS3, and Xbox 360 versions of the Borderlands game. It has a storage locker that can be used to transfer items between characters.","Categories
+Hex Editors"
+"************************************************************
+
+THIS PROJECT MOVED.
+
+DO NOT DOWNLOAD OLD VERSIONS FROM HERE
+
+See http://poedit.net/download for the latest & greatest.
+
+************************************************************************************************************************
+
+THIS PROJECT MOVED.
+
+DO NOT DOWNLOAD OLD VERSIONS FROM HERE
+
+See http://poedit.net/download for the latest & greatest.
+
+************************************************************","Categories
+Text Editors, Localization (L10N), Internationalization (I18N)"
+"NOTE: iReport/Jaspersoft Studio Support Announcement: As of version 5.5.0, Jaspersoft Studio will be the official design client for JasperReports. iReport will remain as a supported product in maintenance-only mode until December 31, 2015, meaning we will continue to fix critical defects in upcoming releases but no new features will be added to the iReport client. Continue to maintain your existing reports with the new Jaspersoft Studio!
+
+iReport is the most popular visual designer tool for JasperReports Library and JasperReports Server (Business Intelligence). Supports all the most important output formats and virtually any data source.NOTE: iReport/Jaspersoft Studio Support Announcement: As of version 5.5.0, Jaspersoft Studio will be the official design client for JasperReports. iReport will remain as a supported product in maintenance-only mode until December 31, 2015, meaning we will continue to fix critical defects in upcoming releases but no new features will be added to the iReport client. Continue to maintain your existing reports with the new Jaspersoft Studio!
+
+iReport is the most popular visual designer tool for JasperReports Library and JasperReports Server (Business Intelligence). Supports all the most important output formats and virtually any data source.","Categories
+Build Tools"
+"Notepad++ is a source code editor that is free to use and is available in various languages. The source code editor is also written in C++ and is based on the Scintilla editing component. Notepad++ offers a wide range of features, such as autosaving, line bookmarking, simultaneous editing, tabbed document interface, and many more features. Over 140 plugins are also available to use in the default program.
+
+Notepad++ takes advantage of higher execution speed and smaller program size by using Win32 API and STL. The ability to optimize efficiency without sacrificing user-friendliness results in an environment-friendly technology that reduces carbon dioxide emissions. Ultimately, the reduction in power consumption is much better for the environment while still being a viable option for businesses.
+
+If you like this project consider donating.
+https://notepad-plus-plus.org/donate/Notepad++ is a source code editor that is free to use and is available in various languages. The source code editor is also written in C++ and is based on the Scintilla editing component. Notepad++ offers a wide range of features, such as autosaving, line bookmarking, simultaneous editing, tabbed document interface, and many more features. Over 140 plugins are also available to use in the default program.
+
+Notepad++ takes advantage of higher execution speed and smaller program size by using Win32 API and STL. The ability to optimize efficiency without sacrificing user-friendliness results in an environment-friendly technology that reduces carbon dioxide emissions. Ultimately, the reduction in power consumption is much better for the environment while still being a viable option for businesses.
+
+If you like this project consider donating.
+https://notepad-plus-plus.org/donate/","Categories
+Text Editors, Software Development, Web Development"
+"As business grows, Capturing, Storing and Sharing corporate knowledge is vital to the success of business. Electronic Document Management System (EDMS) is the best solution for managing information more efficiently, accurately, and cost-effectively.
+
+EDMS improves organizational effectiveness by providing companies with greater ability to manage their unstructured information. It also enhances an organization’s ability to leverage information stores by allowing enterprise wide access for thousands of users. Provides tight security, ensuring that only people authorized to review or edit a document have access to it.
+
+EDMS is a fully Browser based system developed in Java and needs no client component for implementation, when deployed either in the Intranet or over the Internet.As business grows, Capturing, Storing and Sharing corporate knowledge is vital to the success of business. Electronic Document Management System (EDMS) is the best solution for managing information more efficiently, accurately, and cost-effectively.
+
+EDMS improves organizational effectiveness by providing companies with greater ability to manage their unstructured information. It also enhances an organization’s ability to leverage information stores by allowing enterprise wide access for thousands of users. Provides tight security, ensuring that only people authorized to review or edit a document have access to it.
+
+EDMS is a fully Browser based system developed in Java and needs no client component for implementation, when deployed either in the Intranet or over the Internet.","Categories
+File Sharing, Version Control, Document Management"
+"cx_Oracle is a Python extension module that allows access to Oracle databases and conforms to the Python database API specification version 2.0
+
+Project has moved to GitHub (https://github.com/oracle/python-cx_Oracle) and new builds are available at PyPI (https://pypi.python.org/pypi/cx_Oracle).cx_Oracle is a Python extension module that allows access to Oracle databases and conforms to the Python database API specification version 2.0
+
+Project has moved to GitHub (https://github.com/oracle/python-cx_Oracle) and new builds are available at PyPI (https://pypi.python.org/pypi/cx_Oracle).","Categories
+Software Development"
+"dbUnit is a JUnit extension targeted for database-driven projects that, among other things, puts your database into a known state between test runs.dbUnit is a JUnit extension targeted for database-driven projects that, among other things, puts your database into a known state between test runs.","Categories
+Database, Software Development, Software Testing"
+"This project is no longer actively maintained. It is succeeded by the Eclipse RDF4J project, which can be found at GitHub and at http://www.rdf4j.org/.
+
+Sesame is a de-facto standard framework for processing RDF data. This includes parsing, scalable storage, reasoning and full SPARQL 1.1 query/update support. Sesame offers a fully modular toolkit and an easy-to-use Java API that can be connected to all leading RDF storage solutions.This project is no longer actively maintained. It is succeeded by the Eclipse RDF4J project, which can be found at GitHub and at http://www.rdf4j.org/.
+
+Sesame is a de-facto standard framework for processing RDF data. This includes parsing, scalable storage, reasoning and full SPARQL 1.1 query/update support. Sesame offers a fully modular toolkit and an easy-to-use Java API that can be connected to all leading RDF storage solutions.","Categories
+Storage, Libraries, Semantic Web"
+"Packages with 86 components for all delphi versions (since D7) to build Windows 32/64 bit applications:
+VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
+TcyCommunicate and TcyCommRoomConnector allows communication between applications running in same computer session.
+TcySearchFiles and TcyCopyfiles allow respectively search and copy files with pause/resume/abort features.
+TcyResizer allow move and resize components at run-time like delphi 2009 does.
+Advanced DB Express components (tested with mySQL) for easy table data handling (tcyDbxTable or TcyDbxSimpleTable), schema modifications (TcyDbxUpdateSql), reconcile handling (TcyDBXReconcileError) and table creation (cyDbxImportDataset1).
+TcyMathParser can parse matematical expressions.
+TcyWebBrowser allows view/edit html documents.
+TcyDbAdvGrid is a DBGrid with advanced feature etc ...Packages with 86 components for all delphi versions (since D7) to build Windows 32/64 bit applications:
+VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
+TcyCommunicate and TcyCommRoomConnector allows communication between applications running in same computer session.
+TcySearchFiles and TcyCopyfiles allow respectively search and copy files with pause/resume/abort features.
+TcyResizer allow move and resize components at run-time like delphi 2009 does.
+Advanced DB Express components (tested with mySQL) for easy table data handling (tcyDbxTable or TcyDbxSimpleTable), schema modifications (TcyDbxUpdateSql), reconcile handling (TcyDBXReconcileError) and table creation (cyDbxImportDataset1).
+TcyMathParser can parse matematical expressions.
+TcyWebBrowser allows view/edit html documents.
+TcyDbAdvGrid is a DBGrid with advanced feature etc ...","Categories
+Object Oriented, Libraries"
+"Jericho HTML Parser is a java library allowing analysis and manipulation of parts of an HTML document, including server-side tags, while reproducing verbatim any unrecognised or invalid HTML.Jericho HTML Parser is a java library allowing analysis and manipulation of parts of an HTML document, including server-side tags, while reproducing verbatim any unrecognised or invalid HTML.","Categories
+Text Processing, HTML/XHTML, Dynamic Content, Software Development"
+"omniORB is a CORBA object request broker for C++ and Python. It is very fast, robust, and standards-compliant.omniORB is a CORBA object request broker for C++ and Python. It is very fast, robust, and standards-compliant.","Categories
+CORBA"
+"The Grinder is a load testing framework that makes it easy to run a distributed test using many load injector machines. Test scripts are written in Jython, and can call out to arbitrary Java code, providing support for testing a large range of network protocols.
+
+The Grinder comes with a mature plug-in for testing HTTP services, HTTP scripts can be recorded easily from a browser session.The Grinder is a load testing framework that makes it easy to run a distributed test using many load injector machines. Test scripts are written in Jython, and can call out to arbitrary Java code, providing support for testing a large range of network protocols.
+
+The Grinder comes with a mature plug-in for testing HTTP services, HTTP scripts can be recorded easily from a browser session.","Categories
+Load Testing"
+"GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.","Categories
+3D Rendering, Libraries"
+"This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)This program belongs to class ""Clipboard Manager"". It captures many clipboard objects and allows user to select and paste one in any program. Inspired by analogs: ClipDiary, Ditto, AceText. Main priorities: usability, compatibility, reliability.
+Requires .Net Framework 4.52+ (Windows Vista+/Server 2008+)","Categories
+Desktop Environment, Usability, Clipboard Managers"
+"JACOB is a JAVA-COM Bridge that allows you to call COM Automation components from Java. It uses JNI to make native calls to the COM libraries. JACOB runs on x86 and x64 environments supporting 32 bit and 64 bit JVMs
+
+This project has moved to https://github.com/freemansoft/jacob-projectJACOB is a JAVA-COM Bridge that allows you to call COM Automation components from Java. It uses JNI to make native calls to the COM libraries. JACOB runs on x86 and x64 environments supporting 32 bit and 64 bit JVMs
+
+This project has moved to https://github.com/freemansoft/jacob-project","Categories
+Software Development"
+"ALL DEVELOPMENT MOVED TO GITHUB
+
+https://github.com/wxFormBuilder/wxFormBuilder
+
+wxFormBuilder - a RAD tool for wxWidgets GUI design.ALL DEVELOPMENT MOVED TO GITHUB
+
+https://github.com/wxFormBuilder/wxFormBuilder
+
+wxFormBuilder - a RAD tool for wxWidgets GUI design.","Categories
+User Interface (UI)"
+"The gSOAP toolkit is an extensive suite of portable C and C++ software to develop XML Web services with powerful type-safe XML data bindings. Easy-to-use code-generator tools allow you to directly integrate XML data in C and C++. Serializes native application data in XML. Includes WSDL/XSD schema binding and auto-coding tools, stub/skeleton compiler, Web server integration with Apache module and IIS extension, high-performance XML processing with schema validation, fast MIME/MTOM streaming, SOAP and REST Web API development, WS-* protocols (WS-Security, WS-Policy, WS-ReliableMessaging, etc), XML-RPC and JSON. Licensed under GPLv2.
+
+Visit the developer center with guides, tutorials, and examples at www.genivia.com/dev.html
+
+The documentation of the toolkit, libraries, plugins and more is available at www.genivia.com/docs.html
+
+Commercial-use licenses and expert technical support services are available at competitive pricing levels, please visit www.genivia.com/products.htmlThe gSOAP toolkit is an extensive suite of portable C and C++ software to develop XML Web services with powerful type-safe XML data bindings. Easy-to-use code-generator tools allow you to directly integrate XML data in C and C++. Serializes native application data in XML. Includes WSDL/XSD schema binding and auto-coding tools, stub/skeleton compiler, Web server integration with Apache module and IIS extension, high-performance XML processing with schema validation, fast MIME/MTOM streaming, SOAP and REST Web API development, WS-* protocols (WS-Security, WS-Policy, WS-ReliableMessaging, etc), XML-RPC and JSON. Licensed under GPLv2.
+
+Visit the developer center with guides, tutorials, and examples at www.genivia.com/dev.html
+
+The documentation of the toolkit, libraries, plugins and more is available at www.genivia.com/docs.html
+
+Commercial-use licenses and expert technical support services are available at competitive pricing levels, please visit www.genivia.com/products.html","Categories
+XML, Communications, Code Generators, Messaging"
+"PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat
+
+This is James Clark's Expat XML parser library in C. It is a stream oriented parser that requires setting handlers to deal with the structure that the parser
+discovers in the document.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpatPLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat
+
+This is James Clark's Expat XML parser library in C. It is a stream oriented parser that requires setting handlers to deal with the structure that the parser
+discovers in the document.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat","Categories
+XML, Internet, XML Parsers"
+"Arianne is a multiplayer online engine to develop turn based and real time games, providing a simple way of creating the game server rules and clients like our MORPG Stendhal. Our engine Marauroa uses Java and SQL for hosting hundreds of players on a solo host.
+
+Stendhal is a fun friendly and free multiplayer online adventure game with a huge and rich world. With hundreds of NPCs and different quests, features like the Travel log and achievement system keep track of progress. Thousands of creatures are ready to fight, above and below ground, and as players level up they can compare themselves on a detailed stats website.
+
+The engine Marauroa provides a simple way of creating games on a portable and robust server architecture. Marauroa manages the client server communication and provides an object orientated view of the world for game developers. It handles database access in a transparent way to store player accounts, character progress and the state of the worldArianne is a multiplayer online engine to develop turn based and real time games, providing a simple way of creating the game server rules and clients like our MORPG Stendhal. Our engine Marauroa uses Java and SQL for hosting hundreds of players on a solo host.
+
+Stendhal is a fun friendly and free multiplayer online adventure game with a huge and rich world. With hundreds of NPCs and different quests, features like the Travel log and achievement system keep track of progress. Thousands of creatures are ready to fight, above and below ground, and as players level up they can compare themselves on a detailed stats website.
+
+The engine Marauroa provides a simple way of creating games on a portable and robust server architecture. Marauroa manages the client server communication and provides an object orientated view of the world for game developers. It handles database access in a transparent way to store player accounts, character progress and the state of the world","Categories
+Real Time Strategy, Role-Playing Games (RPG), Multi-User Dungeons (MUD), Frameworks, MMORPG, Game Development Frameworks"
+"Win32 build of Subversion. These binaries are built using Visual C++ 6.0 Should work on all flavours of Windows from Win2000 to Win8 and 2008 Server including server variants (not all tested).
+(1.7.x does not work on NT4 due to APR using new functions).
+
+Modules for Apache 2.2.x and 2.4.x (1.7.6 and up) is included.
+
+Language bindings are NOT tested.
+
+Source code is found at the Apache Subversion site at http://subversion.apache.org/
+
+Code in this project is just a ""Build script"" and patches for VC6Win32 build of Subversion. These binaries are built using Visual C++ 6.0 Should work on all flavours of Windows from Win2000 to Win8 and 2008 Server including server variants (not all tested).
+(1.7.x does not work on NT4 due to APR using new functions).
+
+Modules for Apache 2.2.x and 2.4.x (1.7.6 and up) is included.
+
+Language bindings are NOT tested.
+
+Source code is found at the Apache Subversion site at http://subversion.apache.org/
+
+Code in this project is just a ""Build script"" and patches for VC6","Categories
+Subversion"
+A new and improved fork of Bloodshed Dev-C++A new and improved fork of Bloodshed Dev-C++,"Categories
+Integrated Development Environments (IDE), Software Development"
+"GnuCOBOL (formerly OpenCOBOL) is a free, modern COBOL compiler. GnuCOBOL implements a substantial part of the COBOL 85, X/Open COBOL and newer ISO COBOL standards (2002, 2014, 2023), as well as many extensions included in other COBOL compilers (IBM COBOL, MicroFocus COBOL, ACUCOBOL-GT and others).
+
+GnuCOBOL translates COBOL into C and internally compiles the translated code using a native C compiler.
+Build COBOL programs on various platforms, including GNU/Linux, Unix, Mac OS X, and Microsoft Windows. GnuCOBOL has also been built on HP/UX, z/OS, SPARC, RS6000, AS/400, along with other combinations of machines and operating systems.
+
+Copyright 2001-2022 Free Software Foundation, Inc.
+
+The cobc compiler is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the FSF; either version 3, or (at your option) any later version.
+
+The libcob run time support source tree is licensed under the GNU LGPL.GnuCOBOL (formerly OpenCOBOL) is a free, modern COBOL compiler. GnuCOBOL implements a substantial part of the COBOL 85, X/Open COBOL and newer ISO COBOL standards (2002, 2014, 2023), as well as many extensions included in other COBOL compilers (IBM COBOL, MicroFocus COBOL, ACUCOBOL-GT and others).
+
+GnuCOBOL translates COBOL into C and internally compiles the translated code using a native C compiler.
+Build COBOL programs on various platforms, including GNU/Linux, Unix, Mac OS X, and Microsoft Windows. GnuCOBOL has also been built on HP/UX, z/OS, SPARC, RS6000, AS/400, along with other combinations of machines and operating systems.
+
+Copyright 2001-2022 Free Software Foundation, Inc.
+
+The cobc compiler is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the FSF; either version 3, or (at your option) any later version.
+
+The libcob run time support source tree is licensed under the GNU LGPL.","Categories
+Software Development, Compilers"
+"This is the fast and Free (LGPL license) real time MPEG Audio Layer 1, 2 and 3 decoding library and console player. It uses floating point or integer math, along with several special optimizations (3DNow, SSE, ARM, ...) to make it most efficient.This is the fast and Free (LGPL license) real time MPEG Audio Layer 1, 2 and 3 decoding library and console player. It uses floating point or integer math, along with several special optimizations (3DNow, SSE, ARM, ...) to make it most efficient.","Categories
+MP3, Libraries"
+WebKit .NET is a control library wrapper for WebKit written in C#. The aim is to make it easy for users to incorporate WebKit into their .NET applications.WebKit .NET is a control library wrapper for WebKit written in C#. The aim is to make it easy for users to incorporate WebKit into their .NET applications.,"Categories
+Browsers, Libraries"
+A set of Python extension modules that wrap the cross-platform GUI classes from wxWidgets.A set of Python extension modules that wrap the cross-platform GUI classes from wxWidgets.,"Categories
+Frameworks"
+"Crazy Eddie's GUI (CEGUI) system is a graphical user interface C++ library. It was designed particularly for the needs of videogames, but the library is usable for non-game tasks, such as any other type of applications (rendering/visualisation/virtual reality) and tools. It is designed for user flexibility in look-and-feel, as well as being adaptable to the user's choice in tools and operating systems.
+
+Established in 2003, CEGUI sees continual, active development and remains one of the most powerful and most popular options for developers requiring an adaptable and efficient GUI solution.
+
+CEGUI is fully supported by the developers that created - and continue to develop - the library, and who are accessible via the project's dedicated internet forums and IRC channel.
+
+For more information, more screenshots and for news, check out out our homepage: http://cegui.org.uk
+
+The repository is now at bitbucket (including our issue/bug tracker): https://bitbucket.org/ceguiCrazy Eddie's GUI (CEGUI) system is a graphical user interface C++ library. It was designed particularly for the needs of videogames, but the library is usable for non-game tasks, such as any other type of applications (rendering/visualisation/virtual reality) and tools. It is designed for user flexibility in look-and-feel, as well as being adaptable to the user's choice in tools and operating systems.
+
+Established in 2003, CEGUI sees continual, active development and remains one of the most powerful and most popular options for developers requiring an adaptable and efficient GUI solution.
+
+CEGUI is fully supported by the developers that created - and continue to develop - the library, and who are accessible via the project's dedicated internet forums and IRC channel.
+
+For more information, more screenshots and for news, check out out our homepage: http://cegui.org.uk
+
+The repository is now at bitbucket (including our issue/bug tracker): https://bitbucket.org/cegui","Categories
+User Interface (UI), VR Development, Virtual Reality"
+"Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The wrapper can be compiled in Mono and run on Windows, Linux, Mac OS X, iPhone, iPad and Android devices.Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The wrapper can be compiled in Mono and run on Windows, Linux, Mac OS X, iPhone, iPad and Android devices.","Categories
+Frameworks, Graphics, Scientific/Engineering"
+"FastMM is a lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+
+Important note: FastMM has moved to GitHub. Updates will no longer be pushed to the SourceForge repository.FastMM is a lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+
+Important note: FastMM has moved to GitHub. Updates will no longer be pushed to the SourceForge repository.","Categories
+Software Development"
+A distutils extension to create standalone windows programs from python scripts.A distutils extension to create standalone windows programs from python scripts.,"Categories
+Build Tools, Software Distribution"
+"The Irrlicht Engine is an open source high performance realtime 3D engine written and usable in C++. It is completely cross-platform, using D3D, OpenGL and its own software renderers.The Irrlicht Engine is an open source high performance realtime 3D engine written and usable in C++. It is completely cross-platform, using D3D, OpenGL and its own software renderers.","Categories
+Games/Entertainment, Software Development, 3D Rendering"
+Java platform for fast time-to-market of business applications. Write just the domain classes in plain Java. Get a business application ready for production.Java platform for fast time-to-market of business applications. Write just the domain classes in plain Java. Get a business application ready for production.,"Categories
+Enterprise, Frameworks, Object Oriented"
+"Mixed Integer Linear Programming (MILP) solver lp_solve solves pure linear, (mixed) integer/binary, semi-cont and special ordered sets (SOS) models.lp_solve is written in ANSI C and can be compiled on many different platforms like Linux and WINDOWSMixed Integer Linear Programming (MILP) solver lp_solve solves pure linear, (mixed) integer/binary, semi-cont and special ordered sets (SOS) models.lp_solve is written in ANSI C and can be compiled on many different platforms like Linux and WINDOWS","Categories
+Algorithms, Mathematics"
+This project is for homebrew console development tools based on the gnu compiler collection with additional tools and libraries to aid programming each supported console. The windows variants are built with MinGW.This project is for homebrew console development tools based on the gnu compiler collection with additional tools and libraries to aid programming each supported console. The windows variants are built with MinGW.,"Categories
+Debuggers, Compilers, Cross Compilers"
+"Matplotlib is a python library for making publication quality plots using a syntax familiar to MATLAB users. Matplotlib uses numpy for numerics. Output formats include PDF, Postscript, SVG, and PNG, as well as screen display.
+
+As of matplotlib version 1.5, we are no longer making file releases available on SourceForge. Please visit http://matplotlib.org/users/installing.html for help obtaining matplotlib.Matplotlib is a python library for making publication quality plots using a syntax familiar to MATLAB users. Matplotlib uses numpy for numerics. Output formats include PDF, Postscript, SVG, and PNG, as well as screen display.
+
+As of matplotlib version 1.5, we are no longer making file releases available on SourceForge. Please visit http://matplotlib.org/users/installing.html for help obtaining matplotlib.","Categories
+Software Development, Graphics, Data Visualization"
+"MIUI modifications with multi language based on clean chineese ROMs by MiRoom Portal Project.
+Dev blog: https://t.me/XiaomiSirMIUI modifications with multi language based on clean chineese ROMs by MiRoom Portal Project.
+Dev blog: https://t.me/XiaomiSir","Categories
+Software Testing, User Interface (UI), Mobile"
+"Yaoqiang BPMN Editor is a graphical editor for business process diagrams, compliant with OMG specifications (BPMN 2.0 / DMN 1.1).Yaoqiang BPMN Editor is a graphical editor for business process diagrams, compliant with OMG specifications (BPMN 2.0 / DMN 1.1).","Categories
+UML, Workflow Management, Business Process Management"
+"PHP5 RAD and object oriented PHP framework for building event-driven stateful web applications. Based on Zend Framework, features tableless HTML, multiple databases, accesskey support, auto data type recognition, transparent AJAX, UTF-8, i18n/l10n.PHP5 RAD and object oriented PHP framework for building event-driven stateful web applications. Based on Zend Framework, features tableless HTML, multiple databases, accesskey support, auto data type recognition, transparent AJAX, UTF-8, i18n/l10n.","Categories
+Front-Ends, Dynamic Content, Frameworks"
+"mcrypt, and the accompanying libmcrypt, are intended to be replacements for the old Unix crypt, except that they are under the GPL and support an ever-wider range of algorithms and modes.mcrypt, and the accompanying libmcrypt, are intended to be replacements for the old Unix crypt, except that they are under the GPL and support an ever-wider range of algorithms and modes.","Categories
+Cryptography, Software Development, Mathematics"
+"GnuWin provides Win32-versions of GNU tools, or tools with a similar open source licence. The ports are native ports, relying only on libraries provided with any modern 32-bits MS-Windows operating system, such as 2000 / XP / Vista / 7GnuWin provides Win32-versions of GNU tools, or tools with a similar open source licence. The ports are native ports, relying only on libraries provided with any modern 32-bits MS-Windows operating system, such as 2000 / XP / Vista / 7","Categories
+Office/Business, Desktop Environment, Build Tools"
+"A JavaScript (JSON) tool for Notepad++ (formerly JSMinNpp) and Visual Studio Code.
+* Douglas Crockford's JSMin algorithm to minimize JavaScript code.
+* My own algorithm to format JavaScript code.
+* A JSON tree viewer. The JSON tree viewer for Notepad++ can handle >10MB JSON file easily.
+* Support 64bit Notepad++ (from version 1.20.0, "".64.zip"" package).
+
+Really helpful to JavaScript coder on Notepad++ and Visual Studio Code. Easy to use it.
+Made in China.
+Project site: http://www.sunjw.us/jstool
+
+Any bugs, please send me email: sunjw8888 at? gmail.com or submit issue at https://github.com/sunjw/jstoolnpp/issues
+
+Source code repository has been moved to GitHub. Please check https://github.com/sunjw/jstoolnpp.A JavaScript (JSON) tool for Notepad++ (formerly JSMinNpp) and Visual Studio Code.
+* Douglas Crockford's JSMin algorithm to minimize JavaScript code.
+* My own algorithm to format JavaScript code.
+* A JSON tree viewer. The JSON tree viewer for Notepad++ can handle >10MB JSON file easily.
+* Support 64bit Notepad++ (from version 1.20.0, "".64.zip"" package).
+
+Really helpful to JavaScript coder on Notepad++ and Visual Studio Code. Easy to use it.
+Made in China.
+Project site: http://www.sunjw.us/jstool
+
+Any bugs, please send me email: sunjw8888 at? gmail.com or submit issue at https://github.com/sunjw/jstoolnpp/issues
+
+Source code repository has been moved to GitHub. Please check https://github.com/sunjw/jstoolnpp.","Categories
+Code Generators"
+"Port of SDL library to Android mobile platform.
+There are also several games inside the repository, along with their sources and build files.
+Both SDL 1.2 and 1.3/2.0 versions are supported (1.3/2.0 support is experimental)
+Sources are at https://github.com/pelya/commandergeniusPort of SDL library to Android mobile platform.
+There are also several games inside the repository, along with their sources and build files.
+Both SDL 1.2 and 1.3/2.0 versions are supported (1.3/2.0 support is experimental)
+Sources are at https://github.com/pelya/commandergenius","Categories
+Games/Entertainment, Frameworks, Mobile"
+"RedDwarf is a horizontally scalable application server for low latency apps such as online games, virtual worlds, and social networking applications. It is the official community fork for Project Darkstar, previously sponsored by Sun Microsystems.RedDwarf is a horizontally scalable application server for low latency apps such as online games, virtual worlds, and social networking applications. It is the official community fork for Project Darkstar, previously sponsored by Sun Microsystems.","Categories
+Games/Entertainment, Distributed Computing, Application Servers"
+U++ is BSD licensed C++ cross-platform rapid application development framework focused on programmers productivity without sacrificing runtime performance. Based on strictly deterministic design it provides an alternative to GC collected platforms.U++ is BSD licensed C++ cross-platform rapid application development framework focused on programmers productivity without sacrificing runtime performance. Based on strictly deterministic design it provides an alternative to GC collected platforms.,"Categories
+Frameworks, Compilers, Libraries"
+An extensive update of Borland's Object Windows Library (OWL) for writing GUI applications in standard C++ on Microsoft Windows.An extensive update of Borland's Object Windows Library (OWL) for writing GUI applications in standard C++ on Microsoft Windows.,"Categories
+Frameworks"
+EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing with JUnit and TestNG.EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing with JUnit and TestNG.,"Categories
+Software Testing"
+"One-JAR(TM) is a simple solution to a vexing problem in Java: how to distribute an application as a single jar-file, when it depends on multiple other jar-files. One-JAR uses a custom classloader to discover library jar files inside the main jar.One-JAR(TM) is a simple solution to a vexing problem in Java: how to distribute an application as a single jar-file, when it depends on multiple other jar-files. One-JAR uses a custom classloader to discover library jar files inside the main jar.","Categories
+Build Tools, Installation/Setup"

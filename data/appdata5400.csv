@@ -1,0 +1,237 @@
+Description,Category
+A traslator from BPEL4WS processes to YAWL workflows that works with translation patterns. It takes a BPEL document in input and creates a YAWL workflow that rapresents it.A traslator from BPEL4WS processes to YAWL workflows that works with translation patterns. It takes a BPEL document in input and creates a YAWL workflow that rapresents it.,"Categories
+SOAP, Code Generators, Library, Interface Engine/Protocol Translator"
+"Xdvi is a program for displaying DVI files on the X window system. Xdvik is a variant with hyperlink support and other additions, deployed e.g. in the TeX Live distribution.Xdvi is a program for displaying DVI files on the X window system. Xdvik is a variant with hyperlink support and other additions, deployed e.g. in the TeX Live distribution.","Categories
+TeX/LaTeX, Image Viewers, Scientific/Engineering"
+Mirth Connect is an open source cross-platform HL7 interface engine that enables bi-directional sending of HL7 messages between systems and applications over multiple transports.Mirth Connect is an open source cross-platform HL7 interface engine that enables bi-directional sending of HL7 messages between systems and applications over multiple transports.,"Categories
+Data Formats, Interface Engine/Protocol Translator, Medical"
+"Flat file extractor can be used for reading and parsing different flat file structures and printing them in different formats. ffe is a command line tool developed in GNU/Linux environment and it is distributed under GPL.
+
+Project moved to https://github.com/igitur/ffeFlat file extractor can be used for reading and parsing different flat file structures and printing them in different formats. ffe is a command line tool developed in GNU/Linux environment and it is distributed under GPL.
+
+Project moved to https://github.com/igitur/ffe","Categories
+Text Processing, Data Formats, Command Line Tools"
+"openDICOM.NET - DICOM library, console tools, DICOM viewer/browser for Mono/.NET and Beagle Desktop Search Plugin. The project supports ACR-NEMA and DICOM file formats and provides transcoding to XML. It is written in C# and licensed under (L)GPL.openDICOM.NET - DICOM library, console tools, DICOM viewer/browser for Mono/.NET and Beagle Desktop Search Plugin. The project supports ACR-NEMA and DICOM file formats and provides transcoding to XML. It is written in C# and licensed under (L)GPL.","Categories
+Data Formats, Graphics, Bio-Informatics"
+A PHP implementation of the XML-RPC web RPC protocol. Extra modules provide support for the JSON and JSONRPC protocols. A javascript version of the library is also available.A PHP implementation of the XML-RPC web RPC protocol. Extra modules provide support for the JSON and JSONRPC protocols. A javascript version of the library is also available.,"Categories
+XML-RPC, Web Services"
+Pico Technology Logging software creates a *.PLW file. This is a converter to *.CSV format for partially complete or corrupt PLW files.Pico Technology Logging software creates a *.PLW file. This is a converter to *.CSV format for partially complete or corrupt PLW files.,"Categories
+Data Formats, Scientific/Engineering"
+"The goal of this project is to develop a translator for Microsoft Office to allow open and save Uniform Office Format (UOF) documents.
+The latest Translator is UOF Translator 5.1 and it provides the interoperability between UOF2.0 documents and Open XML ISO/IEC 29500 documents in both directions.
+If you have any doubts or questions, please contact by sending mail to: uof-translator-support@lists.sourceforge.net.The goal of this project is to develop a translator for Microsoft Office to allow open and save Uniform Office Format (UOF) documents.
+The latest Translator is UOF Translator 5.1 and it provides the interoperability between UOF2.0 documents and Open XML ISO/IEC 29500 documents in both directions.
+If you have any doubts or questions, please contact by sending mail to: uof-translator-support@lists.sourceforge.net.","Categories
+Data Formats"
+The Kytane Client is an Open Source front end for the Kytane Data Service which is a internet based data storage mechanism.The Kytane Client is an Open Source front end for the Kytane Data Service which is a internet based data storage mechanism.,"Categories
+SOAP, Streaming, File Sharing, Email, Database, File Systems"
+XeTeX is Unicode-based TeX using platform fonts and font technologies (e.g. AAT on Mac OS X or OpenType features on Mac/Linux/Windows) to provide typesetting for all the world's scripts.XeTeX is Unicode-based TeX using platform fonts and font technologies (e.g. AAT on Mac OS X or OpenType features on Mac/Linux/Windows) to provide typesetting for all the world's scripts.,"Categories
+TeX/LaTeX"
+"A lyric library write in C, it provides ability to parse lyric file and access the information in a convenient way. Its main goal is to provide lyric support for embeded devices, such audio player in mp3 device and mobile phone.A lyric library write in C, it provides ability to parse lyric file and access the information in a convenient way. Its main goal is to provide lyric support for embeded devices, such audio player in mp3 device and mobile phone.","Categories
+Data Formats, Multimedia"
+"PyBookmark manipulates bookmark files. It can sync files (no server required), merge, sort, remove duplicates, and check links. Its library pybookmarklib provides access to these operations, data structures, and parser for further extensibility.PyBookmark manipulates bookmark files. It can sync files (no server required), merge, sort, remove duplicates, and check links. Its library pybookmarklib provides access to these operations, data structures, and parser for further extensibility.","Categories
+HTML/XHTML, Browsers"
+"The ProM Import Framework allows to extract process enactment event logs from a set of information systems. These can be exported in the MXML format, which is the standard event log data format for Process Mining analysis techniques.The ProM Import Framework allows to extract process enactment event logs from a set of information systems. These can be exported in the MXML format, which is the standard event log data format for Process Mining analysis techniques.","Categories
+XML, Enterprise, ERP, Log Analysis, Frameworks, Logging, Information Analysis"
+"StoryWiki is a new kind of Wiki-engine, based on the approved MediaWiki, that enables everyone to play, create and modify non-linear storys in a collaborative way.StoryWiki is a new kind of Wiki-engine, based on the approved MediaWiki, that enables everyone to play, create and modify non-linear storys in a collaborative way.","Categories
+HTML/XHTML, Other/Nonlisted Topic, Front-Ends, Role-Playing Games (RPG), Message Board, Education"
+The main purpose of this project is to develop a Graphic policy definition editor implemented in Java language and based on the XACML standard which manages access control policiesThe main purpose of this project is to develop a Graphic policy definition editor implemented in Java language and based on the XACML standard which manages access control policies,"Categories
+XML, Security, Systems Administration, Networking"
+"SVGMath is a command-line utility to convert MathML expressions to SVG, written entirely in Python.SVGMath is a command-line utility to convert MathML expressions to SVG, written entirely in Python.","Categories
+XML, Image Converters, Mathematics"
+XSieve is an XML transformation language based on combination of XSLT (an XML transformation language) and Scheme (a Lisp dialect). XSieve is a powerful tool for complex data transformation tasks.XSieve is an XML transformation language based on combination of XSLT (an XML transformation language) and Scheme (a Lisp dialect). XSieve is a powerful tool for complex data transformation tasks.,"Categories
+XML, Interpreters"
+Mapix is a CMS/framework designed to develop websites entirely (as far as possible) with the XML/XSL/XSD technology. The objective of Mapix is to become a complete gateway between the HTTP server and XML services.Mapix is a CMS/framework designed to develop websites entirely (as far as possible) with the XML/XSL/XSD technology. The objective of Mapix is to become a complete gateway between the HTTP server and XML services.,"Categories
+XML, Dynamic Content, Site Management"
+"Cowzilla is Atom 0.3 parser written as a PHP class. It has the functionality to parse and convert Atom to RSS 2.0 (atom2rss), Atom to a HTML document, and check your GMail.Cowzilla is Atom 0.3 parser written as a PHP class. It has the functionality to parse and convert Atom to RSS 2.0 (atom2rss), Atom to a HTML document, and check your GMail.","Categories
+XML"
+"Implementation of the ISO 8583 protocol for .NET, focused on making the creation, edition and reading of ISO8583 messages as simple and flexible as possible. This is the .NET version of the j8583 project.Implementation of the ISO 8583 protocol for .NET, focused on making the creation, edition and reading of ISO8583 messages as simple and flexible as possible. This is the .NET version of the j8583 project.","Categories
+Data Formats, Point of Sale (POS), Frameworks"
+"ParseMeFree is the NMEA 1083 lightweight parser library written in Java.
+The library is used to parse NMEA ASCII frames to Java readable objects.ParseMeFree is the NMEA 1083 lightweight parser library written in Java.
+The library is used to parse NMEA ASCII frames to Java readable objects.","Categories
+XML, Interface Engine/Protocol Translator, GIS"
+C library to parse and use Garmin image files.C library to parse and use Garmin image files.,"Categories
+Data Formats, GIS"
+"Returnable serves as a open-platform architectural guide to advance the use of the URL as a DSL for specifying 3 traits : content,its delivery ,and its behaviour on the web through the use of Returnable elements embedded within web pages .Returnable serves as a open-platform architectural guide to advance the use of the URL as a DSL for specifying 3 traits : content,its delivery ,and its behaviour on the web through the use of Returnable elements embedded within web pages .","Categories
+Data Formats, Dynamic Content"
+"This is an Eclipse xml editor with several edition capabilities. The main features concern the interaction with the classes and resources declared in xml (Open class/resource, Create class), similar to the interaction between classes in java editor.This is an Eclipse xml editor with several edition capabilities. The main features concern the interaction with the classes and resources declared in xml (Open class/resource, Create class), similar to the interaction between classes in java editor.","Categories
+Text Processing, XML"
+"FOXY is a filtering web proxy. Originally designed to provide device-independent access to the World Wide Web, it may also be used for HTTP-filtering, extraction and reauthoring of existing web content or as security device against web based attacks.FOXY is a filtering web proxy. Originally designed to provide device-independent access to the World Wide Web, it may also be used for HTTP-filtering, extraction and reauthoring of existing web content or as security device against web based attacks.","Categories
+HTML/XHTML, WAP, Dynamic Content, Site Management, HTTP Servers, Networking"
+"Easy to use SMS/MMS Messaging Gateway to develop Content Delivery Platforms by GSM Operators,Content Providers and even non-telecom guys. Uses file system for data flow.Protocol level is based on Easy SMPP and Easy MM7 projects.Written for .NET 2.0 in C#Easy to use SMS/MMS Messaging Gateway to develop Content Delivery Platforms by GSM Operators,Content Providers and even non-telecom guys. Uses file system for data flow.Protocol level is based on Easy SMPP and Easy MM7 projects.Written for .NET 2.0 in C#","Categories
+Data Formats, Communications, Software Development"
+"ProM is the comprehensive, extensible framework for process mining. Process Mining deals with the a-posteriori analysis of (business) processes using enactment logs.ProM is the comprehensive, extensible framework for process mining. Process Mining deals with the a-posteriori analysis of (business) processes using enactment logs.","Categories
+XML, Enterprise, Log Analysis, Information Analysis"
+SMPP protocol library for fast and easy SMSC(Short Message Service Centre) client development even for non-telecom guys. Easy to use classes covers all needed functionality for SMS applications developers and Content Providers. Written for .NET 2.0 in C#SMPP protocol library for fast and easy SMSC(Short Message Service Centre) client development even for non-telecom guys. Easy to use classes covers all needed functionality for SMS applications developers and Content Providers. Written for .NET 2.0 in C#,"Categories
+Data Formats, NNTP, Communications, Software Development"
+Software to translate the geographical format SOSI into KML or other spatial data formats. SOSI is the Norwegian National format for exchange of spatial data.Software to translate the geographical format SOSI into KML or other spatial data formats. SOSI is the Norwegian National format for exchange of spatial data.,"Categories
+XML, Presentation"
+Libronix tools is a collection of conversion filters for Openoffice.org to save in the native Libronix XML file formats. The first such tool is OOo2lbxsfl which is a filter to directly save Openoffice open document format into the Libronix Sermon Files.Libronix tools is a collection of conversion filters for Openoffice.org to save in the native Libronix XML file formats. The first such tool is OOo2lbxsfl which is a filter to directly save Openoffice open document format into the Libronix Sermon Files.,"Categories
+Word Processors, XML, Religion and Philosophy"
+Scribe is a CMS for the Liferay Portal framework. It includes Web Content Management as well as Learning Management System features.Scribe is a CMS for the Liferay Portal framework. It includes Web Content Management as well as Learning Management System features.,"Categories
+RSS, Site Management, Computer Aided Instruction (CAI), AJAX, Learning Management Systems (LMS)"
+Our aim is to enable Web applications to consume linked data from the Web. With SQUIN (Semantic Web Query Interface) we will provide a Web data query service as an addition to the LAMP technology stack. This service executes queries over the whole WeOur aim is to enable Web applications to consume linked data from the Web. With SQUIN (Semantic Web Query Interface) we will provide a Web data query service as an addition to the LAMP technology stack. This service executes queries over the whole We,"Categories
+Database Engines/Servers, Search Engines, Semantic Web"
+php_solr is a lightweight php library for the Lucene based enterprise search server Solr.php_solr is a lightweight php library for the Lucene based enterprise search server Solr.,"Categories
+XML, Search Engines"
+Cross-platform viewer for OpenDocument files.Cross-platform viewer for OpenDocument files.,"Categories
+Data Formats, Other/Nonlisted Topic, Office/Business"
+"A freely-available Markdown text-to-HTML translator, written in C++, intended for integration into C++ programs rather than for use in web applications.A freely-available Markdown text-to-HTML translator, written in C++, intended for integration into C++ programs rather than for use in web applications.","Categories
+Text Processing, HTML/XHTML"
+"PySOS, a python-based implementation of the OGC SOS standard. PySOS is a lightweight set of scripts that work in conjunction with a web server to serve data from a relational database.PySOS, a python-based implementation of the OGC SOS standard. PySOS is a lightweight set of scripts that work in conjunction with a web server to serve data from a relational database.","Categories
+XML, Earth Sciences, Web Services, GIS"
+"The Shared desktop ontologies provide RDF vocabularies for the Semantic Desktop. This includes basic ontologies like RDF and RDFS and all the Nepomuk ontologies like NRL, NIE, or NFO which are also maintained and developed in this open-source projectThe Shared desktop ontologies provide RDF vocabularies for the Semantic Desktop. This includes basic ontologies like RDF and RDFS and all the Nepomuk ontologies like NRL, NIE, or NFO which are also maintained and developed in this open-source project","Categories
+XML, Web Services"
+SharpFFmpeg is a C# binding of ffmpeg. The goal of SharpFFmpeg is to provide the facility that allows .NET developers to easily create audio and video applications.SharpFFmpeg is a C# binding of ffmpeg. The goal of SharpFFmpeg is to provide the facility that allows .NET developers to easily create audio and video applications.,"Categories
+Data Formats, Streaming, Video, Sound/Audio"
+DPRK pull is a script that pulls the English language North Korean news articles from the KCNA website and puts them into one file for reading by a Text to Speech program.DPRK pull is a script that pulls the English language North Korean news articles from the KCNA website and puts them into one file for reading by a Text to Speech program.,"Categories
+Text Processing, HTML/XHTML, Usability"
+"A Bourne shell script which gives your Debian Linux computer the ability to read and install Windows programs, mount HFS and HFS+ formatted volumes, LSB, Red Hat, Stampede, Slackware Packages, and most (if not all) of the media codecs out there.A Bourne shell script which gives your Debian Linux computer the ability to read and install Windows programs, mount HFS and HFS+ formatted volumes, LSB, Red Hat, Stampede, Slackware Packages, and most (if not all) of the media codecs out there.","Categories
+Data Formats"
+last.tag: The One and Only last.fm Tag Editor.last.tag: The One and Only last.fm Tag Editor.,"Categories
+XML, XML-RPC, Streaming, Other/Nonlisted Topic, WWW/HTTP, Sound/Audio"
+"DXIE is a Dynamic XML Instance Editor that provides dynamic GUI editing of XML documents. DXIE reads a Document (XML) and its Schema (XSD) and produces a dynamic UI for editing (search, add, edit, and delete) of the Document.DXIE is a Dynamic XML Instance Editor that provides dynamic GUI editing of XML documents. DXIE reads a Document (XML) and its Schema (XSD) and produces a dynamic UI for editing (search, add, edit, and delete) of the Document.","Categories
+XML"
+"ERYX is a flexible, fast and easy-to-use XML content management system with a whole bunch of integration opportunities for XHTML, Flash, InDesign, PDF, and any web-based software that makes excessive use of XML-files. Needs PHP 5.2+. http://eryx.imgb.orgERYX is a flexible, fast and easy-to-use XML content management system with a whole bunch of integration opportunities for XHTML, Flash, InDesign, PDF, and any web-based software that makes excessive use of XML-files. Needs PHP 5.2+. http://eryx.imgb.org","Categories
+XML, Content Management Systems (CMS)"
+Feedling has been migrated over to github - see http://github.com/growse/feedling for more information.Feedling has been migrated over to github - see http://github.com/growse/feedling for more information.,"Categories
+RSS, RSS Feed Readers"
+Meresco is both an OAI Data Provider and a Service Provider. SourceForge is only used to host the source control (subversion). Sources: http://sources.meresco.org/ Binaries: http://repository.cq2.org/ Mail: http://groups.google.com/group/merescoMeresco is both an OAI Data Provider and a Service Provider. SourceForge is only used to host the source control (subversion). Sources: http://sources.meresco.org/ Binaries: http://repository.cq2.org/ Mail: http://groups.google.com/group/meresco,"Categories
+XML, RSS, Search, Web Services"
+Member_Map is a module for PHP-Nuke content management systems. It displays a Google map for your website. Site members can add their locations along with a brief message to the map.Member_Map is a module for PHP-Nuke content management systems. It displays a Google map for your website. Site members can add their locations along with a brief message to the map.,"Categories
+AJAX"
+"Jitterbit is an open source integration tool that delivers a quick and simple way to design, configure, test, and deploy integration solutions. It supports many document types and protocols: XML, web services, database, LDAP, text, FTP, HTTP(S), fileJitterbit is an open source integration tool that delivers a quick and simple way to design, configure, test, and deploy integration solutions. It supports many document types and protocols: XML, web services, database, LDAP, text, FTP, HTTP(S), file","Categories
+XML, SOAP, Communications, Enterprise, Internet, Interface Engine/Protocol Translator"
+"This program takes an ESM file, downloaded from a digital tachograph or a driver card (used in the European Union for trucks heavier than 3.5 tons), and converts it into human-readable form, either HTML or simple plaintext.This program takes an ESM file, downloaded from a digital tachograph or a driver card (used in the European Union for trucks heavier than 3.5 tons), and converts it into human-readable form, either HTML or simple plaintext.","Categories
+Data Formats"
+Goal of this projects is to design unified general binary data format and to provide open-source libraries and tools for it.Goal of this projects is to design unified general binary data format and to provide open-source libraries and tools for it.,"Categories
+Data Formats, Communications, Scientific/Engineering"
+Webtunnel is an HTTP tunnel with some unique features: it runs in the context of a web server; it uses simple requests/responses for proxy traversal; and it is multi-threaded to allow many parallel connections to many destinations simultaneously.Webtunnel is an HTTP tunnel with some unique features: it runs in the context of a web server; it uses simple requests/responses for proxy traversal; and it is multi-threaded to allow many parallel connections to many destinations simultaneously.,"Categories
+CGI Scripts, Interface Engine/Protocol Translator, Web Services"
+"By Ajax Injector, you can convert your site from WEB1 (static links and forms) to a WEB2 (dynamic links and forms) site. All you have to do is including this script in your page and add a simple lines in bottom of your page, then you can see the MAGIBy Ajax Injector, you can convert your site from WEB1 (static links and forms) to a WEB2 (dynamic links and forms) site. All you have to do is including this script in your page and add a simple lines in bottom of your page, then you can see the MAGI","Categories
+Dynamic Content, AJAX"
+"dotNetRDF is a .Net Class Library for working with RDF and SPARQL programatically built with C# 3 for the .Net Framework 3.5/4.0/Silverlight 4 and WIndows Phone 7. It provides a simple object model for representing RDF, SPARQL Queries and Updates and understands all common RDF and SPARQL syntaxes.
+
+Extensive documentation is available on the website and support is available via the mailing lists.dotNetRDF is a .Net Class Library for working with RDF and SPARQL programatically built with C# 3 for the .Net Framework 3.5/4.0/Silverlight 4 and WIndows Phone 7. It provides a simple object model for representing RDF, SPARQL Queries and Updates and understands all common RDF and SPARQL syntaxes.
+
+Extensive documentation is available on the website and support is available via the mailing lists.","Categories
+XML, Libraries, Semantic Web"
+The xslt2 script semAuth (semantic authoring) translates a freemind mindmap into an xhtml website and an RDF ontologyThe xslt2 script semAuth (semantic authoring) translates a freemind mindmap into an xhtml website and an RDF ontology,"Categories
+Text Processing, HTML/XHTML, Site Management"
+"Phantom Has A New Template Oriented Mask
+Phantom is a php/cgi extension that allow to design efficiently html content for a php base website, written in PHP/C/C++. Phantom has been designed for speed and expandability.Phantom Has A New Template Oriented Mask
+Phantom is a php/cgi extension that allow to design efficiently html content for a php base website, written in PHP/C/C++. Phantom has been designed for speed and expandability.","Categories
+HTML/XHTML, CGI Scripts"
+"XAMP is framework for fast and pretty web-development. It's MVC compliant: xml (M), xslt (V) and php (C). The main point of XAMP is coding by XML-tags. XAMP syntax is very compact and simple, but powerful and flexible.XAMP is framework for fast and pretty web-development. It's MVC compliant: xml (M), xslt (V) and php (C). The main point of XAMP is coding by XML-tags. XAMP syntax is very compact and simple, but powerful and flexible.","Categories
+XML, CGI Scripts, Content Management Systems (CMS)"
+"Note: latest version can be found at https://github.com/targeted/pythomnic3k
+
+Pythomnic3k is a Python 3 framework for service-oriented middleware with hot reloading and fault tolerance. It is used for integrating various systems in enterprise network or writing standalone network services.Note: latest version can be found at https://github.com/targeted/pythomnic3k
+
+Pythomnic3k is a Python 3 framework for service-oriented middleware with hot reloading and fault tolerance. It is used for integrating various systems in enterprise network or writing standalone network services.","Categories
+Frameworks, Web Services, Agile Development Tools"
+"Preon is a Java library for building codecs for bitstream-compressed data in a declarative way. Think JAXB or Hibernate, but then for binary encoded data.Preon is a Java library for building codecs for bitstream-compressed data in a declarative way. Think JAXB or Hibernate, but then for binary encoded data.","Categories
+Data Formats, Frameworks"
+"Dojo Faces is a set of JavaServerFaces components based on the widgets of the Dojo Javascript toolkit. It offers dynamic, AJAX ready user interface components for JSF based web applications.Dojo Faces is a set of JavaServerFaces components based on the widgets of the Dojo Javascript toolkit. It offers dynamic, AJAX ready user interface components for JSF based web applications.","Categories
+HTML/XHTML, AJAX, Admin Templates"
+"PHigester is a PHP 5 port of Jakarta Commons Digester. Like his father, PHigester lets you configure and use an XML -> PHP 5 object mapping, which triggers certain actions called rules whenever a particular pattern of nested XML elements is recognizePHigester is a PHP 5 port of Jakarta Commons Digester. Like his father, PHigester lets you configure and use an XML -> PHP 5 object mapping, which triggers certain actions called rules whenever a particular pattern of nested XML elements is recognize","Categories
+XML, Object Oriented"
+"XSH is a powerfull command-line XML editing tool/programming language
+in the manner of Unix shell interpreters and line-oriented text editors
+like ed which can be used either interactively or for batch-mode
+XML processing.XSH is a powerfull command-line XML editing tool/programming language
+in the manner of Unix shell interpreters and line-oriented text editors
+like ed which can be used either interactively or for batch-mode
+XML processing.","Categories
+XML"
+"AtMail is an open source webmail client written in PHP. We aim to provide a elegant Ajax webmail client for existing IMAP mailservers, with less bloat and a focus on an intuitive, simple user interface.AtMail is an open source webmail client written in PHP. We aim to provide a elegant Ajax webmail client for existing IMAP mailservers, with less bloat and a focus on an intuitive, simple user interface.","Categories
+IMAP, Streaming, Email Clients, Front-Ends, AJAX"
+A stand-alone editor using Mediawiki markup language to generate HTML code. You can create and preview pages written using Mediawiki markup (i.e. Wikipedia pages) while off-line.A stand-alone editor using Mediawiki markup language to generate HTML code. You can create and preview pages written using Mediawiki markup (i.e. Wikipedia pages) while off-line.,"Categories
+Text Processing, HTML/XHTML, Wiki"
+"openMyAdmin is a free CMS, established on the basis of recent trends in developing web applications such as AJAX, MVC and OOP. Basic principles of CMS: web desktop and modular structure.openMyAdmin is a free CMS, established on the basis of recent trends in developing web applications such as AJAX, MVC and OOP. Basic principles of CMS: web desktop and modular structure.","Categories
+XML, HTML/XHTML, RSS, Front-Ends, JSON, AJAX"
+A simple tool to manage a weblog from your Pocket PC. Supports several weblogging APIs (inc. MetaBlogAPI and .Text). Create postings offline and synchronize later. Will later support Atom API as well.A simple tool to manage a weblog from your Pocket PC. Supports several weblogging APIs (inc. MetaBlogAPI and .Text). Create postings offline and synchronize later. Will later support Atom API as well.,"Categories
+XML-RPC, Dynamic Content, Site Management"
+Electrical Wiring CAD is an extension on qcad community edition (http://www.ribbonsoft.com/qcad.html) specialized to deal with schematics of electrical wiring in house floors.Electrical Wiring CAD is an extension on qcad community edition (http://www.ribbonsoft.com/qcad.html) specialized to deal with schematics of electrical wiring in house floors.,"Categories
+Computer-aided technologies (CADD/CAM/CAE), CAD"
+"This is a PHP class designed to facilitate the easy use of Slicehost's public API for managing slices and DNS entries. Requires PHP's curl, openssl, and simplexml extensions.This is a PHP class designed to facilitate the easy use of Slicehost's public API for managing slices and DNS entries. Requires PHP's curl, openssl, and simplexml extensions.","Categories
+Web Services"
+GPSdings (project name GPStools) is a set of free applications that let you manipulate and analyse GPS data from the command line.GPSdings (project name GPStools) is a set of free applications that let you manipulate and analyse GPS data from the command line.,"Categories
+XML, Graphics, GIS"
+"The aim of ALIVE is to develop new approaches to the engineering of flexible, adaptable distributed service-oriented systems based on the adaptation of social coordination and organisation mechanisms.The aim of ALIVE is to develop new approaches to the engineering of flexible, adaptable distributed service-oriented systems based on the adaptation of social coordination and organisation mechanisms.","Categories
+Frameworks, Computer-Aided Software Engineering (CASE), Intelligent Agents, Business Intelligence, Machine Learning, Semantic Web"
+"C++ library for interpreting HTTP requests as REST service calls. Classes for method, resource, endpoint make it easy to expose business objects as a REST interface. Provides etags and time versioning constraints for HTTP caching control.C++ library for interpreting HTTP requests as REST service calls. Classes for method, resource, endpoint make it easy to expose business objects as a REST interface. Provides etags and time versioning constraints for HTTP caching control.","Categories
+CGI Scripts, Web Services, AJAX, Libraries"
+"Redland is a set of object-based, modular and portable C RDF libraries providing RDF APIs for the graph, triple storage (librdf), RDF/XML parsing and serializing (Raptor), SPARQL RDF querying (Rasqal). Language APIs in Perl, PHP, Python, Ruby and others.Redland is a set of object-based, modular and portable C RDF libraries providing RDF APIs for the graph, triple storage (librdf), RDF/XML parsing and serializing (Raptor), SPARQL RDF querying (Rasqal). Language APIs in Perl, PHP, Python, Ruby and others.","Categories
+Data Formats, Database, WWW/HTTP"
+"Full description: www.classroom306.com/stylesheet_project A standardized stylesheet for all websites, helping facilitate the movement towards complete semantics on the web. To be used in common scenarios, prior to applying site-specific styles.Full description: www.classroom306.com/stylesheet_project A standardized stylesheet for all websites, helping facilitate the movement towards complete semantics on the web. To be used in common scenarios, prior to applying site-specific styles.","Categories
+HTML/XHTML, Other/Nonlisted Topic, Semantic Web"
+The mtconverter convert files from the MT940 format to the OFX format so that bank transactions can be imported in the GnuCash banking software. Successfully tested with ABNAMRO and GnuCash version 2.2.6The mtconverter convert files from the MT940 format to the OFX format so that bank transactions can be imported in the GnuCash banking software. Successfully tested with ABNAMRO and GnuCash version 2.2.6,"Categories
+XML"
+"With it you can concatenate pdf files, extract a part of a pdf file as another pdf file, save pages as individual images or pdf files, extract the content text as a text file and generate a tiff multimage file from a pdf file. It need ghostscript previously installed. Enjoy working with it.With it you can concatenate pdf files, extract a part of a pdf file as another pdf file, save pages as individual images or pdf files, extract the content text as a text file and generate a tiff multimage file from a pdf file. It need ghostscript previously installed. Enjoy working with it.","Categories
+Office Suites, Desktop Publishing, PostScript"
+"The project is devoted to development of logically rich ontology for mammography.
+
+The development of the ontology was initiated in the Generic Infrastructure for Medical Informatics (GIMI), a project of the Technology Strategy Board of the UK.The project is devoted to development of logically rich ontology for mammography.
+
+The development of the ontology was initiated in the Generic Infrastructure for Medical Informatics (GIMI), a project of the Technology Strategy Board of the UK.","Categories
+Semantic Web"
+"Java API for OpenDDR and WURFL read, write and refactor operations.Java API for OpenDDR and WURFL read, write and refactor operations.","Categories
+XML, Mobile"
+MagentoXtender .NET Webservice Client is an open source .NET library to connect to the webservice of a Magento Webshop using XML-RPC. This module gives you the ability to create .NET applications which can communicate with a magento webshop.MagentoXtender .NET Webservice Client is an open source .NET library to connect to the webservice of a Magento Webshop using XML-RPC. This module gives you the ability to create .NET applications which can communicate with a magento webshop.,"Categories
+XML-RPC, SOAP, Web Services, eCommerce, Libraries, File Sync"
+"An interface to collect RSS information from the Victorian CFA incident summary page, then based on the current user defined search criteria alert the user to current threats, while also providing more detailed information about the potential threat.An interface to collect RSS information from the Victorian CFA incident summary page, then based on the current user defined search criteria alert the user to current threats, while also providing more detailed information about the potential threat.","Categories
+RSS, RSS Feed Readers"
+"NOTE: The YamlDotNet project has moved to GitHub. Please visit https://github.com/aaubry/YamlDotNet
+
+A .NET library for YAML. yamldotnet provides low level parsing and emitting of YAML as well as a high level object model similar to XmlDocument. YamlDotNet is released under the MIT license. See the file LICENSE for more details.NOTE: The YamlDotNet project has moved to GitHub. Please visit https://github.com/aaubry/YamlDotNet
+
+A .NET library for YAML. yamldotnet provides low level parsing and emitting of YAML as well as a high level object model similar to XmlDocument. YamlDotNet is released under the MIT license. See the file LICENSE for more details.","Categories
+Data Formats, Libraries"
+An XML parser C library that's simple and easy to use. Inspired by simpleXML for PHP.An XML parser C library that's simple and easy to use. Inspired by simpleXML for PHP.,"Categories
+XML, Software Development, XML Parsers"
+A collection of libs and tools for working with the Betfair public API.A collection of libs and tools for working with the Betfair public API.,"Categories
+SOAP, WWW/HTTP, Software Development"
+iTorrent allows you to download BitTorrent podcasts from iTunes. It transforms BitTorrent podcasts so that you can update them just like any other podcast in iTunes.iTorrent allows you to download BitTorrent podcasts from iTunes. It transforms BitTorrent podcasts so that you can update them just like any other podcast in iTunes.,"Categories
+RSS, BitTorrent"
+Gateway Anti-Virus allows applications across the enterprise to check files for viruses by providing a SOAP-based virus scanning web service. The system uses clamav for virus definitions and detection.Gateway Anti-Virus allows applications across the enterprise to check files for viruses by providing a SOAP-based virus scanning web service. The system uses clamav for virus definitions and detection.,"Categories
+SOAP, Enterprise, Security, Systems Administration"
+Power Tools for Unix/Linux (*niX)Power Tools for Unix/Linux (*niX),"Categories
+TeX/LaTeX, Build Tools"
+"A minimal, portable C++ podcatcher,with a CLI interface and Bittorrent supportA minimal, portable C++ podcatcher,with a CLI interface and Bittorrent support","Categories
+RSS, BitTorrent, Internet"
+MIM:InfiniX Manuale Intermediale della Modernita': Infinite Info in Xml PHP-XHTML-XML-XSL-CSS-AJAX-RDF. Design your CMS and store data in XML files and/or MySQL database. It's a multisite and multilanguage CMS. Flexible form with RDF on the database.MIM:InfiniX Manuale Intermediale della Modernita': Infinite Info in Xml PHP-XHTML-XML-XSL-CSS-AJAX-RDF. Design your CMS and store data in XML files and/or MySQL database. It's a multisite and multilanguage CMS. Flexible form with RDF on the database.,"Categories
+XML, History, Content Management Systems (CMS)"
+"Vexi is a rich GUI platform for creating desktop-like Internet or intranet applications using an intuitive XML/JavaScript API and an extensible widget set with themes, JSON support. Communicate with servers using XMLRPC/SOAP/REST and runs on Java.Vexi is a rich GUI platform for creating desktop-like Internet or intranet applications using an intuitive XML/JavaScript API and an extensible widget set with themes, JSON support. Communicate with servers using XMLRPC/SOAP/REST and runs on Java.","Categories
+XML-RPC, WWW/HTTP, Frameworks"
+"XFire4PHP is a PHP5 SOAP Framework. XFire4PHP makes service oriented development approachable through its easy to use API and support for standards. With XFire4PHP you can easily create webservices by annotating your classes properly,XFire4PHP is a PHP5 SOAP Framework. XFire4PHP makes service oriented development approachable through its easy to use API and support for standards. With XFire4PHP you can easily create webservices by annotating your classes properly,","Categories
+SOAP, Communications, Frameworks"
+"Agent inter-platform mobility service for the well-known JADE agent platform. This service allows software agents to move from one execution platform to the next, carrying their own data and state, and resuming their execution upon arrival.Agent inter-platform mobility service for the well-known JADE agent platform. This service allows software agents to move from one execution platform to the next, carrying their own data and state, and resuming their execution upon arrival.","Categories
+Data Formats, Networking, Internet, Intelligent Agents"
+"ProtoJax is an object oriented AJAX framework with PHP backend for development of web2.0 webpages or web applications. It has been built around Prototype javascript library. Light-weight, plugin system! With script.aculo.us plugin.ProtoJax is an object oriented AJAX framework with PHP backend for development of web2.0 webpages or web applications. It has been built around Prototype javascript library. Light-weight, plugin system! With script.aculo.us plugin.","Categories
+HTML/XHTML, CGI Scripts, Frameworks"
+"TM4J is a topic map engine implemented entirely in Java. Topic maps are a standard paradigm for the interchange of knowledge structures. This project aims to produce a complete suite of tools for creating, processing and publishing topic map information.TM4J is a topic map engine implemented entirely in Java. Topic maps are a standard paradigm for the interchange of knowledge structures. This project aims to produce a complete suite of tools for creating, processing and publishing topic map information.","Categories
+XML, Database Engines/Servers, Search Engines"
+"An alternative to use when writing a Thesis. Thesistant organizes references, generates Bibliographies, has an equation editor, scratch paper, Spell Check, Find/Replace, a customizable interface, allows you to save as a PDF and much much more...An alternative to use when writing a Thesis. Thesistant organizes references, generates Bibliographies, has an equation editor, scratch paper, Spell Check, Find/Replace, a customizable interface, allows you to save as a PDF and much much more...","Categories
+Word Processors, TeX/LaTeX, Office Suites"
+"IVCon-TL can read and write a variety of 3D graphics file formats, converting from one to the other. Supported formats include 3DS, ASE, BYU, DXF, GMOD, HRC, IV, OBJ, OFF, POV, SMF, STL/STLA/STLB, TEC, TRI/TRIA/TRIB, UCD, VLA, WRL/VRML, XGL and more.IVCon-TL can read and write a variety of 3D graphics file formats, converting from one to the other. Supported formats include 3DS, ASE, BYU, DXF, GMOD, HRC, IV, OBJ, OFF, POV, SMF, STL/STLA/STLB, TEC, TRI/TRIA/TRIB, UCD, VLA, WRL/VRML, XGL and more.","Categories
+Data Formats, Algorithms, 3D Modeling, Image Converters"
+"2D Cad software. Specifications. CAD - CAM dxf -FEA(z88 based) - standart part libraries.... Easy to use..
+installation video: https://www.youtube.com/watch?v=ajtx4ModOcw2D Cad software. Specifications. CAD - CAM dxf -FEA(z88 based) - standart part libraries.... Easy to use..
+installation video: https://www.youtube.com/watch?v=ajtx4ModOcw","Categories
+Vector Graphics, Scientific/Engineering, CAD"
+"This project will be a collection of tools that will allow manipulation of the PDN . These tools are mainly being developed for use on the N800 Internet tablet. These tools will be writen in Perl, Python and C and should run on all Unix platformsThis project will be a collection of tools that will allow manipulation of the PDN . These tools are mainly being developed for use on the N800 Internet tablet. These tools will be writen in Perl, Python and C and should run on all Unix platforms","Categories
+XML-RPC, Dynamic Content, Sound/Audio"
+CHMPane is a Java program to process compiled html (.chm) files. It has a stream based API for accessing CHM file content and provides a GUI to navigate and view the content.CHMPane is a Java program to process compiled html (.chm) files. It has a stream based API for accessing CHM file content and provides a GUI to navigate and view the content.,"Categories
+Data Formats"
+BOFeed is a collection of scripts which process a feed of news articles for integrated display within popular open source CRMs.BOFeed is a collection of scripts which process a feed of news articles for integrated display within popular open source CRMs.,"Categories
+XML, CRM, Dynamic Content"
+"Syndicateme.net ... Ajax Atom 1.0 Syndication Engine Tell your story ... Especially if you are a business along Queen St. in Toronto Canada or King Street Waterloo Canada. Syndication can be from a pop mailbox, and can use XInclude.Syndicateme.net ... Ajax Atom 1.0 Syndication Engine Tell your story ... Especially if you are a business along Queen St. in Toronto Canada or King Street Waterloo Canada. Syndication can be from a pop mailbox, and can use XInclude.","Categories
+XML, CGI Scripts, Search Engines"
+A Java API binding of the IETF Mime-Dir and vCard RFC's. This package defines implementation neutral Mime-Dir and vCard Java interfaces for exposing data objects corresponding to those defined by the RFC's.A Java API binding of the IETF Mime-Dir and vCard RFC's. This package defines implementation neutral Mime-Dir and vCard Java interfaces for exposing data objects corresponding to those defined by the RFC's.,"Categories
+Data Formats, Email, Frameworks"
+Formitable is a PHP class which can output HTML forms from MySQL database tables. The table is analyzed in order to output a form which uses the best input type for each field. The forms are customizable and data is inserted into the table on submission.Formitable is a PHP class which can output HTML forms from MySQL database tables. The table is analyzed in order to output a form which uses the best input type for each field. The forms are customizable and data is inserted into the table on submission.,"Categories
+HTML/XHTML, Database, Code Generators"
+"The command line tool dvisvgm converts DVI, EPS, and PDF files to the XML-based SVG format.The command line tool dvisvgm converts DVI, EPS, and PDF files to the XML-based SVG format.","Categories
+TeX/LaTeX, Graphics, Command Line Tools"

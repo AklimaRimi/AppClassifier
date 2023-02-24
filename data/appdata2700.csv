@@ -1,0 +1,523 @@
+Description,Category
+"RuTTY adds scripting to PuTTY, scripting the easy way, record and replay.
+
+Ever needed to send a list of commands to a host? Copy and Paste is a possibility.
+However, sometimes the list is to long for the host to handle, and you end up copying/pasting every single line.
+RuTTY waits after sending a command, a fixed amount of time, or even for the host prompt to return.
+RuTTY can also check host response for 'forbidden' words like ""error"" and ""failed"".RuTTY adds scripting to PuTTY, scripting the easy way, record and replay.
+
+Ever needed to send a list of commands to a host? Copy and Paste is a possibility.
+However, sometimes the list is to long for the host to handle, and you end up copying/pasting every single line.
+RuTTY waits after sending a command, a fixed amount of time, or even for the host prompt to return.
+RuTTY can also check host response for 'forbidden' words like ""error"" and ""failed"".","Categories
+Terminal Emulators, Communications"
+"Sourceforge is no longer being updated! This project has merged into another that can be found here:
+
+https://github.com/nicrohobak/Toolbox
+
+------------------------------------------------------------
+
+A simple telnet server originally developed as a foundation to a MUD server project called HexMUD. These project should be maintained alongside each other, but this particular project should be a very generic telnet/SSH server and nothing more. The game logic belongs in the HexMUD project.Sourceforge is no longer being updated! This project has merged into another that can be found here:
+
+https://github.com/nicrohobak/Toolbox
+
+------------------------------------------------------------
+
+A simple telnet server originally developed as a foundation to a MUD server project called HexMUD. These project should be maintained alongside each other, but this particular project should be a very generic telnet/SSH server and nothing more. The game logic belongs in the HexMUD project.","Categories
+Telnet, Multi-User Dungeons (MUD), Libraries"
+Simple terminal program based on pySerial for raw binary / ascii communication with microcontrollers and such. Features local echo and automatic modulo-256 checksum and CR/LF postfix.Simple terminal program based on pySerial for raw binary / ascii communication with microcontrollers and such. Features local echo and automatic modulo-256 checksum and CR/LF postfix.,"Categories
+Serial"
+"I have just created the Command Prompt’s few commands for my CMD using C++ for mini project. Still my CMD projects is in initial level and I am working to make it more and more better.! :) This is the version which compiled using the “Borland compiler 5.5″. As we are bit restricted to use this compiler for our programs.But I am sure it’s not very difficult to Convert it into ANSI C++ format. But I will update this project after some days with many new function of original Command Prompt.You can also download and use it on your Computer and if you have any ideas, suggestion or found any bug in my Program you can tell me or Contact me or Comment here.!I have just created the Command Prompt’s few commands for my CMD using C++ for mini project. Still my CMD projects is in initial level and I am working to make it more and more better.! :) This is the version which compiled using the “Borland compiler 5.5″. As we are bit restricted to use this compiler for our programs.But I am sure it’s not very difficult to Convert it into ANSI C++ format. But I will update this project after some days with many new function of original Command Prompt.You can also download and use it on your Computer and if you have any ideas, suggestion or found any bug in my Program you can tell me or Contact me or Comment here.!","Categories
+Terminals"
+"This program will read a file (or stdin) containing a list of AT
+commands. Each command will be send to the modem, and all the response
+for the command will be output to file (or stdout).
+
+Example, to hang up any ongoing call:
+
+$ echo ATH | atinout - /dev/ttyACM0 -
+ATH
+OK
+$This program will read a file (or stdin) containing a list of AT
+commands. Each command will be send to the modem, and all the response
+for the command will be output to file (or stdout).
+
+Example, to hang up any ongoing call:
+
+$ echo ATH | atinout - /dev/ttyACM0 -
+ATH
+OK
+$","Categories
+Serial, Telephony"
+"Steganoroute is a tool to send steganographed text messages to another computer over the network. The receiver must make a traceroute to the sender using the mtr program (and pressing 'd' once to switch the display mode to the continuous graph). This tool, the sender, creates several fake hops and makes them answer the ICMP packets (or not) to write the letters one by one on the mtr client screen.Steganoroute is a tool to send steganographed text messages to another computer over the network. The receiver must make a traceroute to the sender using the mtr program (and pressing 'd' once to switch the display mode to the continuous graph). This tool, the sender, creates several fake hops and makes them answer the ICMP packets (or not) to write the letters one by one on the mtr client screen.","Categories
+Terminals, Security, Router"
+"This is a perl script for hacking ..
+It Will make hacking easy for You ..
+It is For BackTrack
+This Script Contains This tools :
+Local File Disclource (LFD) Checker
+Scanning the whole netmask and returning IP and MAC
+BackConnect Tools
+Proxy Checker
+Reverse IP
+Add a User With Admin Access (Windows)
+Add a User With r00t Access (Unix)
+Grab Cpanel Users
+Remote Port Scanning With NetCat
+SQL Injection Scanner
+MD5 Hash Cracker (Online)
+Admin Page Finder
+Make Uploader With Echo Method (Linux Servers)
+Service Scanning
+BruteForce Services With Medusa And Hydra (Backtrack)
+Test Lfi With php:// Bypass Method
+Cms Analyzer (Beta Version)
+Server Scanning With Nmap
+Remote Command Execution Console
+Fck Editor ScannerThis is a perl script for hacking ..
+It Will make hacking easy for You ..
+It is For BackTrack
+This Script Contains This tools :
+Local File Disclource (LFD) Checker
+Scanning the whole netmask and returning IP and MAC
+BackConnect Tools
+Proxy Checker
+Reverse IP
+Add a User With Admin Access (Windows)
+Add a User With r00t Access (Unix)
+Grab Cpanel Users
+Remote Port Scanning With NetCat
+SQL Injection Scanner
+MD5 Hash Cracker (Online)
+Admin Page Finder
+Make Uploader With Echo Method (Linux Servers)
+Service Scanning
+BruteForce Services With Medusa And Hydra (Backtrack)
+Test Lfi With php:// Bypass Method
+Cms Analyzer (Beta Version)
+Server Scanning With Nmap
+Remote Command Execution Console
+Fck Editor Scanner","Categories
+Terminals"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU General Public License version 3.0 (GPLv3)","Categories
+Terminal Emulators, GNOME, SSH"
+"Java/JNI interface to some terminal functions; allows to use non-canonical input, input timeout, echo-off mode, terminal colors in Java programs.Java/JNI interface to some terminal functions; allows to use non-canonical input, input timeout, echo-off mode, terminal colors in Java programs.","Categories
+Terminals, Libraries"
+"A long due for the embedded device developers replacement for Minicom with a rich set of features such as GUI based on Qt, built-in TFTP server and scripting capabilities based on QtScript, multiple profiles support, Unicode and international charsets, hex dump and so on.A long due for the embedded device developers replacement for Minicom with a rich set of features such as GUI based on Qt, built-in TFTP server and scripting capabilities based on QtScript, multiple profiles support, Unicode and international charsets, hex dump and so on.","Categories
+Serial, Communications"
+Add color to the output of your interactive shell and scripts.Add color to the output of your interactive shell and scripts.,"Categories
+Terminals"
+TxtStyle is a command line tool colorizing output of console programs. It makes it easier to visually scan log files or can simply be used to prettify output of console applications.TxtStyle is a command line tool colorizing output of console programs. It makes it easier to visually scan log files or can simply be used to prettify output of console applications.,"Categories
+Terminals, Software Development, Command Line Tools"
+"Console tool to live monitor (up to 15) hosts on a network. Written in C#, the tool is aimed to be simple and robust.Console tool to live monitor (up to 15) hosts on a network. Written in C#, the tool is aimed to be simple and robust.","Categories
+Terminals, Systems Administration, Monitoring"
+"See homepage:
+http://sharperdevelopment.blogspot.de/2013/01/replacing-win-xp-accessibility-features.htmlSee homepage:
+http://sharperdevelopment.blogspot.de/2013/01/replacing-win-xp-accessibility-features.html","Categories
+Serial, Interface Engine/Protocol Translator"
+"Simple windows application which releases, flushes, and renews your DNS all from a click of a button.Simple windows application which releases, flushes, and renews your DNS all from a click of a button.","Categories
+Terminals, HTTP Servers, Networking"
+"Make Cmd Fullscreen with a Hotkey: Alt+Enter (Customizable)
++ Hotkey to open a new cmd window: Ctrl+Win+C (Customizable)
+
+This is FREE software and should not be sold.Make Cmd Fullscreen with a Hotkey: Alt+Enter (Customizable)
++ Hotkey to open a new cmd window: Ctrl+Win+C (Customizable)
+
+This is FREE software and should not be sold.","Categories
+Terminals, Software Development, Systems Administration"
+"USL is an object-oriented scripting language written in C++ and compiled to run on both Linux and Windows operating systems. Without a script, USL is a programmable command-line shell and interactive interpreter. USL is for general purpose scripting locally.USL is an object-oriented scripting language written in C++ and compiled to run on both Linux and Windows operating systems. Without a script, USL is a programmable command-line shell and interactive interpreter. USL is for general purpose scripting locally.","Categories
+Terminals, Interpreters, System Shells"
+With nShell you can easily add administration via command-line shell to your projects creating your own semantic (commands and sections) in minutesWith nShell you can easily add administration via command-line shell to your projects creating your own semantic (commands and sections) in minutes,"Categories
+Terminals, Software Development, SSH"
+"Direct link to source code: http://sourceforge.net/projects/consolegrapher/files/Source/ConsoleGrapher_Source.zip/download .
+
+Just what you needed: a simple, down-to-earth two dimensional graphing calculator inside the elegance of the Windows console!
+
+This is a program that I wrote as a method for mastering the C# programming language. Though the features are not what you would expect from a program written and sold by a corporation, you may find it an entertaining tool
+
+Also notice that no installation is required, meaning it will not put annoying icons on your desktop and start menu, and you are free to delete it at will.
+
+If you know coding, be sure to check out the source code, which is in the form of a zipped-up Visual Studio solution. If you would like to import some of the functions into your own project, the code is free to be used.Direct link to source code: http://sourceforge.net/projects/consolegrapher/files/Source/ConsoleGrapher_Source.zip/download .
+
+Just what you needed: a simple, down-to-earth two dimensional graphing calculator inside the elegance of the Windows console!
+
+This is a program that I wrote as a method for mastering the C# programming language. Though the features are not what you would expect from a program written and sold by a corporation, you may find it an entertaining tool
+
+Also notice that no installation is required, meaning it will not put annoying icons on your desktop and start menu, and you are free to delete it at will.
+
+If you know coding, be sure to check out the source code, which is in the form of a zipped-up Visual Studio solution. If you would like to import some of the functions into your own project, the code is free to be used.","Categories
+Terminals, Console Games, Education, Graphing Calculators"
+"This simple pygtk application uses
+ffmpeg and arecord; to record sound
+Google's unofficial text to speech service; to convert sound to text
+The python subprocess module to run the text as a shell command.
+The text to speech service used by this application is unofficial, and this program should therefore be considered a complete hack.This simple pygtk application uses
+ffmpeg and arecord; to record sound
+Google's unofficial text to speech service; to convert sound to text
+The python subprocess module to run the text as a shell command.
+The text to speech service used by this application is unofficial, and this program should therefore be considered a complete hack.","Categories
+Terminals, Speech Recognition"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+Other License","Categories
+Terminals"
+"JTX is a flexible, extensible, and very fast terminal system. I designed it as an alternative to the venerable SwingTerminal from JTA/JavaSSH.
+
+== NOTICE ==
+
+Due to the perpetual brokenness of SourceForge, the project wiki, issue tracker, and binary downloads have been moved to Chalcodes.com.JTX is a flexible, extensible, and very fast terminal system. I designed it as an alternative to the venerable SwingTerminal from JTA/JavaSSH.
+
+== NOTICE ==
+
+Due to the perpetual brokenness of SourceForge, the project wiki, issue tracker, and binary downloads have been moved to Chalcodes.com.","Categories
+Terminals, BBS"
+"Instale na sua maquina esse servidor
+gratis de revista online
+com uma garagem inteligente.
+
+Farei aqui alguns uploads em perl
+para ajudar você a configurar
+um periódico.
+
+Use monitores de 7"" e 9"" LCD
+para seu carro e notebook e
+use GPS localizador.
+
+Não é software, é web.Instale na sua maquina esse servidor
+gratis de revista online
+com uma garagem inteligente.
+
+Farei aqui alguns uploads em perl
+para ajudar você a configurar
+um periódico.
+
+Use monitores de 7"" e 9"" LCD
+para seu carro e notebook e
+use GPS localizador.
+
+Não é software, é web.","Categories
+Telnet, BBS, Site Management"
+"This is a Terminal connection manager (no GUI), intended to be used with your favorite Terminal application (Konsole, Gnome-Terminal, yakuake, and so on) or to be used in machines with no GUI available.This is a Terminal connection manager (no GUI), intended to be used with your favorite Terminal application (Konsole, Gnome-Terminal, yakuake, and so on) or to be used in machines with no GUI available.","Categories
+Terminals"
+"ISeeWhatYouAreDoing is a useful tool for getting screenshots and executing commands over Tcp/Ip or Ftp. Because it has NO security the Tcp/Ip part shouldn't be used in public networks (Use a firewall! :)).
+It was designed for easily keeping an eye on what people in your home network are doing and (if necessary) turn f.e. your brother's computer off when he forgot.
+As said it is able to work on very bad connections.
+Bin/Bin.zip is the basic package with client and a gui server, Bin/Hidden_Server.zip contains the ""serious"" version with a useful config.txt, no gui (server should run in background) and uses mainly ftp to get its commands, although you can connect via Tcp/Ip and the client from the Bin/Bin.zip or Bin/Client_Only.zip package.
+The hidden server has an English readme!
+For further information about the usage of the program please look at Doc/ or at the readmes in Bin.zip (currently both German, sorry).
+I hope v0.3.0 will follow till 12/12.ISeeWhatYouAreDoing is a useful tool for getting screenshots and executing commands over Tcp/Ip or Ftp. Because it has NO security the Tcp/Ip part shouldn't be used in public networks (Use a firewall! :)).
+It was designed for easily keeping an eye on what people in your home network are doing and (if necessary) turn f.e. your brother's computer off when he forgot.
+As said it is able to work on very bad connections.
+Bin/Bin.zip is the basic package with client and a gui server, Bin/Hidden_Server.zip contains the ""serious"" version with a useful config.txt, no gui (server should run in background) and uses mainly ftp to get its commands, although you can connect via Tcp/Ip and the client from the Bin/Bin.zip or Bin/Client_Only.zip package.
+The hidden server has an English readme!
+For further information about the usage of the program please look at Doc/ or at the readmes in Bin.zip (currently both German, sorry).
+I hope v0.3.0 will follow till 12/12.","Categories
+Telnet, Home Automation"
+"This project provides three different interfaces for programming embedded chips: a GObject based library (for developers), an executable binary (for computer geeks) and a GTK+3 front-end (for less geeky users).
+
+Actually NXP LPC and STM32 based chips are supported.This project provides three different interfaces for programming embedded chips: a GObject based library (for developers), an executable binary (for computer geeks) and a GTK+3 front-end (for less geeky users).
+
+Actually NXP LPC and STM32 based chips are supported.","Categories
+Serial, Hardware, Embedded Systems"
+"(Graphical Edition Released, BreezyCalc: http://breezycalc.sourceforge.net/)
+
+Lincalc is a console calculator designed to provide a quick and simple interface to a very powerful engine. Its parser is based on muParser <http://muparser.sourceforge.net/>. It supports user-defined variables, logical operators for conditions, and a wide range of mathematical functions each calculation that is made is stored in a result variable (Ans1, Ans2..) and can be referenced in equations. It also supports evaluation of multiple equations each separated by a ','.
+
+Conditional Statements:
+-- Ex. (condition) ? (true val) : (false val)
+Logic Operators:
+-- && (and), || (or)
+Comparison Operators:
+-- <= (less than or equal to)
+-- >= (greater than or equal to)
+-- < (less than), > (greater than)
+-- != (not equal to), == (equal to)
+
+Functions: abs, exp, sqrt, avg, sum, min, max, sign, rint, ln, log10, log2, sin, sinh, asin, asinh, cos, cosh, acos, acosh, tan, tanh, acos, acosh(Graphical Edition Released, BreezyCalc: http://breezycalc.sourceforge.net/)
+
+Lincalc is a console calculator designed to provide a quick and simple interface to a very powerful engine. Its parser is based on muParser <http://muparser.sourceforge.net/>. It supports user-defined variables, logical operators for conditions, and a wide range of mathematical functions each calculation that is made is stored in a result variable (Ans1, Ans2..) and can be referenced in equations. It also supports evaluation of multiple equations each separated by a ','.
+
+Conditional Statements:
+-- Ex. (condition) ? (true val) : (false val)
+Logic Operators:
+-- && (and), || (or)
+Comparison Operators:
+-- <= (less than or equal to)
+-- >= (greater than or equal to)
+-- < (less than), > (greater than)
+-- != (not equal to), == (equal to)
+
+Functions: abs, exp, sqrt, avg, sum, min, max, sign, rint, ln, log10, log2, sin, sinh, asin, asinh, cos, cosh, acos, acosh, tan, tanh, acos, acosh","Categories
+Terminals, Mathematics, Education, Calculators"
+"Avalanche Toolkit can dump the SAM with several tools, and then decrypt it (only in full version a.k.a. Ultimate). It is coded in Visual Basic 6, JS and Batch, so it's compatible with all Windows versions. Thanks for using an Avalanche Software ! ;)Avalanche Toolkit can dump the SAM with several tools, and then decrypt it (only in full version a.k.a. Ultimate). It is coded in Visual Basic 6, JS and Batch, so it's compatible with all Windows versions. Thanks for using an Avalanche Software ! ;)","Categories
+Terminals"
+Native Python and Ruby language bindings for LibVNCServer and LibVNCClient libraries. Project started with LibVNCClient Python binding implementation. For now only Python versions of 2.7.x and Linux platform are supported.Native Python and Ruby language bindings for LibVNCServer and LibVNCClient libraries. Project started with LibVNCClient Python binding implementation. For now only Python versions of 2.7.x and Linux platform are supported.,"Categories
+Terminal Emulators, Internet"
+Alteration of the thin client of Thinstation. Russian interface. Patches. Additional programs.Alteration of the thin client of Thinstation. Russian interface. Patches. Additional programs.,"Categories
+Terminal Emulators"
+The ConnectionRedirecting program can redirect tcp connection. Program uses development version of SFENCE dynamic library.The ConnectionRedirecting program can redirect tcp connection. Program uses development version of SFENCE dynamic library.,"Categories
+Telnet, Communications"
+"Simple VA18B multimeter interface.
+It reads data trasmitted by USB/Serial interface of VA18B multimeter and can put them into a CSV file.Simple VA18B multimeter interface.
+It reads data trasmitted by USB/Serial interface of VA18B multimeter and can put them into a CSV file.","Categories
+Serial, Data Visualization, Test and Measurement"
+"This work as part of FrBSD.IR Project. Actually, it provides bitmap Persian font for FreeBSD system console in text mode. It's a 8 bit font and designed in three size of 8x8, 8x14, 8x16. The encoding is based on ""Iran System"" standard.This work as part of FrBSD.IR Project. Actually, it provides bitmap Persian font for FreeBSD system console in text mode. It's a 8 bit font and designed in three size of 8x8, 8x14, 8x16. The encoding is based on ""Iran System"" standard.","Categories
+Terminals, Internationalization (I18N)"
+"I needed tail(1) on Windows but couldn't find a suitable implementation, so I hacked a quick solution for myself in C#
+
+Functionality is still very basic - will expand as the need grows. Please make use of the SF tools to log your requests for features etc.I needed tail(1) on Windows but couldn't find a suitable implementation, so I hacked a quick solution for myself in C#
+
+Functionality is still very basic - will expand as the need grows. Please make use of the SF tools to log your requests for features etc.","Categories
+Terminals, File Systems"
+FuTTY is a fork of PuTTY and PuTTYTray.FuTTY is a fork of PuTTY and PuTTYTray.,"Categories
+Terminals, Telnet, SSH"
+Dr00l IRC BotDr00l IRC Bot,"Categories
+Terminals, IRC Clients, Internet"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Terminals"
+"This application is a ASCII-based data scope. When used with a 'spy' cable such as the CBL-Full-1A product from www.commfront.com this progrmam shows the ASCII chars on both sides of a comm link.
+
+There are three main tabs on the user interface.
+
+The 'Vertical' tab displays the comm link conversation in a vertically-scrolling half-duplex mode. Each 'side' of the conversation is detected by the user-configured 'start msg' and 'end msg' byte sequence.
+
+The 'Horizontal' tab shows bytes, one at a time, as they are received on each side of the link so the relative timing relationships can be monitored. Printable ASCII chars are shown. Non-printable are shown with a '0x' prefix. The two sides of this link referred to as 'Port 1' and 'Port 2'. Each side must communicate at the same baud rate. Each side can have its' own start message and end message character configurations.
+
+A log tab where state and error messages can be reviewed.This application is a ASCII-based data scope. When used with a 'spy' cable such as the CBL-Full-1A product from www.commfront.com this progrmam shows the ASCII chars on both sides of a comm link.
+
+There are three main tabs on the user interface.
+
+The 'Vertical' tab displays the comm link conversation in a vertically-scrolling half-duplex mode. Each 'side' of the conversation is detected by the user-configured 'start msg' and 'end msg' byte sequence.
+
+The 'Horizontal' tab shows bytes, one at a time, as they are received on each side of the link so the relative timing relationships can be monitored. Printable ASCII chars are shown. Non-printable are shown with a '0x' prefix. The two sides of this link referred to as 'Port 1' and 'Port 2'. Each side must communicate at the same baud rate. Each side can have its' own start message and end message character configurations.
+
+A log tab where state and error messages can be reviewed.","Categories
+Serial, Communications, SCADA"
+"This service listens for incoming TELNET network connections. When a connection on the network port is received, the corresponding serial port is opened and the data between the two ports is redirected. When the network connection is closed, the serial port is closed and the service begins listening for another network connection.This service listens for incoming TELNET network connections. When a connection on the network port is received, the corresponding serial port is opened and the data between the two ports is redirected. When the network connection is closed, the serial port is closed and the service begins listening for another network connection.","Categories
+Serial, Telnet, Communications"
+Telnet to serial gateway for embedded developmentTelnet to serial gateway for embedded development,"Categories
+Serial, Communications"
+"Full compliant Remote Desktop Manager for Windows Systems - permits to connect to remote desktops using Windows Termina Services - it supports secure connection throught smartcards.
+It is based on microsoft Remote Desktop ActiveX.Full compliant Remote Desktop Manager for Windows Systems - permits to connect to remote desktops using Windows Termina Services - it supports secure connection throught smartcards.
+It is based on microsoft Remote Desktop ActiveX.","Categories
+Terminal Emulators, Systems Administration, Customer Service, Remote Desktop"
+"Converter for ANSI & ASCII text files to HTML, Unicode, Bitmap, Video and various specialty formats like PCBoard @ Sequences, Wildcat V2.X and V3.X BBS Files, Avatar etc., ANSI/ASCII BIN (Binary) or Unicode Text Format.Converter for ANSI & ASCII text files to HTML, Unicode, Bitmap, Video and various specialty formats like PCBoard @ Sequences, Wildcat V2.X and V3.X BBS Files, Avatar etc., ANSI/ASCII BIN (Binary) or Unicode Text Format.","Categories
+Data Formats, Terminal Emulators, Image Converters"
+"This project contains development branches for the tinin++ mud client (http://tintin.sourceforge.net/index.php). These branches are not necessarily used for upstream tintin++, but for extensive additional features not found there.This project contains development branches for the tinin++ mud client (http://tintin.sourceforge.net/index.php). These branches are not necessarily used for upstream tintin++, but for extensive additional features not found there.","Categories
+Telnet, Console Games, Multi-User Dungeons (MUD)"
+"I'm a HW Support and used cacti, zabbix, but they are too ""strong"", sometimes I just want to know server ""worked fine"", and show me a basicly load-average chart, that's enough.
+
+And the other hand, I need run command (like: ""top"", ""iostat"", ""date"" etc.) remotely and show it out to the webpage.
+
+The hwmonitor(writen in C) is a simple daemon, you can define some command-name(like: show_top= top -b -n1), telnet to this daemon and input your def-command(like: show_top), hwmonitor will return the info.
+
+And hwclient(include in this project, writen in C) connect to hwmonitor, input a define command-name to get server load-average and IO-idle each 60 seconds(you can change it) into a text file.
+
+hwgraphic (include in this project, writen in PHP) read the text file(generated by hwclient) and show the load-average chart and IO-idle chart.I'm a HW Support and used cacti, zabbix, but they are too ""strong"", sometimes I just want to know server ""worked fine"", and show me a basicly load-average chart, that's enough.
+
+And the other hand, I need run command (like: ""top"", ""iostat"", ""date"" etc.) remotely and show it out to the webpage.
+
+The hwmonitor(writen in C) is a simple daemon, you can define some command-name(like: show_top= top -b -n1), telnet to this daemon and input your def-command(like: show_top), hwmonitor will return the info.
+
+And hwclient(include in this project, writen in C) connect to hwmonitor, input a define command-name to get server load-average and IO-idle each 60 seconds(you can change it) into a text file.
+
+hwgraphic (include in this project, writen in PHP) read the text file(generated by hwclient) and show the load-average chart and IO-idle chart.","Categories
+Telnet, Monitoring"
+"It is the same as the basic ""ECHO"" command, but now.., with COLOR!
+echo messages in color.
+
+http://www.softpedia.com/progClean/Echoc-Clean-207636.htmlIt is the same as the basic ""ECHO"" command, but now.., with COLOR!
+echo messages in color.
+
+http://www.softpedia.com/progClean/Echoc-Clean-207636.html","Categories
+Terminals, Logging"
+"TRiVial TERMinal is simple, cross-platform library for console input/output.TRiVial TERMinal is simple, cross-platform library for console input/output.","Categories
+Terminals, Software Development"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU Library or Lesser General Public License version 3.0 (LGPLv3)","Categories
+Telnet, Hardware Drivers"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+Python Software Foundation License, GNU Library or Lesser General Public License version 3.0 (LGPLv3)","Categories
+Telnet, Systems Administration"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.License
+GNU General Public License version 3.0 (GPLv3)","Categories
+Terminals, Systems Administration, Networking"
+Yakuake is a Quake-inspired drop-down terminal emulator application based on KDE Konsole technology.Yakuake is a Quake-inspired drop-down terminal emulator application based on KDE Konsole technology.,"Categories
+Terminal Emulators, KDE"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU Library or Lesser General Public License version 2.0 (LGPLv2)","Categories
+Terminals, User Interface (UI), Graphics"
+rUSBer Is Emergency LiveUSB with aim to be replacement for Main Router Hardware/Linux box on Networks with all of kernel 2.6 Shaping/Scheduling and etc features .rUSBer Is Emergency LiveUSB with aim to be replacement for Main Router Hardware/Linux box on Networks with all of kernel 2.6 Shaping/Scheduling and etc features .,"Categories
+Terminals, Systems Administration, Networking"
+"Control- and Status-Utility for Tr*ndCh*p-based ADSL-modems. It allows to access the devices' console-service and retrieves their current staus. For example those TC3084 devices are supported: Lucent CELL 19A-BX, Speed Modem 50B(+) and 200 by Arcor.Control- and Status-Utility for Tr*ndCh*p-based ADSL-modems. It allows to access the devices' console-service and retrieves their current staus. For example those TC3084 devices are supported: Lucent CELL 19A-BX, Speed Modem 50B(+) and 200 by Arcor.","Categories
+Telnet, Monitoring, Hardware"
+"The DisGUISE library provides an easy and object oriented access to the features of the AT command interface available in Sony Ericsson cellphones. This includes basic tasks like getting a notice on incoming calls, but also handling GUI elements.The DisGUISE library provides an easy and object oriented access to the features of the AT command interface available in Sony Ericsson cellphones. This includes basic tasks like getting a notice on incoming calls, but also handling GUI elements.","Categories
+Terminals, Frameworks"
+C11 is a user-interface-server for the console built-up on the S-Lang library (http://www.s-lang.org) that can be used on several architectures and operating systems.C11 is a user-interface-server for the console built-up on the S-Lang library (http://www.s-lang.org) that can be used on several architectures and operating systems.,"Categories
+Terminals, Other/Nonlisted Topic, Desktop Environment"
+"do you know 'xpad' ? or any other software 'sticky notes' ? 'note' is the same, but for console use.do you know 'xpad' ? or any other software 'sticky notes' ? 'note' is the same, but for console use.","Categories
+Terminals"
+"The N8VB vCOM Virtual Serial Port Driver creates pairs of virtual serial ports on your Windows 2000 or XP system that are ""virtually"" connected together like a null modem cable. It behaves like a Virtual Null Modem Cable.The N8VB vCOM Virtual Serial Port Driver creates pairs of virtual serial ports on your Windows 2000 or XP system that are ""virtually"" connected together like a null modem cable. It behaves like a Virtual Null Modem Cable.","Categories
+Serial, Hardware Drivers, Scientific/Engineering"
+lightweight x terminallightweight x terminal,"Categories
+Terminal Emulators"
+"mcvox is a Midnight Commander derivative which can be rendered via an auditory user interface, a braille display or a tiny screen.mcvox is a Midnight Commander derivative which can be rendered via an auditory user interface, a braille display or a tiny screen.","Categories
+Terminals, Desktop Environment"
+"Keeon , keep the interactive connection to internet or other device on by sending unused chars frequently. It create a pty for the interactive program and send chars to the pty like robots if no input from the user entered. Now telnet and ssh areKeeon , keep the interactive connection to internet or other device on by sending unused chars frequently. It create a pty for the interactive program and send chars to the pty like robots if no input from the user entered. Now telnet and ssh are","Categories
+Terminal Emulators, Telnet, BBS"
+cdi2iso is a very simple utility to convert DiscJuggler image to the standard ISO-9660 format.cdi2iso is a very simple utility to convert DiscJuggler image to the standard ISO-9660 format.,"Categories
+Terminals"
+pdi2iso is a very simple utility to convert an instant copy bin image to the standard ISO-9660 format.pdi2iso is a very simple utility to convert an instant copy bin image to the standard ISO-9660 format.,"Categories
+Terminals"
+MDF2ISO is a very simple utility to convert an Alcohol 120% bin image to the standard ISO-9660 format.MDF2ISO is a very simple utility to convert an Alcohol 120% bin image to the standard ISO-9660 format.,"Categories
+Terminals, System"
+Commi is a line orientated serial terminal like minicom. Supporting receiving and sending files. It has a QT-GUI.Commi is a line orientated serial terminal like minicom. Supporting receiving and sending files. It has a QT-GUI.,"Categories
+Terminals"
+BlindWrite image to ISO image file converterBlindWrite image to ISO image file converter,"Categories
+Terminals"
+nccc ist ein Chatclient mit ncurses-Oberfläche für Terminals. Er unterstützt von Haus aus IRC und einige Webchats. nccc is a console chat-client using a ncurses frontend. It supports IRC and some Webchats out-of-the-box.nccc ist ein Chatclient mit ncurses-Oberfläche für Terminals. Er unterstützt von Haus aus IRC und einige Webchats. nccc is a console chat-client using a ncurses frontend. It supports IRC and some Webchats out-of-the-box.,"Categories
+Terminals, IRC Clients"
+ncurses-ruby is an extension module that makes the functions and constants of the FSF's ncurses library accessible from the ruby programming languagencurses-ruby is an extension module that makes the functions and constants of the FSF's ncurses library accessible from the ruby programming language,"Categories
+Terminals, User Interface (UI)"
+Etherboot is Open Source code for creating boot ROMs for network booting x86 platforms. It is also a coordination point for information about free software related to network booting. This is an auxiliary site for http://sourceforge.net/projects/etherbootEtherboot is Open Source code for creating boot ROMs for network booting x86 platforms. It is also a coordination point for information about free software related to network booting. This is an auxiliary site for http://sourceforge.net/projects/etherboot,"Categories
+Terminals, System"
+Tools and Debian packages for LTSP (http://www.ltsp.org/).Tools and Debian packages for LTSP (http://www.ltsp.org/).,"Categories
+Terminals, Education"
+"The RS232 Automatic Sender V1.0.2 sends a preconfigured message on the RS232 serial port.
+Any char can be sent and delays can be inserted between chars if needed.
+The program automatically sends the message when started and it will automatically close when done.
+The program was created to send messages to a Sharp LCD TV that could receive commands over the RS232 port.The RS232 Automatic Sender V1.0.2 sends a preconfigured message on the RS232 serial port.
+Any char can be sent and delays can be inserted between chars if needed.
+The program automatically sends the message when started and it will automatically close when done.
+The program was created to send messages to a Sharp LCD TV that could receive commands over the RS232 port.","Categories
+Serial"
+"gdpa stands for Gestural Desktop Pager Assistant.
+Press <Control>+<Button1> (for instance), then move your mouse up/down to navigate to next/previous desktop, or left/right to navigate through windows of the current desktop.gdpa stands for Gestural Desktop Pager Assistant.
+Press <Control>+<Button1> (for instance), then move your mouse up/down to navigate to next/previous desktop, or left/right to navigate through windows of the current desktop.","Categories
+Terminals"
+"This project is a student project for a simple Shell clone. It is written with QT4.
+It is possible to work with the functions
+cat, cd, cp, help, list, ls, locate, find, exit, grep, mkdir, rdir, rfile, pwd, touch.This project is a student project for a simple Shell clone. It is written with QT4.
+It is possible to work with the functions
+cat, cd, cp, help, list, ls, locate, find, exit, grep, mkdir, rdir, rfile, pwd, touch.","Categories
+Terminals"
+"Система управления компьютером по средствам ICQ протокола
+Более детальное описание тут https://sourceforge.net/p/icqmod/discussion/general/thread/24c47490/Система управления компьютером по средствам ICQ протокола
+Более детальное описание тут https://sourceforge.net/p/icqmod/discussion/general/thread/24c47490/","Categories
+Terminal Emulators, Systems Administration, Networking"
+"Winshell+ is not a shell, but acts like one. It is windows only. I will extend its features later. The current version is 0.1
+To install winshell+, download all of the files in the folder for the current version of the software.
+
+This program is only in the alpha stage, so don't expect it to be amazing and full of awesome features.
+
+My next update will probably incorporate data compression and decompression, and possibly POP e-mail (I hop!e)Winshell+ is not a shell, but acts like one. It is windows only. I will extend its features later. The current version is 0.1
+To install winshell+, download all of the files in the folder for the current version of the software.
+
+This program is only in the alpha stage, so don't expect it to be amazing and full of awesome features.
+
+My next update will probably incorporate data compression and decompression, and possibly POP e-mail (I hop!e)","Categories
+Terminals"
+"CRT Fusion is a attempt to fuse or merge together many of the *free* CRT Libraries available for Delphi into one console class object library. It attempts to define usable class objects while also providing direct support for DOS pascal projects at the same time.
+
+Look in the SVN Code to check it out.
+svn://svn.code.sf.net/p/crtfusion/svncode/trunk
+(Repo fixed.. see blog)CRT Fusion is a attempt to fuse or merge together many of the *free* CRT Libraries available for Delphi into one console class object library. It attempts to define usable class objects while also providing direct support for DOS pascal projects at the same time.
+
+Look in the SVN Code to check it out.
+svn://svn.code.sf.net/p/crtfusion/svncode/trunk
+(Repo fixed.. see blog)","Categories
+Terminals, System Shells, Libraries"
+"A simple API, written in C, for accessing the Serial ports in a consistent way across Multiple desktop and embedded platforms.
+
+This has allowed programs for embedded devices to be mainly developed on the desktop, where test and debug is much easier. It can also be used to write serial port programs that are portable across different desktop platforms.A simple API, written in C, for accessing the Serial ports in a consistent way across Multiple desktop and embedded platforms.
+
+This has allowed programs for embedded devices to be mainly developed on the desktop, where test and debug is much easier. It can also be used to write serial port programs that are portable across different desktop platforms.","Categories
+Serial, Embedded Systems, Libraries"
+"This project is an enhanced version of ser2net, a proxy that allows telnet/tcp connections to be made to serial ports on a machine.This project is an enhanced version of ser2net, a proxy that allows telnet/tcp connections to be made to serial ports on a machine.","Categories
+Serial"
+"Console typing manager(CTM is open source library written in C++ containing ctm object, which can take control of the pressing keys of your terminal application(command interpreter).
+
+CTM can be used in programs, which are runing in terminal and user need to manage them by entering commands and keyboard shortcuts.Console typing manager(CTM is open source library written in C++ containing ctm object, which can take control of the pressing keys of your terminal application(command interpreter).
+
+CTM can be used in programs, which are runing in terminal and user need to manage them by entering commands and keyboard shortcuts.","Categories
+Terminals, Libraries"
+This is a minimal Cygwin/X distribution edited down to just the X11 server. There are also a few scripts to set things up.This is a minimal Cygwin/X distribution edited down to just the X11 server. There are also a few scripts to set things up.,"Categories
+Terminal Emulators"
+VB.Net DLL wrapper created around SharpSSH (http://www.codeproject.com/KB/IP/sharpssh.aspx & http://www.tamirgal.com/blog/page/SharpSSH.aspx) to permit VBA to create a SSH connection.VB.Net DLL wrapper created around SharpSSH (http://www.codeproject.com/KB/IP/sharpssh.aspx & http://www.tamirgal.com/blog/page/SharpSSH.aspx) to permit VBA to create a SSH connection.,"Categories
+Terminal Emulators, System Shells, Distributed Computing"
+"This is a clone of the game Space Invaders written in C for Linux/UniX.
+For playing it you need a Linux console or terminal. At the beginning it will seem easy, but in the end it will become really hard. You can configure the game easily.This is a clone of the game Space Invaders written in C for Linux/UniX.
+For playing it you need a Linux console or terminal. At the beginning it will seem easy, but in the end it will become really hard. You can configure the game easily.","Categories
+Terminal Emulators, Games/Entertainment, Console Games"
+"Admin location finder for single site, optionally dump scan result to text file.
+Please send bug report to help improving this script.Admin location finder for single site, optionally dump scan result to text file.
+Please send bug report to help improving this script.","Categories
+Terminals"
+Project moved / abandonned.Project moved / abandonned.,"Categories
+Terminal Emulators, Systems Administration"
+Its Command prompt that runs trought C programming. By Joe DFIts Command prompt that runs trought C programming. By Joe DF,"Categories
+Terminal Emulators"
+valuevalue,"Categories
+Telnet, Genetic Algorithms, Distributed Computing"
+This project is the video controller of commodore 64 embedded in FPGAThis project is the video controller of commodore 64 embedded in FPGA,"Categories
+Serial"
+A completely different PuTTY version nobody expects.A completely different PuTTY version nobody expects.,"Categories
+Terminal Emulators, Telnet, SSH"
+"With Router Remote you can connect to your router and change the configuration, restart it, and many other things from your phone. Currently only Zyxel routers supported, but it would possible to make it work with other routers as well. Please report non-working routers, since support might be added. It uses the android library Ohmenu available at http://github.com/omtinez/ohmenu to implement
+an intuitive, modern user interface to the application menu.
+
+Released under BSD license. For more info, see the bottom of this document or visit:
+
+* https://play.google.com/store/apps/details?id=omtinez.routerremote
+
+* http://sourceforge.net/projects/routerremote
+
+* http://github.com/omtinez/routerremoteWith Router Remote you can connect to your router and change the configuration, restart it, and many other things from your phone. Currently only Zyxel routers supported, but it would possible to make it work with other routers as well. Please report non-working routers, since support might be added. It uses the android library Ohmenu available at http://github.com/omtinez/ohmenu to implement
+an intuitive, modern user interface to the application menu.
+
+Released under BSD license. For more info, see the bottom of this document or visit:
+
+* https://play.google.com/store/apps/details?id=omtinez.routerremote
+
+* http://sourceforge.net/projects/routerremote
+
+* http://github.com/omtinez/routerremote","Categories
+Telnet, Networking"
+"File generator create files with specific size ,with many methods and many options.File generator create files with specific size ,with many methods and many options.","Categories
+Terminals, File Systems, Exam"
+screen_notify.rb - A ruby script to add messages to the caption field in gnu screen.screen_notify.rb - A ruby script to add messages to the caption field in gnu screen.,"Categories
+Terminal Emulators"
+Badger is a multi-purpose program designed to make System Administrator tasks easier for all computer users. It is currently a Beta ready for testing. It currently runs on Mac and Linux. It must be run as root.Badger is a multi-purpose program designed to make System Administrator tasks easier for all computer users. It is currently a Beta ready for testing. It currently runs on Mac and Linux. It must be run as root.,"Categories
+Terminals, Systems Administration"
+"Apimenu is a multi-platforms terminal menu configurable through an xml interface.
+Apimenu supports multi-languages, menus, menu options, input forms and strict control of type and values.Apimenu is a multi-platforms terminal menu configurable through an xml interface.
+Apimenu supports multi-languages, menus, menu options, input forms and strict control of type and values.","Categories
+Terminals, Office/Business, System"
+"Redirects incoming commands from COM1 to the command prompt and returns results from command prompt back out COM1. This is primarily useful for automation of Windows servers via console in Linux virtualization environments(ex: KVM, XEN, etc.)Redirects incoming commands from COM1 to the command prompt and returns results from command prompt back out COM1. This is primarily useful for automation of Windows servers via console in Linux virtualization environments(ex: KVM, XEN, etc.)","Categories
+Serial, Virtual Machine, Distributed Computing"
+"This Linux script helps people learn how to program routers. It has a GUI and a terminal that can be used simultaneously. GUI command output appears on the terminal, along with the results. The terminal is always available and interactive.This Linux script helps people learn how to program routers. It has a GUI and a terminal that can be used simultaneously. GUI command output appears on the terminal, along with the results. The terminal is always available and interactive.","Categories
+Serial, Router"
+Java serial COM port terminal designed for use with the BreezeElectronics.Net USB Project Interface Kit.Java serial COM port terminal designed for use with the BreezeElectronics.Net USB Project Interface Kit.,"Categories
+Serial"
+"A remote access and remote shell program for communicating with Symbian devices running fshell. Muxcons runs on mac, Windows and linux.A remote access and remote shell program for communicating with Symbian devices running fshell. Muxcons runs on mac, Windows and linux.","Categories
+Terminal Emulators"
+"XTree for Mac OS X.
+
+Requirements:
+
+Pre-compiled binary: Mac OS X 10.6.x (Intel)
+
+Source install: Mac OS X 10.2.x or later (Intel & PowerPC)XTree for Mac OS X.
+
+Requirements:
+
+Pre-compiled binary: Mac OS X 10.6.x (Intel)
+
+Source install: Mac OS X 10.2.x or later (Intel & PowerPC)","Categories
+Terminals"
+screenie - screen(1) session handler (wrapper)screenie - screen(1) session handler (wrapper),"Categories
+Terminals"
+"SendCommand is a Perl script that uses the Expect library to automate telnet and ssh sessions on remote hosts (Cisco, Netscreen, Bluecoat and more). Executes commands and outputs results to stdout or into files. It aims to be a very flexible tool.SendCommand is a Perl script that uses the Expect library to automate telnet and ssh sessions on remote hosts (Cisco, Netscreen, Bluecoat and more). Executes commands and outputs results to stdout or into files. It aims to be a very flexible tool.","Categories
+Terminals, Systems Administration, Networking"
+"Delta Console provides a command shell for managing and controlling Deltapy applications. Delta Console have a very simple interface, and can execute any available command on the Application, as simple as invoking a function from the Python's shell.Delta Console provides a command shell for managing and controlling Deltapy applications. Delta Console have a very simple interface, and can execute any available command on the Application, as simple as invoking a function from the Python's shell.","Categories
+Terminals, Other/Nonlisted Topic"

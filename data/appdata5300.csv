@@ -1,0 +1,263 @@
+Description,Category
+An implementation of ORDPATH encoding. Microsoft invented ORDPATH and used it in SQL server. This independent implementation was thoroughly coded to exhibit the top performance.An implementation of ORDPATH encoding. Microsoft invented ORDPATH and used it in SQL server. This independent implementation was thoroughly coded to exhibit the top performance.,"Categories
+XML"
+"This project uses a few simple scripts to convert data grabbed from RedButton download (rb-download) into XMLTV format that MythTV uses for program guide listings.
+
+Code repo moved to github.
+https://github.com/solorvox/mheg2xmltvThis project uses a few simple scripts to convert data grabbed from RedButton download (rb-download) into XMLTV format that MythTV uses for program guide listings.
+
+Code repo moved to github.
+https://github.com/solorvox/mheg2xmltv","Categories
+Data Formats"
+"Console application for extracting parts of .swf (Flash) files. The application exports pictures from .swf content to single files of appropriate type. Multiplatform, Written in C++.Console application for extracting parts of .swf (Flash) files. The application exports pictures from .swf content to single files of appropriate type. Multiplatform, Written in C++.","Categories
+Data Formats"
+"Synder is an Atom/RSS/SearchSuggestion/OPML processing framework
+It is Optimized For Android, but works with Java SE/EE.
+Synder has a small-footprint, low memory consumption.
+The only dependency for parsing is a SAX2 implementation.Synder is an Atom/RSS/SearchSuggestion/OPML processing framework
+It is Optimized For Android, but works with Java SE/EE.
+Synder has a small-footprint, low memory consumption.
+The only dependency for parsing is a SAX2 implementation.","Categories
+RSS, RSS Feed Readers, Libraries"
+EMET is an image metadata extraction tool intended to facilitate the management and preservation of digital images and their incorporation into external databases and applications. EMET was created by ARTstor through funding from NDIIPP.EMET is an image metadata extraction tool intended to facilitate the management and preservation of digital images and their incorporation into external databases and applications. EMET was created by ARTstor through funding from NDIIPP.,"Categories
+CSV, Digital Preservation"
+"RuDolFWSgui is graphical application that lets you add, modify, remove and manage ontologies in a remote Sesame repository server (http://www.openrdf.org) using a remote RuDolFWS server (visit http://sourceforge.net/projects/rudolfws/ ).RuDolFWSgui is graphical application that lets you add, modify, remove and manage ontologies in a remote Sesame repository server (http://www.openrdf.org) using a remote RuDolFWS server (visit http://sourceforge.net/projects/rudolfws/ ).","Categories
+Semantic Web"
+A powerful python module that lets you output HTML code from within a python script in a very efficient and convenient fashion. Code your web-page like a GUI! Create tags and modify their attributes at anytime during your script. http://pyh/googlecodA powerful python module that lets you output HTML code from within a python script in a very efficient and convenient fashion. Code your web-page like a GUI! Create tags and modify their attributes at anytime during your script. http://pyh/googlecod,"Categories
+HTML/XHTML, CGI Scripts"
+"HIEOS is an open source implementation of, primarily server-side, Integrating the Healthcare Enterprise (IHE) Integration Profiles including Cross Enterprise Document Sharing (XDS.b) and Cross Community Access (XCA) integration profiles.HIEOS is an open source implementation of, primarily server-side, Integrating the Healthcare Enterprise (IHE) Integration Profiles including Cross Enterprise Document Sharing (XDS.b) and Cross Community Access (XCA) integration profiles.","Categories
+SOAP, Web Services"
+"RSS reader, multimedia manager and TV series managerRSS reader, multimedia manager and TV series manager","Categories
+RSS, BitTorrent, Video"
+"The goal of the OSM2PostGIS project is to develop an OpenStreetMap data processor that can import any amount of .osm XML data into a PostGIS database, and produce evaluated navigation network topologies to support routing.The goal of the OSM2PostGIS project is to develop an OpenStreetMap data processor that can import any amount of .osm XML data into a PostGIS database, and produce evaluated navigation network topologies to support routing.","Categories
+XML, GIS"
+"Aria2Web is a PHP- and Javascript-based application that allows you to control the excellent and lightweight ""aria2"" over the web. That way you can use it as a download manager.Aria2Web is a PHP- and Javascript-based application that allows you to control the excellent and lightweight ""aria2"" over the web. That way you can use it as a download manager.","Categories
+XML-RPC, BitTorrent, AJAX, Download Managers"
+"PHP5-Classes, that creates/parses the german DTAUS-format for banks. Including execution date, long receiver and sender-names and up to 15 references.PHP5-Classes, that creates/parses the german DTAUS-format for banks. Including execution date, long receiver and sender-names and up to 15 references.","Categories
+Data Formats, Financial"
+"NOTE: This project is now on Github. Please go to https://github.com/scaryclam/python-webdav
+
+A WebDAV client library for python. The purpose of this project is to make a python WebDAV client library that is easy and convenient to use, while remaining flexible enough for developers who may want a finer grain of control.
+
+
+UPDATE: The test suite passes using Python 3.1 so we will now be supporting Python3 issues. The library will try to continue to work on both Python 2 and Python 3 until such a time that we find something that is not backwards compatible between the Python releases.NOTE: This project is now on Github. Please go to https://github.com/scaryclam/python-webdav
+
+A WebDAV client library for python. The purpose of this project is to make a python WebDAV client library that is easy and convenient to use, while remaining flexible enough for developers who may want a finer grain of control.
+
+
+UPDATE: The test suite passes using Python 3.1 so we will now be supporting Python3 issues. The library will try to continue to work on both Python 2 and Python 3 until such a time that we find something that is not backwards compatible between the Python releases.","Categories
+WWW/HTTP, Web Services, Libraries"
+Free open source URL shortener that uses http://theeasyapi.com to access Google Safe Browsing and geoIP services for free.Free open source URL shortener that uses http://theeasyapi.com to access Google Safe Browsing and geoIP services for free.,"Categories
+Search Engines, Web Services"
+Converts a toc generated by cdrdao (or similar) to a .cue as known from tools like EAC. Works only for CD_DA toc.Converts a toc generated by cdrdao (or similar) to a .cue as known from tools like EAC. Works only for CD_DA toc.,"Categories
+Data Formats, Audio Conversion, CD Audio"
+Just a contrib of headers made via an XML to source code library xml generation tool I wont claim to maintain it however It is Intended to Aid and or be absorbed by the XML Resume Library folks hopefully It will aid the development of XML Resume further.Just a contrib of headers made via an XML to source code library xml generation tool I wont claim to maintain it however It is Intended to Aid and or be absorbed by the XML Resume Library folks hopefully It will aid the development of XML Resume further.,"Categories
+Text Editors, XML, HTML/XHTML"
+Code for eMM and eSM (part of the Evolved Packet System Non Access Stratum layer protocols). This implementation partially implements the protocol procedures of 3GPP TS 24.301Code for eMM and eSM (part of the Evolved Packet System Non Access Stratum layer protocols). This implementation partially implements the protocol procedures of 3GPP TS 24.301,"Categories
+Data Formats"
+A GUI for display packing/unpacking of up to 32-bit wide bit-packed data fields.A GUI for display packing/unpacking of up to 32-bit wide bit-packed data fields.,"Categories
+Data Formats"
+"Dare-Dare stands for Document Ajax Reader Extension. It's a full javascript online pdf reader. No flash, no closed sources !!!!Dare-Dare stands for Document Ajax Reader Extension. It's a full javascript online pdf reader. No flash, no closed sources !!!!","Categories
+Data Formats, Dynamic Content, AJAX, PDF Readers"
+Recepção NFE é uma solução de código-fonte em C# 3.5 aberto desenvolvido para atender parcialmente ( XML ) uma obrigação dos contribuintes de terem que enviar a Nota Fiscal Eletrônica para o cliente através de qualquer meio magnético.Recepção NFE é uma solução de código-fonte em C# 3.5 aberto desenvolvido para atender parcialmente ( XML ) uma obrigação dos contribuintes de terem que enviar a Nota Fiscal Eletrônica para o cliente através de qualquer meio magnético.,"Categories
+POP3, XML"
+"A library of tools and API (C++ and Python) for the storage and processing of large 3D laser scanning (LiDAR, ALS, TLS) datasets using a pulse based spatially indexed file format (SPD) which support for both discrete return and full waveform datasets. Code has moved to https://bitbucket.org/petebunting/spdlibA library of tools and API (C++ and Python) for the storage and processing of large 3D laser scanning (LiDAR, ALS, TLS) datasets using a pulse based spatially indexed file format (SPD) which support for both discrete return and full waveform datasets. Code has moved to https://bitbucket.org/petebunting/spdlib","Categories
+Data Formats, GIS"
+"sjbjl, as its name says, is a jQuery Based Library, putting together the minimal things you need to improve your web applications user experience in an easy way. It's based on jQuery and its best plugins.sjbjl, as its name says, is a jQuery Based Library, putting together the minimal things you need to improve your web applications user experience in an easy way. It's based on jQuery and its best plugins.","Categories
+HTML/XHTML, Dynamic Content, Frameworks"
+"OpenCloudAV is the first open source multi-engine based malware analysis service from the network cloud. This project is in alpha release, run only in GNU/Linux, and is mainly developed using Perl SOAP::Lite module. Version 0.2 alpha is available nowOpenCloudAV is the first open source multi-engine based malware analysis service from the network cloud. This project is in alpha release, run only in GNU/Linux, and is mainly developed using Perl SOAP::Lite module. Version 0.2 alpha is available now","Categories
+Web Services, Antivirus, Anti-Malware"
+"A pure HTML implementation of VNC, using the HTML 5 canvas tag and JavaScript as a client and an RFB to HTTP proxy served up by Python.
+Requires Python and Python Imaging Library to be installed on the server.A pure HTML implementation of VNC, using the HTML 5 canvas tag and JavaScript as a client and an RFB to HTTP proxy served up by Python.
+Requires Python and Python Imaging Library to be installed on the server.","Categories
+Communications, HTTP Servers, Web Services"
+"Zip64File is a JAVA library which implements the 64-bit extension of the ZIP standard from PKWARE (http://www.pkware.com/documents/casestudies/APPNOTE.TXT) using random-access, permitting to access archives larger than 4 GB with more than 65 K files.Zip64File is a JAVA library which implements the 64-bit extension of the ZIP standard from PKWARE (http://www.pkware.com/documents/casestudies/APPNOTE.TXT) using random-access, permitting to access archives larger than 4 GB with more than 65 K files.","Categories
+Data Formats"
+"JSONER is a JavaScript library intented to simplify most used operations with JSON based on event API on JSON tree. It includes: data lookup and binding solution, HTML form by JSON dynamically creation and population, transformation and comparison JSONs.JSONER is a JavaScript library intented to simplify most used operations with JSON based on event API on JSON tree. It includes: data lookup and binding solution, HTML form by JSON dynamically creation and population, transformation and comparison JSONs.","Categories
+Data Formats, Dynamic Content, Algorithms"
+"A graphical frontend (GUI) for ps2pdf. Use Ghostscript's power in converting PostScript to PDF without worrying about the complicated command line. Change image resampling options, encryption and prepress settings and more with a few mouse clicks.A graphical frontend (GUI) for ps2pdf. Use Ghostscript's power in converting PostScript to PDF without worrying about the complicated command line. Change image resampling options, encryption and prepress settings and more with a few mouse clicks.","Categories
+Data Formats, Printing, Image Converters"
+pyxser stands for python xml serialization and is a python object to XML serializer that validates every XML deserialization against the pyxser 1.0 XML Schema. pyxser is written entirely in C as a python extension.pyxser stands for python xml serialization and is a python object to XML serializer that validates every XML deserialization against the pyxser 1.0 XML Schema. pyxser is written entirely in C as a python extension.,"Categories
+XML, Object Oriented, Compilers, Web Services"
+"Pulls eNews, eBuzz... for you to read, or stores for later reading. Portable, small (98KB, 5sec download), easy to learn & use. No Spam. Connects to sourceforge.net at startup.Pulls eNews, eBuzz... for you to read, or stores for later reading. Portable, small (98KB, 5sec download), easy to learn & use. No Spam. Connects to sourceforge.net at startup.","Categories
+RSS, RSS Feed Readers"
+A project designed to create a standard mapping of RDF to Java.A project designed to create a standard mapping of RDF to Java.,"Categories
+Software Development, Internet, Semantic Web"
+KML Java Mapping and Utilities for Google EarthKML Java Mapping and Utilities for Google Earth,"Categories
+Data Formats, Frameworks"
+"Brace is a comprehensive C++ template library that parse, organize and serialize string-based human-readable hierarchical data. The contained format itself is easier to edit and maintain than XML, yet similar in philosophy and already in widespread use.Brace is a comprehensive C++ template library that parse, organize and serialize string-based human-readable hierarchical data. The contained format itself is easier to edit and maintain than XML, yet similar in philosophy and already in widespread use.","Categories
+Data Formats"
+PHP + mod_python GUI for athenaCLPHP + mod_python GUI for athenaCL,"Categories
+XML, CGI Scripts, Audio Analysis"
+This is a JavaScript Library that extends JavaScript's Date object to provide all the functionality that is missing from the standard implementation. Output a date in almost any textual format and calculate the exact difference between any two datesThis is a JavaScript Library that extends JavaScript's Date object to provide all the functionality that is missing from the standard implementation. Output a date in almost any textual format and calculate the exact difference between any two dates,"Categories
+Data Formats, Libraries"
+This project displays the free zefania-sharp XML bible\'s in a very nice way. The project is written in PHP and uses jquery for some nice gimmicks like highlighting your favorite verses in your desired color.This project displays the free zefania-sharp XML bible\'s in a very nice way. The project is written in PHP and uses jquery for some nice gimmicks like highlighting your favorite verses in your desired color.,"Categories
+XML, Religion and Philosophy, AJAX"
+"NO LONGER MAINTAINED, NO LONGER SUPPORTED
+
+Xena transforms files into open data formats for long-term digital preservation, encodes content in Base64 and wraps in XML metadata. Formats supported include MBOX, PST, MSG, DOC, XLS, PPT, RTF, PNG, XML, PDF, JPG, TIFF, PCX, WAV, MP3 and more.NO LONGER MAINTAINED, NO LONGER SUPPORTED
+
+Xena transforms files into open data formats for long-term digital preservation, encodes content in Base64 and wraps in XML metadata. Formats supported include MBOX, PST, MSG, DOC, XLS, PPT, RTF, PNG, XML, PDF, JPG, TIFF, PCX, WAV, MP3 and more.","Categories
+Data Formats, Archiving, Digital Preservation"
+"Python wrappers for the way(s) you think. Mindwrapper is a framework for the rapid development of custom, data-centric, GUI applications with wxPython.Python wrappers for the way(s) you think. Mindwrapper is a framework for the rapid development of custom, data-centric, GUI applications with wxPython.","Categories
+XML"
+"XMLTV (http://xmltv.org/) is for grabbing TV listings primarily from websites. It has a grabber for Danish Television that grabs from http://tv.tv2.dk, but here we maintain serveral others. You can find documentation on http://niels.dybdahl.dk/xmltvdkXMLTV (http://xmltv.org/) is for grabbing TV listings primarily from websites. It has a grabber for Danish Television that grabs from http://tv.tv2.dk, but here we maintain serveral others. You can find documentation on http://niels.dybdahl.dk/xmltvdk","Categories
+XML, Search Engines"
+"XML-Parse library is a lightweight set of functions for parsing, checking, and creating xml files. It can support stream-oriented, SAX or DOM parsing styles, and includes an optional xsd schema validator and graphical schema generator.XML-Parse library is a lightweight set of functions for parsing, checking, and creating xml files. It can support stream-oriented, SAX or DOM parsing styles, and includes an optional xsd schema validator and graphical schema generator.","Categories
+XML, Interpreters"
+The IETF protocol SDP provides a standard representation for information that describe multi-media sessions. This information are included within other protocol messages as payload. jSDP is a Java library that enable users to manipulate SDP messagesThe IETF protocol SDP provides a standard representation for information that describe multi-media sessions. This information are included within other protocol messages as payload. jSDP is a Java library that enable users to manipulate SDP messages,"Categories
+Data Formats, Communications, Internet"
+An Internet Corpus Linguistics analysis tool focusing on lexical variation over time and by geographical location. Initially the project will analyze word frequencies over time in the Linux Kernel Mailing List.An Internet Corpus Linguistics analysis tool focusing on lexical variation over time and by geographical location. Initially the project will analyze word frequencies over time in the Linux Kernel Mailing List.,"Categories
+NNTP, IRC Clients, Other/Nonlisted Topic"
+CPAINT (Cross-Platform Asynchronous INterface Toolkit) is a multi-language toolkit that helps web developers design and implement AJAX web applications with ease and flexibility.CPAINT (Cross-Platform Asynchronous INterface Toolkit) is a multi-language toolkit that helps web developers design and implement AJAX web applications with ease and flexibility.,"Categories
+XML, Dynamic Content"
+Java Micro XML Parser provides XML Writer and Pull/DOM-like XML Parser. Small 21kb jar is easily embedded and only requires J2ME. Very clean and simple API.Java Micro XML Parser provides XML Writer and Pull/DOM-like XML Parser. Small 21kb jar is easily embedded and only requires J2ME. Very clean and simple API.,"Categories
+XML, XML Parsers"
+"Max Microchip GPL is a multi-protocol RFID reader for scanning pets implanted with an under-skin ID microchip. The external hardware required can be built with no soldering, and connects simply to the PC's Line In Audio jack.Max Microchip GPL is a multi-protocol RFID reader for scanning pets implanted with an under-skin ID microchip. The external hardware required can be built with no soldering, and connects simply to the PC's Line In Audio jack.","Categories
+Data Formats"
+"An Erlang libary for XML parsing. It supports various modes of operation: as an efficient SAX parser, as a simple DOM-like parser, or as a 'data mapper'. The data mapper transforms the XML document to Erlang records, based on an XML Schema.An Erlang libary for XML parsing. It supports various modes of operation: as an efficient SAX parser, as a simple DOM-like parser, or as a 'data mapper'. The data mapper transforms the XML document to Erlang records, based on an XML Schema.","Categories
+XML"
+Voxy - the simplest way to integrate VoiceXML applications in Asterisk. Configure your dial plan with the URL of your VoiceXML application and it's done.Voxy - the simplest way to integrate VoiceXML applications in Asterisk. Configure your dial plan with the URL of your VoiceXML application and it's done.,"Categories
+XML, Internet Phone, Telephony"
+"cobol2j reads or writes COBOL or RPG data files imported from mainframes, AS/400 or Baby/36 environment. Packed decimal, zoned or packed date fields decoding included. EBCDIC conversion. ETL ISAM data to any other platform. PC Cobol ( ASCII ) supported.cobol2j reads or writes COBOL or RPG data files imported from mainframes, AS/400 or Baby/36 environment. Packed decimal, zoned or packed date fields decoding included. EBCDIC conversion. ETL ISAM data to any other platform. PC Cobol ( ASCII ) supported.","Categories
+Data Formats, Database, Mainframe"
+"The Progressive Graphics File (PGF) is an efficient image file format, that is based on a fast, discrete wavelet transform with progressive coding features. PGF can be used for lossless and lossy compression. It's most suitable for natural images. PGF can be used as a very efficient and fast replacement of JPEG 2000.The Progressive Graphics File (PGF) is an efficient image file format, that is based on a fast, discrete wavelet transform with progressive coding features. PGF can be used for lossless and lossy compression. It's most suitable for natural images. PGF can be used as a very efficient and fast replacement of JPEG 2000.","Categories
+Data Formats, Algorithms, Graphics, Data Visualization"
+"This work is directed to C programmers with basic knowledge in SMPP protocol, at least in the specification and handling of sessions. Extending the development of the library, the scope of the same might involve a development of protocols on TCP/IP.This work is directed to C programmers with basic knowledge in SMPP protocol, at least in the specification and handling of sessions. Extending the development of the library, the scope of the same might involve a development of protocols on TCP/IP.","Categories
+Data Formats, Streaming, Software Development"
+MetaUML is a GNU/GPL MetaPost library for typesetting exquisite UML diagrams.MetaUML is a GNU/GPL MetaPost library for typesetting exquisite UML diagrams.,"Categories
+TeX/LaTeX, Documentation, Object Oriented"
+"Opal is a toolkit for wrapping scientific applications as Web services on Cluster, Grid and Cloud resources with ease. Users may access these software as a service using simple Web service APIs from their custom application and workflow environment.Opal is a toolkit for wrapping scientific applications as Web services on Cluster, Grid and Cloud resources with ease. Users may access these software as a service using simple Web service APIs from their custom application and workflow environment.","Categories
+Interface Engine/Protocol Translator, Web Services"
+Library for loading PNG files for the Allegro library. Does not depend on libpng nor zlib (however can take advantage of zlib if installed).Library for loading PNG files for the Allegro library. Does not depend on libpng nor zlib (however can take advantage of zlib if installed).,"Categories
+Data Formats, Graphics"
+"C++ parser for most important NMEA sentences, including GGA, RMC, GSA, and many others.C++ parser for most important NMEA sentences, including GGA, RMC, GSA, and many others.","Categories
+Data Formats"
+webOS is a web desktop environment offering a bridge between DHTML and PHP/mySQL using Ajax and JSON. It comes with a rich set of skin based UI widgets. The API is in javascript and its cross-browser.webOS is a web desktop environment offering a bridge between DHTML and PHP/mySQL using Ajax and JSON. It comes with a rich set of skin based UI widgets. The API is in javascript and its cross-browser.,"Categories
+HTML/XHTML, CGI Scripts, Software Development"
+"openRiverbed - the PHP5 framework. Ajax, TinyMCE, Plugins, XML based configuration, template based, XML2PDF pdf generation, multi-language support for application and content, encrypted sessions, test-driven, oo developed... Hardened by real projects.openRiverbed - the PHP5 framework. Ajax, TinyMCE, Plugins, XML based configuration, template based, XML2PDF pdf generation, multi-language support for application and content, encrypted sessions, test-driven, oo developed... Hardened by real projects.","Categories
+XML, DocBook, HTML/XHTML, Frameworks"
+"DragMath is a drag and drop equation editor in the form of a Java applet. Once an expression is created the user can convert it into a variety of different linear syntax for mathematics, including MathML, LaTeX, Maple, Maxima or any user defined style.
+
+PLEASE NOTE: active code development has moved to GitHub.
+
+https://github.com/maths/dragmathDragMath is a drag and drop equation editor in the form of a Java applet. Once an expression is created the user can convert it into a variety of different linear syntax for mathematics, including MathML, LaTeX, Maple, Maxima or any user defined style.
+
+PLEASE NOTE: active code development has moved to GitHub.
+
+https://github.com/maths/dragmath","Categories
+TeX/LaTeX, Mathematics"
+"Display photos and videos from Google's Picasa Web Albums in your own website, dynamically. Simple drop-in implementation -- just add two lines of code to your existing website. Display photos from Picasa Web albums on your own website today!Display photos and videos from Google's Picasa Web Albums in your own website, dynamically. Simple drop-in implementation -- just add two lines of code to your existing website. Display photos from Picasa Web albums on your own website today!","Categories
+XML, Dynamic Content"
+This project tries to be a complete system for information distribution based on the powerful RSS format for content distribution and the innovative SIP protocol to transmit all the contents to mobile devices. Both applications have been implementedThis project tries to be a complete system for information distribution based on the powerful RSS format for content distribution and the innovative SIP protocol to transmit all the contents to mobile devices. Both applications have been implemented,"Categories
+RSS"
+gdsii to gdt (graphics data text) format translator written in C/C++ that converts a binary gdsii file to a text format that is compact and easy to parse.gdsii to gdt (graphics data text) format translator written in C/C++ that converts a binary gdsii file to a text format that is compact and easy to parse.,"Categories
+Data Formats"
+"MapPSO is a tool for Ontology Alignment, which uses Discrete Particle Swarm Optimisation. A particle swarm is used to search for the optimal alignment. The algorithm is massively parallel and adapts naturally on parallel architectures.MapPSO is a tool for Ontology Alignment, which uses Discrete Particle Swarm Optimisation. A particle swarm is used to search for the optimal alignment. The algorithm is massively parallel and adapts naturally on parallel architectures.","Categories
+Distributed Computing, Artificial Intelligence, Semantic Web"
+XSLT stylesheets and related tools to convert documents from formatting objects (XSL FO) to ODF format. The resulting document can be opened in OpenOffice Writer.XSLT stylesheets and related tools to convert documents from formatting objects (XSL FO) to ODF format. The resulting document can be opened in OpenOffice Writer.,"Categories
+XML"
+A HTML scraper that uses machine learning frameworks to extract labelled fields from raw HTML. The project also involves the development of a tool to display the semi structured data generated by the scraper component.A HTML scraper that uses machine learning frameworks to extract labelled fields from raw HTML. The project also involves the development of a tool to display the semi structured data generated by the scraper component.,"Categories
+XML, HTML/XHTML, Search Engines, Information Analysis"
+"MySE is a tool for creating, editing and synchronizing movie subtitles in most popular formats as SubRip, Spruce, MicroDVD, SubViewer, TMPlayer. It has a powerful video preview. It supports OSDB protocol for subtitles searching, uploading and downloaMySE is a tool for creating, editing and synchronizing movie subtitles in most popular formats as SubRip, Spruce, MicroDVD, SubViewer, TMPlayer. It has a powerful video preview. It supports OSDB protocol for subtitles searching, uploading and downloa","Categories
+Integrated Development Environments (IDE), XML-RPC, Media Players"
+"DCF is based on ACE,it provides a optional Name-Service for locating service, a single interface for both client and server. Anyone can embed DCF in a program to implement communication easily.DCF is based on ACE,it provides a optional Name-Service for locating service, a single interface for both client and server. Anyone can embed DCF in a program to implement communication easily.","Categories
+SOAP, Streaming, DNS, Application Servers, eCommerce, Customer Service"
+"Lightweight system for running a weblog. Features multiple authors, topics, Trackback, RSS (amongst others). TruBlog comes with easy installation and strong caching mechanisms, it's localisable and produces a valid XHTML. Theming is done through CSS.Lightweight system for running a weblog. Features multiple authors, topics, Trackback, RSS (amongst others). TruBlog comes with easy installation and strong caching mechanisms, it's localisable and produces a valid XHTML. Theming is done through CSS.","Categories
+Text Processing, HTML/XHTML, Communications, Database, Dynamic Content"
+"YuLastfm is a Perl plugin for pidgin. YuLastfm fetches currently playing track information from Last.fm to update Pidgin\'s Tune Status, aka Now Playing, periodically. YuLastfm provides another function to help users share songs\' info to your friends.YuLastfm is a Perl plugin for pidgin. YuLastfm fetches currently playing track information from Last.fm to update Pidgin\'s Tune Status, aka Now Playing, periodically. YuLastfm provides another function to help users share songs\' info to your friends.","Categories
+MSN Messenger, Web Services, Social Networking"
+"RTF2HTML is a name for a cross-platform C++ library (DLL, OCX) and command-line utility, which is intended to convert documents from Rich Text Format (e.g. Word, OO Writer) to HTML. Its features are tiny size, speed, low mem usage and compact output.RTF2HTML is a name for a cross-platform C++ library (DLL, OCX) and command-line utility, which is intended to convert documents from Rich Text Format (e.g. Word, OO Writer) to HTML. Its features are tiny size, speed, low mem usage and compact output.","Categories
+Text Processing, HTML/XHTML, CGI Scripts, Documentation"
+"jRouter is a Web-based Linux router management system. It's designed to be a simple all-in-one router setup and management utility. Allows configuration of network interfaces, dhcpd, iptables, port forwarding, IP/MAC address filters.jRouter is a Web-based Linux router management system. It's designed to be a simple all-in-one router setup and management utility. Allows configuration of network interfaces, dhcpd, iptables, port forwarding, IP/MAC address filters.","Categories
+XML, Firewall"
+"A collection of C++ classes for work with socket io, networking, rpc, encryption, threading, pcre, logging etc.A collection of C++ classes for work with socket io, networking, rpc, encryption, threading, pcre, logging etc.","Categories
+XML-RPC, Frameworks, Internet"
+"==================================================
+The library is now maintained at Github, please go to
+http://vslavik.github.io/xmlwrapp/
+==================================================
+
+xmlwrapp is a modern style C++ library for working with XML data.==================================================
+The library is now maintained at Github, please go to
+http://vslavik.github.io/xmlwrapp/
+==================================================
+
+xmlwrapp is a modern style C++ library for working with XML data.","Categories
+XML"
+"A collection of REBOL mezzanine functions, both simple and advanced, that may have varied and disparate versions in the wild, and will benefit from being unified.A collection of REBOL mezzanine functions, both simple and advanced, that may have varied and disparate versions in the wild, and will benefit from being unified.","Categories
+XML, Interpreters, Libraries"
+PITy is a collection of Polish tax forms in SVG format with acompanying simple software to fill forms with data.PITy is a collection of Polish tax forms in SVG format with acompanying simple software to fill forms with data.,"Categories
+XML, Office/Business"
+PekiLine is a personal English vocabulary designed to learning. Words are translated on-line using a Google dictionary include a pronunciation. The application stores all searched words in the local XML file for more learning.PekiLine is a personal English vocabulary designed to learning. Words are translated on-line using a Google dictionary include a pronunciation. The application stores all searched words in the local XML file for more learning.,"Categories
+XML, Office Suites"
+"Liegkat-Archiv delivers ALK converters for spatial data formats (EDBS, BGRUND, SQD, DFK, HK) and coordinate systems used in German cadastral agencies before ALKIS into KML and JML. It delivers Python packages and XSL files.Liegkat-Archiv delivers ALK converters for spatial data formats (EDBS, BGRUND, SQD, DFK, HK) and coordinate systems used in German cadastral agencies before ALKIS into KML and JML. It delivers Python packages and XSL files.","Categories
+Data Formats, GIS"
+"EdgeExpressDB (eeDB) is a federated data abstraction system designed for integrating, interpreting, and visualizing very large biology datasets. It is designed for scaling beyond Petabytes and 10^13 objects. http://fantom.gsc.riken.jp/4/edgeexpressEdgeExpressDB (eeDB) is a federated data abstraction system designed for integrating, interpreting, and visualizing very large biology datasets. It is designed for scaling beyond Petabytes and 10^13 objects. http://fantom.gsc.riken.jp/4/edgeexpress","Categories
+Bio-Informatics, Data Visualization, AJAX"
+"With MajiX you can automatically transform RTF files (Microsoft Word files) in XML. MajiX is Java compliant. You can convert Headings, lists (numbered or not), tables, bold, italics, underline and some more.With MajiX you can automatically transform RTF files (Microsoft Word files) in XML. MajiX is Java compliant. You can convert Headings, lists (numbered or not), tables, bold, italics, underline and some more.","Categories
+Text Processing, XML, DocBook"
+"3PT (short for Python based PowerPoint) is a project in which a basic, native Python based PowerPoint in- and export has been implemented. The created PPT files are compatible with PPT 97-2003.3PT (short for Python based PowerPoint) is a project in which a basic, native Python based PowerPoint in- and export has been implemented. The created PPT files are compatible with PPT 97-2003.","Categories
+Data Formats, Office Suites"
+"Vitrax is a powerfull premodded phpbb, all mods are optimized and made compatible with eachother. Included more then 100 mods and addonsVitrax is a powerfull premodded phpbb, all mods are optimized and made compatible with eachother. Included more then 100 mods and addons","Categories
+Data Formats, BBS, Office/Business, Message Board, Software Development, System"
+"SvgUP is an open source platform for building interactive Web applications based on SVG components and other web standards like JavaScript, CSS, RDF and DTD. SvgUP allows the separation of concerns by dividing the applications into modules.SvgUP is an open source platform for building interactive Web applications based on SVG components and other web standards like JavaScript, CSS, RDF and DTD. SvgUP allows the separation of concerns by dividing the applications into modules.","Categories
+XML, WWW/HTTP, Frameworks, User Interface (UI), Usability, Vector Graphics"
+"toendaCMS - Your ideas ahead is a publishing system and open-source content management framework, based on a modular structure. It has a user-friendly interface, is simple and intuitive to use. Making it easy to build and maintain a website or weblog wittoendaCMS - Your ideas ahead is a publishing system and open-source content management framework, based on a modular structure. It has a user-friendly interface, is simple and intuitive to use. Making it easy to build and maintain a website or weblog wit","Categories
+XML, Dynamic Content, Site Management"
+The ODX-Lib (ODX Library) is a data access library for ODX data (ISO-22901). The library covers the more complex parts of the ISO standard by a common API and provides a common in-memory data model for tools dealing with such vehicle diagnostic data.The ODX-Lib (ODX Library) is a data access library for ODX data (ISO-22901). The library covers the more complex parts of the ISO standard by a common API and provides a common in-memory data model for tools dealing with such vehicle diagnostic data.,"Categories
+XML"
+A generic configuration management library for software that requires flexible configuration.A generic configuration management library for software that requires flexible configuration.,"Categories
+Data Formats, Software Development"
+"RiRa is the Free Persian Digital Library, providing access to Persian literature in public domain or explicitly authorized for public use.RiRa is the Free Persian Digital Library, providing access to Persian literature in public domain or explicitly authorized for public use.","Categories
+Data Formats, Library"
+PDF to TIF converterPDF to TIF converter,"Categories
+Data Formats, Fax, Office/Business"
+LaTeX2MathML is a PHP5 class that converts LaTeX math formulas to Presentation MathML. Current versions are still in development !LaTeX2MathML is a PHP5 class that converts LaTeX math formulas to Presentation MathML. Current versions are still in development !,"Categories
+XML, TeX/LaTeX, Research"
+"The XSD editor is a cross-platform XML editor. Although it can be used to edit any type of XML file, the editor is specifically designed to allow easy creation, editing, and validation of XML Schema (XSD) files.The XSD editor is a cross-platform XML editor. Although it can be used to edit any type of XML file, the editor is specifically designed to allow easy creation, editing, and validation of XML Schema (XSD) files.","Categories
+Text Processing, XML"
+"The Virtual USB Analyzer is a graphical tool for browsing traces of captured USB data. It supports logs generated by Ellisys hardware analyzers and VMware's software analyzer, and Linux's usbmon.The Virtual USB Analyzer is a graphical tool for browsing traces of captured USB data. It supports logs generated by Ellisys hardware analyzers and VMware's software analyzer, and Linux's usbmon.","Categories
+Data Formats, Debuggers, Virtual Machine, Hardware"
+- Easy jquery plugin to build tree views without recursive methods; - Only use DOM nodes and CSS; - No limits for depth; - Insert and Delete node methods are available- Easy jquery plugin to build tree views without recursive methods; - Only use DOM nodes and CSS; - No limits for depth; - Insert and Delete node methods are available,"Categories
+HTML/XHTML, JSON, AJAX"
+Java library for append hyphens to an ISBN numberJava library for append hyphens to an ISBN number,"Categories
+Data Formats"
+"Maintain your resume like the lazy slob you are! Write a simple text file, produce simple HTML. Don't screw around with XML or any other form of overkill.Maintain your resume like the lazy slob you are! Write a simple text file, produce simple HTML. Don't screw around with XML or any other form of overkill.","Categories
+Text Processing, HTML/XHTML"
+Jibe is a complete UI framework based on the javascript ExtJS library. It is tight to the Alfresco configuration and each UI component is configured on the server side and thus is easily reusable.Jibe is a complete UI framework based on the javascript ExtJS library. It is tight to the Alfresco configuration and each UI component is configured on the server side and thus is easily reusable.,"Categories
+Workflow Management, AJAX, Business Service Management"
+"Tin Can Jukebox is a very fast, full featured php/mysql web jukebox that can securely stream large mp3 collections over the internet to multiple users. Features include many browsing modes,dynamic downsampling,playists,language packs & user access controls. Programming 100% fueled by environmentally friendly beer.Tin Can Jukebox is a very fast, full featured php/mysql web jukebox that can securely stream large mp3 collections over the internet to multiple users. Features include many browsing modes,dynamic downsampling,playists,language packs & user access controls. Programming 100% fueled by environmentally friendly beer.","Categories
+Streaming, Front-Ends, MP3, AJAX"
+FastExcel is a pure java excel read/write component.It's FAST and TINY.FastExcel is a pure java excel read/write component.It's FAST and TINY.,"Categories
+DocBook"
+This project provides Blender Python scripts that will allow users to work with the propriatory mesh format used by the Orbiter space flight simulator.This project provides Blender Python scripts that will allow users to work with the propriatory mesh format used by the Orbiter space flight simulator.,"Categories
+Data Formats, Simulation Games, 3D Modeling"
+"aptimelib is a new, extremely portable, generic, 64-bit, time/date library. It implements the proposal by David R. Tribble ( http://david.tribble.com/text/c0xlongtime.html ), featuring epoch basis, microsecond granularity, and platform translation.aptimelib is a new, extremely portable, generic, 64-bit, time/date library. It implements the proposal by David R. Tribble ( http://david.tribble.com/text/c0xlongtime.html ), featuring epoch basis, microsecond granularity, and platform translation.","Categories
+Data Formats, Algorithms"
+7train is an XSLT 2.0 tool for generating METS files from XML input. It builds the basic METS structure so that the user can worry about what is specific to the user's project. Includes examples for generating METS from OAI and CONTENTdm records.7train is an XSLT 2.0 tool for generating METS files from XML input. It builds the basic METS structure so that the user can worry about what is specific to the user's project. Includes examples for generating METS from OAI and CONTENTdm records.,"Categories
+XML, Library"
+"ChitraKatha (Sanskrit for Story through pictures) is a Viewer for Compressed comic-book archives for Linux- Similar to CDisplay in windows. It currently supports comics in .CBR and .CBZ formats, and can be extended with the use of plugins.ChitraKatha (Sanskrit for Story through pictures) is a Viewer for Compressed comic-book archives for Linux- Similar to CDisplay in windows. It currently supports comics in .CBR and .CBZ formats, and can be extended with the use of plugins.","Categories
+Data Formats, Image Viewers"
+"Based on HL7 v.2.3.1 Orders & Results Reference Information Model (RIM)s, The project is NOT a CPOE per-se. Instead, the project provides ""applications"" that allow EHR's to perform Outpatient Orders and Results via HIE, and collect these into their EHRs to feed the EHR ""CPOE module / section"" (ex. with prescribed drugs, ordered labs and results, ....)
+
+The first module in the project was the ""ePrescribing application""; certified by RxHub and SureScripts back in 2007. New implementation needs to ""re-certify"" with SureScripts (which should not be much of a problem)
+
+Work on eLabs (using ELINCS, LOINC etc.) is being considered as participants join the project become available.
+
+The HL7 RIM allows for eImaging applications, eConsults applications, eReferrals applications, etc. Applications work independently, but through HIE, results come back to the provider to see it in its ""CPOE Section or Module""
+
+Requires licensing of the MediSpan Drug Database for ePrescribBased on HL7 v.2.3.1 Orders & Results Reference Information Model (RIM)s, The project is NOT a CPOE per-se. Instead, the project provides ""applications"" that allow EHR's to perform Outpatient Orders and Results via HIE, and collect these into their EHRs to feed the EHR ""CPOE module / section"" (ex. with prescribed drugs, ordered labs and results, ....)
+
+The first module in the project was the ""ePrescribing application""; certified by RxHub and SureScripts back in 2007. New implementation needs to ""re-certify"" with SureScripts (which should not be much of a problem)
+
+Work on eLabs (using ELINCS, LOINC etc.) is being considered as participants join the project become available.
+
+The HL7 RIM allows for eImaging applications, eConsults applications, eReferrals applications, etc. Applications work independently, but through HIE, results come back to the provider to see it in its ""CPOE Section or Module""
+
+Requires licensing of the MediSpan Drug Database for ePrescrib","Categories
+WWW/HTTP, Bio-Informatics, Web Services, eCommerce"
+"ZML, the Zeitung Markup Language, is a simple CMS for small newspapers. It was specifically designed to publish a student newspaper in print and on the Web. It uses LaTeX and XHTML. So far, it is documented in German only.ZML, the Zeitung Markup Language, is a simple CMS for small newspapers. It was specifically designed to publish a student newspaper in print and on the Web. It uses LaTeX and XHTML. So far, it is documented in German only.","Categories
+Text Processing, HTML/XHTML, TeX/LaTeX, Printing"
+"FIX4NET is a .NET Financial Information eXchange (FIX) protocol library. It includes a TCP/IP engine, messages built for FIX version(4.0/4.2/4.4), and flat file message database.FIX4NET is a .NET Financial Information eXchange (FIX) protocol library. It includes a TCP/IP engine, messages built for FIX version(4.0/4.2/4.4), and flat file message database.","Categories
+Data Formats, Communications, Investment Management"

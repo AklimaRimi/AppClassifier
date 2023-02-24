@@ -1,0 +1,653 @@
+Description,Category
+"LCD Smartie displays information on your LCD/VFD. It supports LCDs with a Hitachi HD44780 Controller via parallel port & Matrix Orbital and Crystalfontz serial/USB LCD/VFDs.
+
+Info includes: CPU temps, fan speed, the BBC World News, Stocks indexes etc.LCD Smartie displays information on your LCD/VFD. It supports LCDs with a Hitachi HD44780 Controller via parallel port & Matrix Orbital and Crystalfontz serial/USB LCD/VFDs.
+
+Info includes: CPU temps, fan speed, the BBC World News, Stocks indexes etc.","Categories
+Serial, Monitoring, Hardware"
+"tn5250 emulates a 5250 terminal or printer over telnet, for connecting to IBM iSeries and AS/400 computers running i5/OS and OS/400. It runs on any Unix or Windows system.tn5250 emulates a 5250 terminal or printer over telnet, for connecting to IBM iSeries and AS/400 computers running i5/OS and OS/400. It runs on any Unix or Windows system.","Categories
+Terminal Emulators, Telnet, Communications"
+LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.,"Categories
+Terminal Emulators, Internet, Presentation"
+"This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.","Categories
+Terminals, Desktop Environment, System"
+"A pre-configured MinGW focused on ease of use, integration, workflow and completeness. It's also portable and isolated OSS distro.A pre-configured MinGW focused on ease of use, integration, workflow and completeness. It's also portable and isolated OSS distro.","Categories
+Terminals, Software Development, Software Distribution"
+".NET VNC Viewer is a VNC viewer written entirely in C#. It is binary compatible with Smartphones, Pocket PCs and Windows desktops (.NET CF or .NET Framework). I write this because other VNC viewers on Pocket PC do not do full screen and screen rotation..NET VNC Viewer is a VNC viewer written entirely in C#. It is binary compatible with Smartphones, Pocket PCs and Windows desktops (.NET CF or .NET Framework). I write this because other VNC viewers on Pocket PC do not do full screen and screen rotation.","Categories
+Terminals, Systems Administration, Networking, Distributed Computing"
+rxvt is a colour vt102 terminal emulator intended as an xterm(1) replacement for users who do not require features such as Tektronix 4014 emulation and toolkit-style configurability. The rxvt terminal is light on system resources and otherwise packe dwitrxvt is a colour vt102 terminal emulator intended as an xterm(1) replacement for users who do not require features such as Tektronix 4014 emulation and toolkit-style configurability. The rxvt terminal is light on system resources and otherwise packe dwit,"Categories
+Terminal Emulators"
+PuTTY Session Manager is a tool that allows system administrators to organise their PuTTY sessions into folders and assign hotkeys to favourite sessions. Multiple sessions can be launched with one click. Requires MS Windows and the .NET 2.0 Runtime.PuTTY Session Manager is a tool that allows system administrators to organise their PuTTY sessions into folders and assign hotkeys to favourite sessions. Multiple sessions can be launched with one click. Requires MS Windows and the .NET 2.0 Runtime.,"Categories
+Terminals, Systems Administration"
+"A nearly full options telnet 5250 terminal emulator. It includes a programmers API to improve 5250 panels by adding field popups, hints, ...A nearly full options telnet 5250 terminal emulator. It includes a programmers API to improve 5250 panels by adding field popups, hints, ...","Categories
+Terminal Emulators, Telnet, Communications"
+"Windows Quake style console wrapper (cmd wrapper), that shows at Win+~ key and allow to run inside it different programs, e.g. FAR Manager.
+
+I'm not support this project anymore in next future. Need a programmer(s) to continue support console.Windows Quake style console wrapper (cmd wrapper), that shows at Win+~ key and allow to run inside it different programs, e.g. FAR Manager.
+
+I'm not support this project anymore in next future. Need a programmer(s) to continue support console.","Categories
+Terminal Emulators"
+"The Java Curses Library (JCurses) is a library for developing text terminal based applications using Java programming language. It is implemented as a Windowing toolkit similar to AWT, but built upon the UNIX ""curses"" windowing system.The Java Curses Library (JCurses) is a library for developing text terminal based applications using Java programming language. It is implemented as a Windowing toolkit similar to AWT, but built upon the UNIX ""curses"" windowing system.","Categories
+Terminals, Libraries"
+"Multiplatform Serial Port Module for Python (Win32, Jython, Linux, BSD and more)Multiplatform Serial Port Module for Python (Win32, Jython, Linux, BSD and more)","Categories
+Serial, Software Development"
+"BBSSH is a Blackberry Telnet and SSH client for legacy BlackBerry devices (OS 7.1 and earlier).
+
+Please see the official website at http://bbssh.org/ for features and downloads.BBSSH is a Blackberry Telnet and SSH client for legacy BlackBerry devices (OS 7.1 and earlier).
+
+Please see the official website at http://bbssh.org/ for features and downloads.","Categories
+Terminals, SSH"
+"Tilda is a Linux terminal taking after the likeness of many classic terminals from first person shooter games, Quake, Doom and Half-Life to name a few, where the terminal has no border and is hidden from the desktop till a key or keys are pressed.Tilda is a Linux terminal taking after the likeness of many classic terminals from first person shooter games, Quake, Doom and Half-Life to name a few, where the terminal has no border and is hidden from the desktop till a key or keys are pressed.","Categories
+Terminal Emulators"
+"A new system shell, which is (in some regards) stronger than even Windows Command prompt, made in pure C. This terminal is fairly new, and doesn't require any complex installing process. You just download it, and then immediately use it! HTerminal has an improved console interface with modern buttons. It only has 28 commands, but it is useful none the less!
+And, if you're already reading this, then why not give it a try? It is completely free and takes up less than 1 MB of space + you don't even have to install it. It is ready to be used the second you download it! And, worst case scenario, you just stop using it.
+
+And if you enjoy our app, give it a rating, and maybe tell us about newly discovered bugs! It is much appreciated because it gives feedback that helps us improve HTerminal for you.A new system shell, which is (in some regards) stronger than even Windows Command prompt, made in pure C. This terminal is fairly new, and doesn't require any complex installing process. You just download it, and then immediately use it! HTerminal has an improved console interface with modern buttons. It only has 28 commands, but it is useful none the less!
+And, if you're already reading this, then why not give it a try? It is completely free and takes up less than 1 MB of space + you don't even have to install it. It is ready to be used the second you download it! And, worst case scenario, you just stop using it.
+
+And if you enjoy our app, give it a rating, and maybe tell us about newly discovered bugs! It is much appreciated because it gives feedback that helps us improve HTerminal for you.","Categories
+Terminal Emulators, Interpreters, System Shells"
+"A Quake-like Console Emulator written in AutoHotkey.
+Configurable with Cmd and Console2 (https://sourceforge.net/projects/console/)A Quake-like Console Emulator written in AutoHotkey.
+Configurable with Cmd and Console2 (https://sourceforge.net/projects/console/)","Categories
+Terminal Emulators, Software Development, System"
+Download it for free for any use!Download it for free for any use!,"Categories
+Terminals, Terminal Emulators, System Shells"
+"Mcrcon is IPv6 compliant minecraft rcon client with bukkit coloring support. It is well suited for remote administration and to be used as part of automated server maintenance scripts.
+
+- Does not trigger ""IO: Broken pipe"" or ""IO: Connection reset"" spam bug on server side.
+- Has workaround for server side bug (https://bugs.mojang.com/browse/MC-154617)
+
+******************************************************************
+
+Further development and new releases has moved to Github
+Github page: https://github.com/Tiiffi/mcrcon
+
+Official upstream:
+https://github.com/Tiiffi/mcrcon/releases
+https://api.github.com/repos/tiiffi/mcrcon/releases/latest
+
+******************************************************************Mcrcon is IPv6 compliant minecraft rcon client with bukkit coloring support. It is well suited for remote administration and to be used as part of automated server maintenance scripts.
+
+- Does not trigger ""IO: Broken pipe"" or ""IO: Connection reset"" spam bug on server side.
+- Has workaround for server side bug (https://bugs.mojang.com/browse/MC-154617)
+
+******************************************************************
+
+Further development and new releases has moved to Github
+Github page: https://github.com/Tiiffi/mcrcon
+
+Official upstream:
+https://github.com/Tiiffi/mcrcon/releases
+https://api.github.com/repos/tiiffi/mcrcon/releases/latest
+
+******************************************************************","Categories
+Terminals, Games/Entertainment, Systems Administration, Minecraft Mods, Minecraft Clients"
+This project aims a proving an Hardware as a VSCP node (M2M) to store information remotely on the CAN network.This project aims a proving an Hardware as a VSCP node (M2M) to store information remotely on the CAN network.,"Categories
+Serial, Emulators, Log Rotation, Embedded Systems, Test and Measurement"
+"A convenient interface to execute shell-commands or browse the filesystem on your remote web server. Similar to a telnet or SSH connection. Use it for administration and maintenance of your web site using commands like ps, cat, gunzip, and more.
+
+Additional website: https://phpshell.sourceforge.io/A convenient interface to execute shell-commands or browse the filesystem on your remote web server. Similar to a telnet or SSH connection. Use it for administration and maintenance of your web site using commands like ps, cat, gunzip, and more.
+
+Additional website: https://phpshell.sourceforge.io/","Categories
+Terminals, CGI Scripts, Site Management, Systems Administration"
+"empty - run applications under pseudo-terminal (PTY) sessions to dialogue with interactive programs. Replace TCL/Expect with a simple tool and use your favorite shell (sh, bash, csh, tcsh, ksh, zsh, etc)empty - run applications under pseudo-terminal (PTY) sessions to dialogue with interactive programs. Replace TCL/Expect with a simple tool and use your favorite shell (sh, bash, csh, tcsh, ksh, zsh, etc)","Categories
+Terminals, Other/Nonlisted Topic, Software Development, System"
+"DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.","Categories
+Data Formats, Terminal Emulators, Desktop Environment, Software Development, Networking"
+Wintin is a scriptable MUD client for WindowsWintin is a scriptable MUD client for Windows,"Categories
+Telnet, Communications, Multi-User Dungeons (MUD)"
+"SerialPortNet is an open source serial port communication library for Microsoft .NET. It's written in c#, implements complete .NET 2.0 specifications, and is designed to allow for multiple OSes and add-on 3rd party Serial to Network adapters.SerialPortNet is an open source serial port communication library for Microsoft .NET. It's written in c#, implements complete .NET 2.0 specifications, and is designed to allow for multiple OSes and add-on 3rd party Serial to Network adapters.","Categories
+Serial, Communications, Networking, Hardware, Interface Engine/Protocol Translator"
+"mlterm is a multi-lingual terminal emulator , which supports
+various character sets and encodings in the world.mlterm is a multi-lingual terminal emulator , which supports
+various character sets and encodings in the world.","Categories
+Terminal Emulators"
+"Mrxvt is a multi-tabbed X terminal emulator based on rxvt. It is portable, lightweight and fast. It supports psuedo-transparency, background image (JPEG/PNG/XPM), tinting, NeXT/Rxvt/Xterm/SGI style scrollbar, multi-languages (CJK), XIM, freetype font...Mrxvt is a multi-tabbed X terminal emulator based on rxvt. It is portable, lightweight and fast. It supports psuedo-transparency, background image (JPEG/PNG/XPM), tinting, NeXT/Rxvt/Xterm/SGI style scrollbar, multi-languages (CJK), XIM, freetype font...","Categories
+Terminal Emulators"
+"dtelnet: A Free Telnet Client for Windows 16/32/64
+Emulates many terminal types 'linux,xterm,rxvt,konsole,vt100,vt320,vt420' (xterm[-256color] is the preferred), talks protocols 'telnet' and 'login'.
+Many customization options available.dtelnet: A Free Telnet Client for Windows 16/32/64
+Emulates many terminal types 'linux,xterm,rxvt,konsole,vt100,vt320,vt420' (xterm[-256color] is the preferred), talks protocols 'telnet' and 'login'.
+Many customization options available.","Categories
+Terminal Emulators, Telnet"
+Kitty is a fast GPU based terminal editor that allows you to offload rendering to the GPU for lower system load. Kitty works on Linux and macOS and uses OpenGL for rendering which makes it portable to other platforms similar to Unix.Kitty is a fast GPU based terminal editor that allows you to offload rendering to the GPU for lower system load. Kitty works on Linux and macOS and uses OpenGL for rendering which makes it portable to other platforms similar to Unix.,"Categories
+Terminal Emulators"
+"This Eclipse RCP application contains several free, useful network tools. Among others:
+- Standard network tools: ping, netstat, traceroute, nslookup
+- A port scanner
+- Servers: HTTP, FTP, TFTP servers
+- an HTTP proxy
+- A TCP tunnel
+- Clients: FTP client, embeddable PuTTY (for Windows only)This Eclipse RCP application contains several free, useful network tools. Among others:
+- Standard network tools: ping, netstat, traceroute, nslookup
+- A port scanner
+- Servers: HTTP, FTP, TFTP servers
+- an HTTP proxy
+- A TCP tunnel
+- Clients: FTP client, embeddable PuTTY (for Windows only)","Categories
+Telnet, Software Development, Networking, FTP Clients"
+"This is a Windows GUI application written in Python 2.7, used for Telnet and SSH into multiple Cisco Routers, Switches and Firewalls to send configuration commands. It will automate the tasks for Cisco network engineers and reduce the administrative overhead for repetitive tasks such as SNMP config, changing usernames, adding tacacs config etc. The application is very simple to use, with sample commands and hosts files saved inside, it's doesn't provide inter-active session, but it will do all the work silently and provide you with the sessions log.This is a Windows GUI application written in Python 2.7, used for Telnet and SSH into multiple Cisco Routers, Switches and Firewalls to send configuration commands. It will automate the tasks for Cisco network engineers and reduce the administrative overhead for repetitive tasks such as SNMP config, changing usernames, adding tacacs config etc. The application is very simple to use, with sample commands and hosts files saved inside, it's doesn't provide inter-active session, but it will do all the work silently and provide you with the sessions log.","Categories
+Terminals, Networking"
+The argparse4j is a command line argument parser library for Java based on Python's argparse.The argparse4j is a command line argument parser library for Java based on Python's argparse.,"Categories
+Terminal Emulators, Libraries"
+"If you want to learn the capitals of all the countries, this small quiz is your best choice, that it can help you to improve your culture about capitals.If you want to learn the capitals of all the countries, this small quiz is your best choice, that it can help you to improve your culture about capitals.","Categories
+Terminals, Console Games, Education"
+"This project is a relatively simple way to turn a PC into a terminal server client, including both RDP and VNC capability.
+
+Unfortunately, I do not have time available to continue this project. If anyone would like to do so, please get in touch!This project is a relatively simple way to turn a PC into a terminal server client, including both RDP and VNC capability.
+
+Unfortunately, I do not have time available to continue this project. If anyone would like to do so, please get in touch!","Categories
+Terminal Emulators, Systems Administration, Networking"
+fshell is the Symbian equivalent of bash + telnet + a posix-like set of command-line tools. In other words it's a console framework for Symbian OS with support for remote connections and a suite of tools for debugging the device.fshell is the Symbian equivalent of bash + telnet + a posix-like set of command-line tools. In other words it's a console framework for Symbian OS with support for remote connections and a suite of tools for debugging the device.,"Categories
+Terminals, System Shells"
+"This project has moved to GitHub. Search for QST there. The project will not be updated here, since SF is hard to work with.
+
+A QT-based serial terminal program. Works on Linux or Windows. Basic serial terminal for use with embedded systems.This project has moved to GitHub. Search for QST there. The project will not be updated here, since SF is hard to work with.
+
+A QT-based serial terminal program. Works on Linux or Windows. Basic serial terminal for use with embedded systems.","Categories
+Serial"
+The Model Operations Processing System (MOPS) has been designed to assist operations on model railroads. It has the look and feel of mainframe systems that would have been in used in the late 20th century.The Model Operations Processing System (MOPS) has been designed to assist operations on model railroads. It has the look and feel of mainframe systems that would have been in used in the late 20th century.,"Categories
+Terminals, Collection Management"
+A tn5250 terminal with QT frontendA tn5250 terminal with QT frontend,"Categories
+Terminal Emulators"
+"CULT is an Open Source software-only network bootable thin client Operating System that provides a complete solution for thin clients, PCs or virtualized hardware.CULT is an Open Source software-only network bootable thin client Operating System that provides a complete solution for thin clients, PCs or virtualized hardware.","Categories
+Terminal Emulators, Enterprise, Desktop Environment, Boot"
+"The utelnetd package provides a small and efficient stand alone telnet
+server daemon.The utelnetd package provides a small and efficient stand alone telnet
+server daemon.","Categories
+Telnet"
+"lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.","Categories
+Terminal Emulators, Security, System Shells, Internet"
+"This is a Python module for doing terminal-based user interaction. It wraps the dialog/Xdialog program, and provides a nice, object-oriented programming model.This is a Python module for doing terminal-based user interaction. It wraps the dialog/Xdialog program, and provides a nice, object-oriented programming model.","Categories
+Terminals, User Interface (UI), Libraries"
+Mussh is a shell script that allows you to execute a command or script over ssh on multiple hosts with one command. When possible mussh will use ssh-agent and RSA/DSA keys to minimize the need to enter your password more than once.Mussh is a shell script that allows you to execute a command or script over ssh on multiple hosts with one command. When possible mussh will use ssh-agent and RSA/DSA keys to minimize the need to enter your password more than once.,"Categories
+Terminals, System Shells, Systems Administration"
+"A high-performance, fully extensible, RFC 854 Telnet client library and framework. Use it as a stand-alone end user client (making use of the JTerminal Swing component), or use the event-based API to automate host interactions. Supports VT100 TN3270A high-performance, fully extensible, RFC 854 Telnet client library and framework. Use it as a stand-alone end user client (making use of the JTerminal Swing component), or use the event-based API to automate host interactions. Supports VT100 TN3270","Categories
+Terminal Emulators, Frameworks, Libraries"
+"A full featured, object-oriented, multi-platform C# wrapper for the curses terminal control library.A full featured, object-oriented, multi-platform C# wrapper for the curses terminal control library.","Categories
+Terminals, Object Oriented, Libraries"
+"Photo Kiosk software suited for Mini-labs.Has intuitively simple and singular interface. Need a regular PC to run and can be fully customized (logos, appearance, languages, etc) for photo shop own style.Photo Kiosk software suited for Mini-labs.Has intuitively simple and singular interface. Need a regular PC to run and can be fully customized (logos, appearance, languages, etc) for photo shop own style.","Categories
+Terminals, Point of Sale (POS), Desktop Environment, Presentation, Image Viewers, Digital Camera"
+GTKTerm is a small graphical shell like XTerm. It provides serveral terminals in one window and some nice features. It´s available for GTK 2.x.GTKTerm is a small graphical shell like XTerm. It provides serveral terminals in one window and some nice features. It´s available for GTK 2.x.,"Categories
+Terminal Emulators"
+"Bashish is a theme enviroment for text terminals. It can change colors, font, transparency and background image on a per-application basis. Additionally Bashish supports prompt changing on common shells such as bash, zsh and tcsh.Bashish is a theme enviroment for text terminals. It can change colors, font, transparency and background image on a per-application basis. Additionally Bashish supports prompt changing on common shells such as bash, zsh and tcsh.","Categories
+Terminal Emulators, Desktop Environment"
+"Next generation MudMaster GUI. Win32 GUI MUD client with triggers, aliases, scripting, and DLL plugins for extra features such as displaying chat and other in game channels in a separate window. Now supports a multi-line, variable width status bar and multiple interacting windows. User customized script buttons in the status bar let you add mouse click functionality. Has web interactivity via the /showMeViaWeb command. Mudmaster 2k6 also can be run on Linux under WINE.
+
+Questions? Ask them in our Sourceforge Forums ( https://sourceforge.net/p/mm2k6/discussion/ )
+
+More at http://mm2k6.sourceforge.net/mm2k6/Next generation MudMaster GUI. Win32 GUI MUD client with triggers, aliases, scripting, and DLL plugins for extra features such as displaying chat and other in game channels in a separate window. Now supports a multi-line, variable width status bar and multiple interacting windows. User customized script buttons in the status bar let you add mouse click functionality. Has web interactivity via the /showMeViaWeb command. Mudmaster 2k6 also can be run on Linux under WINE.
+
+Questions? Ask them in our Sourceforge Forums ( https://sourceforge.net/p/mm2k6/discussion/ )
+
+More at http://mm2k6.sourceforge.net/mm2k6/","Categories
+Telnet, Chat, Multi-User Dungeons (MUD), Internet"
+"FUNterm is a serial port terminal program for Windows. It offers basic serial connection. Because FUNterm is written using basic Win32 calls, with no high-level libraries, it works under Linux using Wine. The serial driver can be used separately.FUNterm is a serial port terminal program for Windows. It offers basic serial connection. Because FUNterm is written using basic Win32 calls, with no high-level libraries, it works under Linux using Wine. The serial driver can be used separately.","Categories
+Serial, Ham Radio, BBS"
+"The JWA library aims to provide a conversion from C to Delphi of as many headers as possible from the PSDK etc. The JWSCL (security library) is an advanced object-oriented framework for programming with the Windows security features (ACL, Tokens, etc.)The JWA library aims to provide a conversion from C to Delphi of as many headers as possible from the PSDK etc. The JWSCL (security library) is an advanced object-oriented framework for programming with the Windows security features (ACL, Tokens, etc.)","Categories
+Terminals, Cryptography, Frameworks"
+A Grid Security Interface (GSI) enabled SSH terminal application based on the SSHTools suite. Users can use GSI-SSHTerm as an easy way of connecting to the Grid.A Grid Security Interface (GSI) enabled SSH terminal application based on the SSHTools suite. Users can use GSI-SSHTerm as an easy way of connecting to the Grid.,"Categories
+Terminal Emulators"
+"ExtraPuTTY - fork of putty 0.67. (Add win32 API,shortcuts for pre-defined command,can use files instead of the registry,auto-reconnect, scripting a session with lua,integrates FTP,TFTP,Ymodem,Xmodem transfert protocols, integrates cygwin, zmodem, session manager,hyper link projects and others ...)ExtraPuTTY - fork of putty 0.67. (Add win32 API,shortcuts for pre-defined command,can use files instead of the registry,auto-reconnect, scripting a session with lua,integrates FTP,TFTP,Ymodem,Xmodem transfert protocols, integrates cygwin, zmodem, session manager,hyper link projects and others ...)","Categories
+Terminal Emulators, Telnet"
+"Shell Commander is a PHP script, that allows remote execution of shell
+commands (like SSH client) through a web browser.Shell Commander is a PHP script, that allows remote execution of shell
+commands (like SSH client) through a web browser.","Categories
+Terminal Emulators, WWW/HTTP"
+"KildClient is a mud client using the GTK toolkit. Its main feature is the support of Perl scripting. Other standard features of mud clients (triggers, gags, macros, etc.) are also supported.KildClient is a mud client using the GTK toolkit. Its main feature is the support of Perl scripting. Other standard features of mud clients (triggers, gags, macros, etc.) are also supported.","Categories
+Telnet, Role-Playing Games (RPG), Multi-User Dungeons (MUD)"
+"Cutecom is a graphical serial device terminal, IOW an alternative to minicom. It is aimed mainly at hardware developers who need a terminal to talk to their custom hardware. It is written using the Qt library and was inspired by the terminal Bray++.Cutecom is a graphical serial device terminal, IOW an alternative to minicom. It is aimed mainly at hardware developers who need a terminal to talk to their custom hardware. It is written using the Qt library and was inspired by the terminal Bray++.","Categories
+Serial"
+"Tabbed PuTTY Interface!
+
+Features:
+
+A tabbed interface and dockable windows, Fullscreen mode, Working with existing PuTTY binary, or allow you to download it directly from the official page, Let’s you export/import PuTTY connections to single file, Download it for free for any use!
+
+******************************************************************
+!INFORMATION!
+PuTTY manager morfing into Alternative Windows Console !
+
+Please visit:
+https://sourceforge.net/projects/windowsconsole/
+******************************************************************Tabbed PuTTY Interface!
+
+Features:
+
+A tabbed interface and dockable windows, Fullscreen mode, Working with existing PuTTY binary, or allow you to download it directly from the official page, Let’s you export/import PuTTY connections to single file, Download it for free for any use!
+
+******************************************************************
+!INFORMATION!
+PuTTY manager morfing into Alternative Windows Console !
+
+Please visit:
+https://sourceforge.net/projects/windowsconsole/
+******************************************************************","Categories
+Terminal Emulators, SSH"
+"AA means Ascii Art - the AAlib (ascii art GFX library), BB (audiovisual demonstration for your terminal), aview (image browser/animation player), AAvga (SVGAlib wrapper for AA-lib), ttyquake (text mode quake), aa3d (random dot stereogram generator)...AA means Ascii Art - the AAlib (ascii art GFX library), BB (audiovisual demonstration for your terminal), aview (image browser/animation player), AAvga (SVGAlib wrapper for AA-lib), ttyquake (text mode quake), aa3d (random dot stereogram generator)...","Categories
+Terminals, Games/Entertainment, Graphics"
+"A very simple software that bidirectionally forwards COM (serial) communication through a TCP/IP connection.
+
+Typical application: you want to use 2 devices (that are connected to each other using RS232 protocol), remotely. With this software you'll be able to operate them in different locations.
+
+Act as TCP server / TCP Client.
+
+Supports multiple clients.
+
+LICENSE: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/A very simple software that bidirectionally forwards COM (serial) communication through a TCP/IP connection.
+
+Typical application: you want to use 2 devices (that are connected to each other using RS232 protocol), remotely. With this software you'll be able to operate them in different locations.
+
+Act as TCP server / TCP Client.
+
+Supports multiple clients.
+
+LICENSE: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/","Categories
+Serial, Communications, Debuggers"
+"Qodem is a a terminal emulator that resembles the BBS-era Qmodem. Includes phonebook, scrollback, capture, X/Y/Zmodem, Kermit, ANSI (+ music) / Avatar / VT102 / Linux emulation, Unicode, and keyboard macros. Connects over serial, ssh, telnet, rlogin.Qodem is a a terminal emulator that resembles the BBS-era Qmodem. Includes phonebook, scrollback, capture, X/Y/Zmodem, Kermit, ANSI (+ music) / Avatar / VT102 / Linux emulation, Unicode, and keyboard macros. Connects over serial, ssh, telnet, rlogin.","Categories
+Serial, Terminal Emulators, Telnet, BBS, Multi-User Dungeons (MUD)"
+This is a set of Cocoa wrapper classes to access serial ports in Mac OS X.This is a set of Cocoa wrapper classes to access serial ports in Mac OS X.,"Categories
+Serial, Communications"
+"MaSheD is here, Work from anywhere; MaSheD is a MAil SHEell Daemon in python. The daemon parses new mails recieved in the mailbox and executes them in a shell returning the output. Just send mails to your email address and MaSheD will do the rest.MaSheD is here, Work from anywhere; MaSheD is a MAil SHEell Daemon in python. The daemon parses new mails recieved in the mailbox and executes them in a shell returning the output. Just send mails to your email address and MaSheD will do the rest.","Categories
+Terminals, Email, System Shells"
+GxTerminal-a GTK application wrriten in Python that emulates Gnome terminal applications with features like built-in command and password managers to ease using frequent commands and passwords without having to switch to other external applications.GxTerminal-a GTK application wrriten in Python that emulates Gnome terminal applications with features like built-in command and password managers to ease using frequent commands and passwords without having to switch to other external applications.,"Categories
+Terminal Emulators, GNOME"
+"usage: QNC
+-a,--append Append text to the last note
+-c,--clear Clear all notes
+-d,--delete <arg> Delete note by index or name
+-e,--erase Erase last note
+-h,--help Print help
+-l,--list Print note list
+-n,--name <arg> Specify note name
+-N,--nano Open in nano editor (If installed)
+-p,--print Print last note text
+-r,--rename <arg> Rename last note
+-s,--show <arg> Show note by name
+-S,--dbs Start DB server
+
+On Windows you can also use WIN + R, qnc <args>
+Manual start:
+java -jar QNC-0.1.0.jar
+
+Installation with scripts:
+Extract files from zip to any directory
+WINDOWS:
+run install.bat
+UNIX:
+run install.sh or execute command in terminal:
+alias qnc=""java -jar /path/to/jar/QNC-0.1.0.jar""
+
+https://github.com/DeMmAge/QuickNoteCLIusage: QNC
+-a,--append Append text to the last note
+-c,--clear Clear all notes
+-d,--delete <arg> Delete note by index or name
+-e,--erase Erase last note
+-h,--help Print help
+-l,--list Print note list
+-n,--name <arg> Specify note name
+-N,--nano Open in nano editor (If installed)
+-p,--print Print last note text
+-r,--rename <arg> Rename last note
+-s,--show <arg> Show note by name
+-S,--dbs Start DB server
+
+On Windows you can also use WIN + R, qnc <args>
+Manual start:
+java -jar QNC-0.1.0.jar
+
+Installation with scripts:
+Extract files from zip to any directory
+WINDOWS:
+run install.bat
+UNIX:
+run install.sh or execute command in terminal:
+alias qnc=""java -jar /path/to/jar/QNC-0.1.0.jar""
+
+https://github.com/DeMmAge/QuickNoteCLI","Categories
+Terminals, To-Do Lists, Documentation"
+"VPLE (Linux)
+
+Vulnerable Pentesting Lab Environment
+
+VPLE is an Intentionally Vulnerable Linux Virtual Machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs are Available.
+
+NOTE:- ""Only run in VMWare Pls Don’t run in VirtualBox""
+
+The default login and password is administrator: password.
+
+List Of All Labs in one VM:-
+1. Web-DVWA
+2. Mutillidae
+3. Webgoat
+4. Bwapp
+5. Juice-shop
+6. Security-ninjas
+7. WordPress
+
+We are adding more labs in few days🤗VPLE (Linux)
+
+Vulnerable Pentesting Lab Environment
+
+VPLE is an Intentionally Vulnerable Linux Virtual Machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs are Available.
+
+NOTE:- ""Only run in VMWare Pls Don’t run in VirtualBox""
+
+The default login and password is administrator: password.
+
+List Of All Labs in one VM:-
+1. Web-DVWA
+2. Mutillidae
+3. Webgoat
+4. Bwapp
+5. Juice-shop
+6. Security-ninjas
+7. WordPress
+
+We are adding more labs in few days🤗","Categories
+Terminal Emulators, Security, Virtual Machine, Penetration Testing"
+"This is a tiny windows application that shows current available COM ports in system. It also can be configured to run a command whenever user clicks on the port name.
+It could be very useful with combination of PUTTY for example.This is a tiny windows application that shows current available COM ports in system. It also can be configured to run a command whenever user clicks on the port name.
+It could be very useful with combination of PUTTY for example.","Categories
+Serial, System"
+"Is the assistant is personal assistant on Windows, created by OpenCoderpIs the assistant is personal assistant on Windows, created by OpenCoderp","Categories
+Terminals"
+ALL : https://sourceforge.net/projects/maestroftpubstro/files/ALL : https://sourceforge.net/projects/maestroftpubstro/files/,"Categories
+Telnet, Chat"
+"Advanced financial library for Lua language with 65 functionalities for various actions.
+
+For more libraries, go to: https://sourceforge.net/u/augustomanzano/profile.
+
+To know my curriculum vitae, go to: http://lattes.cnpq.br/8184615061457853 .
+
+Augusto Manzano
+http://www.manzano.pro.brAdvanced financial library for Lua language with 65 functionalities for various actions.
+
+For more libraries, go to: https://sourceforge.net/u/augustomanzano/profile.
+
+To know my curriculum vitae, go to: http://lattes.cnpq.br/8184615061457853 .
+
+Augusto Manzano
+http://www.manzano.pro.br","Categories
+Terminals, Library, Languages"
+Hyper is a free and open source terminal built on web technologies with the goal of creating a beautiful and extensible experience for command-line interface users.Hyper is a free and open source terminal built on web technologies with the goal of creating a beautiful and extensible experience for command-line interface users.,"Categories
+Terminals"
+"Ubuntu Server 16.10 LTS 32bit. Image for virtual machines (file format -VHD). Image should run in VirtualBox or VMware.
+
+The image was made especially for web developers.
+Fast start for any web project, and different frameworks or CMS.
+It was installed include:
+- xorg and Window Maker;
+- PHP7 and libraries;
+- PhpMyAdmin and MySQL 5.7 (server and client);
+- Nginx (no Apache);
+- Composer (global);
+- Exim4;
+- Mozilla Firefox;
+- xterm;
+- OpenSSH Server.
+
+Login: user
+Password: userUbuntu Server 16.10 LTS 32bit. Image for virtual machines (file format -VHD). Image should run in VirtualBox or VMware.
+
+The image was made especially for web developers.
+Fast start for any web project, and different frameworks or CMS.
+It was installed include:
+- xorg and Window Maker;
+- PHP7 and libraries;
+- PhpMyAdmin and MySQL 5.7 (server and client);
+- Nginx (no Apache);
+- Composer (global);
+- Exim4;
+- Mozilla Firefox;
+- xterm;
+- OpenSSH Server.
+
+Login: user
+Password: user","Categories
+Terminal Emulators, Frameworks, Virtual Machine"
+"Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it.
+
+All available documentation can be read online at http://conspy.sourceforge.net/Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it.
+
+All available documentation can be read online at http://conspy.sourceforge.net/","Categories
+Terminals, Systems Administration"
+"This repository is not updated anymore. The project name has changed to Picobat and is now hosted at https://github.com/darkbatcher/picobat
+
+Dos9 is a free, cross-platform, command prompt directly inspired from cmd.exe, the windows command prompt. Dos9 aims to be as compatible as possible with cmd.exe, but it also aims to eases batch by providing a large set of commands.This repository is not updated anymore. The project name has changed to Picobat and is now hosted at https://github.com/darkbatcher/picobat
+
+Dos9 is a free, cross-platform, command prompt directly inspired from cmd.exe, the windows command prompt. Dos9 aims to be as compatible as possible with cmd.exe, but it also aims to eases batch by providing a large set of commands.","Categories
+Terminals, Software Development, Interpreters"
+"Una aplicación en VB NET para actualizar IOS y pegar plantillas en sistemas Cisco, incluye servidor TFTP.Una aplicación en VB NET para actualizar IOS y pegar plantillas en sistemas Cisco, incluye servidor TFTP.","Categories
+Serial"
+"Version 0.5 is available.
+How to update:
+http://penbang.sysbase.org/install_tools/0.5/Readme.txt
+
+Penbang has been tested on crunchbang
+
+
+Penbang is a collection of tools aimed at the openbox environment. It includes Network Exploits, Vulnerability Assessment/Exploits, Network Analysis, Social Engineering tools, I.G.C, dsniff suite, and irpas. As well as a simple way of launching them.
+
+*machinebacon of LinuxBBQ has made a fine distribution out of penbang. http://linuxbbq.org/bbs/viewtopic.php?f=3&t=331Version 0.5 is available.
+How to update:
+http://penbang.sysbase.org/install_tools/0.5/Readme.txt
+
+Penbang has been tested on crunchbang
+
+
+Penbang is a collection of tools aimed at the openbox environment. It includes Network Exploits, Vulnerability Assessment/Exploits, Network Analysis, Social Engineering tools, I.G.C, dsniff suite, and irpas. As well as a simple way of launching them.
+
+*machinebacon of LinuxBBQ has made a fine distribution out of penbang. http://linuxbbq.org/bbs/viewtopic.php?f=3&t=331","Categories
+Terminals, Security, Internet, Penetration Testing"
+"smartCOM is a graphical serial device terminal, it's an alternative to minicom. It is aimed mainly at hardware developers who need a gui test tools to talk to their custom hardware. The GUI is written using the wxWidgets library, and using the tinyxml to save or load config.
+http://gnssinfo.com/2012/11/21/wiki-smartcom/smartCOM is a graphical serial device terminal, it's an alternative to minicom. It is aimed mainly at hardware developers who need a gui test tools to talk to their custom hardware. The GUI is written using the wxWidgets library, and using the tinyxml to save or load config.
+http://gnssinfo.com/2012/11/21/wiki-smartcom/","Categories
+Serial, Desktop Environment, Embedded Systems"
+"This project consists in a binary repack of other open source software:
+
+- Guacamole (html5 VNC/RDP client, http://guac-dev.org)
+
+- GateOne (html5/websocket SSH client, http://liftoffsoftware.com/Products/GateOne)
+
+The software is executed in a special environment and can run on several Linux distributions without installation. The environment contains a specific software stack, some Linux shared libraries and patched binaries (see patchELF) taken from Ubuntu 12.04 LTS.
+
+The only requirements are:
+- Linux kernel version >= 2.6.24
+- 64 bit architecture
+
+EXAMPLE INSTALLATION
+
+#> wget https://sourceforge.net/projects/html5remote/files/gateOne-standalone-beta2.x64.tgz/download -O gateOne-standalone-beta2.x64.tgz
+#> tar -zxf gateOne-standalone-beta2.x64.tgz
+#> cd gateone64-standalone
+#> ./gateone.sh start
+
+(click ""Browse All Files"" for full list!)
+
+For more informations see README file inside the archives. Other infos on technologies used will be provided soon.This project consists in a binary repack of other open source software:
+
+- Guacamole (html5 VNC/RDP client, http://guac-dev.org)
+
+- GateOne (html5/websocket SSH client, http://liftoffsoftware.com/Products/GateOne)
+
+The software is executed in a special environment and can run on several Linux distributions without installation. The environment contains a specific software stack, some Linux shared libraries and patched binaries (see patchELF) taken from Ubuntu 12.04 LTS.
+
+The only requirements are:
+- Linux kernel version >= 2.6.24
+- 64 bit architecture
+
+EXAMPLE INSTALLATION
+
+#> wget https://sourceforge.net/projects/html5remote/files/gateOne-standalone-beta2.x64.tgz/download -O gateOne-standalone-beta2.x64.tgz
+#> tar -zxf gateOne-standalone-beta2.x64.tgz
+#> cd gateone64-standalone
+#> ./gateone.sh start
+
+(click ""Browse All Files"" for full list!)
+
+For more informations see README file inside the archives. Other infos on technologies used will be provided soon.","Categories
+Terminals, Systems Administration, Networking"
+"MUTerm is a Com Port ( Rs232, Rs485 etc ) communication tool for external devices like as Modbus RTU , ASCII etc.
+Other feature is you can change log screen font to true type ASCII.
+
+Also you can write your communication routines with pascal script.
+
+Last modification is you can show commands in the the editor with by CTRL+Space.
+
+Additionally some TCP functions added yet. It can be run with internet or localnetwork Modbus TCP or Http.
+Another feature is TCP Server , you may create simple serever on your computer.
+
+MUTerm created with by Lazarus 1.4.x ~ 1.6.x.
+
+Also compiled in Linux Mint.
+
+Please, feel free for questions and you can use forum.MUTerm is a Com Port ( Rs232, Rs485 etc ) communication tool for external devices like as Modbus RTU , ASCII etc.
+Other feature is you can change log screen font to true type ASCII.
+
+Also you can write your communication routines with pascal script.
+
+Last modification is you can show commands in the the editor with by CTRL+Space.
+
+Additionally some TCP functions added yet. It can be run with internet or localnetwork Modbus TCP or Http.
+Another feature is TCP Server , you may create simple serever on your computer.
+
+MUTerm created with by Lazarus 1.4.x ~ 1.6.x.
+
+Also compiled in Linux Mint.
+
+Please, feel free for questions and you can use forum.","Categories
+Serial"
+"random echo 'O' or 'o'.
+e.g:
+./yoooooo.pl 20
+yOOoOooOOOOooooooOooorandom echo 'O' or 'o'.
+e.g:
+./yoooooo.pl 20
+yOOoOooOOOOooooooOooo","Categories
+Terminals"
+"Instantly create ASCII reports, multi-column tables, graphs, ...
+
+These can be rendered on screen, files and most importantly log streams.Instantly create ASCII reports, multi-column tables, graphs, ...
+
+These can be rendered on screen, files and most importantly log streams.","Categories
+Terminals, Logging"
+"This plugin aims to provide an intuitive way of filtering and sorting logs that are coming from ssh or serial connection.
+
+Operating systems: Windows/LinuxThis plugin aims to provide an intuitive way of filtering and sorting logs that are coming from ssh or serial connection.
+
+Operating systems: Windows/Linux","Categories
+Serial, Logging"
+"STALLioN is a cross-platform (currently Linux, Windows and FreeBSD) C/C++ library for developers wishing to use a terminal/CLI interface on multiple platforms but only want a single codebase.
+
+It aims to provide a consistent development API across multiple platforms so that
+separate code does not have to be created for each (often very different)
+terminal interface; simply use the functions in STALLioN and compile with the
+correct library for the chosen platform.
+
+Currently in very early development; most basic functions and output are done, input is coming together.
+
+It is licensed under the GPLv3 license, so is free software.STALLioN is a cross-platform (currently Linux, Windows and FreeBSD) C/C++ library for developers wishing to use a terminal/CLI interface on multiple platforms but only want a single codebase.
+
+It aims to provide a consistent development API across multiple platforms so that
+separate code does not have to be created for each (often very different)
+terminal interface; simply use the functions in STALLioN and compile with the
+correct library for the chosen platform.
+
+Currently in very early development; most basic functions and output are done, input is coming together.
+
+It is licensed under the GPLv3 license, so is free software.","Categories
+Terminals, Libraries"
+Student Management System is my first semester ITC (Introduction to Computer science) course project written in PASCAL language for my class fellows Syed Taqi Zaidi and Muhammad Minhaj. It uses linked-list data-structure to store student records. Also it uses BGI graphics in order to display colorful user-interface.Student Management System is my first semester ITC (Introduction to Computer science) course project written in PASCAL language for my class fellows Syed Taqi Zaidi and Muhammad Minhaj. It uses linked-list data-structure to store student records. Also it uses BGI graphics in order to display colorful user-interface.,"Categories
+Terminals, Software Development, Education"
+"A project to embed Lua on different hardware platforms. Currently ARM variants are targeted, but it should be possible to port it to any platform that is supported by the gcc+newlib combo. Platform access libraries will also be provided.A project to embed Lua on different hardware platforms. Currently ARM variants are targeted, but it should be possible to port it to any platform that is supported by the gcc+newlib combo. Platform access libraries will also be provided.","Categories
+Serial, Code Generators, Interpreters"
+"Sourceforge is no longer being updated! Check out our new home instead:
+
+http://github.com/nicrohobak/AnsiGL
+
+----------------------------------------
+
+AnsiGL is a C++ console text ""graphics"" API using simply ASCII characters and ANSI escape sequences, and all without the use of any video hardware. It strives to be a simple-to-use text-graphical toolkit have with an intuitive interface for developers, while maintaining a sufficiently high degree of flexibility.
+
+Many comparable APIs tend to either use video hardware, or are simply not as fully-featured as one might hope or expect, at least in the area of visual elements. AnsiGL can serve to bridge that gap easier, and since it ""renders"" to a std::string (or optionally, an ncurses WINDOW *), integration should be relatively easy with just about any project. Bindings to ncurses are provided to allow for rapid, fully-featured application development with old and familiar friends, along with AnsiGL.Sourceforge is no longer being updated! Check out our new home instead:
+
+http://github.com/nicrohobak/AnsiGL
+
+----------------------------------------
+
+AnsiGL is a C++ console text ""graphics"" API using simply ASCII characters and ANSI escape sequences, and all without the use of any video hardware. It strives to be a simple-to-use text-graphical toolkit have with an intuitive interface for developers, while maintaining a sufficiently high degree of flexibility.
+
+Many comparable APIs tend to either use video hardware, or are simply not as fully-featured as one might hope or expect, at least in the area of visual elements. AnsiGL can serve to bridge that gap easier, and since it ""renders"" to a std::string (or optionally, an ncurses WINDOW *), integration should be relatively easy with just about any project. Bindings to ncurses are provided to allow for rapid, fully-featured application development with old and familiar friends, along with AnsiGL.","Categories
+Terminals, Console Games, Graphics"
+"This is a simple Python script to automatic or manually start/stop your Touchpad of laptops on linux.
+easi to use:
+mswitch on/off/auto/calibrate
+you must be root to calibrate as a file is save in /etc/mswitch.conf.
+I put the file in /usr/bin.
+to calibrate you should remove any pointing device first (usb or PS/2 mouses) than run as root:
+#mswitch calibrate
+after you could run
+$mswitch auto
+if you want to manually switch
+mswitch ON/OFF.
+
+next version will have a GUI.This is a simple Python script to automatic or manually start/stop your Touchpad of laptops on linux.
+easi to use:
+mswitch on/off/auto/calibrate
+you must be root to calibrate as a file is save in /etc/mswitch.conf.
+I put the file in /usr/bin.
+to calibrate you should remove any pointing device first (usb or PS/2 mouses) than run as root:
+#mswitch calibrate
+after you could run
+$mswitch auto
+if you want to manually switch
+mswitch ON/OFF.
+
+next version will have a GUI.","Categories
+Terminals"
+"cPInstall is a small bash script created at first for UnderHost customer then released to public. Its purpose is to give access to install, optimize, secure any common cPanel plugin within one click. Useful for novice and helpful for advanced users.
+
+http://underhost.com - Offshore Hosting Solutions
+
+New version coming soon!cPInstall is a small bash script created at first for UnderHost customer then released to public. Its purpose is to give access to install, optimize, secure any common cPanel plugin within one click. Useful for novice and helpful for advanced users.
+
+http://underhost.com - Offshore Hosting Solutions
+
+New version coming soon!","Categories
+Telnet, Installation/Setup"
+"It is a simple implementation of SMTP client, which has functions of sending email and friends list. I will enrich its functionality gradually.It is a simple implementation of SMTP client, which has functions of sending email and friends list. I will enrich its functionality gradually.","Categories
+Terminal Emulators"
+"Online Command Line Interface is a project intended to bring feel of the classic command lines exhibited by GNU&Linux operating systems. It is written entirely in Javascript, and works on all major browsers.Online Command Line Interface is a project intended to bring feel of the classic command lines exhibited by GNU&Linux operating systems. It is written entirely in Javascript, and works on all major browsers.","Categories
+Terminal Emulators, User Interface (UI), Internet"
+"A minimal client for twitter, and when I say minimal, I mean console app!!!A minimal client for twitter, and when I say minimal, I mean console app!!!","Categories
+Terminals"
+"Ansifilter handles text files containing ANSI terminal escape codes.
+The command sequences may be stripped or be interpreted to generate formatted output (HTML, RTF, TeX, LaTeX, BBCode and Pango Markup).Ansifilter handles text files containing ANSI terminal escape codes.
+The command sequences may be stripped or be interpreted to generate formatted output (HTML, RTF, TeX, LaTeX, BBCode and Pango Markup).","Categories
+Text Processing, Terminal Emulators, Logging"
+Easy protocol simulator.Easy protocol simulator.,"Categories
+Telnet, Software Testing, File Sync"
+"Terminal client.
+Support telnet (23), ssh(22), ssl, Com Ports (windows/linux only) and local shell (linux pty).
+Features full ANSI, ASCII 8bit, scripts and logging.Terminal client.
+Support telnet (23), ssh(22), ssl, Com Ports (windows/linux only) and local shell (linux pty).
+Features full ANSI, ASCII 8bit, scripts and logging.","Categories
+Terminals"
+"A simple console application that calculates the shots to kill of AssaultCube weapons, depending on the amount of current health and armor.A simple console application that calculates the shots to kill of AssaultCube weapons, depending on the amount of current health and armor.","Categories
+Terminals, First Person Shooters"
+Have you ever seen a movie where someone just magically breaks in to the FBI using some terminal program that spits out nonsense in green text? Now you can do that too!Have you ever seen a movie where someone just magically breaks in to the FBI using some terminal program that spits out nonsense in green text? Now you can do that too!,"Categories
+Terminals, Games/Entertainment"
+"AnywhereTS is a configuration tool to create and deploy thin-clients, utilizing ordinary office PCs as clients. Your organization can re-use already existing office PCs instead of, or in addition to using dedicated thin clients.AnywhereTS is a configuration tool to create and deploy thin-clients, utilizing ordinary office PCs as clients. Your organization can re-use already existing office PCs instead of, or in addition to using dedicated thin clients.","Categories
+Terminals, Systems Administration, Remote Desktop"
+"This is a plugin I wrote for the gnome file-browser, nautilus. It allows to open a terminal and sync the working dir of the file-browser to the working dir of the terminal and vice-versa. This is NOT safe code. Use at own risk.This is a plugin I wrote for the gnome file-browser, nautilus. It allows to open a terminal and sync the working dir of the file-browser to the working dir of the terminal and vice-versa. This is NOT safe code. Use at own risk.","Categories
+Terminal Emulators, GNOME"
+"EasyVOST is a GUI frontend (written in Java) for a VNC connection over an SSH tunnel. By invoking plink.exe and vncviewer.exe with command line options, EasyVOST simplifies the SSH tunnel configuration and streamlines the whole VNC connection process.EasyVOST is a GUI frontend (written in Java) for a VNC connection over an SSH tunnel. By invoking plink.exe and vncviewer.exe with command line options, EasyVOST simplifies the SSH tunnel configuration and streamlines the whole VNC connection process.","Categories
+Terminals"
+Tous les programmes de 421!...Tous les programmes de 421!...,"Categories
+Terminals"
+"A serial terminal program designed for testing and debugging devices such as BACnet and ModBus controllers, but also usable as a general purpose serial terminal. It is written in Python using PyQt.A serial terminal program designed for testing and debugging devices such as BACnet and ModBus controllers, but also usable as a general purpose serial terminal. It is written in Python using PyQt.","Categories
+Serial"
+"Based on ROTE, libvterm is a terminal emulator library which attempts to mimic both VT100 and rxvt capabilities. Although the natural display apparatus is curses, the API is simple enough to grow and adopt other mechanisms.Based on ROTE, libvterm is a terminal emulator library which attempts to mimic both VT100 and rxvt capabilities. Although the natural display apparatus is curses, the API is simple enough to grow and adopt other mechanisms.","Categories
+Terminal Emulators"

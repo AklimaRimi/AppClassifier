@@ -1,0 +1,587 @@
+Description,Category
+"Net-SNMP provides tools and libraries relating to the Simple Network Management Protocol including: An extensible agent, an SNMP library, tools to request or set information from SNMP agents, tools to generate and handle SNMP traps, etc.Net-SNMP provides tools and libraries relating to the Simple Network Management Protocol including: An extensible agent, an SNMP library, tools to request or set information from SNMP agents, tools to generate and handle SNMP traps, etc.","Categories
+Monitoring, Internet"
+"Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
+
+We call it clientless because no plugins or client software are required.
+
+Thanks to HTML5, once Guacamole is installed on a server, all you need to access your desktops is a web browser.Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
+
+We call it clientless because no plugins or client software are required.
+
+Thanks to HTML5, once Guacamole is installed on a server, all you need to access your desktops is a web browser.","Categories
+Dynamic Content, AJAX, Remote Desktop"
+The IPCop Firewall is a Linux firewall distribution. It is geared towards home and SOHO users. The IPCop web-interface is very user-friendly and makes usage easy.The IPCop Firewall is a Linux firewall distribution. It is geared towards home and SOHO users. The IPCop web-interface is very user-friendly and makes usage easy.,"Categories
+Security, Firewall, Internet"
+"Advanced Onion Router is a portable client for the OR network and is intended to be an improved alternative for Tor+Vidalia+Privoxy bundle for Windows users. Some of the improvements include UNICODE paths, support for HTTP and HTTPS proxy protocols on the same Socks4/Socks5 port with HTTP header filtering that generates fake identity-dependent headers every time the identity is changed (proxy chains are also supported), support for NTLM proxies, a User Interface that makes Tor's options and actions more accessible, local banlist for forbidden addresses, private identity isolation, a point-and-click process interceptor that can redirect connections from programs that don't support proxies, also giving them fake information about the local system and support for .onion addresses. Also, it can estimate AS paths for all circuits and prevent AS path intersections, it can restrict circuits to be built using only nodes from different countries, can change circuit lengths and more.Advanced Onion Router is a portable client for the OR network and is intended to be an improved alternative for Tor+Vidalia+Privoxy bundle for Windows users. Some of the improvements include UNICODE paths, support for HTTP and HTTPS proxy protocols on the same Socks4/Socks5 port with HTTP header filtering that generates fake identity-dependent headers every time the identity is changed (proxy chains are also supported), support for NTLM proxies, a User Interface that makes Tor's options and actions more accessible, local banlist for forbidden addresses, private identity isolation, a point-and-click process interceptor that can redirect connections from programs that don't support proxies, also giving them fake information about the local system and support for .onion addresses. Also, it can estimate AS paths for all circuits and prevent AS path intersections, it can restrict circuits to be built using only nodes from different countries, can change circuit lengths and more.","Categories
+Cryptography, HTTP Servers, Firewall, Browser Extensions and Plugins, Encryption Algorithms"
+Please download from https://github.com/textbrowser/dooble/releases.Please download from https://github.com/textbrowser/dooble/releases.,"Categories
+Browsers"
+"Ajax+Mobile Java Web framework. With 200+ Ajax components and event-driven, Ajax/RIA apps are as effortless and rich as desktop apps and HTML/XUL pages. Support JSP/JSF/JavaEE/Spring, Ajax Push and Client-fusion; also Java/Groovy/Python/JavaScript.Ajax+Mobile Java Web framework. With 200+ Ajax components and event-driven, Ajax/RIA apps are as effortless and rich as desktop apps and HTML/XUL pages. Support JSP/JSF/JavaEE/Spring, Ajax Push and Client-fusion; also Java/Groovy/Python/JavaScript.","Categories
+Browsers, User Interface (UI), AJAX, Web Development Frameworks"
+"The project has a new home now: https://xtremedownloadmanager.com/
+For developers: https://github.com/subhra74/xdm
+
+Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, resume broken/dead downloads and schedule downloads.
+
+XDM seamlessly integrates with Google Chrome, Mozilla Firefox Quantum, Opera, Vivaldi and many popular browsers, to take over downloads and saving streaming videos from web.The project has a new home now: https://xtremedownloadmanager.com/
+For developers: https://github.com/subhra74/xdm
+
+Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, resume broken/dead downloads and schedule downloads.
+
+XDM seamlessly integrates with Google Chrome, Mozilla Firefox Quantum, Opera, Vivaldi and many popular browsers, to take over downloads and saving streaming videos from web.","Categories
+File Transfer Protocol (FTP), WWW/HTTP, Internet, Download Managers"
+"ModSecurity is a web application firewall that can work either embedded or as a reverse proxy. It provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.ModSecurity is a web application firewall that can work either embedded or as a reverse proxy. It provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.","Categories
+Security, HTTP Servers, Firewall"
+"dirLIST displays files and folders in a given HTTP/FTP directory. It has a wonderful interface with choice of Thumbnail or List view along with gorgeous icons for different file types. Includes a sleek gallery, web based mp3 player, file admin + moredirLIST displays files and folders in a given HTTP/FTP directory. It has a wonderful interface with choice of Thumbnail or List view along with gorgeous icons for different file types. Includes a sleek gallery, web based mp3 player, file admin + more","Categories
+Dynamic Content, Search Engines, Site Management"
+"PHP iCalendar is a php-based iCal file parser. Its based on v2.0 of the IETF spec. It displays iCal files in a nice logical, clean manner with day, week, month, and year navigation. It supports 25 languages.PHP iCalendar is a php-based iCal file parser. Its based on v2.0 of the IETF spec. It displays iCal files in a nice logical, clean manner with day, week, month, and year navigation. It supports 25 languages.","Categories
+WWW/HTTP"
+"Here is EditArea, a free javascript editor for source code. It allow to write well formated source code with line numerotation, tab support, search & replace (with regexp) and live syntax highlighting (customizable).
+
+Warning: this project is no more supportedHere is EditArea, a free javascript editor for source code. It allow to write well formated source code with line numerotation, tab support, search & replace (with regexp) and live syntax highlighting (customizable).
+
+Warning: this project is no more supported","Categories
+Dynamic Content, Site Management"
+phpBB is the world's leading Open Source flat style discussion forum software. It includes all the features you expect to find in today's top of the line software.phpBB is the world's leading Open Source flat style discussion forum software. It includes all the features you expect to find in today's top of the line software.,"Categories
+BBS, Message Board"
+"Shareaza is a very powerful multi-network peer-to-peer file-sharing client supporting Gnutella² G2, Gnutella, eDonkey2000 / eMule, DC++, HTTP, FTP and BitTorrent / DHT protocols for Windows or Wine.Shareaza is a very powerful multi-network peer-to-peer file-sharing client supporting Gnutella² G2, Gnutella, eDonkey2000 / eMule, DC++, HTTP, FTP and BitTorrent / DHT protocols for Windows or Wine.","Categories
+File Sharing, File Transfer Protocol (FTP), WWW/HTTP"
+"phpMyAdmin is a tool written in PHP intended to handle the administration of MySQL over the Web. Currently it can create and drop databases, create/drop/alter tables, delete/edit/add columns, execute any SQL statement, manage indexes on columns.phpMyAdmin is a tool written in PHP intended to handle the administration of MySQL over the Web. Currently it can create and drop databases, create/drop/alter tables, delete/edit/add columns, execute any SQL statement, manage indexes on columns.","Categories
+Front-Ends, Dynamic Content, Systems Administration"
+"qdPM is a free web-based project management tool suitable for a small team working on multiple projects. It is fully configurable. You can easy manage Projects, Tasks and People. Customers interact using a Ticket System that is integrated into Tasks.
+
+Compatible with php 7.2+ and php 8.0+qdPM is a free web-based project management tool suitable for a small team working on multiple projects. It is fully configurable. You can easy manage Projects, Tasks and People. Customers interact using a Ticket System that is integrated into Tasks.
+
+Compatible with php 7.2+ and php 8.0+","Categories
+Time Tracking, Project Management, Help Desk"
+"CppCMS is the web development framework written in C++, that is aimed on development of high performance web application. It uses different web APIs, most noticably FastCGI, as a web layer and various databases as a storage backed.CppCMS is the web development framework written in C++, that is aimed on development of high performance web application. It uses different web APIs, most noticably FastCGI, as a web layer and various databases as a storage backed.","Categories
+CGI Scripts, Frameworks, Web Development Frameworks"
+"Zero Install is a decentralised cross-distribution software installation system. Create one package that works everywhere! With dependency handling and automatic updates, full support for shared libraries, and integration with native package managersZero Install is a decentralised cross-distribution software installation system. Create one package that works everywhere! With dependency handling and automatic updates, full support for shared libraries, and integration with native package managers","Categories
+File Sharing, MARC and Book/Library Metadata, Software Distribution, Networking, Installation/Setup, Internet"
+"uGet, the Best Download Manager for Linux.
+
+uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app.
+
+- Quick Links -
+Features: https://ugetdm.com/features
+Screenshots: https://ugetdm.com/screenshots
+Blog: https://ugetdm.com/blog
+Support: https://ugetdm.com/qa
+Frequently Asked Questions (FAQs): https://ugetdm.com/qa/faq
+RSS Feed: https://ugetdm.com/rss
+GitHub: https://github.com/chhuang-oneuGet, the Best Download Manager for Linux.
+
+uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app.
+
+- Quick Links -
+Features: https://ugetdm.com/features
+Screenshots: https://ugetdm.com/screenshots
+Blog: https://ugetdm.com/blog
+Support: https://ugetdm.com/qa
+Frequently Asked Questions (FAQs): https://ugetdm.com/qa/faq
+RSS Feed: https://ugetdm.com/rss
+GitHub: https://github.com/chhuang-one","Categories
+GNOME, File Transfer Protocol (FTP), WWW/HTTP, Download Managers"
+Note: Liferea has moved to Github. Please check out https://github.com/lwindolf/lifereaNote: Liferea has moved to Github. Please check out https://github.com/lwindolf/liferea,"Categories
+XML, RSS, Communications, WWW/HTTP"
+"GeoTools is an open source (LGPL) Java code library which provides standards compliant methods for the manipulation of geospatial data.
+
+GeoTools is an Open Source Geospatial Foundation project.
+
+The GeoTools library data structures are based on Open Geospatial Consortium (OGC) specifications.GeoTools is an open source (LGPL) Java code library which provides standards compliant methods for the manipulation of geospatial data.
+
+GeoTools is an Open Source Geospatial Foundation project.
+
+The GeoTools library data structures are based on Open Geospatial Consortium (OGC) specifications.","Categories
+Front-Ends, WWW/HTTP, Image Viewers, Graphic Design, Data Visualization, GIS"
+"TCPDF is a PHP class for generating PDF documents without requiring external extensions. TCPDF Supports UTF-8, Unicode, RTL languages, XHTML, Javascript, digital signatures, barcodes and much more.
+
+IMPORTANT:
+This version will be soon marked as deprecated and replaced by a new version currently under development: https://github.com/tecnickcom/tc-lib-pdfTCPDF is a PHP class for generating PDF documents without requiring external extensions. TCPDF Supports UTF-8, Unicode, RTL languages, XHTML, Javascript, digital signatures, barcodes and much more.
+
+IMPORTANT:
+This version will be soon marked as deprecated and replaced by a new version currently under development: https://github.com/tecnickcom/tc-lib-pdf","Categories
+Dynamic Content, Printing, PDF"
+"WURFL lets you detect thousands of types of mobile devices accessing your web service and take decisions based on what that device can or cannot do. With WURFL, you can optimize mobile web content, effectively deliver advertisements, or analyze mobile traffic.
+WURFL will read HTTP requests from mobile browsers and search the Device Description Repository (DDR) for the corresponding device properties (i.e. capabilities). WURFL will return the device capabilities to your application, which can leverage this knowledge to optimize the mobile experience. WURFL can detect over 10000 device types and offers over 500 device capabilities, including desktops, smartphones, tablets, feature phones, smart TV’s and many other emerging devices types.
+WURFL addresses the needs of many types of users, from large enterprises with high performance requirements, to regular companies who need a solution that is simple to deploy, integrate and customize.
+WURFL is provided by ScientiaMobile, Inc.WURFL lets you detect thousands of types of mobile devices accessing your web service and take decisions based on what that device can or cannot do. With WURFL, you can optimize mobile web content, effectively deliver advertisements, or analyze mobile traffic.
+WURFL will read HTTP requests from mobile browsers and search the Device Description Repository (DDR) for the corresponding device properties (i.e. capabilities). WURFL will return the device capabilities to your application, which can leverage this knowledge to optimize the mobile experience. WURFL can detect over 10000 device types and offers over 500 device capabilities, including desktops, smartphones, tablets, feature phones, smart TV’s and many other emerging devices types.
+WURFL addresses the needs of many types of users, from large enterprises with high performance requirements, to regular companies who need a solution that is simple to deploy, integrate and customize.
+WURFL is provided by ScientiaMobile, Inc.","Categories
+Browsers, Dynamic Content, Mobile"
+"Uniform Server is a free lightweight WAMP server solution for Windows.
+Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer.
+
+No installation required! No registry dust! Just unpack and fire up!
+
+-------
+Note: The latest version of Uniform Server requires a **64-bit version** of Windows.
+-------Uniform Server is a free lightweight WAMP server solution for Windows.
+Build using a modular design approach, it includes the latest versions of Apache, MySQL or MariaDB, PHP (with version switching), phpMyAdmin or Adminer.
+
+No installation required! No registry dust! Just unpack and fire up!
+
+-------
+Note: The latest version of Uniform Server requires a **64-bit version** of Windows.
+-------","Categories
+Database Engines/Servers, HTTP Servers, Web Development"
+"PhpGedView is a revolutionary genealogy program which allows you to view and edit your genealogy on your website. It has full privacy functions, can import from GEDCOM files, and supports multimedia. It also simplifies family collaboration.PhpGedView is a revolutionary genealogy program which allows you to view and edit your genealogy on your website. It has full privacy functions, can import from GEDCOM files, and supports multimedia. It also simplifies family collaboration.","Categories
+Dynamic Content, Religion and Philosophy, Genealogy"
+"PHPfileNavigator is a PHP Open Source Web File Manager. Easy to install and use. All in CSS and Valid XHTML 1.1, allow manage all possibilities with files and folders.PHPfileNavigator is a PHP Open Source Web File Manager. Easy to install and use. All in CSS and Valid XHTML 1.1, allow manage all possibilities with files and folders.","Categories
+Site Management, File Managers"
+wxDev-C++ is an opensource wxWidgets Dialog designer that mimics the Delphi/Borland C++ Builder designer.wxDev-C++ is an opensource wxWidgets Dialog designer that mimics the Delphi/Borland C++ Builder designer.,"Categories
+Integrated Development Environments (IDE), Dynamic Content, Software Development"
+"Concrete CMS (formerly concrete5) is an Open Source Content Management System for teams. You can have the best of both worlds and run a secure website your content contributors will love using with Concrete CMS.
+
+The user experience is built around in-context editing, it’s as easy to use as a word processor.
+You'll spend less time training people, and less time having to fix things yourself. As an open source framework you can build complex applications as features like permissions, workflow, file management, calendar, forms, SEO and so much more are built right in. A marketplace of add-ons & themes and active community can help you finish building an amazing product using Concrete CMS.Concrete CMS (formerly concrete5) is an Open Source Content Management System for teams. You can have the best of both worlds and run a secure website your content contributors will love using with Concrete CMS.
+
+The user experience is built around in-context editing, it’s as easy to use as a word processor.
+You'll spend less time training people, and less time having to fix things yourself. As an open source framework you can build complex applications as features like permissions, workflow, file management, calendar, forms, SEO and so much more are built right in. A marketplace of add-ons & themes and active community can help you finish building an amazing product using Concrete CMS.","Categories
+Frameworks, Content Management Systems (CMS), Blogging"
+"Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes.
+
+It has application for both stand-alone systems and multi-user networks.Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes.
+
+It has application for both stand-alone systems and multi-user networks.","Categories
+WWW/HTTP, Firewall"
+"""Software made the wiki way""
+
+A full-featured, web-based, tightly integrated, all-in-one Wiki+CMS+Groupware, Free Source Software (GNU/LGPL), using PHP, MySQL, Zend Framework, jQuery and Smarty. Tiki can be used to create all kinds of Web applications, sites, portals, knowledge base, intranets, and extranets.
+
+Tiki is the Open Source Web Application with the most built-in features. Highly configurable and modular, all features are optional and administered via a web-based interface.
+
+Major features include a wiki engine, news articles, discussion forums, newsletters, blogs, file galleries, bug and issue trackers (form generator), polls/surveys and quizzes, banner management system, calendar, maps, mobile , RSS feeds, category system, tags, an advanced themeing engine, spreadsheet, drawings, inter-user messaging, menus, advanced permission system for users and groups, search engine, external authentication, etc.
+
+Security reports: https://security.tiki.org""Software made the wiki way""
+
+A full-featured, web-based, tightly integrated, all-in-one Wiki+CMS+Groupware, Free Source Software (GNU/LGPL), using PHP, MySQL, Zend Framework, jQuery and Smarty. Tiki can be used to create all kinds of Web applications, sites, portals, knowledge base, intranets, and extranets.
+
+Tiki is the Open Source Web Application with the most built-in features. Highly configurable and modular, all features are optional and administered via a web-based interface.
+
+Major features include a wiki engine, news articles, discussion forums, newsletters, blogs, file galleries, bug and issue trackers (form generator), polls/surveys and quizzes, banner management system, calendar, maps, mobile , RSS feeds, category system, tags, an advanced themeing engine, spreadsheet, drawings, inter-user messaging, menus, advanced permission system for users and groups, search engine, external authentication, etc.
+
+Security reports: https://security.tiki.org","Categories
+Office Suites, Content Management Systems (CMS), Wiki, Shopping Carts"
+"winPenPack is a project that aims at collecting the most frequently used and most popular open source applications made portable, so that they can be executed without installation from any USB Flash Drive or Hard Disk. The winPenPack suites offer a wide range of portable applications like office tools, internet tools, multimedia tools, development tools, security applications and other frequently used utilities. Everything you need, completely free, open source and portable!winPenPack is a project that aims at collecting the most frequently used and most popular open source applications made portable, so that they can be executed without installation from any USB Flash Drive or Hard Disk. The winPenPack suites offer a wide range of portable applications like office tools, internet tools, multimedia tools, development tools, security applications and other frequently used utilities. Everything you need, completely free, open source and portable!","Categories
+Communications, Office Suites, Security, System, Internet, Graphics"
+"aria2 is a multi-protocol & multi-source, cross platform download utility. The supported protocols are HTTP(S), FTP, BitTorrent, Metalink. It can download a file from multiple sources/protocols and tries to utilize your maximum download bandwidth.aria2 is a multi-protocol & multi-source, cross platform download utility. The supported protocols are HTTP(S), FTP, BitTorrent, Metalink. It can download a file from multiple sources/protocols and tries to utilize your maximum download bandwidth.","Categories
+BitTorrent, File Transfer Protocol (FTP), WWW/HTTP"
+DjVu is a web-centric format for distributing documents and images. DjVu was created at AT&T Labs-Research and later sold to LizardTech Inc. DjVuLibre is a GPL implementation of DjVu maintained by the original inventors of DjVu.DjVu is a web-centric format for distributing documents and images. DjVu was created at AT&T Labs-Research and later sold to LizardTech Inc. DjVuLibre is a GPL implementation of DjVu maintained by the original inventors of DjVu.,"Categories
+Internet, Image Viewers"
+"eXtplorer is a PHP-based File Manager. It allows to browse directories, edit, copy, move, delete, search, upload and download files, create & extract archives, create new files and directories, change file permissions (chmod) and much more.eXtplorer is a PHP-based File Manager. It allows to browse directories, edit, copy, move, delete, search, upload and download files, create & extract archives, create new files and directories, change file permissions (chmod) and much more.","Categories
+WWW/HTTP"
+"""Mibew Messenger"" - is unique software allowing visitors of your site to chat with your operators.
+
+This repo should be treated as an obsolete. For modern version of Mibew Messenger see https://sourceforge.net/projects/mibew/""Mibew Messenger"" - is unique software allowing visitors of your site to chat with your operators.
+
+This repo should be treated as an obsolete. For modern version of Mibew Messenger see https://sourceforge.net/projects/mibew/","Categories
+Chat, CRM, Help Desk, Messaging"
+YaBB is a FREE Perl forum (bulletin board) system that has rivaled professional message boards for years. YaBB provides chat for visitors where they can post any time and reply to anyone!YaBB is a FREE Perl forum (bulletin board) system that has rivaled professional message boards for years. YaBB provides chat for visitors where they can post any time and reply to anyone!,"Categories
+BBS, Message Board"
+"The archive-crawler project is building Heritrix: a flexible, extensible, robust, and scalable web crawler capable of fetching, archiving, and analyzing the full diversity and breadth of internet-accesible content.The archive-crawler project is building Heritrix: a flexible, extensible, robust, and scalable web crawler capable of fetching, archiving, and analyzing the full diversity and breadth of internet-accesible content.","Categories
+WWW/HTTP, Library, Archiving"
+Simple Remoting for Web ApplicationsSimple Remoting for Web Applications,"Categories
+Internet, JSON"
+"w3m is a pager and/or text-based browser. It can handle table, cookies,
+authentication, and almost everything except JavaScript.w3m is a pager and/or text-based browser. It can handle table, cookies,
+authentication, and almost everything except JavaScript.","Categories
+Browsers"
+The Album Art Downloader is a program designed to make life easier for anyone who wishes to find and update their album art for their music collection. The sources for the pictures can be defined by creating plugin scripts.The Album Art Downloader is a program designed to make life easier for anyone who wishes to find and update their album art for their music collection. The sources for the pictures can be defined by creating plugin scripts.,"Categories
+WWW/HTTP, Sound/Audio"
+"PHP Server Monitor is a script that checks whether your websites and servers are up and running. It comes with a web based user interface where you can manage your services and websites, and you can manage users for each server with a mobile number and email address.
+
+For services a connection will be made to the entered ip or domain, on the given port. This way you can check if certain services on your machine are still running. To check your IMAP service for example, enter port 143.
+
+For websites you can enter a link and it will check the HTTP status code. If the HTTP status code is in the 4xx range or a timeout, it means an error occurred and the tool will start sending out notifications. You can also set a regular expression to match for content on the page itself.
+
+Each server has its own settings regarding notification. You can choose for email, text message (SMS) and Pushover.net notifications.
+
+For more info please visit http://www.phpservermonitor.orgPHP Server Monitor is a script that checks whether your websites and servers are up and running. It comes with a web based user interface where you can manage your services and websites, and you can manage users for each server with a mobile number and email address.
+
+For services a connection will be made to the entered ip or domain, on the given port. This way you can check if certain services on your machine are still running. To check your IMAP service for example, enter port 143.
+
+For websites you can enter a link and it will check the HTTP status code. If the HTTP status code is in the 4xx range or a timeout, it means an error occurred and the tool will start sending out notifications. You can also set a regular expression to match for content on the page itself.
+
+Each server has its own settings regarding notification. You can choose for email, text message (SMS) and Pushover.net notifications.
+
+For more info please visit http://www.phpservermonitor.org","Categories
+Link Checking, Monitoring"
+"FreeMarker is a template engine. That is, it provides an easy way to generate text (HTML, source code, configuration files, emails, etc.) that depends on changing data. It's designed to separate the rendering/formatting logic (like visual design, HTML issues, etc.) from the backing application logic and technical complexity. It has a flexible API so you can integrate it into your application the way that best fits it.FreeMarker is a template engine. That is, it provides an easy way to generate text (HTML, source code, configuration files, emails, etc.) that depends on changing data. It's designed to separate the rendering/formatting logic (like visual design, HTML issues, etc.) from the backing application logic and technical complexity. It has a flexible API so you can integrate it into your application the way that best fits it.","Categories
+Dynamic Content, Software Development"
+"The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software, including the Indri search engine in C++, the Galago search engine research framework in Java, the RankLib learning to rank library, ClueWeb09 and ClueWeb12 datasets and the Sifaka data mining application.The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software, including the Indri search engine in C++, the Galago search engine research framework in Java, the RankLib learning to rank library, ClueWeb09 and ClueWeb12 datasets and the Sifaka data mining application.","Categories
+Database Engines/Servers, Search Engines"
+OpenVRML is a cross-platform VRML and X3D browser and C++ runtime library.OpenVRML is a cross-platform VRML and X3D browser and C++ runtime library.,"Categories
+GNOME, Browsers, 3D Rendering"
+"K-Meleon is a fast and customizable web browser that can be used instead of Internet Explorer on Windows. Powered by the same Gecko engine as the Firefox and Mozilla browsers, K-Meleon provides users with a secure browsing experience.K-Meleon is a fast and customizable web browser that can be used instead of Internet Explorer on Windows. Powered by the same Gecko engine as the Firefox and Mozilla browsers, K-Meleon provides users with a secure browsing experience.","Categories
+Browsers"
+"Zenoss provides software-defined IT operations for the world’s largest organizations. We deliver the ultimate level of IT service health with simplicity by providing the most granular and intelligent IT service modeling possible, at any scale, and sharing these unique insights with other IT operations management (ITOM) tools to make them more efficient.
+
+Zenoss Community Edition is not a “demo” or trial version of Zenoss Enterprise or Zenoss Cloud! Before You install Zenoss Community Edition, check out Zenoss Cloud, our new Saas-based platform for intelligent IT operations management, designed for enterprise hybrid IT environments.
+
+https://www.zenoss.com/product/zenoss-cloud-it-operations-management
+
+Zenoss Cloud extends your monitoring capabilities well beyond those available in our Community Edition. View the differences here:
+
+https://www.zenoss.com/get-started
+
+Features of Zenoss Cloud include:Zenoss provides software-defined IT operations for the world’s largest organizations. We deliver the ultimate level of IT service health with simplicity by providing the most granular and intelligent IT service modeling possible, at any scale, and sharing these unique insights with other IT operations management (ITOM) tools to make them more efficient.
+
+Zenoss Community Edition is not a “demo” or trial version of Zenoss Enterprise or Zenoss Cloud! Before You install Zenoss Community Edition, check out Zenoss Cloud, our new Saas-based platform for intelligent IT operations management, designed for enterprise hybrid IT environments.
+
+https://www.zenoss.com/product/zenoss-cloud-it-operations-management
+
+Zenoss Cloud extends your monitoring capabilities well beyond those available in our Community Edition. View the differences here:
+
+https://www.zenoss.com/get-started
+
+Features of Zenoss Cloud include:","Categories
+Enterprise, Monitoring, Cloud Services"
+"EasyPHP Devserver & Webserver
+Develop with Devserver & Host with Webserver
+PHP, Apache, MySQL, Nginx, PhpMyAdmin, Xdebug, PostgreSQL, MongoDB, Python, Ruby... for Windows.
+Devserver installs a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
+Webserver turns your computer into a ready-to-use personal web hosting server. You can host whatever you want directly on your computer and share it on internet like any website. Your computer acts like a web hosting service and allows you to make your website / application / demo accessible via internet. The server is fully configurable, modular and easy to update and extend.EasyPHP Devserver & Webserver
+Develop with Devserver & Host with Webserver
+PHP, Apache, MySQL, Nginx, PhpMyAdmin, Xdebug, PostgreSQL, MongoDB, Python, Ruby... for Windows.
+Devserver installs a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
+Webserver turns your computer into a ready-to-use personal web hosting server. You can host whatever you want directly on your computer and share it on internet like any website. Your computer acts like a web hosting service and allows you to make your website / application / demo accessible via internet. The server is fully configurable, modular and easy to update and extend.","Categories
+WWW/HTTP, Dynamic Content, HTTP Servers"
+"Please install the latest version >4.0, because it uses the new Google People API. The Google Contacts API is now deprecated and is scheduled for sunset on June 15, 2021.
+
+GO Contact Sync Mod synchronizes your Microsoft Outlook contacts with your Google Mail address book, including pictures, categories and contact notes.
+It also syncs your Outlook Calendar Appointments on demand to Google Calendar. This Mod fork adds many enhancements and bug fixes to the obviously dead project 'Go Contact Sync'.
+
+Minimum requirement for GO Contact Sync Mod is .NET 4.7.2 and Windows 7 (32 or 64 bit).Please install the latest version >4.0, because it uses the new Google People API. The Google Contacts API is now deprecated and is scheduled for sunset on June 15, 2021.
+
+GO Contact Sync Mod synchronizes your Microsoft Outlook contacts with your Google Mail address book, including pictures, categories and contact notes.
+It also syncs your Outlook Calendar Appointments on demand to Google Calendar. This Mod fork adds many enhancements and bug fixes to the obviously dead project 'Go Contact Sync'.
+
+Minimum requirement for GO Contact Sync Mod is .NET 4.7.2 and Windows 7 (32 or 64 bit).","Categories
+Email, Internet, File Sync"
+"Torrent Search is a cross-platform application, allowing to search for torrent files on different websites. Supported websites are integrated through plugins, which allows to easily extend the number of websites supported.Torrent Search is a cross-platform application, allowing to search for torrent files on different websites. Supported websites are integrated through plugins, which allows to easily extend the number of websites supported.","Categories
+BitTorrent, Search Engines"
+sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.,"Categories
+Database, Security, Dynamic Content, Penetration Testing"
+"Development has moved to GitHub: https://github.com/s9y/Serendipity!
+
+PHP blog with all the common features (comments,track/pingbacks,RSS) plus cool extras:Click'n' blog admin,extensible event-driven plugin API,easy styling, multiuser,image management,static pregeneration and a nifty installer: unpack, open in browser!Development has moved to GitHub: https://github.com/s9y/Serendipity!
+
+PHP blog with all the common features (comments,track/pingbacks,RSS) plus cool extras:Click'n' blog admin,extensible event-driven plugin API,easy styling, multiuser,image management,static pregeneration and a nifty installer: unpack, open in browser!","Categories
+Communications, WWW/HTTP"
+"Note: This project is no longer maintained on Sourceforge. Information here has mostly been left for historical purposes. PLEASE REFER TO THE OFFICIAL PROJECT PAGE AT https://github.com/phppgadmin. Thank You!
+
+phpPgAdmin is a fully functional web-based administration utility for a PostgreSQL database server. It handles all the basic functionality as well as some advanced features such as triggers, views, and functions (stored procs)Note: This project is no longer maintained on Sourceforge. Information here has mostly been left for historical purposes. PLEASE REFER TO THE OFFICIAL PROJECT PAGE AT https://github.com/phppgadmin. Thank You!
+
+phpPgAdmin is a fully functional web-based administration utility for a PostgreSQL database server. It handles all the basic functionality as well as some advanced features such as triggers, views, and functions (stored procs)","Categories
+Front-Ends, Dynamic Content, Systems Administration"
+"CutyCapt is a Qt and WebKit based command-line utility that captures WebKit's rendering of a web page into various bitmap, vector, and other file formats.CutyCapt is a Qt and WebKit based command-line utility that captures WebKit's rendering of a web page into various bitmap, vector, and other file formats.","Categories
+WWW/HTTP, Capture"
+"XAMPP is a very easy to install Apache Distribution for Linux, Solaris, Windows, and Mac OS X. The package includes the Apache web server, MySQL, PHP, Perl, a FTP server and phpMyAdmin.XAMPP is a very easy to install Apache Distribution for Linux, Solaris, Windows, and Mac OS X. The package includes the Apache web server, MySQL, PHP, Perl, a FTP server and phpMyAdmin.","Categories
+Database Engines/Servers, Dynamic Content, Site Management, HTTP Servers"
+"HSQLDB is a relational database engine written in Java, with a JDBC driver, conforming to ANSI SQL:2016. A small, fast, multithreaded engine and server with memory and disk tables, LOBs, transaction isolation, multiversion concurrency and ACID.HSQLDB is a relational database engine written in Java, with a JDBC driver, conforming to ANSI SQL:2016. A small, fast, multithreaded engine and server with memory and disk tables, LOBs, transaction isolation, multiversion concurrency and ACID.","Categories
+Front-Ends, Database Engines/Servers, HTTP Servers"
+"Moodle is a Course Management System (CMS), also known as a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It is a Free web application that educators can use to create effective online learning sites. https://moodle.org/Moodle is a Course Management System (CMS), also known as a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It is a Free web application that educators can use to create effective online learning sites. https://moodle.org/","Categories
+Communications, Internet, Education, Learning Management Systems (LMS)"
+"The Anti-Spam SMTP Proxy (ASSP) Server project aims to create an open source platform-independent SMTP Proxy server which implements auto-whitelists, self learning Hidden-Markov-Model and/or Bayesian, Greylisting, DNSBL, DNSWL, URIBL, SPF, SRS, Backscatter, Virus scanning, attachment blocking, Senderbase and multiple other filter methods. Click 'Files' to download the professional version 2.6.7 build 22137.
+A linux(ubuntu 18.04 LTS) and a freeBSD 11.2 based ready to run OVA of ASSP V2 are also available for download.
+
+NOTICE:
+V1 development has been stopped at the end of 2014 (1.10.1 build 16060). Possibly there will be done some bugfixing in future.
+
+Please upgrade to V2, which is and will be actively maintained.The Anti-Spam SMTP Proxy (ASSP) Server project aims to create an open source platform-independent SMTP Proxy server which implements auto-whitelists, self learning Hidden-Markov-Model and/or Bayesian, Greylisting, DNSBL, DNSWL, URIBL, SPF, SRS, Backscatter, Virus scanning, attachment blocking, Senderbase and multiple other filter methods. Click 'Files' to download the professional version 2.6.7 build 22137.
+A linux(ubuntu 18.04 LTS) and a freeBSD 11.2 based ready to run OVA of ASSP V2 are also available for download.
+
+NOTICE:
+V1 development has been stopped at the end of 2014 (1.10.1 build 16060). Possibly there will be done some bugfixing in future.
+
+Please upgrade to V2, which is and will be actively maintained.","Categories
+Email Spam Filter, Anti-Spam, OCR, Proxy Servers"
+"Contao is an open source content management system (CMS) for people who want a professional internet presence that is easy to maintain. The state-of-the-art structure of the system offers a high security standard and allows you to develop search engine friendly websites that are also accessible for people with disabilities. Furthermore, the system can be expanded flexibly and inexpensively. Easy management of user rights, the Live Update Service, the modern CSS framework and many already integrated modules (news, calendar, forms, etc.) have quickly made Contao one of the most popular open source content management systems on the market.Contao is an open source content management system (CMS) for people who want a professional internet presence that is easy to maintain. The state-of-the-art structure of the system offers a high security standard and allows you to develop search engine friendly websites that are also accessible for people with disabilities. Furthermore, the system can be expanded flexibly and inexpensively. Easy management of user rights, the Live Update Service, the modern CSS framework and many already integrated modules (news, calendar, forms, etc.) have quickly made Contao one of the most popular open source content management systems on the market.","Categories
+Content Management Systems (CMS)"
+"Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services.Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services.","Categories
+Search Engines, Social Networking, GIS"
+HTB.init is a shell script derived from CBQ.init that allows for easy setup of HTB-based traffic control on Linux. HTB (Hierachical Token Bucket) is a new queueing discipline which attempts to address the weaknesses of current CBQ implementation.HTB.init is a shell script derived from CBQ.init that allows for easy setup of HTB-based traffic control on Linux. HTB (Hierachical Token Bucket) is a new queueing discipline which attempts to address the weaknesses of current CBQ implementation.,"Categories
+Networking, Internet"
+"pChart is a PHP class oriented framework designed to create aliased charts. Most of the todays chart libraries have a cost, our project is intended to be free. pChart 2.x is now publicly released. You can get it from : http://www.pchart.netpChart is a PHP class oriented framework designed to create aliased charts. Most of the todays chart libraries have a cost, our project is intended to be free. pChart 2.x is now publicly released. You can get it from : http://www.pchart.net","Categories
+CGI Scripts, Presentation, Data Visualization"
+"Open Upload is an open source extensible PHP application for fast file upload and download for big (and small) file sharing, like rapidshare and megaupload. Multiple authentication methods, database backends, multilanguage support.Open Upload is an open source extensible PHP application for fast file upload and download for big (and small) file sharing, like rapidshare and megaupload. Multiple authentication methods, database backends, multilanguage support.","Categories
+File Sharing, Other file transfer protocol"
+"Enterprise collaboration platform with over 400 extensions. Users without programming skills can create web applications. 50,000 small businesses, many Fortune 500 companies, and millions of people use TWiki, with installations of 100,000s of pages. Visit http://twiki.org/ for the open source TWiki.
+
+The TWiki community is focusing on building the best collaboration platform for the workplace. We invite you to GET INVOLVED! More at http://bit.ly/twGetInv.Enterprise collaboration platform with over 400 extensions. Users without programming skills can create web applications. 50,000 small businesses, many Fortune 500 companies, and millions of people use TWiki, with installations of 100,000s of pages. Visit http://twiki.org/ for the open source TWiki.
+
+The TWiki community is focusing on building the best collaboration platform for the workplace. We invite you to GET INVOLVED! More at http://bit.ly/twGetInv.","Categories
+Enterprise, Content Management Systems (CMS), Wiki"
+"Stripes is a Java web framework with the goal of making Servlet/JSP based web development in Java as easy, intuitive and straight-forward as possible. Stripes has always been guided by the following principles:
+
+* Convention over configuration (CoC)
+* Extremely lightweight with very few external dependencies.
+* Quick, iterative code/deploy/test experience for developers.
+* Application stack agnostic. Developers can integrate Stripes into their existing application stacks.
+* Do a few things and do them extremely well.
+
+For the last 10 years, Stripes has been used as the basis of applications of all types worldwide. We encourage you to download Stripes, browse the documentation, try the samples, and see why Stripes is considered among the best, lightweight Java web frameworks.
+
+See http://www.stripesframework.org/ for more information.
+
+Latest Release v1.6 : https://github.com/StripesFramework/stripes/releasesStripes is a Java web framework with the goal of making Servlet/JSP based web development in Java as easy, intuitive and straight-forward as possible. Stripes has always been guided by the following principles:
+
+* Convention over configuration (CoC)
+* Extremely lightweight with very few external dependencies.
+* Quick, iterative code/deploy/test experience for developers.
+* Application stack agnostic. Developers can integrate Stripes into their existing application stacks.
+* Do a few things and do them extremely well.
+
+For the last 10 years, Stripes has been used as the basis of applications of all types worldwide. We encourage you to download Stripes, browse the documentation, try the samples, and see why Stripes is considered among the best, lightweight Java web frameworks.
+
+See http://www.stripesframework.org/ for more information.
+
+Latest Release v1.6 : https://github.com/StripesFramework/stripes/releases","Categories
+Dynamic Content, Frameworks, Web Development Frameworks"
+"This project contains the Linux kernel drivers for all Intel(R) Ethernet adapters and LOMs (LAN On Motherboard). To learn more about Intel Ethernet visit http://communities.intel.com/community/tech/wired
+
+Mailing list for out-of-tree Support:
+e1000-devel@lists.sourceforge.net
+
+Mailing list for in-kernel Support:
+intel-wired-lan@lists.osuosl.orgThis project contains the Linux kernel drivers for all Intel(R) Ethernet adapters and LOMs (LAN On Motherboard). To learn more about Intel Ethernet visit http://communities.intel.com/community/tech/wired
+
+Mailing list for out-of-tree Support:
+e1000-devel@lists.sourceforge.net
+
+Mailing list for in-kernel Support:
+intel-wired-lan@lists.osuosl.org","Categories
+Dynamic Content, Networking, Operating System Kernels, Hardware Drivers"
+"OpenSearchServer is a powerful, enterprise-class, search engine program. Using the web user interface, the crawlers (web, file, database, etc.) and the client libraries (REST/API , Ruby, Rails, Node.js, PHP, Perl) you will be able to integrate quickly and easily advanced full-text search capabilities in your application: Full-text with basic semantic, join queries, boolean queries, facet and filter, document (PDF, Office, etc.) indexation, web scrapping,etc. OpenSearchServer runs on Windows and Linux/Unix/BSD.OpenSearchServer is a powerful, enterprise-class, search engine program. Using the web user interface, the crawlers (web, file, database, etc.) and the client libraries (REST/API , Ruby, Rails, Node.js, PHP, Perl) you will be able to integrate quickly and easily advanced full-text search capabilities in your application: Full-text with basic semantic, join queries, boolean queries, facet and filter, document (PDF, Office, etc.) indexation, web scrapping,etc. OpenSearchServer runs on Windows and Linux/Unix/BSD.","Categories
+Enterprise, Search Engines, Search"
+"Network Spoofer lets you change websites on other people’s computers from an Android phone. After downloading simply log onto a Wifi network, choose a spoof to use and press start.
+Please note that there is no intention for Network Spoofer to include any malicious features. This application is a fun demonstration of how vulnerable home networks are to simple attacks, with permission of the network owner - DO NOT attempt to use Network Spoofer on any corporate or other non-residential networks (eg. at school, university). It becomes very obvious when Network Spoofer is being used on a Network, and use of Network Spoofer will be considered malicious hacking by network administrators.
+
+Available on the Android Market.Network Spoofer lets you change websites on other people’s computers from an Android phone. After downloading simply log onto a Wifi network, choose a spoof to use and press start.
+Please note that there is no intention for Network Spoofer to include any malicious features. This application is a fun demonstration of how vulnerable home networks are to simple attacks, with permission of the network owner - DO NOT attempt to use Network Spoofer on any corporate or other non-residential networks (eg. at school, university). It becomes very obvious when Network Spoofer is being used on a Network, and use of Network Spoofer will be considered malicious hacking by network administrators.
+
+Available on the Android Market.","Categories
+WWW/HTTP, Networking"
+"This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.","Categories
+Terminals, Security, Software Development, Systems Administration, Networking, Internet"
+"Pale Moon is an open source web browser forked off from Firefox, focusing on efficiency and ease of use, by leaving out unnecessary features, making optimizations, and having a fully customizable user interface, while maintaining compatibility with many Firefox extensions as well as its own extensions and themes.
+
+IMPORTANT: We will no longer be using SourceForge from this point forward and will provide updates through our own site: http://linux.palemoon.org/
+
+Pale Moon provides a familiar set of controls and visual feedback similar to previous (pre-Australis) versions of Firefox, including grouped navigation buttons, a bookmarks toolbar that is enabled by default, tabs next to page content by default, and a functional status bar.
+
+This is a third party build with close development cooperation with the original Windows builds; the original project is at http://www.palemoon.org -- For support, check our forum at http://forum.palemoon.org.Pale Moon is an open source web browser forked off from Firefox, focusing on efficiency and ease of use, by leaving out unnecessary features, making optimizations, and having a fully customizable user interface, while maintaining compatibility with many Firefox extensions as well as its own extensions and themes.
+
+IMPORTANT: We will no longer be using SourceForge from this point forward and will provide updates through our own site: http://linux.palemoon.org/
+
+Pale Moon provides a familiar set of controls and visual feedback similar to previous (pre-Australis) versions of Firefox, including grouped navigation buttons, a bookmarks toolbar that is enabled by default, tabs next to page content by default, and a functional status bar.
+
+This is a third party build with close development cooperation with the original Windows builds; the original project is at http://www.palemoon.org -- For support, check our forum at http://forum.palemoon.org.","Categories
+Browsers"
+"WinNMP - Nginx MariaDB Redis Php 8 development stack for Windows
+
+A lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx. A lighter alternative to XAMPP and WAMP.
+
+Also known as WTServer and wt-nmp
+
+Current Package contains the latest stable versions of:
+- Nginx web server
+- MariaDB 10 database server, mysql replacement (32/64bit)
+- MongoDB 4 document-based database (64bit)
+- Redis Cache/NoSql, memcached alternative (64bit)
+- Php 5.6 & PHP 7.2 & PHP 7.3 & PHP 7.4 scripting language (32/64bit)
+- WinSCP SFTP client
+- HTTPS using free LetsEncrypt certificates
+- Composer dependency manager for php
+- Adminer web based database manager
+- Reg.php regular expressions tester
+- WTServer Manager (32/64bit), formerly known as *wt-nmp*WinNMP - Nginx MariaDB Redis Php 8 development stack for Windows
+
+A lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx. A lighter alternative to XAMPP and WAMP.
+
+Also known as WTServer and wt-nmp
+
+Current Package contains the latest stable versions of:
+- Nginx web server
+- MariaDB 10 database server, mysql replacement (32/64bit)
+- MongoDB 4 document-based database (64bit)
+- Redis Cache/NoSql, memcached alternative (64bit)
+- Php 5.6 & PHP 7.2 & PHP 7.3 & PHP 7.4 scripting language (32/64bit)
+- WinSCP SFTP client
+- HTTPS using free LetsEncrypt certificates
+- Composer dependency manager for php
+- Adminer web based database manager
+- Reg.php regular expressions tester
+- WTServer Manager (32/64bit), formerly known as *wt-nmp*","Categories
+Communications, HTTP Servers, Software Development, SFTP Clients"
+NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces.NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces.,"Categories
+HTML/XHTML, Search Engines, Link Checking, Software Development"
+"Magnolia is an open Java CMS that delivers smartphone simplicity on an enterprise-scale. The mobile-inspired HTML5 user interface works through customisable, task-focused Apps, a notification stream called the Pulse, and a system of Favorites for quickly accessing the workspace. Magnolia CMS allows organizations to orchestrate online services, sales and marketing across all digital channels, maximizing the impact of every touchpoint.
+
+Magnolia’s open-source technology, support of open standards such as CMIS and JCR, as well as integration with the Spring Framework, enable developers to unlock back-end systems and third-party applications.
+
+Magnolia CMS enterprise customers include: Abbott Diabetes Care, Al Arabiya, Allianz, Atlassian, DFAS, EADS, Generali Group, ING Bank, Foxtel, Michelin, Migros, Pirelli, Sony, TeliaSonera and US Navy. Magnolia is used in more than 100 countries across the world by governments and leading FORTUNE 500 enterprises.Magnolia is an open Java CMS that delivers smartphone simplicity on an enterprise-scale. The mobile-inspired HTML5 user interface works through customisable, task-focused Apps, a notification stream called the Pulse, and a system of Favorites for quickly accessing the workspace. Magnolia CMS allows organizations to orchestrate online services, sales and marketing across all digital channels, maximizing the impact of every touchpoint.
+
+Magnolia’s open-source technology, support of open standards such as CMIS and JCR, as well as integration with the Spring Framework, enable developers to unlock back-end systems and third-party applications.
+
+Magnolia CMS enterprise customers include: Abbott Diabetes Care, Al Arabiya, Allianz, Atlassian, DFAS, EADS, Generali Group, ING Bank, Foxtel, Michelin, Migros, Pirelli, Sony, TeliaSonera and US Navy. Magnolia is used in more than 100 countries across the world by governments and leading FORTUNE 500 enterprises.","Categories
+Enterprise, Site Management, Content Management Systems (CMS)"
+"Publications Xoops francophones (traductions noyau xoops, documentations, modules francisés, thèmes, Plugin smarty, hacks, ...)Publications Xoops francophones (traductions noyau xoops, documentations, modules francisés, thèmes, Plugin smarty, hacks, ...)","Categories
+Dynamic Content, Site Management, Software Development"
+"DenyHosts is a python program that automatically blocks ssh attacks by adding entries to /etc/hosts.deny.
+
+DenyHosts will also inform Linux administrators about offending hosts, attacked users and suspicious logins.
+
+This project is being actively developed on GitHub (https://github.com/denyhosts)DenyHosts is a python program that automatically blocks ssh attacks by adding entries to /etc/hosts.deny.
+
+DenyHosts will also inform Linux administrators about offending hosts, attacked users and suspicious logins.
+
+This project is being actively developed on GitHub (https://github.com/denyhosts)","Categories
+Log Analysis, Systems Administration, Monitoring"
+"GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards: WMS, WFS, WCS, WPS and RESTGeoServer is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards: WMS, WFS, WCS, WPS and REST","Categories
+HTTP Servers, Data Visualization, GIS"
+"Pydio Cells is the mature open source alternative to dropbox and box, for the enterprise.
+
+Why building your own box?
+
+You need to access your documents across multiple devices, and regularly share documents (weblinks) and folders with your contacts and teams. Still, using a consumer SaaS box or drive service is neither practical nor safe. And enterprise SaaS box or drive services are expensive and come with Disk Storage that you already have on your servers or private cloud.
+
+How to build your own box with Pydio?
+
+Easily install Pydio on your servers or cloud of choice,
+Simply share documents and folders with your teams,
+Administrate your box with an Entreprise grade console (rights, groups, plug ins),
+Access documents with a Web Gui, Smartphones and tablet apps (iOS, Android),
+Sync folders on your computer (PC, Mac, Linux).Pydio Cells is the mature open source alternative to dropbox and box, for the enterprise.
+
+Why building your own box?
+
+You need to access your documents across multiple devices, and regularly share documents (weblinks) and folders with your contacts and teams. Still, using a consumer SaaS box or drive service is neither practical nor safe. And enterprise SaaS box or drive services are expensive and come with Disk Storage that you already have on your servers or private cloud.
+
+How to build your own box with Pydio?
+
+Easily install Pydio on your servers or cloud of choice,
+Simply share documents and folders with your teams,
+Administrate your box with an Entreprise grade console (rights, groups, plug ins),
+Access documents with a Web Gui, Smartphones and tablet apps (iOS, Android),
+Sync folders on your computer (PC, Mac, Linux).","Categories
+File Sharing, File Managers, Cloud Storage"
+"OWASP Mantra - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.OWASP Mantra - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.","Categories
+Security, Browsers"
+"WARNING: all new versions are now released through http://b2evolution.net/downloads/ only.
+
+b2evolution is a Social Content Management System. It will smoothly run your blogs or your website. It will also provide a place for your community to gather and interact. Everything is included. No extra plugins required. This also keeps it truly 100% Free Open-Source !WARNING: all new versions are now released through http://b2evolution.net/downloads/ only.
+
+b2evolution is a Social Content Management System. It will smoothly run your blogs or your website. It will also provide a place for your community to gather and interact. Everything is included. No extra plugins required. This also keeps it truly 100% Free Open-Source !","Categories
+Dynamic Content"
+"Jericho HTML Parser is a java library allowing analysis and manipulation of parts of an HTML document, including server-side tags, while reproducing verbatim any unrecognised or invalid HTML.Jericho HTML Parser is a java library allowing analysis and manipulation of parts of an HTML document, including server-side tags, while reproducing verbatim any unrecognised or invalid HTML.","Categories
+Text Processing, HTML/XHTML, Dynamic Content, Software Development"
+AppServ is an merging open source software installer package for Windows and Linux.AppServ is an merging open source software installer package for Windows and Linux.,"Categories
+Database Engines/Servers, Site Management, HTTP Servers"
+"I started this project because I wanted a dead-simple blog. One that didn't need a database, used flat text files, and looked nice. It's main advantage is that it only requires PHP 5 and write permissions. There is no setup, just unzip and copy.I started this project because I wanted a dead-simple blog. One that didn't need a database, used flat text files, and looked nice. It's main advantage is that it only requires PHP 5 and write permissions. There is no setup, just unzip and copy.","Categories
+Message Board, Site Management"
+"Noodle build of PuTTY suite, green soft with chrome style UI and group-able and searchable session management.Noodle build of PuTTY suite, green soft with chrome style UI and group-able and searchable session management.","Categories
+SSH"
+"Project abandoned! Sorry, I havent found the time to keep this project updated. Please see https://github.com/jacksonliam/mjpg-streamer for the designated sucessor site. Thanks to everyone who contributed and is using the software.
+
+MJPG-streamer takes JPGs from Linux-UVC compatible webcams, filesystem or other input plugins and streams them as M-JPEG via HTTP to webbrowsers, VLC and other software. It is the successor of uvc-streamer, a Linux-UVC streaming application with Pan/TiltProject abandoned! Sorry, I havent found the time to keep this project updated. Please see https://github.com/jacksonliam/mjpg-streamer for the designated sucessor site. Thanks to everyone who contributed and is using the software.
+
+MJPG-streamer takes JPGs from Linux-UVC compatible webcams, filesystem or other input plugins and streams them as M-JPEG via HTTP to webbrowsers, VLC and other software. It is the successor of uvc-streamer, a Linux-UVC streaming application with Pan/Tilt","Categories
+Streaming, WWW/HTTP, Capture, Video Capture"
+"Owl is a multi user document repository (knowledgebase) , document manager and/or document management system (DMS) written in PHP for publishing of files/documents onto the web for a corporation, small business, group of people, or just for yourself. Final Code Hosted on GitHubOwl is a multi user document repository (knowledgebase) , document manager and/or document management system (DMS) written in PHP for publishing of files/documents onto the web for a corporation, small business, group of people, or just for yourself. Final Code Hosted on GitHub","Categories
+File Sharing, Office/Business, Dynamic Content, Document Management"
+"LimeSurvey is a survey software to create online surveys. Features open/closed surveys, branching, participant administration, quotas, WYSIWYG HTML editor, email invitations & reminders, assessments, basic statistics and more.LimeSurvey is a survey software to create online surveys. Features open/closed surveys, branching, participant administration, quotas, WYSIWYG HTML editor, email invitations & reminders, assessments, basic statistics and more.","Categories
+WWW/HTTP, Business Intelligence, Business Service Management"
+"PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat
+
+This is James Clark's Expat XML parser library in C. It is a stream oriented parser that requires setting handlers to deal with the structure that the parser
+discovers in the document.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpatPLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat
+
+This is James Clark's Expat XML parser library in C. It is a stream oriented parser that requires setting handlers to deal with the structure that the parser
+discovers in the document.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/libexpat/libexpat","Categories
+XML, Internet, XML Parsers"
+WebKit .NET is a control library wrapper for WebKit written in C#. The aim is to make it easy for users to incorporate WebKit into their .NET applications.WebKit .NET is a control library wrapper for WebKit written in C#. The aim is to make it easy for users to incorporate WebKit into their .NET applications.,"Categories
+Browsers, Libraries"
+"Coppermine is an easily set-up, fast, feature-rich photo gallery script with mySQL database, user management, private galleries, automatic thumbnail creation, ecard feature and a template system for easy customization to match the rest of a site.Coppermine is an easily set-up, fast, feature-rich photo gallery script with mySQL database, user management, private galleries, automatic thumbnail creation, ecard feature and a template system for easy customization to match the rest of a site.","Categories
+Dynamic Content, Photo Management"
+"A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.","Categories
+Site Management, Password Managers"
+"SimpleID is a simple, personal OpenID provider written in PHP.SimpleID is a simple, personal OpenID provider written in PHP.","Categories
+WWW/HTTP, Authentication/Directory"
+"Greenstone is a complete digital library creation, management and distribution package created and distributed by the New Zealand Digital Library Project.
+
+There are two major versions of the software. Greenstone 3 is under active development, and is recommended for download. We also provide maintenance releases for its forerunner, Greenstone 2.
+
+Featured download not what you're looking for? Click ""Browse all files"" to access binaries and source releases of both versions.Greenstone is a complete digital library creation, management and distribution package created and distributed by the New Zealand Digital Library Project.
+
+There are two major versions of the software. Greenstone 3 is under active development, and is recommended for download. We also provide maintenance releases for its forerunner, Greenstone 2.
+
+Featured download not what you're looking for? Click ""Browse all files"" to access binaries and source releases of both versions.","Categories
+Search Engines, Archiving, Multimedia"
+Flexjson is a lightweight library for serializing Java objects into JSON. What's different about Flexjson is it's control over what gets serialized allowing both deep and shallow copies of objects.Flexjson is a lightweight library for serializing Java objects into JSON. What's different about Flexjson is it's control over what gets serialized allowing both deep and shallow copies of objects.,"Categories
+WWW/HTTP"
+"LogicalDOC is both document management and collaboration system. The software is loaded with many functions and allows organizing, index, retrieving, controlling and distributing important business documents securely and safely for any organization and individual.
+
+Gone are the days when companies used paper-based processes such as printing, mailing and manual filing of paper documents; our document management system replaces all of this with electronic procedures that allow your organization to reduce costs significantly.
+
+Check out https://www.logicaldoc.com to learn more.
+
+The design of LogicalDOC is based on best-of-breed Java technologies in order to provide a reliable DMS platform. The main interface is web-based, no need to install anything else; users can access the system through their browser.
+
+LogicalDOC CE is 100% free software and is packaged with an open source database; while it supports all major DBMS, developers still recommend MySQL for production systems.LogicalDOC is both document management and collaboration system. The software is loaded with many functions and allows organizing, index, retrieving, controlling and distributing important business documents securely and safely for any organization and individual.
+
+Gone are the days when companies used paper-based processes such as printing, mailing and manual filing of paper documents; our document management system replaces all of this with electronic procedures that allow your organization to reduce costs significantly.
+
+Check out https://www.logicaldoc.com to learn more.
+
+The design of LogicalDOC is based on best-of-breed Java technologies in order to provide a reliable DMS platform. The main interface is web-based, no need to install anything else; users can access the system through their browser.
+
+LogicalDOC CE is 100% free software and is packaged with an open source database; while it supports all major DBMS, developers still recommend MySQL for production systems.","Categories
+File Managers, Content Management Systems (CMS), Knowledge Management, Document Management"
+"Meteorologist is a free weather program for OS X. It allows users total control over their weather viewing, including simultaneous interlaced weather reports from multiple weather servers, multiple weather locations, weather alerts and much more.Meteorologist is a free weather program for OS X. It allows users total control over their weather viewing, including simultaneous interlaced weather reports from multiple weather servers, multiple weather locations, weather alerts and much more.","Categories
+Dynamic Content"
+Comical is a portable CBR and CBZ viewer written in C++ using wxWidgets. It supports multiple image formats and uses high-quality image scaling algorithms to fit pages onscreen.Comical is a portable CBR and CBZ viewer written in C++ using wxWidgets. It supports multiple image formats and uses high-quality image scaling algorithms to fit pages onscreen.,"Categories
+Internet, Image Viewers"
+"SquirrelMail is a PHP-based Web email client. It includes built-in pure PHP support for IMAP and SMTP, and renders all pages in pure HTML 4.0 for maximum compatibility across browsers. It has strong MIME support and a flexible plugin system.SquirrelMail is a PHP-based Web email client. It includes built-in pure PHP support for IMAP and SMTP, and renders all pages in pure HTML 4.0 for maximum compatibility across browsers. It has strong MIME support and a flexible plugin system.","Categories
+Email Clients, WWW/HTTP"
+"rekonq is a lightweight, WebKit based web browser for KDErekonq is a lightweight, WebKit based web browser for KDE","Categories
+KDE, Browsers"
+"New Homepage: http://wummel.github.io/linkchecker/
+
+Linkchecker features:
+- recursive and multithreaded checking and site crawling
+- output in colored or normal text, HTML, SQL, CSV, XML or a sitemap graph in different formats
+- HTTP/1.1, HTTPS, FTP, mailto:, news:, nntp:, Telnet and local file links support
+- restrict link checking with regular expression filters for URLs
+- proxy support
+- username/password authorization for HTTP, FTPNew Homepage: http://wummel.github.io/linkchecker/
+
+Linkchecker features:
+- recursive and multithreaded checking and site crawling
+- output in colored or normal text, HTML, SQL, CSV, XML or a sitemap graph in different formats
+- HTTP/1.1, HTTPS, FTP, mailto:, news:, nntp:, Telnet and local file links support
+- restrict link checking with regular expression filters for URLs
+- proxy support
+- username/password authorization for HTTP, FTP","Categories
+Link Checking"
+"PHP5 RAD and object oriented PHP framework for building event-driven stateful web applications. Based on Zend Framework, features tableless HTML, multiple databases, accesskey support, auto data type recognition, transparent AJAX, UTF-8, i18n/l10n.PHP5 RAD and object oriented PHP framework for building event-driven stateful web applications. Based on Zend Framework, features tableless HTML, multiple databases, accesskey support, auto data type recognition, transparent AJAX, UTF-8, i18n/l10n.","Categories
+Front-Ends, Dynamic Content, Frameworks"
+"wdCalendar is a javascript event calendar, which is like google calendar , MS Outlook or iCal on Mac OS X. Easy to view, add, and drag-and-drop events. daily, weekly, monthly view supported. easy to integrate with php, asp.net, jsp and RoR.wdCalendar is a javascript event calendar, which is like google calendar , MS Outlook or iCal on Mac OS X. Easy to view, add, and drag-and-drop events. daily, weekly, monthly view supported. easy to integrate with php, asp.net, jsp and RoR.","Categories
+Content Management Systems (CMS)"
+PDW File Browser is a plugin for the TinyMCE and CKEditor WYSIWYG editor. Please view demo's on http://www.neele.name/filebrowser/ and http://www.neele.name/filebrowser/ckeditor.phpPDW File Browser is a plugin for the TinyMCE and CKEditor WYSIWYG editor. Please view demo's on http://www.neele.name/filebrowser/ and http://www.neele.name/filebrowser/ckeditor.php,"Categories
+Dynamic Content"

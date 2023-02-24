@@ -1,0 +1,702 @@
+Description,Category
+"BtiTracker is a complete php tracker system for BitTorrent, easy to setup and configure. Full remote admin management.BtiTracker is a complete php tracker system for BitTorrent, easy to setup and configure. Full remote admin management.","Categories
+BitTorrent"
+"Open Phone Abstraction Library (OPAL) is a C++ multi-platform, multi-protocol library for Fax, Video & Voice over IP and other networks. Also included is the Portable Tool Library (PTLib) which is a C++ multi-platform abstraction library and collection oOpen Phone Abstraction Library (OPAL) is a C++ multi-platform, multi-protocol library for Fax, Video & Voice over IP and other networks. Also included is the Portable Tool Library (PTLib) which is a C++ multi-platform abstraction library and collection o","Categories
+Internet Phone, VoIP"
+UDT: UDP-based Data Transfer ProtocolUDT: UDP-based Data Transfer Protocol,"Categories
+Communications, Networking, Internet"
+JTL Mage Connect strives at offering a connector to provide integration between the ERP system JTL-Wawi and the popular online shop Magento. Initial version provided by Sysgrade GmbH (www.sysgrade.de) and Onedrop Solutions GmbH & Co KG (www.1drop.de)JTL Mage Connect strives at offering a connector to provide integration between the ERP system JTL-Wawi and the popular online shop Magento. Initial version provided by Sysgrade GmbH (www.sysgrade.de) and Onedrop Solutions GmbH & Co KG (www.1drop.de),"Categories
+Enterprise, ERP, File Sync"
+"pcapsipdump is libpcap-based SIP sniffer with per-call sorting capabilities. It writes SIP/RTP sessions to disk in a same format, as ""tcpdump -w"", but one file per SIP session (even if there is thousands of concurrent SIP sessions).
+
+Getting started: http://pcapsipdump.sf.net/pcapsipdump is libpcap-based SIP sniffer with per-call sorting capabilities. It writes SIP/RTP sessions to disk in a same format, as ""tcpdump -w"", but one file per SIP session (even if there is thousands of concurrent SIP sessions).
+
+Getting started: http://pcapsipdump.sf.net/","Categories
+Monitoring, Logging, VoIP"
+"Add support for making Gmail the default mail application for the GNOME desktop. ""Gmail"" will be a choice for Mail Reader in the Preferred Applications dialog. ""Mailto"" links, ""Send Link"", etc., will be handled by Gmail.Add support for making Gmail the default mail application for the GNOME desktop. ""Gmail"" will be a choice for Mail Reader in the Preferred Applications dialog. ""Mailto"" links, ""Send Link"", etc., will be handled by Gmail.","Categories
+Email Clients, GNOME"
+"JLibModbus is an implementation of the Modbus protocol v1.1b in java language.
+
+The library supports the most popular communication libraries (jssc, rxtx, jSerialComm, purejavacomm, java comm api);
+
+Maven dependency:
+<dependency>
+<groupId>com.intelligt.modbus</groupId>
+<artifactId>jlibmodbus</artifactId>
+<version>1.2.9.7</version>
+</dependency>
+
+Implemented MODBUS functions:
+0x01 Read Coils
+0x02 Read Discrete Inputs
+0x03 Read Holding Registers
+0x04 Read Input Registers
+0x05 Write Single Coil
+0x06 Write Single Register
+0x07 Read Exception Status
+0x08 Diagnostics
+0x0B Get Comm Event Counter
+0x0C Get Comm Event Log
+0x0F Write Multiple Coils
+0x10 Write Multiple Registers
+0x11 Report Slave Id
+0x14 Read File Record
+0x15 Write File Record
+0x16 Mask Write Register
+0x17 Read Write Multiple Registers
+0x18 Read Fifo Queue
+0x2B Encapsulated Interface Transport (Read Device Identification interface)JLibModbus is an implementation of the Modbus protocol v1.1b in java language.
+
+The library supports the most popular communication libraries (jssc, rxtx, jSerialComm, purejavacomm, java comm api);
+
+Maven dependency:
+<dependency>
+<groupId>com.intelligt.modbus</groupId>
+<artifactId>jlibmodbus</artifactId>
+<version>1.2.9.7</version>
+</dependency>
+
+Implemented MODBUS functions:
+0x01 Read Coils
+0x02 Read Discrete Inputs
+0x03 Read Holding Registers
+0x04 Read Input Registers
+0x05 Write Single Coil
+0x06 Write Single Register
+0x07 Read Exception Status
+0x08 Diagnostics
+0x0B Get Comm Event Counter
+0x0C Get Comm Event Log
+0x0F Write Multiple Coils
+0x10 Write Multiple Registers
+0x11 Report Slave Id
+0x14 Read File Record
+0x15 Write File Record
+0x16 Mask Write Register
+0x17 Read Write Multiple Registers
+0x18 Read Fifo Queue
+0x2B Encapsulated Interface Transport (Read Device Identification interface)","Categories
+Communications, Scientific/Engineering"
+"ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/","Categories
+Serial, Communications, Router"
+"MSHV Amateur Radio Software.
+Developed by LZ2HV - Christo mail: lz2hv@abv.bg
+Supported working modes: MSK144 MSKMS JTMS FSK441 FSK315 ISCAT JT6M FT8/4 JT65 PI4 Q65
+System Requirements: Microsoft Windows Xp, Windows 7,8,10 32 or 64 Bit, Linux Fedora (Red hat), Ubuntu (Debian) .
+Compiling:
+MinGw recommended GCC 7.3.0 thread model posix.
+QT5.6.3 library.
+IDE recommended QDevelop 0.29.
+All other libraries included inside the source.
+
+Acknowledgements to K1JT Joe Taylor and WSJT Development Group.
+The algorithms, source code, look-and-feel of WSJT-X and related
+programs, and protocol specifications for the modes FSK441, FT8, JT4,
+JT6M, JT9, JT65, JTMS, QRA64, ISCAT, MSK144, are Copyright © 2001-2017
+by one or more of the following authors: Joseph Taylor, K1JT; Bill
+Somerville, G4WJS; Steven Franke, K9AN; Nico Palermo, IV3NWV; Greg Beam,
+KI7MT; Michael Black, W9MDB; Edson Pereira, PY2SDR; Philip Karn, KA9Q;
+and other members of the WSJT Development Group.MSHV Amateur Radio Software.
+Developed by LZ2HV - Christo mail: lz2hv@abv.bg
+Supported working modes: MSK144 MSKMS JTMS FSK441 FSK315 ISCAT JT6M FT8/4 JT65 PI4 Q65
+System Requirements: Microsoft Windows Xp, Windows 7,8,10 32 or 64 Bit, Linux Fedora (Red hat), Ubuntu (Debian) .
+Compiling:
+MinGw recommended GCC 7.3.0 thread model posix.
+QT5.6.3 library.
+IDE recommended QDevelop 0.29.
+All other libraries included inside the source.
+
+Acknowledgements to K1JT Joe Taylor and WSJT Development Group.
+The algorithms, source code, look-and-feel of WSJT-X and related
+programs, and protocol specifications for the modes FSK441, FT8, JT4,
+JT6M, JT9, JT65, JTMS, QRA64, ISCAT, MSK144, are Copyright © 2001-2017
+by one or more of the following authors: Joseph Taylor, K1JT; Bill
+Somerville, G4WJS; Steven Franke, K9AN; Nico Palermo, IV3NWV; Greg Beam,
+KI7MT; Michael Black, W9MDB; Edson Pereira, PY2SDR; Philip Karn, KA9Q;
+and other members of the WSJT Development Group.","Categories
+Ham Radio"
+"Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodingsAegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodings","Categories
+Email, Email Clients, Cryptography, Email Servers"
+"IEDExplorer is an IEC 61850 client tool written for testing and educational purposes. IEDExplorer can connect to an IEC61850 device (also called an IED) over MMS (ISO/IEC9506-1 and ISO/IEC 9506-2) communication protocol. The tool is written in pure C# including the MMS ASN.1 parser (based on BinaryNotes ASN.1 tool) and runs in .net environment, on Windows. Linux/Mono support has been lost on the way (volunteers welcome). See Features for what the tool can do for you.
+
+I will appreciate your help in testing and extending the tool!IEDExplorer is an IEC 61850 client tool written for testing and educational purposes. IEDExplorer can connect to an IEC61850 device (also called an IED) over MMS (ISO/IEC9506-1 and ISO/IEC 9506-2) communication protocol. The tool is written in pure C# including the MMS ASN.1 parser (based on BinaryNotes ASN.1 tool) and runs in .net environment, on Windows. Linux/Mono support has been lost on the way (volunteers welcome). See Features for what the tool can do for you.
+
+I will appreciate your help in testing and extending the tool!","Categories
+Communications, SCADA, Test and Measurement"
+"Fenix, software for communication with devices in Modbus Network. You can easily take data from Modbus Slave. You can group registers in to Tags. You are able to see bytes log from communication and make chart for your create tags.
+
+Youtube Playlist:
+https://www.youtube.com/playlist?list=PLYak7DcUWiYJDuYCN3C5su0kRqhGemBWT
+
+BLOG
+http://fenixmodbus.blogspot.com/
+
+COMMUNITY
+https://plus.google.com/communities/106171266939818740939
+
+MyPage
+http://danielgiron.pl/Fenix, software for communication with devices in Modbus Network. You can easily take data from Modbus Slave. You can group registers in to Tags. You are able to see bytes log from communication and make chart for your create tags.
+
+Youtube Playlist:
+https://www.youtube.com/playlist?list=PLYak7DcUWiYJDuYCN3C5su0kRqhGemBWT
+
+BLOG
+http://fenixmodbus.blogspot.com/
+
+COMMUNITY
+https://plus.google.com/communities/106171266939818740939
+
+MyPage
+http://danielgiron.pl/","Categories
+Communications, Simulation, SCADA"
+"Gqrx is a software defined radio receiver powered by GNU Radio and the Qt GUI toolkit. It can process I/Q data from many types of input devices, including Funcube Dongle Pro/Pro+, rtl-sdr, HackRF, and Universal Software Radio Peripheral (USRP) devices.Gqrx is a software defined radio receiver powered by GNU Radio and the Qt GUI toolkit. It can process I/Q data from many types of input devices, including Funcube Dongle Pro/Pro+, rtl-sdr, HackRF, and Universal Software Radio Peripheral (USRP) devices.","Categories
+Ham Radio"
+"A Mod so that Minecraft now natively supports Mumble's positional audio feature. This means: Directional and positionally attenuated VOIP in relation to the game world.
+
+Please visit the Forum for information about the newest Version!
+
+Main Forum-Thread: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272675
+
+TheSkorm's Fork on GitHub: https://github.com/TheSkorm/mod_mumblelink
+
+
+Mumble: http://mumble.sourceforge.net
+
+Donations are greatly appreciated: https://sourceforge.net/donate/?user_id=2370023A Mod so that Minecraft now natively supports Mumble's positional audio feature. This means: Directional and positionally attenuated VOIP in relation to the game world.
+
+Please visit the Forum for information about the newest Version!
+
+Main Forum-Thread: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272675
+
+TheSkorm's Fork on GitHub: https://github.com/TheSkorm/mod_mumblelink
+
+
+Mumble: http://mumble.sourceforge.net
+
+Donations are greatly appreciated: https://sourceforge.net/donate/?user_id=2370023","Categories
+Sound/Audio, VoIP, Multiplayer, Minecraft Mods, Minecraft Plugins"
+"Resara Server is an Active Directory compatible open source server for small businesses designed around Samba 4. It is designed to be simple and easy to use. The management console lets you manage users, share files, and configure DHCP and DNS.Resara Server is an Active Directory compatible open source server for small businesses designed around Samba 4. It is designed to be simple and easy to use. The management console lets you manage users, share files, and configure DHCP and DNS.","Categories
+File Sharing, Networking"
+"BitTorrent private tracker scripts written in PHP.
+This project is not actively maintained by me any more. I recommend use actively-developed forks instead.BitTorrent private tracker scripts written in PHP.
+This project is not actively maintained by me any more. I recommend use actively-developed forks instead.","Categories
+BitTorrent"
+"elFinder is a file manager for web similar to that you use on your computer. Written in JavaScript using jQuery UI, it just work's in any modern browser. Its creation is inspired by simplicity and convenience of Finder.app program used in Mac OS X.elFinder is a file manager for web similar to that you use on your computer. Written in JavaScript using jQuery UI, it just work's in any modern browser. Its creation is inspired by simplicity and convenience of Finder.app program used in Mac OS X.","Categories
+File Sharing, Dynamic Content, Site Management"
+Google Voice API in C#; updated!Google Voice API in C#; updated!,"Categories
+Telephony"
+"Anope Services are built off of the original Epona code written by Lara which is built off of IRC Services. These services have advanced the original Epona code and include new features such as Modules, Mysql, and Defcon Mode.Anope Services are built off of the original Epona code written by Lara which is built off of IRC Services. These services have advanced the original Epona code and include new features such as Modules, Mysql, and Defcon Mode.","Categories
+IRC Clients"
+"OpenYMSG is an open source Yahoo Messenger API implementation. It began as a fork of jYMSG, primarily to upgrade the API. It is intended to get you up and running with a simple Yahoo Messenger client in very little time.OpenYMSG is an open source Yahoo Messenger API implementation. It began as a fork of jYMSG, primarily to upgrade the API. It is intended to get you up and running with a simple Yahoo Messenger client in very little time.","Categories
+Chat, Messaging"
+"LogicMail is a standalone E-Mail client designed to run on RIM BlackBerry handheld devices, providing full support for IMAP, POP, and SMTP over the device's Internet connection. Its exists to provide an alternative to the service-oriented ""push"" ELogicMail is a standalone E-Mail client designed to run on RIM BlackBerry handheld devices, providing full support for IMAP, POP, and SMTP over the device's Internet connection. Its exists to provide an alternative to the service-oriented ""push"" E","Categories
+Email Clients"
+This is a simple RAW print server for Windows (also includes a tiny *nix script for *nix users) that lets your Windows 98/ME/NT/2K/XP system work as a port 9100 (or 910x) network print server for any of the Windows printers hooked up to the PC.This is a simple RAW print server for Windows (also includes a tiny *nix script for *nix users) that lets your Windows 98/ME/NT/2K/XP system work as a port 9100 (or 910x) network print server for any of the Windows printers hooked up to the PC.,"Categories
+Communications, Printing, Internet"
+"Gfire is a plugin for the Pidgin IM client which allows you to connect to the Xfire network. This plugin features your friend's list, full games list, viewing Xfire profiles and join friend's server.Gfire is a plugin for the Pidgin IM client which allows you to connect to the Xfire network. This plugin features your friend's list, full games list, viewing Xfire profiles and join friend's server.","Categories
+Chat"
+A hack/port of Piero Orsoni's wonderful Grsync - rsync frontend in GTK - to Windows(win32).A hack/port of Piero Orsoni's wonderful Grsync - rsync frontend in GTK - to Windows(win32).,"Categories
+File Sync"
+"Postfix greylisting policy service with auto-white-listing written in Perl with SQL database as storage backend. Greylisting stops 50 to 90 % junk mails (spam and virus) before they reach your Postfix server (saves BW, user time and CPU time).Postfix greylisting policy service with auto-white-listing written in Perl with SQL database as storage backend. Greylisting stops 50 to 90 % junk mails (spam and virus) before they reach your Postfix server (saves BW, user time and CPU time).","Categories
+Email Spam Filter"
+"Magic Mail Monitor3 - Windows mail checker with multiple mailboxes support, ability to preview and delete messages. Based on original code of Magic Mail Monitor from Valeriy Ovechkin.Magic Mail Monitor3 - Windows mail checker with multiple mailboxes support, ability to preview and delete messages. Based on original code of Magic Mail Monitor from Valeriy Ovechkin.","Categories
+Email Clients"
+"Extended BitTorrent Client and Tracker. High-performance software for this peer to peer file distribution protocol. A Windows client written in C++. A tracker written in C++, using MySQL as secondary storage.Extended BitTorrent Client and Tracker. High-performance software for this peer to peer file distribution protocol. A Windows client written in C++. A tracker written in C++, using MySQL as secondary storage.","Categories
+BitTorrent"
+"WinLIRC, the Windows port of the Linux Infrared Remote Control package. Control your computer via remote!WinLIRC, the Windows port of the Linux Infrared Remote Control package. Control your computer via remote!","Categories
+Communications, Hardware, Multimedia"
+"MUTE is a secure, anonymous, distributed communications framework. Node-to-node connections are encrypted, and messages are routed using an ant-inspired algorithm. The first MUTE-based app supports anonymous file sharing.MUTE is a secure, anonymous, distributed communications framework. Node-to-node connections are encrypted, and messages are routed using an ant-inspired algorithm. The first MUTE-based app supports anonymous file sharing.","Categories
+File Sharing, Security"
+"NOCC is a simple and fast Webmail client which can handle POP3 and IMAP mailboxes and sends email via SMTP. It is written with PHP, has low requirements (no database, frames). Features multi-language support, MIME attachments, displays HTML messages.
+
+The installation guide comes with the source code:
+https://sourceforge.net/p/nocc/code/HEAD/tree/trunk/webmail/docs/INSTALL
+
+If you encounter problems or bugs you can always try the current HEAD version:
+https://sourceforge.net/p/nocc/code/HEAD/tarball?path=
+
+Questions, bug reports or support requests are very welcome:
+https://sourceforge.net/p/nocc/_list/tickets
+
+Alternative source code repository:
+https://github.com/oheil/NOCCNOCC is a simple and fast Webmail client which can handle POP3 and IMAP mailboxes and sends email via SMTP. It is written with PHP, has low requirements (no database, frames). Features multi-language support, MIME attachments, displays HTML messages.
+
+The installation guide comes with the source code:
+https://sourceforge.net/p/nocc/code/HEAD/tree/trunk/webmail/docs/INSTALL
+
+If you encounter problems or bugs you can always try the current HEAD version:
+https://sourceforge.net/p/nocc/code/HEAD/tarball?path=
+
+Questions, bug reports or support requests are very welcome:
+https://sourceforge.net/p/nocc/_list/tickets
+
+Alternative source code repository:
+https://github.com/oheil/NOCC","Categories
+Email Clients"
+"cIPS is a robust TCP/IP stack for embedded devices.The cIPS library runs without an Operating System and is entirely abstract from any platform. However, it has been fully tested on the Xilinx Spartan 3E Starter Kit.cIPS is a robust TCP/IP stack for embedded devices.The cIPS library runs without an Operating System and is entirely abstract from any platform. However, it has been fully tested on the Xilinx Spartan 3E Starter Kit.","Categories
+Streaming, Networking, Internet"
+"POPFile is an email classification tool with a Naive Bayes classifier, POP3, SMTP, NNTP proxies and IMAP filter and a web interface. It runs on most platforms and with most email clients.POPFile is an email classification tool with a Naive Bayes classifier, POP3, SMTP, NNTP proxies and IMAP filter and a web interface. It runs on most platforms and with most email clients.","Categories
+Email Spam Filter"
+"IAXmodem is a software modem written in C that uses an IAX channel
+(commonly provided by an Asterisk PBX system) instead of a traditional
+phone line and uses a DSP library instead of DSP hardware chipsets.IAXmodem is a software modem written in C that uses an IAX channel
+(commonly provided by an Asterisk PBX system) instead of a traditional
+phone line and uses a DSP library instead of DSP hardware chipsets.","Categories
+Fax, PBX"
+"tn5250 emulates a 5250 terminal or printer over telnet, for connecting to IBM iSeries and AS/400 computers running i5/OS and OS/400. It runs on any Unix or Windows system.tn5250 emulates a 5250 terminal or printer over telnet, for connecting to IBM iSeries and AS/400 computers running i5/OS and OS/400. It runs on any Unix or Windows system.","Categories
+Terminal Emulators, Telnet, Communications"
+Visual Test Shell (VTS) is an application for testing the BACnet functionality of devices used in building automation systems.Visual Test Shell (VTS) is an application for testing the BACnet functionality of devices used in building automation systems.,"Categories
+Communications, SCADA"
+"Open source libraries and utilities to support using digital signatures for Amateur
+radio QSL information.Open source libraries and utilities to support using digital signatures for Amateur
+radio QSL information.","Categories
+Ham Radio"
+"AJAX-based web-frontend for the Music Player Daemon (MPD). RelaXX includes features like keyboard-control, drag and drop, context-menus, sortable tracklists and more using JavaScript. Can be used as a public jukebox for MP3 or OGG. The server uses PHP.AJAX-based web-frontend for the Music Player Daemon (MPD). RelaXX includes features like keyboard-control, drag and drop, context-menus, sortable tracklists and more using JavaScript. Can be used as a public jukebox for MP3 or OGG. The server uses PHP.","Categories
+Streaming, MP3, Home Theater PC"
+"Ararat Synapse - Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal.Ararat Synapse - Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal.","Categories
+Communications, Internet"
+"Pyst consists of a set of interfaces and libraries to allow programming of Asterisk from python. The library currently supports AGI, AMI, and the parsing of Asterisk configuration files. The library also includes debugging facilities for AGI.
+
+2014-04-17: Moved the version control to GIT. To check out see the tab ""Code"". Note that the whole history including ancient CVS, then some time in monotone, then subversion was united into one GIT repository thanks to ESR's reposurgeon.
+
+2013-05-29: Maintainers of github fork ""pyst2"" contacted to join forces. Note that the last release here fixes the same bug as on github, otherwise github version seems to only contain cosmetic changes and examples.
+
+2012-07-06: An offer to maintain the project has been received.
+
+2012-01-29: There have been two or three forks that are being maintained.
+This is now just history unless someone cares to take up maintenance here.Pyst consists of a set of interfaces and libraries to allow programming of Asterisk from python. The library currently supports AGI, AMI, and the parsing of Asterisk configuration files. The library also includes debugging facilities for AGI.
+
+2014-04-17: Moved the version control to GIT. To check out see the tab ""Code"". Note that the whole history including ancient CVS, then some time in monotone, then subversion was united into one GIT repository thanks to ESR's reposurgeon.
+
+2013-05-29: Maintainers of github fork ""pyst2"" contacted to join forces. Note that the last release here fixes the same bug as on github, otherwise github version seems to only contain cosmetic changes and examples.
+
+2012-07-06: An offer to maintain the project has been received.
+
+2012-01-29: There have been two or three forks that are being maintained.
+This is now just history unless someone cares to take up maintenance here.","Categories
+Telephony, Sound/Audio"
+iplist is a list based packet handler which uses the netfilter netlink-queue library (kernel 2.6.14 or later). It filters by IP-address and is optimized for thousands of IP-address ranges.iplist is a list based packet handler which uses the netfilter netlink-queue library (kernel 2.6.14 or later). It filters by IP-address and is optimized for thousands of IP-address ranges.,"Categories
+File Sharing, Firewall"
+A plugin for Pidgin which translates LaTeX code into images in your IM and Chat conversations.A plugin for Pidgin which translates LaTeX code into images in your IM and Chat conversations.,"Categories
+Chat"
+Outlook Mail Merge Attachment is a script which can be used to add an attachment to an mail merge in Microsoft Outlook.Outlook Mail Merge Attachment is a script which can be used to add an attachment to an mail merge in Microsoft Outlook.,"Categories
+Email Clients"
+"FUDforum is a super fast and scalable discussion forum. It is highly customizable and supports unlimited members, forums, posts, topics, polls & attachments. It can import XML Feeds and sync with USENET groups and Mailing Lists (bi-directional).FUDforum is a super fast and scalable discussion forum. It is highly customizable and supports unlimited members, forums, posts, topics, polls & attachments. It can import XML Feeds and sync with USENET groups and Mailing Lists (bi-directional).","Categories
+Usenet News, Email, Message Board"
+"BigBlueButton is an open source web conferencing system for distance education. It provides real-time desktop sharing, presentation, VoIP, webcam and chat.BigBlueButton is an open source web conferencing system for distance education. It provides real-time desktop sharing, presentation, VoIP, webcam and chat.","Categories
+Web Conferencing"
+"DownloadDaemon is a comfortable download-manager with many features like one-click-hoster support, etc.
+It can be remote-controled in several ways (web/gui/console clients), which makes it perfect for file- and root-servers, as well as for local use.DownloadDaemon is a comfortable download-manager with many features like one-click-hoster support, etc.
+It can be remote-controled in several ways (web/gui/console clients), which makes it perfect for file- and root-servers, as well as for local use.","Categories
+File Sharing, Internet, Download Managers"
+"Simple Groupware is a complete open source enterprise application offering email, calendaring, contacts, tasks, document management with WebDAV, synchronization with cell phones and Outlook over SyncML, full-text search and many more.Simple Groupware is a complete open source enterprise application offering email, calendaring, contacts, tasks, document management with WebDAV, synchronization with cell phones and Outlook over SyncML, full-text search and many more.","Categories
+Communications, Office/Business, Internet"
+SHOUTcast Management Interface (BETA) - Create and modify shoutcast servers with the ease of a web based interface. This is a free open source stream control panel for PHP5 enabled web servers with MySQL 4.1 or newer.SHOUTcast Management Interface (BETA) - Create and modify shoutcast servers with the ease of a web based interface. This is a free open source stream control panel for PHP5 enabled web servers with MySQL 4.1 or newer.,"Categories
+Streaming, Systems Administration, Sound/Audio"
+Bayesian anti-spam classifier written in Python.Bayesian anti-spam classifier written in Python.,"Categories
+Email Spam Filter"
+"poMMo is versatile Mass Mailing software. Add a mailing list to your website, or organize stand alone mailings. Unique features such as the ability to mail subsets of your subscribers set it apart from alternatives.poMMo is versatile Mass Mailing software. Add a mailing list to your website, or organize stand alone mailings. Unique features such as the ability to mail subsets of your subscribers set it apart from alternatives.","Categories
+Mailing List Servers, Site Management"
+"CheckGmail is a system tray application that checks a Gmail account for new mail. It is fast, secure and uses minimal bandwidth via the use of atom feeds.CheckGmail is a system tray application that checks a Gmail account for new mail. It is fast, secure and uses minimal bandwidth via the use of atom feeds.","Categories
+Email"
+"Bot Sentry is a Pidgin (libpurple) plugin to prevent Instant Message (IM) spam. It allows you to ignore IMs unless the sender is in your Buddy List, the sender is in your Allow List, or the sender correctly answers a question you have predefined.Bot Sentry is a Pidgin (libpurple) plugin to prevent Instant Message (IM) spam. It allows you to ignore IMs unless the sender is in your Buddy List, the sender is in your Allow List, or the sender correctly answers a question you have predefined.","Categories
+MSN Messenger, AOL Instant Messenger, IRC Clients, ICQ"
+"Kablink open team collaboration software uses social networking to unify team workspaces w/ real-time web conferencing. Collaboration for knowledge networking, program management, communities-of-practice, telework, other business process/functional areasKablink open team collaboration software uses social networking to unify team workspaces w/ real-time web conferencing. Collaboration for knowledge networking, program management, communities-of-practice, telework, other business process/functional areas","Categories
+Internet Phone, Conferencing, Telephony, File Sharing, Enterprise, Project Management"
+"Blogging platform built with PHP, designed with maximum customizability, speed and ease of use in mind. Forums and bugs reports can be found at http://www.lifetype.net/Blogging platform built with PHP, designed with maximum customizability, speed and ease of use in mind. Forums and bugs reports can be found at http://www.lifetype.net/","Categories
+Communications, Dynamic Content, Site Management"
+"Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.","Categories
+Telephony, Software Testing, Simulation, Exam"
+"This software allows you to download files from more than 50 (oneclick-)hosters (like youtube, rapidshare and many more). It is the perfect platform to download http and ftp links only with your Fritz!Box controlled by a graphical web-interface.
+
+Get the latest version at https://sourceforge.net/p/avmload/code/HEAD/tarball?path=/trunkThis software allows you to download files from more than 50 (oneclick-)hosters (like youtube, rapidshare and many more). It is the perfect platform to download http and ftp links only with your Fritz!Box controlled by a graphical web-interface.
+
+Get the latest version at https://sourceforge.net/p/avmload/code/HEAD/tarball?path=/trunk","Categories
+File Sharing, File Transfer Protocol (FTP)"
+"Internet Direct (Indy) - An open source internet component suite comprised of popular internet protocols. Both client and server implementations are included as well as full source code and comprehensive demos
+
+Indy is an open source internet developmenInternet Direct (Indy) - An open source internet component suite comprised of popular internet protocols. Both client and server implementations are included as well as full source code and comprehensive demos
+
+Indy is an open source internet developmen","Categories
+Communications, Software Development, Internet"
+"ONVIF Device Manager is a Network Video Client (NVC) to manage Network Video Transmitters (NVT), Network Video Storage (NVS) and Network Video Analytics (NVA) devices. Implements Discovery, Device, Media, Imaging, Analytics, Events and PTZ services. Written in C# and uses ffmpeg for media decoding.
+
+English User Guide
+https://wiki.allprojects.info/display/ODMDOC/ONVIF+Device+Manager.+Installation+and+User+Guide
+
+Russian User Guide
+https://wiki.allprojects.info/display/ODMDOC/RUONVIF Device Manager is a Network Video Client (NVC) to manage Network Video Transmitters (NVT), Network Video Storage (NVS) and Network Video Analytics (NVA) devices. Implements Discovery, Device, Media, Imaging, Analytics, Events and PTZ services. Written in C# and uses ffmpeg for media decoding.
+
+English User Guide
+https://wiki.allprojects.info/display/ODMDOC/ONVIF+Device+Manager.+Installation+and+User+Guide
+
+Russian User Guide
+https://wiki.allprojects.info/display/ODMDOC/RU","Categories
+Streaming, Video, Web Services"
+"Acrylic is a local DNS proxy for Windows which improves the performance of your computer by caching the responses coming from your DNS servers and helps you fight unwanted ads through the use of a custom HOSTS file (optimized for handling hundreds of thousands of domain names) with support for wildcards and regular expressions.
+
+When you browse a web page a portion of the loading time is dedicated to name resolution while the rest is dedicated to the transfer of the web page contents. What Acrylic does is to reduce the time dedicated to name resolution for frequently visited addresses closest to zero possible. Furthermore Acrylic's sliding expiration caching mechanism and DNS silent updates are able to improve the browsing experience independently of the browser.
+
+With Acrylic you can also gracefully overcome downtimes of your DNS servers without disrupting your work, because in that case you will at least be able to connect to your favourite websites and to your email server.Acrylic is a local DNS proxy for Windows which improves the performance of your computer by caching the responses coming from your DNS servers and helps you fight unwanted ads through the use of a custom HOSTS file (optimized for handling hundreds of thousands of domain names) with support for wildcards and regular expressions.
+
+When you browse a web page a portion of the loading time is dedicated to name resolution while the rest is dedicated to the transfer of the web page contents. What Acrylic does is to reduce the time dedicated to name resolution for frequently visited addresses closest to zero possible. Furthermore Acrylic's sliding expiration caching mechanism and DNS silent updates are able to improve the browsing experience independently of the browser.
+
+With Acrylic you can also gracefully overcome downtimes of your DNS servers without disrupting your work, because in that case you will at least be able to connect to your favourite websites and to your email server.","Categories
+Communications, DNS, Networking, Email Servers"
+"This project allows connecting, file sharing and chatting in Direct Connect and ADC networks.This project allows connecting, file sharing and chatting in Direct Connect and ADC networks.","Categories
+Chat, File Sharing"
+"BitPim allows synchronization of Phone Book, Calendar, WallPapers and RingTones and manipulating the embedded filesystem in CDMA cell phones.BitPim allows synchronization of Phone Book, Calendar, WallPapers and RingTones and manipulating the embedded filesystem in CDMA cell phones.","Categories
+Communications"
+"Find&remove duplicates easily! This VBA-Script with a form searches for duplicate entries of any type (calendar, contact, e-mail, notes, task, etc.) across folders in Outlook. Suspected doublets are listed and can be moved to the folder for Deleted Items.Find&remove duplicates easily! This VBA-Script with a form searches for duplicate entries of any type (calendar, contact, e-mail, notes, task, etc.) across folders in Outlook. Suspected doublets are listed and can be moved to the folder for Deleted Items.","Categories
+Email, Office/Business"
+"Vine Server(OSXvnc) is a robust, full-featured VNC server for MacOS X. It allows VNC clients to remotely view or control the machine. It is provided by TestPlant, for use with Vine Viewer AND Eggplant for cross-platform testing,Vine Server(OSXvnc) is a robust, full-featured VNC server for MacOS X. It allows VNC clients to remotely view or control the machine. It is provided by TestPlant, for use with Vine Viewer AND Eggplant for cross-platform testing,","Categories
+Communications, Distributed Computing"
+OpenBTS is an implementation of the GSM air interface (Um) that allows cellular handsets to be used directly as SIP endpoints. It uses a software-defined radio to generate its air interface and uses Asterisk or yate as its network interface.OpenBTS is an implementation of the GSM air interface (Um) that allows cellular handsets to be used directly as SIP endpoints. It uses a software-defined radio to generate its air interface and uses Asterisk or yate as its network interface.,"Categories
+Internet Phone, VoIP"
+"═══════════ ▲▲▲ ═════════════════════════════════════════════
+Find the various versions on the ""Files"" tab (https://sourceforge.net/projects/jtdx-improved/files/)
+
+jtdx_improved is an enhanced version of JTDX by Igor Chernikov et al. (https://sourceforge.net/projects/jtdx/). Both my and Igor's forks are based on the excellent WSJT-X software by Joe Taylor K1JT, Steve Franke K9AN, Bill Somerville G4WJS and others (https://sourceforge.net/projects/wsjt/). After the succes of my wsjt-x_improved project (https://sourceforge.net/projects/wsjt-x-improved/) I thought it was time to implement some of its enhancements now also to JTDX …
+
+Notes: jtdx_improved is experimental and is licensed under GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.txt). I am not aware of any adverse effects. However, use it at your own risk!
+
+Subscribe to the mailing list: https://sourceforge.net/projects/jtdx-improved/lists/jtdx-improved-community.═══════════ ▲▲▲ ═════════════════════════════════════════════
+Find the various versions on the ""Files"" tab (https://sourceforge.net/projects/jtdx-improved/files/)
+
+jtdx_improved is an enhanced version of JTDX by Igor Chernikov et al. (https://sourceforge.net/projects/jtdx/). Both my and Igor's forks are based on the excellent WSJT-X software by Joe Taylor K1JT, Steve Franke K9AN, Bill Somerville G4WJS and others (https://sourceforge.net/projects/wsjt/). After the succes of my wsjt-x_improved project (https://sourceforge.net/projects/wsjt-x-improved/) I thought it was time to implement some of its enhancements now also to JTDX …
+
+Notes: jtdx_improved is experimental and is licensed under GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.txt). I am not aware of any adverse effects. However, use it at your own risk!
+
+Subscribe to the mailing list: https://sourceforge.net/projects/jtdx-improved/lists/jtdx-improved-community.","Categories
+Ham Radio"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Ham Radio"
+"Ethernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object LibraryEthernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object Library","Categories
+Communications, Software Development, Scientific/Engineering"
+"Envy is a powerful multi-network p2p filesharing and torrent client for Windows or Wine. A mature mainstream fork of Shareaza. Highly skinnable, with BitTorrent/DHT, G2/Gnutella², Gnutella, ED2K/eMule, DC++, http/ftp protocols -and blacklist support baked in. Let others browse your public files.Envy is a powerful multi-network p2p filesharing and torrent client for Windows or Wine. A mature mainstream fork of Shareaza. Highly skinnable, with BitTorrent/DHT, G2/Gnutella², Gnutella, ED2K/eMule, DC++, http/ftp protocols -and blacklist support baked in. Let others browse your public files.","Categories
+File Sharing, BitTorrent, Gnutella"
+"V2 Beta Features: (Release on 18/07/2016)
+- Apply to Google Domain Dynamic DNS (DDNS) services
+- Support to update 3 domains as the same time
+- Provide 2 servers to get the external IP address
+- Auto update in specified minutes (Max:10000 Mins)
+- Able to minimize to system tray
+- Able to Save or Load the settings
+- Able to Save Log as txt file
+
+Changes between V1.0.0.0 (Released on 18/07/2016) and V2 Beta
+- Supported number of domain from 1 domain increase to 3 domains
+- Update and add one more servers for getting the external IP address
+- Open the settings for user to specified the interval of auto update
+- Fix the minimize to system tray function
+- More details log
+- Add save log as txt file function
+
+About Google Domain:
+http://goo.gl/2TVxAl
+
+About Google Domain Dynamic DNS (DDNS) services:
+http://goo.gl/HToaIx
+
+Google Domains Help Center:
+http://goo.gl/mOrq2p
+
+For any suggestion or bug report, please leave message to the blog or email to nylryan@gmail.comV2 Beta Features: (Release on 18/07/2016)
+- Apply to Google Domain Dynamic DNS (DDNS) services
+- Support to update 3 domains as the same time
+- Provide 2 servers to get the external IP address
+- Auto update in specified minutes (Max:10000 Mins)
+- Able to minimize to system tray
+- Able to Save or Load the settings
+- Able to Save Log as txt file
+
+Changes between V1.0.0.0 (Released on 18/07/2016) and V2 Beta
+- Supported number of domain from 1 domain increase to 3 domains
+- Update and add one more servers for getting the external IP address
+- Open the settings for user to specified the interval of auto update
+- Fix the minimize to system tray function
+- More details log
+- Add save log as txt file function
+
+About Google Domain:
+http://goo.gl/2TVxAl
+
+About Google Domain Dynamic DNS (DDNS) services:
+http://goo.gl/HToaIx
+
+Google Domains Help Center:
+http://goo.gl/mOrq2p
+
+For any suggestion or bug report, please leave message to the blog or email to nylryan@gmail.com","Categories
+DNS, File Sync, Router"
+"OpenSource Application which has a Complete set of Tools to organize, get info and Download torrents of Tv-Series.
+
+NEW REQUIREMENTS:
+.WINDOWS 10 64 bit or above;
+.FIREFOX x64 installed and ready to deal with Torrent and Magnet Links. Test firefox (at magnetdl.com) before installing https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+.UTORRENT or Similar Torrent Client.
+
+How: It gets the TV-Show name, episode, resolution, plus any KeyWord to filter the results, eg: DD5 (must have DD5); -HEVC (must not have); DD5|6CH (one OR the other).
+It searches internet at the chosen torrent indexer (ThePirateBay, Rarbg, Torrentday, magnetdl..). Then the torrent for the most seeded which matches user criteria is sent to Utorrent.
+
+Other OS: Need to install virtual copy of Windows.
+See:
+http://dev.modern.ie/tools/vms/ and https://www.virtualbox.org/
+
+Do not be a Pirate!
+SUPPORT Tv-Series Producers!
+SUBSCRIBE to a Web media streamer like Netflix to get legal access.OpenSource Application which has a Complete set of Tools to organize, get info and Download torrents of Tv-Series.
+
+NEW REQUIREMENTS:
+.WINDOWS 10 64 bit or above;
+.FIREFOX x64 installed and ready to deal with Torrent and Magnet Links. Test firefox (at magnetdl.com) before installing https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+.UTORRENT or Similar Torrent Client.
+
+How: It gets the TV-Show name, episode, resolution, plus any KeyWord to filter the results, eg: DD5 (must have DD5); -HEVC (must not have); DD5|6CH (one OR the other).
+It searches internet at the chosen torrent indexer (ThePirateBay, Rarbg, Torrentday, magnetdl..). Then the torrent for the most seeded which matches user criteria is sent to Utorrent.
+
+Other OS: Need to install virtual copy of Windows.
+See:
+http://dev.modern.ie/tools/vms/ and https://www.virtualbox.org/
+
+Do not be a Pirate!
+SUPPORT Tv-Series Producers!
+SUBSCRIBE to a Web media streamer like Netflix to get legal access.","Categories
+BitTorrent, Home Theater PC, Hobbies"
+"JTSDK is a pre-configured collection of open source cross platform development frameworks, Gnu tools, libraries and custom written scripts designed to ease compiling WSJT applications and documentation from source code.
+
+WINDOWS APPLICATIONS
+----------------------------------------------------------------------
+* JTSDK-QT.......: WSJT-X, WSPR-X and MAP65
+* JTSDK-PY........: WSJT and WSPR
+* JTSDK-DOC....: All WSJT Documentation
+* JTSDK-MSYS..: General Compiling
+
+LINUX APPLICATIONS
+------------------------------------------------------------------
+* JTSDK-Nix.......: WSJT, WSJT-X and WSPRJTSDK is a pre-configured collection of open source cross platform development frameworks, Gnu tools, libraries and custom written scripts designed to ease compiling WSJT applications and documentation from source code.
+
+WINDOWS APPLICATIONS
+----------------------------------------------------------------------
+* JTSDK-QT.......: WSJT-X, WSPR-X and MAP65
+* JTSDK-PY........: WSJT and WSPR
+* JTSDK-DOC....: All WSJT Documentation
+* JTSDK-MSYS..: General Compiling
+
+LINUX APPLICATIONS
+------------------------------------------------------------------
+* JTSDK-Nix.......: WSJT, WSJT-X and WSPR","Categories
+Ham Radio"
+Chatty is a Twitch Chat Client for everyone who wants to try something different than the Webchat but doesn't want to miss out on many of the Twitch specific features.Chatty is a Twitch Chat Client for everyone who wants to try something different than the Webchat but doesn't want to miss out on many of the Twitch specific features.,"Categories
+Communications, Chat, Games/Entertainment"
+"forma.lms is an open-source, web-based elearning platform (learning management system - LMS), used to manage and deliver online training courses.
+It's focused on corporate training needs.
+The projects forma.lms ((aka formalms) was originally created as a fork of Docebo CE v 4.0.5.
+The support comnunity of forma.Lms is active on https://forum.formalms.org/forma.lms is an open-source, web-based elearning platform (learning management system - LMS), used to manage and deliver online training courses.
+It's focused on corporate training needs.
+The projects forma.lms ((aka formalms) was originally created as a fork of Docebo CE v 4.0.5.
+The support comnunity of forma.Lms is active on https://forum.formalms.org/","Categories
+Communications, Education, Content Management Systems (CMS), Learning Management Systems (LMS)"
+"A cross platform Python frequency scanning GUI for USB TV dongles, using the OsmoSDR rtl-sdr library.
+
+In other words a cheap, simple Spectrum Analyser.
+
+More information can be found at:
+http://eartoearoak.com/software/rtlsdr-scanner
+
+An installer and standalone versions for Windows are located here:
+https://github.com/EarToEarOak/RTLSDR-Scanner/releases
+
+Sources are available on GitHub:
+https://github.com/EarToEarOak/RTLSDR-Scanner
+
+** The up to date installer is no longer maintained on this site and can now be found at https://github.com/EarToEarOak/RTLSDR-Scanner/releases **A cross platform Python frequency scanning GUI for USB TV dongles, using the OsmoSDR rtl-sdr library.
+
+In other words a cheap, simple Spectrum Analyser.
+
+More information can be found at:
+http://eartoearoak.com/software/rtlsdr-scanner
+
+An installer and standalone versions for Windows are located here:
+https://github.com/EarToEarOak/RTLSDR-Scanner/releases
+
+Sources are available on GitHub:
+https://github.com/EarToEarOak/RTLSDR-Scanner
+
+** The up to date installer is no longer maintained on this site and can now be found at https://github.com/EarToEarOak/RTLSDR-Scanner/releases **","Categories
+Ham Radio, Test and Measurement"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU Library or Lesser General Public License version 2.0 (LGPLv2), GNU General Public License version 2.0 (GPLv2)","Categories
+Telephony"
+"NoCalSync is a tool for synchronizing Lotus Notes Calendar and Google Calendar. With NoCalSync, you can synchronize your calendars uni-directionally from Notes to Google or from Google to Notes and bi-directionally between Notes and Google.NoCalSync is a tool for synchronizing Lotus Notes Calendar and Google Calendar. With NoCalSync, you can synchronize your calendars uni-directionally from Notes to Google or from Google to Notes and bi-directionally between Notes and Google.","Categories
+File Sync"
+"This is a MATLAB model of an end-to-end chain compliant to the DVB-T2 standard (ETSI EN 302 755 available from www.etsi.org). It was originally developed within the DVB consortium (www.dvb.org) by AICIA, BBC, Pace, Panasonic and SIDSA.This is a MATLAB model of an end-to-end chain compliant to the DVB-T2 standard (ETSI EN 302 755 available from www.etsi.org). It was originally developed within the DVB consortium (www.dvb.org) by AICIA, BBC, Pace, Panasonic and SIDSA.","Categories
+Communications, Video"
+"Developers are welcome to contribute to this project and help implement the full specification of the SMPP V3.4. This project includes the support for Receiver, Transmitter and Transceiver modes, and many other improvements.Developers are welcome to contribute to this project and help implement the full specification of the SMPP V3.4. This project includes the support for Receiver, Transmitter and Transceiver modes, and many other improvements.","Categories
+Communications"
+"iKiwi is a simple program for file sharing, absolutely free and open source. It uses a new protocol for file sharing: Nova protocol. iKiwi uses a net of peers totally decentralized.iKiwi is a simple program for file sharing, absolutely free and open source. It uses a new protocol for file sharing: Nova protocol. iKiwi uses a net of peers totally decentralized.","Categories
+File Sharing"
+"jphonelite is a Java SIP VoIP SoftPhone for Desktops (Windows, Linux, Mac) and Android. Features 6 lines with transfer, hold, conference (up to all 6 lines), g711 u/a, g722, g729a, and video (video support in Linux or Windows only and includes H263/H264/VP8). Applet includes full JavaScript support. STUN/TURN/ICE supported. Encrypt media with SRTP. DTLS Key Exchange. Video conferencing with jPBXLite/0.12+
+
+NOTE : THIS PROJECT HAS BEEN SUPERSEDED BY jfPhone.
+Please go to jfphone.sourceforge.net to get latest version.jphonelite is a Java SIP VoIP SoftPhone for Desktops (Windows, Linux, Mac) and Android. Features 6 lines with transfer, hold, conference (up to all 6 lines), g711 u/a, g722, g729a, and video (video support in Linux or Windows only and includes H263/H264/VP8). Applet includes full JavaScript support. STUN/TURN/ICE supported. Encrypt media with SRTP. DTLS Key Exchange. Video conferencing with jPBXLite/0.12+
+
+NOTE : THIS PROJECT HAS BEEN SUPERSEDED BY jfPhone.
+Please go to jfphone.sourceforge.net to get latest version.","Categories
+Internet Phone, Telephony, VoIP, Softphones"
+"Script is based on the PHProxy , A2 is a web HTTP proxy programmed in PHP meant to bypass firewalls and access otherwise inaccessible resources (i.e. blocked websites). If the server this script is run on can access a resource, so can you!Script is based on the PHProxy , A2 is a web HTTP proxy programmed in PHP meant to bypass firewalls and access otherwise inaccessible resources (i.e. blocked websites). If the server this script is run on can access a resource, so can you!","Categories
+File Sharing, Browsers, Dynamic Content"
+"The Mumble PHP Interface (MumPI for short) allows you to manage your Mumble servers via a webinterface. Users can register, upload textures, and retrieve account data. Admins can manage virtual servers, registrations, admin accounts, online users…The Mumble PHP Interface (MumPI for short) allows you to manage your Mumble servers via a webinterface. Users can register, upload textures, and retrieve account data. Admins can manage virtual servers, registrations, admin accounts, online users…","Categories
+WWW/HTTP, VoIP"
+"The OpenCD project offers a selection of high quality OSS for Windows users in Persian. OpenCD provides a free alternative to costly software, with equal or often better quality equivalents to proprietary one, and to educate users of Linux as an OS.The OpenCD project offers a selection of high quality OSS for Windows users in Persian. OpenCD provides a free alternative to costly software, with equal or often better quality equivalents to proprietary one, and to educate users of Linux as an OS.","Categories
+Email, Education, Fonts"
+"This app no longer works since Dropbox removed public folders. I'm sure I'll continue working on it some day and will bring something great to similar functionality.
+
+This program help you Easer share your files by one mouse click using www.dropbox.com Program copies and moves files to the Public folder and all public URL you get on your clipboard.
+
+Tip: hold Shift modifier while drop files to Dropbox Plugin for moving files to Dropbox\PublicThis app no longer works since Dropbox removed public folders. I'm sure I'll continue working on it some day and will bring something great to similar functionality.
+
+This program help you Easer share your files by one mouse click using www.dropbox.com Program copies and moves files to the Public folder and all public URL you get on your clipboard.
+
+Tip: hold Shift modifier while drop files to Dropbox Plugin for moving files to Dropbox\Public","Categories
+File Sync"
+"properJavaRDP is an open source Java RDP client for Windows Terminal Server. It is based on rdesktop, a SourceForge project. properJavaRDP runs on Java 1.1 up (optimised for 1.4), and works on Linux, Windows and Mac. It also includes log4j-java1.1.properJavaRDP is an open source Java RDP client for Windows Terminal Server. It is based on rdesktop, a SourceForge project. properJavaRDP runs on Java 1.1 up (optimised for 1.4), and works on Linux, Windows and Mac. It also includes log4j-java1.1.","Categories
+Communications, Remote Desktop"
+"mvnForum is a open source, powerful, easy to use/setup bulletin board (forum) built on the J2EE technology(Jsp/Servlet) and compatible with any Servlet Container which supports Jsp 1.2 and Servlet 2.3.
+The official home page is www.mvnForum.commvnForum is a open source, powerful, easy to use/setup bulletin board (forum) built on the J2EE technology(Jsp/Servlet) and compatible with any Servlet Container which supports Jsp 1.2 and Servlet 2.3.
+The official home page is www.mvnForum.com","Categories
+BBS, Message Board"
+"Library for handling xmpp with python. Written with jabberd2 in mind so it uses DISCO for browsing, privacy rules sets for invisible presence, SASL for authentication, TLS for security and so on...Library for handling xmpp with python. Written with jabberd2 in mind so it uses DISCO for browsing, privacy rules sets for invisible presence, SASL for authentication, TLS for security and so on...","Categories
+Chat"
+Java implementation of the SMPP APIJava implementation of the SMPP API,"Categories
+Telephony"
+A server-side web-based AJAX-enabled RSS/Atom feed aggregator/news tracking tool. Requires PHP 4/5 and MySQL 4/5. Can host on Windows/Linux/BSD/MacOSX and browse on IE6/IE7/Firefox/Safari/Chrome/et al. See our web site for more details.A server-side web-based AJAX-enabled RSS/Atom feed aggregator/news tracking tool. Requires PHP 4/5 and MySQL 4/5. Can host on Windows/Linux/BSD/MacOSX and browse on IE6/IE7/Firefox/Safari/Chrome/et al. See our web site for more details.,"Categories
+RSS, RSS Feed Readers"
+OpenOPC for Python is an easy to use OPC (OLE for Process Control) library for use with the Python programming language. The project includes a Windows gateway service allowing non-Windows clients to also access OPC-DA calls.OpenOPC for Python is an easy to use OPC (OLE for Process Control) library for use with the Python programming language. The project includes a Windows gateway service allowing non-Windows clients to also access OPC-DA calls.,"Categories
+Communications, Interface Engine/Protocol Translator, HMI"
+"This project is an Open-Source (GPL) implementation of the SAE J1699-3 test specification. SAE J1699-3 test for compliance to OBD-2 protocols. THIS COMPUTER PROGRAM IS BASED UPON SAE RECOMMENDED PRACTICE J1699-3, WHICH WAS PROVIDED ""AS IS"".This project is an Open-Source (GPL) implementation of the SAE J1699-3 test specification. SAE J1699-3 test for compliance to OBD-2 protocols. THIS COMPUTER PROGRAM IS BASED UPON SAE RECOMMENDED PRACTICE J1699-3, WHICH WAS PROVIDED ""AS IS"".","Categories
+Communications, Scientific/Engineering"
+Java Easy OPC client. The client is based on Java technology. The core library is created in Delphi (only for OS Windows).Java Easy OPC client. The client is based on Java technology. The core library is created in Delphi (only for OS Windows).,"Categories
+Communications"
+"A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.","Categories
+Ham Radio, Software Testing, Simulation, Earth Sciences, GIS"
+Providing a tool to apply the data-recovery capability concepts of RAID-like systems to the posting & recovery of multi-part archives on Usenet.Providing a tool to apply the data-recovery capability concepts of RAID-like systems to the posting & recovery of multi-part archives on Usenet.,"Categories
+Usenet News, File Sharing, Backup"
+"P2PChat is a instant messenger based on Java, JavaFX and direct IP connections.P2PChat is a instant messenger based on Java, JavaFX and direct IP connections.","Categories
+Chat, Conferencing, File Sharing, Messaging"
+"This program is to control your UMTS PCCard: enter SIM PIN code, send and receive SMS and control/monitor the network connection.This program is to control your UMTS PCCard: enter SIM PIN code, send and receive SMS and control/monitor the network connection.","Categories
+Communications, Wireless"
+"A Java implementation of the XML-RPC Specification, with support for dynamic proxies and serialization of arbitrary Java objects.A Java implementation of the XML-RPC Specification, with support for dynamic proxies and serialization of arbitrary Java objects.","Categories
+Communications, Internet"
+"Activa brings the Asterisk IP PBX to the call center. Built on top of Asterisk, Activa components enable successful call center implementations adding value in areas such as computer telephony, screenpop&click2dial, agent control, automatic dialing...Activa brings the Asterisk IP PBX to the call center. Built on top of Asterisk, Activa components enable successful call center implementations adding value in areas such as computer telephony, screenpop&click2dial, agent control, automatic dialing...","Categories
+Internet Phone, Telephony, Enterprise, PBX"
+Licq is an ICQ/AIM clone written fully in C++. It uses an extensive plugin system to manage many different functions including the MSN protocol. The main GUI is written using the Qt widget set.Licq is an ICQ/AIM clone written fully in C++. It uses an extensive plugin system to manage many different functions including the MSN protocol. The main GUI is written using the Qt widget set.,"Categories
+MSN Messenger, AOL Instant Messenger, ICQ, Internet, Messaging"
+"Sharp Serialization Library serializes and deserializes primitives, ArrayLists and Hashtables, compatible with PHP serialize(). Use it for SOAP/Web Services communications where Hashtables cannot be passed otherwise, or saving to a file readable by php.Sharp Serialization Library serializes and deserializes primitives, ArrayLists and Hashtables, compatible with PHP serialize(). Use it for SOAP/Web Services communications where Hashtables cannot be passed otherwise, or saving to a file readable by php.","Categories
+Communications, Object Brokering, System"
+Siproxd is a proxy/masquerading daemon for the SIP protocol. It allows SIP clients (softphones & hardphones) to work behind an IP masquerading firewall or router.Siproxd is a proxy/masquerading daemon for the SIP protocol. It allows SIP clients (softphones & hardphones) to work behind an IP masquerading firewall or router.,"Categories
+Firewall, VoIP"

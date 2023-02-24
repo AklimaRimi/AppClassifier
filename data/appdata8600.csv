@@ -1,0 +1,613 @@
+Description,Category
+PCB is a tool for the layout of printed circuit boards. PCB can produce industry standard RS-274X and Excellon NC-Drill format output for submission to board manufacturers.PCB is a tool for the layout of printed circuit boards. PCB can produce industry standard RS-274X and Excellon NC-Drill format output for submission to board manufacturers.,"Categories
+Electronic Design Automation (EDA)"
+GraphCalc is a very gui graphing calculator. It has been called a good replacement for a TI-85. It is a must for any high school math student.GraphCalc is a very gui graphing calculator. It has been called a good replacement for a TI-85. It is a must for any high school math student.,"Categories
+3D Modeling, Mathematics, Education, Calculators, Graphing Calculators"
+A 3D engine written in Java aimed at students of computer science. This engine makes it very easy to visualize objects and create 3D applications.A 3D engine written in Java aimed at students of computer science. This engine makes it very easy to visualize objects and create 3D applications.,"Categories
+Data Visualization"
+The Player Project: Player is a networked interface to robots and sensors. Stage and Gazebo are Player-friendly multiple-robot simulators. The software aims for POSIX compliance and runs on most UNIX-like OS's. Some parts also work on Windows.The Player Project: Player is a networked interface to robots and sensors. Stage and Gazebo are Player-friendly multiple-robot simulators. The software aims for POSIX compliance and runs on most UNIX-like OS's. Some parts also work on Windows.,"Categories
+Robotics, Artificial Intelligence, Education"
+"SysTools is a library of utility routines & classes for Borland Delphi, C++Builder, & environments that support COM. It includes 1-D & 2-D bar codes, sorting, money routines, logging, high-precision math, a run-time math expression analyzer, & much more.SysTools is a library of utility routines & classes for Borland Delphi, C++Builder, & environments that support COM. It includes 1-D & 2-D bar codes, sorting, money routines, logging, high-precision math, a run-time math expression analyzer, & much more.","Categories
+Financial, Software Development, Networking, Logging, Astronomy"
+"this is a small project which provides several mathematical function useful for a chemist or somebody working with mass specs.
+
+The goal is to provide several cuda and c based functions which can be easily accessed using java, groovy and python.this is a small project which provides several mathematical function useful for a chemist or somebody working with mass specs.
+
+The goal is to provide several cuda and c based functions which can be easily accessed using java, groovy and python.","Categories
+Chemistry"
+"Automatically geocode pictures from your camera and a GPS track log.
+
+Following Google code closure the only official webpage is (doc, support, code) :
+https://github.com/notfrancois/GPicSyncAutomatically geocode pictures from your camera and a GPS track log.
+
+Following Google code closure the only official webpage is (doc, support, code) :
+https://github.com/notfrancois/GPicSync","Categories
+Digital Camera, Education, GIS"
+"UrJTAG aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more. It is a descendant of the popular openwince JTAG tools with a lot of additional features and enhancements.UrJTAG aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more. It is a descendant of the popular openwince JTAG tools with a lot of additional features and enhancements.","Categories
+Hardware Drivers, Interface Engine/Protocol Translator, Electronic Design Automation (EDA)"
+"BWA is a program for aligning sequencing reads against a large reference genome (e.g. human genome). It has two major components, one for read shorter than 150bp and the other for longer reads.BWA is a program for aligning sequencing reads against a large reference genome (e.g. human genome). It has two major components, one for read shorter than 150bp and the other for longer reads.","Categories
+Bio-Informatics"
+"Jafama (Java Fast Math) consists of fast - but not sloppy - counterparts of java.lang.Math treatments, plus additional ones.
+
+They are usually about 2-4 (up to 15) times faster, with about 1e-15 accuracy, and handle special cases (NaN, etc.).
+
+Since version 2.1, a StrictFastMath class is also provided. It is a strictfp version of FastMath (and not a fast version of StrictMath): for a same version of this library, its methods always return a same result for same arguments, which might not be the case for FastMath depending on JIT or other JVM optimizations.
+
+Requires Java 5 or later.
+
+Available on Central since 2015/06/05.
+
+Also available on github since 2015/12/13:
+https://github.com/jeffhain/jafamaJafama (Java Fast Math) consists of fast - but not sloppy - counterparts of java.lang.Math treatments, plus additional ones.
+
+They are usually about 2-4 (up to 15) times faster, with about 1e-15 accuracy, and handle special cases (NaN, etc.).
+
+Since version 2.1, a StrictFastMath class is also provided. It is a strictfp version of FastMath (and not a fast version of StrictMath): for a same version of this library, its methods always return a same result for same arguments, which might not be the case for FastMath depending on JIT or other JVM optimizations.
+
+Requires Java 5 or later.
+
+Available on Central since 2015/06/05.
+
+Also available on github since 2015/12/13:
+https://github.com/jeffhain/jafama","Categories
+Mathematics"
+"Load, modify and save your GPX 1.1 files. Add and remove waypoints, edit track and routes, simplify tracks (reducing file's size), clean recorded data, add and edit GPX metadata, edit waypoint, route and track properties, all with real-time preview.Load, modify and save your GPX 1.1 files. Add and remove waypoints, edit track and routes, simplify tracks (reducing file's size), clean recorded data, add and edit GPX metadata, edit waypoint, route and track properties, all with real-time preview.","Categories
+GPS, GIS"
+"NOTE: the project has moved to https://scipy.org/scipylib/ --- go there to find latest versions. This sourceforge project contains only old historical versions of the software.
+
+
+SciPy is package of tools for science and engineering for Python. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.NOTE: the project has moved to https://scipy.org/scipylib/ --- go there to find latest versions. This sourceforge project contains only old historical versions of the software.
+
+
+SciPy is package of tools for science and engineering for Python. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.","Categories
+Scientific/Engineering"
+A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.,"Categories
+Office/Business, Desktop Environment, Scanner, OCR"
+"Archimedes will be a Computer Aided Design (CAD) program developed side by side with architecture offices in order to fulfill all their needs.
+This way, we hope to develop software better suited for architects than the currently widely used AutoCAD.Archimedes will be a Computer Aided Design (CAD) program developed side by side with architecture offices in order to fulfill all their needs.
+This way, we hope to develop software better suited for architects than the currently widely used AutoCAD.","Categories
+Data Visualization"
+"Linear Program Solver (LiPS) is an optimization package oriented on solving linear, integer and goal programming problems.
+The main features of LiPS are:
+● LiPS is based on the efficient implementation of the modified simplex method that solves large scale problems.
+● LiPS provides not just an answer, but a detailed solution process as a sequence of simplex tables, so you can use it for studying/teaching linear programming.
+● LiPS gives sensitivity analysis procedures, which allow us to study the behaviour of the model when you change its parameters, including: analysis of changes in the right sides of constraints, analysis of changes in the coefficients of the objective function, analysis of changes in the column/row of the technology matrix. Such information may be extremely useful for the practical application of LP Models.
+● LiPS provides methods of goal programming, including lexicographic and weighted GP methods, which are oriented on multi-objective optimisation.Linear Program Solver (LiPS) is an optimization package oriented on solving linear, integer and goal programming problems.
+The main features of LiPS are:
+● LiPS is based on the efficient implementation of the modified simplex method that solves large scale problems.
+● LiPS provides not just an answer, but a detailed solution process as a sequence of simplex tables, so you can use it for studying/teaching linear programming.
+● LiPS gives sensitivity analysis procedures, which allow us to study the behaviour of the model when you change its parameters, including: analysis of changes in the right sides of constraints, analysis of changes in the coefficients of the objective function, analysis of changes in the column/row of the technology matrix. Such information may be extremely useful for the practical application of LP Models.
+● LiPS provides methods of goal programming, including lexicographic and weighted GP methods, which are oriented on multi-objective optimisation.","Categories
+Algorithms, Mathematics, Data Modeling"
+"The General Mission Analysis Tool (GMAT) is an open-source tool for space mission design and navigation. GMAT is developed by a team of NASA, private industry, and public and private contributors.
+
+The GMAT development team is pleased to announce the release of GMAT version R2022a. For a complete list of new features, compatibility changes, and bug fixes, see the R2022a Release Notes in the Users Guide.The General Mission Analysis Tool (GMAT) is an open-source tool for space mission design and navigation. GMAT is developed by a team of NASA, private industry, and public and private contributors.
+
+The GMAT development team is pleased to announce the release of GMAT version R2022a. For a complete list of new features, compatibility changes, and bug fixes, see the R2022a Release Notes in the Users Guide.","Categories
+Simulation, Data Visualization, Mathematics, Physics"
+Graph is a program used for drawing graphs of mathematical functions. It is easy to use while having a lot of features and settings. Official web site is located at http://www.padowan.dkGraph is a program used for drawing graphs of mathematical functions. It is easy to use while having a lot of features and settings. Official web site is located at http://www.padowan.dk,"Categories
+Mathematics, Education"
+TiEmu is an emulator of Texas Instruments hand-helds (TI89/92/92+/V200) for Linux & Windows written with GTK. Full-featured with a graphical debugger.TiEmu is an emulator of Texas Instruments hand-helds (TI89/92/92+/V200) for Linux & Windows written with GTK. Full-featured with a graphical debugger.,"Categories
+Virtual Machine, Scientific/Engineering, Education"
+"usbpicprog is a Microchip PIC programmer with simple hardware: one PIC18F2550 and some components. It's therefore easy and cheap to build. Usbpicprog consists of 3 components: Hardware, Embedded software and a stand-alone program for Win, Mac and Linux.usbpicprog is a Microchip PIC programmer with simple hardware: one PIC18F2550 and some components. It's therefore easy and cheap to build. Usbpicprog consists of 3 components: Hardware, Embedded software and a stand-alone program for Win, Mac and Linux.","Categories
+Hardware, Scientific/Engineering"
+"Cross-platform software for producing Veroboard (stripboard), Perfboard, and 1-layer or 2-layer PCB layouts. Automatically prevents short-circuits and checks for open-circuits. Pre-compiled versions available for MS Windows and 64-bit Linux Mint 19.3 (should also run on other 64-bit Linux systems that are based on Debian and support Qt version >= 5.9.5). Android APK available (tested on Android 7 and Android 10) and requires device resolution of at least 1280x800.Cross-platform software for producing Veroboard (stripboard), Perfboard, and 1-layer or 2-layer PCB layouts. Automatically prevents short-circuits and checks for open-circuits. Pre-compiled versions available for MS Windows and 64-bit Linux Mint 19.3 (should also run on other 64-bit Linux systems that are based on Debian and support Qt version >= 5.9.5). Android APK available (tested on Android 7 and Android 10) and requires device resolution of at least 1280x800.","Categories
+Electronic Design Automation (EDA)"
+"Ethernet/IP Explorer/Browser written in C#. Run on Windows & Linux with mono.
+ODVA CIP : Common Industrial Protocol.
+Shows devices on the local network.
+Displays the classes, instances, attributes.
+Decodes values using standard decoders and also ones defined by the user.
+Write attributes.
+Can send ForwardOpen for T->O and T->O data exchange, also with user defined decoder.
+Full open source code.
+
+Explicit & Implicit messaging basic client source codes.
+
+EtherNet/IP™ is a registered trademark of ODVA, Inc.Ethernet/IP Explorer/Browser written in C#. Run on Windows & Linux with mono.
+ODVA CIP : Common Industrial Protocol.
+Shows devices on the local network.
+Displays the classes, instances, attributes.
+Decodes values using standard decoders and also ones defined by the user.
+Write attributes.
+Can send ForwardOpen for T->O and T->O data exchange, also with user defined decoder.
+Full open source code.
+
+Explicit & Implicit messaging basic client source codes.
+
+EtherNet/IP™ is a registered trademark of ODVA, Inc.","Categories
+SCADA"
+"JLibModbus is an implementation of the Modbus protocol v1.1b in java language.
+
+The library supports the most popular communication libraries (jssc, rxtx, jSerialComm, purejavacomm, java comm api);
+
+Maven dependency:
+<dependency>
+<groupId>com.intelligt.modbus</groupId>
+<artifactId>jlibmodbus</artifactId>
+<version>1.2.9.7</version>
+</dependency>
+
+Implemented MODBUS functions:
+0x01 Read Coils
+0x02 Read Discrete Inputs
+0x03 Read Holding Registers
+0x04 Read Input Registers
+0x05 Write Single Coil
+0x06 Write Single Register
+0x07 Read Exception Status
+0x08 Diagnostics
+0x0B Get Comm Event Counter
+0x0C Get Comm Event Log
+0x0F Write Multiple Coils
+0x10 Write Multiple Registers
+0x11 Report Slave Id
+0x14 Read File Record
+0x15 Write File Record
+0x16 Mask Write Register
+0x17 Read Write Multiple Registers
+0x18 Read Fifo Queue
+0x2B Encapsulated Interface Transport (Read Device Identification interface)JLibModbus is an implementation of the Modbus protocol v1.1b in java language.
+
+The library supports the most popular communication libraries (jssc, rxtx, jSerialComm, purejavacomm, java comm api);
+
+Maven dependency:
+<dependency>
+<groupId>com.intelligt.modbus</groupId>
+<artifactId>jlibmodbus</artifactId>
+<version>1.2.9.7</version>
+</dependency>
+
+Implemented MODBUS functions:
+0x01 Read Coils
+0x02 Read Discrete Inputs
+0x03 Read Holding Registers
+0x04 Read Input Registers
+0x05 Write Single Coil
+0x06 Write Single Register
+0x07 Read Exception Status
+0x08 Diagnostics
+0x0B Get Comm Event Counter
+0x0C Get Comm Event Log
+0x0F Write Multiple Coils
+0x10 Write Multiple Registers
+0x11 Report Slave Id
+0x14 Read File Record
+0x15 Write File Record
+0x16 Mask Write Register
+0x17 Read Write Multiple Registers
+0x18 Read Fifo Queue
+0x2B Encapsulated Interface Transport (Read Device Identification interface)","Categories
+Communications, Scientific/Engineering"
+"The PS-Drone-API is a full featured SDK, written in and for Python, for Parrot's AR.Drone 2.0.
+It was designed to be easy to learn, but it offers the full set of the possibilities of the AR.Drone 2.0, including Sensor-Data (aka NavData), Configuration and full Video-support.
+
+The video function is not restricted to mere viewing, it is also possible to analyze video images data using OpenCV2.
+
+Obviously, the PS-Drone is perfect for teaching purposes; however, even the requirements for professional purposes can be satisfied.
+
+PS-Drone comes with a tutorial, explaining its most important commands and the drone's most important sensor values. The examples are easy to understand for people with little programming experience.
+
+A full list of commands and a description of all sensor data is available in a detailed documentation.
+
+It took several months to create PS-Drone, so it would be nice to get some donations for further development (e.g. Parrot's Bebop) and as a appreciation.The PS-Drone-API is a full featured SDK, written in and for Python, for Parrot's AR.Drone 2.0.
+It was designed to be easy to learn, but it offers the full set of the possibilities of the AR.Drone 2.0, including Sensor-Data (aka NavData), Configuration and full Video-support.
+
+The video function is not restricted to mere viewing, it is also possible to analyze video images data using OpenCV2.
+
+Obviously, the PS-Drone is perfect for teaching purposes; however, even the requirements for professional purposes can be satisfied.
+
+PS-Drone comes with a tutorial, explaining its most important commands and the drone's most important sensor values. The examples are easy to understand for people with little programming experience.
+
+A full list of commands and a description of all sensor data is available in a detailed documentation.
+
+It took several months to create PS-Drone, so it would be nice to get some donations for further development (e.g. Parrot's Bebop) and as a appreciation.","Categories
+Scientific/Engineering, Hobbies, Research"
+"IEDExplorer is an IEC 61850 client tool written for testing and educational purposes. IEDExplorer can connect to an IEC61850 device (also called an IED) over MMS (ISO/IEC9506-1 and ISO/IEC 9506-2) communication protocol. The tool is written in pure C# including the MMS ASN.1 parser (based on BinaryNotes ASN.1 tool) and runs in .net environment, on Windows. Linux/Mono support has been lost on the way (volunteers welcome). See Features for what the tool can do for you.
+
+I will appreciate your help in testing and extending the tool!IEDExplorer is an IEC 61850 client tool written for testing and educational purposes. IEDExplorer can connect to an IEC61850 device (also called an IED) over MMS (ISO/IEC9506-1 and ISO/IEC 9506-2) communication protocol. The tool is written in pure C# including the MMS ASN.1 parser (based on BinaryNotes ASN.1 tool) and runs in .net environment, on Windows. Linux/Mono support has been lost on the way (volunteers welcome). See Features for what the tool can do for you.
+
+I will appreciate your help in testing and extending the tool!","Categories
+Communications, SCADA, Test and Measurement"
+"Fenix, software for communication with devices in Modbus Network. You can easily take data from Modbus Slave. You can group registers in to Tags. You are able to see bytes log from communication and make chart for your create tags.
+
+Youtube Playlist:
+https://www.youtube.com/playlist?list=PLYak7DcUWiYJDuYCN3C5su0kRqhGemBWT
+
+BLOG
+http://fenixmodbus.blogspot.com/
+
+COMMUNITY
+https://plus.google.com/communities/106171266939818740939
+
+MyPage
+http://danielgiron.pl/Fenix, software for communication with devices in Modbus Network. You can easily take data from Modbus Slave. You can group registers in to Tags. You are able to see bytes log from communication and make chart for your create tags.
+
+Youtube Playlist:
+https://www.youtube.com/playlist?list=PLYak7DcUWiYJDuYCN3C5su0kRqhGemBWT
+
+BLOG
+http://fenixmodbus.blogspot.com/
+
+COMMUNITY
+https://plus.google.com/communities/106171266939818740939
+
+MyPage
+http://danielgiron.pl/","Categories
+Communications, Simulation, SCADA"
+"WavePacket is a program package for numerical simulation of quantum-mechanical wavepacket dynamics of distinguishable particles. It can be used to solve single or coupled time-independent or time-dependent (linear) Schrödinger and Liouville-von Neumann-equations, partly also classical or quantum-classical Liouville equations. Optionally accounting for the interaction with external electric fields within the semiclassical dipole approximation, WavePacket can be used to simulate modern experiments involving ultrashort light pulses in photo-induced physics or chemistry, including quantum optimal control. Allowing for visualization of dynamics 'on the fly', WavePacket is easy to use .
+
+First established in 2004, the present Matlab version is in a stable, mature state. Further development mainly by Burkhard Schmidt at WIAS and FU Berlin. See also our articles at
+https://doi.org/10.1016/j.cpc.2016.12.007
+https://doi.org/10.1016/j.cpc.2018.02.022
+https://doi.org/10.1002/JCC.26045WavePacket is a program package for numerical simulation of quantum-mechanical wavepacket dynamics of distinguishable particles. It can be used to solve single or coupled time-independent or time-dependent (linear) Schrödinger and Liouville-von Neumann-equations, partly also classical or quantum-classical Liouville equations. Optionally accounting for the interaction with external electric fields within the semiclassical dipole approximation, WavePacket can be used to simulate modern experiments involving ultrashort light pulses in photo-induced physics or chemistry, including quantum optimal control. Allowing for visualization of dynamics 'on the fly', WavePacket is easy to use .
+
+First established in 2004, the present Matlab version is in a stable, mature state. Further development mainly by Burkhard Schmidt at WIAS and FU Berlin. See also our articles at
+https://doi.org/10.1016/j.cpc.2016.12.007
+https://doi.org/10.1016/j.cpc.2018.02.022
+https://doi.org/10.1002/JCC.26045","Categories
+Molecular Science, Chemistry, Physics"
+Automatic system of vocalization of arabic text.Automatic system of vocalization of arabic text.,"Categories
+Linguistics"
+"Minsky brings system dynamics and monetary modelling to economics. Models are defined using flowcharts on a drawing canvas (as are Matlab's Simulink, Vensim, Stella, etc). Minsky's unique feature is the ""Godley Table"", which uses double entry bookkeeping to generate stock-flow consistent models of financial flows.
+
+Minsky is good for demonstrating mathematics too, with the most ""math-like"" interface in system dynamics.
+
+Development of Minsky is being funded by Friends Provident Foundation. Updates will be posted regularly while this funding continues (see https://www.patreon.com/posts/friends-provides-30880108 for details).
+
+Sign up to Minsky's Patreon page (for a minimum of $1 a month) at https://www.patreon.com/hpcoder/. This creates a user community, which SourceForge doesn't facilitate.
+
+Full changes shown here: https://minsky.sourceforge.io/changelog.htmMinsky brings system dynamics and monetary modelling to economics. Models are defined using flowcharts on a drawing canvas (as are Matlab's Simulink, Vensim, Stella, etc). Minsky's unique feature is the ""Godley Table"", which uses double entry bookkeeping to generate stock-flow consistent models of financial flows.
+
+Minsky is good for demonstrating mathematics too, with the most ""math-like"" interface in system dynamics.
+
+Development of Minsky is being funded by Friends Provident Foundation. Updates will be posted regularly while this funding continues (see https://www.patreon.com/posts/friends-provides-30880108 for details).
+
+Sign up to Minsky's Patreon page (for a minimum of $1 a month) at https://www.patreon.com/hpcoder/. This creates a user community, which SourceForge doesn't facilitate.
+
+Full changes shown here: https://minsky.sourceforge.io/changelog.htm","Categories
+Simulation, Mathematics, Business Process Management"
+"Nice looking calculator using Reverse Polish Notation (RPN) written for Windows.
+It supports DEC, HEX, BIN, OCT numbers, GRAD, RAD and DEG.Nice looking calculator using Reverse Polish Notation (RPN) written for Windows.
+It supports DEC, HEX, BIN, OCT numbers, GRAD, RAD and DEG.","Categories
+Mathematics, Calculators, RPN Calculators"
+"Piko solar inverter interface. Get online real time data and status. Get also history data. Database management of data. Exports, graphs, ... Manage data and stats using a SQLite or MySQL database. Third party intergration. See the Wiki home page for more informations.Piko solar inverter interface. Get online real time data and status. Get also history data. Database management of data. Exports, graphs, ... Manage data and stats using a SQLite or MySQL database. Third party intergration. See the Wiki home page for more informations.","Categories
+Other/Nonlisted Topic, Ecosystem Sciences, Interface Engine/Protocol Translator"
+"Translation of Selected text or Clipboard contents powered by Google. HotKeys Paste/Change Text auto translated. View in Balloon/Window the result of translation, besides being sent to the clipboard. Screen Capture of Desktop/Game > OCR > Translated.Translation of Selected text or Clipboard contents powered by Google. HotKeys Paste/Change Text auto translated. View in Balloon/Window the result of translation, besides being sent to the clipboard. Screen Capture of Desktop/Game > OCR > Translated.","Categories
+Languages, OCR"
+"3D modeler, 3D game maker, 3D demo maker. A powerfull tool to modelise and create games. Scripting language allows you to code interactions in pseudo-C with the animation and synthetize your own rendering with own-made shaders.
+
+Support for FBX, BLEND, GLTF, OBJ, 3DS, DAE, X, XML, ASC, PLY...
+
+Cross-platform project WINDOWS 32/64 /MACOSX 10.6/ 10.8+/APPLSilicon /LINUX/iOS/ANDROID/WINDOWS PHONE/GOOGLE VR/OPEN VR/OCULUS VR/WEBASM/UWP8/10, Rasp PI runs with player and/or editor.
+
+Android .NED Player (install APK and ""open with"" with file managers)
+.APK generator for Android.
+
+Support for:
+Direct3D9 (SM3).
+Direct3D10 (SM4).
+Direct3D11 (SM5).
+Direct3D12 (SM5).
+OpenGL and GLSL.
+GLES and GLES20.
+METAL for OSX and iOS.
+Retina, UHD.
+
+Intel x86/64 and ARMv7/ARM64.
+Full port for Linux (Ubuntu/wxWidgets(Gtk3)).
+iOS .NED Player (with XCode) (GLES20/METAL)
+Windows Phone 8.1+
+Windows VR (Steam/Oculus)
+WebAsm/WebGL
+UWP for Windows/XBOX
+Raspberry PI
+Latest : 3.12.73.20223D modeler, 3D game maker, 3D demo maker. A powerfull tool to modelise and create games. Scripting language allows you to code interactions in pseudo-C with the animation and synthetize your own rendering with own-made shaders.
+
+Support for FBX, BLEND, GLTF, OBJ, 3DS, DAE, X, XML, ASC, PLY...
+
+Cross-platform project WINDOWS 32/64 /MACOSX 10.6/ 10.8+/APPLSilicon /LINUX/iOS/ANDROID/WINDOWS PHONE/GOOGLE VR/OPEN VR/OCULUS VR/WEBASM/UWP8/10, Rasp PI runs with player and/or editor.
+
+Android .NED Player (install APK and ""open with"" with file managers)
+.APK generator for Android.
+
+Support for:
+Direct3D9 (SM3).
+Direct3D10 (SM4).
+Direct3D11 (SM5).
+Direct3D12 (SM5).
+OpenGL and GLSL.
+GLES and GLES20.
+METAL for OSX and iOS.
+Retina, UHD.
+
+Intel x86/64 and ARMv7/ARM64.
+Full port for Linux (Ubuntu/wxWidgets(Gtk3)).
+iOS .NED Player (with XCode) (GLES20/METAL)
+Windows Phone 8.1+
+Windows VR (Steam/Oculus)
+WebAsm/WebGL
+UWP for Windows/XBOX
+Raspberry PI
+Latest : 3.12.73.2022","Categories
+Games/Entertainment, 3D Modeling, Intelligent Agents"
+"PixelLight is a cross-platform application framework for any kind of 3D applications like games, interactive simulations or visualizations. It's written in C++ and has been designed with flexibility and extensibility as one of it's main goals.PixelLight is a cross-platform application framework for any kind of 3D applications like games, interactive simulations or visualizations. It's written in C++ and has been designed with flexibility and extensibility as one of it's main goals.","Categories
+Games/Entertainment, 3D Rendering, Data Visualization"
+"Web based visualizations of data from CPAP/APAP machines, such as the Philips Respironics System OneWeb based visualizations of data from CPAP/APAP machines, such as the Philips Respironics System One","Categories
+Data Visualization, Medical"
+"This project has created scientific firmware for the HP-20b and HP-30b business calculators.
+
+WP 34S turns either of these calculators into a powerful keystroke programmable scientific device. According to our customers, it's the most powerful and fastest RPN scientific pocket calculator ever built.
+
+WP 34S is alive and stable since 2011. We have succeeded in satisfying the most picky users - read about their experiences on http://www.hpmuseum.org/forum/forum-8.html. Since 2014, WP 34S runs in version 3.3. Our customers confirm its documentation is excellent and comprehensive (see feedback); a full-color printed edition is available from https://www.amazon.com/dp/153366238X since 2018-10-15. Alternatively, you can get a personalized pdf-manual for a ≥ 9 US$ donation here.
+
+We have also produced the WP 31S which is derived from the WP 34S source code. This is an entry-level scientific calculator. Its printed manual is available from https://www.amazon.com/dp/1499231164 .This project has created scientific firmware for the HP-20b and HP-30b business calculators.
+
+WP 34S turns either of these calculators into a powerful keystroke programmable scientific device. According to our customers, it's the most powerful and fastest RPN scientific pocket calculator ever built.
+
+WP 34S is alive and stable since 2011. We have succeeded in satisfying the most picky users - read about their experiences on http://www.hpmuseum.org/forum/forum-8.html. Since 2014, WP 34S runs in version 3.3. Our customers confirm its documentation is excellent and comprehensive (see feedback); a full-color printed edition is available from https://www.amazon.com/dp/153366238X since 2018-10-15. Alternatively, you can get a personalized pdf-manual for a ≥ 9 US$ donation here.
+
+We have also produced the WP 31S which is derived from the WP 34S source code. This is an entry-level scientific calculator. Its printed manual is available from https://www.amazon.com/dp/1499231164 .","Categories
+Scientific/Engineering, Embedded Systems, Calculators, Scientific Calculators, RPN Calculators"
+Starbatch is a batch lisp program for Autodesk Autocad drawings. Using StarBatch you can automate AutoCAD to save you time and money. Batch your favourite Lisp's while you complete other tasks.Starbatch is a batch lisp program for Autodesk Autocad drawings. Using StarBatch you can automate AutoCAD to save you time and money. Batch your favourite Lisp's while you complete other tasks.,"Categories
+Mechanical and Civil Engineering, Computer-aided technologies (CADD/CAM/CAE), CAD"
+IST helps test teams managing complexity by adaptively selecting and prioritizing the test cases according to past test results. ISTT guides the testers through a test session with high-level test scenarios generated on the fly.IST helps test teams managing complexity by adaptively selecting and prioritizing the test cases according to past test results. ISTT guides the testers through a test session with high-level test scenarios generated on the fly.,"Categories
+Software Testing, QA Automation, Test and Measurement"
+"AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.","Categories
+Data Formats, Software Development, Mechanical and Civil Engineering"
+"An application for using an external bluetooth GPS on Android devices.
+
+The application connects to a Bluetooth device (NMEA GPS) and creates a GPS provider which can be used to replace the internal GPS.An application for using an external bluetooth GPS on Android devices.
+
+The application connects to a Bluetooth device (NMEA GPS) and creates a GPS provider which can be used to replace the internal GPS.","Categories
+Mobile, GPS"
+"The count of vehicles is a key task in traffic gauging, as it provides information for designing new roads. This software presents an algorithm to detect and track vehicles in real time or from a video file.The count of vehicles is a key task in traffic gauging, as it provides information for designing new roads. This software presents an algorithm to detect and track vehicles in real time or from a video file.","Categories
+Computer-aided technologies (CADD/CAM/CAE)"
+"Project moved to https://codelv.com/projects/inkcut/
+Code move to https://github.com/codelv/inkcut/
+Forum moved to https://inkcut.org/Project moved to https://codelv.com/projects/inkcut/
+Code move to https://github.com/codelv/inkcut/
+Forum moved to https://inkcut.org/","Categories
+Printing, Data Visualization, Mechanical and Civil Engineering"
+"This project aims to provide software usefull in automation tasks like building automation. Different backends are supported like KNX or OpenHAB.
+
+Note: The project has moved to GitHub. Please consult:
+https://github.com/CometVisu/CometVisu - for the CometVisu
+https://github.com/OpenAutomationProject - for the different OpenAutomation subprojectsThis project aims to provide software usefull in automation tasks like building automation. Different backends are supported like KNX or OpenHAB.
+
+Note: The project has moved to GitHub. Please consult:
+https://github.com/CometVisu/CometVisu - for the CometVisu
+https://github.com/OpenAutomationProject - for the different OpenAutomation subprojects","Categories
+SCADA, Home Automation"
+"Choco is not hosted on sourceforge anymore.
+Please now visit http://choco-solver.org/ !Choco is not hosted on sourceforge anymore.
+Please now visit http://choco-solver.org/ !","Categories
+Software Development, Artificial Intelligence, Research"
+"TANGO is a device oriented control system for Linux and Windows. It provides a framework in C++, Java and Python for implementing distributed control objects. TANGO has a full set of tools and hundreds of device servers.TANGO is a device oriented control system for Linux and Windows. It provides a framework in C++, Java and Python for implementing distributed control objects. TANGO has a full set of tools and hundreds of device servers.","Categories
+HMI, SCADA, Test and Measurement"
+"refbase is a web-based bibliographic manager which can import and export references in various formats (including BibTeX, Endnote, MODS XML, and OpenOffice). It can make formatted lists of citations and offers powerful searching, rich metadata, and RSS.refbase is a web-based bibliographic manager which can import and export references in various formats (including BibTeX, Endnote, MODS XML, and OpenOffice). It can make formatted lists of citations and offers powerful searching, rich metadata, and RSS.","Categories
+Front-Ends, Library, HMI"
+"Semantic web technologies and wiki paradigms are combined with advanced user interfaces for browsing, editing and maintenance.
+SMW+ Community edition: Installer includes PHP, MySQL, MW, SMW and Halo extension
+Community and User Manuals on http://www.smwplus.netSemantic web technologies and wiki paradigms are combined with advanced user interfaces for browsing, editing and maintenance.
+SMW+ Community edition: Installer includes PHP, MySQL, MW, SMW and Halo extension
+Community and User Manuals on http://www.smwplus.net","Categories
+Office/Business, Scientific/Engineering, Wiki"
+A PHP and JavaScript Web mapping framework and demo application for MapServer (see http://mapserver.gis.umn.edu) based on MapScript/PHP.A PHP and JavaScript Web mapping framework and demo application for MapServer (see http://mapserver.gis.umn.edu) based on MapScript/PHP.,"Categories
+Dynamic Content, GIS"
+"ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1","Categories
+Data Formats, Code Generators, Compilers, Interface Engine/Protocol Translator"
+"PyX is a Python package for the creation of EPS, PS, PDF and SVG files. It combines an abstraction of the PostScript drawing model with a TeX/LaTeX interface. Complex tasks like 2d and 3d plots in publication-ready quality are built out of these primitives.PyX is a Python package for the creation of EPS, PS, PDF and SVG files. It combines an abstraction of the PostScript drawing model with a TeX/LaTeX interface. Complex tasks like 2d and 3d plots in publication-ready quality are built out of these primitives.","Categories
+Data Visualization"
+"FREE!ship is a surface modeling program for designing ships yachts and boats. Subdivision surfaces are used rather than NURBS to give the designer the freedom to design ANY desired hullshape. Unfold surfaces, panel based hydrostatics, various exp formatsFREE!ship is a surface modeling program for designing ships yachts and boats. Subdivision surfaces are used rather than NURBS to give the designer the freedom to design ANY desired hullshape. Unfold surfaces, panel based hydrostatics, various exp formats","Categories
+3D Modeling, Vector Graphics, Data Visualization"
+An open source game that uses realistic physics simulations to combine lots of simple mechanical elements to achieve a simple goal in the most complex way possible.An open source game that uses realistic physics simulations to combine lots of simple mechanical elements to achieve a simple goal in the most complex way possible.,"Categories
+Simulation Games, Puzzle Games, Simulation"
+"C library for robot creators using certain AVR microcontrollers with support for 3rd party hardware boards for various sensors and motor controllers. Comprehensive PDF manual included in the download.
+
+Version 2 code stream - requires that projects are created using Project Designer from my web site. If your board isn't listed in Project Designer then look at Board Designer on my web-site to create your own custom board - or if its a commercial board then let me know and, with permission, I will add your design to the release.
+
+Version 1 code stream - requires you to do everything by hand and will be discontinued in the near future.C library for robot creators using certain AVR microcontrollers with support for 3rd party hardware boards for various sensors and motor controllers. Comprehensive PDF manual included in the download.
+
+Version 2 code stream - requires that projects are created using Project Designer from my web site. If your board isn't listed in Project Designer then look at Board Designer on my web-site to create your own custom board - or if its a commercial board then let me know and, with permission, I will add your design to the release.
+
+Version 1 code stream - requires you to do everything by hand and will be discontinued in the near future.","Categories
+Frameworks, Robotics, Libraries"
+A complete open source implementation of DIS (Distributed Interactive Simulation) in C++. 1278.1 and 1278.1a are fully implemented including enumerations. Includes several utility classes to help with developing your DIS app. DIS 7 work is ongoing.A complete open source implementation of DIS (Distributed Interactive Simulation) in C++. 1278.1 and 1278.1a are fully implemented including enumerations. Includes several utility classes to help with developing your DIS app. DIS 7 work is ongoing.,"Categories
+Data Formats, Simulation Games, Simulation"
+A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding.A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding.,"Categories
+Graphics, Artificial Intelligence, Mathematics"
+"SystemImager is software that makes the installation of Linux to masses of similar machines relatively easy. It makes software distribution, configuration, and operating system updates easy, and can also be used for content distribution.SystemImager is software that makes the installation of Linux to masses of similar machines relatively easy. It makes software distribution, configuration, and operating system updates easy, and can also be used for content distribution.","Categories
+Site Management, Backup, Software Distribution, Installation/Setup, Clustering, Scientific/Engineering"
+"Calc is arbitrary precision C-like arithmetic system that is a calculator, an algorithm prototyper and mathematical research tool. Calc comes with a rich set of builtin mathematical and programmatic functions.Calc is arbitrary precision C-like arithmetic system that is a calculator, an algorithm prototyper and mathematical research tool. Calc comes with a rich set of builtin mathematical and programmatic functions.","Categories
+Mathematics, Calculators"
+wview is a unix application for weather stations. It archives weather data from the station. Generates full html web sites with graphics. ftp/ssh export capability. MySQL/PostgreSQL archiving. International. Weather alarms. Data feed. RSS feed.wview is a unix application for weather stations. It archives weather data from the station. Generates full html web sites with graphics. ftp/ssh export capability. MySQL/PostgreSQL archiving. International. Weather alarms. Data feed. RSS feed.,"Categories
+WWW/HTTP, Archiving, Information Analysis, Weather, Weather Station"
+"PARPs database is a web-based tool whose features include experiment annotation, protein database searching, protein sequence management.Statistical validation, , visualization, and converters from raw MS data open mzXML mzData formatPARPs database is a web-based tool whose features include experiment annotation, protein database searching, protein sequence management.Statistical validation, , visualization, and converters from raw MS data open mzXML mzData format","Categories
+Molecular Science, Bio-Informatics"
+The PTP daemon (PTPd) implements the Precision Time protocol (PTP) as defined by the IEEE 1588 standard. PTP was developed to provide very precise time coordination of LAN connected computers. PTPd boasts an advanced set of features and is highly configurable.The PTP daemon (PTPd) implements the Precision Time protocol (PTP) as defined by the IEEE 1588 standard. PTP was developed to provide very precise time coordination of LAN connected computers. PTPd boasts an advanced set of features and is highly configurable.,"Categories
+Other/Nonlisted Topic, System, Test and Measurement"
+Open architecture for modular and self-independent networked robot.Open architecture for modular and self-independent networked robot.,"Categories
+Robotics"
+"MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.MRCWA - Multilayer Rigorous Coupled Wave Analysis is a fast, flexible optical grating solver. It calculates an exact solution to the Maxwell equations for the diffraction of light from an optical grating with arbitrary profile and materials.","Categories
+Physics"
+"C3D is a command-line tool for converting 3D images between common file formats. The tool also includes a growing list of commands for image manipulation, such as thresholding and resampling.C3D is a command-line tool for converting 3D images between common file formats. The tool also includes a growing list of commands for image manipulation, such as thresholding and resampling.","Categories
+Medical, Command Line Tools"
+"IRSTLM is no more supported on SourceForge.
+
+Please visit the new IRSTLM official website:
+http://hlt-mt.fbk.eu/technologies/irstlm
+
+
+IRSTLM: A tool for the estimation, representation, and computation of statistical language models.
+
+IRSTLM, the IRST Language Modeling Toolkit, features algorithms and data structures suitable to estimate, store, and access very large n-gram language models. Our software has been integrated into a popular open source Statistical Machine Translation decoder called Moses, and is compatible with language models created with other tools, such as the SRILM Tooolkit.IRSTLM is no more supported on SourceForge.
+
+Please visit the new IRSTLM official website:
+http://hlt-mt.fbk.eu/technologies/irstlm
+
+
+IRSTLM: A tool for the estimation, representation, and computation of statistical language models.
+
+IRSTLM, the IRST Language Modeling Toolkit, features algorithms and data structures suitable to estimate, store, and access very large n-gram language models. Our software has been integrated into a popular open source Statistical Machine Translation decoder called Moses, and is compatible with language models created with other tools, such as the SRILM Tooolkit.","Categories
+Scientific/Engineering"
+"Egonet is a program for the collection and analysis of egocentric network data. It helps you create the questionnaire, collect data, and provide general global network measures and data matrixes that can be used for further analysis by other software.
+
+Source code is hosted at http://github.com/egonet/egonet.Egonet is a program for the collection and analysis of egocentric network data. It helps you create the questionnaire, collect data, and provide general global network measures and data matrixes that can be used for further analysis by other software.
+
+Source code is hosted at http://github.com/egonet/egonet.","Categories
+Data Visualization, Sociology"
+Magstripper is a magnetic card reader and decoder that takes raw waveform information from a magnetic audio head (soldered directly to a mono audio jack) and processes it via a mic input. It also includes a multi-user door lock access control system.Magstripper is a magnetic card reader and decoder that takes raw waveform information from a magnetic audio head (soldered directly to a mono audio jack) and processes it via a mic input. It also includes a multi-user door lock access control system.,"Categories
+Point of Sale (POS), Security, Information Analysis"
+"wxMathPlot is an add-on library for wxWidgets which provides a framework for easy plotting of mathematical functions, sampled data and generic 2D plots.wxMathPlot is an add-on library for wxWidgets which provides a framework for easy plotting of mathematical functions, sampled data and generic 2D plots.","Categories
+Window Managers, Mathematics"
+"Amide's a Medical Image Data Examiner: Amide is a tool for viewing, registering, and analyzing anatomical and functional volumetric medical imaging data sets.Amide's a Medical Image Data Examiner: Amide is a tool for viewing, registering, and analyzing anatomical and functional volumetric medical imaging data sets.","Categories
+Data Visualization, Medical"
+Visual Test Shell (VTS) is an application for testing the BACnet functionality of devices used in building automation systems.Visual Test Shell (VTS) is an application for testing the BACnet functionality of devices used in building automation systems.,"Categories
+Communications, SCADA"
+"MUMmer is a modular system for the rapid whole genome alignment of finished or draft sequence. This package provides an efficient suffix tree library, seed-and-extend alignment, SNP detection, repeat detection, and visualization tools.MUMmer is a modular system for the rapid whole genome alignment of finished or draft sequence. This package provides an efficient suffix tree library, seed-and-extend alignment, SNP detection, repeat detection, and visualization tools.","Categories
+Bio-Informatics"
+"A graphical interface for solving exterior ballistics problems, based on the excellent GNU exterior ballistics library. This software generates valid 3-DOF solutions to small arms trajectories, including wind and atmospheric corrections.A graphical interface for solving exterior ballistics problems, based on the excellent GNU exterior ballistics library. This software generates valid 3-DOF solutions to small arms trajectories, including wind and atmospheric corrections.","Categories
+Simulation, Data Visualization, Physics"
+"A program for organizing and commenting textual citations from texts (books, articles or other published works) for use in producing scientific or academic publications. Works together with EndNote, RefWorks and BibTeX. Exports to PDF and Word (RTF).A program for organizing and commenting textual citations from texts (books, articles or other published works) for use in producing scientific or academic publications. Works together with EndNote, RefWorks and BibTeX. Exports to PDF and Word (RTF).","Categories
+Database, Scientific/Engineering, Education"
+"NetEmul is a program for simulating computer networks. It makes possible to build, configure networks and verify its availability. This program allows beginners to see a principles of operation CN and gives a scope for experiments.NetEmul is a program for simulating computer networks. It makes possible to build, configure networks and verify its availability. This program allows beginners to see a principles of operation CN and gives a scope for experiments.","Categories
+Simulation, Education"
+"Framewave is a collection of popular image and signal processing routines designed to accelerate application development, debugging, and optimization on x86-class processor platforms.Framewave is a collection of popular image and signal processing routines designed to accelerate application development, debugging, and optimization on x86-class processor platforms.","Categories
+Software Development, Scientific/Engineering, Multimedia"
+"The FAKE GAME tool uses natural evolution to evolve Data Mining models. It incorporates several preprocessing, optimization and visualization methods aimed to streamline the Knowledge Discovery process. Knowledge Extraction from data is being automated!The FAKE GAME tool uses natural evolution to evolve Data Mining models. It incorporates several preprocessing, optimization and visualization methods aimed to streamline the Knowledge Discovery process. Knowledge Extraction from data is being automated!","Categories
+Data Visualization, Artificial Intelligence, Information Analysis"
+"Chapel is an emerging parallel programming language whose design and development are being led by HPE in collaboration with academia, computing labs, and industry. Chapel's goal is to improve the productivity of parallel programmers, from laptops to supercomputers.
+
+**Please note that Chapel development has moved to GitHub**Chapel is an emerging parallel programming language whose design and development are being led by HPE in collaboration with academia, computing labs, and industry. Chapel's goal is to improve the productivity of parallel programmers, from laptops to supercomputers.
+
+**Please note that Chapel development has moved to GitHub**","Categories
+Compilers, Scientific/Engineering, Languages"
+"TTCalc is an open source bignum mathematical calculator. It features arithmetical functions, trigonometric functions, inverse trigonometric functions, hyperbolic functions, inverse hyperbolic functions, logical operators, logarithms and so on.TTCalc is an open source bignum mathematical calculator. It features arithmetical functions, trigonometric functions, inverse trigonometric functions, hyperbolic functions, inverse hyperbolic functions, logical operators, logarithms and so on.","Categories
+Office/Business, Desktop Environment, Scientific/Engineering, Education, Calculators"
+"The virtual lab is a NASA-funded project to provide simulated instrumentation. ITG has developed a Virtual Microscope (Virtual SEM and LM) for viewing high-resolution, multi-dimensional image datasets. More info and data: http://virtual.itg.uiuc.eduThe virtual lab is a NASA-funded project to provide simulated instrumentation. ITG has developed a Virtual Microscope (Virtual SEM and LM) for viewing high-resolution, multi-dimensional image datasets. More info and data: http://virtual.itg.uiuc.edu","Categories
+Image Viewers, Data Visualization, HMI, Medical, Computer Aided Instruction (CAI)"
+"FORTRAN Unit Test Framework, written in FORTRAN 95. So that all FORTRAN features can be tested. FRUIT has assertion, fixture, setup, teardown, report, spec, driver generation. Rake used as build tool. Tutorials at http://fortranxunit.wiki.sourceforge.net
+
+The core testing part is in FORTRAN, this part can be used independent of the Ruby codes.
+
+The Ruby code is to make fixtures and reports easier.
+
+Rake is to build the project elegantly. This project also demonstrate a new way to build mixed language code in an alternative way than Make.
+
+Most of the FORTRAN are important in nature, used in nuclear and aerospace codes, etc, and maintained and written actively. Please help to bring TDD practices to the FORTRAN community. The change could be very hard, personally, I quit, since I could not make the change. I hope your organization will be successful.
+
+Enjoy a cup of fruit while maintaining FORTRAN !
+
+Andrew Hang Chen and other maintainers who feel importance of TDD in crFORTRAN Unit Test Framework, written in FORTRAN 95. So that all FORTRAN features can be tested. FRUIT has assertion, fixture, setup, teardown, report, spec, driver generation. Rake used as build tool. Tutorials at http://fortranxunit.wiki.sourceforge.net
+
+The core testing part is in FORTRAN, this part can be used independent of the Ruby codes.
+
+The Ruby code is to make fixtures and reports easier.
+
+Rake is to build the project elegantly. This project also demonstrate a new way to build mixed language code in an alternative way than Make.
+
+Most of the FORTRAN are important in nature, used in nuclear and aerospace codes, etc, and maintained and written actively. Please help to bring TDD practices to the FORTRAN community. The change could be very hard, personally, I quit, since I could not make the change. I hope your organization will be successful.
+
+Enjoy a cup of fruit while maintaining FORTRAN !
+
+Andrew Hang Chen and other maintainers who feel importance of TDD in cr","Categories
+Information Analysis, Unit Testing, Test Frameworks"
+"Eclipse 4diac is an open source PLC environment allowing to implement industrial control solutions in a vendor neutral way. 4diac implements IEC 61499 extending IEC 61131-3 with improved support for controller to controller communication and dynamic reconfiguration. With that 4diac provides the infrastructure for Industrie 4.0 and industrial IoT.
+Further information and the latest versions can be found here: https://www.fordiac.orgEclipse 4diac is an open source PLC environment allowing to implement industrial control solutions in a vendor neutral way. 4diac implements IEC 61499 extending IEC 61131-3 with improved support for controller to controller communication and dynamic reconfiguration. With that 4diac provides the infrastructure for Industrie 4.0 and industrial IoT.
+Further information and the latest versions can be found here: https://www.fordiac.org","Categories
+Frameworks, Scientific/Engineering, Building Automation"
+"A commercial quality OCR engine originally developed at HP between 1985 and 1995. In 1995, this engine was among the top 3 evaluated by UNLV. It was open-sourced by HP and UNLV in 2005. (NOTE: We're migrating to code.google.com. Please see the forums.)A commercial quality OCR engine originally developed at HP between 1985 and 1995. In 1995, this engine was among the top 3 evaluated by UNLV. It was open-sourced by HP and UNLV in 2005. (NOTE: We're migrating to code.google.com. Please see the forums.)","Categories
+OCR"
+"This is an implementation of post-process phonon analyzer, which calculates crystal phonon properties from input information calculated by external codes, e.g., first-principles calculation code.This is an implementation of post-process phonon analyzer, which calculates crystal phonon properties from input information calculated by external codes, e.g., first-principles calculation code.","Categories
+Physics"
+"A graphical tool for designing finite state machines and exporting them to Hardware Description Languages, such as VHDL, AHDL, Verilog, or Ragel/SMC files for C, C++, Objective-C, Java, Python, PHP, Perl, Lua code generation.A graphical tool for designing finite state machines and exporting them to Hardware Description Languages, such as VHDL, AHDL, Verilog, or Ragel/SMC files for C, C++, Objective-C, Java, Python, PHP, Perl, Lua code generation.","Categories
+Design, Vector Graphics, Electronic Design Automation (EDA)"
+"GpsPrune is a java application to view and manage coordinate data, eg from GPS units. With it you can load a variety of text and Xml formats, view the data (in 2d and 3d), edit and convert the data, correlate photos and audio, create charts and more.GpsPrune is a java application to view and manage coordinate data, eg from GPS units. With it you can load a variety of text and Xml formats, view the data (in 2d and 3d), edit and convert the data, correlate photos and audio, create charts and more.","Categories
+3D Rendering, Data Visualization, GIS"
+"p3d is a general data-reduction tool for use with fiber-fed integral-field spectrographs (IFSs); although, the spectrum viewer works with spectrum data cubes of any origin. The tool is built about the proprietary software IDL (Harris/EXELIS; see http://www.harrisgeospatial.com), but can be used without any license. Most slowly running loops are implemented in parallelized C (OpenMP).p3d is a general data-reduction tool for use with fiber-fed integral-field spectrographs (IFSs); although, the spectrum viewer works with spectrum data cubes of any origin. The tool is built about the proprietary software IDL (Harris/EXELIS; see http://www.harrisgeospatial.com), but can be used without any license. Most slowly running loops are implemented in parallelized C (OpenMP).","Categories
+Astronomy"
+"OMR Reader is an application to read data from scanned images of OMR sheets. You can first create a template for a particular form and save it as a .omr file. To create a template, use a form with all filled marks. The program will automatically detect the marks. Now choose the marks for a group, and name the group. Do this for all the option groups on the form. Now save the info of these groups in a .omr file. For different forms, you can have different .omr files. These files can later be used for batch processing the scanned images of OMR sheets.
+
+Please rate...OMR Reader is an application to read data from scanned images of OMR sheets. You can first create a template for a particular form and save it as a .omr file. To create a template, use a form with all filled marks. The program will automatically detect the marks. Now choose the marks for a group, and name the group. Do this for all the option groups on the form. Now save the info of these groups in a .omr file. For different forms, you can have different .omr files. These files can later be used for batch processing the scanned images of OMR sheets.
+
+Please rate...","Categories
+Information Analysis"
+"Integrated Hospital Information System. PHP,mySQL,PostgreSQL. Surgery, Nursing,Outpatient,Wards,Labs, Pharmacy, Security,Admission,Schedulers, Repair, Communication & more. Multilanguage, WYSIWYG forms, userconfig, embedded workbots. Modular & scalabIntegrated Hospital Information System. PHP,mySQL,PostgreSQL. Surgery, Nursing,Outpatient,Wards,Labs, Pharmacy, Security,Admission,Schedulers, Repair, Communication & more. Multilanguage, WYSIWYG forms, userconfig, embedded workbots. Modular & scalab","Categories
+Bio-Informatics, HMI, Medical, Pharmacy, Hospital Management"
+"Founded in 1997, FlightGear is developed by a worldwide group of volunteers, brought together by a shared ambition to create the most realistic flight simulator possible that is free to use, modify and distribute. FlightGear is used all over the world by desktop flight simulator enthusiasts, for research in universities and for interactive exhibits in museums.
+
+FlightGear features more than 400 aircraft, a worldwide scenery database, a multi-player environment, detailed sky modelling, a flexible and open aircraft modelling system, varied networking options, multiple display support, a powerful scripting language and an open architecture. Best of all, being open-source, the simulator is owned by the community and everyone is encouraged to contribute.Founded in 1997, FlightGear is developed by a worldwide group of volunteers, brought together by a shared ambition to create the most realistic flight simulator possible that is free to use, modify and distribute. FlightGear is used all over the world by desktop flight simulator enthusiasts, for research in universities and for interactive exhibits in museums.
+
+FlightGear features more than 400 aircraft, a worldwide scenery database, a multi-player environment, detailed sky modelling, a flexible and open aircraft modelling system, varied networking options, multiple display support, a powerful scripting language and an open architecture. Best of all, being open-source, the simulator is owned by the community and everyone is encouraged to contribute.","Categories
+Simulation Games, 3D Rendering, Data Visualization"
+"QtGrace is a version of Grace based on the Qt-SDK by The Qt Project www.qt.io. QtGrace/Grace is a program to display or plot data, analyze data and prepare it for printing. Using QtGrace is to run Grace natively on Windows, Mac OS X and Linux.QtGrace is a version of Grace based on the Qt-SDK by The Qt Project www.qt.io. QtGrace/Grace is a program to display or plot data, analyze data and prepare it for printing. Using QtGrace is to run Grace natively on Windows, Mac OS X and Linux.","Categories
+Scientific/Engineering"
+"Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!","Categories
+Data Formats, Software Testing, Interface Engine/Protocol Translator"
+"PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.","Categories
+Site Management, Compilers, Interpreters, Design, Software Distribution, Presentation, Scientific/Engineering, Exam"
+"ChatScript is the next generation chatbot engine that won the 2010 Loebner Prize with Suzette, 2011 Loebner with Rosette, and 2nd in 2012 Loebner with Angela (a bug I introduced in the Loebner protocol, not the engine). The technology behind Outfit7's mobile app Tom Loves Angela and ESL chatbots at Japan's SpeakGlobal. 3rd place winner Chatbot Battles 2012 and awarded best 15 minute conversation prize. 3rd place Loebner winner for 2013 and 1st place in 2014 and 2015.
+
+Also has useful ontology files for nouns, verbs, adjectives, adverbs. Stand-alone or server modes. LINUX ( 64 bit) and Windows (Visual Studio 10) and Mac/iOS.
+
+See BrilligUnderstanding.com for our home website.
+See github.com/chatscriptnlp/ChatScriptNLP for git accessible form (which also has fixes as needed prior to next full release cycle)ChatScript is the next generation chatbot engine that won the 2010 Loebner Prize with Suzette, 2011 Loebner with Rosette, and 2nd in 2012 Loebner with Angela (a bug I introduced in the Loebner protocol, not the engine). The technology behind Outfit7's mobile app Tom Loves Angela and ESL chatbots at Japan's SpeakGlobal. 3rd place winner Chatbot Battles 2012 and awarded best 15 minute conversation prize. 3rd place Loebner winner for 2013 and 1st place in 2014 and 2015.
+
+Also has useful ontology files for nouns, verbs, adjectives, adverbs. Stand-alone or server modes. LINUX ( 64 bit) and Windows (Visual Studio 10) and Mac/iOS.
+
+See BrilligUnderstanding.com for our home website.
+See github.com/chatscriptnlp/ChatScriptNLP for git accessible form (which also has fixes as needed prior to next full release cycle)","Categories
+Chatbot"
+A Java JNA wrapper for Tesseract OCR APIA Java JNA wrapper for Tesseract OCR API,"Categories
+Image Converters, Libraries, OCR"
+"A graphical tool to design a bicycle (s) geometry and derive drawings from its configuration
+rattleCAD moved to www.rattleCAD.comA graphical tool to design a bicycle (s) geometry and derive drawings from its configuration
+rattleCAD moved to www.rattleCAD.com","Categories
+Data Visualization, Computer-aided technologies (CADD/CAM/CAE)"
+"************************************************************
+
+THIS PROJECT IS MOVED.
+
+See http://khcoder.net/en for the latest & greatest.
+
+You can download this tool from the new home.
+See you there!
+
+************************************************************************************************************************
+
+THIS PROJECT IS MOVED.
+
+See http://khcoder.net/en for the latest & greatest.
+
+You can download this tool from the new home.
+See you there!
+
+************************************************************","Categories
+Information Analysis, Sociology, Linguistics"
+"Geoblock is a program for 3D modeling, database management and visualization of geoscience datasets. It is developed for mineral deposit exploration, ore reserve estimation, mine planning and simulating geotechnical processes in mine sites.Geoblock is a program for 3D modeling, database management and visualization of geoscience datasets. It is developed for mineral deposit exploration, ore reserve estimation, mine planning and simulating geotechnical processes in mine sites.","Categories
+3D Modeling, Earth Sciences, GIS"
+DRC generates digital room correction FIR filters to be used within HiFi systems in conjunction with real time convolution engines like BruteFIR.DRC generates digital room correction FIR filters to be used within HiFi systems in conjunction with real time convolution engines like BruteFIR.,"Categories
+Scientific/Engineering, Audio Analysis"
+"Fast Artificial Neural Network Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. Cross-platform execution in both fixed and floating point are supported. It includes a framework for easy handling of training data sets. It is easy to use, versatile, well documented, and fast. Bindings to more than 15 programming languages are available. An easy to read introduction article and a reference manual accompanies the library with examples and recommendations on how to use the library. Several graphical user interfaces are also available for the library.Fast Artificial Neural Network Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. Cross-platform execution in both fixed and floating point are supported. It includes a framework for easy handling of training data sets. It is easy to use, versatile, well documented, and fast. Bindings to more than 15 programming languages are available. An easy to read introduction article and a reference manual accompanies the library with examples and recommendations on how to use the library. Several graphical user interfaces are also available for the library.","Categories
+CGI Scripts, Software Development, Artificial Intelligence, Neural Network Libraries"
+"bitfarm-Archiv is a powerful Document Management (DMS), Enterprise Content Management (ECM) and Knowledge Management System (KMS) with Workflow Components. Features: Scanning, OCR, Full text search, Email archiving.
+
+Help us!
+As we live in the internet age, the best thing, you can help, is to write a short statement about your scenario and your use of the DMS, along with your experiences and put it on your own website or in a blog or forum. It would help us best, if you can also add a hyperlink to our site http://www.bitfarm-archiv.com. By this you help the software to gain a better presence in the web which helps distribute it. This, however, will allow us to acquire more enterprise customers which gives us more resources, e.g. for further development of the GPL version.bitfarm-Archiv is a powerful Document Management (DMS), Enterprise Content Management (ECM) and Knowledge Management System (KMS) with Workflow Components. Features: Scanning, OCR, Full text search, Email archiving.
+
+Help us!
+As we live in the internet age, the best thing, you can help, is to write a short statement about your scenario and your use of the DMS, along with your experiences and put it on your own website or in a blog or forum. It would help us best, if you can also add a hyperlink to our site http://www.bitfarm-archiv.com. By this you help the software to gain a better presence in the web which helps distribute it. This, however, will allow us to acquire more enterprise customers which gives us more resources, e.g. for further development of the GPL version.","Categories
+Archiving, Workflow Management, Knowledge Management, OCR"
+TimingEditor is a tool to graphically draw and edit timing diagrams.TimingEditor is a tool to graphically draw and edit timing diagrams.,"Categories
+Electronic Design Automation (EDA), Data Visualization"
+"Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.","Categories
+Telephony, Software Testing, Simulation, Exam"

@@ -1,0 +1,421 @@
+Description,Category
+"Website Content Management System which uses Perl & MySQL to create an XHTML 1.0-compliant CSS-layout website. News, comments, discussion forum, content pages, side blocks, admin panel, anything can be added as a module or side block.Website Content Management System which uses Perl & MySQL to create an XHTML 1.0-compliant CSS-layout website. News, comments, discussion forum, content pages, side blocks, admin panel, anything can be added as a module or side block.","Categories
+HTML/XHTML, Message Board, Site Management"
+A native .NET implementation of Dave Ragget's Tidy.A native .NET implementation of Dave Ragget's Tidy.,"Categories
+HTML/XHTML, Site Management"
+A software toolkit for using the EPCglobal Low Level Reader Protocol (LLRP) to communicate with conforming RFID readers.A software toolkit for using the EPCglobal Low Level Reader Protocol (LLRP) to communicate with conforming RFID readers.,"Categories
+Data Formats, Frameworks, Networking"
+"A C++ library to read and write PDF files, plus a GUI editor.A C++ library to read and write PDF files, plus a GUI editor.","Categories
+Text Processing, Data Formats"
+Web Archive Extractor intended to extract webarchive files into folder.Web Archive Extractor intended to extract webarchive files into folder.,"Categories
+Data Formats"
+M's JSON parser is a small JSON parser written in ISO C which enables the user to handle information described by the JSON data interchange format.M's JSON parser is a small JSON parser written in ISO C which enables the user to handle information described by the JSON data interchange format.,"Categories
+JSON"
+A free tool very simple to convert flat text to format XML.A free tool very simple to convert flat text to format XML.,"Categories
+XML"
+"Application made with Mono 2.0, compatible with .Net Framework 2.0. It allows to load and modify xml, xsd and xsl docs and perform theirs validation, also using an embedded browser. Also, it allows to apply xsl to xml and to validate xml with xsd.Application made with Mono 2.0, compatible with .Net Framework 2.0. It allows to load and modify xml, xsd and xsl docs and perform theirs validation, also using an embedded browser. Also, it allows to apply xsl to xml and to validate xml with xsd.","Categories
+Text Editors, XML, Agile Development Tools"
+"xs3p is a schema documentation generator. Basically, it is an XSLT stylesheet that will generate an XHTML document from an XSD schema. Originally Developed by the DSTC in Australia.xs3p is a schema documentation generator. Basically, it is an XSLT stylesheet that will generate an XHTML document from an XSD schema. Originally Developed by the DSTC in Australia.","Categories
+XML"
+"https://github.com/Go2Engle/PDF-Unlock
+
+Small tool that utilizes GhostScript to unlock a protected PDF
+
+For this application to function you will need to install Ghostscript 64 bit. You can download and install Ghostscript from the link below. https://www.ghostscript.com/download/gsdnld.htmlhttps://github.com/Go2Engle/PDF-Unlock
+
+Small tool that utilizes GhostScript to unlock a protected PDF
+
+For this application to function you will need to install Ghostscript 64 bit. You can download and install Ghostscript from the link below. https://www.ghostscript.com/download/gsdnld.html","Categories
+PDF"
+"PDF_Out is an Ada package for writing easily PDF files dynamically. Enables the automatic production of reports. Standalone and unconditionally portable code. No external resource is needed.
+More information on... http://apdf.sf.netPDF_Out is an Ada package for writing easily PDF files dynamically. Enables the automatic production of reports. Standalone and unconditionally portable code. No external resource is needed.
+More information on... http://apdf.sf.net","Categories
+Data Formats, Dynamic Content, Desktop Publishing"
+"Welcome to the project page for pyDaSSQLiteMan (Python Data and SQLite Manager). This application is a Python Tkinter application designed to enable easy SQLite database file manipulation, and an easy method to run SQL styled queries on CSV files.
+
+If you're not downloading the pre-compiled executable you will need Python to run this app. You can download it from http://www.python.org/ . I'd recommend something after version 3. Testing has been Windows based.
+
+SQLite is a free database format released into the public domain. See http://www.sqlite.org/
+
+Please check out the Wiki Home page https://sourceforge.net/p/pycsvdb/wiki/Home/ and the General Help page (https://sourceforge.net/p/pycsvdb/wiki/General%20Help/) to find extra information and help.
+
+Please check out the Wiki Home page for an introduction.Welcome to the project page for pyDaSSQLiteMan (Python Data and SQLite Manager). This application is a Python Tkinter application designed to enable easy SQLite database file manipulation, and an easy method to run SQL styled queries on CSV files.
+
+If you're not downloading the pre-compiled executable you will need Python to run this app. You can download it from http://www.python.org/ . I'd recommend something after version 3. Testing has been Windows based.
+
+SQLite is a free database format released into the public domain. See http://www.sqlite.org/
+
+Please check out the Wiki Home page https://sourceforge.net/p/pycsvdb/wiki/Home/ and the General Help page (https://sourceforge.net/p/pycsvdb/wiki/General%20Help/) to find extra information and help.
+
+Please check out the Wiki Home page for an introduction.","Categories
+Database, Front-Ends, CSV"
+"Niche website for webmasters promoting adult companies through referrals, Flat File RSS Archives, make money through webmaster referrals and from the regular surfer. New programs are added all the time so please use this to your advantage.Niche website for webmasters promoting adult companies through referrals, Flat File RSS Archives, make money through webmaster referrals and from the regular surfer. New programs are added all the time so please use this to your advantage.","Categories
+HTML/XHTML, Dynamic Content, User Interface (UI)"
+"The VCS to ICS Calendar Converter allows you to convert VCALENDAR files (for example generated by Nokia nbuexplorer or Microsoft Works) to the newer iCalendar format, used by Android and iOS for example. It allows the parsing of events and todo's.The VCS to ICS Calendar Converter allows you to convert VCALENDAR files (for example generated by Nokia nbuexplorer or Microsoft Works) to the newer iCalendar format, used by Android and iOS for example. It allows the parsing of events and todo's.","Categories
+Data Formats, Calendar, To-Do Lists"
+"This application can convert most sbg files to gnaural file. You can convert just one and edit its description or convert whole directory of sbg files.
+
+For developers: Feel free to participate!This application can convert most sbg files to gnaural file. You can convert just one and edit its description or convert whole directory of sbg files.
+
+For developers: Feel free to participate!","Categories
+Data Formats"
+Lists and compares two html bookmark files (as defined by firefox) side by side and notes the similarities and the differences in a colored list through the GUI environment.Lists and compares two html bookmark files (as defined by firefox) side by side and notes the similarities and the differences in a colored list through the GUI environment.,"Categories
+HTML/XHTML"
+"YeahReader RSS reader is a free full-featured program for reading news feeds in RSS, RDF and Atom formats, and podcasts.YeahReader RSS reader is a free full-featured program for reading news feeds in RSS, RDF and Atom formats, and podcasts.","Categories
+XML-RPC, Blogging, RSS Feed Readers"
+DVB translator is a tool which allows analyses of transport stream packetsDVB translator is a tool which allows analyses of transport stream packets,"Categories
+Data Formats, Multimedia, Test and Measurement"
+"DocFrac is a document converter that can convert between RTF, HTML and ASCII text. This includes RTF to HTML and HTML to RTF. Supports text formatting (e.g. bold); tables; and most European languages. Available for Windows; Linux; ActiveX and DLL.DocFrac is a document converter that can convert between RTF, HTML and ASCII text. This includes RTF to HTML and HTML to RTF. Supports text formatting (e.g. bold); tables; and most European languages. Available for Windows; Linux; ActiveX and DLL.","Categories
+Text Processing, HTML/XHTML, Dynamic Content"
+JNdiff: An Optimized Alghorithm for Natural (XML) Diff-ingJNdiff: An Optimized Alghorithm for Natural (XML) Diff-ing,"Categories
+XML, Algorithms"
+"HessianKit is a Framework for Objective-C 2.0 to allow applications for Mac OS X 10.5, and iPhone 2.0 or later to communicate with Hessian web services. The main goals; Be compliant and forgiving, seamless Objective-C experience, and avoid glue-code.HessianKit is a Framework for Objective-C 2.0 to allow applications for Mac OS X 10.5, and iPhone 2.0 or later to communicate with Hessian web services. The main goals; Be compliant and forgiving, seamless Objective-C experience, and avoid glue-code.","Categories
+Data Formats, Frameworks, Object Oriented, Object Brokering, Web Services"
+"libaws is a C++ library that allows to communicate with Amazon Web Services. Currently supported are Amazon S3, SQS, and SDB.libaws is a C++ library that allows to communicate with Amazon Web Services. Currently supported are Amazon S3, SQS, and SDB.","Categories
+Web Services"
+"NOTE: Zorba is now hosted on Launchpad. Please visit our project homepage (http://zorba.28.io) or our Launchpad page (https://github.com/28msec/zorba) for the latest news and information!
+
+Zorba is a general purpose XQuery processor implementing in C++ the W3C family of specifications. It is not an XML database. The query processor has been designed to be embeddable in a variety of environments.NOTE: Zorba is now hosted on Launchpad. Please visit our project homepage (http://zorba.28.io) or our Launchpad page (https://github.com/28msec/zorba) for the latest news and information!
+
+Zorba is a general purpose XQuery processor implementing in C++ the W3C family of specifications. It is not an XML database. The query processor has been designed to be embeddable in a variety of environments.","Categories
+XML, Front-Ends"
+CoDec is a Java package for encoding and decoding ASN.1 data structures. CoDec supports the Basic Encoding Rules (BER) as well as the Distinguished Encoding Rules (DER) and provides a library with data structures for many cryptographic standards.CoDec is a Java package for encoding and decoding ASN.1 data structures. CoDec supports the Basic Encoding Rules (BER) as well as the Distinguished Encoding Rules (DER) and provides a library with data structures for many cryptographic standards.,"Categories
+Data Formats, Cryptography"
+WinS3fs is a filesystem for Windows allowing access to Amazon S3 Storage. It implements a local virtual SMB server \\s3 to allow access to Amazon S3 bucketsWinS3fs is a filesystem for Windows allowing access to Amazon S3 Storage. It implements a local virtual SMB server \\s3 to allow access to Amazon S3 buckets,"Categories
+Networking, File Systems, Web Services"
+"Twitux it's a free and open source GTK+ application for Twitter.com. you can: Send status, View friend status and see what they are doing , Send direct messages to your Twitter friends, GUI notificactions when a friend update their status.. and more :)Twitux it's a free and open source GTK+ application for Twitter.com. you can: Send status, View friend status and see what they are doing , Send direct messages to your Twitter friends, GUI notificactions when a friend update their status.. and more :)","Categories
+XML, Chat, GNOME"
+Converts files from Garmin(R)'s IMG file format to GMAPI file format.Converts files from Garmin(R)'s IMG file format to GMAPI file format.,"Categories
+Data Formats, GPS"
+"RSS Builder is an easy to use program for creating and publishing news feeds and podcasts. You can use local RSS files, but there is also an option to edit the RSS feeds on your web site without keeping a local copy.RSS Builder is an easy to use program for creating and publishing news feeds and podcasts. You can use local RSS files, but there is also an option to edit the RSS feeds on your web site without keeping a local copy.","Categories
+RSS, WWW/HTTP"
+"This is a simple, lightweight, RSS ticker. I had looked at a number of tickers but they took a lot of CPU cycles and cost money. I wanted a simple, OS independent, ticker so I wrote this one in Java. It reads RSS 0.91, 1.0, 2.0 and ATOM feeds.This is a simple, lightweight, RSS ticker. I had looked at a number of tickers but they took a lot of CPU cycles and cost money. I wanted a simple, OS independent, ticker so I wrote this one in Java. It reads RSS 0.91, 1.0, 2.0 and ATOM feeds.","Categories
+RSS"
+GNU C++ library for coding and decoding JSON (Javascript Object Notation) data into or from streamsGNU C++ library for coding and decoding JSON (Javascript Object Notation) data into or from streams,"Categories
+Data Formats, Object Brokering"
+"This project develops the Open Source Decoder/Encoder of QR Code (JIS-X-0510, ISO/IEC18004), the 2 dimensional barcode popular in Japan for data exchange. The goal is add QR Code Capability to device with a built-in camera and Java all over the world.This project develops the Open Source Decoder/Encoder of QR Code (JIS-X-0510, ISO/IEC18004), the 2 dimensional barcode popular in Japan for data exchange. The goal is add QR Code Capability to device with a built-in camera and Java all over the world.","Categories
+Data Formats, Digital Camera"
+"Looking for free software to convert your files ?CosmoFile is created for you ,a great software absolutely free for users to convert your files to many different formats.CosmoFile is very Simple and very fast and support many formats
+PDF,HTML,JPG,PNG,JPG,ICO,SVG,XLSX,PPTX...
+
+Edit Pdf Files with CosmoFile
+Looking for free software to modify PDF documents?
+
+Sometimes you need to make minor changes to a PDF file. For instance, you may want to hide your personal phone number from a PDF file before uploading it online or may want to annotate a page with notes and freehand drawings.You can perform such edits in a PDF easily with CosmoFile.
+
+Edit Images with CosmoFile
+CosmoFile makes your photos beautiful with easy and
+powerful editing tools
+Editing your photos is easy with CosmoFile! Add filters,Change Colors ,Convert to grayscale ,Remove background,Resize,Rotate,create Icon
+
+
+Download Music,Images,Videos,Applications.and more with CosmoFileLooking for free software to convert your files ?CosmoFile is created for you ,a great software absolutely free for users to convert your files to many different formats.CosmoFile is very Simple and very fast and support many formats
+PDF,HTML,JPG,PNG,JPG,ICO,SVG,XLSX,PPTX...
+
+Edit Pdf Files with CosmoFile
+Looking for free software to modify PDF documents?
+
+Sometimes you need to make minor changes to a PDF file. For instance, you may want to hide your personal phone number from a PDF file before uploading it online or may want to annotate a page with notes and freehand drawings.You can perform such edits in a PDF easily with CosmoFile.
+
+Edit Images with CosmoFile
+CosmoFile makes your photos beautiful with easy and
+powerful editing tools
+Editing your photos is easy with CosmoFile! Add filters,Change Colors ,Convert to grayscale ,Remove background,Resize,Rotate,create Icon
+
+
+Download Music,Images,Videos,Applications.and more with CosmoFile","Categories
+Data Formats, PDF Editors"
+"This UBmatrix Processing Engine is an SDK for building XBRL-enabled applications. The engine is the essential component to read, write, and validate XBRL. This project was released under UBmatrix Inc. Learn more about EDGAR Online XBRL Processing EngThis UBmatrix Processing Engine is an SDK for building XBRL-enabled applications. The engine is the essential component to read, write, and validate XBRL. This project was released under UBmatrix Inc. Learn more about EDGAR Online XBRL Processing Eng","Categories
+XML, Accounting, Software Development"
+"Rivet Dragon View XBRL viewer is the solution for viewing XBRL taxonomies and instance documents. Whether you are exploring XBRL for the first time or need more advanced capabilities, Dragon View is the easy to use, robust solution.Rivet Dragon View XBRL viewer is the solution for viewing XBRL taxonomies and instance documents. Whether you are exploring XBRL for the first time or need more advanced capabilities, Dragon View is the easy to use, robust solution.","Categories
+XML, Accounting, Office Suites"
+"Application to record tests for Celerity, SODA, WatiR, and WatiN. Tests can be saved and compiled into an executable or assembly.Application to record tests for Celerity, SODA, WatiR, and WatiN. Tests can be saved and compiled into an executable or assembly.","Categories
+HTML/XHTML, Browsers, Link Checking"
+"Klang is a project that allows viewing and editing of binary files in a structured way. Unlike traditional hex editors, Klang provides a hierarchical view of many binary file types that can be 'chunked', such as WAV and AIFF.Klang is a project that allows viewing and editing of binary files in a structured way. Unlike traditional hex editors, Klang provides a hierarchical view of many binary file types that can be 'chunked', such as WAV and AIFF.","Categories
+Data Formats, Hex Editors, Cataloguing"
+OpenREST is a RESTful web service to access the data in your DB or file using HTTP protocol. It contains also a jqGrid implementation for data presentation.OpenREST is a RESTful web service to access the data in your DB or file using HTTP protocol. It contains also a jqGrid implementation for data presentation.,"Categories
+Web Services"
+"This project provides a fast distributed system for image processing, written in Python. It aim is to be used as service to PHP, Perl and Python application servers.This project provides a fast distributed system for image processing, written in Python. It aim is to be used as service to PHP, Perl and Python application servers.","Categories
+Distributed Computing, Image Converters, Web Services"
+A desktop application written in C#.NET 3.5 that uses Dreamhost's API to remotely administer a web hosting account.A desktop application written in C#.NET 3.5 that uses Dreamhost's API to remotely administer a web hosting account.,"Categories
+XML, Site Management"
+"Decision support tool that assesses breast cancer risk and identifies risk-reducing interventions. Includes web service implementations of established models -- BRCAPRO, Gail, Claus, BCSC Density -- for calculating breast cancer risk.Decision support tool that assesses breast cancer risk and identifies risk-reducing interventions. Includes web service implementations of established models -- BRCAPRO, Gail, Claus, BCSC Density -- for calculating breast cancer risk.","Categories
+SOAP, Bio-Informatics, Web Services"
+"The aim of the tool is to validate a particular format of metadata. Specifically, the tool checks three parts: 1. Big5 character encoding; 2. whether it is a well-formed XML document ; 3. other specifications with our own purposes.The aim of the tool is to validate a particular format of metadata. Specifically, the tool checks three parts: 1. Big5 character encoding; 2. whether it is a well-formed XML document ; 3. other specifications with our own purposes.","Categories
+XML"
+BASIS FOR AN OPEN SOURCE PROJECT to convert NoteWorthy Composer files from/to MusicXML. Two Python 3 programs for NoteWorthy Composer files in nwctxt format. 1. nwctxt2xml.py - Converts nwctxt into XML 2. xml2nwctxt.py - Converts XML into nwctxtBASIS FOR AN OPEN SOURCE PROJECT to convert NoteWorthy Composer files from/to MusicXML. Two Python 3 programs for NoteWorthy Composer files in nwctxt format. 1. nwctxt2xml.py - Converts nwctxt into XML 2. xml2nwctxt.py - Converts XML into nwctxt,"Categories
+XML, Audio Editing, MIDI"
+A simple PHP/MySQL based chat alternative for webmasters to incorporate into their own site. Implements Ajax and designed to be embedded on a specific page. Basic administration options are also available with more to come in future releases.A simple PHP/MySQL based chat alternative for webmasters to incorporate into their own site. Implements Ajax and designed to be embedded on a specific page. Basic administration options are also available with more to come in future releases.,"Categories
+Chat, AJAX"
+This project has moved to https://github.com/yguarata/risethesisThis project has moved to https://github.com/yguarata/risethesis,"Categories
+TeX/LaTeX"
+"This project is retired and moved into the Corn Gate project. Please switch to https://sourceforge.net/projects/corn-gate.corn.p/ link for the project.
+
+Simple Remoting is an alternative SOA library which uses JSON instead of XML as its messaging format. Converting popular java object types like POJO, Spring and EJB to services can be done within minutes without any code change on existing classes.This project is retired and moved into the Corn Gate project. Please switch to https://sourceforge.net/projects/corn-gate.corn.p/ link for the project.
+
+Simple Remoting is an alternative SOA library which uses JSON instead of XML as its messaging format. Converting popular java object types like POJO, Spring and EJB to services can be done within minutes without any code change on existing classes.","Categories
+Web Services, JSON, Libraries"
+A tool to convert Borland tds debug symbol files to Microsoft dbg symbol files.A tool to convert Borland tds debug symbol files to Microsoft dbg symbol files.,"Categories
+Data Formats, Debuggers"
+A fluent java interface for streaming structured data and adapters to produce and consume different forms of it.A fluent java interface for streaming structured data and adapters to produce and consume different forms of it.,"Categories
+Data Formats, Libraries"
+The purpose of eAudit is to provide a comprehensive reporting capability relating to Electronic Auditing for various industries.The purpose of eAudit is to provide a comprehensive reporting capability relating to Electronic Auditing for various industries.,"Categories
+Security, Information Analysis, Web Services"
+"pump is the fast and powerful download manager for POSIX-compliant operation systems. It consist of separate UNIX-daemon and a couple of front-ends including Qt, GTK, web and ncurses one.pump is the fast and powerful download manager for POSIX-compliant operation systems. It consist of separate UNIX-daemon and a couple of front-ends including Qt, GTK, web and ncurses one.","Categories
+XML-RPC, Desktop Environment, WWW/HTTP, Download Managers"
+"libsaxsdocument, libsaxsimage and saxsview; read, convert and view 1D and 2D-files related to Small Angle X-ray Scattering (SAXS).libsaxsdocument, libsaxsimage and saxsview; read, convert and view 1D and 2D-files related to Small Angle X-ray Scattering (SAXS).","Categories
+Data Formats, Scientific/Engineering"
+RPCRELAY is a daemon software that allows users to distribute and execute user-defined XML-RPC commands in a large network over secure channels (authenticated and enrypted).RPCRELAY is a daemon software that allows users to distribute and execute user-defined XML-RPC commands in a large network over secure channels (authenticated and enrypted).,"Categories
+XML-RPC, WWW/HTTP"
+A protocol converter from AMQP to any MOM provider behind JMS and vice versa.A protocol converter from AMQP to any MOM provider behind JMS and vice versa.,"Categories
+Data Formats, Distributed Computing"
+"LabDisplay provides real-time computer availability information along with detailed usage statistics. Other features include computer hardware and software Inventory, machine problem history, and integration with Novell ZENworks for imaging history.LabDisplay provides real-time computer availability information along with detailed usage statistics. Other features include computer hardware and software Inventory, machine problem history, and integration with Novell ZENworks for imaging history.","Categories
+HTML/XHTML, Dynamic Content"
+"PlanYourProject is an Open Source application providing users with an easy way to plan their own project. PYP is using the AJAX technology und should be compatible with all common standards. (File Formats, Interfaces for other APIs)PlanYourProject is an Open Source application providing users with an easy way to plan their own project. PYP is using the AJAX technology und should be compatible with all common standards. (File Formats, Interfaces for other APIs)","Categories
+Project Management, Dynamic Content, AJAX"
+NNTP win mobile client.NNTP win mobile client.,"Categories
+NNTP"
+"phpWfMS es un sistema de administracion por flujo de trabajo escrito en PHP y Javascript, el cual que tiene como objetivo, programar, disenar y administrar servicios web y trabajos para aplicaciones Web 2.0phpWfMS es un sistema de administracion por flujo de trabajo escrito en PHP y Javascript, el cual que tiene como objetivo, programar, disenar y administrar servicios web y trabajos para aplicaciones Web 2.0","Categories
+Database, Workflow Management, Web Services"
+"All2SQL is a PHP library that converts any parsable format to valid SQL insertion code, allowing you to import any data source into your database. All you need is a parser! The MySQL platform is supported, with more to be added.All2SQL is a PHP library that converts any parsable format to valid SQL insertion code, allowing you to import any data source into your database. All you need is a parser! The MySQL platform is supported, with more to be added.","Categories
+Data Formats, Database"
+"The Time Series Toolbox is a set of software components that simplify the task of building applications that record, process, store and publish time series of observations. Current main application area are sensor networks.The Time Series Toolbox is a set of software components that simplify the task of building applications that record, process, store and publish time series of observations. Current main application area are sensor networks.","Categories
+Web Services, CSV, Mapping"
+"Question Mark Markup Language is a radical new markup language that is used to describe pseudo-hierarchical database structures.
+There are currently extremely fast and light weight python bindings available for Linux that are very user friendly.Question Mark Markup Language is a radical new markup language that is used to describe pseudo-hierarchical database structures.
+There are currently extremely fast and light weight python bindings available for Linux that are very user friendly.","Categories
+Data Formats, Database Engines/Servers, Libraries"
+"SnuzGallery is a PHP/AJAX/JavaScript gallery. It's ment to be lightweight, easy to set up and easy to customize and configure.SnuzGallery is a PHP/AJAX/JavaScript gallery. It's ment to be lightweight, easy to set up and easy to customize and configure.","Categories
+AJAX"
+This tool is a small tool to upload a csv file to a database. This tool can analyse a CSV file and it can determine the field lenght and the column name.This tool is a small tool to upload a csv file to a database. This tool can analyse a CSV file and it can determine the field lenght and the column name.,"Categories
+Front-Ends, CSV"
+"""小说下载阅读器"" is a free application for finding and reading offline internet novel contents, which is built from VB. This project is to built a Mac style novel reader with most of the functions similar with “小说下载阅读器” but runs o""小说下载阅读器"" is a free application for finding and reading offline internet novel contents, which is built from VB. This project is to built a Mac style novel reader with most of the functions similar with “小说下载阅读器” but runs o","Categories
+DocBook, Browsers, Site Management"
+json-httpd is a library that provides a web server with JSON-RPC capabilities. The library makes it easy to develop a WUI for application using static HTML and JAVA using JSON-RPC for communication. It also works as a standalone web server.json-httpd is a library that provides a web server with JSON-RPC capabilities. The library makes it easy to develop a WUI for application using static HTML and JAVA using JSON-RPC for communication. It also works as a standalone web server.,"Categories
+HTTP Servers, Web Services, JSON"
+A system that allow you to manage pages and news of your website. All you have to do is the design (samples are included).A system that allow you to manage pages and news of your website. All you have to do is the design (samples are included).,"Categories
+HTML/XHTML, RSS, Content Management Systems (CMS)"
+Tool for managing patch codes for the Nintendo Wii. Formats this tool handles are common to Gecko OS and popular Wii homebrew software. This is one of very few complete cross-platform GCT compilers and the only known GCT decompiler and merge tool.Tool for managing patch codes for the Nintendo Wii. Formats this tool handles are common to Gecko OS and popular Wii homebrew software. This is one of very few complete cross-platform GCT compilers and the only known GCT decompiler and merge tool.,"Categories
+Data Formats, Compilers"
+Doot aims to be a 100% free lan messenger written in the java language. It will be ready to become a alpha within a few days timeDoot aims to be a 100% free lan messenger written in the java language. It will be ready to become a alpha within a few days time,"Categories
+SOAP, Chat, LAN Messengers"
+The aim of this project is to provide a set of useful tools in semantic web stuff. It is part of the Semantic Web Group at LIFIA laboratory in Argentina.The aim of this project is to provide a set of useful tools in semantic web stuff. It is part of the Semantic Web Group at LIFIA laboratory in Argentina.,"Categories
+Browser Extensions and Plugins, Semantic Web"
+Log analyzer for Cognos Upfront audit logs.Log analyzer for Cognos Upfront audit logs.,"Categories
+Data Formats, Business Performance Management, Customer Service"
+"Limpopo is a library for MAGE-TAB parsing and validation that will read mage-tab files into an object model, and includes a plugin mechanism that is open and extensible for writing MAGE-TAB data to other data resources such as a database.Limpopo is a library for MAGE-TAB parsing and validation that will read mage-tab files into an object model, and includes a plugin mechanism that is open and extensible for writing MAGE-TAB data to other data resources such as a database.","Categories
+Data Formats, Bio-Informatics"
+"Simple composer, line by line, of the types in the 42-line Bible using a digital catalogue (imports custom QVision plot data and writes the .DAT.B42 pseudoformat font type). Works via command line and on a web user interface under the GS interpreter.Simple composer, line by line, of the types in the 42-line Bible using a digital catalogue (imports custom QVision plot data and writes the .DAT.B42 pseudoformat font type). Works via command line and on a web user interface under the GS interpreter.","Categories
+Graphic Design, Fonts, PostScript"
+"PAC is a Perl/GTK replacement for SecureCRT/Putty/etc (linux ssh/telnet/... gui)... It provides a GUI to configure connections: users, passwords, EXPECT regular expressions, macros, etc. You like 'SecureCRT/SSHMenu'? Check this tool and let me knowPAC is a Perl/GTK replacement for SecureCRT/Putty/etc (linux ssh/telnet/... gui)... It provides a GUI to configure connections: users, passwords, EXPECT regular expressions, macros, etc. You like 'SecureCRT/SSHMenu'? Check this tool and let me know","Categories
+Terminals, Password Managers, SSH"
+"MRBS is a system for multi-site booking of meeting rooms. Rooms are grouped by building/area and shown in a side-by-side view. Although the goal was initially to book rooms, MRBS can also be used to book any resource; computers, planes, whatever you wantMRBS is a system for multi-site booking of meeting rooms. Rooms are grouped by building/area and shown in a side-by-side view. Although the goal was initially to book rooms, MRBS can also be used to book any resource; computers, planes, whatever you want","Categories
+Communications, Scheduling, WWW/HTTP"
+"KeePass Password Safe is a free, open source, lightweight, and easy-to-use password manager for Windows, Linux and Mac OS X, with ports for Android, iPhone/iPad and other mobile devices. With so many passwords to remember and the need to vary passwords to protect your valuable data, it’s nice to have KeePass to manage your passwords in a secure way. KeePass puts all your passwords in a highly encrypted database and locks them with one master key or a key file. As a result, you only have to remember one single master password or select the key file to unlock the whole database. And the databases are encrypted using the best and most secure encryption algorithms currently known, AES and Twofish. See our features page for details.KeePass Password Safe is a free, open source, lightweight, and easy-to-use password manager for Windows, Linux and Mac OS X, with ports for Android, iPhone/iPad and other mobile devices. With so many passwords to remember and the need to vary passwords to protect your valuable data, it’s nice to have KeePass to manage your passwords in a secure way. KeePass puts all your passwords in a highly encrypted database and locks them with one master key or a key file. As a result, you only have to remember one single master password or select the key file to unlock the whole database. And the databases are encrypted using the best and most secure encryption algorithms currently known, AES and Twofish. See our features page for details.","Categories
+Office/Business, Database, Security, Desktop Environment, Internet, Password Generators"
+"PortableApps.com is the world's most popular portable software solution allowing you to take your favorite Windows software with you. It works in any cloud drive folder (Dropbox, Google Drive, OneDrive, etc), on any portable storage device (USB flash drive, memory card, portable hard drive, etc), or from your local hard drive. With millions of users all over the world and a full collection of open source and freeware software (as well commercial software), PortableApps.com is the most complete solution for life on the go.
+
+PortableApps.com was founded by John T. Haller, whose Portable Firefox started the portable software trend. We've been making software portable since March 2004. Today, our team stands at over 200 developers, translators, application packagers, designers, and release testers with nearly a billion app downloads. Our goal is to centralize the knowledge and development of portable software and build an open platform that any software or hardware developer can usePortableApps.com is the world's most popular portable software solution allowing you to take your favorite Windows software with you. It works in any cloud drive folder (Dropbox, Google Drive, OneDrive, etc), on any portable storage device (USB flash drive, memory card, portable hard drive, etc), or from your local hard drive. With millions of users all over the world and a full collection of open source and freeware software (as well commercial software), PortableApps.com is the most complete solution for life on the go.
+
+PortableApps.com was founded by John T. Haller, whose Portable Firefox started the portable software trend. We've been making software portable since March 2004. Today, our team stands at over 200 developers, translators, application packagers, designers, and release testers with nearly a billion app downloads. Our goal is to centralize the knowledge and development of portable software and build an open platform that any software or hardware developer can use","Categories
+Enterprise, Office Suites, Browsers"
+"Vodigi is a free, open source, interactive digital signage software solution that offers all the features you need to promote and advertise your products and services.
+
+With Vodigi, you can have a virtual sales team dedicated to promoting and advertising your products and services... a team that knows your products and services inside and out, can provide detailed interactive information about your products and services, and is available any time... day or night... to help you succeed.
+
+Vodigi gives you what you need to:
+
+- Display image slide shows
+- Display video play lists
+- Allow customers to browse and watch product images and videos
+- Provide interactive buyer's guides
+- Provide detailed product information
+- Offer interactive product demonstrations
+- And much more...
+
+Version 6.0 is now available, so get started today.
+
+Learn more at http://www.vodigi.com.Vodigi is a free, open source, interactive digital signage software solution that offers all the features you need to promote and advertise your products and services.
+
+With Vodigi, you can have a virtual sales team dedicated to promoting and advertising your products and services... a team that knows your products and services inside and out, can provide detailed interactive information about your products and services, and is available any time... day or night... to help you succeed.
+
+Vodigi gives you what you need to:
+
+- Display image slide shows
+- Display video play lists
+- Allow customers to browse and watch product images and videos
+- Provide interactive buyer's guides
+- Provide detailed product information
+- Offer interactive product demonstrations
+- And much more...
+
+Version 6.0 is now available, so get started today.
+
+Learn more at http://www.vodigi.com.","Categories
+Enterprise, Dynamic Content, Multimedia"
+"Hibernate is an Object/Relational Mapper tool. It's very popular among Java applications and implements the Java Persistence API. Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).Hibernate is an Object/Relational Mapper tool. It's very popular among Java applications and implements the Java Persistence API. Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).","Categories
+Database, Search Engines, Frameworks, Scientific/Engineering, Object-Relational Mapping (ORM)"
+"Tool Command Language (Tcl) is an interpreted language and very portable interpreter for that language. Tcl is embeddable and extensible, and has been widely used since its creation in 1988 by John Ousterhout.
+
+Bug reports to http://core.tcl.tk/tcl/
+
+Follow code development at http://core.tcl.tk/tcl/Tool Command Language (Tcl) is an interpreted language and very portable interpreter for that language. Tcl is embeddable and extensible, and has been widely used since its creation in 1988 by John Ousterhout.
+
+Bug reports to http://core.tcl.tk/tcl/
+
+Follow code development at http://core.tcl.tk/tcl/","Categories
+Desktop Environment, Interpreters, Internet"
+"eXo Platform is an open-source digital workplace solutions for growing teams and enterprises, featuring:
+
+✅ Internal Communications
+✅ Team Collaboration
+✅ Knowledge Management
+✅ Productivity and Employee Recognition use cases.
+
+eXo stands out by:
+
+👍 its fluid and integrated employe experience, on desktop and mobile
+👍 the platform’s ease of use
+👍 innovative employee engagement features.
+
+eXo Platform is developed on open-source technology and supports open standards. The platform is extensible and interoperable, all services are exposed REST APIs.
+
+The platform also offers additional security capabilities, developed in collaboration with highly sensitive clients.
+
+With eXo Platform, companies can connect, engage and reward their employees, customers, and partners with its social, engagement and gamification capabilities.eXo Platform is an open-source digital workplace solutions for growing teams and enterprises, featuring:
+
+✅ Internal Communications
+✅ Team Collaboration
+✅ Knowledge Management
+✅ Productivity and Employee Recognition use cases.
+
+eXo stands out by:
+
+👍 its fluid and integrated employe experience, on desktop and mobile
+👍 the platform’s ease of use
+👍 innovative employee engagement features.
+
+eXo Platform is developed on open-source technology and supports open standards. The platform is extensible and interoperable, all services are exposed REST APIs.
+
+The platform also offers additional security capabilities, developed in collaboration with highly sensitive clients.
+
+With eXo Platform, companies can connect, engage and reward their employees, customers, and partners with its social, engagement and gamification capabilities.","Categories
+Enterprise, Wiki, Social Networking, Document Management"
+"phpSysInfo is a customizable PHP Script that parses /proc, and formats information nicely. It will display information about system facts like Uptime, CPU, Memory, PCI devices, SCSI devices, IDE devices, Network adapters, Disk usage, and more.phpSysInfo is a customizable PHP Script that parses /proc, and formats information nicely. It will display information about system facts like Uptime, CPU, Memory, PCI devices, SCSI devices, IDE devices, Network adapters, Disk usage, and more.","Categories
+Dynamic Content, Hardware"
+"Community driven projects featuring the latest innovations for cutting edge apps. Our flagship project JBoss AS is the leading Open Source, standards-compliant, Java EE based application server implemented in 100% Pure Java.Community driven projects featuring the latest innovations for cutting edge apps. Our flagship project JBoss AS is the leading Open Source, standards-compliant, Java EE based application server implemented in 100% Pure Java.","Categories
+Dynamic Content, Object Brokering, Operating System Kernels"
+"The home page for the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1 processor has moved to http://www.saxonica.com/. Information on this site is no longer kept up to date.
+
+Sourceforge was the home for open-source versions of the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1, processor from 1999 until 2022. From version 12.0 in January 2023, you need to visit the Saxonica site at http://www.saxonica.com/ for the latest information and releases.The home page for the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1 processor has moved to http://www.saxonica.com/. Information on this site is no longer kept up to date.
+
+Sourceforge was the home for open-source versions of the Saxon XSLT 3.0, XQuery 3.1, and XPath 3.1, processor from 1999 until 2022. From version 12.0 in January 2023, you need to visit the Saxonica site at http://www.saxonica.com/ for the latest information and releases.","Categories
+Dynamic Content, Interpreters"
+"ATTENTION: Corey here, creator of BugTracker.NET. Please checkout the successor to BugTracker.NET, ""Budoco"", which is like BugTracker.NET, but runs cross platform and uses PostgreSQL.
+https://github.com/ctrager/budoco
+
+In November 2020 Microsoft released .NET 5, aka .NET Core aka dotnet core. It drops technologies that BugTracker.NET depends on. Budoco is a rewrite that runs on dotnet core. Budoco is *BU*gtracker dot net on *DO*tnet *CO*re.
+
+Microsoft has a good track record of keeping so BugTracker.NET ""Classic"", which was born in 2001 and is still alive going into 2021, should be fine for the next few years.
+
+So, about BugTracker.NET ""Classic"":
+
+A web-based bug or issue tracker written using .NET 4.x Framework, ASP.NET, C#, and SQL Server (SQL Server Express too). Probably has all the features you need. Easy to setup. Power and flexibility when you need it. Learn more at http://ifdefined.com/bugtrackernet.htmlATTENTION: Corey here, creator of BugTracker.NET. Please checkout the successor to BugTracker.NET, ""Budoco"", which is like BugTracker.NET, but runs cross platform and uses PostgreSQL.
+https://github.com/ctrager/budoco
+
+In November 2020 Microsoft released .NET 5, aka .NET Core aka dotnet core. It drops technologies that BugTracker.NET depends on. Budoco is a rewrite that runs on dotnet core. Budoco is *BU*gtracker dot net on *DO*tnet *CO*re.
+
+Microsoft has a good track record of keeping so BugTracker.NET ""Classic"", which was born in 2001 and is still alive going into 2021, should be fine for the next few years.
+
+So, about BugTracker.NET ""Classic"":
+
+A web-based bug or issue tracker written using .NET 4.x Framework, ASP.NET, C#, and SQL Server (SQL Server Express too). Probably has all the features you need. Easy to setup. Power and flexibility when you need it. Learn more at http://ifdefined.com/bugtrackernet.html","Categories
+Help Desk, Collaborative Development, Agile Development Tools"
+"A slick, intuitive web based photo gallery. Gallery is easy to install, configure and use. Gallery photo management includes automatic thumbnails, resizing, rotation, and more. Authenticated users and privileged albums make this great for communitiesA slick, intuitive web based photo gallery. Gallery is easy to install, configure and use. Gallery photo management includes automatic thumbnails, resizing, rotation, and more. Authenticated users and privileged albums make this great for communities","Categories
+Dynamic Content, Image Viewers, Photo Management"
+"+++ PROJECT MOVED TO GITHUB +++
+
+HomePage: https://hakuneko.download
+Discord: https://discord.gg/A5d3NDf
+Project: https://git.io/hakuneko+++ PROJECT MOVED TO GITHUB +++
+
+HomePage: https://hakuneko.download
+Discord: https://discord.gg/A5d3NDf
+Project: https://git.io/hakuneko","Categories
+Internet"
+"FCKeditor is the previous version of CKEditor and has been discontinued after version 2. The new CKEditor is redesigned from the ground up, offering more WYSIWYG text editing features, enhanced security and better integration.
+
+Don’t force yourself with retro FCKeditor. Switch to the new, cool CKEditor at ckeditor.comFCKeditor is the previous version of CKEditor and has been discontinued after version 2. The new CKEditor is redesigned from the ground up, offering more WYSIWYG text editing features, enhanced security and better integration.
+
+Don’t force yourself with retro FCKeditor. Switch to the new, cool CKEditor at ckeditor.com","Categories
+Text Processing, Dynamic Content"
+"AWStats is a free powerful and featureful server logfile analyzer that shows you all your Web/Mail/FTP statistics including visits, unique visitors, pages, hits, rush hours, os, browsers, search engines, keywords, robots visits, broken links and moreAWStats is a free powerful and featureful server logfile analyzer that shows you all your Web/Mail/FTP statistics including visits, unique visitors, pages, hits, rush hours, os, browsers, search engines, keywords, robots visits, broken links and more","Categories
+Security, CGI Scripts, Log Analysis"
+**The new version WebsitePanel 1.2.0 is available at http://websitepanel.codeplex.com ** **Please visit the above website for the latest release of the software. Legacy code releases will remain on SourceForge for user access****The new version WebsitePanel 1.2.0 is available at http://websitepanel.codeplex.com ** **Please visit the above website for the latest release of the software. Legacy code releases will remain on SourceForge for user access**,"Categories
+Site Management"
+"WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It offers an easy to use GUI to copy files between a local and remote computer using multiple protocols: Amazon S3, FTP, FTPS, SCP, SFTP or WebDAV. Power users can automate WinSCP using .NET assembly. WinSCP is available in English and many other languages.WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It offers an easy to use GUI to copy files between a local and remote computer using multiple protocols: Amazon S3, FTP, FTPS, SCP, SFTP or WebDAV. Power users can automate WinSCP using .NET assembly. WinSCP is available in English and many other languages.","Categories
+Communications, Cryptography, File Transfer Protocol (FTP), FTP Clients"
+"SemanticScuttle is a social bookmarking tool experimenting with new features like structured tags and collaborative descriptions of tags. Originally a fork of Scuttle, it has overtaken its ancestor in stability, features and usability.SemanticScuttle is a social bookmarking tool experimenting with new features like structured tags and collaborative descriptions of tags. Originally a fork of Scuttle, it has overtaken its ancestor in stability, features and usability.","Categories
+Dynamic Content, Social Bookmarking"
+"VertrigoServ is a complete free WAMP server allowing PHP development for Windows. It installs Apache 2.4, PHP, MySQL and PhpMyAdmin, both installing and setting up the environment. An uninstaller allows you to remove Vertrigo from hard disc.
+
+Vertrigo is a freeware compilation of free software (under GPL, Apache License). Main aplication has closed source code. For license details please take a look at every single component terms and conditions.VertrigoServ is a complete free WAMP server allowing PHP development for Windows. It installs Apache 2.4, PHP, MySQL and PhpMyAdmin, both installing and setting up the environment. An uninstaller allows you to remove Vertrigo from hard disc.
+
+Vertrigo is a freeware compilation of free software (under GPL, Apache License). Main aplication has closed source code. For license details please take a look at every single component terms and conditions.","Categories
+Front-Ends, Database Engines/Servers, Dynamic Content, Site Management, HTTP Servers, Networking"
+"EPESI BIM (Business Information Manager) is a fully functional web CRM/ERP application to store, organize, access and share business records. Manage your data precisely, flexibly and easily, simplifying internal communication and making work-flow more efficient. Epesi has been designed as a Kickstarter project and provides ""no code"" and ""low code"" environment for developers. You can quickly create your own modules: https://epesi.org/devtutorial/helloworld
+
+Setting up EPESI Web Application Server
+- More information on how to get started can be found here: https://www.epesi.org/adminmanual/installation
+
+Simple: automatic or semi-automatic methods:
+- Setup hosting: https://epesi.cloud/cart.php - no technical expertise needed
+- Installation on your server via Softaculous autoinstaller: http://www.softaculous.com/apps/erp/EPESI
+
+Video tutorial on how to install epesi using Softaculous autoinstaller via cPanel - https://www.youtube.com/watch?v=FR4mQsHUNCY
+
+Download it from:
+- GitEPESI BIM (Business Information Manager) is a fully functional web CRM/ERP application to store, organize, access and share business records. Manage your data precisely, flexibly and easily, simplifying internal communication and making work-flow more efficient. Epesi has been designed as a Kickstarter project and provides ""no code"" and ""low code"" environment for developers. You can quickly create your own modules: https://epesi.org/devtutorial/helloworld
+
+Setting up EPESI Web Application Server
+- More information on how to get started can be found here: https://www.epesi.org/adminmanual/installation
+
+Simple: automatic or semi-automatic methods:
+- Setup hosting: https://epesi.cloud/cart.php - no technical expertise needed
+- Installation on your server via Softaculous autoinstaller: http://www.softaculous.com/apps/erp/EPESI
+
+Video tutorial on how to install epesi using Softaculous autoinstaller via cPanel - https://www.youtube.com/watch?v=FR4mQsHUNCY
+
+Download it from:
+- Git","Categories
+CRM, ERP, Cloud Services"
+"Screen squid is web-based interface for viewing reports based on Squid proxy server log files. It can be accessed from web-browser through more than 50 reports. No extra files, only DB. All reports generated ""on-the-fly"". And we got personal cabinet for each user/group.Screen squid is web-based interface for viewing reports based on Squid proxy server log files. It can be accessed from web-browser through more than 50 reports. No extra files, only DB. All reports generated ""on-the-fly"". And we got personal cabinet for each user/group.","Categories
+Log Analysis, Logging, Proxy Servers"
+An Enterprise-Grade Network Management Application Platform that is 100% Free and Open Source Software.An Enterprise-Grade Network Management Application Platform that is 100% Free and Open Source Software.,"Categories
+Monitoring, Internet"
+"Roundcube Webmail is a browser-based, multilingual IMAP client with an application-like user interface. Roundcube provides the full functionality you'd expect from an email client, including MIME support, address book, folder manipulation, message searching, and spell check. Roundcube is written in PHP and JavaScript.Roundcube Webmail is a browser-based, multilingual IMAP client with an application-like user interface. Roundcube provides the full functionality you'd expect from an email client, including MIME support, address book, folder manipulation, message searching, and spell check. Roundcube is written in PHP and JavaScript.","Categories
+Email Clients, Dynamic Content"
+"FreeFileSync is a free Open Source software that helps you synchronize files and synchronize folders for Windows, Linux and macOS. It is designed to save your time setting up and running data backups while having nice visual feedback along the way.
+_______________________________________________________________
+DOWNLOAD LINKS (official homepage): https://freefilesync.org/FreeFileSync is a free Open Source software that helps you synchronize files and synchronize folders for Windows, Linux and macOS. It is designed to save your time setting up and running data backups while having nice visual feedback along the way.
+_______________________________________________________________
+DOWNLOAD LINKS (official homepage): https://freefilesync.org/","Categories
+File Transfer Protocol (FTP), File Managers, Backup, FTP Clients"
+"SourceForge.net provides free hosting for Open Source software development projects.
+
+We now release our new forge platform and developer tools at the Allura project: http://sourceforge.net/p/allura/
+
+Old source code may now be found in the alexandria-dev project.SourceForge.net provides free hosting for Open Source software development projects.
+
+We now release our new forge platform and developer tools at the Allura project: http://sourceforge.net/p/allura/
+
+Old source code may now be found in the alexandria-dev project.","Categories
+Dynamic Content"
+Home of the Open Object Rexx Project. ooRexx is the open source version of IBM's Object REXX Interpreter. It is upwardly compatible with classic REXX and will execute classic REXX programs unchanged. The project is managed by the Rexx Language Association.Home of the Open Object Rexx Project. ooRexx is the open source version of IBM's Object REXX Interpreter. It is upwardly compatible with classic REXX and will execute classic REXX programs unchanged. The project is managed by the Rexx Language Association.,"Categories
+CGI Scripts, HTTP Servers, Interpreters, Systems Administration"
+PuTTY SSH client for Symbian OSPuTTY SSH client for Symbian OS,"Categories
+Terminal Emulators, Communications, Cryptography, Internet"
+"Developed by the Web Technology Group at Appalachian State University, phpWebSite provides a complete web site content management system ( CMS ). All client output is XHTML 1.0 and meets the W3C's Web Accessibility Initiative requirements.Developed by the Web Technology Group at Appalachian State University, phpWebSite provides a complete web site content management system ( CMS ). All client output is XHTML 1.0 and meets the W3C's Web Accessibility Initiative requirements.","Categories
+HTML/XHTML, Dynamic Content, Site Management"
+"CLucene is a C++ port of Lucene: the high-performance, full-featured text search engine written in Java. CLucene is faster than lucene as it is written in C++.CLucene is a C++ port of Lucene: the high-performance, full-featured text search engine written in Java. CLucene is faster than lucene as it is written in C++.","Categories
+Database Engines/Servers, Search Engines, Search"

@@ -1,0 +1,733 @@
+Description,Category
+"Converts Google Earth KML file to a CSV file, and vice versa. This enables you to plot all custom POIs with Google Earth first before transferring them into your Garmin GPS using the POI Loader.Converts Google Earth KML file to a CSV file, and vice versa. This enables you to plot all custom POIs with Google Earth first before transferring them into your Garmin GPS using the POI Loader.","Categories
+Data Formats, Information Analysis, GIS"
+"This project has been moved to CodePlex: http://nhapi.codeplex.com/
+
+.Net version of HAPI (http://hl7api.sourceforge.net/). Object oriented HL7 2.X parser. This was ported from the original HAPI by Bryan Tripp and University Health Network. HL7 parser/encoder written in Microsoft .Net C#. Can encode/decode both XML and PiThis project has been moved to CodePlex: http://nhapi.codeplex.com/
+
+.Net version of HAPI (http://hl7api.sourceforge.net/). Object oriented HL7 2.X parser. This was ported from the original HAPI by Bryan Tripp and University Health Network. HL7 parser/encoder written in Microsoft .Net C#. Can encode/decode both XML and Pi","Categories
+Medical"
+"DarwiinRemote is a tiny program & library which reads data from and sends data to Nintendo Wii Remote (Wiimote), nunchuk, & classic controller.DarwiinRemote is a tiny program & library which reads data from and sends data to Nintendo Wii Remote (Wiimote), nunchuk, & classic controller.","Categories
+Games/Entertainment, Hardware, HMI"
+rtmc9s12-Target is a MATLAB/Simulink block-set for real-time control on Freescale MC9S12 microcontrollers.rtmc9s12-Target is a MATLAB/Simulink block-set for real-time control on Freescale MC9S12 microcontrollers.,"Categories
+Robotics, Embedded Systems"
+"MIRA - Sequence assembler and sequence mapping for whole genome shotgun and EST / RNASeq sequencing data. Can use Sanger, 454, Illumina and IonTorrent data. PacBio: CCS and error corrected data usable, uncorrected not yet.MIRA - Sequence assembler and sequence mapping for whole genome shotgun and EST / RNASeq sequencing data. Can use Sanger, 454, Illumina and IonTorrent data. PacBio: CCS and error corrected data usable, uncorrected not yet.","Categories
+Bio-Informatics"
+"Marcion is a software forming a study environment of ancient languages (esp. Coptic, Greek, Latin) and providing many tools and resources (dictionaties, grammars, texts). Although Marcion is focused on to study the gnosticism and early christianity, it is an universal library working with various file formats and allowing to collect, organize and backup texts of any kind.
+
+Overview of gnostic sources in Coptic language delivered with Marcion: Nag Hammadi Library; Berlin Codex; Codex Tchacos (Gospel of Judas); Askew Codex (Pistis Sophia); Bruce Codex (Books of Jeu)
+
+Overview of sources of early christianity in Coptic, Greek and Latin languages: Septuagint (LXX); Greek New Testament; Coptic New Testament (Sahidic, Bohairic); Latin VulgateMarcion is a software forming a study environment of ancient languages (esp. Coptic, Greek, Latin) and providing many tools and resources (dictionaties, grammars, texts). Although Marcion is focused on to study the gnosticism and early christianity, it is an universal library working with various file formats and allowing to collect, organize and backup texts of any kind.
+
+Overview of gnostic sources in Coptic language delivered with Marcion: Nag Hammadi Library; Berlin Codex; Codex Tchacos (Gospel of Judas); Askew Codex (Pistis Sophia); Bruce Codex (Books of Jeu)
+
+Overview of sources of early christianity in Coptic, Greek and Latin languages: Septuagint (LXX); Greek New Testament; Coptic New Testament (Sahidic, Bohairic); Latin Vulgate","Categories
+Library, Religion and Philosophy, Linguistics"
+"This project, initially developed at University College London, contains programs to perform rigid, affine and non-linear registration of nifti or analyse images. Two versions of the algorithms are included, a CPU- and a GPU- (using CUDA) based implementation.This project, initially developed at University College London, contains programs to perform rigid, affine and non-linear registration of nifti or analyse images. Two versions of the algorithms are included, a CPU- and a GPU- (using CUDA) based implementation.","Categories
+Bio-Informatics, Medical"
+Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.,"Categories
+Desktop Environment, Search, HMI"
+"Make a Linux distribution that is focused on the development of Arduino and IOT. This distribution must be in ""Live"" format and fully functional.
+If the user likes the distribution it is possible to do a final installation.
+The license is in GNU format totally free and free for use in any segment whether personal, academic or commercial.
+
+Build Features:
+Distro Base: Debian 9.5 AMD64bit
+Size: 4Gb
+Xwindow manager: Mate, XFCEMake a Linux distribution that is focused on the development of Arduino and IOT. This distribution must be in ""Live"" format and fully functional.
+If the user likes the distribution it is possible to do a final installation.
+The license is in GNU format totally free and free for use in any segment whether personal, academic or commercial.
+
+Build Features:
+Distro Base: Debian 9.5 AMD64bit
+Size: 4Gb
+Xwindow manager: Mate, XFCE","Categories
+3D Printing"
+"NEW V3 version with RTC and buzzer (require V3+ ECG Logger Viewer application)
+
+The ECG Logger project is a Wearable Cardio Monitor for Long-Term (up to 24h) ECG Data Acquisition and Analysis (aka Holter) with an ECG live (real-time) mode.
+
+This project provides a very low-cost open-source ""Hardware and Software"" for a Cardiac Rhythmic Holter. The hardware has been made very simple and is based on an Arduino Nano micro-controller with boards for SD card mass-storage, instrumentation differential amplifier and RTC. It can help monitoring arrhythmia syndromes such as bradycardia, tachycardia, extra-systoles, pause or flutter.
+
+WARNING:
+In no case it can be use to replace a professional medical examination.
+Device MUST NOT BE CONNECTED to appliance powered by mains - risk of electrical shocks
+**************************************************************************************
+
+see also:
+ECG Logger Viewer application : https://sourceforge.net/projects/ecg-logger-viewer/NEW V3 version with RTC and buzzer (require V3+ ECG Logger Viewer application)
+
+The ECG Logger project is a Wearable Cardio Monitor for Long-Term (up to 24h) ECG Data Acquisition and Analysis (aka Holter) with an ECG live (real-time) mode.
+
+This project provides a very low-cost open-source ""Hardware and Software"" for a Cardiac Rhythmic Holter. The hardware has been made very simple and is based on an Arduino Nano micro-controller with boards for SD card mass-storage, instrumentation differential amplifier and RTC. It can help monitoring arrhythmia syndromes such as bradycardia, tachycardia, extra-systoles, pause or flutter.
+
+WARNING:
+In no case it can be use to replace a professional medical examination.
+Device MUST NOT BE CONNECTED to appliance powered by mains - risk of electrical shocks
+**************************************************************************************
+
+see also:
+ECG Logger Viewer application : https://sourceforge.net/projects/ecg-logger-viewer/","Categories
+Medical, Education, Healthcare"
+"Ethernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object LibraryEthernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object Library","Categories
+Communications, Software Development, Scientific/Engineering"
+"S7 Trends is a free and easy-to-use software to trace what is going on in Siemens PLC. You can watch & record in real time the state of all types of variables:
+- Markers
+- Inputs/Outputs
+- Timers
+- Counters
+- Databases
+It is written in C# and it is using Snap7 library. It should work also with S1200.
+Current state is stable.
+
+If you encounter any problems or you have any idea for a new feature - write a review https://sourceforge.net/projects/s7-trends/reviews/new
+Testing and criticism is very welcome, as well as donations.
+Version 1.02 Released:
+- Much performance improvement & Bugfixes
+- Chart zooming with rectangle
+- Import symbols in DIF format
+- Change Display format for variables
+- Save & Load variables configuration
+- Handling of Timers & CountersS7 Trends is a free and easy-to-use software to trace what is going on in Siemens PLC. You can watch & record in real time the state of all types of variables:
+- Markers
+- Inputs/Outputs
+- Timers
+- Counters
+- Databases
+It is written in C# and it is using Snap7 library. It should work also with S1200.
+Current state is stable.
+
+If you encounter any problems or you have any idea for a new feature - write a review https://sourceforge.net/projects/s7-trends/reviews/new
+Testing and criticism is very welcome, as well as donations.
+Version 1.02 Released:
+- Much performance improvement & Bugfixes
+- Chart zooming with rectangle
+- Import symbols in DIF format
+- Change Display format for variables
+- Save & Load variables configuration
+- Handling of Timers & Counters","Categories
+Data Visualization, SCADA, Test and Measurement"
+"ToxTrac is a free Windows program optimized for tracking animals. It uses an advanced tracking algorithm that is robust; very fast; and that can handle one or several animals in one or several environments. The program provides useful statistics as output. ToxTrac can be used for fish, insects, rodents, etc.
+
+If used, please cite:
+
+Rodriguez, A., Zhang, H., Klaminder, J., Brodin, T., Andersson, P. L. and Andersson, M. (2018). ToxTrac: a fast and robust software for tracking organisms. Methods in Ecology and Evolution. 9(3):460–464
+
+Rodriguez, A., Zhang, H., Klaminder, J., Brodin, T., and Andersson, M. (2017). ToxId: an algorithm to track the identity of multiple animals. Scientific Reports. 7(1):14774.
+
+Note that currently we provide under GPLv3 license, the source of ToxTrac v2.61.
+
+Contact
+Magnus Andersson, Department of Physics, Umeå University
+magnus.andersson@umu.se
+
+Support
+Alvaro Rodriguez, Main Developer
+a.tajes@udc.esToxTrac is a free Windows program optimized for tracking animals. It uses an advanced tracking algorithm that is robust; very fast; and that can handle one or several animals in one or several environments. The program provides useful statistics as output. ToxTrac can be used for fish, insects, rodents, etc.
+
+If used, please cite:
+
+Rodriguez, A., Zhang, H., Klaminder, J., Brodin, T., Andersson, P. L. and Andersson, M. (2018). ToxTrac: a fast and robust software for tracking organisms. Methods in Ecology and Evolution. 9(3):460–464
+
+Rodriguez, A., Zhang, H., Klaminder, J., Brodin, T., and Andersson, M. (2017). ToxId: an algorithm to track the identity of multiple animals. Scientific Reports. 7(1):14774.
+
+Note that currently we provide under GPLv3 license, the source of ToxTrac v2.61.
+
+Contact
+Magnus Andersson, Department of Physics, Umeå University
+magnus.andersson@umu.se
+
+Support
+Alvaro Rodriguez, Main Developer
+a.tajes@udc.es","Categories
+Ecosystem Sciences, Physics, Earth Sciences"
+"A lightweight macOS menubar app to display weather data, from multiple weather sources, for unlimited locations. Get the weather report you want, customized to how you want it, at the click of a button.
+
+The Classic version is like a classic car, restored to its former glory, now overhauled and enhanced. Visit the original project[1] for some legacy background as well as Ed's modifications over WeatherBar[2].
+
+[1] <https://sourceforge.net/projects/heat-meteo>
+[2] <http://footle.org/WeatherBar>A lightweight macOS menubar app to display weather data, from multiple weather sources, for unlimited locations. Get the weather report you want, customized to how you want it, at the click of a button.
+
+The Classic version is like a classic car, restored to its former glory, now overhauled and enhanced. Visit the original project[1] for some legacy background as well as Ed's modifications over WeatherBar[2].
+
+[1] <https://sourceforge.net/projects/heat-meteo>
+[2] <http://footle.org/WeatherBar>","Categories
+Earth Sciences"
+Takes Excel data relationships and creates Graphviz graph visualizations.Takes Excel data relationships and creates Graphviz graph visualizations.,"Categories
+Data Visualization"
+"FEATool Multiphysics (https://www.featool.com) is a fully integrated, flexible and easy to use physics and finite element FEM simulation toolbox for MATLAB. Developed with ease of use in mind, everyone is able to set up and perform complex multiphysics simulations in a simple GUI without learning any coding, programming, or scripting.
+
+In addition to built-in FEM and PDE solvers, FEATool features full integration with the high performance OpenFOAM CFD and FEniCS PDE solvers. With built-in CAD and pre-processing, automatic mesh generation, solvers, and postprocessing, FEATool enables large scale dynamical models and physics simulations to be set up and solved easily and quickly directly in the FEATool MATLAB GUI. Multiphysics and multi-simulation also allows for fully coupled fluid flow, heat transfer, chemical transport, electromagnetics, and fluid-structure interaction simulations.FEATool Multiphysics (https://www.featool.com) is a fully integrated, flexible and easy to use physics and finite element FEM simulation toolbox for MATLAB. Developed with ease of use in mind, everyone is able to set up and perform complex multiphysics simulations in a simple GUI without learning any coding, programming, or scripting.
+
+In addition to built-in FEM and PDE solvers, FEATool features full integration with the high performance OpenFOAM CFD and FEniCS PDE solvers. With built-in CAD and pre-processing, automatic mesh generation, solvers, and postprocessing, FEATool enables large scale dynamical models and physics simulations to be set up and solved easily and quickly directly in the FEATool MATLAB GUI. Multiphysics and multi-simulation also allows for fully coupled fluid flow, heat transfer, chemical transport, electromagnetics, and fluid-structure interaction simulations.","Categories
+Simulation, Physics, Computer-aided technologies (CADD/CAM/CAE)"
+"It's a scientific calculator which allows users to enter a mathematical expression with any number of functions in it... it evaluates the result and shows the entered expression with the result.... very friendly environment .. easy to use,also compatible with touch screen laptops.. full scientific calculator..It's a scientific calculator which allows users to enter a mathematical expression with any number of functions in it... it evaluates the result and shows the entered expression with the result.... very friendly environment .. easy to use,also compatible with touch screen laptops.. full scientific calculator..","Categories
+Mathematics, Calculators, Scientific Calculators"
+"DataMelt (or ""DMelt"") is an environment for numeric computation, data analysis, computational statistics, and data visualization. This Java multiplatform program is integrated with several scripting languages such as Jython (Python), Groovy, JRuby, BeanShell. DMelt can be used to plot functions and data in 2D and 3D, perform statistical tests, data mining, numeric computations, function minimization, linear algebra, solving systems of linear and differential equations. Linear, non-linear and symbolic regression are also available. Neural networks and various data-manipulation methods are integrated using powerful Java API. Elements of symbolic computations using Octave/Matlab scripting are supported.DataMelt (or ""DMelt"") is an environment for numeric computation, data analysis, computational statistics, and data visualization. This Java multiplatform program is integrated with several scripting languages such as Jython (Python), Groovy, JRuby, BeanShell. DMelt can be used to plot functions and data in 2D and 3D, perform statistical tests, data mining, numeric computations, function minimization, linear algebra, solving systems of linear and differential equations. Linear, non-linear and symbolic regression are also available. Neural networks and various data-manipulation methods are integrated using powerful Java API. Elements of symbolic computations using Octave/Matlab scripting are supported.","Categories
+Data Visualization, Mathematics, Physics, Data Analytics"
+"ILA stands for (kind of) intelligent, learning assistant and is a speech recognition system aka voice assistant very similar to Siri, Google Now and Cortana. ILA is fully customizable and you can teach her/him/it new things by yourself like executing system commands, opening web pages, programs and apps or just some basic conversation :-) ILA runs on Java und thus is compatible to Windows, Mac and Linux. It is designed to integrate with your home enviroment and for example build up your own, free and open Amazon Echo replacement ;-) Right now the key components of ILA are the open source speech recognition CMU Sphinx-4, Google (Speech Recognition/Text-To-Speech) and MaryTTS (Text-To-Speech). The goal is to make ILA completely free of Google by improving all aspects of the open source systems. Since version 3.3 users can also write own add-ons to extend ILA.
+
+ILA's successor is the SEPIA Framework: https://sepia-framework.github.io/
+
+Hope you enjoy ILA
+- FlorianILA stands for (kind of) intelligent, learning assistant and is a speech recognition system aka voice assistant very similar to Siri, Google Now and Cortana. ILA is fully customizable and you can teach her/him/it new things by yourself like executing system commands, opening web pages, programs and apps or just some basic conversation :-) ILA runs on Java und thus is compatible to Windows, Mac and Linux. It is designed to integrate with your home enviroment and for example build up your own, free and open Amazon Echo replacement ;-) Right now the key components of ILA are the open source speech recognition CMU Sphinx-4, Google (Speech Recognition/Text-To-Speech) and MaryTTS (Text-To-Speech). The goal is to make ILA completely free of Google by improving all aspects of the open source systems. Since version 3.3 users can also write own add-ons to extend ILA.
+
+ILA's successor is the SEPIA Framework: https://sepia-framework.github.io/
+
+Hope you enjoy ILA
+- Florian","Categories
+Intelligent Agents, HMI, Speech, Speech Recognition"
+EliteOCR allows you to OCR market screenshots from Elite: Dangerous and export the data to various formats and services.EliteOCR allows you to OCR market screenshots from Elite: Dangerous and export the data to various formats and services.,"Categories
+OCR"
+"HeatmapGenerator is a graphical user interface software program written in C++, R, and OpenGL to create customized gene expression heatmaps from RNA-seq and microarray data in medical research. HeatmapGenerator can also be used to make heatmaps in a variety of other non-medical fields.
+
+HeatmapGenerator is peer-reviewed published software (http://www.scfbm.org/content/9/1/30). Please cite: [Khomtchouk et al.: ""HeatmapGenerator: High performance RNAseq and microarray visualization software suite to examine differential gene expression levels using an R and C++ hybrid computational pipeline."" Source Code for Biology and Medicine, 2014 9:30]
+
+HeatmapGenerator source code is available at: https://github.com/Bohdan-Khomtchouk/HeatmapGenerator
+
+Bohdan Khomtchouk wishes to acknowledge the support of the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program.
+
+HeatmapGenerator is released under the GNU GPL.HeatmapGenerator is a graphical user interface software program written in C++, R, and OpenGL to create customized gene expression heatmaps from RNA-seq and microarray data in medical research. HeatmapGenerator can also be used to make heatmaps in a variety of other non-medical fields.
+
+HeatmapGenerator is peer-reviewed published software (http://www.scfbm.org/content/9/1/30). Please cite: [Khomtchouk et al.: ""HeatmapGenerator: High performance RNAseq and microarray visualization software suite to examine differential gene expression levels using an R and C++ hybrid computational pipeline."" Source Code for Biology and Medicine, 2014 9:30]
+
+HeatmapGenerator source code is available at: https://github.com/Bohdan-Khomtchouk/HeatmapGenerator
+
+Bohdan Khomtchouk wishes to acknowledge the support of the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program.
+
+HeatmapGenerator is released under the GNU GPL.","Categories
+Software Development, Bio-Informatics, Medical"
+"This library allows to use the Raspberry Pi Camera.
+
+Main features:
+- Provides class RaspiCam for easy and full control of the camera
+- Provides class RaspiCam_Cv for easy control of the camera with OpenCV.
+- Easy compilation/installation using cmake.
+- No need to install development file of userland. Implementation is hidden.
+- Many examplesThis library allows to use the Raspberry Pi Camera.
+
+Main features:
+- Provides class RaspiCam for easy and full control of the camera
+- Provides class RaspiCam_Cv for easy control of the camera with OpenCV.
+- Easy compilation/installation using cmake.
+- No need to install development file of userland. Implementation is hidden.
+- Many examples","Categories
+Artificial Intelligence, Video, Libraries"
+"A cross platform Python frequency scanning GUI for USB TV dongles, using the OsmoSDR rtl-sdr library.
+
+In other words a cheap, simple Spectrum Analyser.
+
+More information can be found at:
+http://eartoearoak.com/software/rtlsdr-scanner
+
+An installer and standalone versions for Windows are located here:
+https://github.com/EarToEarOak/RTLSDR-Scanner/releases
+
+Sources are available on GitHub:
+https://github.com/EarToEarOak/RTLSDR-Scanner
+
+** The up to date installer is no longer maintained on this site and can now be found at https://github.com/EarToEarOak/RTLSDR-Scanner/releases **A cross platform Python frequency scanning GUI for USB TV dongles, using the OsmoSDR rtl-sdr library.
+
+In other words a cheap, simple Spectrum Analyser.
+
+More information can be found at:
+http://eartoearoak.com/software/rtlsdr-scanner
+
+An installer and standalone versions for Windows are located here:
+https://github.com/EarToEarOak/RTLSDR-Scanner/releases
+
+Sources are available on GitHub:
+https://github.com/EarToEarOak/RTLSDR-Scanner
+
+** The up to date installer is no longer maintained on this site and can now be found at https://github.com/EarToEarOak/RTLSDR-Scanner/releases **","Categories
+Ham Radio, Test and Measurement"
+"JuceVLC is VLC with a simple MediaCenter-like fullscreen User Interface.
+
+* Browse local or remote (via UPNP) files and adjust settings using On Screen Display (O.S.D.)
+* Frontpage movies menu with automatically downloaded posters (from www.omdbapi.com) or generated thumbnails (no setup required)
+* Big, customizable fonts size and no tiny popup dialogs
+* Subtitles selection and synchronization using slider via O.S.D.
+* Search,Download,Extract and Load subtitles from opensubtitles.org
+* Keep last and favorite video folders
+* Does not mess up your system: settings are stored in the application folder
+* Portable: Paste is on any usb key or external hard drive
+* JuceVLC application uses regular VLC core libraries/plugins: You can paste future VLC versions directory along JuceVLC to update the core video player without any JuceVLC update
+* The ""space-key"" allows your relatives to play/pause when interupting your video;-)JuceVLC is VLC with a simple MediaCenter-like fullscreen User Interface.
+
+* Browse local or remote (via UPNP) files and adjust settings using On Screen Display (O.S.D.)
+* Frontpage movies menu with automatically downloaded posters (from www.omdbapi.com) or generated thumbnails (no setup required)
+* Big, customizable fonts size and no tiny popup dialogs
+* Subtitles selection and synchronization using slider via O.S.D.
+* Search,Download,Extract and Load subtitles from opensubtitles.org
+* Keep last and favorite video folders
+* Does not mess up your system: settings are stored in the application folder
+* Portable: Paste is on any usb key or external hard drive
+* JuceVLC application uses regular VLC core libraries/plugins: You can paste future VLC versions directory along JuceVLC to update the core video player without any JuceVLC update
+* The ""space-key"" allows your relatives to play/pause when interupting your video;-)","Categories
+HMI, Video, Home Theater PC"
+"Sail7 is an analysis tool based on the linear panel methods.
+It is a derivative of xflr5.Sail7 is an analysis tool based on the linear panel methods.
+It is a derivative of xflr5.","Categories
+Physics"
+"JGPSTrackEdit is a tool for editing gps tracks and planning (multiple days) tours (GPS track editor).
+
+An abritary number of tracks may be opened or created, tracks may be merged. A track may be splitted, reversed or edited (e.g. compressed and corrected).
+Points may be inserted or appended to a track (routing supported) or may be moved or deleted from a track.
+
+Maps of several providers are available, the default map is OpenStreetMap.
+
+Currently supported track formats: Garmin gpx route, Garmin gpx track, Garmin tcx, kml and plain txt.
+
+JGPSTrackEdit my also be used to download tile images for later offline use by smartphone apps.
+
+JGPSTrackEdit is written in the java language. To run the software, a java runtime installation is required (may be obtained from https://www.java.com/de/download/ or https://openjdk.java.net/projects/jdk8/ or https://adoptopenjdk.net/)
+
+More information, including the user manual, may be found on the wiki pages (https://sourceforge.net/p/jgpstJGPSTrackEdit is a tool for editing gps tracks and planning (multiple days) tours (GPS track editor).
+
+An abritary number of tracks may be opened or created, tracks may be merged. A track may be splitted, reversed or edited (e.g. compressed and corrected).
+Points may be inserted or appended to a track (routing supported) or may be moved or deleted from a track.
+
+Maps of several providers are available, the default map is OpenStreetMap.
+
+Currently supported track formats: Garmin gpx route, Garmin gpx track, Garmin tcx, kml and plain txt.
+
+JGPSTrackEdit my also be used to download tile images for later offline use by smartphone apps.
+
+JGPSTrackEdit is written in the java language. To run the software, a java runtime installation is required (may be obtained from https://www.java.com/de/download/ or https://openjdk.java.net/projects/jdk8/ or https://adoptopenjdk.net/)
+
+More information, including the user manual, may be found on the wiki pages (https://sourceforge.net/p/jgpst","Categories
+GPS, Sports Games, GIS"
+"TikZ-dependency allows you to draw dependency graphs in LaTeX documents with little or no effort.
+
+The package has a very easy to learn, high level interface that can be used to draw simple dependency trees, complex non projective graphs, bubble parses, and in general any kind of graph which is based on a sequence of nodes and edges among these.
+
+It is based on PGF/TikZ and it can be used either with latex or pdflatex. It comes with a very comprehensive documentation that will get you started in 10 minutes, even without any prior knowledge of TikZ.
+
+It also provides a lot of styling facilities, to let you personalize the look and feel of the graphs at your liking.TikZ-dependency allows you to draw dependency graphs in LaTeX documents with little or no effort.
+
+The package has a very easy to learn, high level interface that can be used to draw simple dependency trees, complex non projective graphs, bubble parses, and in general any kind of graph which is based on a sequence of nodes and edges among these.
+
+It is based on PGF/TikZ and it can be used either with latex or pdflatex. It comes with a very comprehensive documentation that will get you started in 10 minutes, even without any prior knowledge of TikZ.
+
+It also provides a lot of styling facilities, to let you personalize the look and feel of the graphs at your liking.","Categories
+Presentation, Linguistics, Desktop Publishing"
+"Insert a PDF into an AutoCAD Drawing without leaving AutoCAD. VectPDF is a frontend to 'pstoedit' for AutoCAD (Windows 32 & 64 bit). VectPDF is an Autolisp Application For AutoCad to load a Selected PDF file with 'pstoedit' convert to single-line DXF, Pick Point To Insert into Drawing. Load. Requires 'pstoedit 3.50' and 'GPL Ghostscript 9.04' (included)Insert a PDF into an AutoCAD Drawing without leaving AutoCAD. VectPDF is a frontend to 'pstoedit' for AutoCAD (Windows 32 & 64 bit). VectPDF is an Autolisp Application For AutoCad to load a Selected PDF file with 'pstoedit' convert to single-line DXF, Pick Point To Insert into Drawing. Load. Requires 'pstoedit 3.50' and 'GPL Ghostscript 9.04' (included)","Categories
+Printing, Building Automation, Data Modeling"
+"UPDATE,
+Check out our new website where we will host all future updates and improvements. The Sourceforge site will no longer be maintained and updated.
+www.TheChronosProject.com
+
+Project Chronos is an open source time lapse rail. It is a fully features system that offers the same level of control as professional systems costing thousands of dollars. It is also the most accurate time lapse system available capable of making accurate movements 1/125th the width of a human hair. And the best news, is this is 100% open source with all schematics, parts lists, and instructions online and free to use. Feel free to contact us at projectchronoshelp@gmail.com with any questions.
+
+For more information check the home screen and the wiki on this project page, also be sure to check out my Vimeo channel to see the system in actions as well as any news updates.
+
+Like us on Facebook!
+https://www.facebook.com/ProjectChronos2
+
+https://vimeo.com/channels/279374UPDATE,
+Check out our new website where we will host all future updates and improvements. The Sourceforge site will no longer be maintained and updated.
+www.TheChronosProject.com
+
+Project Chronos is an open source time lapse rail. It is a fully features system that offers the same level of control as professional systems costing thousands of dollars. It is also the most accurate time lapse system available capable of making accurate movements 1/125th the width of a human hair. And the best news, is this is 100% open source with all schematics, parts lists, and instructions online and free to use. Feel free to contact us at projectchronoshelp@gmail.com with any questions.
+
+For more information check the home screen and the wiki on this project page, also be sure to check out my Vimeo channel to see the system in actions as well as any news updates.
+
+Like us on Facebook!
+https://www.facebook.com/ProjectChronos2
+
+https://vimeo.com/channels/279374","Categories
+Robotics, Cataloguing"
+"Open data for a Khmer language corpus and lexicographic data that can be used for the development of free language tools for Khmer language, such as automatic translators, dictionaries, linguistic analysis tools, etc.Open data for a Khmer language corpus and lexicographic data that can be used for the development of free language tools for Khmer language, such as automatic translators, dictionaries, linguistic analysis tools, etc.","Categories
+Linguistics"
+"An online database and cross-platform, game-like client where gardeners/farmers (small or large scale) can log their actions and measurements (such as weather, yield, current plant size).
+
+Any user can then play it back visually, or play with the data and see a simulation inferred from the knowledge database, or calculate an optimal design within given constraints, inferred from the knowledge available at that time.
+
+This is both a tool for playing, in order to entertain and inspire people, as well as a serious feedback and design tool. There will be a user feedback system to value the accuracy of the data. It is allowed to enter and share mock farming data, as long as it's tagged as being fantasy, to exclude it from the analyses.
+
+Things like dietary information, tiredness and bio-constructions will be included as well, to improve optimizations of a garden design with (partial) self-sufficiency in mind.
+
+The UI will resemble a garden, and can switch to simplified views.An online database and cross-platform, game-like client where gardeners/farmers (small or large scale) can log their actions and measurements (such as weather, yield, current plant size).
+
+Any user can then play it back visually, or play with the data and see a simulation inferred from the knowledge database, or calculate an optimal design within given constraints, inferred from the knowledge available at that time.
+
+This is both a tool for playing, in order to entertain and inspire people, as well as a serious feedback and design tool. There will be a user feedback system to value the accuracy of the data. It is allowed to enter and share mock farming data, as long as it's tagged as being fantasy, to exclude it from the analyses.
+
+Things like dietary information, tiredness and bio-constructions will be included as well, to improve optimizations of a garden design with (partial) self-sufficiency in mind.
+
+The UI will resemble a garden, and can switch to simplified views.","Categories
+Simulation Games, Ecosystem Sciences, Hobbies"
+"Bioinformatics Perl extension for the analysis of antibody variable domain repertoires. Suitable for mammalian repertoire sequences obtained either by Sanger or 454 sequencing. Methods published in Glanville, Zhai, Berka et al, PNAS 2009.Bioinformatics Perl extension for the analysis of antibody variable domain repertoires. Suitable for mammalian repertoire sequences obtained either by Sanger or 454 sequencing. Methods published in Glanville, Zhai, Berka et al, PNAS 2009.","Categories
+Bio-Informatics"
+The goal of project Math Editor is to provide students and professionals a quality alternative to expensive equation editors.The goal of project Math Editor is to provide students and professionals a quality alternative to expensive equation editors.,"Categories
+Office/Business, Scientific/Engineering, Education"
+"A cross-platform, open-source, alternative to NIST REFPROP. Based on reference-accuracy equations of state and transport property correlations for refrigerants like Water, CO2, R134a, Nitrogen, Argon, Ammonia, Air, R404a, R410a, Propane and many others. A selection of secondary working fluid properties are also available. Can also make use of REFPROP when available.
+
+In addition, calculations for Humid Air Properties based on ASHRAE RP-1485 are provided.
+
+Wrappers are available for MATLAB, Octave, Python, C#, Fortran and many more.A cross-platform, open-source, alternative to NIST REFPROP. Based on reference-accuracy equations of state and transport property correlations for refrigerants like Water, CO2, R134a, Nitrogen, Argon, Ammonia, Air, R404a, R410a, Propane and many others. A selection of secondary working fluid properties are also available. Can also make use of REFPROP when available.
+
+In addition, calculations for Humid Air Properties based on ASHRAE RP-1485 are provided.
+
+Wrappers are available for MATLAB, Octave, Python, C#, Fortran and many more.","Categories
+Scientific/Engineering, Simulation, Mechanical and Civil Engineering"
+"Timeline based editor for creating Compact Disc Subcode Graphics (also known as CD+G or CDG).
+
+Both karaoke and multimedia styles of content are supported.
+
+Please visit cdgmagic.sf.net for examples playable directly in the HTML5 CD+G player.
+
+CD+Graphics Scribe utility (separate download -- click ""Browse All Files"" above) can now convert existing CDG karaoke content to CMP (CD+Graphics Magic Project), LRC (Enhanced Lyrics), and ASS (Advanced SubStation Alpha) format.Timeline based editor for creating Compact Disc Subcode Graphics (also known as CD+G or CDG).
+
+Both karaoke and multimedia styles of content are supported.
+
+Please visit cdgmagic.sf.net for examples playable directly in the HTML5 CD+G player.
+
+CD+Graphics Scribe utility (separate download -- click ""Browse All Files"" above) can now convert existing CDG karaoke content to CMP (CD+Graphics Magic Project), LRC (Enhanced Lyrics), and ASS (Advanced SubStation Alpha) format.","Categories
+Graphic Design, OCR"
+"CIF2Cell is a tool to generate the geometrical setup for various electronic structure codes from a CIF (Crystallographic Information Framework) file. The program currently supports output for a number of popular electronic structure programs, including ABINIT, ASE, CASTEP, CP2K, CPMD, CRYSTAL09, Elk, EMTO, Exciting, Fleur, FHI-aims, Hutsepot, MOPAC, Quantum Espresso, RSPt, Siesta, SPR-KKR, VASP. Also exports some related formats like .coo, .cfg and .xyz-files. The program has been published in Computer Physics Communications 182 (2011) 1183–1186. Please cite generously.CIF2Cell is a tool to generate the geometrical setup for various electronic structure codes from a CIF (Crystallographic Information Framework) file. The program currently supports output for a number of popular electronic structure programs, including ABINIT, ASE, CASTEP, CP2K, CPMD, CRYSTAL09, Elk, EMTO, Exciting, Fleur, FHI-aims, Hutsepot, MOPAC, Quantum Espresso, RSPt, Siesta, SPR-KKR, VASP. Also exports some related formats like .coo, .cfg and .xyz-files. The program has been published in Computer Physics Communications 182 (2011) 1183–1186. Please cite generously.","Categories
+Chemistry, Physics"
+"This project is the MATLAB development of a virtual sound level meter. The program will read in a calibrated .wav file and allow the user to analyze it as one would analyze a sound field with a sound level meter. The software implements Fast, Slow, Impulse and LEQ; A, C and Flat Weighting; Ln and Noise Dose analysis; Octave and 1/3 Octave band analysis; high resolution FFT analysis and spectrograms. Band analysis can be made using fast FFT methods or slower, but ANSI standard methods.
+
+Source code requires MATLAB + Signal Processing Toolbox.
+Developed under MATLAB R2010a (but might work with some earlier versions)
+
+Executable version does not require MATLAB and runs under Windows XP, Vista, and Windows 7.This project is the MATLAB development of a virtual sound level meter. The program will read in a calibrated .wav file and allow the user to analyze it as one would analyze a sound field with a sound level meter. The software implements Fast, Slow, Impulse and LEQ; A, C and Flat Weighting; Ln and Noise Dose analysis; Octave and 1/3 Octave band analysis; high resolution FFT analysis and spectrograms. Band analysis can be made using fast FFT methods or slower, but ANSI standard methods.
+
+Source code requires MATLAB + Signal Processing Toolbox.
+Developed under MATLAB R2010a (but might work with some earlier versions)
+
+Executable version does not require MATLAB and runs under Windows XP, Vista, and Windows 7.","Categories
+Audio Analysis, Test and Measurement"
+"Diagnostic application for Marelli-Weber IAW 8F/16F/18F ECUs written in C# for .NET 2.0
+
+PROJECT IS NOW CLOSED, PLEASE USE IAW SCAN 2 INSTEAD.Diagnostic application for Marelli-Weber IAW 8F/16F/18F ECUs written in C# for .NET 2.0
+
+PROJECT IS NOW CLOSED, PLEASE USE IAW SCAN 2 INSTEAD.","Categories
+Test and Measurement"
+"Our source code is now on GitHub: https://github.com/hci-gnomex/gnomex. Please refer to GitHub for the latest code.
+
+GNomEx is Genomic LIMS and Data Repository. It holds annotated experiments and downstream analysis and serves data tracks to popular genome browsers such as IGB, IGV, and UCSC genome browser. The LIMS handles all aspects of the experiment from order through results delivery. Experiment platforms supported include Illumina HiSeq, MiSeq, iScan, ABI Sanger sequencing, Affy and Agilent Microarrays, Sequenom MassArray and Bioanalyzer.
+
+GNomEx is a web application with a Flash client user interface and a Java backend that runs on Apache Tomcat. MySQL is used for the database, although any modern RDBMS can be used.Our source code is now on GitHub: https://github.com/hci-gnomex/gnomex. Please refer to GitHub for the latest code.
+
+GNomEx is Genomic LIMS and Data Repository. It holds annotated experiments and downstream analysis and serves data tracks to popular genome browsers such as IGB, IGV, and UCSC genome browser. The LIMS handles all aspects of the experiment from order through results delivery. Experiment platforms supported include Illumina HiSeq, MiSeq, iScan, ABI Sanger sequencing, Affy and Agilent Microarrays, Sequenom MassArray and Bioanalyzer.
+
+GNomEx is a web application with a Flash client user interface and a Java backend that runs on Apache Tomcat. MySQL is used for the database, although any modern RDBMS can be used.","Categories
+Scientific/Engineering, Bio-Informatics"
+"FastFlow is a C/C++ programming framework supporting the development of pattern-based parallel programs on multi/many-core, GPUs and distributed platforms. FastFlow run-time is built upon non-blocking threads and lock-free queues. Thanks to its very efficient CAS-free communication/synchronization support (e.g. few clock cycles core-to-core latency), FastFlow effectively supports the exploitation of fine grain parallelism, e.g. parallel codes managing very high frequency streams on commodity multi-core.
+FastFlow works on x86, x86_64, PPC, ARM, and Linux, Mac and Win XP/7.
+
+From Jan 1, 2018 code development migrated on GitHub at
+
+https://github.com/fastflow/fastflowFastFlow is a C/C++ programming framework supporting the development of pattern-based parallel programs on multi/many-core, GPUs and distributed platforms. FastFlow run-time is built upon non-blocking threads and lock-free queues. Thanks to its very efficient CAS-free communication/synchronization support (e.g. few clock cycles core-to-core latency), FastFlow effectively supports the exploitation of fine grain parallelism, e.g. parallel codes managing very high frequency streams on commodity multi-core.
+FastFlow works on x86, x86_64, PPC, ARM, and Linux, Mac and Win XP/7.
+
+From Jan 1, 2018 code development migrated on GitHub at
+
+https://github.com/fastflow/fastflow","Categories
+Algorithms, Scientific/Engineering, Libraries"
+"LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.","Categories
+Data Visualization, Information Analysis, Statistics, Data Analytics"
+"PocketPC Gliding/Soaring computer. Airspace Warnings, Final Glide, Landing Points In Range, Unlimited Tasks, GPS and Vario inputs, Auto Wind Calculation, Topographical Map, Fully configurable polars and much morePocketPC Gliding/Soaring computer. Airspace Warnings, Final Glide, Landing Points In Range, Unlimited Tasks, GPS and Vario inputs, Auto Wind Calculation, Topographical Map, Fully configurable polars and much more","Categories
+Simulation Games, Data Visualization"
+"Assists users to analyse and select players in Australian Football League (AFL) based football fantasy competitions. Displayed in a Java Swing GUI, users can sort and filter players based on many statistical categories.Assists users to analyse and select players in Australian Football League (AFL) based football fantasy competitions. Displayed in a Java Swing GUI, users can sort and filter players based on many statistical categories.","Categories
+Games/Entertainment, Information Analysis"
+JMulTi is an interactive software designed for univariate and multivariate time series analysis. It has a Java graphical user interface that uses an external engine for statistical computations. It uses the framework JStatCom.JMulTi is an interactive software designed for univariate and multivariate time series analysis. It has a Java graphical user interface that uses an external engine for statistical computations. It uses the framework JStatCom.,"Categories
+Mathematics, Information Analysis"
+OpenOPC for Python is an easy to use OPC (OLE for Process Control) library for use with the Python programming language. The project includes a Windows gateway service allowing non-Windows clients to also access OPC-DA calls.OpenOPC for Python is an easy to use OPC (OLE for Process Control) library for use with the Python programming language. The project includes a Windows gateway service allowing non-Windows clients to also access OPC-DA calls.,"Categories
+Communications, Interface Engine/Protocol Translator, HMI"
+"RawGeno Version 2.0-1 is released! RawGeno is an R CRAN library automating the scoring of AFLP electropherograms.
+
+The library includes a graphical user interface to simplify its use.
+
+Note that the 2.0-1 version is delivered as a source (*.tar.gz for Linux and Mac users) and as a binary file (*.zip, for Windows users). The installation procedure differs slightly according to your system; but this should remain simple. Have a look at the readme file when you download your new copy from
+https://sourceforge.net/projects/rawgeno/files/rawgeno/RawGeno%202.0-1/
+
+Make also sure to have a look at
+https://sourceforge.net/projects/rawgeno/files/
+where you can find a detailed manual, demo datasets and many demo scripts.RawGeno Version 2.0-1 is released! RawGeno is an R CRAN library automating the scoring of AFLP electropherograms.
+
+The library includes a graphical user interface to simplify its use.
+
+Note that the 2.0-1 version is delivered as a source (*.tar.gz for Linux and Mac users) and as a binary file (*.zip, for Windows users). The installation procedure differs slightly according to your system; but this should remain simple. Have a look at the readme file when you download your new copy from
+https://sourceforge.net/projects/rawgeno/files/rawgeno/RawGeno%202.0-1/
+
+Make also sure to have a look at
+https://sourceforge.net/projects/rawgeno/files/
+where you can find a detailed manual, demo datasets and many demo scripts.","Categories
+Molecular Science, Bio-Informatics"
+"XL Toolbox is a free Excel statistics addin that helps analyzing and presenting data: Smart custom error bars, chart design, chart export to TIFF; formula builder, transpose wizard, analysis of variance (ANOVA); automatic backups, workbook management and more.XL Toolbox is a free Excel statistics addin that helps analyzing and presenting data: Smart custom error bars, chart design, chart export to TIFF; formula builder, transpose wizard, analysis of variance (ANOVA); automatic backups, workbook management and more.","Categories
+Office Suites, Medical, Information Analysis, Data Analytics"
+"This project is an Open-Source (GPL) implementation of the SAE J1699-3 test specification. SAE J1699-3 test for compliance to OBD-2 protocols. THIS COMPUTER PROGRAM IS BASED UPON SAE RECOMMENDED PRACTICE J1699-3, WHICH WAS PROVIDED ""AS IS"".This project is an Open-Source (GPL) implementation of the SAE J1699-3 test specification. SAE J1699-3 test for compliance to OBD-2 protocols. THIS COMPUTER PROGRAM IS BASED UPON SAE RECOMMENDED PRACTICE J1699-3, WHICH WAS PROVIDED ""AS IS"".","Categories
+Communications, Scientific/Engineering"
+"The Tolven platform and ePHR and eCHR applications enable interoperability across electronic health records for consumers and clinicians. Using Java, EJB3, Faces, Facelets, AJAX, relational database, and LDAP for security.The Tolven platform and ePHR and eCHR applications enable interoperability across electronic health records for consumers and clinicians. Using Java, EJB3, Faces, Facelets, AJAX, relational database, and LDAP for security.","Categories
+Medical"
+The Sphinx project is dedicated to create common accessible environment for system dynamics simulation. This software is developed on Java 6 platform and use Java Swing GUI.The Sphinx project is dedicated to create common accessible environment for system dynamics simulation. This software is developed on Java 6 platform and use Java Swing GUI.,"Categories
+Simulation"
+"A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.","Categories
+Ham Radio, Software Testing, Simulation, Earth Sciences, GIS"
+"CatMDEdit is a metadata editor tool for describing resources, mainly geographic information. Developed by IAAA (University of Zaragoza) and GeoSpatiumLab S.L., sponsored by IGN Spain. Technical details: Java, XML, multiplatform, multilingual.CatMDEdit is a metadata editor tool for describing resources, mainly geographic information. Developed by IAAA (University of Zaragoza) and GeoSpatiumLab S.L., sponsored by IGN Spain. Technical details: Java, XML, multiplatform, multilingual.","Categories
+Documentation, MARC and Book/Library Metadata, GIS"
+"A library and attached graphical and console based application to solve and design interlocking burr-type puzzles based on cubes, spheres, triangles and other units.A library and attached graphical and console based application to solve and design interlocking burr-type puzzles based on cubes, spheres, triangles and other units.","Categories
+Puzzle Games, Mathematics"
+"This is a sophisticated & integrated simulation and analysis environment for dynamical systems models of physical systems (ODEs, DAEs, maps, and hybrid systems). It supports symbolic math, optimization, continuation, data analysis, biological apps...This is a sophisticated & integrated simulation and analysis environment for dynamical systems models of physical systems (ODEs, DAEs, maps, and hybrid systems). It supports symbolic math, optimization, continuation, data analysis, biological apps...","Categories
+Robotics, Simulation, Bio-Informatics, Data Visualization, Mathematics, Medical, Data Analytics"
+"Piklab is an integrated development environment for applications based on PIC and dsPIC microcontrollers. The GNU PIC Utilities, SDCC, PICC, PIC30 toolchain, ICD2 debugger, PICkit1, PICkit2, PicStart+, GPSim and most direct programmers are supported.Piklab is an integrated development environment for applications based on PIC and dsPIC microcontrollers. The GNU PIC Utilities, SDCC, PICC, PIC30 toolchain, ICD2 debugger, PICkit1, PICkit2, PicStart+, GPSim and most direct programmers are supported.","Categories
+Integrated Development Environments (IDE), Software Development, Electronic Design Automation (EDA)"
+"5dpo Component Library for Lazarus (Sdpo) provides a comport (serial port) component, an UVC video driver component for webcams, a Gtk fast painting form and a Joystick component.5dpo Component Library for Lazarus (Sdpo) provides a comport (serial port) component, an UVC video driver component for webcams, a Gtk fast painting form and a Joystick component.","Categories
+Hardware Drivers, Robotics, Video Capture"
+"DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.","Categories
+Emulators, Simulation"
+"Euler is a powerful all-in-one numerical software and includes Maxima for seamless symbolic computations. Euler supports Latex for math display, Povray for photo-realistic 3D scenes, Python, Matplotlib and C for scripting, and contains a full programming language. Features include libraries for numerical algorithms, optimization, plotting in 2D and 3D, graphics export, a complete help system, tutorials and examples.
+
+Euler runs in Windows natively, or in Linux via Wine. It is completely free of royalties. The source is licensed under GPL.Euler is a powerful all-in-one numerical software and includes Maxima for seamless symbolic computations. Euler supports Latex for math display, Povray for photo-realistic 3D scenes, Python, Matplotlib and C for scripting, and contains a full programming language. Features include libraries for numerical algorithms, optimization, plotting in 2D and 3D, graphics export, a complete help system, tutorials and examples.
+
+Euler runs in Windows natively, or in Linux via Wine. It is completely free of royalties. The source is licensed under GPL.","Categories
+Data Visualization, Mathematics"
+"Gabedit is a Graphical User Interface for FireFly (PC-Gamess), Gamess-US, Gaussian, Molcas, Molpro, MPQC, NWChem, OpenMopac, Orca, PSI4 and Q-Chem computational chemistry packages.Gabedit is a Graphical User Interface for FireFly (PC-Gamess), Gamess-US, Gaussian, Molcas, Molpro, MPQC, NWChem, OpenMopac, Orca, PSI4 and Q-Chem computational chemistry packages.","Categories
+Molecular Science, Chemistry, Data Visualization, Physics"
+NeuronDotNet is a neural network engine written in C#. It provides an interface for advanced AI programmers to design various types of artificial neural networks and use them.NeuronDotNet is a neural network engine written in C#. It provides an interface for advanced AI programmers to design various types of artificial neural networks and use them.,"Categories
+Frameworks, Library, Artificial Intelligence, Neural Network Libraries"
+"This project has been moved to Github, Look there insteadThis project has been moved to Github, Look there instead","Categories
+GNOME, Graphics, Mathematics"
+ASCIIMathML.js: a JavaScript to convert ASCII math notation (and some LaTeX) to Presentation MathML while your webpage loads. Now also simple graphs are translates to SVG. Works with Firefox 2.0+ or with Internet Explorer 6/7+MathPlayer+Adobe SVGview.ASCIIMathML.js: a JavaScript to convert ASCII math notation (and some LaTeX) to Presentation MathML while your webpage loads. Now also simple graphs are translates to SVG. Works with Firefox 2.0+ or with Internet Explorer 6/7+MathPlayer+Adobe SVGview.,"Categories
+Text Processing, Browsers, Mathematics, HMI, Exam, Computer Aided Instruction (CAI)"
+"JWNL is a Java API for accessing the WordNet relational dictionary. WordNet is widely used for developing NLP applications, and a Java API such as JWNL will allow developers to more easily use Java for building NLP applications.JWNL is a Java API for accessing the WordNet relational dictionary. WordNet is widely used for developing NLP applications, and a Java API such as JWNL will allow developers to more easily use Java for building NLP applications.","Categories
+Other/Nonlisted Topic, Scientific/Engineering"
+"PyQwt = FAST and EASY data plotting for Numerical Python and PyQt.
+PyQwt is a Python wrapper for the Qwt C++ class library which extends the Qt framework
+with widgets to display and control data for scientific and engineering applications.
+
+Please note: We moved RCS, future releases, BUGS to https://github.com/PyQwtPyQwt = FAST and EASY data plotting for Numerical Python and PyQt.
+PyQwt is a Python wrapper for the Qwt C++ class library which extends the Qt framework
+with widgets to display and control data for scientific and engineering applications.
+
+Please note: We moved RCS, future releases, BUGS to https://github.com/PyQwt","Categories
+Scientific/Engineering"
+"Fraqtive is an open source, multi-platform generator of the Mandelbrot family fractals. It uses very fast algorithms supporting SSE2 and multi-core processors. It generates high quality anti-aliased images and renders 3D scenes using OpenGL. It allows real-time navigation and dynamic generation of the Julia fractal preview.
+
+Website: https://fraqtive.mimec.org/Fraqtive is an open source, multi-platform generator of the Mandelbrot family fractals. It uses very fast algorithms supporting SSE2 and multi-core processors. It generates high quality anti-aliased images and renders 3D scenes using OpenGL. It allows real-time navigation and dynamic generation of the Julia fractal preview.
+
+Website: https://fraqtive.mimec.org/","Categories
+Mathematics, Fractal"
+FRAME3DD is a program for the static and dynamic structural analysis of two- and three-dimensional frames and trusses with elastic and geometric stiffness.FRAME3DD is a program for the static and dynamic structural analysis of two- and three-dimensional frames and trusses with elastic and geometric stiffness.,"Categories
+Simulation, Physics, Computer-aided technologies (CADD/CAM/CAE)"
+"openEAR is the Munich Open-Source Emotion and Affect Recognition Toolkit developed at the Technische Universität München (TUM). It provides efficient (audio) feature extraction algorithms implemented in C++, classfiers, and pre-trained models on well-known emotion databases. It is now maintained and supported by audEERING. Updates will follow soon.openEAR is the Munich Open-Source Emotion and Affect Recognition Toolkit developed at the Technische Universität München (TUM). It provides efficient (audio) feature extraction algorithms implemented in C++, classfiers, and pre-trained models on well-known emotion databases. It is now maintained and supported by audEERING. Updates will follow soon.","Categories
+Intelligent Agents, HMI, Multimedia, Machine Learning, Test and Measurement"
+OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.,"Categories
+Interpreters, Mathematics"
+Earth3D is a program to display the earth as a 3D globe (including heightfields) in real-time. One can zoom until cities become visible. It uses huge datasets that are loaded on demand over the internet. It is possible to embed dynamic data into the viewEarth3D is a program to display the earth as a 3D globe (including heightfields) in real-time. One can zoom until cities become visible. It uses huge datasets that are loaded on demand over the internet. It is possible to embed dynamic data into the view,"Categories
+3D Rendering, Image Viewers, Education, GIS"
+Software Defined Radio Transceiver project is written in Python while using GNU Radio and USRP. The goal is to create a software HF transceiver with various modes. Go here for more info: http://apps.sourceforge.net/mediawiki/sdr/index.php?title=Main_PageSoftware Defined Radio Transceiver project is written in Python while using GNU Radio and USRP. The goal is to create a software HF transceiver with various modes. Go here for more info: http://apps.sourceforge.net/mediawiki/sdr/index.php?title=Main_Page,"Categories
+Ham Radio, User Interface (UI), Scientific/Engineering"
+"Randon number generation & testing. The best suite of statistical tests for fast PRNGs anywhere. Multithreaded for speed, command line tools for automation, no upper limit on data size. Also, a variety of C++ pseudo-random number generators with well designed interfaces aimed at practical uses, not just research.Randon number generation & testing. The best suite of statistical tests for fast PRNGs anywhere. Multithreaded for speed, command line tools for automation, no upper limit on data size. Also, a variety of C++ pseudo-random number generators with well designed interfaces aimed at practical uses, not just research.","Categories
+Software Development, Test and Measurement, Statistics"
+"JGAP is a Genetic Algorithms and Genetic Programming package written in Java. It is designed to require minimum effort to use, but is also designed to be highly modular. JGAP features grid functionality and a lot of examples. Many unit tests included.
+
+Legal notice/Impressum:
+Klaus Meffert
+An der Struth 25
+D-65510 Idstein
+sourceforge <at> klausmeffert.deJGAP is a Genetic Algorithms and Genetic Programming package written in Java. It is designed to require minimum effort to use, but is also designed to be highly modular. JGAP features grid functionality and a lot of examples. Many unit tests included.
+
+Legal notice/Impressum:
+Klaus Meffert
+An der Struth 25
+D-65510 Idstein
+sourceforge <at> klausmeffert.de","Categories
+Genetic Algorithms, Simulation, Bio-Informatics, Artificial Intelligence, Information Analysis"
+"Important: Groimp migrates to Gitlab. You can find the latest code and documentation at https://gitlab.com/grogra/groimp/-/wikis/home. The version on Sourceforge will not be updated anymore.
+
+The modelling platform GroIMP is designed as an integrated platform which incorporates modelling, visualisation and interaction. It exhibits several features which makes itself suitable for the field of biological or ALife modelling:
+
+The “modelling backbone” consists in the language XL. It is fully integrated, e.g., the user can interactively select the rules to be applied.
+GroIMP provides classes that can be used in modelling: Turtle commands, further geometrical classes like bicubic surfaces, the class Cell which has been used in the Game Of Life implementation, and so on.
+The outcome of a model is visualised within GroIMP.
+In the visual representation of the model output, users can interact with the dynamics of the model, e.g., by selecting or deleting elements.Important: Groimp migrates to Gitlab. You can find the latest code and documentation at https://gitlab.com/grogra/groimp/-/wikis/home. The version on Sourceforge will not be updated anymore.
+
+The modelling platform GroIMP is designed as an integrated platform which incorporates modelling, visualisation and interaction. It exhibits several features which makes itself suitable for the field of biological or ALife modelling:
+
+The “modelling backbone” consists in the language XL. It is fully integrated, e.g., the user can interactively select the rules to be applied.
+GroIMP provides classes that can be used in modelling: Turtle commands, further geometrical classes like bicubic surfaces, the class Cell which has been used in the Game Of Life implementation, and so on.
+The outcome of a model is visualised within GroIMP.
+In the visual representation of the model output, users can interact with the dynamics of the model, e.g., by selecting or deleting elements.","Categories
+Compilers, 3D Modeling, 3D Rendering, Graphic Design, Simulation, Bio-Informatics"
+Wordcorr automates the tedious and risky process of tabulating and managing the sound correspondences used in working out the historical development of natural languages. Initial support was from NSF.Wordcorr automates the tedious and risky process of tabulating and managing the sound correspondences used in working out the historical development of natural languages. Initial support was from NSF.,"Categories
+Information Analysis, Education, Linguistics"
+"The Java RTree project aims to maintain an Java version of the RTree spatial indexing algorithm. See http://jsi.sourceforge.net for more information, and http://github.com/aled/jsi for latest development code.The Java RTree project aims to maintain an Java version of the RTree spatial indexing algorithm. See http://jsi.sourceforge.net for more information, and http://github.com/aled/jsi for latest development code.","Categories
+GIS"
+"gpsim is an open sourced simulator for Microchip's PIC microcontrollers. It supports all three families of PICs: 12-bit, 14-bit, and 16-bit cores. See also gputils http://gputils.sourceforge.net/gpsim is an open sourced simulator for Microchip's PIC microcontrollers. It supports all three families of PICs: 12-bit, 14-bit, and 16-bit cores. See also gputils http://gputils.sourceforge.net/","Categories
+Debuggers, Emulators, Electronic Design Automation (EDA)"
+"The Gaze Tracking Library is a framework for open source eye tracking using off-the-shelf components, such as webcams and videocameras. It supports both head-mounted and remote setups. The network API relies on TCP/IP and UDP (.Net client included)The Gaze Tracking Library is a framework for open source eye tracking using off-the-shelf components, such as webcams and videocameras. It supports both head-mounted and remote setups. The network API relies on TCP/IP and UDP (.Net client included)","Categories
+HMI"
+"Atlas aims to provide high quality maps of the world for use in FlightGear, an open source flight simulator.Atlas aims to provide high quality maps of the world for use in FlightGear, an open source flight simulator.","Categories
+Simulation Games, Data Visualization"
+This is a simple BACnet Browser that currently only sends a Who-Is message and builds a tree of Devices when it receives an I-Am message. It then allows a list of diagnostic routines to be run.This is a simple BACnet Browser that currently only sends a Who-Is message and builds a tree of Devices when it receives an I-Am message. It then allows a list of diagnostic routines to be run.,"Categories
+Interface Engine/Protocol Translator, HMI, SCADA, Test and Measurement"
+"SmartBody is available for download for Windows, Linux and OSX users. SmartBody can also be used on Android and iOS platforms.
+
+SmartBody is a character animation platform that provides the following capabilities in real time:
+* Locomotion (walk, jog, run, turn, strafe, jump, etc.)
+* Steering - avoiding obstacles and moving objects
+* Object manipulation - reach, grasp, touch , pick up objects
+* Lip Syncing - characters can speak with simultaneous lip-sync using text-to-speech or prerecorded audio
+* Gazing - robust gazing behavior that incorporates various parts of the body
+* Nonverbal behavior - gesturing, head nodding and shaking, eye saccades
+- Online and offline retargeting of motion
+- Automatic skinning and rigging
+
+SmartBody is written in C++ and can be incorporated into most game engines. SmartBody is developed at the USC Institute for Creative Technologies from the Character Animation and Simulation group: http://cas.ict.usc.eduSmartBody is available for download for Windows, Linux and OSX users. SmartBody can also be used on Android and iOS platforms.
+
+SmartBody is a character animation platform that provides the following capabilities in real time:
+* Locomotion (walk, jog, run, turn, strafe, jump, etc.)
+* Steering - avoiding obstacles and moving objects
+* Object manipulation - reach, grasp, touch , pick up objects
+* Lip Syncing - characters can speak with simultaneous lip-sync using text-to-speech or prerecorded audio
+* Gazing - robust gazing behavior that incorporates various parts of the body
+* Nonverbal behavior - gesturing, head nodding and shaking, eye saccades
+- Online and offline retargeting of motion
+- Automatic skinning and rigging
+
+SmartBody is written in C++ and can be incorporated into most game engines. SmartBody is developed at the USC Institute for Creative Technologies from the Character Animation and Simulation group: http://cas.ict.usc.edu","Categories
+Games/Entertainment, Graphics, HMI"
+"DBpedia has moved to GitHub:
+
+https://github.com/dbpedia/extraction-framework/wiki
+
+The mailing lists are still hosted by SourceForge.
+
+DBpedia is a community effort to extract structured information from Wikipedia and to make this information available on the Web. DBpedia allows you to ask sophisticated queries against Wikipedia and to link other datasets on the Web to Wikipedia data.DBpedia has moved to GitHub:
+
+https://github.com/dbpedia/extraction-framework/wiki
+
+The mailing lists are still hosted by SourceForge.
+
+DBpedia is a community effort to extract structured information from Wikipedia and to make this information available on the Web. DBpedia allows you to ask sophisticated queries against Wikipedia and to link other datasets on the Web to Wikipedia data.","Categories
+Database, Artificial Intelligence, Education"
+"Healthcare Information System (EHR EMR PMS) for small hospitals and clinics. Scheduling, Orders, Meds, Pharmacy, Clinical Doc, HL7, Billing & more. Broad commercial support. Distributed clinical system written in pure Java with toolset to customize.Healthcare Information System (EHR EMR PMS) for small hospitals and clinics. Scheduling, Orders, Meds, Pharmacy, Clinical Doc, HL7, Billing & more. Broad commercial support. Distributed clinical system written in pure Java with toolset to customize.","Categories
+Enterprise, Scheduling, Medical, Pharmacy"
+Program for minimizing boolean functions using Karnaugh maps method.Program for minimizing boolean functions using Karnaugh maps method.,"Categories
+Scientific/Engineering"
+"K3DSurf (now MathMod) is a program to visualize and manipulate Mathematical models in three, four, five and six dimensions. K3DSurf supports Parametric equations and Isosurfaces.
+******
+Welcome to the realm of complex numbers!
+Change-log for MathMod-11.1 (16/06/2021)
+1) Support of graphing functions with complex numbers Z=u+iv in 3D and 4D spaces (demo scripts: ""Complex3D_xx"" and ""Complex4D_Saddle"")
+2) Added support for HSV (hue, saturation, brightness) coloring model (script: ""Complex_Domain_Coloring"")
+3) Texture definitions (RGB and HSV) for parametric surfaces can now be expressed as functions of complex numbers
+4) Added a software implementation for the OpenGL variable gl_FrontFacing (fixed an issue with GPU drivers on MacOSX Catalina).
+The activation of this patch is available from mathmodconfig.js (""OpenGlConfig""-->""GL_FrontFacingSupport""=false)
+or the GUI(""Appearance""-->""OpenGL Front Surface Support"")
+5) Bug-fixes, code optimization and documentation update.K3DSurf (now MathMod) is a program to visualize and manipulate Mathematical models in three, four, five and six dimensions. K3DSurf supports Parametric equations and Isosurfaces.
+******
+Welcome to the realm of complex numbers!
+Change-log for MathMod-11.1 (16/06/2021)
+1) Support of graphing functions with complex numbers Z=u+iv in 3D and 4D spaces (demo scripts: ""Complex3D_xx"" and ""Complex4D_Saddle"")
+2) Added support for HSV (hue, saturation, brightness) coloring model (script: ""Complex_Domain_Coloring"")
+3) Texture definitions (RGB and HSV) for parametric surfaces can now be expressed as functions of complex numbers
+4) Added a software implementation for the OpenGL variable gl_FrontFacing (fixed an issue with GPU drivers on MacOSX Catalina).
+The activation of this patch is available from mathmodconfig.js (""OpenGlConfig""-->""GL_FrontFacingSupport""=false)
+or the GUI(""Appearance""-->""OpenGL Front Surface Support"")
+5) Bug-fixes, code optimization and documentation update.","Categories
+Graphics, Data Visualization, Mathematics, Education"
+"Software tools for building interactive information visualization applications. Prefuse supports a rich set of features for data modeling, visualization, animation, and interaction for both Java (prefuse) and Flash (prefuse flare).Software tools for building interactive information visualization applications. Prefuse supports a rich set of features for data modeling, visualization, animation, and interaction for both Java (prefuse) and Flash (prefuse flare).","Categories
+User Interface (UI), Data Visualization, HMI"
+"TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS).
+
+The project is now managed on Github, https://github.com/debrouxl/tilp_and_gfm . It uses the libti* libraries, https://github.com/debrouxl/tilibs .
+Install script for *nix: https://github.com/debrouxl/tilp_and_gfm/blob/master/tilp/trunk/build/scripts/install_tilp.shTILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-eZ80 series (83PCE, 84+CE), the TI-68k series (89, 92, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS).
+
+The project is now managed on Github, https://github.com/debrouxl/tilp_and_gfm . It uses the libti* libraries, https://github.com/debrouxl/tilibs .
+Install script for *nix: https://github.com/debrouxl/tilp_and_gfm/blob/master/tilp/trunk/build/scripts/install_tilp.sh","Categories
+Mathematics, Education, Calculators, Graphing Calculators"
+"A framework for learning from a continuous supply of examples, a data stream. Includes classification, regression, clustering, outlier detection and recommender systems. Related to the WEKA project, also written in Java, while scaling to adaptive large scale machine learning.A framework for learning from a continuous supply of examples, a data stream. Includes classification, regression, clustering, outlier detection and recommender systems. Related to the WEKA project, also written in Java, while scaling to adaptive large scale machine learning.","Categories
+Algorithms, Artificial Intelligence"
+"Critterding is a ""Petri dish"" universe in 3D that demonstrates evolving artificial life. Critters start out with completely random brains and bodies, but will automatically start evolving into something with much better survival skills.Critterding is a ""Petri dish"" universe in 3D that demonstrates evolving artificial life. Critters start out with completely random brains and bodies, but will automatically start evolving into something with much better survival skills.","Categories
+Genetic Algorithms, Robotics, Simulation, Bio-Informatics, Intelligent Agents"
+"PLplot is a cross-platform, scientific graphics plotting library that supports math symbols and human languages (via UTF-8 user input strings); plot capabilities for multiple non-interactive plot file formats and in multiple interactive environments; and bindings for multiple computer languages.PLplot is a cross-platform, scientific graphics plotting library that supports math symbols and human languages (via UTF-8 user input strings); plot capabilities for multiple non-interactive plot file formats and in multiple interactive environments; and bindings for multiple computer languages.","Categories
+Data Visualization"
+"MobileStarChart is a MIDP1.0/2.0 midlet for Java-enabled mobile/cell phones or handheld device. It simulates whole sky at any point on earth with constellations, stars up to 6 mag, solar systems and some other celestial objects.MobileStarChart is a MIDP1.0/2.0 midlet for Java-enabled mobile/cell phones or handheld device. It simulates whole sky at any point on earth with constellations, stars up to 6 mag, solar systems and some other celestial objects.","Categories
+Simulation, Astronomy, Education"
+"Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.","Categories
+Office/Business, Security, Systems Administration, Internet, Scientific/Engineering, Education"
+"openBmap collects data and provides open maps and statistics of all communicating objects: cellular antennas, wifi hotspots.
+
+All softwares from back-end to client are open-source under AGPL v3 license.openBmap collects data and provides open maps and statistics of all communicating objects: cellular antennas, wifi hotspots.
+
+All softwares from back-end to client are open-source under AGPL v3 license.","Categories
+Mobile, GPS, GIS"
+"Visit our new site: http://socnetv.org
+
+Social Network Visualizer (SocNetV) is a social network analysis and visualization application. You can draw a social network (graph/digraph) or load an existing one (GraphML, UCINET, Pajek, etc), compute cohesion, centrality, community and structural equivalence metrics and apply various layout algorithms based on actor centrality or prestige scores (i.e. Eigenvector, Betweenness) or on dynamic models (i.e. Kamada-Kawai spring-embedder)Visit our new site: http://socnetv.org
+
+Social Network Visualizer (SocNetV) is a social network analysis and visualization application. You can draw a social network (graph/digraph) or load an existing one (GraphML, UCINET, Pajek, etc), compute cohesion, centrality, community and structural equivalence metrics and apply various layout algorithms based on actor centrality or prestige scores (i.e. Eigenvector, Betweenness) or on dynamic models (i.e. Kamada-Kawai spring-embedder)","Categories
+Data Visualization, Mathematics, Sociology"
+"Combines Blender's graphical interface and rendering capabilities with MBDyn's multi-body dynamics, aerodynamics, and aeroelastics simulation and analysis, for rapid modeling and realistic rendering of physics based multi-body simulations.Combines Blender's graphical interface and rendering capabilities with MBDyn's multi-body dynamics, aerodynamics, and aeroelastics simulation and analysis, for rapid modeling and realistic rendering of physics based multi-body simulations.","Categories
+3D Modeling, Simulation, Physics"
+Scientific Java Calculator for cell-phones and MIDP devicesScientific Java Calculator for cell-phones and MIDP devices,"Categories
+Financial, Mathematics, Education, Calculators"
+"congruity is a GUI application for programming Logitech(R) Harmony(TM) remote controls. congruity builds upon the work of the concordance project, which provides the underlying communication. Please use the concordance project mailing lists.congruity is a GUI application for programming Logitech(R) Harmony(TM) remote controls. congruity builds upon the work of the concordance project, which provides the underlying communication. Please use the concordance project mailing lists.","Categories
+HMI"
+"Open Information Systems for Emergency Services (Open ISES) is a community of software developers, paramedics, EMTs, law enforcement & fire fighters working together to create open source software & training materials for the emergency service community.Open Information Systems for Emergency Services (Open ISES) is a community of software developers, paramedics, EMTs, law enforcement & fire fighters working together to create open source software & training materials for the emergency service community.","Categories
+Communications, Database, Software Development, Software Distribution, Bio-Informatics, Education"
+"gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.","Categories
+Data Formats, Compilers, Electronic Design Automation (EDA), Earth Sciences"
+"Spectral Python (SPy) is a python package for reading, viewing, manipulating, and classifying hyperspectral image (HSI) data. SPy includes functions for clustering, dimensionality reduction, supervised classification, and more.Spectral Python (SPy) is a python package for reading, viewing, manipulating, and classifying hyperspectral image (HSI) data. SPy includes functions for clustering, dimensionality reduction, supervised classification, and more.","Categories
+Data Visualization, Earth Sciences, Machine Learning"
+"The Free Connectionist Q-learning Java Framework is an library for developing learning systems. Keywords: qlearning, artificial intelligence, alife, neural nets, neural networks, machine learning, reinforcement learning unsupervised learning agents lejosThe Free Connectionist Q-learning Java Framework is an library for developing learning systems. Keywords: qlearning, artificial intelligence, alife, neural nets, neural networks, machine learning, reinforcement learning unsupervised learning agents lejos","Categories
+Algorithms, Robotics, Intelligent Agents"

@@ -1,0 +1,457 @@
+Description,Category
+"EditBox is the Eclipse plugin for source code background highlighting. While most of plugins highlight the syntax of the source code, EditBox highlights the selected block of the code by changing its background color and drawing border around it.EditBox is the Eclipse plugin for source code background highlighting. While most of plugins highlight the syntax of the source code, EditBox highlights the selected block of the code by changing its background color and drawing border around it.","Categories
+Integrated Development Environments (IDE), User Interface (UI), Source Code Management"
+"Grassroots DiCoM is a C++ library for DICOM medical files. It is accessible from Python, C#, Java and PHP. It supports RAW, JPEG, JPEG 2000, JPEG-LS, RLE and deflated transfer syntax.
+It comes with a super fast scanner implementation to quickly scan hundreds of DICOM files.
+It supports SCU network operations (C-ECHO, C-FIND, C-STORE, C-MOVE). PS 3.3 & 3.6 are distributed as XML files.
+It also provides PS 3.15 certificates and password based mecanism to anonymize and de-identify DICOM datasets.Grassroots DiCoM is a C++ library for DICOM medical files. It is accessible from Python, C#, Java and PHP. It supports RAW, JPEG, JPEG 2000, JPEG-LS, RLE and deflated transfer syntax.
+It comes with a super fast scanner implementation to quickly scan hundreds of DICOM files.
+It supports SCU network operations (C-ECHO, C-FIND, C-STORE, C-MOVE). PS 3.3 & 3.6 are distributed as XML files.
+It also provides PS 3.15 certificates and password based mecanism to anonymize and de-identify DICOM datasets.","Categories
+Data Formats, Frameworks, Medical"
+"Be.HexEditor is a small, fast and simple hex editor. It contains a reusable hex edit control called HexBox. This C# control is reusable for every .NET Framework application.Be.HexEditor is a small, fast and simple hex editor. It contains a reusable hex edit control called HexBox. This C# control is reusable for every .NET Framework application.","Categories
+Object Oriented"
+"Foswiki is an Enterprise wiki, typically used to run a collaboration platform, knowledge base or document management system. Users can create wiki applications using the Topic Markup Language, and developers can extend its functionality with plugins.
+
+Foswiki stands for ""Free and Open Source"" wiki to emphasize its commitment to Open Source software.Foswiki is an Enterprise wiki, typically used to run a collaboration platform, knowledge base or document management system. Users can create wiki applications using the Topic Markup Language, and developers can extend its functionality with plugins.
+
+Foswiki stands for ""Free and Open Source"" wiki to emphasize its commitment to Open Source software.","Categories
+Documentation, Wiki, Business Intelligence, Document Management"
+"RemoteCalendars is a COM-.NET Add-in for Outlook 2003/2007, written in C#. After installing this plugin, every Outlook user should be able to subscribe, reload and delete a generic remote iCalendar (RFC 2445) from Outlook 2003/2007.RemoteCalendars is a COM-.NET Add-in for Outlook 2003/2007, written in C#. After installing this plugin, every Outlook user should be able to subscribe, reload and delete a generic remote iCalendar (RFC 2445) from Outlook 2003/2007.","Categories
+Calendar, To-Do Lists, Software Development"
+jXLS is a small and easy-to-use Java library for writing Excel files using XLS templates and reading data from Excel into Java objects using XML configurationjXLS is a small and easy-to-use Java library for writing Excel files using XLS templates and reading data from Excel into Java objects using XML configuration,"Categories
+Software Development"
+"REM is a NetBeans module for ZK application development. It can be used to create ZK web Applications, ZUL and ZScripi documents. It supports ZUL syntax highlighting, auto indent, code folding, code hyperlink navigation and code completion. It supports palette for some components.REM is a NetBeans module for ZK application development. It can be used to create ZK web Applications, ZUL and ZScripi documents. It supports ZUL syntax highlighting, auto indent, code folding, code hyperlink navigation and code completion. It supports palette for some components.","Categories
+Integrated Development Environments (IDE), Build Tools"
+"Supporting applications for John Haller's PortableApps.com, including some open source tools set up in PAF installer format.Supporting applications for John Haller's PortableApps.com, including some open source tools set up in PAF installer format.","Categories
+Software Testing, User Interface (UI), QA Automation, Usability, Installation/Setup"
+"HTML Parser is a Java library used to parse HTML in either a linear or nested fashion. Primarily used for transformation or extraction, it features filters, visitors, custom tags and easy to use JavaBeans. It is a fast, robust and well tested package.HTML Parser is a Java library used to parse HTML in either a linear or nested fashion. Primarily used for transformation or extraction, it features filters, visitors, custom tags and easy to use JavaBeans. It is a fast, robust and well tested package.","Categories
+WWW/HTTP, Software Development"
+"Bricx Command Center (BricxCC) is a highly popular Windows-based IDE for programming LEGO programmable bricks using NQC as well as MindScript, LASM, C++, C, Pascal, Java, and Forth. Program the new NXT brick using NBC and NXC.Bricx Command Center (BricxCC) is a highly popular Windows-based IDE for programming LEGO programmable bricks using NQC as well as MindScript, LASM, C++, C, Pascal, Java, and Forth. Program the new NXT brick using NBC and NXC.","Categories
+Integrated Development Environments (IDE), Software Development"
+"UniTime is a comprehensive educational scheduling system that supports developing course and exam timetables, managing changes to these timetables, sharing rooms with other events, and scheduling students to individual classes. It is a distributed system that allows multiple university and departmental schedule managers to coordinate efforts to build and modify a schedule that meets their diverse organizational needs while allowing for minimization of student course conflicts. It can be used alone to create and maintain a school's schedule of classes and/or exams, or interfaced with an existing student information system.UniTime is a comprehensive educational scheduling system that supports developing course and exam timetables, managing changes to these timetables, sharing rooms with other events, and scheduling students to individual classes. It is a distributed system that allows multiple university and departmental schedule managers to coordinate efforts to build and modify a schedule that meets their diverse organizational needs while allowing for minimization of student course conflicts. It can be used alone to create and maintain a school's schedule of classes and/or exams, or interfaced with an existing student information system.","Categories
+Scheduling, Algorithms, Artificial Intelligence"
+"Expect is a tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc. Expect is also useful for testing these same applications.Expect is a tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc. Expect is also useful for testing these same applications.","Categories
+Software Development, Systems Administration"
+"GT.M[tm] is a vetted industrial strength, transaction processing application platform consisting of a key-value database engine optimized for extreme transaction processing throughput & business continuity.GT.M[tm] is a vetted industrial strength, transaction processing application platform consisting of a key-value database engine optimized for extreme transaction processing throughput & business continuity.","Categories
+Database Engines/Servers, Compilers"
+Speed up perl scripts by running them persistentlySpeed up perl scripts by running them persistently,"Categories
+CGI Scripts, Interpreters"
+"dylibbundler is a small terminal utility for mac OS X that eases bundling dynamic libraries (.dylib) inside app bundles.
+
+THIS PROJECT HAS MOVED : you can now find this project on github at https://github.com/auriamg/macdylibbundler/dylibbundler is a small terminal utility for mac OS X that eases bundling dynamic libraries (.dylib) inside app bundles.
+
+THIS PROJECT HAS MOVED : you can now find this project on github at https://github.com/auriamg/macdylibbundler/","Categories
+Software Development"
+"A feature rich Open Source Core Electronic Medical Record for small medical providers developed with Plone/ Python/ Zope. Core EMR functionalities: Patient History, Past Visits, Rx, Health Maint., Allergies, Labs, Vitals, Notes, and Procedures.A feature rich Open Source Core Electronic Medical Record for small medical providers developed with Plone/ Python/ Zope. Core EMR functionalities: Patient History, Past Visits, Rx, Health Maint., Allergies, Labs, Vitals, Notes, and Procedures.","Categories
+Software Development, Medical, Electronic Health Record (EHR)"
+WixEdit is an editor for XML source code of the Windows Installer XML (WiX) toolset. WixEdit lets you create MSI and MSM setup packages with the WiX Toolset. It provides a visual representation of the dialogs and an easy way to edit the WiX source files. (Project moved to Github: https://github.com/WixEdit/WixEdit)WixEdit is an editor for XML source code of the Windows Installer XML (WiX) toolset. WixEdit lets you create MSI and MSM setup packages with the WiX Toolset. It provides a visual representation of the dialogs and an easy way to edit the WiX source files. (Project moved to Github: https://github.com/WixEdit/WixEdit),"Categories
+Build Tools, Software Distribution, Installation/Setup"
+"OpenSwing is a components library that provides a rich set of advanced graphics components for developing desktop applications and HTTP/RMI based java applications/RIAs based on Swing front-end. It provides also adapters for Hibernate, JPA, iBatis, etc.OpenSwing is a components library that provides a rich set of advanced graphics components for developing desktop applications and HTTP/RMI based java applications/RIAs based on Swing front-end. It provides also adapters for Hibernate, JPA, iBatis, etc.","Categories
+Frameworks, User Interface (UI), Libraries"
+"Extensible advanced TreeView. 100% management C# code. Features: Model/View architecture. Multicolumns. Multiselection. Different controls for each node: CheckBox, Icon, Label... Drag&Drop highlighting. Load on demand. Incremental search.Extensible advanced TreeView. 100% management C# code. Features: Model/View architecture. Multicolumns. Multiselection. Different controls for each node: CheckBox, Icon, Label... Drag&Drop highlighting. Load on demand. Incremental search.","Categories
+User Interface (UI)"
+"Snoopy is a PHP class that simulates a web browser. It automates the task of retrieving web page content and posting forms, for example.Snoopy is a PHP class that simulates a web browser. It automates the task of retrieving web page content and posting forms, for example.","Categories
+WWW/HTTP, Software Development"
+"NOTE: Current source code as well as bugs/patches are on GitHub:
+
+https://github.com/pocoproject/poco/
+
+
+C++ class libraries for network-centric, portable applications, integrated perfectly with the C++ Standard Library. Includes network protocols (Sockets, HTTP, FTP, SMTP, POP3, etc.), SQL database access and XML parsing. Licensed under Boost license.NOTE: Current source code as well as bugs/patches are on GitHub:
+
+https://github.com/pocoproject/poco/
+
+
+C++ class libraries for network-centric, portable applications, integrated perfectly with the C++ Standard Library. Includes network protocols (Sockets, HTTP, FTP, SMTP, POP3, etc.), SQL database access and XML parsing. Licensed under Boost license.","Categories
+XML, Frameworks, Libraries"
+"PAGE is a drag-and-drop GUI generator for Python and Tkinter which
+generates Python modules that display a relatively simple GUI
+constructed from Tk and ttk widget sets using the Place Geometry
+Manager.
+
+PAGE is a cross-platform tool running on any OS which has a current
+version of Python installed. PAGE output requires only Python Tkinter
+and runs on Linux, Unix, Windows, OS X, and even Rasperian.
+
+Version 7 is a major release employing a simplified code generation
+scheme while supporting multiple toplevel GUI's. Version 7 also
+drops Python 2 support.PAGE is a drag-and-drop GUI generator for Python and Tkinter which
+generates Python modules that display a relatively simple GUI
+constructed from Tk and ttk widget sets using the Place Geometry
+Manager.
+
+PAGE is a cross-platform tool running on any OS which has a current
+version of Python installed. PAGE output requires only Python Tkinter
+and runs on Linux, Unix, Windows, OS X, and even Rasperian.
+
+Version 7 is a major release employing a simplified code generation
+scheme while supporting multiple toplevel GUI's. Version 7 also
+drops Python 2 support.","Categories
+Code Generators, User Interface (UI)"
+"KompoZer is a wysiwyg HTML editor using the Mozilla Composer codebase. As Nvu's development has been stopped in 2005, KompoZer fixes many bugs and adds a few useful features.KompoZer is a wysiwyg HTML editor using the Mozilla Composer codebase. As Nvu's development has been stopped in 2005, KompoZer fixes many bugs and adds a few useful features.","Categories
+Text Editors, WWW/HTTP, Web Design"
+"Search and replace operations on file content accross multiple files. Recursive operations within entire directory trees. FAR comes with support for regular expressions (regex) over multiple lines, automatic backup and various character encodings. Run grep like extractions to condense or rearrange sources, or perform bulk file renaming.Search and replace operations on file content accross multiple files. Recursive operations within entire directory trees. FAR comes with support for regular expressions (regex) over multiple lines, automatic backup and various character encodings. Run grep like extractions to condense or rearrange sources, or perform bulk file renaming.","Categories
+Text Processing, Software Development, Search"
+"DrJava is a lightweight programming environment for Java designed to foster test-driven software development. It includes an intelligent program editor, an interactions pane for evaluating program text, a source level debugger, and a unit testing tool.DrJava is a lightweight programming environment for Java designed to foster test-driven software development. It includes an intelligent program editor, an interactions pane for evaluating program text, a source level debugger, and a unit testing tool.","Categories
+Integrated Development Environments (IDE), Software Development, Unit Testing"
+"Bluefish is a powerful editor for experienced web designers and programmers. Bluefish supports many programming and markup languages, but it focuses on editing dynamic and interactive websites.Bluefish is a powerful editor for experienced web designers and programmers. Bluefish supports many programming and markup languages, but it focuses on editing dynamic and interactive websites.","Categories
+Integrated Development Environments (IDE), Web Development, Web Design"
+MIDletPascal is specifically suited for development of J2ME midlets. It's compiler translates Pascal source code directly into Java microedition bytecode.MIDletPascal is specifically suited for development of J2ME midlets. It's compiler translates Pascal source code directly into Java microedition bytecode.,"Categories
+Cross Compilers, Mobile"
+"XDXF is a project to unite all existing open dictionaries and provide both users and developers with universal XML-based format, convertible from and to other popular formats like Mova, PtkDic, StarDict, ABBYY Lingvo etc.
+
+* New drafts of format can be found here: https://github.com/soshial/xdxf_makedict/tree/master/format_standard
+* The development of dictionary converter moved to Github: https://github.com/soshial/xdxf_makedictXDXF is a project to unite all existing open dictionaries and provide both users and developers with universal XML-based format, convertible from and to other popular formats like Mova, PtkDic, StarDict, ABBYY Lingvo etc.
+
+* New drafts of format can be found here: https://github.com/soshial/xdxf_makedict/tree/master/format_standard
+* The development of dictionary converter moved to Github: https://github.com/soshial/xdxf_makedict","Categories
+XML, HTML/XHTML, Office Suites, Internationalization (I18N), Education"
+"Unit testing, mock objects and web testing framework for PHP built around test cases. If you know JUnit/JMock or some of the PHPUnit clones this will need no explanation. Includes a native web browser for testing web sites directly (no JavaScript).Unit testing, mock objects and web testing framework for PHP built around test cases. If you know JUnit/JMock or some of the PHPUnit clones this will need no explanation. Includes a native web browser for testing web sites directly (no JavaScript).","Categories
+Software Testing, Object Oriented, QA Automation"
+"This project is in the process of moving to osdn.net/projects/mingw, you can continue to follow us there.
+
+MinGW: A native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. All of MinGW's software will execute on the 64bit Windows platforms.This project is in the process of moving to osdn.net/projects/mingw, you can continue to follow us there.
+
+MinGW: A native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. All of MinGW's software will execute on the 64bit Windows platforms.","Categories
+Build Tools, Code Generators, Debuggers, Compilers, Interpreters"
+"This library represents XLSX files writer for Microsoft Excel 2007 and above.
+
+The main feature of this library is that it uses C++ standard file streams. On the one hand it results in almost unnoticeable memory and CPU resources consumption while processing (that may be very useful at saving a large data arrays), but on the other hand it makes unfeasible to edit data that were written.
+Hence, if using this library the structure of the future report should be known enough.
+
+The library is written in C++ with using STL functionality and based on the ZIP library (included), which has a free license:
+http://www.codeproject.com/Articles/7530/Zip-Utils-clean-elegant-simple-C-Win32
+
+This library is distributed under the terms of the zlib license:
+http://www.zlib.net/zlib_license.htmlThis library represents XLSX files writer for Microsoft Excel 2007 and above.
+
+The main feature of this library is that it uses C++ standard file streams. On the one hand it results in almost unnoticeable memory and CPU resources consumption while processing (that may be very useful at saving a large data arrays), but on the other hand it makes unfeasible to edit data that were written.
+Hence, if using this library the structure of the future report should be known enough.
+
+The library is written in C++ with using STL functionality and based on the ZIP library (included), which has a free license:
+http://www.codeproject.com/Articles/7530/Zip-Utils-clean-elegant-simple-C-Win32
+
+This library is distributed under the terms of the zlib license:
+http://www.zlib.net/zlib_license.html","Categories
+XML, Spreadsheet, Libraries"
+"Decodes PeopleCode (the proprietary language in Oracle's PeopleSoft ERP software) from bytecode to text. Stores the code in text files, or commits it to a Subversion or Git version control system. Can also extract PeopleCode and SQL text from PeopleTools .xml project files, and does three-way merging of PeopleCode (to reapply customizations during an upgrade).Decodes PeopleCode (the proprietary language in Oracle's PeopleSoft ERP software) from bytecode to text. Stores the code in text files, or commits it to a Subversion or Git version control system. Can also extract PeopleCode and SQL text from PeopleTools .xml project files, and does three-way merging of PeopleCode (to reapply customizations during an upgrade).","Categories
+Version Control, Source Code Management"
+"Wrye Bash has moved to Github!
+
+Downloads: https://github.com/wrye-bash/wrye-bash/releases
+
+Code: https://github.com/wrye-bash/wrye-bashWrye Bash has moved to Github!
+
+Downloads: https://github.com/wrye-bash/wrye-bash/releases
+
+Code: https://github.com/wrye-bash/wrye-bash","Categories
+Role-Playing Games (RPG), Build Tools, Game Development Frameworks"
+"Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.","Categories
+Front-Ends, Software Testing, QA Automation"
+LaTeXDraw is a graphical drawing editor for LaTeX. LaTeXDraw can be used to 1) generate PSTricks code; 2) directly create PDF or PS pictures.LaTeXDraw is a graphical drawing editor for LaTeX. LaTeXDraw can be used to 1) generate PSTricks code; 2) directly create PDF or PS pictures.,"Categories
+TeX/LaTeX, Code Generators, Vector Graphics"
+SEO Tools provides tools for search engine optimization. Spider SEO: generates meta tags for all pages of a website. Web Page Optimizer performs analysis and changes in a web page. A graphical user interface is linked with a scriptol program that geneSEO Tools provides tools for search engine optimization. Spider SEO: generates meta tags for all pages of a website. Web Page Optimizer performs analysis and changes in a web page. A graphical user interface is linked with a scriptol program that gene,"Categories
+HTML/XHTML, Site Management, Code Generators"
+"The Object-Role Modeling (ORM) standard version 2, associated schemas and generation tools, and a reference implementation in the form of the Natural Object-Role Modeling Architect for Visual Studio (NORMA) product.The Object-Role Modeling (ORM) standard version 2, associated schemas and generation tools, and a reference implementation in the form of the Natural Object-Role Modeling Architect for Visual Studio (NORMA) product.","Categories
+XML, Database, UML, Code Generators, Computer-Aided Software Engineering (CASE), Design"
+"TICO is currently a part of ARASUITE!!!!
+Please, look for ARASUITE in Sourceforge!!!!
+
+https://sourceforge.net/projects/arasuite/
+
+TICO is a tool for the design and execution of interactive communication boards. Communication boards are highly used in augmentative and alternative communication (AAC) environments.TICO is currently a part of ARASUITE!!!!
+Please, look for ARASUITE in Sourceforge!!!!
+
+https://sourceforge.net/projects/arasuite/
+
+TICO is a tool for the design and execution of interactive communication boards. Communication boards are highly used in augmentative and alternative communication (AAC) environments.","Categories
+Puzzle Games, Build Tools, Computer Aided Instruction (CAI)"
+Turtle Sport is a software developed to communicate with GPS devices. Turtle Sport retrieves yours training sessions from your Garmin and it makes diagram and statistic reports.Turtle Sport is a software developed to communicate with GPS devices. Turtle Sport retrieves yours training sessions from your Garmin and it makes diagram and statistic reports.,"Categories
+Software Development"
+"NOTE: PythonQt has been moved to https://github.com/MeVisLab/pythonqt
+
+PythonQt is a dynamic and lightweight script binding of the Qt framework to the Python language. It can be easily embedded into Qt applications and makes any QObject derived object scriptable via Python without the need of wrapper code generation.NOTE: PythonQt has been moved to https://github.com/MeVisLab/pythonqt
+
+PythonQt is a dynamic and lightweight script binding of the Qt framework to the Python language. It can be easily embedded into Qt applications and makes any QObject derived object scriptable via Python without the need of wrapper code generation.","Categories
+Software Testing, Frameworks, Object Oriented, Interpreters"
+"Evolutility is a lightweight CRUD framework for heavy lifting.
+
+With a generic Web UI and an integrated micro ORM, Evolutility provides a framework for full CRUD and dashboard without any hand-coding.
+
+With it, you can build CRUD web applications or professional looking administration pages by defining metadata in XML (or in a database) instead of hand-coding HTML, Javascript, CSS, SQL, and C# or VB.
+
+For ASP.NET and SQLServer (partial support for MySQL).Evolutility is a lightweight CRUD framework for heavy lifting.
+
+With a generic Web UI and an integrated micro ORM, Evolutility provides a framework for full CRUD and dashboard without any hand-coding.
+
+With it, you can build CRUD web applications or professional looking administration pages by defining metadata in XML (or in a database) instead of hand-coding HTML, Javascript, CSS, SQL, and C# or VB.
+
+For ASP.NET and SQLServer (partial support for MySQL).","Categories
+Front-Ends, Code Generators, User Interface (UI)"
+Check: a unit test framework for CCheck: a unit test framework for C,"Categories
+Software Development, Test Frameworks"
+"Open Data Profiler is a an open source, extensible data profiler, which enables users to analyze and gather automatically data quality facts on data sources in various formats (XML, JDBC or CSV).Open Data Profiler is a an open source, extensible data profiler, which enables users to analyze and gather automatically data quality facts on data sources in various formats (XML, JDBC or CSV).","Categories
+QA Automation"
+"Moved to GitHub:
+https://github.com/stachenov/quazipMoved to GitHub:
+https://github.com/stachenov/quazip","Categories
+Data Formats, Frameworks"
+"This project now lives at: https://github.com/JDatePicker/JDatePicker
+
+Will keep this sf.net project active to point to github.
+
+JDatePicker and JDatePanel is an set of advanced DatePicker controls for Java Swing applications. The MVC design enables us to display any date object such as Joda-Time DateMidnight. The date picker also works well with JGoodies Binding.This project now lives at: https://github.com/JDatePicker/JDatePicker
+
+Will keep this sf.net project active to point to github.
+
+JDatePicker and JDatePanel is an set of advanced DatePicker controls for Java Swing applications. The MVC design enables us to display any date object such as Joda-Time DateMidnight. The date picker also works well with JGoodies Binding.","Categories
+Libraries"
+"Java provides the concurrent library that simplifies concurrent programming, but this is hard to learn and visualize. This project is a series of animations each illustrating the coding and usage of a component in the java concurrent library.Java provides the concurrent library that simplifies concurrent programming, but this is hard to learn and visualize. This project is a series of animations each illustrating the coding and usage of a component in the java concurrent library.","Categories
+Documentation, Computer Aided Instruction (CAI)"
+Automated testing framework for 'C'.Automated testing framework for 'C'.,"Categories
+Unit Testing, Automated Testing"
+OpenDCL is for AutoLISP programmers who want to replace AutoCAD's limited DCL (Dialog Control Language) user interface language with a rich set of modern Windows user interface elements.OpenDCL is for AutoLISP programmers who want to replace AutoCAD's limited DCL (Dialog Control Language) user interface language with a rich set of modern Windows user interface elements.,"Categories
+User Interface (UI)"
+JEDI Version Control System - based on Thomas Hensles FreeVCS sources - Part of the Delphi JEDI projects.JEDI Version Control System - based on Thomas Hensles FreeVCS sources - Part of the Delphi JEDI projects.,"Categories
+Version Control"
+"JamVM is a new Java Virtual Machine conforming to the JVM
+specification edition 2 (blue book). It is extremely small - stripped
+on PowerPC ~110K, Intel 80K. However, unlike other small VMs it
+supports the full spec, inc. object finalisation and JNI.JamVM is a new Java Virtual Machine conforming to the JVM
+specification edition 2 (blue book). It is extremely small - stripped
+on PowerPC ~110K, Intel 80K. However, unlike other small VMs it
+supports the full spec, inc. object finalisation and JNI.","Categories
+Interpreters"
+Libmhash is a library that provides a uniform interface to several hash algorithms. It supports the basics for message authentication by following rfc2104 (HMAC). It also includes some key generation algorithms which are based on hash algorithms.Libmhash is a library that provides a uniform interface to several hash algorithms. It supports the basics for message authentication by following rfc2104 (HMAC). It also includes some key generation algorithms which are based on hash algorithms.,"Categories
+Software Development"
+mod_aspdotnet is a loadable Apache 2 module for serving ASP.NET content using the Microsoft's ASP.NET hosting and .NET runtime within the Apache HTTP Server process. Non-Windows users should look at mono (mod_mono) for an alternate implementation.mod_aspdotnet is a loadable Apache 2 module for serving ASP.NET content using the Microsoft's ASP.NET hosting and .NET runtime within the Apache HTTP Server process. Non-Windows users should look at mono (mod_mono) for an alternate implementation.,"Categories
+Dynamic Content, Application Servers"
+The display tag library is an open source suite of custom tags that provide high-level web presentation patterns which will work in an MVC model. The library provides a significant amount of functionality while still being easy to use.The display tag library is an open source suite of custom tags that provide high-level web presentation patterns which will work in an MVC model. The library provides a significant amount of functionality while still being easy to use.,"Categories
+Software Development"
+"The SRecord package is a collection of powerful tools for manipulating EPROM load files. It reads and writes numerous EPROM file formats, and can perform many different manipulations.The SRecord package is a collection of powerful tools for manipulating EPROM load files. It reads and writes numerous EPROM file formats, and can perform many different manipulations.","Categories
+Software Development"
+"GeSHi - Generic Syntax Highlighter for PHP. Used to highlight almost any code for the web. Nearly 150 supported languages: PHP, HTML, C and more. Styles can be changed on the fly and CSS classes can be used to reduce the amount of XHTML compliant output.GeSHi - Generic Syntax Highlighter for PHP. Used to highlight almost any code for the web. Nearly 150 supported languages: PHP, HTML, C and more. Styles can be changed on the fly and CSS classes can be used to reduce the amount of XHTML compliant output.","Categories
+Dynamic Content, Software Development, Presentation"
+"Abbrevia is a compression toolkit for Delphi, C++Builder, Kylix, and Free Pascal.
+
+It supports compressing and decompressing PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression.
+
+Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components.Abbrevia is a compression toolkit for Delphi, C++Builder, Kylix, and Free Pascal.
+
+It supports compressing and decompressing PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression.
+
+Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components.","Categories
+Software Development, File Compression"
+"Java class library for generating reports. XML-based templates provide flexible reporting and printing functionality using data from multiple sources and supports output to display devices, printers, PDF, Excel, HTML, XHTML, PlainText, XML and CSV files.Java class library for generating reports. XML-based templates provide flexible reporting and printing functionality using data from multiple sources and supports output to display devices, printers, PDF, Excel, HTML, XHTML, PlainText, XML and CSV files.","Categories
+Office/Business, Software Development, Printing"
+XPlanner+ is a web-based project planning and tracking tool.XPlanner+ is a web-based project planning and tracking tool.,"Categories
+Time Tracking, Project Management, Agile Development Tools"
+"IMPORTANT: JSystem sources were moved to GitHub. Fork us at Top-Q/jsystem
+
+JSystem is a framework for writing and running automated system testing projects. For questions, try the relevant forum or send a mail to jsystemtest@gmail.comIMPORTANT: JSystem sources were moved to GitHub. Fork us at Top-Q/jsystem
+
+JSystem is a framework for writing and running automated system testing projects. For questions, try the relevant forum or send a mail to jsystemtest@gmail.com","Categories
+Software Testing, Frameworks"
+"Project description and support moved to :
+https://github.com/Zeus64/alcinoe
+
+However you can use the source you prefer, the SVN here or the GIT on github, both are synchronized (just that GIT don't support large file > 100 mo so some minor files used only as references are missing from GIT)Project description and support moved to :
+https://github.com/Zeus64/alcinoe
+
+However you can use the source you prefer, the SVN here or the GIT on github, both are synchronized (just that GIT don't support large file > 100 mo so some minor files used only as references are missing from GIT)","Categories
+Genetic Algorithms, Object Oriented"
+SocketTest - powerful and small software tool for socket testing. It can create both TCP and UDP client or server. It can be used to test any server or client that uses TCP or UDP protocol to communicate.SocketTest - powerful and small software tool for socket testing. It can create both TCP and UDP client or server. It can be used to test any server or client that uses TCP or UDP protocol to communicate.,"Categories
+Software Testing, Networking, Distributed Computing"
+"As of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise editionAs of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise edition","Categories
+Other/Nonlisted Topic, Frameworks, Clustering"
+"An implementation of the curses library for Windows, DOS, OS/2, X11 and SDL.An implementation of the curses library for Windows, DOS, OS/2, X11 and SDL.","Categories
+User Interface (UI)"
+"A toolkit for building high-level compound widgets in Python using the Tkinter module. It contains a set of flexible and extensible megawidgets, including notebooks, comboboxes, selection widgets, paned widgets, scrolled widgets and dialog windows.
+
+Python megawidgets is Python 3 compatible through the Pmw 2 download. Pmw 1 is destined for Python 2. Both are now accessible through the new pypi compatible package (credits for which go to Andy Robinson and the team at ReportLab).A toolkit for building high-level compound widgets in Python using the Tkinter module. It contains a set of flexible and extensible megawidgets, including notebooks, comboboxes, selection widgets, paned widgets, scrolled widgets and dialog windows.
+
+Python megawidgets is Python 3 compatible through the Pmw 2 download. Pmw 1 is destined for Python 2. Both are now accessible through the new pypi compatible package (credits for which go to Andy Robinson and the team at ReportLab).","Categories
+Software Development, Graphics"
+"Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.","Categories
+Text Processing, Version Control"
+"Open source DKIM library, MTA filter implementation and associated tools.Open source DKIM library, MTA filter implementation and associated tools.","Categories
+Email Spam Filter, Anti-Spam, Libraries"
+"WatiN (pronounced ""what-in"") aims to bring you an easy way to automate Web Application Testing in .Net. Inspired by Watir, WatiN has grown into a feature rich and stable framework, offering automation of Internet Explorer and Firefox.WatiN (pronounced ""what-in"") aims to bring you an easy way to automate Web Application Testing in .Net. Inspired by Watir, WatiN has grown into a feature rich and stable framework, offering automation of Internet Explorer and Firefox.","Categories
+Software Testing"
+"Compiere ERP+CRM is the leading open source ERP solution for Distribution, Retail, Manufacturing and Service industries. Compiere automates accounting, supply chain, inventory and sales orders. Compiere ERP is distributed under GPL V2 by Compiere, Inc.Compiere ERP+CRM is the leading open source ERP solution for Distribution, Retail, Manufacturing and Service industries. Compiere automates accounting, supply chain, inventory and sales orders. Compiere ERP is distributed under GPL V2 by Compiere, Inc.","Categories
+Enterprise, CRM, ERP, Accounting, Point of Sale (POS), Dynamic Content, Build Tools"
+"Banish crusty code with the Uncrustify C/C++/C#/D/Java/Pawn source code beautifier. It indents, adds newlines, aligns, etc, and is highly configurable.Banish crusty code with the Uncrustify C/C++/C#/D/Java/Pawn source code beautifier. It indents, adds newlines, aligns, etc, and is highly configurable.","Categories
+Code Generators"
+"The SoapUI download has moved to https://www.soapui.org/downloads/soapui/source-forge.html
+
+With more than 9 million downloads SoapUI is the de-facto standard for REST and SOAP API functional, security and performance testing.The SoapUI download has moved to https://www.soapui.org/downloads/soapui/source-forge.html
+
+With more than 9 million downloads SoapUI is the de-facto standard for REST and SOAP API functional, security and performance testing.","Categories
+Software Testing, Web Services, Business Performance Management, Load Testing"
+"Jaspersoft® Studio is editing software for JasperReports®. It will help you design and run report templates; build report queries; write complex expressions; layout components like 50+ types of charts, maps, tables, crosstabs, custom visualisations. It integrates JasperReports® Server to create powerful report workflows.
+You can build documents of any complexity from your data. Print-ready PDFs to interactive dynamic HTML with navigation inside or outside the report. High quality PowerPoint, RTF, Word, spreadsheet documents or raw CSV, JSON, or XML. It's not difficult to build custom exporter to suit any need.
+Different types of data sources are accessible, big data, CSV, Hibernate, Jaspersoft Domain, JavaBeans, JDBC, JSON, NoSQL, XML, or custom data source.
+Available as an Eclipse plug-in or a standalone application, it comes in two editions: Community and Professional. The Professional edition includes additional features, maps, advanced HTML5 charts and professional support.Jaspersoft® Studio is editing software for JasperReports®. It will help you design and run report templates; build report queries; write complex expressions; layout components like 50+ types of charts, maps, tables, crosstabs, custom visualisations. It integrates JasperReports® Server to create powerful report workflows.
+You can build documents of any complexity from your data. Print-ready PDFs to interactive dynamic HTML with navigation inside or outside the report. High quality PowerPoint, RTF, Word, spreadsheet documents or raw CSV, JSON, or XML. It's not difficult to build custom exporter to suit any need.
+Different types of data sources are accessible, big data, CSV, Hibernate, Jaspersoft Domain, JavaBeans, JDBC, JSON, NoSQL, XML, or custom data source.
+Available as an Eclipse plug-in or a standalone application, it comes in two editions: Community and Professional. The Professional edition includes additional features, maps, advanced HTML5 charts and professional support.","Categories
+Design, Business Intelligence, Report Generators"
+"Jython is a Java implementation of the Python language. It allows users to compile Python source code to Java byte codes, and run the resulting bytecodes on any Java Virtual Machine. It is the successor to JPython.Jython is a Java implementation of the Python language. It allows users to compile Python source code to Java byte codes, and run the resulting bytecodes on any Java Virtual Machine. It is the successor to JPython.","Categories
+Interpreters"
+"[IMPORTANT! Moved to github https://github.com/wgois/OIS keeping this repository open for legacy reasons]
+Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (Keyboards, Mice, Joysticks, etc) and feedback devices (e.g. force feedback). Written in C++ using Object Oriented Design pattern[IMPORTANT! Moved to github https://github.com/wgois/OIS keeping this repository open for legacy reasons]
+Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (Keyboards, Mice, Joysticks, etc) and feedback devices (e.g. force feedback). Written in C++ using Object Oriented Design pattern","Categories
+Games/Entertainment, Software Development"
+"The J!German translation team provides German translations for Joomla! 3.x and old Joomla! versions.
+
+HERE YOU FIND THE NEW RELEASES FROM Joomla! 1.6.0 and above: https://github.com/joomlagerman/joomla/releasesThe J!German translation team provides German translations for Joomla! 3.x and old Joomla! versions.
+
+HERE YOU FIND THE NEW RELEASES FROM Joomla! 1.6.0 and above: https://github.com/joomlagerman/joomla/releases","Categories
+Localization (L10N), Internationalization (I18N), Content Management Systems (CMS)"
+"Cscope is a text screen based source browser, which can double as a behind-the scenes source code navigation aid for classic programmers' editors like Emacs or Vim, too.
+
+Based on a pre-parsed, condensed extract, and optionally a quick-lookup index, it finds and shows identified items in the entire source code, even of truly large projects, quickly and without fuss.Cscope is a text screen based source browser, which can double as a behind-the scenes source code navigation aid for classic programmers' editors like Emacs or Vim, too.
+
+Based on a pre-parsed, condensed extract, and optionally a quick-lookup index, it finds and shows identified items in the entire source code, even of truly large projects, quickly and without fuss.","Categories
+Software Development"
+"A fast, comprehensive, and easy-to-use Java API for communicating with LDAP directory servers and performing related tasks like reading and writing LDIF, encoding and decoding data using base64 and ASN.1 BER, and performing secure communication.A fast, comprehensive, and easy-to-use Java API for communicating with LDAP directory servers and performing related tasks like reading and writing LDIF, encoding and decoding data using base64 and ASN.1 BER, and performing secure communication.","Categories
+LDAP, Mobile, Libraries"
+"unluac is a decompiler for Lua 5.0 through 5.4. It runs on Lua chunks that have been compiled with the standard Lua compiler. It requires that debugging information has not been stripped from the chunk. (By default, the Lua compiler includes this debugging information.)
+
+This program is written in Java. A JAR package is available in the downloads section so you don't have to compile it. It runs from the command line and accepts a single argument: the file name of a Lua chunk. The decompiled code is printed to the standard output.
+
+Here is an example usage of unluac:
+java -jar unluac.jar myfile.lua > myfile_decompiled.lua
+
+The current version also has pretty good support for Lua 5.0 and Lua 5.1. Support for later versions is also good if the code doesn't use too many gotos.unluac is a decompiler for Lua 5.0 through 5.4. It runs on Lua chunks that have been compiled with the standard Lua compiler. It requires that debugging information has not been stripped from the chunk. (By default, the Lua compiler includes this debugging information.)
+
+This program is written in Java. A JAR package is available in the downloads section so you don't have to compile it. It runs from the command line and accepts a single argument: the file name of a Lua chunk. The decompiled code is printed to the standard output.
+
+Here is an example usage of unluac:
+java -jar unluac.jar myfile.lua > myfile_decompiled.lua
+
+The current version also has pretty good support for Lua 5.0 and Lua 5.1. Support for later versions is also good if the code doesn't use too many gotos.","Categories
+Compilers"
+"vEMan - [v]Mware [E]SX [Man]ager provides a GUI for managing ESX servers natively from within your Linux desktop without the need to use Windows vSphere® anymore!
+
+Support vEMan development for v2.0 by gofundme!
+http://www.gofundme.com/vEMan
+
+Why I started vEMan? Because I hate it to start my Windows VM to manage ESX(i) servers ;o)
+
+vEMan is (maybe) not needed if you use vCenter 5.x: http://kb.vmware.com/kb/2005377
+--> vSphere >= v5 has a ""web client""
+BUT keep in mind that there are caveats: Not all features are available in the web client AND it can connect to vCenters only (see: http://kb.vmware.com/kb/1006095)
+
+- ESX(i) v3.x or 4.x?
+- v5.x - but no vCenter?
+- you want a native Linux vSphere client?
+
+Then try vEMan!
+
+-------
+vEMan is not published or pronounced by VMware Inc. vEMan is an OpenSource project from a private person without any warranty or claim to bother VMware Inc. VMware,vSphere,ESX/ESXi,vCenter are trademarks by VMware Inc.vEMan - [v]Mware [E]SX [Man]ager provides a GUI for managing ESX servers natively from within your Linux desktop without the need to use Windows vSphere® anymore!
+
+Support vEMan development for v2.0 by gofundme!
+http://www.gofundme.com/vEMan
+
+Why I started vEMan? Because I hate it to start my Windows VM to manage ESX(i) servers ;o)
+
+vEMan is (maybe) not needed if you use vCenter 5.x: http://kb.vmware.com/kb/2005377
+--> vSphere >= v5 has a ""web client""
+BUT keep in mind that there are caveats: Not all features are available in the web client AND it can connect to vCenters only (see: http://kb.vmware.com/kb/1006095)
+
+- ESX(i) v3.x or 4.x?
+- v5.x - but no vCenter?
+- you want a native Linux vSphere client?
+
+Then try vEMan!
+
+-------
+vEMan is not published or pronounced by VMware Inc. vEMan is an OpenSource project from a private person without any warranty or claim to bother VMware Inc. VMware,vSphere,ESX/ESXi,vCenter are trademarks by VMware Inc.","Categories
+Virtual Machine, Systems Administration, OS distribution"
+"TextWarrior is a programming text editor for mobile devices, featuring efficient and fun ways to work on a touch screen. Now you can read and edit code on your vacation! [insert evil laugh]TextWarrior is a programming text editor for mobile devices, featuring efficient and fun ways to work on a touch screen. Now you can read and edit code on your vacation! [insert evil laugh]","Categories
+Text Editors, Usability, Source Code Management"
+64tass is cross assembler targeting the 65xx series of micro processors.64tass is cross assembler targeting the 65xx series of micro processors.,"Categories
+Assemblers"
+"PHPCrawl is a high configurable webcrawler/webspider-library written in PHP. It supports filters, limiters, cookie-handling, robots.txt-handling, multiprocessing and much more.PHPCrawl is a high configurable webcrawler/webspider-library written in PHP. It supports filters, limiters, cookie-handling, robots.txt-handling, multiprocessing and much more.","Categories
+Search Engines, Libraries"
+Code 2 UML is a tool for constructing UML class diagrams from java .class and .jar files. Requirements: JRE 1.6Code 2 UML is a tool for constructing UML class diagrams from java .class and .jar files. Requirements: JRE 1.6,"Categories
+UML, Object Oriented"
+"Server bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manualsServer bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manuals","Categories
+Email, Database, File Transfer Protocol (FTP), Site Management, HTTP Servers, Interpreters, Email Servers"
+"A C++ diagnostic logging API that is simple to use, 100% type-safe, generic, infinitely-extensible, atomic, platform-independent, and extremely efficient. And, best of all, it upholds the spirit of C: you only pay for what you use.A C++ diagnostic logging API that is simple to use, 100% type-safe, generic, infinitely-extensible, atomic, platform-independent, and extremely efficient. And, best of all, it upholds the spirit of C: you only pay for what you use.","Categories
+Software Development, Logging"
+CVS ChangeLog View Eclipse Plugin.CVS ChangeLog View Eclipse Plugin.,"Categories
+CVS"
+"Code Analyzer is a java application for C, C++, java, assembly, html, and user-defined software source metrics. It calculates metrics across multiple source trees as one project. It has a nice tree view of the project with flexible report capabilities.Code Analyzer is a java application for C, C++, java, assembly, html, and user-defined software source metrics. It calculates metrics across multiple source trees as one project. It has a nice tree view of the project with flexible report capabilities.","Categories
+Software Development"
+File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.,"Categories
+Security, Frameworks, File Managers, Logging"
+"Crystal Space is an Open Source 3D SDK for Unix, Windows, and MacOS/X. It renders with OpenGL and features GLSL shaders, CG shaders, deferred rendering, dynamic shadows, bullet based physics library, terrain engine, skeleton based animation meshes, exporter for Blender, portals, etc...Crystal Space is an Open Source 3D SDK for Unix, Windows, and MacOS/X. It renders with OpenGL and features GLSL shaders, CG shaders, deferred rendering, dynamic shadows, bullet based physics library, terrain engine, skeleton based animation meshes, exporter for Blender, portals, etc...","Categories
+Real Time Strategy, First Person Shooters, Role-Playing Games (RPG), Frameworks, 3D Rendering"
+Dotnet IL Editor (DILE) allows disassembling and debugging .NET 1.0/1.1/2.0/3.0/3.5 applications without source code or .pdb files. It can debug even itself or the assemblies of the .NET Framework on IL level.Dotnet IL Editor (DILE) allows disassembling and debugging .NET 1.0/1.1/2.0/3.0/3.5 applications without source code or .pdb files. It can debug even itself or the assemblies of the .NET Framework on IL level.,"Categories
+Debuggers, Compilers"
+"The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""","Categories
+Text Editors, Data Formats, Software Testing, Mainframe"
+"JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.","Categories
+UML, Mathematics, Social Networking"
+"NOTICE: The releases on this site are OUT OF DATE. Xdelta development has moved to code.google.com. Sourceforge was good throughout the years, but Subversion support at googlecode is great. Xdelta blog: http://xdelta.orgNOTICE: The releases on this site are OUT OF DATE. Xdelta development has moved to code.google.com. Sourceforge was good throughout the years, but Subversion support at googlecode is great. Xdelta blog: http://xdelta.org","Categories
+Version Control"
+Armadeus is an OpenSource Hardware and Software project based on an ARM core (Freescale i.MX) and Linux. You can consult our wiki at http://www.armadeus.org to join our non profit association or our commercial website at http://www.armadeus.com .Armadeus is an OpenSource Hardware and Software project based on an ARM core (Freescale i.MX) and Linux. You can consult our wiki at http://www.armadeus.org to join our non profit association or our commercial website at http://www.armadeus.com .,"Categories
+Build Tools, Installation/Setup, Hardware"
+"ZinjaI is a lightweight Cross-platform IDE for programming with C/C++, initially aimed to be used in classroom for learning C++, but powerful enough to manage complex projects as ZinjaI itself.ZinjaI is a lightweight Cross-platform IDE for programming with C/C++, initially aimed to be used in classroom for learning C++, but powerful enough to manage complex projects as ZinjaI itself.","Categories
+Integrated Development Environments (IDE), Software Development"
+"JuffEd is a free, cross-platform text editor for programmers and advanced users. Has syntax highlighting for many languages, code folding, find/replace using plain text and regexps, code completion, multiple charsets and many other useful features.JuffEd is a free, cross-platform text editor for programmers and advanced users. Has syntax highlighting for many languages, code folding, find/replace using plain text and regexps, code completion, multiple charsets and many other useful features.","Categories
+Text Editors, Software Development"
+Java Spider helps you understand complicated Java programs by helping you draw a graph of objects and their relationships. The current version only supports Eclipse.Java Spider helps you understand complicated Java programs by helping you draw a graph of objects and their relationships. The current version only supports Eclipse.,"Categories
+Software Development"
+"Amoeba is a proxy that sits between your client and DB server(s) that can monitor, analyze or transform their communication. written in java. 1.load balancing 2、failover; 3、queries Route.projects:amoeba for mysql ,for mongodb,for aladdinAmoeba is a proxy that sits between your client and DB server(s) that can monitor, analyze or transform their communication. written in java. 1.load balancing 2、failover; 3、queries Route.projects:amoeba for mysql ,for mongodb,for aladdin","Categories
+Database, Software Development, Load Balancers"
+"NOTE THAT THE SOURCE CODE AND ISSUE TRACKER HAVE NOW MOVED TO GITHUB. FIND US AT https://github.com/GateNLP/
+
+
+GATE (General Architecture for Text Engineering) is an architecture, framework and development environment for developing, evaluating and embedding Human Language Technology. See http://gate.ac.uk for full details.NOTE THAT THE SOURCE CODE AND ISSUE TRACKER HAVE NOW MOVED TO GITHUB. FIND US AT https://github.com/GateNLP/
+
+
+GATE (General Architecture for Text Engineering) is an architecture, framework and development environment for developing, evaluating and embedding Human Language Technology. See http://gate.ac.uk for full details.","Categories
+Text Processing, Frameworks, Information Analysis"
+"The Ruby Development Tool is a Ruby IDE, composed of Ruby aware features/plugins for the Eclipse platform.The Ruby Development Tool is a Ruby IDE, composed of Ruby aware features/plugins for the Eclipse platform.","Categories
+Integrated Development Environments (IDE), Software Development"
+"Quartz.NET is a full-featured, open source job scheduling system written in C# for .NET platform that can be used from smallest apps to large scale enterprise systems.Quartz.NET is a full-featured, open source job scheduling system written in C# for .NET platform that can be used from smallest apps to large scale enterprise systems.","Categories
+Frameworks"

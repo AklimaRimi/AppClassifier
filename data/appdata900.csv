@@ -1,0 +1,939 @@
+Description,Category
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.","Categories
+Security"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Internet, Password Generators"
+"GpgFrontend is a Free, Open Source, Powerful, Easy-to-Use, Compact, Cross-Platform OpenPGP Crypt Tool. Also, it's one of the excellent GUI Frontends for Modern GnuPG (gpg).
+
+By using GpgFrontend, you can quickly encrypt and decrypt text or files. You can also digitally sign your text or files.GpgFrontend does not need to depend on any server, therefore it may be one of the last lines of defense in protecting your privacy. Please use this tool to transmit or store information that you regard as very precious. You can also use
+it to guarantee the authenticity of your information.GpgFrontend is a Free, Open Source, Powerful, Easy-to-Use, Compact, Cross-Platform OpenPGP Crypt Tool. Also, it's one of the excellent GUI Frontends for Modern GnuPG (gpg).
+
+By using GpgFrontend, you can quickly encrypt and decrypt text or files. You can also digitally sign your text or files.GpgFrontend does not need to depend on any server, therefore it may be one of the last lines of defense in protecting your privacy. Please use this tool to transmit or store information that you regard as very precious. You can also use
+it to guarantee the authenticity of your information.","Categories
+Cryptography"
+"One of the most overpowered DDOS weapon on the internet. This software is mainly for pen testing websites or servers.
+
+
+Slava Ukraine!One of the most overpowered DDOS weapon on the internet. This software is mainly for pen testing websites or servers.
+
+
+Slava Ukraine!","Categories
+Security"
+"An efficient blocker add-on for various browsers. Fast, potent, and lean. uBlock Origin is not an ""ad blocker"", it is a wide-spectrum blocker, which happens to be able to function as a mere ""ad blocker"". The default behavior of uBlock Origin, when newly installed, is to block ads, trackers and malware sites through EasyList, EasyPrivacy, Peter Lowe’s ad/tracking/malware servers, Online Malicious URL Blocklist, and uBlock Origin's own filter lists. uBlock Origin (or uBlock₀) is not an ad blocker; it's a general-purpose blocker. uBlock Origin blocks ads through its support of the Adblock Plus filter syntax. uBlock Origin extends the syntax and is designed to work with custom rules and filters. Furthermore, the advanced mode allows uBlock Origin to work in default-deny mode, which mode will cause all 3rd-party network requests to be blocked by default unless allowed by the user.An efficient blocker add-on for various browsers. Fast, potent, and lean. uBlock Origin is not an ""ad blocker"", it is a wide-spectrum blocker, which happens to be able to function as a mere ""ad blocker"". The default behavior of uBlock Origin, when newly installed, is to block ads, trackers and malware sites through EasyList, EasyPrivacy, Peter Lowe’s ad/tracking/malware servers, Online Malicious URL Blocklist, and uBlock Origin's own filter lists. uBlock Origin (or uBlock₀) is not an ad blocker; it's a general-purpose blocker. uBlock Origin blocks ads through its support of the Adblock Plus filter syntax. uBlock Origin extends the syntax and is designed to work with custom rules and filters. Furthermore, the advanced mode allows uBlock Origin to work in default-deny mode, which mode will cause all 3rd-party network requests to be blocked by default unless allowed by the user.","Categories
+Security"
+Tokens processing system (Security)Tokens processing system (Security),"Categories
+Cryptography, Password Managers"
+"Abdal FTP BruteForce tool is a powerful software with zero error rate to test the intrusion of servers that work with FTP protocol, this tool supports proxy for attacks and can transfer all your traffic in the hacking process to the proxy SlowlyAbdal FTP BruteForce tool is a powerful software with zero error rate to test the intrusion of servers that work with FTP protocol, this tool supports proxy for attacks and can transfer all your traffic in the hacking process to the proxy Slowly","Categories
+Security, File Transfer Protocol (FTP), Networking"
+Abdal Wizard Port Scanner is a free and open-source for TCP scanningAbdal Wizard Port Scanner is a free and open-source for TCP scanning,"Categories
+Security, Networking, Monitoring"
+Find website admin page for pentesterFind website admin page for pentester,"Categories
+Security, Software Development, Networking"
+This tool will have the ability to create useful statistics and traffic on your site and actually help rank your statistics on sites like Alexa and so on.This tool will have the ability to create useful statistics and traffic on your site and actually help rank your statistics on sites like Alexa and so on.,"Categories
+Security, WWW/HTTP, Internet"
+Abdal 404 PenTest tool is a powerful software with multi-thread processing capability to generate 404 errors on the target server or site that can check the level of security of the target. Be sure to watch this tool to better understand the tutorial.Abdal 404 PenTest tool is a powerful software with multi-thread processing capability to generate 404 errors on the target server or site that can check the level of security of the target. Be sure to watch this tool to better understand the tutorial.,"Categories
+Security, Software Testing, Internet"
+Secure file transfer based on SSH protocolSecure file transfer based on SSH protocol,"Categories
+Security, Operating System Kernels, Internet"
+"Abdal Header Analyzer is a software for analyzing site and web server headers. As you know, headers contain information that security experts and hackers use to analyze targets.Abdal Header Analyzer is a software for analyzing site and web server headers. As you know, headers contain information that security experts and hackers use to analyze targets.","Categories
+Security, Information Analysis"
+"CyphyOS is Debian 10 x86_64 Based Distro Flavor, specifically for Cyber Physical System penetration testing. Powered with XFCE4. Out-Of-The-Box Dedicated to All Hardware Hackers. Especially for those who are still using the common pentesting tools and in need of hardware, Embedded System, IoT and SCADA tools as well. Also SDR tools are in place and configurations are made for HackRF, RTL-SDR and BladeRF.
+
+Tools Are Listed In Discussion Tab.
+
+Default Username : hackerman
+Default Password : cyphyCyphyOS is Debian 10 x86_64 Based Distro Flavor, specifically for Cyber Physical System penetration testing. Powered with XFCE4. Out-Of-The-Box Dedicated to All Hardware Hackers. Especially for those who are still using the common pentesting tools and in need of hardware, Embedded System, IoT and SCADA tools as well. Also SDR tools are in place and configurations are made for HackRF, RTL-SDR and BladeRF.
+
+Tools Are Listed In Discussion Tab.
+
+Default Username : hackerman
+Default Password : cyphy","Categories
+Penetration Testing"
+"It is an Portable Penetration Testing Operating System designed for Beagle Bone AI. It is an debian based operating system fully packed with all latest Hacking Tools.
+The Root file system used in this Deck Linux is Ubuntu 20.04 LTS. It can be installed in Beagle Board AI and can use as a replacement for Laptop, Desktop. It can be placed on a drone too. It has a pre-installed MeshDeck (written by Philip Polstra) so it can be runned in a ZigBee network. We can attacks from up to a mile away using multiple devices connected via 802.15.4 networking (MeshDeck).It is an Portable Penetration Testing Operating System designed for Beagle Bone AI. It is an debian based operating system fully packed with all latest Hacking Tools.
+The Root file system used in this Deck Linux is Ubuntu 20.04 LTS. It can be installed in Beagle Board AI and can use as a replacement for Laptop, Desktop. It can be placed on a drone too. It has a pre-installed MeshDeck (written by Philip Polstra) so it can be runned in a ZigBee network. We can attacks from up to a mile away using multiple devices connected via 802.15.4 networking (MeshDeck).","Categories
+Security, Operating System Kernels, Installation/Setup, Penetration Testing"
+"OTP (One Time Pad) In case you have any questions, contact me at: crypto-munition@gmx.de
+When used correctly, the OTP is an information-theoretically secure and demonstrably non-breakable encryption. The encryption process is implemented as symmetrical file encryption based on XOR encryption.
+The integrated pseudo-random generator serves only to illustrate and check the functionality. The use of this generator for REAL OTPs is not recommended.
+For REAL OTPs, hardware-based key generators (e.g. thermal noise of a pn junction, transistor or diode), white noise (e.g. out of tune radio) or other stochastic decay processes should be used.
+
+If used correctly, it cannot be decrypted by any intelligence service.OTP (One Time Pad) In case you have any questions, contact me at: crypto-munition@gmx.de
+When used correctly, the OTP is an information-theoretically secure and demonstrably non-breakable encryption. The encryption process is implemented as symmetrical file encryption based on XOR encryption.
+The integrated pseudo-random generator serves only to illustrate and check the functionality. The use of this generator for REAL OTPs is not recommended.
+For REAL OTPs, hardware-based key generators (e.g. thermal noise of a pn junction, transistor or diode), white noise (e.g. out of tune radio) or other stochastic decay processes should be used.
+
+If used correctly, it cannot be decrypted by any intelligence service.","Categories
+Cryptography"
+"VPLE (Linux)
+
+Vulnerable Pentesting Lab Environment
+
+VPLE is an Intentionally Vulnerable Linux Virtual Machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs are Available.
+
+NOTE:- ""Only run in VMWare Pls Don’t run in VirtualBox""
+
+The default login and password is administrator: password.
+
+List Of All Labs in one VM:-
+1. Web-DVWA
+2. Mutillidae
+3. Webgoat
+4. Bwapp
+5. Juice-shop
+6. Security-ninjas
+7. WordPress
+
+We are adding more labs in few days🤗VPLE (Linux)
+
+Vulnerable Pentesting Lab Environment
+
+VPLE is an Intentionally Vulnerable Linux Virtual Machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs are Available.
+
+NOTE:- ""Only run in VMWare Pls Don’t run in VirtualBox""
+
+The default login and password is administrator: password.
+
+List Of All Labs in one VM:-
+1. Web-DVWA
+2. Mutillidae
+3. Webgoat
+4. Bwapp
+5. Juice-shop
+6. Security-ninjas
+7. WordPress
+
+We are adding more labs in few days🤗","Categories
+Terminal Emulators, Security, Virtual Machine, Penetration Testing"
+"FireCX is an open source OWASP penetration testing tool written in Python 3, that can speed up the the process of finding common PHP vulnerabilities in PHP code, i.e. command injection, local/remote file inclusion and SQL injection.FireCX is an open source OWASP penetration testing tool written in Python 3, that can speed up the the process of finding common PHP vulnerabilities in PHP code, i.e. command injection, local/remote file inclusion and SQL injection.","Categories
+Penetration Testing"
+Program to quickly and easily encrypt or decrypt files or directories using Encrypting File System (EFS) as well as add and remove domain user EFS permissions to a file. There is also a button to view the info on an encrypted file as well as for backing up a users EFS PFX certificate.Program to quickly and easily encrypt or decrypt files or directories using Encrypting File System (EFS) as well as add and remove domain user EFS permissions to a file. There is also a button to view the info on an encrypted file as well as for backing up a users EFS PFX certificate.,"Categories
+Cryptography, File Managers, File Systems, Encryption"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Secure: Your codes is secured by AES 256bit encrypton and your own password.
+Import: You can directly import from Google Authenticator or from any 2FA QR code you screenshot.
+Shortcuts: Easily open Authme with costum shortcuts and it can also start when your system starts.
+Offline: Completely offline, no need for internet connection","Categories
+Security, Cryptography, Password Managers"
+"to create PIN's with multiple Digits.
+
+!NSA approved!to create PIN's with multiple Digits.
+
+!NSA approved!","Categories
+Password Managers, Password Generators"
+"DISCLAIMER: USE ON YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+
+!!! ONLY FOR PENTESTING PURPOSES !!!DISCLAIMER: USE ON YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+
+!!! ONLY FOR PENTESTING PURPOSES !!!","Categories
+Cybersecurity"
+"Abdal AES Encryption is a security tool for encrypting messages developed by the Abdal team. This tool uses AES encryption and has high power. AES stands for Advanced Encryption Standard, which was developed in 2001 by the US National Institute of Technology and Standards. The advanced encryption standard is accepted by the US government and is now used worldwide. This encryption algorithm replaces the Data Encryption Standard (DES) published in 1977.Abdal AES Encryption is a security tool for encrypting messages developed by the Abdal team. This tool uses AES encryption and has high power. AES stands for Advanced Encryption Standard, which was developed in 2001 by the US National Institute of Technology and Standards. The advanced encryption standard is accepted by the US government and is now used worldwide. This encryption algorithm replaces the Data Encryption Standard (DES) published in 1977.","Categories
+Encryption, Encryption Algorithms"
+"If you need more security to send your messages, we introduce the new tool of Abdal security team called Abdal 2-Key Triple DES Builder. This tool can actually encrypt all your texts that are to be sent as a message between you and any person. Two-Key Triple DES is used to encrypt these messages. This algorithm performs 3 cryptographic processes on each block of information to reduce the penetration rate. The Abdal 2-Key Triple DES Builder tool has four modes for encrypting your data.If you need more security to send your messages, we introduce the new tool of Abdal security team called Abdal 2-Key Triple DES Builder. This tool can actually encrypt all your texts that are to be sent as a message between you and any person. Two-Key Triple DES is used to encrypt these messages. This algorithm performs 3 cryptographic processes on each block of information to reduce the penetration rate. The Abdal 2-Key Triple DES Builder tool has four modes for encrypting your data.","Categories
+Security, Cryptography, Encryption Algorithms"
+"MaskPhish can hide any URL to another URL. We can make https://ngrok.io/4GTJ78C [Example Link] to https://google.com/live-football@is.gd/6hts4 [Example Link]
+
+For more Cybersecurity information visit https://www.kalilinux.inMaskPhish can hide any URL to another URL. We can make https://ngrok.io/4GTJ78C [Example Link] to https://google.com/live-football@is.gd/6hts4 [Example Link]
+
+For more Cybersecurity information visit https://www.kalilinux.in","Categories
+Cybersecurity"
+"RandomPass by Lucerta is a random password generator that is highly customizable. You can generate passwords of fixed or random length, given a minimum and maximum length. You can control the types of characters and the propensity of each type of character. All crucial information that is used to generate passwords can be hidden from view. The newly generated passwords can be manually or automatically copied to the clipboard.RandomPass by Lucerta is a random password generator that is highly customizable. You can generate passwords of fixed or random length, given a minimum and maximum length. You can control the types of characters and the propensity of each type of character. All crucial information that is used to generate passwords can be hidden from view. The newly generated passwords can be manually or automatically copied to the clipboard.","Categories
+Password Managers, Password Generators"
+"zynix-Fusion is a framework that aims to centralize, standardizeand simplify the use of various security tools for pentest professionals.zynix-Fusion (old name: Linux evil toolkit) has few simple commands, one of which is theinit function that allows you to define a target, and thus use all the toolswithout typing anything else.zynix-Fusion is a framework that aims to centralize, standardizeand simplify the use of various security tools for pentest professionals.zynix-Fusion (old name: Linux evil toolkit) has few simple commands, one of which is theinit function that allows you to define a target, and thus use all the toolswithout typing anything else.","Categories
+Security, OSINT"
+"Using our program, you can create a strong password with ease. One of the best features of this program is that it enables you to save any password that you create in a file with the time and date . Here are some tips . To prevent your passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe, you should notice that:1. Do not use the same password, security question and answer for multiple important accounts.2. Use a password that has at least 16 characters, use at least one number, one uppercase letter, one lowercase letter and one special symbol.3. Do not use the names of your families, friends or pets in your passwords.4. Do not use postcodes, house numbers, phone numbers, birthdates, ID card numbers, social security numbers, and so on in your passwords.5. Do not use any dictionary word in your passwords. Examples of strong passwords: ePYHc~dS*)8$+V-' , qzRtC{6rXN3N\RgL , zbfUMZPE6FC%)sZ. Examples of weak passwordsUsing our program, you can create a strong password with ease. One of the best features of this program is that it enables you to save any password that you create in a file with the time and date . Here are some tips . To prevent your passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe, you should notice that:1. Do not use the same password, security question and answer for multiple important accounts.2. Use a password that has at least 16 characters, use at least one number, one uppercase letter, one lowercase letter and one special symbol.3. Do not use the names of your families, friends or pets in your passwords.4. Do not use postcodes, house numbers, phone numbers, birthdates, ID card numbers, social security numbers, and so on in your passwords.5. Do not use any dictionary word in your passwords. Examples of strong passwords: ePYHc~dS*)8$+V-' , qzRtC{6rXN3N\RgL , zbfUMZPE6FC%)sZ. Examples of weak passwords","Categories
+Code Generators, Password Generators"
+"CheckSome is a simple windows app to show MD5 and SHA256 of a file
+
+
+File Information of Developer Generated File:
+Name: CheckSome.exe
+MD5:
+adecc1ace82c3525e689c2d0ffdd8422
+SHA256:
+900bbf09cfa46ba0ef760e5eff5d35046f415c5b723db1f3c08f4e626d9c4bab
+SHA1:
+245221647187e62f8f1224291527249c2a3dce62CheckSome is a simple windows app to show MD5 and SHA256 of a file
+
+
+File Information of Developer Generated File:
+Name: CheckSome.exe
+MD5:
+adecc1ace82c3525e689c2d0ffdd8422
+SHA256:
+900bbf09cfa46ba0ef760e5eff5d35046f415c5b723db1f3c08f4e626d9c4bab
+SHA1:
+245221647187e62f8f1224291527249c2a3dce62","Categories
+Cryptography"
+"Pesepter is a program used to generate passwords to various websites. The program works locally on the computer. It does not connect to any server, so the generated passwords are known only to the user who will run the program locally on his computer.Pesepter is a program used to generate passwords to various websites. The program works locally on the computer. It does not connect to any server, so the generated passwords are known only to the user who will run the program locally on his computer.","Categories
+Password Managers, Password Generators"
+"Keylogger is a simple keystroke logger for Windows, Mac and Linux. A keystroke logger or keylogger is basically a program that records keystrokes and saves them in a log file on your local computer. This keylogger is simple and bare bones, but works wonderfully and is useful for a number of things. You can use it to track key movements and make sure no one is using your computer while you’re away, or use it for self-analysis. In businesses and offices it can be used to monitor employee activity; in schools it can track keystrokes and log banned words.Keylogger is a simple keystroke logger for Windows, Mac and Linux. A keystroke logger or keylogger is basically a program that records keystrokes and saves them in a log file on your local computer. This keylogger is simple and bare bones, but works wonderfully and is useful for a number of things. You can use it to track key movements and make sure no one is using your computer while you’re away, or use it for self-analysis. In businesses and offices it can be used to monitor employee activity; in schools it can track keystrokes and log banned words.","Categories
+Other/Nonlisted Topic, Security"
+"Shadowsocks for Android is the Android client for the widely-used, high-performance encryption protocol project Shadowsocks. It is a secure socks5 proxy for Android that is designed to protect your internet traffic.
+
+Shadowsocks for Android allows you to surf the internet privately and securely at all times through your Android device. It features bleeding-edge techniques with Asynchronous I/O and Event-driven programming. It is completely free and open-source and is available for other platforms as well.Shadowsocks for Android is the Android client for the widely-used, high-performance encryption protocol project Shadowsocks. It is a secure socks5 proxy for Android that is designed to protect your internet traffic.
+
+Shadowsocks for Android allows you to surf the internet privately and securely at all times through your Android device. It features bleeding-edge techniques with Asynchronous I/O and Event-driven programming. It is completely free and open-source and is available for other platforms as well.","Categories
+Cryptography, Mobile"
+"This plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/keepassotpThis plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/keepassotp","Categories
+Password Managers"
+"Source: https://github.com/AlizerUncaged/HTTP-Injector
+
+respite is a SSH/openVPN client that allows you to connect to the internet with custom injected HTTP Proxy headers.
+This application requires
+Java (https://www.java.com/en/download/) and
+.Net 4.5 (https://www.microsoft.com/en-ph/download/details.aspx?id=42642 .Net 4.5 is already preinstalled in Windows 10).
+
+There are many SSH and OpenVPN Server providers in the internet, one is https://www.tcpvpn.com
+
+HTTP Proxy responses override (source code): https://github.com/AlizerDoesJava/respite-proxy-override
+
+Please rate, any feedback is appreciated. The application and server providers are free.Source: https://github.com/AlizerUncaged/HTTP-Injector
+
+respite is a SSH/openVPN client that allows you to connect to the internet with custom injected HTTP Proxy headers.
+This application requires
+Java (https://www.java.com/en/download/) and
+.Net 4.5 (https://www.microsoft.com/en-ph/download/details.aspx?id=42642 .Net 4.5 is already preinstalled in Windows 10).
+
+There are many SSH and OpenVPN Server providers in the internet, one is https://www.tcpvpn.com
+
+HTTP Proxy responses override (source code): https://github.com/AlizerDoesJava/respite-proxy-override
+
+Please rate, any feedback is appreciated. The application and server providers are free.","Categories
+Security, Firewall, SSH, VPN"
+"Codex nació para una presentación final de OOP.
+La idea principal es diseñar una forma fácil y segura de administrar sus cuentas web, con herramientas como ezLink y copiar / pegar doble clic hace que su fecha sea más segura de usar, ver y guardar.
+Está hecho en C ++ y se actualizará pronto para la gestión web y más.Codex nació para una presentación final de OOP.
+La idea principal es diseñar una forma fácil y segura de administrar sus cuentas web, con herramientas como ezLink y copiar / pegar doble clic hace que su fecha sea más segura de usar, ver y guardar.
+Está hecho en C ++ y se actualizará pronto para la gestión web y más.","Categories
+Password Managers"
+"For Outlook I had been using the SpamBayes plugin for years in order to remove spam e-mails. However, with Outlook 365 the addin stopped working for me.
+This reimplementation enables you to mark e-mails as spam or valid. Based on your input the addin learns how to classify e-mails. If the addin detects spam then it will move the e-mail to a configurable folder in Outlook. E-mails for which the decision is uncertain will be moved to another configurable folder.For Outlook I had been using the SpamBayes plugin for years in order to remove spam e-mails. However, with Outlook 365 the addin stopped working for me.
+This reimplementation enables you to mark e-mails as spam or valid. Based on your input the addin learns how to classify e-mails. If the addin detects spam then it will move the e-mail to a configurable folder in Outlook. E-mails for which the decision is uncertain will be moved to another configurable folder.","Categories
+Anti-Spam"
+"WindowTextExtractor allows you to get a text from any window of an operating system including microsoft office programs, console windows and any window with support of Microsoft UI Automation (UIA). It can recover password stored behind asterisks (*****) from most of the windows apps.
+
+Requirements
+OS Windows XP SP3 and later. Supports x86 and x64 systems.
+.NET Framework 4.0
+
+How to Use
+Launch WindowTextExtractor on your system.
+Now simply drag the 'Find window' button to get a window text or password.
+
+Limitations
+This tool can't work properly with non-windows based applications such as GTK, Flash, QT or applications not using standard edit box for the password. It does not work with HTML pages in the browsers such as Firefox, Chrome, etc.WindowTextExtractor allows you to get a text from any window of an operating system including microsoft office programs, console windows and any window with support of Microsoft UI Automation (UIA). It can recover password stored behind asterisks (*****) from most of the windows apps.
+
+Requirements
+OS Windows XP SP3 and later. Supports x86 and x64 systems.
+.NET Framework 4.0
+
+How to Use
+Launch WindowTextExtractor on your system.
+Now simply drag the 'Find window' button to get a window text or password.
+
+Limitations
+This tool can't work properly with non-windows based applications such as GTK, Flash, QT or applications not using standard edit box for the password. It does not work with HTML pages in the browsers such as Firefox, Chrome, etc.","Categories
+Security, Desktop Environment, Password Managers"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.Project Samples","Categories
+Anti-Malware"
+"This is an open source account managing and password saving software written in java.
+It helps you to remeber all of your accounts and passwords, including additional information like the email adress or the username you use for the specific platform.
+
+Donate: http://bit.ly/donate-dagammlaThis is an open source account managing and password saving software written in java.
+It helps you to remeber all of your accounts and passwords, including additional information like the email adress or the username you use for the specific platform.
+
+Donate: http://bit.ly/donate-dagammla","Categories
+Password Managers"
+"This is the fork of the SHADOW IDS produced in 2003. It has been updated to work on modern (SystemD, OpenRC) GNU suites. The original developers added the plugable architecture. It has been tweaked for TSHARK. It requires a CGI web server.
+It will run tcpdump 24x7x???. It will render initial analysis, and searchability.
+
+# idabench Version 1.0.1
+
+idabench is public domain software and may be freely used and #
+distributed with or without modification. #This is the fork of the SHADOW IDS produced in 2003. It has been updated to work on modern (SystemD, OpenRC) GNU suites. The original developers added the plugable architecture. It has been tweaked for TSHARK. It requires a CGI web server.
+It will run tcpdump 24x7x???. It will render initial analysis, and searchability.
+
+# idabench Version 1.0.1
+
+idabench is public domain software and may be freely used and #
+distributed with or without modification. #","Categories
+Security"
+"MTCaptcha, a GDPR and VPAT compliant captcha service build for the enterprise.
+
+This is the demo code to decrypt and decode MTCaptcha's verified token directly on server side without making any API call. This is for customers of MTCaptcha Captcha Service (https://www.mtcaptcha.com)
+
+The demo code can be found on github:
+https://mtcaptcha-public.github.io/MTCaptcha-Direct-Token-Decryption/MTCaptcha, a GDPR and VPAT compliant captcha service build for the enterprise.
+
+This is the demo code to decrypt and decode MTCaptcha's verified token directly on server side without making any API call. This is for customers of MTCaptcha Captcha Service (https://www.mtcaptcha.com)
+
+The demo code can be found on github:
+https://mtcaptcha-public.github.io/MTCaptcha-Direct-Token-Decryption/","Categories
+Security, Anti-Spam"
+"This program is a graphical user interface for checking pwned passwords, it's writen with python and pyQT4.
+Program calculates password hash and then searches for matches with first 5 symbols (prefix) in https://api.pwnedpasswords.com,
+then full hash match is found localy on users PC.This program is a graphical user interface for checking pwned passwords, it's writen with python and pyQT4.
+Program calculates password hash and then searches for matches with first 5 symbols (prefix) in https://api.pwnedpasswords.com,
+then full hash match is found localy on users PC.","Categories
+Security"
+"Save your Emails and Passwords (encrypted) on a txt file and decrypt passwords when needed
+
+Made this program so that it'll be easier for me to remember the passwords by saving the passwords with some security if another user opens the txt file.
+
+
+Default txt file directory is in "" mydocuments "" with name "" encryptedCode.txt ""Save your Emails and Passwords (encrypted) on a txt file and decrypt passwords when needed
+
+Made this program so that it'll be easier for me to remember the passwords by saving the passwords with some security if another user opens the txt file.
+
+
+Default txt file directory is in "" mydocuments "" with name "" encryptedCode.txt ""","Categories
+Password Managers"
+"The best cryptography playground available Demo @
+https://8gwifi.org
+
+How to Install
+wget https://downloads.sourceforge.net/project/cryptography-playgroud/crypto-installer.tar
+tar xvf crypto-installer.tar;cd crypto-installer
+./bootstart.sh
+Browse http://localhost:8080The best cryptography playground available Demo @
+https://8gwifi.org
+
+How to Install
+wget https://downloads.sourceforge.net/project/cryptography-playgroud/crypto-installer.tar
+tar xvf crypto-installer.tar;cd crypto-installer
+./bootstart.sh
+Browse http://localhost:8080","Categories
+Cryptography, Password Generators"
+"httpshell is an interactive https command exploit to test the perimeter security of your network.
+
+This is a customized HTTPS encrypted reverse shell.
+
+It illustrates how easy to bypass any perimiter firewall and IPS by simply encrypting the data.
+
+To list all connecting clients:
+
+sulod -l
+To interact with existing client sessions:
+
+sulod -i <number>
+by Nelson Maligrohttpshell is an interactive https command exploit to test the perimeter security of your network.
+
+This is a customized HTTPS encrypted reverse shell.
+
+It illustrates how easy to bypass any perimiter firewall and IPS by simply encrypting the data.
+
+To list all connecting clients:
+
+sulod -l
+To interact with existing client sessions:
+
+sulod -i <number>
+by Nelson Maligro","Categories
+Security, Cryptography, Networking"
+"This plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/passwordchangeassistantThis plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/passwordchangeassistant","Categories
+Password Managers"
+"If you want to scan out the virus quickly, you can use the latest version of Sws Security Assistant, which provides you with the best way to scan the virus. The latest version of Sws Security Assistant allows you to have the best virus. Scanning mode allows you to have the best virus to scan and scan.It is an opensource virus scan,you can find it on github.If you want to scan out the virus quickly, you can use the latest version of Sws Security Assistant, which provides you with the best way to scan the virus. The latest version of Sws Security Assistant allows you to have the best virus. Scanning mode allows you to have the best virus to scan and scan.It is an opensource virus scan,you can find it on github.","Categories
+Window Managers, Antivirus"
+"Social Media Downloader for Open Source Intelligence purpos.
+
+Supportes so far:
+
+Facebook
+Instagram
+TwitterSocial Media Downloader for Open Source Intelligence purpos.
+
+Supportes so far:
+
+Facebook
+Instagram
+Twitter","Categories
+Internet, OSINT"
+"This plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/pedcalc
+
+If you're used to auto-updating my plugins using EarlyUpdateCheck, please be informed that this update has to be done manuallyThis plugin moved to Github, download the up to date version here: https://github.com/rookiestyle/pedcalc
+
+If you're used to auto-updating my plugins using EarlyUpdateCheck, please be informed that this update has to be done manually","Categories
+Password Managers"
+"This is a plugin to KeePass <http://www.KeePass.info> to add protection against accidental
+auto-typing of passwords into the wrong places.This is a plugin to KeePass <http://www.KeePass.info> to add protection against accidental
+auto-typing of passwords into the wrong places.","Categories
+Password Managers"
+"Why FinalCrypt?
+
+1. Most people choose Disk-Encryption as it's easier to unlock a whole drive, but Big-Brother or Malware can then also read all your files. Only use File-Encryption!
+
+2. Most software uses recently broken AES encryption.
+
+3. Soon The Shor's algorithm will instantly break all assymmetric encryption with Quantum Computers.
+
+4. FinalCrypt uses Symmetric One Time Pad Encryption, which is the most unbreakable encryption there is.
+
+5. FinalCrypt is the only ""One Time Pad"", OpenSource, Cross-Platform, (Bulk) File Encryption Software available.Why FinalCrypt?
+
+1. Most people choose Disk-Encryption as it's easier to unlock a whole drive, but Big-Brother or Malware can then also read all your files. Only use File-Encryption!
+
+2. Most software uses recently broken AES encryption.
+
+3. Soon The Shor's algorithm will instantly break all assymmetric encryption with Quantum Computers.
+
+4. FinalCrypt uses Symmetric One Time Pad Encryption, which is the most unbreakable encryption there is.
+
+5. FinalCrypt is the only ""One Time Pad"", OpenSource, Cross-Platform, (Bulk) File Encryption Software available.","Categories
+Cryptography, Encryption, Encryption Algorithms"
+"Encryption tool for configuration files
+Encryption tool to encrypt NET configuration files, automate this task in a simple and fast way, so you can hide the most sensitive information from ""appSettings"" support any type of NET config file.
+you dont need to do anything extra in your NET application.Encryption tool for configuration files
+Encryption tool to encrypt NET configuration files, automate this task in a simple and fast way, so you can hide the most sensitive information from ""appSettings"" support any type of NET config file.
+you dont need to do anything extra in your NET application.","Categories
+Encryption"
+"Pharos is a free open-source RTOS for secure, safe and real-time systems with the following characteristics:
+
+- Memory and enhanced time partitioning (TSP)
+- Native support for sporadic, periodic and aperiodic threads
+- Fixed-priority preemptive scheduler
+- Execution time protection (threads are prevented from executing for more time than they are configured to)
+- Small size (full image has ~100 to 300KiB text, ~30KiB data)
+- Hard real-time determinism
+- Fast critical sections
+- Prioritized nested interrupts
+- inter-partition communication with filters to protect unwanted access
+- Multicore support (RMP)
+- Supports ARM9, Cortex-A/R/M and Aarch64, RISC-V64 (64 bits)
+- The complete TestSuite (see below information) is run successfully for each platform in each release
+- Tested: more than 170 KLOC of requirement-based tests, executed for each board at each release
+- Up-to-date User Manual also available
+
+See our wiki page for more information.Pharos is a free open-source RTOS for secure, safe and real-time systems with the following characteristics:
+
+- Memory and enhanced time partitioning (TSP)
+- Native support for sporadic, periodic and aperiodic threads
+- Fixed-priority preemptive scheduler
+- Execution time protection (threads are prevented from executing for more time than they are configured to)
+- Small size (full image has ~100 to 300KiB text, ~30KiB data)
+- Hard real-time determinism
+- Fast critical sections
+- Prioritized nested interrupts
+- inter-partition communication with filters to protect unwanted access
+- Multicore support (RMP)
+- Supports ARM9, Cortex-A/R/M and Aarch64, RISC-V64 (64 bits)
+- The complete TestSuite (see below information) is run successfully for each platform in each release
+- Tested: more than 170 KLOC of requirement-based tests, executed for each board at each release
+- Up-to-date User Manual also available
+
+See our wiki page for more information.","Categories
+Security, Operating System Kernels, Embedded Systems"
+"A small server-side application is dedicated to provide TCP-packets response and basic logging functionality from operating low cost commercially available GPS Vehicle Trackers such as Concox GT06N and perhaps others (GT06E and GT06F). The application is using POSIX API and intended to run on Unix, Linux and even Windows systems (cygwin environment). Currently it has been developed and tested on FreeBSD 10.3.A small server-side application is dedicated to provide TCP-packets response and basic logging functionality from operating low cost commercially available GPS Vehicle Trackers such as Concox GT06N and perhaps others (GT06E and GT06F). The application is using POSIX API and intended to run on Unix, Linux and even Windows systems (cygwin environment). Currently it has been developed and tested on FreeBSD 10.3.","Categories
+Security, GPS"
+"Cryptonik-Text is a useful, simple to use tool for encrypt/decrypt text docs, messages, notes etc. Application uses a charset that can be typed from any keyboard (on-screen or hardware). Some national symbols are converted to 26 standard latin letters.Cryptonik-Text is a useful, simple to use tool for encrypt/decrypt text docs, messages, notes etc. Application uses a charset that can be typed from any keyboard (on-screen or hardware). Some national symbols are converted to 26 standard latin letters.","Categories
+Cryptography, Encryption"
+<<Hack|Track GNU/Linux is an open source operating system developed by the HTGL Project from Indonesia which provides penetration testing.<<Hack|Track GNU/Linux is an open source operating system developed by the HTGL Project from Indonesia which provides penetration testing.,"Categories
+Distributed Computing, OS distribution, Live CD, Penetration Testing"
+"Текстовый редактор с поддержкой шифрования. Переведён на русский язык.
+
+A text editor with encryption support. Translated into Russian.
+
+Alternate link: https://github.com/mrkaban/CryptotextEditor
+
+Официальный сайт: https://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/cryptotext-editor-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D1%81-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.htmlТекстовый редактор с поддержкой шифрования. Переведён на русский язык.
+
+A text editor with encryption support. Translated into Russian.
+
+Alternate link: https://github.com/mrkaban/CryptotextEditor
+
+Официальный сайт: https://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/cryptotext-editor-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-%D1%81-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.html","Categories
+Cryptography"
+"Password master is an application created by team spark riders of rocking xtreme light company in egypt
+and this application will help users to save their passwords
+and accounts under new file extensions with encryption and decryption support!
+برنامج فريق سبارك رايدرز اتعمل في مصرلاول مرة بيحفظ و يحمي الملفات و المعلومات بترمبز و فك ترميزPassword master is an application created by team spark riders of rocking xtreme light company in egypt
+and this application will help users to save their passwords
+and accounts under new file extensions with encryption and decryption support!
+برنامج فريق سبارك رايدرز اتعمل في مصرلاول مرة بيحفظ و يحمي الملفات و المعلومات بترمبز و فك ترميز","Categories
+Password Managers"
+"The Remarc Mobile-ID USAT applet this is a JavaCard applet with USIM Application Toolkit menu support.
+Basic functions of the Remarc Mobile-ID SAT applet:
+• Authentication function;
+• Signing function;
+• Changing PIN1/PIN2;
+• Changing PUK;
+• Unblock PIN1/PIN2;
+• View information - in a USAT menu is present a menu item with information of PIN usage.The Remarc Mobile-ID USAT applet this is a JavaCard applet with USIM Application Toolkit menu support.
+Basic functions of the Remarc Mobile-ID SAT applet:
+• Authentication function;
+• Signing function;
+• Changing PIN1/PIN2;
+• Changing PUK;
+• Unblock PIN1/PIN2;
+• View information - in a USAT menu is present a menu item with information of PIN usage.","Categories
+Communications, Security, Cryptography"
+"This software allows you to hide folders and files securely.
+you can also save your notes with security.
+This software provides extra layer of security using AES 256 Encryption.
+
+
+Note: This will not encrypt your folder or files which you are hiding, this is only affect the Notes you are storing using this software.
+The Video shown below is for the Version 1.4.4 We recently upgraded the version to 4.0.0. with increased security and few animation to make app more interactive. We haven't get chance to make another video so bare with us please. Functionality is same so do not worry about it.
+
+You might see the audio manager at starting screen but not to worry this is used for a security purpose. you can double click on the Big Audio manager text and you will than redirected to the login screen.
+Please don't be a confuse between SafeLocker, Windows Folder Hider and Audio Manager Eventually all three are same :)
+
+Looking forward for your support and comments,
+Thanks :)This software allows you to hide folders and files securely.
+you can also save your notes with security.
+This software provides extra layer of security using AES 256 Encryption.
+
+
+Note: This will not encrypt your folder or files which you are hiding, this is only affect the Notes you are storing using this software.
+The Video shown below is for the Version 1.4.4 We recently upgraded the version to 4.0.0. with increased security and few animation to make app more interactive. We haven't get chance to make another video so bare with us please. Functionality is same so do not worry about it.
+
+You might see the audio manager at starting screen but not to worry this is used for a security purpose. you can double click on the Big Audio manager text and you will than redirected to the login screen.
+Please don't be a confuse between SafeLocker, Windows Folder Hider and Audio Manager Eventually all three are same :)
+
+Looking forward for your support and comments,
+Thanks :)","Categories
+Security, Window Managers, File Systems"
+"Mod of the original Faucet-in-a-Box faucet PHP script (based on its revision 69).
+
+Includes pre-installed Anti-Bot Links 5.75, full support of user balances, countdown timer and some other improvements and cool features.
+
+========================================
+Minimum requirements:
+PHP 5.4.4+ (5.5 recommended)
+MySQL (5.6 recommended)
+========================================
+
+CHANGELOG
+
+{ [F] - bugfixes, [+] - new features, [!] - known issues }
+
+Current release (version 7):
+[+]: CACert.pem updated to latest version.
+[+]: FaucetHub.php was replaced with native FaucetHub library!
+[+]: Faucet now has page ""Currency rate"", where you can see USD price of selected currency.
+[+]: Anti-Bot Links were updated to version 5.75
+[F]: + various related fixes & small changes.
+[!]: Script has no support for FaucetHub's ""last_status"" code and ""checkAddress()"" fn (at least, now)Mod of the original Faucet-in-a-Box faucet PHP script (based on its revision 69).
+
+Includes pre-installed Anti-Bot Links 5.75, full support of user balances, countdown timer and some other improvements and cool features.
+
+========================================
+Minimum requirements:
+PHP 5.4.4+ (5.5 recommended)
+MySQL (5.6 recommended)
+========================================
+
+CHANGELOG
+
+{ [F] - bugfixes, [+] - new features, [!] - known issues }
+
+Current release (version 7):
+[+]: CACert.pem updated to latest version.
+[+]: FaucetHub.php was replaced with native FaucetHub library!
+[+]: Faucet now has page ""Currency rate"", where you can see USD price of selected currency.
+[+]: Anti-Bot Links were updated to version 5.75
+[F]: + various related fixes & small changes.
+[!]: Script has no support for FaucetHub's ""last_status"" code and ""checkAddress()"" fn (at least, now)","Categories
+Anti-Spam, Bitcoin, Cryptocurrency"
+"HOFAT - graphical Hash Of File And Text calculator utility (Message Digest), 100%-pure Java, portable and cross-platform. Support md2, md5, sha1, sha256, sha384 and sha512 hashes. Simple and intuitive GUI - Graphical User Interface. Developed with Java Spring Framework. Tested in Windows/Linux. Need Jre-1.8 - https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html. Source - https://github.com/harp077/hofat/
+If you like this - put a star on https://github.com/harp077/hofat/ for support project please.HOFAT - graphical Hash Of File And Text calculator utility (Message Digest), 100%-pure Java, portable and cross-platform. Support md2, md5, sha1, sha256, sha384 and sha512 hashes. Simple and intuitive GUI - Graphical User Interface. Developed with Java Spring Framework. Tested in Windows/Linux. Need Jre-1.8 - https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html. Source - https://github.com/harp077/hofat/
+If you like this - put a star on https://github.com/harp077/hofat/ for support project please.","Categories
+Security, Cryptography, System"
+"Lock and unlock your personal files easily with this tool. You can just right click on a file and immediately lock it with your password. And when a file is locked, you can just double click it and enter your password to open it.
+It uses serious encryption algorithm, so be careful with your password! If you forget it, your file might permanently get unlockable.Lock and unlock your personal files easily with this tool. You can just right click on a file and immediately lock it with your password. And when a file is locked, you can just double click it and enter your password to open it.
+It uses serious encryption algorithm, so be careful with your password! If you forget it, your file might permanently get unlockable.","Categories
+Encryption, Encryption Algorithms"
+Make your data encrypted in a few clicks! Inscribe by Crypto Ststems helps you cut down development time by providing you with a flexible data encryptor interface. Inscribe is one of the easiest data encryptor tools available today. It also gives you the freedom to encrypt as much data as you like given the fact that it is a desktop app.Make your data encrypted in a few clicks! Inscribe by Crypto Ststems helps you cut down development time by providing you with a flexible data encryptor interface. Inscribe is one of the easiest data encryptor tools available today. It also gives you the freedom to encrypt as much data as you like given the fact that it is a desktop app.,"Categories
+Security, Scientific/Engineering"
+"Simple password manager that uses encryption AES 256. Translated into Russian.
+AES256 Password Manager (originally Encrypter) decoder is a text file that stores the passwords or other sensitive data is completely secure manner using encryption algorithm AES 256-bit.
+
+Official page http://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B8/aes256-password-manager-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.html
+
+Autor twitter: https://twitter.com/mrkaban546Simple password manager that uses encryption AES 256. Translated into Russian.
+AES256 Password Manager (originally Encrypter) decoder is a text file that stores the passwords or other sensitive data is completely secure manner using encryption algorithm AES 256-bit.
+
+Official page http://xn--90abhbolvbbfgb9aje4m.xn--p1ai/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B8/aes256-password-manager-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.html
+
+Autor twitter: https://twitter.com/mrkaban546","Categories
+Password Managers"
+"SRP6 Authentication Library for C# and Java. I originally wrote the Java version in college so it is a much simpler version of how SRP6 can be implemented. The Java version is a simple BlueJ project. For a solid description of SRP6, see https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol. Source is included with the zip file.SRP6 Authentication Library for C# and Java. I originally wrote the Java version in college so it is a much simpler version of how SRP6 can be implemented. The Java version is a simple BlueJ project. For a solid description of SRP6, see https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol. Source is included with the zip file.","Categories
+Communications, Security, Internet"
+"The latest version of LazLock is at https://github.com/cyberfilth/LazLock/releases
+
+A free, lightweight, portable password manager for Windows & GNU/Linux that encrypts your data with 128 bit AES encryption.
+LazLock also includes a password generator which allows you to create more secure passwords.
+
+A plain text version of your data is never written to disk as all decryption is done in memory.
+
+LazLock is truly portable, no installation is required so it can be run from a USB drive.
+Unlike similar programs, there are no dependencies on the .NET Framework (Windows) or Mono (Linux)
+
+-------------------------------------
+
+Easily Copy and Paste your login details into any website without having to manually type them out.
+Your passwords aren't shown on screen so you can use LazLock in front of others without compromising your security.
+
+Generate more secure passwords for the websites that you visit, you only need to remember one password to unlock them all.The latest version of LazLock is at https://github.com/cyberfilth/LazLock/releases
+
+A free, lightweight, portable password manager for Windows & GNU/Linux that encrypts your data with 128 bit AES encryption.
+LazLock also includes a password generator which allows you to create more secure passwords.
+
+A plain text version of your data is never written to disk as all decryption is done in memory.
+
+LazLock is truly portable, no installation is required so it can be run from a USB drive.
+Unlike similar programs, there are no dependencies on the .NET Framework (Windows) or Mono (Linux)
+
+-------------------------------------
+
+Easily Copy and Paste your login details into any website without having to manually type them out.
+Your passwords aren't shown on screen so you can use LazLock in front of others without compromising your security.
+
+Generate more secure passwords for the websites that you visit, you only need to remember one password to unlock them all.","Categories
+Security, Cryptography, Password Managers, Password Generators"
+"The script will use msfvenom (metasploit) to generate shellcode in diferent formats ( c | python | ruby | dll | msi | hta-psh ), injects the shellcode generated into one funtion (example: python) ""the python funtion will execute the shellcode in ram"" and uses compilers like: gcc (gnu cross compiler) or mingw32 or pyinstaller to build the executable file, also starts a multi-handler to recibe the remote connection (reverse shell or meterpreter session).
+--
+'shellcode generator' tool reproduces some of the technics used by Veil-Evasion framework, unicorn.py, powersploit, etc,etc,etc..""P.S. some payloads are undetectable by AV soluctions yes!!!"" one of the reazons for that its the use of a funtion to execute the 2º stage of shell/meterpreter directly into targets ram.The script will use msfvenom (metasploit) to generate shellcode in diferent formats ( c | python | ruby | dll | msi | hta-psh ), injects the shellcode generated into one funtion (example: python) ""the python funtion will execute the shellcode in ram"" and uses compilers like: gcc (gnu cross compiler) or mingw32 or pyinstaller to build the executable file, also starts a multi-handler to recibe the remote connection (reverse shell or meterpreter session).
+--
+'shellcode generator' tool reproduces some of the technics used by Veil-Evasion framework, unicorn.py, powersploit, etc,etc,etc..""P.S. some payloads are undetectable by AV soluctions yes!!!"" one of the reazons for that its the use of a funtion to execute the 2º stage of shell/meterpreter directly into targets ram.","Categories
+Security, Collaborative Development"
+"cppcrypto provides optimized implementations of cryptographic primitives.
+
+Hash functions: BLAKE, BLAKE2, Echo, Esch, Groestl, JH, Kupyna, MD5, SHA-1, SHA-2, SHA-3, SHAKE, Skein, SM3, Streebog, Whirlpool.
+
+Block ciphers: Anubis, Aria, Camellia, CAST-256, Kalyna, Kuznyechik, Mars, Serpent, Simon-128, SM4, Speck-128, Threefish, Twofish, and Rijndael (AES) with all block and key sizes.
+
+Stream ciphers: HC-128, HC-256, Salsa20, XSalsa20, ChaCha, XChaCha.
+
+Encryption modes: CBC, CTR.
+
+MAC functions: HMAC, Poly1305.
+
+Key derivation functions: PBKDF2, scrypt, Argon2 (Argon2i, Argon2d, Argon2id).
+
+Includes sample command-line tools:
+- 'digest' - for calculating and verifying file checksum(s) using any of the supported hash algorithms (similar to md5sum or RHash).
+- 'cryptor' - for file encryption using Serpent-256 algorithm (CBC mode with HMAC).
+
+Check out the cppcrypto web site linked below for programming documentation and performance comparison.cppcrypto provides optimized implementations of cryptographic primitives.
+
+Hash functions: BLAKE, BLAKE2, Echo, Esch, Groestl, JH, Kupyna, MD5, SHA-1, SHA-2, SHA-3, SHAKE, Skein, SM3, Streebog, Whirlpool.
+
+Block ciphers: Anubis, Aria, Camellia, CAST-256, Kalyna, Kuznyechik, Mars, Serpent, Simon-128, SM4, Speck-128, Threefish, Twofish, and Rijndael (AES) with all block and key sizes.
+
+Stream ciphers: HC-128, HC-256, Salsa20, XSalsa20, ChaCha, XChaCha.
+
+Encryption modes: CBC, CTR.
+
+MAC functions: HMAC, Poly1305.
+
+Key derivation functions: PBKDF2, scrypt, Argon2 (Argon2i, Argon2d, Argon2id).
+
+Includes sample command-line tools:
+- 'digest' - for calculating and verifying file checksum(s) using any of the supported hash algorithms (similar to md5sum or RHash).
+- 'cryptor' - for file encryption using Serpent-256 algorithm (CBC mode with HMAC).
+
+Check out the cppcrypto web site linked below for programming documentation and performance comparison.","Categories
+Cryptography, Libraries, Encryption Algorithms"
+"PentestBox is not like other Penetration Testing Distributions which runs on virtual machines.
+It is created because more than 50% of penetration testing distributions users uses windows. Source:- https://pentestbox.com/download_stats.txt
+So it provides an efficient platform for Penetration Testing on windows.PentestBox is not like other Penetration Testing Distributions which runs on virtual machines.
+It is created because more than 50% of penetration testing distributions users uses windows. Source:- https://pentestbox.com/download_stats.txt
+So it provides an efficient platform for Penetration Testing on windows.","Categories
+Penetration Testing"
+"A Java client/server application for filetransfer over unreliable networks.
+
+This project started as a diploma-project and after its release, we are proud to make it publicy available.A Java client/server application for filetransfer over unreliable networks.
+
+This project started as a diploma-project and after its release, we are proud to make it publicy available.","Categories
+Communications, Security, Internet"
+"Viral Tool is a smart easy-to-use software specially designed for one sole purpose ""Create Malwares"" . In this era of computers, threats have increased more then before & that's why software's like these come in handy. With this software we can create malwares in different formats. We can view & edit the source code of those malwares. Ethical Hackers can use this software in a secure way during pen testing.
+
+A Freeware By Malik Usman Aura
+Mail me at Usmanaura47@gmail.com
+
+For more info visit
+
+Project Website: http://viraltool.tk
+Leo Softwares Website: www.leosoftwares4u.tkViral Tool is a smart easy-to-use software specially designed for one sole purpose ""Create Malwares"" . In this era of computers, threats have increased more then before & that's why software's like these come in handy. With this software we can create malwares in different formats. We can view & edit the source code of those malwares. Ethical Hackers can use this software in a secure way during pen testing.
+
+A Freeware By Malik Usman Aura
+Mail me at Usmanaura47@gmail.com
+
+For more info visit
+
+Project Website: http://viraltool.tk
+Leo Softwares Website: www.leosoftwares4u.tk","Categories
+Security"
+"THIS PROJECT HAS BEEN MOVED TO https://sourceforge.net/p/aes256-password-manager/
+=========================
+M3D5 Password Manager is a just another password manager that allows you to collect your passwords into a txt files hashed in MD5 with a personal key.THIS PROJECT HAS BEEN MOVED TO https://sourceforge.net/p/aes256-password-manager/
+=========================
+M3D5 Password Manager is a just another password manager that allows you to collect your passwords into a txt files hashed in MD5 with a personal key.","Categories
+Password Managers"
+"Paranoia Text Encryption mantiene SMS, correos, mensajes de redes sociales, notas y cualquier otro texto a salvo de ladrones, hackers y fisgones.
+
+Basta con pegar texto copiado desde cualquier aplicación, o guardarlo en un archivo para usarlo más adelante.
+
+Paranoia Text Encryption keeps SMS, mails, messages from social networks, notes and any other text safe from thieves, hackers and snoopers.
+
+Simply paste text copied from any application, or save it in a file, use it more laterParanoia Text Encryption mantiene SMS, correos, mensajes de redes sociales, notas y cualquier otro texto a salvo de ladrones, hackers y fisgones.
+
+Basta con pegar texto copiado desde cualquier aplicación, o guardarlo en un archivo para usarlo más adelante.
+
+Paranoia Text Encryption keeps SMS, mails, messages from social networks, notes and any other text safe from thieves, hackers and snoopers.
+
+Simply paste text copied from any application, or save it in a file, use it more later","Categories
+Integrated Development Environments (IDE), Cryptography"
+"Encriptador es un sencillo sistema para convertir un texto cualquiera en caracteres equivalentes sin sentido, y después poderlos volver a convertir en texto normal.
+En una única interfaz realizaremos tanto la encriptación como la desencriptación. Sólo hará falta pegar el texto en su ventana correspondiente, que depende si es para desencriptar o para encriptar, y listoEncriptador es un sencillo sistema para convertir un texto cualquiera en caracteres equivalentes sin sentido, y después poderlos volver a convertir en texto normal.
+En una única interfaz realizaremos tanto la encriptación como la desencriptación. Sólo hará falta pegar el texto en su ventana correspondiente, que depende si es para desencriptar o para encriptar, y listo","Categories
+Cryptography"
+"CubePass is a lightweight, cross-platform, secure password manager. It works completely offline, so all you data is safely encrypted and stored on your PC. CubePass is extremely easy to use and works on Windows, Linux and OSX (Linux and OSX users currently needs to build the binaries, see README for very easy guide on how to do it). CubePass is regularly updated and is open for bug-fixes.
+
+No more forgetting your passwords! CubePass is completely free, ad-free and will always stay like that! (Donations welcome ;)CubePass is a lightweight, cross-platform, secure password manager. It works completely offline, so all you data is safely encrypted and stored on your PC. CubePass is extremely easy to use and works on Windows, Linux and OSX (Linux and OSX users currently needs to build the binaries, see README for very easy guide on how to do it). CubePass is regularly updated and is open for bug-fixes.
+
+No more forgetting your passwords! CubePass is completely free, ad-free and will always stay like that! (Donations welcome ;)","Categories
+Password Managers"
+A random password generator for Windows desktop which also has the ability to generate data from user input.A random password generator for Windows desktop which also has the ability to generate data from user input.,"Categories
+Security, Password Managers, Password Generators"
+"ctrshell is a powerfull php webshell for penetration testing.
+This PHP Webshell is Powered by CyberTeamRox and coded by Saheenshoukath alias
+Witch3r.
+
+Key Features:
+[+]Simple GUI for Fast connection.
+[+]Shell
+[+]Back Connection
+[+]Bind port
+[+]Symlink
+[+]Mass Defacer
+[+]Reverse ip with yougetsignal.comctrshell is a powerfull php webshell for penetration testing.
+This PHP Webshell is Powered by CyberTeamRox and coded by Saheenshoukath alias
+Witch3r.
+
+Key Features:
+[+]Simple GUI for Fast connection.
+[+]Shell
+[+]Back Connection
+[+]Bind port
+[+]Symlink
+[+]Mass Defacer
+[+]Reverse ip with yougetsignal.com","Categories
+Penetration Testing"
+"A small library of cool MS-DOS tools in a stand-alone application form. An example of some tool would be:
+Calculator or password generator.A small library of cool MS-DOS tools in a stand-alone application form. An example of some tool would be:
+Calculator or password generator.","Categories
+Password Generators"
+"It is a pure qt version of gtk-based cryptkeeper. It allows to create encrypted folders, mount them and import folders created by encFS utility.
+Program resides in system tray.It is a pure qt version of gtk-based cryptkeeper. It allows to create encrypted folders, mount them and import folders created by encFS utility.
+Program resides in system tray.","Categories
+Cryptography"
+"FoldersProtection is software distributed for free, which allows management of your folders , protecting them access to any other user .FoldersProtection is software distributed for free, which allows management of your folders , protecting them access to any other user .","Categories
+Password Managers"
+"Looking for a simple way to use FB login method without FB sdk? Then you are in luck, because this is the most simplest login method for Facebook that could be made.
+
+Requirements
+- Timer
+- Textbox 1 ""Username""
+- TextBox 2 ""Password""
+- Button1 ""Login""
+
+It's simple as that, no need for any other addons!
+Read more about it @http://mecode.vysilhq.com/2014/08/visual-basic-facebook-login-without-sdk.htmlLooking for a simple way to use FB login method without FB sdk? Then you are in luck, because this is the most simplest login method for Facebook that could be made.
+
+Requirements
+- Timer
+- Textbox 1 ""Username""
+- TextBox 2 ""Password""
+- Button1 ""Login""
+
+It's simple as that, no need for any other addons!
+Read more about it @http://mecode.vysilhq.com/2014/08/visual-basic-facebook-login-without-sdk.html","Categories
+Communications, Security, Logging"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Local or remote terminals (javax.smartcardio)
+Supports SCP01, SCP02, SCP03
+OpenPlatform 2.0.1 to GlobalPlatform 2.2.1
+Works with virtually any unlocked JavaCard","Categories
+Cryptography, Software Testing, Installation/Setup"
+"Steganosia allow to hide every type of files into picture.
+it also can extract the content previously binded to picture.Steganosia allow to hide every type of files into picture.
+it also can extract the content previously binded to picture.","Categories
+Security"
+"A user-friendly, cross-platform utility for managing and accessing your most secret data. It stores passwords and whole files, so it can literally store any information you want to keep secret. Access your most-used passwords/URLs right out of a desktop tray icon.
+
+For advanced users, it includes a separate utility called Grypto-Transforms, which has a universal hash calculator with all the major hash functions, generic encrypt/decrypt functions and a base64/hex converter.
+
+It's not just easy to use, it's also highly secure. Security experts will be happy to know that it uses AES with CCM and has a solid security concept.A user-friendly, cross-platform utility for managing and accessing your most secret data. It stores passwords and whole files, so it can literally store any information you want to keep secret. Access your most-used passwords/URLs right out of a desktop tray icon.
+
+For advanced users, it includes a separate utility called Grypto-Transforms, which has a universal hash calculator with all the major hash functions, generic encrypt/decrypt functions and a base64/hex converter.
+
+It's not just easy to use, it's also highly secure. Security experts will be happy to know that it uses AES with CCM and has a solid security concept.","Categories
+Cryptography, Password Managers, Hash Calculators"
+"CryptoPad is a Java based file encryptor ! It can encrypt every type of file. The icing on the cake is that it's 100% cross-platform. i.e. You can run the same .jar file on Windows, Mac OS, Linux and any OS capable of running JRE 8 :)
+
+CryptoPad uses AES-128 bit symmetric key encryption to secure your data.CryptoPad is a Java based file encryptor ! It can encrypt every type of file. The icing on the cake is that it's 100% cross-platform. i.e. You can run the same .jar file on Windows, Mac OS, Linux and any OS capable of running JRE 8 :)
+
+CryptoPad uses AES-128 bit symmetric key encryption to secure your data.","Categories
+Cryptography, Cross Compilers"
+"Porky Port Scanner is light weight TCP and UDP port scanner for windows that also performs host discovery.
+No installation nessasary - just run Porky Port Scanner straight from the exe and start scanning!Porky Port Scanner is light weight TCP and UDP port scanner for windows that also performs host discovery.
+No installation nessasary - just run Porky Port Scanner straight from the exe and start scanning!","Categories
+Security, Systems Administration, Networking"
+OpenSSH QNX4 PortOpenSSH QNX4 Port,"Categories
+Security"
+KeePass Plugin to count and show entries sharing a passwordKeePass Plugin to count and show entries sharing a password,"Categories
+Security, Password Managers"
+This plugin allows you to combine the power of Total Commander with the security of SFTP (using SSH) and the comfort of PuTTY.This plugin allows you to combine the power of Total Commander with the security of SFTP (using SSH) and the comfort of PuTTY.,"Categories
+Security, Other file transfer protocol, SSH"
+"µVault is a portable file protector and browser capable of creating a secure and hidden file system for your personal files.
+
+Visit the wiki for instructions and update information.
+https://sourceforge.net/p/microvault/wiki/Index/
+
+µVault version 2.0 released!
+
+µVault 2.0 is a beta-stage release finally ready for public testing using a completely new filesystem structure that greatly increases the import/export speed of the software and completely removes the delay that occurred when opening or closing the program.
+A few minor changes were made to the UI as well in an attempt to make it a bit more user-friendly.
+Expect more updates soon as bugs are found and fixed.
+Mac and Linux binary releases are on the way.
+
+Search Tags:
+- µVault
+- uVault
+- MicroVault
+- SneaksyµVault is a portable file protector and browser capable of creating a secure and hidden file system for your personal files.
+
+Visit the wiki for instructions and update information.
+https://sourceforge.net/p/microvault/wiki/Index/
+
+µVault version 2.0 released!
+
+µVault 2.0 is a beta-stage release finally ready for public testing using a completely new filesystem structure that greatly increases the import/export speed of the software and completely removes the delay that occurred when opening or closing the program.
+A few minor changes were made to the UI as well in an attempt to make it a bit more user-friendly.
+Expect more updates soon as bugs are found and fixed.
+Mac and Linux binary releases are on the way.
+
+Search Tags:
+- µVault
+- uVault
+- MicroVault
+- Sneaksy","Categories
+Security, Cryptography, Encryption"
+"V2.0 (30th Dec 2014). It is a USB Malware Cleaner.
+This is a small tool that removes malicious scripts created by virus or malware, unhides folder and files, deletes all shortcut from selected drive. Also disables autorun completely and provides option to enable registry, folder options and task manager. Visit the project website for more information.V2.0 (30th Dec 2014). It is a USB Malware Cleaner.
+This is a small tool that removes malicious scripts created by virus or malware, unhides folder and files, deletes all shortcut from selected drive. Also disables autorun completely and provides option to enable registry, folder options and task manager. Visit the project website for more information.","Categories
+Security, Systems Administration, Anti-Malware"
+"The ugtrain is the universal elite game trainer for the command line on Linux under GPLv3. Its dynamic memory support sets it apart. A preloader, a memory discovery and a memory hacking library are included for this. Other features: config file per game, included FOSS game example configs, simplified discovery, security bypassing, automatic adaptation to compiling differences.
+
+This project is mostly handled on GitHub: https://github.com/ugtrain/ugtrainThe ugtrain is the universal elite game trainer for the command line on Linux under GPLv3. Its dynamic memory support sets it apart. A preloader, a memory discovery and a memory hacking library are included for this. Other features: config file per game, included FOSS game example configs, simplified discovery, security bypassing, automatic adaptation to compiling differences.
+
+This project is mostly handled on GitHub: https://github.com/ugtrain/ugtrain","Categories
+Security, Games/Entertainment, Education"
+"It's a cross platform utility designed for performing various checksumming activities. It supports verity of standards including ADLER-32, CRC-32, MD2, MD5, MURMUR-32, MURMUR-128, SHA-1, SHA-256, SHA-384, SHA-512 and SIPHASH24. Also generated results can be validated within the application. Results can be saved to a text file format. It can batch process folders as well. This tool requires Java Run-time Environment 7 or higher to use.It's a cross platform utility designed for performing various checksumming activities. It supports verity of standards including ADLER-32, CRC-32, MD2, MD5, MURMUR-32, MURMUR-128, SHA-1, SHA-256, SHA-384, SHA-512 and SIPHASH24. Also generated results can be validated within the application. Results can be saved to a text file format. It can batch process folders as well. This tool requires Java Run-time Environment 7 or higher to use.","Categories
+Security, Cryptography, Logging"
+"Penetration-Testing-Toolkit is a web based project to automate Scanning a network,Exploring CMS, Generating Undectable metasploit payload, DNS-Queries, IP related informations, Information Gathering, Domain related info etcPenetration-Testing-Toolkit is a web based project to automate Scanning a network,Exploring CMS, Generating Undectable metasploit payload, DNS-Queries, IP related informations, Information Gathering, Domain related info etc","Categories
+Security, Internet, OS distribution, Penetration Testing"
+"E-mail Spoofer is a tool designed for penetration testers who need to send phishing e-mails.
+
+It allows to send mails to a single recipient or a list, it supports plain text/html email formats, attachments, templates and more...
+
+
+Update Version 1.1:
+===============
+
+* Added text conversion to Homographs for bypassing spam filters. (based on http://www.exploit-db.com/wp-content/themes/exploit/docs/20114.pdf)
+* Added Reply-To header
+* Added Sender Name Field
+* Added Built in User Agent
+* Detailed error log
+
+If you find this tool useful crypto currency donations are welcome:
+
+Bitcoin: 1Kksc9b4WZ5X36xGDgpodPVpBSozMje6ui
+Litecoin: LQ1JCMxo122FpJ8iKX7HsrNtjCacpTkkFWE-mail Spoofer is a tool designed for penetration testers who need to send phishing e-mails.
+
+It allows to send mails to a single recipient or a list, it supports plain text/html email formats, attachments, templates and more...
+
+
+Update Version 1.1:
+===============
+
+* Added text conversion to Homographs for bypassing spam filters. (based on http://www.exploit-db.com/wp-content/themes/exploit/docs/20114.pdf)
+* Added Reply-To header
+* Added Sender Name Field
+* Added Built in User Agent
+* Detailed error log
+
+If you find this tool useful crypto currency donations are welcome:
+
+Bitcoin: 1Kksc9b4WZ5X36xGDgpodPVpBSozMje6ui
+Litecoin: LQ1JCMxo122FpJ8iKX7HsrNtjCacpTkkFW","Categories
+Email, Email Clients, Security"
+"Python3 port of Frank Tobin's Python GnuPGInterface incorporating the --keyring and --secret-keyring patch. ""Python GnuPGInterface is meant to be a filehandle-concentrating Python interface to GnuPG, the GNU Privacy Guard. It has an API similar to the Perl module GnuPG::Interface"" and identical to the Python2 module GnuPGInterface.Python3 port of Frank Tobin's Python GnuPGInterface incorporating the --keyring and --secret-keyring patch. ""Python GnuPGInterface is meant to be a filehandle-concentrating Python interface to GnuPG, the GNU Privacy Guard. It has an API similar to the Perl module GnuPG::Interface"" and identical to the Python2 module GnuPGInterface.","Categories
+Cryptography"
+"This is a plugin to KeePass <http://www.KeePass.info> to add support for AutoType displaying the matching entry that gets auto-typed. This can be done either with a separate hotkey, or by including a {SHOWENTRY} placeholder in the AutoType sequenceThis is a plugin to KeePass <http://www.KeePass.info> to add support for AutoType displaying the matching entry that gets auto-typed. This can be done either with a separate hotkey, or by including a {SHOWENTRY} placeholder in the AutoType sequence","Categories
+Password Managers"
+"!!! UPDATED 8/12/2014 !!!
+
+Solak K&D (key and dagger)
+
+Ubuntu 12.04.4 LTS w/ Kali (debian) kernel 3.7
+
+
+This is a penetration testing distribution that has been heavily themed to look like Windows 8 for obvious penetration testing purposes. It relies heavily on Xfce4.10 and compiz.
+
+For now only available in 32bit (x86)
+
+To install use unetbootin or burn to dvd.
+
+Works with VMWARE
+
+Login: root / toor :: user / resu
+
+Type in terminal:
+
+
+Please don't install on a computer that has important info on another partition unless you know what your doing.
+
+post-install notes: IMPORTANT INFO:
+http://0e800.weebly.com/install-notes.html
+
+This is the community edition of Solak K&D - more information can be found found here:
+http://forum.top-hat-sec.com/index.php?topic=4239.0
+
+Please review wiki for latest fixes.
+
+I can be contacted by email or found on forum.top-hat-sec.com!!! UPDATED 8/12/2014 !!!
+
+Solak K&D (key and dagger)
+
+Ubuntu 12.04.4 LTS w/ Kali (debian) kernel 3.7
+
+
+This is a penetration testing distribution that has been heavily themed to look like Windows 8 for obvious penetration testing purposes. It relies heavily on Xfce4.10 and compiz.
+
+For now only available in 32bit (x86)
+
+To install use unetbootin or burn to dvd.
+
+Works with VMWARE
+
+Login: root / toor :: user / resu
+
+Type in terminal:
+
+
+Please don't install on a computer that has important info on another partition unless you know what your doing.
+
+post-install notes: IMPORTANT INFO:
+http://0e800.weebly.com/install-notes.html
+
+This is the community edition of Solak K&D - more information can be found found here:
+http://forum.top-hat-sec.com/index.php?topic=4239.0
+
+Please review wiki for latest fixes.
+
+I can be contacted by email or found on forum.top-hat-sec.com","Categories
+Security, OS distribution, Live CD, Penetration Testing"

@@ -1,0 +1,669 @@
+Description,Category
+"Writes and reads complete drive images to/from SD drives.
+
+Running on Windows 7 and above, requires .NET Framework 4.5
+
+Because Win32DiskImager didn't work on my computers (Win7 + Win8), I decided to write my own tool using VS2013 and .Net 4.5.
+
+Currently it can read and write Images from/to SD drives or other via USB attached storage. Basic formatting functionality is also included.
+
+Please write a review! ThxWrites and reads complete drive images to/from SD drives.
+
+Running on Windows 7 and above, requires .NET Framework 4.5
+
+Because Win32DiskImager didn't work on my computers (Win7 + Win8), I decided to write my own tool using VS2013 and .Net 4.5.
+
+Currently it can read and write Images from/to SD drives or other via USB attached storage. Basic formatting functionality is also included.
+
+Please write a review! Thx","Categories
+Storage"
+"The main focus is to have a small, updated and stable distribution that is fully compatible with official Raspbian image, without GUI and unneeded tools.
+So this image is perfect for embedded projects, or wherever you need to use all RPi resources for your specific tasks.
+The main advantage is that MINIBIAN has a very small footprint, boots in some seconds and uses just few of precious RPi RAM.
+Unlike other similar projects, MINIBIAN has not been obtained purging unneeded packages from original image, neither recompiling the source code: it’s just a customized Raspbian installation obtained from the same repository used for official RPi image.
+So kernel and binary files are exactely the same you will find on standard image, with the difference that MINIBIAN fit on 1GB SD Card, is fastest, and updated more often.The main focus is to have a small, updated and stable distribution that is fully compatible with official Raspbian image, without GUI and unneeded tools.
+So this image is perfect for embedded projects, or wherever you need to use all RPi resources for your specific tasks.
+The main advantage is that MINIBIAN has a very small footprint, boots in some seconds and uses just few of precious RPi RAM.
+Unlike other similar projects, MINIBIAN has not been obtained purging unneeded packages from original image, neither recompiling the source code: it’s just a customized Raspbian installation obtained from the same repository used for official RPi image.
+So kernel and binary files are exactely the same you will find on standard image, with the difference that MINIBIAN fit on 1GB SD Card, is fastest, and updated more often.","Categories
+OS distribution"
+"Web application for browsing and searching contact details within an LDAP directory. Supports Microsoft/Samba Active Directory, OpenLDAP and Novell eDirectory.Web application for browsing and searching contact details within an LDAP directory. Supports Microsoft/Samba Active Directory, OpenLDAP and Novell eDirectory.","Categories
+LDAP, Groupware"
+"vEMan - [v]Mware [E]SX [Man]ager provides a GUI for managing ESX servers natively from within your Linux desktop without the need to use Windows vSphere® anymore!
+
+Support vEMan development for v2.0 by gofundme!
+http://www.gofundme.com/vEMan
+
+Why I started vEMan? Because I hate it to start my Windows VM to manage ESX(i) servers ;o)
+
+vEMan is (maybe) not needed if you use vCenter 5.x: http://kb.vmware.com/kb/2005377
+--> vSphere >= v5 has a ""web client""
+BUT keep in mind that there are caveats: Not all features are available in the web client AND it can connect to vCenters only (see: http://kb.vmware.com/kb/1006095)
+
+- ESX(i) v3.x or 4.x?
+- v5.x - but no vCenter?
+- you want a native Linux vSphere client?
+
+Then try vEMan!
+
+-------
+vEMan is not published or pronounced by VMware Inc. vEMan is an OpenSource project from a private person without any warranty or claim to bother VMware Inc. VMware,vSphere,ESX/ESXi,vCenter are trademarks by VMware Inc.vEMan - [v]Mware [E]SX [Man]ager provides a GUI for managing ESX servers natively from within your Linux desktop without the need to use Windows vSphere® anymore!
+
+Support vEMan development for v2.0 by gofundme!
+http://www.gofundme.com/vEMan
+
+Why I started vEMan? Because I hate it to start my Windows VM to manage ESX(i) servers ;o)
+
+vEMan is (maybe) not needed if you use vCenter 5.x: http://kb.vmware.com/kb/2005377
+--> vSphere >= v5 has a ""web client""
+BUT keep in mind that there are caveats: Not all features are available in the web client AND it can connect to vCenters only (see: http://kb.vmware.com/kb/1006095)
+
+- ESX(i) v3.x or 4.x?
+- v5.x - but no vCenter?
+- you want a native Linux vSphere client?
+
+Then try vEMan!
+
+-------
+vEMan is not published or pronounced by VMware Inc. vEMan is an OpenSource project from a private person without any warranty or claim to bother VMware Inc. VMware,vSphere,ESX/ESXi,vCenter are trademarks by VMware Inc.","Categories
+Virtual Machine, Systems Administration, OS distribution"
+"*** For the latest v5 with integrated YouTube Web (controllable with the YouTube app on your phone) please download from https://www.microsoft.com/en-gb/p/sleep/9ppgrg6t7dcj ***
+
+Do you use your computer for playback of films, streamed TV etc. before going to sleep?
+
+In these cases, Windows' sleep functionality is suspended and won't kick in once the video has finished.
+
+The solution for many is to use a sleep timer to send the computer to sleep after the estimated amount of time of the video. But you need to remember to do this every time. Sleep# handles this automatically:
+
+Sleep# sends your computer to sleep after the playback of fullscreen video, providing Windows has been idle for a predefined amount of time.
+
+There is a grace period at the end of the fullscreen video before sending your computer to sleep, allowing you to interrupt the process should you still be awake.
+
+Sleep# works with VLC media player, Windows Media Player, Google Play Movies & TV amongst others.*** For the latest v5 with integrated YouTube Web (controllable with the YouTube app on your phone) please download from https://www.microsoft.com/en-gb/p/sleep/9ppgrg6t7dcj ***
+
+Do you use your computer for playback of films, streamed TV etc. before going to sleep?
+
+In these cases, Windows' sleep functionality is suspended and won't kick in once the video has finished.
+
+The solution for many is to use a sleep timer to send the computer to sleep after the estimated amount of time of the video. But you need to remember to do this every time. Sleep# handles this automatically:
+
+Sleep# sends your computer to sleep after the playback of fullscreen video, providing Windows has been idle for a predefined amount of time.
+
+There is a grace period at the end of the fullscreen video before sending your computer to sleep, allowing you to interrupt the process should you still be awake.
+
+Sleep# works with VLC media player, Windows Media Player, Google Play Movies & TV amongst others.","Categories
+Media Players, Home Theater PC, Home Automation"
+"Weblooker monitors serveral services on multiple systems for their status, up- and downtimes. A webgui and Android client to view the current status and logged downtimes is available as separately package.Weblooker monitors serveral services on multiple systems for their status, up- and downtimes. A webgui and Android client to view the current status and logged downtimes is available as separately package.","Categories
+Monitoring, Logging"
+"Matriux is a GNU/Linux, Debian based security distribution designed for penetration testing and cyber forensic investigations. It is a distribution designed for security enthusiasts and professionals, can also be used normally as your default OS.Matriux is a GNU/Linux, Debian based security distribution designed for penetration testing and cyber forensic investigations. It is a distribution designed for security enthusiasts and professionals, can also be used normally as your default OS.","Categories
+Security, OS distribution, Penetration Testing"
+"With this little windows program, you will be able to copy, or move, multiple files and folders to multiple destinations in only one step.With this little windows program, you will be able to copy, or move, multiple files and folders to multiple destinations in only one step.","Categories
+File Managers, File Systems"
+"phpWatch is a flexible service monitoring system. Features include multiple contact methods for when services malfunction, multiple query methods, statistics gathering, and a fully extendable architecture for developers.phpWatch is a flexible service monitoring system. Features include multiple contact methods for when services malfunction, multiple query methods, statistics gathering, and a fully extendable architecture for developers.","Categories
+Site Management, Systems Administration, Logging"
+ISO2USB utility creates bootable USB drive from CentOS/RedHat 5.x/6.x installation disk or corresponding ISO image. Created USB drive may be used to perform installation on machines that lacks optical drive.ISO2USB utility creates bootable USB drive from CentOS/RedHat 5.x/6.x installation disk or corresponding ISO image. Created USB drive may be used to perform installation on machines that lacks optical drive.,"Categories
+Software Distribution, Installation/Setup"
+"Server bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manualsServer bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manuals","Categories
+Email, Database, File Transfer Protocol (FTP), Site Management, HTTP Servers, Interpreters, Email Servers"
+"Blocks ""known bad"" IP-addresses from accessing your machine, especially corporate/governmental agencies. This is a fork of PeerGuardian 2, fixing various Vista/Win7 problems.Blocks ""known bad"" IP-addresses from accessing your machine, especially corporate/governmental agencies. This is a fork of PeerGuardian 2, fixing various Vista/Win7 problems.","Categories
+File Sharing, Firewall"
+"The OVAL Interpreter is a freely available reference implementation that demonstrates the evaluation of OVAL Definitions. Based on a set of OVAL Definitions the interpreter collects system information, evaluates it, and generates a detailed OVAL Results file.
+
+Developed to demonstrate the usability of OVAL Definitions and to ensure correct syntax and adherence to the OVAL Schemas by definition writers, it is not a fully functional scanning tool nor an enterprise scanning tool. It is a simplistic, command-line application that has the ability to execute OVAL Content on an end system. To learn more about organizations that provide OVAL content and tools or otherwise support the OVAL Language, please see the OVAL Adoption Program (http://oval.mitre.org/adoption/).The OVAL Interpreter is a freely available reference implementation that demonstrates the evaluation of OVAL Definitions. Based on a set of OVAL Definitions the interpreter collects system information, evaluates it, and generates a detailed OVAL Results file.
+
+Developed to demonstrate the usability of OVAL Definitions and to ensure correct syntax and adherence to the OVAL Schemas by definition writers, it is not a fully functional scanning tool nor an enterprise scanning tool. It is a simplistic, command-line application that has the ability to execute OVAL Content on an end system. To learn more about organizations that provide OVAL content and tools or otherwise support the OVAL Language, please see the OVAL Adoption Program (http://oval.mitre.org/adoption/).","Categories
+Security, Systems Administration"
+"A MAME and MESS port with an advanced video support for Arcade Monitors, TVs, and PC Monitors. It also contains a bootable Linux LiveCD/USB, a frontend with animated MNG/MP3 snapshots, a rom manager, and recompression utilities for compressed files.A MAME and MESS port with an advanced video support for Arcade Monitors, TVs, and PC Monitors. It also contains a bootable Linux LiveCD/USB, a frontend with animated MNG/MP3 snapshots, a rom manager, and recompression utilities for compressed files.","Categories
+Games/Entertainment, Emulators"
+"A C++ diagnostic logging API that is simple to use, 100% type-safe, generic, infinitely-extensible, atomic, platform-independent, and extremely efficient. And, best of all, it upholds the spirit of C: you only pay for what you use.A C++ diagnostic logging API that is simple to use, 100% type-safe, generic, infinitely-extensible, atomic, platform-independent, and extremely efficient. And, best of all, it upholds the spirit of C: you only pay for what you use.","Categories
+Software Development, Logging"
+Official guide to zeroshell (zeroshell.net): Linux distribution for servers and embedded devicesOfficial guide to zeroshell (zeroshell.net): Linux distribution for servers and embedded devices,"Categories
+Systems Administration"
+"Use your favorite keyboard layout everywhere! I learned the Colemak keyboard layout, but I can not install at school, so I wrote a portable keyboard layout program in autohotkey. It no requires install or administrator privileges.Use your favorite keyboard layout everywhere! I learned the Colemak keyboard layout, but I can not install at school, so I wrote a portable keyboard layout program in autohotkey. It no requires install or administrator privileges.","Categories
+Other/Nonlisted Topic, Hardware Drivers"
+File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.,"Categories
+Security, Frameworks, File Managers, Logging"
+"A network access control (NAC) system featuring a captive-portal for registration and remediation, wired and wireless management, 802.1X support, isolation of devices, integration with IDS; it can be used to secure networks from small to large.
+
+Source code is hosted here: https://github.com/inverse-inc/packetfence
+Issue tracker tracker is hosted here: http://www.packetfence.org/bugs/A network access control (NAC) system featuring a captive-portal for registration and remediation, wired and wireless management, 802.1X support, isolation of devices, integration with IDS; it can be used to secure networks from small to large.
+
+Source code is hosted here: https://github.com/inverse-inc/packetfence
+Issue tracker tracker is hosted here: http://www.packetfence.org/bugs/","Categories
+Security, Wireless, Monitoring"
+A portable and cycle-accurate NES/Famicom emulator written in C++A portable and cycle-accurate NES/Famicom emulator written in C++,"Categories
+Games/Entertainment, Emulators"
+"The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""The RecordEditor is a Data File editor for Flat Files (delimited and fixed field position). It supports Unix / PC / Legacy (e.g. Mainframe) file formats, both Text and binary files.
+
+The Editor uses a Record-Layout description to format the files. This is ideal for Fixed width (Text or Binary) files, Cobol Data Files, Mainframe files and complicated Csv files. Cobol Copybooks can be used to format Cobol Data files.
+
+As well as an editor, The following utilities are supplied
+* Formatted Compare
+* File Copy and reformat Utility
+* FileWizard this is use to work out the format of a File. It can generally find both Text and binary / packed deicimal fields in a file
+
+
+For Simple Csv you should look at its sister project reCsvEditor.
+
+Note: The core Editor code is also used in the ""Protocol buffers editor"" and ""Avro Editor""","Categories
+Text Editors, Data Formats, Software Testing, Mainframe"
+Simple program that displays information about CUDA-enabled devices. The program is equipped with GPU performance test.Simple program that displays information about CUDA-enabled devices. The program is equipped with GPU performance test.,"Categories
+Hardware"
+MC4J is a Swing application for remote monitoring and administration using Java Management Extensions (JMX). It includes support for all major application servers and advanced features such as live attribute graphing and customizable dashboards.MC4J is a Swing application for remote monitoring and administration using Java Management Extensions (JMX). It includes support for all major application servers and advanced features such as live attribute graphing and customizable dashboards.,"Categories
+Systems Administration"
+"PowerShell open source cross-platform reimplementation. Works on Windows, WinMobile, WinCE, Mac, Linux, Solaris, etc... Provides a rich shell environment for wide veriety of operating systems as well as to provide a hostable scripting engine.PowerShell open source cross-platform reimplementation. Works on Windows, WinMobile, WinCE, Mac, Linux, Solaris, etc... Provides a rich shell environment for wide veriety of operating systems as well as to provide a hostable scripting engine.","Categories
+System Shells"
+"Squashfs is a highly compressed read-only filesystem for Linux. Squashfs compresses both files, inodes and directories, and supports block sizes up to 1Mbytes for greater compression. It is implemented as a kernel module under VFS.Squashfs is a highly compressed read-only filesystem for Linux. Squashfs compresses both files, inodes and directories, and supports block sizes up to 1Mbytes for greater compression. It is implemented as a kernel module under VFS.","Categories
+Operating System Kernels, File Systems"
+Emu10k1 sound driverEmu10k1 sound driver,"Categories
+File Sharing, Hardware Drivers"
+"Kedora 2022
+Secure, Fast and Simple Distro, made for IT SstudentsKedora 2022
+Secure, Fast and Simple Distro, made for IT Sstudents","Categories
+Live CD"
+Armadeus is an OpenSource Hardware and Software project based on an ARM core (Freescale i.MX) and Linux. You can consult our wiki at http://www.armadeus.org to join our non profit association or our commercial website at http://www.armadeus.com .Armadeus is an OpenSource Hardware and Software project based on an ARM core (Freescale i.MX) and Linux. You can consult our wiki at http://www.armadeus.org to join our non profit association or our commercial website at http://www.armadeus.com .,"Categories
+Build Tools, Installation/Setup, Hardware"
+"NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.","Categories
+Security, Monitoring, Internet"
+"Amoeba is a proxy that sits between your client and DB server(s) that can monitor, analyze or transform their communication. written in java. 1.load balancing 2、failover; 3、queries Route.projects:amoeba for mysql ,for mongodb,for aladdinAmoeba is a proxy that sits between your client and DB server(s) that can monitor, analyze or transform their communication. written in java. 1.load balancing 2、failover; 3、queries Route.projects:amoeba for mysql ,for mongodb,for aladdin","Categories
+Database, Software Development, Load Balancers"
+"UPDATE: Chromium is no longer updated or maintained. The project is frozen.
+
+Chromium is a flexible framework for scalable real-time rendering on clusters of workstations, derived from the Stanford WireGL project code base.UPDATE: Chromium is no longer updated or maintained. The project is frozen.
+
+Chromium is a flexible framework for scalable real-time rendering on clusters of workstations, derived from the Stanford WireGL project code base.","Categories
+Clustering, 3D Rendering, Data Visualization"
+Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.,"Categories
+Desktop Environment, Software Development, Search"
+"An Open Community in the Home Automation and Domotics space. We believe an Open Source approach can revolutionize the way people create, install, and maintain software in the industry.
+
+Our panel technology integrates with your favorite protocol and runtime hardware through Open Source software. We open up the front-end and support a unified panel and visual programming model. An installer can pick and choose hardware products from different vendors and still present one panel UI to the user. A proprietary hardware vendor can build modern panel support and integrate with existing vendors.
+
+Whether you are a DIY aficionado, a high-end installer, a hardware vendor or integrator, OpenRemote has something for you. We want to make OpenRemote the standard for commercial and hobbyist integration alike. We allow any integrator or vendor to write plug-ins and bring innovative tools that simplify the work of an installer and the relationship with the client.An Open Community in the Home Automation and Domotics space. We believe an Open Source approach can revolutionize the way people create, install, and maintain software in the industry.
+
+Our panel technology integrates with your favorite protocol and runtime hardware through Open Source software. We open up the front-end and support a unified panel and visual programming model. An installer can pick and choose hardware products from different vendors and still present one panel UI to the user. A proprietary hardware vendor can build modern panel support and integrate with existing vendors.
+
+Whether you are a DIY aficionado, a high-end installer, a hardware vendor or integrator, OpenRemote has something for you. We want to make OpenRemote the standard for commercial and hobbyist integration alike. We allow any integrator or vendor to write plug-ins and bring innovative tools that simplify the work of an installer and the relationship with the client.","Categories
+Mobile, Home Automation"
+"Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.","Categories
+Cryptography, Algorithms, File Managers"
+"FullSync is a powerful tool that helps you keep multiple copies of various data in sync. I.e. it can update your Website using (S)Ftp, backup your data or refresh a working copy from a remote server. It offers flexible rules, a scheduler and moreFullSync is a powerful tool that helps you keep multiple copies of various data in sync. I.e. it can update your Website using (S)Ftp, backup your data or refresh a working copy from a remote server. It offers flexible rules, a scheduler and more","Categories
+File Transfer Protocol (FTP), Site Management, Backup"
+VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio specification. It is intended as a replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio specification. It is intended as a replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.,"Categories
+Hardware Drivers, Sound/Audio"
+"ksar is a sar graphing tool that can graph for now linux,mac and solaris sar output. sar statistics graph can be output to a pdf fileksar is a sar graphing tool that can graph for now linux,mac and solaris sar output. sar statistics graph can be output to a pdf file","Categories
+Systems Administration"
+rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs.rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs.,"Categories
+Boot"
+"ASuite is an application launcher to manage an unlimited number of files, folders and webpage for quick access. It is designed to work with removable storage (uses relative paths) media like USB sticks, hard drives, iPods, etc.ASuite is an application launcher to manage an unlimited number of files, folders and webpage for quick access. It is designed to work with removable storage (uses relative paths) media like USB sticks, hard drives, iPods, etc.","Categories
+Desktop Environment, File Managers, Software Distribution"
+Boot Info Script is a bash script which searches all hard drives attached to the computer for information related to booting. Its primary use is for troubleshooting booting problems. For instructions see: http://bootinfoscript.sourceforge.netBoot Info Script is a bash script which searches all hard drives attached to the computer for information related to booting. Its primary use is for troubleshooting booting problems. For instructions see: http://bootinfoscript.sourceforge.net,"Categories
+Installation/Setup, Boot"
+"Zabbix is an enterprise-class open source distributed monitoring solution designed to monitor and track performance and availability of network servers, devices and other IT resources. It supports distributed and WEB monitoring, auto-discovery, and more.
+
+An enterprise-class distributed monitoring solution for networks & appsZabbix is an enterprise-class open source distributed monitoring solution designed to monitor and track performance and availability of network servers, devices and other IT resources. It supports distributed and WEB monitoring, auto-discovery, and more.
+
+An enterprise-class distributed monitoring solution for networks & apps","Categories
+Systems Administration, Monitoring, Logging"
+Library to enable user space application programs to communicate with USB devicesLibrary to enable user space application programs to communicate with USB devices,"Categories
+Software Development, Hardware, Libraries"
+"EasyPeasy is a lightweight operating system for netbooks, designed for the Internet and low power consumption.EasyPeasy is a lightweight operating system for netbooks, designed for the Internet and low power consumption.","Categories
+Office/Business, Operating System Kernels, Live CD"
+The FUSE project has moved to https://github.com/libfuse/The FUSE project has moved to https://github.com/libfuse/,"Categories
+Operating System Kernels, File Systems"
+"Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.","Categories
+Board Games, Puzzle Games, User Interface (UI), File Managers, HMI, Media Players"
+Edit and create launchd configuration files in Mac OS X LeopardEdit and create launchd configuration files in Mac OS X Leopard,"Categories
+System"
+"This project provides a full set of libraries to manage VMware Infrastructure and vSphere. 2.0+ includes a new Web Service engine much faster/smaller than Apach AXIS. Start @ http://vijava.sf.net Blog @ http://doublecloud.org Twitter: @sjin2008
+
+For commercial support and product vijavaNG, visit http://www.doublecloud.net.This project provides a full set of libraries to manage VMware Infrastructure and vSphere. 2.0+ includes a new Web Service engine much faster/smaller than Apach AXIS. Start @ http://vijava.sf.net Blog @ http://doublecloud.org Twitter: @sjin2008
+
+For commercial support and product vijavaNG, visit http://www.doublecloud.net.","Categories
+Virtual Machine, Systems Administration"
+"This projects aim is to bring a range of linux distros to your android device through a method known as 'chroot', see it has running a linux distro within a virtual machine on your phone. You can access this virtual machine and run it on your phone without causing any damage to your device, or having to overwrite anything. Why might you want this? well my apps are designed to make the install and set up process as easy as possible (more so in the paid apps) while still giving you some flexibility. Once you have the distro up and running then you can pretty much run and install any linux software you like (so long as there is a arm port or it is not architecturaly dependent).This projects aim is to bring a range of linux distros to your android device through a method known as 'chroot', see it has running a linux distro within a virtual machine on your phone. You can access this virtual machine and run it on your phone without causing any damage to your device, or having to overwrite anything. Why might you want this? well my apps are designed to make the install and set up process as easy as possible (more so in the paid apps) while still giving you some flexibility. Once you have the distro up and running then you can pretty much run and install any linux software you like (so long as there is a arm port or it is not architecturaly dependent).","Categories
+OS distribution"
+"Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.","Categories
+Security, Monitoring, Internet"
+"Using this free download manager and accelerator, you can download files and complete web sites up to 6 times faster than before. Also we plan to port it to Linux and Mac OS.Using this free download manager and accelerator, you can download files and complete web sites up to 6 times faster than before. Also we plan to port it to Linux and Mac OS.","Categories
+Internet, Download Managers"
+"GamutLogViewer© is log file, logfile, viewer that works with Log4J, Log4Net, NLog, and user defined formats including ColdFusion. It supports filtering, searching, highlighting and many other useful features. This is a Windows application.GamutLogViewer© is log file, logfile, viewer that works with Log4J, Log4Net, NLog, and user defined formats including ColdFusion. It supports filtering, searching, highlighting and many other useful features. This is a Windows application.","Categories
+Logging"
+"SnmpB is an SNMP MIB browser written in QT. It supports SNMPv1, SNMPv2c & SNMPv3. SnmpB can browse/edit/load/add MIB files and can query SNMP agents. It also supports agent discovery, trap events, and graph plotting.SnmpB is an SNMP MIB browser written in QT. It supports SNMPv1, SNMPv2c & SNMPv3. SnmpB can browse/edit/load/add MIB files and can query SNMP agents. It also supports agent discovery, trap events, and graph plotting.","Categories
+Networking"
+"Talend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.comTalend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.com","Categories
+Data Formats, Enterprise, Data Warehousing, Front-Ends, Code Generators, Distributed Computing, ETL"
+"An automated, Web based IP address management (IPAM) software. It features powerful search and filter functions for both networks and host, as well as many tools (e.g. a subnet calculator) helping Administrators to plan and handle complex IP networksAn automated, Web based IP address management (IPAM) software. It features powerful search and filter functions for both networks and host, as well as many tools (e.g. a subnet calculator) helping Administrators to plan and handle complex IP networks","Categories
+Networking, IT Subnet Calculators"
+"CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.","Categories
+Build Tools, Compilers, Interpreters, System Shells, Artificial Intelligence, Mathematics"
+"The ""Open On-Chip Debugger"" provides JTAG/SWD access from GDB (or directly with TCL scripts) to processors with ARM and MIPS based cores.
+
+See website for full list of supported targets.The ""Open On-Chip Debugger"" provides JTAG/SWD access from GDB (or directly with TCL scripts) to processors with ARM and MIPS based cores.
+
+See website for full list of supported targets.","Categories
+Debuggers, Hardware"
+"This project provides an open source MacOS v10.14-v12.6 (Mojave to Monterey) compatible CoreMIDI 64 bit device driver for M-Audio's MIDISPORT range of USB MIDI interfaces. This driver supports the following devices:
+
+MIDISPORT 1x1
+MIDISPORT 2x2
+MIDISPORT 4x4
+MIDISPORT 8x8/S
+Oxygen 8 Keyboard
+
+Other devices which are compatible may also work, although presently, these are the only ones which have been tested.This project provides an open source MacOS v10.14-v12.6 (Mojave to Monterey) compatible CoreMIDI 64 bit device driver for M-Audio's MIDISPORT range of USB MIDI interfaces. This driver supports the following devices:
+
+MIDISPORT 1x1
+MIDISPORT 2x2
+MIDISPORT 4x4
+MIDISPORT 8x8/S
+Oxygen 8 Keyboard
+
+Other devices which are compatible may also work, although presently, these are the only ones which have been tested.","Categories
+Hardware Drivers, MIDI"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+CAF Based ROM
+Statusbar Customization
+Navigation Bar Customization
+UI Cistomization
+Polished UI
+Lock Screen Customization","Categories
+ROMs"
+"Please, refer to the Github project site to get support and give feedback
+or visit our forums
+https://artixlinux.org/forum/Please, refer to the Github project site to get support and give feedback
+or visit our forums
+https://artixlinux.org/forum/","Categories
+OS distribution, Live CD"
+"IMPORTANT!!!
+Since this is new software, your web browser, operating system or even possibly antivirus software may report security alerts against this tool. Please ignore that messages until this tool gets widely spread.
+
+This program is highly inspired by Win32 Disk Imager and sort of copies it's function.
+
+However, I've added some features, like verification of readed/writed image file and the most important is on the fly support for zipped images.
+
+Another features worth mentioning are simultaneous write to multiple devices at one time or wiping of device filesystem and partitions.
+
+I would be happy to hear your feedback and I'm ready to listen to your suggestions. Feel free to request new features, if I found them interesting I will definitely implement them.
+
+Requires .NET Framework 4.6.1 (download here: http://go.microsoft.com/fwlink/?LinkId=671729 )
+Supports Windows 7 and newer.
+If you need older Windows support, use Win32 Disk Imager.
+
+Please write a review.IMPORTANT!!!
+Since this is new software, your web browser, operating system or even possibly antivirus software may report security alerts against this tool. Please ignore that messages until this tool gets widely spread.
+
+This program is highly inspired by Win32 Disk Imager and sort of copies it's function.
+
+However, I've added some features, like verification of readed/writed image file and the most important is on the fly support for zipped images.
+
+Another features worth mentioning are simultaneous write to multiple devices at one time or wiping of device filesystem and partitions.
+
+I would be happy to hear your feedback and I'm ready to listen to your suggestions. Feel free to request new features, if I found them interesting I will definitely implement them.
+
+Requires .NET Framework 4.6.1 (download here: http://go.microsoft.com/fwlink/?LinkId=671729 )
+Supports Windows 7 and newer.
+If you need older Windows support, use Win32 Disk Imager.
+
+Please write a review.","Categories
+Storage, Backup"
+"GUI Ping Monitor is a very easy to use, intuitive, with a clear interface tool. It allows you to ping any number of devices. A glance at GUI Ping Monitor and you know which devices have no communication.
+
+Currently GUI Ping Monitor provides:
+- ping utility.
+- Name Server lookup.
+
+Latest features:
+- address of ping target is displayed (if you ping by hostname)
+- configurable quick ping settings
+- always on top setting
+- application exists in system tray and remember position and size
+- display modes (basic and extended)
+- sound notifications.
+
+New features will be added in the nearest feature.GUI Ping Monitor is a very easy to use, intuitive, with a clear interface tool. It allows you to ping any number of devices. A glance at GUI Ping Monitor and you know which devices have no communication.
+
+Currently GUI Ping Monitor provides:
+- ping utility.
+- Name Server lookup.
+
+Latest features:
+- address of ping target is displayed (if you ping by hostname)
+- configurable quick ping settings
+- always on top setting
+- application exists in system tray and remember position and size
+- display modes (basic and extended)
+- sound notifications.
+
+New features will be added in the nearest feature.","Categories
+Monitoring"
+"MAX home automation is a GTK+ application to manage ELV/eQ-3 MAX! cubes. A cube is a gateway to a network of radiator thermostats, shutter contacts etc. Radiator and wall-mounted thermostat schedule can be edited uploaded, stored into a file and restored from there. Wall-mounted thermostat temperature graphs are indicated on a separate page sorted by the installation room. HTTP server is provided for integration with HTTP-enabled controls. E.g. thermostats can be queried and controlled remotely via HTTP GET-queries.MAX home automation is a GTK+ application to manage ELV/eQ-3 MAX! cubes. A cube is a gateway to a network of radiator thermostats, shutter contacts etc. Radiator and wall-mounted thermostat schedule can be edited uploaded, stored into a file and restored from there. Wall-mounted thermostat temperature graphs are indicated on a separate page sorted by the installation room. HTTP server is provided for integration with HTTP-enabled controls. E.g. thermostats can be queried and controlled remotely via HTTP GET-queries.","Categories
+Building Automation, Thermostat, MQTT Brokers"
+"We all know someone who tried to switch to Linux but was unsuccessful. The system that he tried was too different from what he was used to, there were too many new things and the old things were not where he expected. The goal of this project is to let anyone get used to Linux.
+This system is not too different from Xubuntu, on which it is based, but ChaletOS has a style that everyone knows well, appealing simplicity and an impressive speed. All this will let them to fall in love with this system quickly. Because of its small hardware requirements it will revive some old machines and refresh others, not so old.
+The name ChaletOS came from the style of the mountain houses in Switzerland. The concept of these houses is similar to the concept that we had while we made this system: simplicity, beauty and recognizability. Since we want the new users to feel at home, we hope this project will meet this goal.We all know someone who tried to switch to Linux but was unsuccessful. The system that he tried was too different from what he was used to, there were too many new things and the old things were not where he expected. The goal of this project is to let anyone get used to Linux.
+This system is not too different from Xubuntu, on which it is based, but ChaletOS has a style that everyone knows well, appealing simplicity and an impressive speed. All this will let them to fall in love with this system quickly. Because of its small hardware requirements it will revive some old machines and refresh others, not so old.
+The name ChaletOS came from the style of the mountain houses in Switzerland. The concept of these houses is similar to the concept that we had while we made this system: simplicity, beauty and recognizability. Since we want the new users to feel at home, we hope this project will meet this goal.","Categories
+System"
+"TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org. It contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads. TurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance. TurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative.
+
+TurboVNC forked from TightVNC in 2004 and still covers all of the TightVNC 1.3.x features, but TurboVNC contains numerous feature enhancements and bug fixes relative to TightVNC, and it compresses 3D and video workloads much better than TightVNC while using generally only 5-20% of the CPU time of the latter. Using non-default settings, TurboVNC can also be made to compress 2D workloads as ""tightly"" as TightVNC.TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org. It contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads. TurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance. TurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative.
+
+TurboVNC forked from TightVNC in 2004 and still covers all of the TightVNC 1.3.x features, but TurboVNC contains numerous feature enhancements and bug fixes relative to TightVNC, and it compresses 3D and video workloads much better than TightVNC while using generally only 5-20% of the CPU time of the latter. Using non-default settings, TurboVNC can also be made to compress 2D workloads as ""tightly"" as TightVNC.","Categories
+Systems Administration, Distributed Computing, Data Visualization, Remote Desktop"
+"ZEsarUX - ZX Second-Emulator And Released for UniX
+
+WARNING: This is an OLD repository. It has been moved to:
+https://github.com/chernandezba/zesarux
+
+It's a ZX Machines Emulator for Unix, including all the Sinclair computers:
+
+-MK14
+-ZX80
+-ZX81
+-ZX Spectrum
+-QL
+-Z88
+
+And also:
+
+-Timex TS 2068
+-Sam Coupe
+-Pentagon
+-Chloe 140 SE, 280 SE
+-Chrome
+-Prism
+-ZX-Uno
+-ZX-Evolution TS-Conf
+-TBBlue/ZX Spectrum Next
+-Jupiter Ace
+-Amstrad CPC 464
+
+ZEsarUX source code and binaries are distributed under GNU GPL license. ZEsarUX also includes third-party roms, media, programs and games NOT covered by this license
+
+
+This is my second ZX Spectrum emulator after ZXSpectr
+http://sourceforge.net/projects/zxspectr/
+
+Available versions for download here:
+-Source code
+-Binary compiled versions:
+--Linux 32/64 Bits
+--Mac OS X
+--Windows
+--Raspberry pi (raspbian)
+
+Other by 3rd party:
+-Arch Linux:
+-Retropie/EmulationStation
+-Open Pandora
+-PocketCHIP
+-MorhpOSZEsarUX - ZX Second-Emulator And Released for UniX
+
+WARNING: This is an OLD repository. It has been moved to:
+https://github.com/chernandezba/zesarux
+
+It's a ZX Machines Emulator for Unix, including all the Sinclair computers:
+
+-MK14
+-ZX80
+-ZX81
+-ZX Spectrum
+-QL
+-Z88
+
+And also:
+
+-Timex TS 2068
+-Sam Coupe
+-Pentagon
+-Chloe 140 SE, 280 SE
+-Chrome
+-Prism
+-ZX-Uno
+-ZX-Evolution TS-Conf
+-TBBlue/ZX Spectrum Next
+-Jupiter Ace
+-Amstrad CPC 464
+
+ZEsarUX source code and binaries are distributed under GNU GPL license. ZEsarUX also includes third-party roms, media, programs and games NOT covered by this license
+
+
+This is my second ZX Spectrum emulator after ZXSpectr
+http://sourceforge.net/projects/zxspectr/
+
+Available versions for download here:
+-Source code
+-Binary compiled versions:
+--Linux 32/64 Bits
+--Mac OS X
+--Windows
+--Raspberry pi (raspbian)
+
+Other by 3rd party:
+-Arch Linux:
+-Retropie/EmulationStation
+-Open Pandora
+-PocketCHIP
+-MorhpOS","Categories
+Games/Entertainment, Simulation Games, Emulators"
+"CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.","Categories
+Security, Networking, Internet"
+"Korora is a 64bit installable Fedora Remix Live image, which aims to provide a complete out of the box experience for new users, including support for multimedia content. It comes with choice of five desktops, being Cinnamon, GNOME, KDE, MATE and Xfce.Korora is a 64bit installable Fedora Remix Live image, which aims to provide a complete out of the box experience for new users, including support for multimedia content. It comes with choice of five desktops, being Cinnamon, GNOME, KDE, MATE and Xfce.","Categories
+KDE, GNOME, OS distribution"
+TIKIONE HAS MOVED TO GITHUB! => https://github.com/jonathanlermitage/tikione-steam-cleaner/releasesTIKIONE HAS MOVED TO GITHUB! => https://github.com/jonathanlermitage/tikione-steam-cleaner/releases,"Categories
+Games/Entertainment, System"
+"Tomato USB is a fork of popular Tomato firmware (http://www.polarcloud.com/tomato) for Broadcom-based routers. This fork adds built-in support for USB port, wireless-N mode support, support for several newer router models, and various enhancements.Tomato USB is a fork of popular Tomato firmware (http://www.polarcloud.com/tomato) for Broadcom-based routers. This fork adds built-in support for USB port, wireless-N mode support, support for several newer router models, and various enhancements.","Categories
+Wireless"
+"IOS6 and recent iTunes updates have broken a few features. We have made some partial fixes, but they are not complete. If you'd like to help support our development, or take over the development please let us know.
+
+Explore the internal file structure of your iphone (or of a seized phone in the case of forensic teams) using either the iphone's own backup files or (for jail broken iphones) ssh. Viewing of plist, sqlite, and hex are supported. IOS 5 is now supported
+
+iOS 6 only partially works at the moment (some features fail or are missing). Unfortunately paid work means we can't fix this right now, but would welcome anyone else submitting patches.IOS6 and recent iTunes updates have broken a few features. We have made some partial fixes, but they are not complete. If you'd like to help support our development, or take over the development please let us know.
+
+Explore the internal file structure of your iphone (or of a seized phone in the case of forensic teams) using either the iphone's own backup files or (for jail broken iphones) ssh. Viewing of plist, sqlite, and hex are supported. IOS 5 is now supported
+
+iOS 6 only partially works at the moment (some features fail or are missing). Unfortunately paid work means we can't fix this right now, but would welcome anyone else submitting patches.","Categories
+Security, Mobile, Data Recovery"
+tvpvrd - (TV Personal Video Recorder Daemon). A Unix server/daemon to make scheduled recordings of TV broadcasts using one or multiple Video capture cards with optional automatic transcoding (using ffmpeg)tvpvrd - (TV Personal Video Recorder Daemon). A Unix server/daemon to make scheduled recordings of TV broadcasts using one or multiple Video capture cards with optional automatic transcoding (using ffmpeg),"Categories
+Video Converters, Video Capture, Load Balancers"
+"fslurp is a program to pull the data from a Fronius inverter systems
+via a serial port connection.
+
+It supports both single and multiple inverter systems through the
+Interface Card Easy and the Fronius Interface Card/DataLogger Box. Fronius Sensor Card devices are also supported.
+
+It supports both human-readable and delimited (CSV-style) text output.
+
+Sample output can be seen by building project and exercising one
+of the test simulator targets (e.g. simIFCEasy).
+
+It is written in C++ and has been compiled on Linux.fslurp is a program to pull the data from a Fronius inverter systems
+via a serial port connection.
+
+It supports both single and multiple inverter systems through the
+Interface Card Easy and the Fronius Interface Card/DataLogger Box. Fronius Sensor Card devices are also supported.
+
+It supports both human-readable and delimited (CSV-style) text output.
+
+Sample output can be seen by building project and exercising one
+of the test simulator targets (e.g. simIFCEasy).
+
+It is written in C++ and has been compiled on Linux.","Categories
+Embedded Systems, Home Automation"
+SMBNetFS is a Linux/FreeBSD filesystem that allow you to use samba/microsoft network in the same manner as the network neighborhood in Microsoft Windows. Please donate me to help in SMBNetFS development.SMBNetFS is a Linux/FreeBSD filesystem that allow you to use samba/microsoft network in the same manner as the network neighborhood in Microsoft Windows. Please donate me to help in SMBNetFS development.,"Categories
+File Systems"
+"Apple Disk Transfer ProDOS (ADTPro) transfers classic 8-bit Apple disk images over a serial, ethernet or audio link to a more modern computer. Based on the seminal ADT, ADTPro can transfer any ProDOS- or SOS-visible volume.Apple Disk Transfer ProDOS (ADTPro) transfers classic 8-bit Apple disk images over a serial, ethernet or audio link to a more modern computer. Based on the seminal ADT, ADTPro can transfer any ProDOS- or SOS-visible volume.","Categories
+Communications, Emulators"
+"KShutdown is a graphical shutdown utility for Linux and Windows. It allows you to turn off or suspend a computer at a specified time. It features various time and delay options, command-line support, and notifications.KShutdown is a graphical shutdown utility for Linux and Windows. It allows you to turn off or suspend a computer at a specified time. It features various time and delay options, command-line support, and notifications.","Categories
+KDE, System"
+"This ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1cThis ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1c","Categories
+Telephony, Cryptography, Code Generators, Compilers, Networking, Interface Engine/Protocol Translator"
+"A pure-Python library for performing client operations using the WBEM CIM-XML protocol.
+
+Attention: This project has been moved to http://pywbem.github.ioA pure-Python library for performing client operations using the WBEM CIM-XML protocol.
+
+Attention: This project has been moved to http://pywbem.github.io","Categories
+Systems Administration, Monitoring"
+Output spool reader for Snort! This program decouples output overhead from the Snort network intrusion detection system and allows Snort to run at full speed. It takes input and output plugins and can therefore be used to convert almost any spooled filOutput spool reader for Snort! This program decouples output overhead from the Snort network intrusion detection system and allows Snort to run at full speed. It takes input and output plugins and can therefore be used to convert almost any spooled fil,"Categories
+Security, Monitoring, Logging"
+Nueva versión con soporte para pseudo tmpfs. Ahora la cantidad de archivos copiados puede exceder la cantidad de RAM del sistema!!Nueva versión con soporte para pseudo tmpfs. Ahora la cantidad de archivos copiados puede exceder la cantidad de RAM del sistema!!,"Categories
+File Managers, Init, File Systems"
+"NConf is a PHP based web-tool for configuring the Nagios monitoring software. It differs from similar tools by offering enterprise-class features like templates, dependencies and the ability to configure a large-scale, distributed Nagios topology.NConf is a PHP based web-tool for configuring the Nagios monitoring software. It differs from similar tools by offering enterprise-class features like templates, dependencies and the ability to configure a large-scale, distributed Nagios topology.","Categories
+Enterprise, Systems Administration, Monitoring"
+AUSTRUMI is a business card size (50MB) bootable Live CD Linux distribution.AUSTRUMI is a business card size (50MB) bootable Live CD Linux distribution.,"Categories
+System"
+"ReactOS Server is a fork of ReactOS which aims to be compatible to the NT architecture (but not a clone)and optmizire for server systems.Provide secure and stable OS, based on highly modified Linux Kernel, own package system, like ""BSD Ports"".ReactOS Server is a fork of ReactOS which aims to be compatible to the NT architecture (but not a clone)and optmizire for server systems.Provide secure and stable OS, based on highly modified Linux Kernel, own package system, like ""BSD Ports"".","Categories
+KDE, GNOME, System Shells, Operating System Kernels"
+"MooseFS (MFS) is a fault tolerant, highly performing, scaling-out, network distributed file system. It spreads data over several physical servers which are visible to the user as one resource. For standard file operations MooseFS mounted with FUSE acts as other Unix-alike file systems:
+
+* A hierarchical structure (directory tree)
+* Stores POSIX file attributes (permissions, last access and modification times)
+Supports special files (block and character devices, pipes and sockets)
+* Symbolic links (file names pointing to target files, not necessarily on MooseFS) and hard links (different names of files which refer to the same data on MooseFS)
+* Access to the file system can be limited based on IP address and/or password
+
+MooseFS on GitHub:
+https://github.com/moosefs/moosefs
+
+Packages repository, download:
+https://moosefs.com/download
+
+Documentation:
+https://moosefs.com/support
+
+Recent changes:
+https://github.com/moosefs/moosefs/blob/master/NEWSMooseFS (MFS) is a fault tolerant, highly performing, scaling-out, network distributed file system. It spreads data over several physical servers which are visible to the user as one resource. For standard file operations MooseFS mounted with FUSE acts as other Unix-alike file systems:
+
+* A hierarchical structure (directory tree)
+* Stores POSIX file attributes (permissions, last access and modification times)
+Supports special files (block and character devices, pipes and sockets)
+* Symbolic links (file names pointing to target files, not necessarily on MooseFS) and hard links (different names of files which refer to the same data on MooseFS)
+* Access to the file system can be limited based on IP address and/or password
+
+MooseFS on GitHub:
+https://github.com/moosefs/moosefs
+
+Packages repository, download:
+https://moosefs.com/download
+
+Documentation:
+https://moosefs.com/support
+
+Recent changes:
+https://github.com/moosefs/moosefs/blob/master/NEWS","Categories
+Clustering, Distributed Computing, File Systems"
+GPL Licensed builds of the VirtualBox source code available at www.virtualbox.org. Note that VirtualBox is a trademark of Sun Microsystems so these releases are named VBox.GPL Licensed builds of the VirtualBox source code available at www.virtualbox.org. Note that VirtualBox is a trademark of Sun Microsystems so these releases are named VBox.,"Categories
+Emulators, Software Distribution"
+Python wrapper for global input hooks in Windows. The package provides callbacks for mouse and keyboard events; events can be monitored and filtered.Python wrapper for global input hooks in Windows. The package provides callbacks for mouse and keyboard events; events can be monitored and filtered.,"Categories
+System"
+"Krusader is a twin-panel (commander style) filemanager for KDE. It supports mime-type, complete drag n' drop, multiple filesystems, archives, bookmarks etc. Krusader's GUI is intuitive, and allows an easy access to all of your file-management needs.Krusader is a twin-panel (commander style) filemanager for KDE. It supports mime-type, complete drag n' drop, multiple filesystems, archives, bookmarks etc. Krusader's GUI is intuitive, and allows an easy access to all of your file-management needs.","Categories
+KDE, File Managers"
+"A collection of enhanced PPD files for Canon Pixma MP600 and MP610 all-in-one printers, and a Sane scanner driver for Canon Pixma MP140, MP210, MP520, MP610, MP710, MX700 for up to 4800 dpi resolution, that can be used with Sane 1.0.18 or 1.0.19.A collection of enhanced PPD files for Canon Pixma MP600 and MP610 all-in-one printers, and a Sane scanner driver for Canon Pixma MP140, MP210, MP520, MP610, MP710, MX700 for up to 4800 dpi resolution, that can be used with Sane 1.0.18 or 1.0.19.","Categories
+Hardware Drivers, Printing, Scanner"
+"Sudo for Windows (sudowin) allows authorized users to launch processes with elevated privileges using their own passphrase. Unlike the runas command, Sudo for Windows preserves the user's profile and ownership of created objects.Sudo for Windows (sudowin) allows authorized users to launch processes with elevated privileges using their own passphrase. Unlike the runas command, Sudo for Windows preserves the user's profile and ownership of created objects.","Categories
+Systems Administration"
+"UnixODBC.pm provides a Perl API for the unixODBC driver manager and a bridge API for unixODBC network queries. The sample text-mode, GUI, and Web clients can manage multiple hosts and DBMSs and create RSS output.UnixODBC.pm provides a Perl API for the unixODBC driver manager and a bridge API for unixODBC network queries. The sample text-mode, GUI, and Web clients can manage multiple hosts and DBMSs and create RSS output.","Categories
+Front-Ends, Database Engines/Servers, Message Board, CGI Scripts, Distributed Computing"
+The Abstract Large File (ALF) project is a portable library for writing files that can be larger than 2GB or contain holes on systems that don't natively support one or both properties.The Abstract Large File (ALF) project is a portable library for writing files that can be larger than 2GB or contain holes on systems that don't natively support one or both properties.,"Categories
+Software Development, File Systems"
+"Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.","Categories
+Communications, Wireless, Command Line Tools"
+This project will host a service which will contain virtual packages (using MS App Virtualization and SVS technologies) of most common Open source apps. Kindly use the tracker to suggest for opensource applications which we shall publish.This project will host a service which will contain virtual packages (using MS App Virtualization and SVS technologies) of most common Open source apps. Kindly use the tracker to suggest for opensource applications which we shall publish.,"Categories
+Software Distribution"
+The Technical Library Template Interface is a library capable of providing standardized interfaces in Creative Commons EAL-4 standards to the open source community.The Technical Library Template Interface is a library capable of providing standardized interfaces in Creative Commons EAL-4 standards to the open source community.,"Categories
+Frameworks, System Shells, Systems Administration"
+"*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.","Categories
+Security, Authentication/Directory, Libraries"
+"FS-Inspect is an easy to use tool designed to give you an overview about your files and directories (Disk Usage).
+
+On start up, it reads recursively the inspected directory and presents the content in two useful views:
+
+* The folder view, shows the directory tree, sub-folders are sorted by size.
+* The type view, shows all file types found, sorted by the total size.
+
+In the post scan, the utility start searching for duplicates. All duplicates are listed in the file view, colored depending on their MD5-checksum.
+
+It is possible to configure the duplicate search in the settings. To optimize the duplicate search, hashes are stored in a database. If a directory is inspected many a time, there is no need to compute the performance-expensive check-sum again.FS-Inspect is an easy to use tool designed to give you an overview about your files and directories (Disk Usage).
+
+On start up, it reads recursively the inspected directory and presents the content in two useful views:
+
+* The folder view, shows the directory tree, sub-folders are sorted by size.
+* The type view, shows all file types found, sorted by the total size.
+
+In the post scan, the utility start searching for duplicates. All duplicates are listed in the file view, colored depending on their MD5-checksum.
+
+It is possible to configure the duplicate search in the settings. To optimize the duplicate search, hashes are stored in a database. If a directory is inspected many a time, there is no need to compute the performance-expensive check-sum again.","Categories
+Storage, Systems Administration, File Systems"
+InstallJammer is a multiplatform GUI installer and builder. InstallJammer is no longer under active development.InstallJammer is a multiplatform GUI installer and builder. InstallJammer is no longer under active development.,"Categories
+Software Development, Software Distribution, Installation/Setup"
+"gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.","Categories
+Cryptography, GNOME, Networking"
+Configurable tool which allows Java applications to be installed and controlled like native NT or Unix services. Includes fault correction software to automatically restart crashed or frozen JVMs. Critical when app is needed 24x7. Built for flexibility.Configurable tool which allows Java applications to be installed and controlled like native NT or Unix services. Includes fault correction software to automatically restart crashed or frozen JVMs. Critical when app is needed 24x7. Built for flexibility.,"Categories
+Software Development, Monitoring, Installation/Setup"
+"Terminal Server Client [tsclient] is a GTK2 frontend for rdesktop and other remote desktop tools.
+
+This project has been superseded by Remmina - https://sourceforge.net/projects/remmina/Terminal Server Client [tsclient] is a GTK2 frontend for rdesktop and other remote desktop tools.
+
+This project has been superseded by Remmina - https://sourceforge.net/projects/remmina/","Categories
+GNOME, Remote Desktop"
+"Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.","Categories
+Communications, Office/Business, Frameworks, Hardware Drivers, Interface Engine/Protocol Translator"

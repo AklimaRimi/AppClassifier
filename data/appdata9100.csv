@@ -1,0 +1,769 @@
+Description,Category
+"Cohesive zone model (CZM) is a powerful method to study many cracking phenomena. Cohesive interface elements constitute a simple to implement yet valuable tool to implement CZM. This project provides a simple C++ code that reads a finite element mesh, modify it and generate cohesive interface elements where needed. It can read Gmsh (http://geuz.org/gmsh/) or ABAQUS input files and write the mesh to any format such as ABAQUS and jive (http://www.dynaflow.com/en_GB/jive.html). The code was written by VP Nguyen (google scholar link: http://scholar.google.com/citations?user=jCqqCAoAAAAJ&hl=en) when he was at TU Delft and the algorithm is described in the article
+
+VP Nguyen, ""An open source program to generate zero-thickness cohesive interface elements"", Advances in Engineering Software, 2014(74), 27--39.
+
+The code was compiled in Ubuntu/Mac OS (a gnu makefile is provided) and Windows (Microsoft Visual Studio). You have to install the library Boost (http://www.boost.org) first.Cohesive zone model (CZM) is a powerful method to study many cracking phenomena. Cohesive interface elements constitute a simple to implement yet valuable tool to implement CZM. This project provides a simple C++ code that reads a finite element mesh, modify it and generate cohesive interface elements where needed. It can read Gmsh (http://geuz.org/gmsh/) or ABAQUS input files and write the mesh to any format such as ABAQUS and jive (http://www.dynaflow.com/en_GB/jive.html). The code was written by VP Nguyen (google scholar link: http://scholar.google.com/citations?user=jCqqCAoAAAAJ&hl=en) when he was at TU Delft and the algorithm is described in the article
+
+VP Nguyen, ""An open source program to generate zero-thickness cohesive interface elements"", Advances in Engineering Software, 2014(74), 27--39.
+
+The code was compiled in Ubuntu/Mac OS (a gnu makefile is provided) and Windows (Microsoft Visual Studio). You have to install the library Boost (http://www.boost.org) first.","Categories
+Scientific/Engineering"
+"June 24, 2021. This project has been updated to STEPS project at github since March 21, 2018. Please go to https://github.com/changgang/steps for latest version.
+
+_______________________________
+
+Great news. Version 0.6.6 is released with HVDC and Switched shunt model for powerflow.
+
+Please leave feedback to the developer.
+
+N.Tesla is an open source project to provide students and researchers of EE with a tool to implement new models for power system study and research. N.Tesla is short for Numerical TransiEnt SimuLAtor for power system and is in memory of Nikola Tesla, one the greatest scientists in alternating current power system.
+
+If you have any questions, please contact the author by send email to [lichgang AT gmail DOT com] or leave feedback in the Discussion forum.
+
+Mailing List for N.Tesla: http://www.freelists.org/list/ntesla
+Mailing List for N.Tesla Developer: http://www.freelists.org/list/ntesla-devJune 24, 2021. This project has been updated to STEPS project at github since March 21, 2018. Please go to https://github.com/changgang/steps for latest version.
+
+_______________________________
+
+Great news. Version 0.6.6 is released with HVDC and Switched shunt model for powerflow.
+
+Please leave feedback to the developer.
+
+N.Tesla is an open source project to provide students and researchers of EE with a tool to implement new models for power system study and research. N.Tesla is short for Numerical TransiEnt SimuLAtor for power system and is in memory of Nikola Tesla, one the greatest scientists in alternating current power system.
+
+If you have any questions, please contact the author by send email to [lichgang AT gmail DOT com] or leave feedback in the Discussion forum.
+
+Mailing List for N.Tesla: http://www.freelists.org/list/ntesla
+Mailing List for N.Tesla Developer: http://www.freelists.org/list/ntesla-dev","Categories
+Simulation"
+"Clustering Variation looks for a good subset of attributes in order to improve the classification accuracy of supervised learning techniques in classification problems with a huge number of attributes involved. It first creates a ranking of attributes based on the Variation value, then divide into two groups, last using Verification method to select the best group.Clustering Variation looks for a good subset of attributes in order to improve the classification accuracy of supervised learning techniques in classification problems with a huge number of attributes involved. It first creates a ranking of attributes based on the Variation value, then divide into two groups, last using Verification method to select the best group.","Categories
+Machine Learning"
+"⭐Please leave me a review⭐ I live on feedback📬
+
+This software allows staff to perform cell differentials using a keyboard. Simple $ useful!
+A new MSI installer has been created - an icon will appear on the desktop.
+*****************************************************************************
+Don't be alarmed when installing the program.
+Windows will display an alert showing ""unrecognized app"", just click more info and then click run anyway to install WBC Diff counter. This warning should go away once the program has gained reputation as safe.
+And I haven't purchased a Microsoft Authenticode certificate so publisher will always show ""Unknown""
+******************************************************************************
+Requirements:
+Windows 7, 8, or Windows 10
+.net 4.5.2 required
+
+*Program may not work on Windows XP. older versions support Windows X⭐Please leave me a review⭐ I live on feedback📬
+
+This software allows staff to perform cell differentials using a keyboard. Simple $ useful!
+A new MSI installer has been created - an icon will appear on the desktop.
+*****************************************************************************
+Don't be alarmed when installing the program.
+Windows will display an alert showing ""unrecognized app"", just click more info and then click run anyway to install WBC Diff counter. This warning should go away once the program has gained reputation as safe.
+And I haven't purchased a Microsoft Authenticode certificate so publisher will always show ""Unknown""
+******************************************************************************
+Requirements:
+Windows 7, 8, or Windows 10
+.net 4.5.2 required
+
+*Program may not work on Windows XP. older versions support Windows X","Categories
+Medical, Healthcare"
+"This project includes several Python and bash scripts designed to connect Geiger Muller counters to report their results to RadMon.org. Soon the script will also feature local logging, graphing and alerting.
+
+Just because the Cold War is ""over"" does not mean that there is no more threat of a radiological attack. In fact, the U.S. Homeland Security Council lists the ""Detonation of a 10 Megaton Improvised Nuclear Device"" as ""Scenario #1"" among the top 15 threats to American security. Or, if you do not believe that a nuclear bomb is likely, what about all the Chernobyl-style Soviet-era nuclear power stations still in service? The point is: let us work together as free people to jointly report and track radiation levels around the globe. Information is power--and more importantly, information can save lives.
+
+This project is known to work on Raspberry Pi and various Linux distributions.
+
+Both PyRadMon and RadMon.org are completely free, though donations are always appreciated.This project includes several Python and bash scripts designed to connect Geiger Muller counters to report their results to RadMon.org. Soon the script will also feature local logging, graphing and alerting.
+
+Just because the Cold War is ""over"" does not mean that there is no more threat of a radiological attack. In fact, the U.S. Homeland Security Council lists the ""Detonation of a 10 Megaton Improvised Nuclear Device"" as ""Scenario #1"" among the top 15 threats to American security. Or, if you do not believe that a nuclear bomb is likely, what about all the Chernobyl-style Soviet-era nuclear power stations still in service? The point is: let us work together as free people to jointly report and track radiation levels around the globe. Information is power--and more importantly, information can save lives.
+
+This project is known to work on Raspberry Pi and various Linux distributions.
+
+Both PyRadMon and RadMon.org are completely free, though donations are always appreciated.","Categories
+Ecosystem Sciences, Physics"
+"Have you ever wanted to have a Mobile Anti Mind Control device?. Now you can! with Mind Guard Droid for Android. Complete Linux Installer, is an application for the Android that enables users to boot Mind Guard X OS from an Android device via chroot. The user interacts with the Mind Guard X OS via VNC.
+
+Mind Guard is the Glasses.Have you ever wanted to have a Mobile Anti Mind Control device?. Now you can! with Mind Guard Droid for Android. Complete Linux Installer, is an application for the Android that enables users to boot Mind Guard X OS from an Android device via chroot. The user interacts with the Mind Guard X OS via VNC.
+
+Mind Guard is the Glasses.","Categories
+Artificial Intelligence, OS distribution"
+"Java Api to manipulate simple on data of Matrix Type.
+There is lot of usefull methods like resize, insert , remove, sort and lot of other methods. Usefull methods to manipulate with diagonals. For example you can create block diagonal matrix.
+There is lot of usefull methods to manipulate on mathematic matrix also, like determinant , norm , minor , cofactor , solveLienarSystem , arithmetic operations also and lot more.Java Api to manipulate simple on data of Matrix Type.
+There is lot of usefull methods like resize, insert , remove, sort and lot of other methods. Usefull methods to manipulate with diagonals. For example you can create block diagonal matrix.
+There is lot of usefull methods to manipulate on mathematic matrix also, like determinant , norm , minor , cofactor , solveLienarSystem , arithmetic operations also and lot more.","Categories
+Frameworks, Mathematics, Libraries"
+"- Save and open a Work/Project (spf) file
+- Single fitting/ Batch fitting (user defined custom func)
+- Matrix to XYZ in Tool menu
+- Symbol plot: makers, curve, landscape, bar, etc.
+- Implemented a 3d surface plot (GLSurface) based on OpenGL (ScienPlot v1.3.2 and above)
+- ColorMap surface, trisurface, Pie, Polar plots, and 3D height field, 3dBar, scatter plots (under developing), and more
+- Column by column plotting/calculation
+- LaTex commands enclosed by $ symbols can be used for the labels in Graph
+- Accept txt(Text) and csv(Comma separated values) formatted data
+- Save, copy, print Graph
+- Use spread sheets to display data
+- Textboard to organize the results
+- Graphs in a publishable quality
+- Source codes based on:
+Python Numpy Scipy Matplotlib WxPython Visvis etc.
+- Special functions
+- Drag and drop data files
+- Python console is back (since v1.3.3), capable of reusing column data
+- Debye and Guinier models for SANS / SAX data
+- More apps in our Web below- Save and open a Work/Project (spf) file
+- Single fitting/ Batch fitting (user defined custom func)
+- Matrix to XYZ in Tool menu
+- Symbol plot: makers, curve, landscape, bar, etc.
+- Implemented a 3d surface plot (GLSurface) based on OpenGL (ScienPlot v1.3.2 and above)
+- ColorMap surface, trisurface, Pie, Polar plots, and 3D height field, 3dBar, scatter plots (under developing), and more
+- Column by column plotting/calculation
+- LaTex commands enclosed by $ symbols can be used for the labels in Graph
+- Accept txt(Text) and csv(Comma separated values) formatted data
+- Save, copy, print Graph
+- Use spread sheets to display data
+- Textboard to organize the results
+- Graphs in a publishable quality
+- Source codes based on:
+Python Numpy Scipy Matplotlib WxPython Visvis etc.
+- Special functions
+- Drag and drop data files
+- Python console is back (since v1.3.3), capable of reusing column data
+- Debye and Guinier models for SANS / SAX data
+- More apps in our Web below","Categories
+Physics, Statistics"
+"Math is a program designed to calculate roots of nonlinear equation, roots of system of linear equations, differentiate, integrate, approximate using LMS, matrix calculation using numerical methods for calculating results, estimated errors and much more. Math is also capable of drawing standard functions using graph dialog window to help with visualization functions, results, or approximation with given points and much more. All data can be exported in most common formats like PDF, PNG, TXT, etc.Math is a program designed to calculate roots of nonlinear equation, roots of system of linear equations, differentiate, integrate, approximate using LMS, matrix calculation using numerical methods for calculating results, estimated errors and much more. Math is also capable of drawing standard functions using graph dialog window to help with visualization functions, results, or approximation with given points and much more. All data can be exported in most common formats like PDF, PNG, TXT, etc.","Categories
+Mathematics, Education"
+"trj_cavity finds protein cavities throughout Molecular Dynamics (MD) simulation trajectories. The program works with files in PDB format, but it also can read/generate GROMACS compatible formats such as XTC.
+
+The same project can be compiled as a GROMACS tool or as a standalone version. Installation instructions are provided in the INSTALL file of the project and in https://sourceforge.net/p/trjcavity/wiki/Home/#ffad
+
+If you need support using this tool (or report bugs), please post it in the discussion forum.
+
+Remarks: v2 runs in parallel and supports GROMACS v5.1+ series. If you want to continue on using GROMACS v4.x, please use trj_cavity_v1.1.trj_cavity finds protein cavities throughout Molecular Dynamics (MD) simulation trajectories. The program works with files in PDB format, but it also can read/generate GROMACS compatible formats such as XTC.
+
+The same project can be compiled as a GROMACS tool or as a standalone version. Installation instructions are provided in the INSTALL file of the project and in https://sourceforge.net/p/trjcavity/wiki/Home/#ffad
+
+If you need support using this tool (or report bugs), please post it in the discussion forum.
+
+Remarks: v2 runs in parallel and supports GROMACS v5.1+ series. If you want to continue on using GROMACS v4.x, please use trj_cavity_v1.1.","Categories
+Chemistry"
+"RDRPOSTagger is a robust, easy-to-use and language-independent rule-based toolkit for Part-of-Speech (POS) and morphological tagging.
+RDRPOSTagger obtains fast performance in both learning and tagging process. RDRPOSTagger also achieves a very competitive accuracy in comparison to the state-of-the-art results.
+RDRPOSTagger now supports pre-trained POS and morphological tagging models for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese. Additionally, RDRPOSTagger supports the pre-trained Universal POS tagging models for 40 languages.
+See the full usage of RDRPOSTagger at: http://rdrpostagger.sourceforge.net/RDRPOSTagger is a robust, easy-to-use and language-independent rule-based toolkit for Part-of-Speech (POS) and morphological tagging.
+RDRPOSTagger obtains fast performance in both learning and tagging process. RDRPOSTagger also achieves a very competitive accuracy in comparison to the state-of-the-art results.
+RDRPOSTagger now supports pre-trained POS and morphological tagging models for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese. Additionally, RDRPOSTagger supports the pre-trained Universal POS tagging models for 40 languages.
+See the full usage of RDRPOSTagger at: http://rdrpostagger.sourceforge.net/","Categories
+Artificial Intelligence, Information Analysis, Linguistics"
+"cvsba is an OpenCV wrapper for the well-known Sparse Bundle Adjustment library (sba) by M. Lourakis. The main features are:
+- Based on sba-1.6, one of the most popular and robust bundle adjustment implementation, which is extensively used and tested by the community
+- sba installation is not needed since it is included in cvsba
+- New CMake structure which makes the library compilation, installation and linkage easier
+- Similar interface than Bundle Adjustment implementation on cv::LevMarqSparse::bundleAdjust()
+- Include examples to test the library on synthetically generated data
+- GPL licencecvsba is an OpenCV wrapper for the well-known Sparse Bundle Adjustment library (sba) by M. Lourakis. The main features are:
+- Based on sba-1.6, one of the most popular and robust bundle adjustment implementation, which is extensively used and tested by the community
+- sba installation is not needed since it is included in cvsba
+- New CMake structure which makes the library compilation, installation and linkage easier
+- Similar interface than Bundle Adjustment implementation on cv::LevMarqSparse::bundleAdjust()
+- Include examples to test the library on synthetically generated data
+- GPL licence","Categories
+3D Modeling, Mathematics, Research"
+MiModD is a software package for genomic variant identification from next-generation sequencing (NGS) data with optimized usage of system resources and a user-friendly interface. For most model organism genomes it lets the user carry out a complete analysis from unaligned genomic NGS read data to an annotated list of variants on a regular Desktop PC within a few hours. Its user-interface is beginner-friendly and designed to encourage geneticists to analyze NGS data themselves without the help of a trained bioinformatician.MiModD is a software package for genomic variant identification from next-generation sequencing (NGS) data with optimized usage of system resources and a user-friendly interface. For most model organism genomes it lets the user carry out a complete analysis from unaligned genomic NGS read data to an annotated list of variants on a regular Desktop PC within a few hours. Its user-interface is beginner-friendly and designed to encourage geneticists to analyze NGS data themselves without the help of a trained bioinformatician.,"Categories
+Bio-Informatics"
+"This library implements the serial commands supported by the Celestron
+NexStar hand control (HC) and SkyWatcher/Orion SynScan HC. This applies
+to the Celestron: NexStar GPS, NexStar GPS-SA, NexStar iSeries, NexStar
+SE Series, NexStar GT, CPC, SLT, Advanced-VX, Advanced-GT, CGE, CGEM etc.
+SkyWatcher: EQ5, HEQ5, EQ6 (Pro), AZ-EQ5 GT, AZ-EQ6 GT, EQ8 etc. and the
+corresponding Orion mounts.
+
+Communication to the hand control is 9600 bits/sec, no parity and one
+stop bit via the RS-232 port on the base of the hand control.
+
+Communication can be established over TCP/IP if nexbridge is running
+on the computer connected to the telescope.
+
+To control network based telescopes nexbridge must be used on the remote site.
+https://sourceforge.net/projects/nexbridge/This library implements the serial commands supported by the Celestron
+NexStar hand control (HC) and SkyWatcher/Orion SynScan HC. This applies
+to the Celestron: NexStar GPS, NexStar GPS-SA, NexStar iSeries, NexStar
+SE Series, NexStar GT, CPC, SLT, Advanced-VX, Advanced-GT, CGE, CGEM etc.
+SkyWatcher: EQ5, HEQ5, EQ6 (Pro), AZ-EQ5 GT, AZ-EQ6 GT, EQ8 etc. and the
+corresponding Orion mounts.
+
+Communication to the hand control is 9600 bits/sec, no parity and one
+stop bit via the RS-232 port on the base of the hand control.
+
+Communication can be established over TCP/IP if nexbridge is running
+on the computer connected to the telescope.
+
+To control network based telescopes nexbridge must be used on the remote site.
+https://sourceforge.net/projects/nexbridge/","Categories
+Software Development, Astronomy"
+"Identification and scoring of cancer markers by Immunohistochemistry has been shown to be of value in determining the aggressiveness of specific cancers, as well as in predicting patient outcome for many cancer types. Despite its routine clinical use, a problem with the standard scoring method is the inherent subjectivity and variability of purely visual inspection. To diminish this visual perception biasing, IHC profiler has been developed as a standard automated scoring tool.
+
+-x-x-x-x-x-x-x-
+
+Full Publication and Citation: Varghese F, Bukhari AB, Malhotra R, De A (2014) IHC Profiler: An Open Source Plugin for the Quantitative Evaluation and Automated Scoring of Immunohistochemistry Images of Human Tissue Samples. PLoS ONE 9(5): e96801. doi:10.1371/journal.pone.0096801
+
+Link: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0096801
+
+-x-x-x-x-x-x-x-
+
+Your feedback would be highly appreciated. Please rate so we can work on improving it further. Thank you!Identification and scoring of cancer markers by Immunohistochemistry has been shown to be of value in determining the aggressiveness of specific cancers, as well as in predicting patient outcome for many cancer types. Despite its routine clinical use, a problem with the standard scoring method is the inherent subjectivity and variability of purely visual inspection. To diminish this visual perception biasing, IHC profiler has been developed as a standard automated scoring tool.
+
+-x-x-x-x-x-x-x-
+
+Full Publication and Citation: Varghese F, Bukhari AB, Malhotra R, De A (2014) IHC Profiler: An Open Source Plugin for the Quantitative Evaluation and Automated Scoring of Immunohistochemistry Images of Human Tissue Samples. PLoS ONE 9(5): e96801. doi:10.1371/journal.pone.0096801
+
+Link: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0096801
+
+-x-x-x-x-x-x-x-
+
+Your feedback would be highly appreciated. Please rate so we can work on improving it further. Thank you!","Categories
+Algorithms, Medical"
+"The GALPROP program (http://galprop.stanford.edu) computes cosmic-ray propagation in the Galaxy, in 2D or 3D. The ouput cosmic-ray distribution is in the form of FITS files which however are not convenient for viewing or plotting with the standard ftools program fv, since the files have 4 or 5 dimensional arrays (due to the momentum and species axes) while fv handles only 3 dimensional arrays. This program converts to fv-compatible FITS files, either from 2D to (R,z) or from 3D to (x,z) at y=0 or (x,y) at z=0, in each case for a chosen cosmic-ray species.
+The third axis is momentum in each case. The distribution can be viewed with fv as a colour image, contoured, output to a file etc.
+The program is stand-alone and requires only the cfitsio library to be installed. Build instructions are in the program header.
+The FITS.cc/FITS.h class used provides simple convenient access to image data, useful also for other projects.
+For fv and cfitsio see http://heasarc.gsfc.nasa.gov/fitsioThe GALPROP program (http://galprop.stanford.edu) computes cosmic-ray propagation in the Galaxy, in 2D or 3D. The ouput cosmic-ray distribution is in the form of FITS files which however are not convenient for viewing or plotting with the standard ftools program fv, since the files have 4 or 5 dimensional arrays (due to the momentum and species axes) while fv handles only 3 dimensional arrays. This program converts to fv-compatible FITS files, either from 2D to (R,z) or from 3D to (x,z) at y=0 or (x,y) at z=0, in each case for a chosen cosmic-ray species.
+The third axis is momentum in each case. The distribution can be viewed with fv as a colour image, contoured, output to a file etc.
+The program is stand-alone and requires only the cfitsio library to be installed. Build instructions are in the program header.
+The FITS.cc/FITS.h class used provides simple convenient access to image data, useful also for other projects.
+For fv and cfitsio see http://heasarc.gsfc.nasa.gov/fitsio","Categories
+Astronomy"
+Astrology software for all.Astrology software for all.,"Categories
+Religion and Philosophy, Scientific/Engineering"
+"Optical Design Software for optical systems comprised of light sources, lenses, apertures, prisms, imagers, photometers, etc.
+
+Simulate light through the system and compute images and intensities at various locations in the design.Optical Design Software for optical systems comprised of light sources, lenses, apertures, prisms, imagers, photometers, etc.
+
+Simulate light through the system and compute images and intensities at various locations in the design.","Categories
+Scientific/Engineering, Data Visualization, Physics"
+"CRGREP searches for matching text in databases, various document formats, archives and other difficult to access resources.
+
+A command line tool for name and content text matching in database tables, plain files, MS Office documents, PDF, archives, MP3 audio, image meta-data, scanned documents, maven dependencies and web resources.
+
+CRGREP will search resources within resources of any arbitrary combination or depth, so text within a document within a zip archive, and so on.
+
+Here you will find binary downloads and discussion (https://sourceforge.net/p/crgrep/discussion/) . The actual development and issue tracking can be found here: https://bitbucket.org/cryanfuse/crgrepCRGREP searches for matching text in databases, various document formats, archives and other difficult to access resources.
+
+A command line tool for name and content text matching in database tables, plain files, MS Office documents, PDF, archives, MP3 audio, image meta-data, scanned documents, maven dependencies and web resources.
+
+CRGREP will search resources within resources of any arbitrary combination or depth, so text within a document within a zip archive, and so on.
+
+Here you will find binary downloads and discussion (https://sourceforge.net/p/crgrep/discussion/) . The actual development and issue tracking can be found here: https://bitbucket.org/cryanfuse/crgrep","Categories
+Database, Search, Command Line Tools, OCR"
+"Astrolog is astrology software featuring many types of computation, display, graphics, comparison, and analysis. It supports multiple environments, such as MS Windows and Unix X Windows, with complete C++ source code available. For more information see the Web site: http://www.astrolog.org/astrolog.htmAstrolog is astrology software featuring many types of computation, display, graphics, comparison, and analysis. It supports multiple environments, such as MS Windows and Unix X Windows, with complete C++ source code available. For more information see the Web site: http://www.astrolog.org/astrolog.htm","Categories
+Religion and Philosophy, Astronomy"
+"Read https://sourceforge.net/projects/tesseracthindi/files/OCRHindi_using_VietOCR_and_Tesseract.pdf/download for how to use vietocr gui for OCR of Hindi and Sanskrit texts using tesseract-ocr
+
+*****
+Please see https://github.com/Shreeshrii/
+
+imagessan and imageshin for newer box/tiff pairs, traineddata files, ocr evaluation statistics and ground truth files with images for Sanskrit and Hindi.
+*****
+
+Following is OLD information - saved only for archival purposes.
+
+Tesseract OCR 3.02 provides hin.traineddata for recognizing texts in devanagari scripts. However the Hindi training texts, images and box files are not provided, so it is difficult to improve the accuracy by further improving the traineddata. It is noted that recognition is more accurate and faster if the training is done with the same /similar font as used in the text to be OCRed.
+
+See https://sourceforge.net/p/tesseracthindi/wiki/OCR%20for%20Devanagari/ for more details.Read https://sourceforge.net/projects/tesseracthindi/files/OCRHindi_using_VietOCR_and_Tesseract.pdf/download for how to use vietocr gui for OCR of Hindi and Sanskrit texts using tesseract-ocr
+
+*****
+Please see https://github.com/Shreeshrii/
+
+imagessan and imageshin for newer box/tiff pairs, traineddata files, ocr evaluation statistics and ground truth files with images for Sanskrit and Hindi.
+*****
+
+Following is OLD information - saved only for archival purposes.
+
+Tesseract OCR 3.02 provides hin.traineddata for recognizing texts in devanagari scripts. However the Hindi training texts, images and box files are not provided, so it is difficult to improve the accuracy by further improving the traineddata. It is noted that recognition is more accurate and faster if the training is done with the same /similar font as used in the text to be OCRed.
+
+See https://sourceforge.net/p/tesseracthindi/wiki/OCR%20for%20Devanagari/ for more details.","Categories
+OCR"
+"This solver represents an addition to the open-source CFD package OpenFOAM.
+The solver is used to simulate the deflagration-to-detonation transition in hydrogen-air mixtures.
+
+Prominent features are described below.
+
+Additional description is available in the pdf file included.
+
+For a more detailed description download Florian Ettner's thesis (in German) from
+http://www.td.mw.tum.de/tum-td/de/forschung/dissertationen/download/I2013/Ettne13.pdf
+[8.6 MB]
+
+A shorter description (in English) can be found in the following publiction:
+http://www.hindawi.com/journals/jc/2014/686347/This solver represents an addition to the open-source CFD package OpenFOAM.
+The solver is used to simulate the deflagration-to-detonation transition in hydrogen-air mixtures.
+
+Prominent features are described below.
+
+Additional description is available in the pdf file included.
+
+For a more detailed description download Florian Ettner's thesis (in German) from
+http://www.td.mw.tum.de/tum-td/de/forschung/dissertationen/download/I2013/Ettne13.pdf
+[8.6 MB]
+
+A shorter description (in English) can be found in the following publiction:
+http://www.hindawi.com/journals/jc/2014/686347/","Categories
+Computational Fluid Dynamics (CFD)"
+"The MRiLab project is moving to GitHub, the latest version can be obtained from https://leoliuf.github.io/MRiLab/
+
+The MRiLab is a numerical MRI simulation package. It has been developed and optimized to simulate MR signal formation, k-space acquisition and MR image reconstruction. MRiLab provides several dedicated toolboxes to analyze RF pulse, design MR sequence, configure multiple transmitting and receiving coils, investigate magnetic field related properties and evaluate real-time imaging technique. The main MRiLab simulation platform combined with those toolboxes can be applied to customize various virtual MR experiments which can serve as a prior stage for prototyping and testing new MR technique and application. If you find MRiLab useful for your work, please cite this paper:
+
+Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model. IEEE Transactions on Medical Imaging. 2016. doi: 10.1109/TMI.2016.2620961The MRiLab project is moving to GitHub, the latest version can be obtained from https://leoliuf.github.io/MRiLab/
+
+The MRiLab is a numerical MRI simulation package. It has been developed and optimized to simulate MR signal formation, k-space acquisition and MR image reconstruction. MRiLab provides several dedicated toolboxes to analyze RF pulse, design MR sequence, configure multiple transmitting and receiving coils, investigate magnetic field related properties and evaluate real-time imaging technique. The main MRiLab simulation platform combined with those toolboxes can be applied to customize various virtual MR experiments which can serve as a prior stage for prototyping and testing new MR technique and application. If you find MRiLab useful for your work, please cite this paper:
+
+Fast Realistic MRI Simulations Based on Generalized Multi-Pool Exchange Tissue Model. IEEE Transactions on Medical Imaging. 2016. doi: 10.1109/TMI.2016.2620961","Categories
+Medical, Education, Medical Physics"
+"MoCalc2012 is a simple, efficient Graphical User Interface for MOPAC, DFTB+, GAMESS(US), Firefly, NWChem, ORCA and PSI4.MoCalc2012 is a simple, efficient Graphical User Interface for MOPAC, DFTB+, GAMESS(US), Firefly, NWChem, ORCA and PSI4.","Categories
+Chemistry, Data Visualization, Education"
+"HPCC Systems® (www.hpccsystems.com) from LexisNexis® Risk Solutions is a proven, open source solution for Big Data insights that can be implemented by businesses of all sizes. With HPCC Systems, developers can design applications with Big Data at their core, enabling businesses to better analyze and understand data at scale, improving business time to results and decisions. HPCC Systems offers a consistent data-centric programming language, two processing platforms and a single, complete end-to-end architecture for efficient processing. Read our blog (http://hpccsystems.com/blog ), or connect with us on Twitter (@hpccsystems), Facebook (https://www.facebook.com/hpccsystems ) and LinkedIn (http://www.linkedin.com/company/hpcc-systems)
+
+HPCC Systems is available on AWS & can be configured through the Instant Cloud Solution.HPCC Systems® (www.hpccsystems.com) from LexisNexis® Risk Solutions is a proven, open source solution for Big Data insights that can be implemented by businesses of all sizes. With HPCC Systems, developers can design applications with Big Data at their core, enabling businesses to better analyze and understand data at scale, improving business time to results and decisions. HPCC Systems offers a consistent data-centric programming language, two processing platforms and a single, complete end-to-end architecture for efficient processing. Read our blog (http://hpccsystems.com/blog ), or connect with us on Twitter (@hpccsystems), Facebook (https://www.facebook.com/hpccsystems ) and LinkedIn (http://www.linkedin.com/company/hpcc-systems)
+
+HPCC Systems is available on AWS & can be configured through the Instant Cloud Solution.","Categories
+Distributed Computing, ETL, Machine Learning"
+"SCaVis is an environment for scientific computation, data analysis and data visualization for scientists, engineers and students. The program is fully multiplatform (100% Java) and integrated with Java and a number of scripting languages: Jython (Python), Groovy, JRuby, BeanShell. SCaVis can be used to plot functions and data in 2D and 3D, perform statistical tests, data mining, numeric computations, function minimization, linear algebra, solving systems of linear and differential equations. Linear, non-linear and symbolic regression are also available. Elements of symbolic computations using Octave/Matlab scripting are supported.
+The project was migrated to DataMelt.SCaVis is an environment for scientific computation, data analysis and data visualization for scientists, engineers and students. The program is fully multiplatform (100% Java) and integrated with Java and a number of scripting languages: Jython (Python), Groovy, JRuby, BeanShell. SCaVis can be used to plot functions and data in 2D and 3D, perform statistical tests, data mining, numeric computations, function minimization, linear algebra, solving systems of linear and differential equations. Linear, non-linear and symbolic regression are also available. Elements of symbolic computations using Octave/Matlab scripting are supported.
+The project was migrated to DataMelt.","Categories
+Office/Business, Scientific/Engineering, Physics, Data Analytics"
+"iAstroHub is:
+- the world's first solution for mobile astrophotography. A user can interact with all astrophotography devices from any mobile device using a web browser.
+- developed by Anat Ruangrassamee, Ph.D., Bangkok Thailand. (aruangra at yahoo dot com)
+
+See how it works from here:
+http://www.youtube.com/watch?v=Sncd3j8ipBQ
+
+Requirements and supported devices.
+1. Autoguider: Orion Starshoot autoguider, QHY5, QHY5-II, QHY5L-II, QHY6
+2. DSLR
+3. CCD: QHY5,6,8,8L,9,11,12
+4. Filter wheel: Starlight Xpress
+5. Focuser: Robofocus
+6. Flat fielder: Flip-Flat
+5. USB serial adapter (PL2303-based) for controlling a mount via a serial port. I recommend ATEN UC232A.
+6. Powered USB hub
+7. TRONSMART MK808 (with RK901 wifi) or MK808B (with RK903 wifi). I got it from geekbuying.com. Or any RK3066 mini PC stick + an external Ralink5370 usb wifi adapter.
+8. Class-10 micro SD card (at least 8GB).
+
+If you have any question, discuss here ...iAstroHub is:
+- the world's first solution for mobile astrophotography. A user can interact with all astrophotography devices from any mobile device using a web browser.
+- developed by Anat Ruangrassamee, Ph.D., Bangkok Thailand. (aruangra at yahoo dot com)
+
+See how it works from here:
+http://www.youtube.com/watch?v=Sncd3j8ipBQ
+
+Requirements and supported devices.
+1. Autoguider: Orion Starshoot autoguider, QHY5, QHY5-II, QHY5L-II, QHY6
+2. DSLR
+3. CCD: QHY5,6,8,8L,9,11,12
+4. Filter wheel: Starlight Xpress
+5. Focuser: Robofocus
+6. Flat fielder: Flip-Flat
+5. USB serial adapter (PL2303-based) for controlling a mount via a serial port. I recommend ATEN UC232A.
+6. Powered USB hub
+7. TRONSMART MK808 (with RK901 wifi) or MK808B (with RK903 wifi). I got it from geekbuying.com. Or any RK3066 mini PC stick + an external Ralink5370 usb wifi adapter.
+8. Class-10 micro SD card (at least 8GB).
+
+If you have any question, discuss here ...","Categories
+Astronomy"
+"PhpGedView is a revolutionary genealogy program which allows you to view and edit your genealogy on your website. It has full privacy functions, can import from GEDCOM files, and supports multimedia. It also simplifies family collaboration.PhpGedView is a revolutionary genealogy program which allows you to view and edit your genealogy on your website. It has full privacy functions, can import from GEDCOM files, and supports multimedia. It also simplifies family collaboration.","Categories
+Dynamic Content, Religion and Philosophy, Genealogy"
+"JUNG provides a common and extendible language for the modeling, analysis, and visualization of data that can be represented as a graph or network.
+
+New version now available on GitHub: https://github.com/jrtom/jung/releases/tag/jung-2.1JUNG provides a common and extendible language for the modeling, analysis, and visualization of data that can be represented as a graph or network.
+
+New version now available on GitHub: https://github.com/jrtom/jung/releases/tag/jung-2.1","Categories
+Data Visualization, Artificial Intelligence, Mathematics, Information Analysis, Sociology"
+"Gramps is a genealogy program for Linux, Windows, Mac, and FreeBSD that allows you to easily build and keep track of your family tree. It supports the GEDCOM standard, allows fine grained privacy controls and can generate many different types of reports (descendant trees, graphs, connection diagrams, ....)Gramps is a genealogy program for Linux, Windows, Mac, and FreeBSD that allows you to easily build and keep track of your family tree. It supports the GEDCOM standard, allows fine grained privacy controls and can generate many different types of reports (descendant trees, graphs, connection diagrams, ....)","Categories
+Genealogy"
+"GEDKeeper program is developed for work with personal genealogical database.
+
+The program is designed for extremely simple and intuitive interface. The program is very easy to install on the computer, fully supports the GEDCOM format, has no restrictions on the number of persons and generations, allows you to generate pedigrees, building several tree species, as well as print and save their images, provides fast navigation, filtering, searching and adding multimedia materials. In addition there is an output of geographic data on Google maps (© Google).
+
+The aim of the program is as quick and effective means of conducting personal genealogical database.
+
+Project is published on GitHub, url: https://github.com/Serg-Norseman/GEDKeeper program is developed for work with personal genealogical database.
+
+The program is designed for extremely simple and intuitive interface. The program is very easy to install on the computer, fully supports the GEDCOM format, has no restrictions on the number of persons and generations, allows you to generate pedigrees, building several tree species, as well as print and save their images, provides fast navigation, filtering, searching and adding multimedia materials. In addition there is an output of geographic data on Google maps (© Google).
+
+The aim of the program is as quick and effective means of conducting personal genealogical database.
+
+Project is published on GitHub, url: https://github.com/Serg-Norseman/","Categories
+Genealogy, History, Hobbies"
+"HuMo-genealogy is an open-source server-side genealogy program, that dynamically displays genealogical data from a MySQL database as a website with numerous reports and charts. Webmasters can do online editing and users may choose from several languages.HuMo-genealogy is an open-source server-side genealogy program, that dynamically displays genealogical data from a MySQL database as a website with numerous reports and charts. Webmasters can do online editing and users may choose from several languages.","Categories
+Genealogy"
+"Egonet is a program for the collection and analysis of egocentric network data. It helps you create the questionnaire, collect data, and provide general global network measures and data matrixes that can be used for further analysis by other software.
+
+Source code is hosted at http://github.com/egonet/egonet.Egonet is a program for the collection and analysis of egocentric network data. It helps you create the questionnaire, collect data, and provide general global network measures and data matrixes that can be used for further analysis by other software.
+
+Source code is hosted at http://github.com/egonet/egonet.","Categories
+Data Visualization, Sociology"
+"GenealogyJ is a viewer and editor for genealogic data, suitable for hobbyist, family historian and genealogy researcher. GenJ supports the Gedcom standard, is written in Java and offers many views like family tree, table, timeline, geography and more.GenealogyJ is a viewer and editor for genealogic data, suitable for hobbyist, family historian and genealogy researcher. GenJ supports the Gedcom standard, is written in Java and offers many views like family tree, table, timeline, geography and more.","Categories
+Genealogy, History"
+"************************************************************
+
+THIS PROJECT IS MOVED.
+
+See http://khcoder.net/en for the latest & greatest.
+
+You can download this tool from the new home.
+See you there!
+
+************************************************************************************************************************
+
+THIS PROJECT IS MOVED.
+
+See http://khcoder.net/en for the latest & greatest.
+
+You can download this tool from the new home.
+See you there!
+
+************************************************************","Categories
+Information Analysis, Sociology, Linguistics"
+"JSesh is an ancient Egyptian hieroglyphic text processor, currently used by professionnals and amateurs alike. It runs on all platforms supporting java (Mac, Windows, Linux). It can be used as a library for your own softwares too.
+
+SOURCES HAVE MOVED TO GITHUB: https://github.com/rosmord/jseshJSesh is an ancient Egyptian hieroglyphic text processor, currently used by professionnals and amateurs alike. It runs on all platforms supporting java (Mac, Windows, Linux). It can be used as a library for your own softwares too.
+
+SOURCES HAVE MOVED TO GITHUB: https://github.com/rosmord/jsesh","Categories
+Text Processing, History"
+GDBI is a genealogy program integrator. It includes an editor and the lifelines report language. It interfaces to multiple GEDCOM databases and is most popular as a PhpGedView client. At the core is a Java API to simplify adding databases and editors.GDBI is a genealogy program integrator. It includes an editor and the lifelines report language. It interfaces to multiple GEDCOM databases and is most popular as a PhpGedView client. At the core is a Java API to simplify adding databases and editors.,"Categories
+Database, Software Development, Genealogy"
+"Visit our new site: http://socnetv.org
+
+Social Network Visualizer (SocNetV) is a social network analysis and visualization application. You can draw a social network (graph/digraph) or load an existing one (GraphML, UCINET, Pajek, etc), compute cohesion, centrality, community and structural equivalence metrics and apply various layout algorithms based on actor centrality or prestige scores (i.e. Eigenvector, Betweenness) or on dynamic models (i.e. Kamada-Kawai spring-embedder)Visit our new site: http://socnetv.org
+
+Social Network Visualizer (SocNetV) is a social network analysis and visualization application. You can draw a social network (graph/digraph) or load an existing one (GraphML, UCINET, Pajek, etc), compute cohesion, centrality, community and structural equivalence metrics and apply various layout algorithms based on actor centrality or prestige scores (i.e. Eigenvector, Betweenness) or on dynamic models (i.e. Kamada-Kawai spring-embedder)","Categories
+Data Visualization, Mathematics, Sociology"
+"phpmyfamily is a dynamic genealogy website builder allowing geographically dispersed family members to co-ordinate and share research. Users can import and export GEDCOM files, upload images and document transcripts and monitor changes to individuals.phpmyfamily is a dynamic genealogy website builder allowing geographically dispersed family members to co-ordinate and share research. Users can import and export GEDCOM files, upload images and document transcripts and monitor changes to individuals.","Categories
+Dynamic Content, Genealogy"
+"This script helps organizations to make polls of different types of positions with a number of candidates under each position. The script is not very stable and the code is still rough.
+
+Installation:
+i. Download the script and unzip it to your localhost or web server. Works best with Wamp server.
+ii. Import polling3.sql from the dbBackups folder in the admin folder. Use phpMyAdmin in this case or together with cPanel for online server.
+iii. Add login.html into the Apache configuration file to enable direct redirection to the system. If you don't know the config file, Google for more info about this!!!
+v. You're done! Hooray!!! Now you can test drive the system. Username: admin, Password: admin, URL: http://localhost/yoursite/admin; For the admin section. The rest is in the database tables.
+
+NB: Please use the ""External Link"" menus above to support this project in one way or another. PM me for other means. Any kind of support will be very much appreciated. Thanks a bunch.This script helps organizations to make polls of different types of positions with a number of candidates under each position. The script is not very stable and the code is still rough.
+
+Installation:
+i. Download the script and unzip it to your localhost or web server. Works best with Wamp server.
+ii. Import polling3.sql from the dbBackups folder in the admin folder. Use phpMyAdmin in this case or together with cPanel for online server.
+iii. Add login.html into the Apache configuration file to enable direct redirection to the system. If you don't know the config file, Google for more info about this!!!
+v. You're done! Hooray!!! Now you can test drive the system. Username: admin, Password: admin, URL: http://localhost/yoursite/admin; For the admin section. The rest is in the database tables.
+
+NB: Please use the ""External Link"" menus above to support this project in one way or another. PM me for other means. Any kind of support will be very much appreciated. Thanks a bunch.","Categories
+Human Resources, Business Process Management, Voting"
+"RoboJournal is a cross-platform journal/diary tool written in Qt/C++. Right now, RoboJournal only supports MySQL but support for SQLite (and possibly Postgres) will be added in future releases. RoboJournal runs on Windows and Linux.
+
+I would like to eventually support RoboJournal on OSX but unfortunately I have no reliable way to build or maintain a Mac version right now.RoboJournal is a cross-platform journal/diary tool written in Qt/C++. Right now, RoboJournal only supports MySQL but support for SQLite (and possibly Postgres) will be added in future releases. RoboJournal runs on Windows and Linux.
+
+I would like to eventually support RoboJournal on OSX but unfortunately I have no reliable way to build or maintain a Mac version right now.","Categories
+Other/Nonlisted Topic, Front-Ends, Sociology"
+Familiar is cross-platform Family Tree management (Genealogy) Software using QT. It supports viewing/editing file tree using drag-drop in multiple ways. Events allow you to define events in any number.Familiar is cross-platform Family Tree management (Genealogy) Software using QT. It supports viewing/editing file tree using drag-drop in multiple ways. Events allow you to define events in any number.,"Categories
+KDE, Genealogy"
+"Toolkit for processing genetic data. Currently supports (command-line): Half-IBD (Identity by descent) aka HIRs - between 2 or any number of files (in distances and cM); RAW2PED, PED2RAW conversions; regions of homozygousity and other converters.Toolkit for processing genetic data. Currently supports (command-line): Half-IBD (Identity by descent) aka HIRs - between 2 or any number of files (in distances and cM); RAW2PED, PED2RAW conversions; regions of homozygousity and other converters.","Categories
+Molecular Science, Bio-Informatics, Genealogy"
+"Open Hot or Not is a free implementation of the popular Hot or Not people rating website. Developed in php5+mysql, It allows picture uploading, voting, comments, comment voting, manage a blog, etc...Open Hot or Not is a free implementation of the popular Hot or Not people rating website. Developed in php5+mysql, It allows picture uploading, voting, comments, comment voting, manage a blog, etc...","Categories
+Sociology, Blogging"
+Text Analysis Markup System (TAMS) is both a system of marking documents for qualitative analysis and a series of tools for mining information based on that syntax.Text Analysis Markup System (TAMS) is both a system of marking documents for qualitative analysis and a series of tools for mining information based on that syntax.,"Categories
+Sociology"
+"queXF, a CADE (Computer Assisted Data Entry) Tool, processes filled paper forms that were created in queXML, such as survey questionnaires. queXF can be used as a web based, Open Source alternative to programs such as Cardiff Teleform and Remark OMR.queXF, a CADE (Computer Assisted Data Entry) Tool, processes filled paper forms that were created in queXML, such as survey questionnaires. queXF can be used as a web based, Open Source alternative to programs such as Cardiff Teleform and Remark OMR.","Categories
+Enterprise, Dynamic Content, Sociology"
+"Cultivation is a game about the interactions within a gardening community.
+The resources needed for genetic propagation are tight, and relations can
+become tense. Cultivation explores self-interest, the common good, conflict,
+and compromise.Cultivation is a game about the interactions within a gardening community.
+The resources needed for genetic propagation are tight, and relations can
+become tense. Cultivation explores self-interest, the common good, conflict,
+and compromise.","Categories
+Real Time Strategy, Ecosystem Sciences, Sociology"
+"Toolkit for civilian activists to cross-check lists of Knesset members (Israeli Parliament) present in the Knesset building and databases of their stands, helping on-site lobbyists work out who to talk to during session days.Toolkit for civilian activists to cross-check lists of Knesset members (Israeli Parliament) present in the Knesset building and databases of their stands, helping on-site lobbyists work out who to talk to during session days.","Categories
+Politics, Report Generators, Knowledge Management"
+Global Land Use and technological Evolution Simulator.Global Land Use and technological Evolution Simulator.,"Categories
+Earth Sciences, History, GIS"
+"Cunanum is a digital conversion utility for beginners, consists of entering numbers to convert in base 60 of Sumerian cuneiform signs and vice versa.
+
+Logiciel de conversion de nombres décimaux en sexagésimal cunéiforme Sumérien et inversement, pour les débutants.Cunanum is a digital conversion utility for beginners, consists of entering numbers to convert in base 60 of Sumerian cuneiform signs and vice versa.
+
+Logiciel de conversion de nombres décimaux en sexagésimal cunéiforme Sumérien et inversement, pour les débutants.","Categories
+History, Education"
+"# مكتبة أبجد تحتوى على كتب، ومخطوطات نادرة جدا.
+بلتعاون مع منتدي الملوك السبعة للروحانيات
+حقوق النشر© هذا المُصنَّف مرخص بموجب رخصة المشاع الإبداعي نَسب المُصنّف - منع الاشتقاق 4.0 دولي.
+E-Mail : aba.elwaled@gmail.com
+Phone : +201030070676
+https://elmlok-7.yoo7.com
+___________
+https://www.facebook.com/Abjjaad
+___________
+https://www.facebook.com/AabjAad
+___________
+https://elmlok7yoo7com.wordpress.com
+___________
+https://www.reddit.com/user/ro7ane
+___________
+https://elml0k.blogspot.com
+___________
+https://ro7ane.tumblr.com
+___________
+https://twitter.com/ro7ane1
+___________
+https://www.instagram.com/abjad.science
+___________
+https://www.pinterest.com/Abjad66/_saved
+___________
+https://www.facebook.com/groups/549252415819771/
+___________
+https://www.linkedin.com/in/abjad-science-513159194
+___________
+https://www.youtube.com/channel/UCR9T7Fw83ovaf7sgPjgVEMg# مكتبة أبجد تحتوى على كتب، ومخطوطات نادرة جدا.
+بلتعاون مع منتدي الملوك السبعة للروحانيات
+حقوق النشر© هذا المُصنَّف مرخص بموجب رخصة المشاع الإبداعي نَسب المُصنّف - منع الاشتقاق 4.0 دولي.
+E-Mail : aba.elwaled@gmail.com
+Phone : +201030070676
+https://elmlok-7.yoo7.com
+___________
+https://www.facebook.com/Abjjaad
+___________
+https://www.facebook.com/AabjAad
+___________
+https://elmlok7yoo7com.wordpress.com
+___________
+https://www.reddit.com/user/ro7ane
+___________
+https://elml0k.blogspot.com
+___________
+https://ro7ane.tumblr.com
+___________
+https://twitter.com/ro7ane1
+___________
+https://www.instagram.com/abjad.science
+___________
+https://www.pinterest.com/Abjad66/_saved
+___________
+https://www.facebook.com/groups/549252415819771/
+___________
+https://www.linkedin.com/in/abjad-science-513159194
+___________
+https://www.youtube.com/channel/UCR9T7Fw83ovaf7sgPjgVEMg","Categories
+Astronomy, RSS Feed Readers, Psychology"
+"a lightweight, cloud based, information software system designed to help effectively mitigate the managing of bad clams and man-eaters!a lightweight, cloud based, information software system designed to help effectively mitigate the managing of bad clams and man-eaters!","Categories
+Communications, Networking, Sociology"
+"This program processes the data obtained by the sociometric test performed on a group of subjects. The study of the output graphs are useful to analyze the social dynamics within the group.
+
+1) Implement a simple and effective user interface. Facilitates and accelerates the initial phase of data entry.
+2) Results of the analysis in a graphical format. Provides a rapid assessment of the results.
+3) Export of analysis results in graphical format. The analyst can use any word processor or spreadsheet to create a document of the group dynamics that
+integrates only the significant graphics.
+
+Specifications:
+- From 1 to 10 questions. A question may be positive (acceptance) or negative (rejection).
+- From 1 to 100 subjects.
+- From 1 to 10 answers for each question.
+- Bar graph. Displays the number of acceptances and rejections obtained by subjects.
+- Target graph. Displays the subjects divided into categories.
+- Sociogram. Displays the choices between subjects.This program processes the data obtained by the sociometric test performed on a group of subjects. The study of the output graphs are useful to analyze the social dynamics within the group.
+
+1) Implement a simple and effective user interface. Facilitates and accelerates the initial phase of data entry.
+2) Results of the analysis in a graphical format. Provides a rapid assessment of the results.
+3) Export of analysis results in graphical format. The analyst can use any word processor or spreadsheet to create a document of the group dynamics that
+integrates only the significant graphics.
+
+Specifications:
+- From 1 to 10 questions. A question may be positive (acceptance) or negative (rejection).
+- From 1 to 100 subjects.
+- From 1 to 10 answers for each question.
+- Bar graph. Displays the number of acceptances and rejections obtained by subjects.
+- Target graph. Displays the subjects divided into categories.
+- Sociogram. Displays the choices between subjects.","Categories
+Sociology, Psychology"
+"The projects aim to help college and university election be easy, the code are still rough which need finalization but they are working.
+
+Installation:
+i. Download the project
+ii. Find poll.sql file and import on Mysql Database.
+iii. Open READ ME and get the username and password for students and admin
+v. Ready to Go!!!
+
+NB: Send me email for any other suggestions and advice if needed, otherwise enjoy the voting project.The projects aim to help college and university election be easy, the code are still rough which need finalization but they are working.
+
+Installation:
+i. Download the project
+ii. Find poll.sql file and import on Mysql Database.
+iii. Open READ ME and get the username and password for students and admin
+v. Ready to Go!!!
+
+NB: Send me email for any other suggestions and advice if needed, otherwise enjoy the voting project.","Categories
+Education, Business Process Management, Voting"
+"Enhances Notepad++ text editor's handling of GEDCOM files.
+View GEDCOM files with syntax highlighting of: level, xref id, tag, pointer, value
+and escape tokens. Customize coloration and font styles. Grammar errors are also highlighted.
+View GEDCOM files in outline mode by folding sections based on line level.Enhances Notepad++ text editor's handling of GEDCOM files.
+View GEDCOM files with syntax highlighting of: level, xref id, tag, pointer, value
+and escape tokens. Customize coloration and font styles. Grammar errors are also highlighted.
+View GEDCOM files in outline mode by folding sections based on line level.","Categories
+Text Processing, Genealogy"
+"HistoryCal is a practical calculator designed to work with historical dates and calendars.
+
+The calculator will allow you to work with many different world calendar schemes and calculate ranges and ages based on these calendars. The calculator also has a script language that allows you to create variations of the built-in calendars: calendars that shift the new year to a different day; hybrid calendars that switch between schemes; local observational calendars that depend on a particular location; year counts that change for specific eras (regnal calendars) and calendars that require adjustment due to subtle differences in calculation.HistoryCal is a practical calculator designed to work with historical dates and calendars.
+
+The calculator will allow you to work with many different world calendar schemes and calculate ranges and ages based on these calendars. The calculator also has a script language that allows you to create variations of the built-in calendars: calendars that shift the new year to a different day; hybrid calendars that switch between schemes; local observational calendars that depend on a particular location; year counts that change for specific eras (regnal calendars) and calendars that require adjustment due to subtle differences in calculation.","Categories
+Mathematics, Genealogy, History, Calculators"
+"Ancestris is a genealogy program written in Java. It works under any operating system, Windows, Linux, MacOS. Ancestris is developed under GNU General Public License.
+
+Ancestris is a genealogy software that closely respects the GEDCOM 5.5 standard which will allow you to work on files that are reliable and that you can exchange and share without losing data.
+
+In addition to the editors (Ancestris comes with two editors: a GEDCOM editor and a standard one), it offers many views like tree view, geographic view, chronological view, browsers, tables: individuals, families, etc.. and numerous reports.
+
+It offers an opportunity to expand its capabilities and adapt it to your needs and desires thanks to plugins.Ancestris is a genealogy program written in Java. It works under any operating system, Windows, Linux, MacOS. Ancestris is developed under GNU General Public License.
+
+Ancestris is a genealogy software that closely respects the GEDCOM 5.5 standard which will allow you to work on files that are reliable and that you can exchange and share without losing data.
+
+In addition to the editors (Ancestris comes with two editors: a GEDCOM editor and a standard one), it offers many views like tree view, geographic view, chronological view, browsers, tables: individuals, families, etc.. and numerous reports.
+
+It offers an opportunity to expand its capabilities and adapt it to your needs and desires thanks to plugins.","Categories
+Genealogy"
+"Infographic developed in Flash technology which shows the distribution of members of Boards of Public Policies. (en)
+--
+Infográfico desenvolvido em tecnologia Flash que mostra a distribuição de membros de Conselhos de Políticas Públicas. (pt-BR)Infographic developed in Flash technology which shows the distribution of members of Boards of Public Policies. (en)
+--
+Infográfico desenvolvido em tecnologia Flash que mostra a distribuição de membros de Conselhos de Políticas Públicas. (pt-BR)","Categories
+Image Viewers, Data Visualization, Sociology"
+"Arbol3D is a very simple genealogic program writeen in Java (Spanish). You can edit info (name, sex, dates of birth, death, marriage, etc...) for individuals, add/remove photo, import and export GEDCOM data and more... The program uses a text file as database!Arbol3D is a very simple genealogic program writeen in Java (Spanish). You can edit info (name, sex, dates of birth, death, marriage, etc...) for individuals, add/remove photo, import and export GEDCOM data and more... The program uses a text file as database!","Categories
+Genealogy"
+"This project is related to the Partito Pirata source code issueHere we host the development and sharing of the source code of the production into the Partito Pirata project.
+Every single bit in terms of information and source code will be available here for freeThis project is related to the Partito Pirata source code issueHere we host the development and sharing of the source code of the production into the Partito Pirata project.
+Every single bit in terms of information and source code will be available here for free","Categories
+Sociology, Politics, Voting"
+"Given GEDCOM file, the program groups persons by haplogroups and prints different kinds of reports including atree. Given atree - the program generates GEDCOM file from it. Utility can be used for text files transcoding (including into phonetic from russian windows-1251 GEDCOMs etc)Given GEDCOM file, the program groups persons by haplogroups and prints different kinds of reports including atree. Given atree - the program generates GEDCOM file from it. Utility can be used for text files transcoding (including into phonetic from russian windows-1251 GEDCOMs etc)","Categories
+Genealogy"
+"The aim of the JQuizAPI project is to define a simple API to construct test that may be used in diferent areas:
+- Surveys
+- Psychometric tests
+- PollsThe aim of the JQuizAPI project is to define a simple API to construct test that may be used in diferent areas:
+- Surveys
+- Psychometric tests
+- Polls","Categories
+Exam, Computer Aided Instruction (CAI), Psychology"
+"Utility to convert PED genome file into RAW SNP format. Creates multiple files per person. Supports big files. The same conversion utility has been included into ""aisconvert"" toolkit, so this project is rather deprecated.Utility to convert PED genome file into RAW SNP format. Creates multiple files per person. Supports big files. The same conversion utility has been included into ""aisconvert"" toolkit, so this project is rather deprecated.","Categories
+Bio-Informatics, Genealogy"
+"Issue Campaign web site. 3 pages are available: index to tell the issue, voters page, and administration page.Issue Campaign web site. 3 pages are available: index to tell the issue, voters page, and administration page.","Categories
+Message Board, Politics, Voting"
+"jdebate is an online discussion platform focusing on the schema of pro and contra arguments. Arguments and claims are connected to each other via conclusions, so the system is also able to deduce opinions on new claims automatically.jdebate is an online discussion platform focusing on the schema of pro and contra arguments. Arguments and claims are connected to each other via conclusions, so the system is also able to deduce opinions on new claims automatically.","Categories
+Message Board, Politics"
+ELIA(Eyegaze Language Integration Analysis) supports the analysis of eye-tracking data for studies in language processing. ELIA eases early analysis of data to enable iterative development of experiments in response to spoken language.ELIA(Eyegaze Language Integration Analysis) supports the analysis of eye-tracking data for studies in language processing. ELIA eases early analysis of data to enable iterative development of experiments in response to spoken language.,"Categories
+Information Analysis, Linguistics, Psychology"
+"The primary driver of speciation may result from hybridization instead of the accumulation of mutations. The accumulation of mutations may instead be responsible for a ""maturation"" which may have real physical meaning rather than being an amorphous concept.
+
+Scientists such as Donald Williamson and Lynn Margulis have suggested similar ideas but perhaps not going as far as this project assumes.
+
+This software converted the Catalogue of Life, catalogueoflife.org, into a gedcom format. It no longer works due to the Catalogue's database format change.
+
+This present project extends the gedcom format for use in systematics or species categorization. All named taxonomic levels are assumed to have originally been individual species and the software/database outputs all species as female until hybridization events can be added manually.
+
+This tool is used to develop the data at http://genealogyoflife.com. It converted the data from 1.2 million species to over 2 million gedcom females.The primary driver of speciation may result from hybridization instead of the accumulation of mutations. The accumulation of mutations may instead be responsible for a ""maturation"" which may have real physical meaning rather than being an amorphous concept.
+
+Scientists such as Donald Williamson and Lynn Margulis have suggested similar ideas but perhaps not going as far as this project assumes.
+
+This software converted the Catalogue of Life, catalogueoflife.org, into a gedcom format. It no longer works due to the Catalogue's database format change.
+
+This present project extends the gedcom format for use in systematics or species categorization. All named taxonomic levels are assumed to have originally been individual species and the software/database outputs all species as female until hybridization events can be added manually.
+
+This tool is used to develop the data at http://genealogyoflife.com. It converted the data from 1.2 million species to over 2 million gedcom females.","Categories
+Bio-Informatics, Genealogy, Research"
+"EyeMap is a visualization and analysis tool for text reading eye movement data. It can process Unicode, proportion/non-proportion and spaced/unspaced reading materials, which supports various languages and experiment methods.EyeMap is a visualization and analysis tool for text reading eye movement data. It can process Unicode, proportion/non-proportion and spaced/unspaced reading materials, which supports various languages and experiment methods.","Categories
+Information Analysis, Linguistics, Psychology, Data Analytics"
+"This is a collection of plugins for Gramps open source genealogy application. These addons extend Gramps functionality with additional reports, gramplets, tools, and views. For more information on Gramps, see http://gramps-project.org/
+
+Addons for the following Gramps series of releases ( 3.2.x / 3.3.x / 3.4.x / 4.0.x / 4.1.x ) source code can be found here:
+https://sourceforge.net/p/gramps-addons/code/HEAD/tree/
+
+From Gramps 4.2.x series onwards the Addons are available from:
+https://github.com/gramps-project/addons-sourceThis is a collection of plugins for Gramps open source genealogy application. These addons extend Gramps functionality with additional reports, gramplets, tools, and views. For more information on Gramps, see http://gramps-project.org/
+
+Addons for the following Gramps series of releases ( 3.2.x / 3.3.x / 3.4.x / 4.0.x / 4.1.x ) source code can be found here:
+https://sourceforge.net/p/gramps-addons/code/HEAD/tree/
+
+From Gramps 4.2.x series onwards the Addons are available from:
+https://github.com/gramps-project/addons-source","Categories
+Genealogy"
+eBarter froms trades from commitments. It measures economic values without the need of a common value standard; distributes fairly the gain produced between participants and gives the preference to trades where participants have the weakest requirements.eBarter froms trades from commitments. It measures economic values without the need of a common value standard; distributes fairly the gain produced between participants and gives the preference to trades where participants have the weakest requirements.,"Categories
+Office/Business, Algorithms, Sociology"
+"The aim of the project VIF is to create a next generation discussion forum, i.e. a forum with extended functionality that makes it especially suitable to discuss complex and controversial questions. Thus, VIF can be used as 'knowledge factory'.The aim of the project VIF is to create a next generation discussion forum, i.e. a forum with extended functionality that makes it especially suitable to discuss complex and controversial questions. Thus, VIF can be used as 'knowledge factory'.","Categories
+Sociology, Education"
+"The aim of Argos viewpoints server project is to propose a new standard protocol for community-driven organizations of knowledge, and make the collaboration possible beyond the boundaries of the software and of the resulting communities.The aim of Argos viewpoints server project is to propose a new standard protocol for community-driven organizations of knowledge, and make the collaboration possible beyond the boundaries of the software and of the resulting communities.","Categories
+Search Engines, Scientific/Engineering, Sociology"
+"Xingtu, 星圖, ""star map"" in Chinese, shows stars with their traditional Chinese names. It can be used in Google Sky to make new discoveries from ancient history. Models based on BSC5 and other star maps are also released.Xingtu, 星圖, ""star map"" in Chinese, shows stars with their traditional Chinese names. It can be used in Google Sky to make new discoveries from ancient history. Models based on BSC5 and other star maps are also released.","Categories
+Astronomy, History"
+"Utility for tracking cycles of menstruation and for prediction
+of next period's date. Also you can use this to keep encrypted photos
+in nice gallery.Utility for tracking cycles of menstruation and for prediction
+of next period's date. Also you can use this to keep encrypted photos
+in nice gallery.","Categories
+Medical, Sociology"
+"GeneaPro is a multi-user, cross-platform Genealogy database program based on the GenTech Genealogical Data Model. Written in Java using the Eclipse Rich Client Platform (RCP), Hibernate persistance, and SQL/JDBC databases (HSQLDB, MySQL, PostgreSQL).GeneaPro is a multi-user, cross-platform Genealogy database program based on the GenTech Genealogical Data Model. Written in Java using the Eclipse Rich Client Platform (RCP), Hibernate persistance, and SQL/JDBC databases (HSQLDB, MySQL, PostgreSQL).","Categories
+Genealogy"
+VoToL is an electronic voting system. VoToL č un sistema di voto elettronico per qualsiasi istituzione. E' un sistema di votazione via computerVoToL is an electronic voting system. VoToL č un sistema di voto elettronico per qualsiasi istituzione. E' un sistema di votazione via computer,"Categories
+Other/Nonlisted Topic, Office/Business, Database, Dynamic Content, Sociology, Education"
+The Open Translation Engine (OTE) is a web-based translation dictionary manager. The OTE allows a community of users to create and manage one or many translation dictionaries. The OTE is written in PHP and uses a MySQL database.The Open Translation Engine (OTE) is a web-based translation dictionary manager. The OTE allows a community of users to create and manage one or many translation dictionaries. The OTE is written in PHP and uses a MySQL database.,"Categories
+Sociology, Education, Linguistics, Dictionary"
+"a cross-platform application to decode, search, browse, view, print, and export TLG/PHI BetaCode texts. Project is currently being ported from wxWindows to Java. (For more info, see the project homepage at http://wxtlg.sourceforge.net)a cross-platform application to decode, search, browse, view, print, and export TLG/PHI BetaCode texts. Project is currently being ported from wxWindows to Java. (For more info, see the project homepage at http://wxtlg.sourceforge.net)","Categories
+Text Processing, Religion and Philosophy, Information Analysis, Sociology, Education"
+"Digital framework for social scientists willing to build, compare, and exchange qualitative analyses of textual materials.Digital framework for social scientists willing to build, compare, and exchange qualitative analyses of textual materials.","Categories
+Sociology"
+A web application which will serve as a web site builder for any scholar communityA web application which will serve as a web site builder for any scholar community,"Categories
+Sociology, School Management"
+Thoughts is an electronic journal/diary program based on the .NET framework (C#). It allows entries to be saved locally and/or remotely via web service or directly to a database. The entries can also be encrypted prior to saving.Thoughts is an electronic journal/diary program based on the .NET framework (C#). It allows entries to be saved locally and/or remotely via web service or directly to a database. The entries can also be encrypted prior to saving.,"Categories
+Communications, Cryptography, Sociology"
+"FreeBrain will be an application for the analysis of 2D neurophysiological signals, like heart-rate, EEG or eyemovements. It is aimed at those who want intuitive or free software and those who want a customizeble tool that can handle mixed datasets.FreeBrain will be an application for the analysis of 2D neurophysiological signals, like heart-rate, EEG or eyemovements. It is aimed at those who want intuitive or free software and those who want a customizeble tool that can handle mixed datasets.","Categories
+Medical, Information Analysis, Psychology"
+Nexist is being developed based on a few hypotheses regarding Topic Maps (XTM) as an interface to a collaborative knowledge repository system. Nexist is a reference implementation for further collaborative development.Nexist is being developed based on a few hypotheses regarding Topic Maps (XTM) as an interface to a collaborative knowledge repository system. Nexist is a reference implementation for further collaborative development.,"Categories
+HMI, Sociology, Computer Aided Instruction (CAI)"
+"The Christmas Gift Registry is a web based system that allows users to view and maintain their Gift List. Users can add, delete & update their own list as well as add, view & claim gifts for other users. The system also does random name draws among usersThe Christmas Gift Registry is a web based system that allows users to view and maintain their Gift List. Users can add, delete & update their own list as well as add, view & claim gifts for other users. The system also does random name draws among users","Categories
+Front-Ends, Dynamic Content, Sociology"
+"Dictionary program for PalmOS and kanji-finder. Fast, easy and small (from 900kB on), supports multiple dictionaries (Ja,En,De,Ru,Fr,Cn,Tw,Es,Pt) western, chinese, and of course japanese devices, with dictionaries in main memory or expansion cards.Dictionary program for PalmOS and kanji-finder. Fast, easy and small (from 900kB on), supports multiple dictionaries (Ja,En,De,Ru,Fr,Cn,Tw,Es,Pt) western, chinese, and of course japanese devices, with dictionaries in main memory or expansion cards.","Categories
+Front-Ends, Sociology"
+"NSN Groups ePetitions is an eActivism software. By installing this addon on a PHPNuke server, WebMasters can publish ePetitions. Users can also submit their ePetitions & manage them themself. A significant number of options makes it flexible.NSN Groups ePetitions is an eActivism software. By installing this addon on a PHPNuke server, WebMasters can publish ePetitions. Users can also submit their ePetitions & manage them themself. A significant number of options makes it flexible.","Categories
+Dynamic Content, Sociology"
+"Generates correctly formatted(MLA, APA, Chicago, CPE, Turabian) entries for works cited or bibliography pages.Generates correctly formatted(MLA, APA, Chicago, CPE, Turabian) entries for works cited or bibliography pages.","Categories
+Word Processors, Office Suites, Printing, History, Education"
+"ADSVote is an election result analyzer able to go from the raw results to a nice table and graph. Currently, it works for constituencies with proportional allocation methods like D'Hondt or Sainte-Lague.ADSVote is an election result analyzer able to go from the raw results to a nice table and graph. Currently, it works for constituencies with proportional allocation methods like D'Hondt or Sainte-Lague.","Categories
+Voting"
+"XWinGreek is small keyboard utility for inputting classical (polytonic) Greek in Unix/Linux systems with XWindow. It supports several encodings and uses dead key input method, like in ""Polytonic Greek"" keyboard layout from Windows 2000/XP distribution.XWinGreek is small keyboard utility for inputting classical (polytonic) Greek in Unix/Linux systems with XWindow. It supports several encodings and uses dead key input method, like in ""Polytonic Greek"" keyboard layout from Windows 2000/XP distribution.","Categories
+Text Processing, History, Education"
+"The Visitas project has created components, plug-ins, modules and templates that can be used when you want to build a Joomla based website suited for mobile phones.
+
+We have created a site for visitors/tourists using the extensions we have created but the different extensions can be used in other types of applications.The Visitas project has created components, plug-ins, modules and templates that can be used when you want to build a Joomla based website suited for mobile phones.
+
+We have created a site for visitors/tourists using the extensions we have created but the different extensions can be used in other types of applications.","Categories
+History, Mobile"
+"wxMUN is a tool for managing Model United Nations debates. It capacities include, but are not limited to, managing committee members and speakers' lists as well as voting procedures.wxMUN is a tool for managing Model United Nations debates. It capacities include, but are not limited to, managing committee members and speakers' lists as well as voting procedures.","Categories
+Conferencing, Politics"
+"REDECA is a software based on a eletronic network concept.
+REDECA é um software para montar uma REDE ELETRÔNICA, conceito inerente aos trabalhos em rede e à REDE DE PROTEÇÃO INTEGRAL À CRIANÇA E AO ADOLESCENTE, preconizado pelo ECA.REDECA is a software based on a eletronic network concept.
+REDECA é um software para montar uma REDE ELETRÔNICA, conceito inerente aos trabalhos em rede e à REDE DE PROTEÇÃO INTEGRAL À CRIANÇA E AO ADOLESCENTE, preconizado pelo ECA.","Categories
+Sociology"
+"myColex is a complete museum management and collection documentation system with longterm archiving capabilities based on Apache/PHP and mySQL. Manage your object inventories, events, pictures, addresses e.g. with your browser.myColex is a complete museum management and collection documentation system with longterm archiving capabilities based on Apache/PHP and mySQL. Manage your object inventories, events, pictures, addresses e.g. with your browser.","Categories
+Front-Ends, WWW/HTTP, History"
+"The Data Documentation Initiative (DDI) is an effort to establish an international XML-based standard for the content, presentation, transport, and preservation of documentation for datasets in the social and behavioral sciences.The Data Documentation Initiative (DDI) is an effort to establish an international XML-based standard for the content, presentation, transport, and preservation of documentation for datasets in the social and behavioral sciences.","Categories
+Software Development, Scientific/Engineering, Sociology, Education"
+"FreeJaPoll is a java servlet that make possible to add in a simple way a web-survey to your own site. It has a lot of features (see documentation or HomePage for details), it's easy to customize and to set-up in every servlet engine.FreeJaPoll is a java servlet that make possible to add in a simple way a web-survey to your own site. It has a lot of features (see documentation or HomePage for details), it's easy to customize and to set-up in every servlet engine.","Categories
+Dynamic Content, Sociology"
+"On The Mark is a video and image scoring system that allows one to mark any number of events and durations through a simple, easy-to-use graphical interface.On The Mark is a video and image scoring system that allows one to mark any number of events and durations through a simple, easy-to-use graphical interface.","Categories
+Data Visualization, Medical, Psychology"
+Atlas historique. Le logiciel permet de se promener dans le temps et sur la terre et de visualiser les dynasties et les pays qui ont dominé la région survolée à cette époque. Un texte à droite de la carte décrit la situation à ce moment.Atlas historique. Le logiciel permet de se promener dans le temps et sur la terre et de visualiser les dynasties et les pays qui ont dominé la région survolée à cette époque. Un texte à droite de la carte décrit la situation à ce moment.,"Categories
+History, Computer Aided Instruction (CAI)"
+Namesmapper is planned as an extensible application that visualizes distribution of surnames in a map. It supports historic maps based on import of Gedcom files as well as modern maps based on phone dictionaries and population census.Namesmapper is planned as an extensible application that visualizes distribution of surnames in a map. It supports historic maps based on import of Gedcom files as well as modern maps based on phone dictionaries and population census.,"Categories
+Sociology"
+MIM:InfiniX Manuale Intermediale della Modernita': Infinite Info in Xml PHP-XHTML-XML-XSL-CSS-AJAX-RDF. Design your CMS and store data in XML files and/or MySQL database. It's a multisite and multilanguage CMS. Flexible form with RDF on the database.MIM:InfiniX Manuale Intermediale della Modernita': Infinite Info in Xml PHP-XHTML-XML-XSL-CSS-AJAX-RDF. Design your CMS and store data in XML files and/or MySQL database. It's a multisite and multilanguage CMS. Flexible form with RDF on the database.,"Categories
+XML, History, Content Management Systems (CMS)"
+"DogRescue is a portal site, written in PHP which is used to track the activities of volunteers working for dog rescue organizations. It tracks the location and status of dogs, contact info for volunteers, and lots of other things.DogRescue is a portal site, written in PHP which is used to track the activities of volunteers working for dog rescue organizations. It tracks the location and status of dogs, contact info for volunteers, and lots of other things.","Categories
+BBS, Dynamic Content, Site Management, Sociology"

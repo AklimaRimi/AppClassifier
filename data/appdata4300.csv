@@ -1,0 +1,469 @@
+Description,Category
+"A simple command line tool, drop the Reverse.exe into the %systemroot% directory in Windows to call the program from the command line. Then just call like: Reverse /i Path\File.txt and the file will be overwritten with reversed text. Or an outfile can be specified Reverse /i Path\File.txt /o path\OutFile.txt this will leave the original file intact.
+
+A file containing:
+
+item 1
+item 2
+item 3
+
+Would then be reversed to
+item 3
+item 2
+item 1
+
+You can also remove blank lines with the switch /r, as of 1.0.1.0A simple command line tool, drop the Reverse.exe into the %systemroot% directory in Windows to call the program from the command line. Then just call like: Reverse /i Path\File.txt and the file will be overwritten with reversed text. Or an outfile can be specified Reverse /i Path\File.txt /o path\OutFile.txt this will leave the original file intact.
+
+A file containing:
+
+item 1
+item 2
+item 3
+
+Would then be reversed to
+item 3
+item 2
+item 1
+
+You can also remove blank lines with the switch /r, as of 1.0.1.0","Categories
+Desktop Environment, Command Line Tools"
+"Openbox always associated with ""lightweight"" distro. Although it (as window manager) has limitation - such as rounded corner, but it is a highly configurable window manager so ANOTHER BEAUTY STYLE can come beside ""minimalist"" styles.
+
+Objective of the project is to produce openbox themes with following specs:
+-Consist of 2 areas definition (each almost in uniform color): window and button, This is implemented to ""themerc"" structure.
+-Impression as thick or wide window border,
+-Impression that inactive window behind active one,
+-Square impression of buttons removed, if possible the buttons are in different color,
+-Button marks designed 'consistently' based on BOX concept
+
+Themes included in package version:
+-UBUNTU FLAVOR (Ambiance and radiance),
+-CLASSICS (Clearlooks and Human),
+-FLAT (FlatCarbon and FlatSuperwhite),
+-CURVED (CurvedDark and CurvedLight),
+-extra WINDOWS FLAVOR (Seven and Eight).
+
+Enjoy with new taste!Openbox always associated with ""lightweight"" distro. Although it (as window manager) has limitation - such as rounded corner, but it is a highly configurable window manager so ANOTHER BEAUTY STYLE can come beside ""minimalist"" styles.
+
+Objective of the project is to produce openbox themes with following specs:
+-Consist of 2 areas definition (each almost in uniform color): window and button, This is implemented to ""themerc"" structure.
+-Impression as thick or wide window border,
+-Impression that inactive window behind active one,
+-Square impression of buttons removed, if possible the buttons are in different color,
+-Button marks designed 'consistently' based on BOX concept
+
+Themes included in package version:
+-UBUNTU FLAVOR (Ambiance and radiance),
+-CLASSICS (Clearlooks and Human),
+-FLAT (FlatCarbon and FlatSuperwhite),
+-CURVED (CurvedDark and CurvedLight),
+-extra WINDOWS FLAVOR (Seven and Eight).
+
+Enjoy with new taste!","Categories
+Window Managers"
+"This project provides a native Plugin for managing Linux-ACLs within the file explorer Nautilus (see screenshots).
+
+It uses Polkit for changing system file ACLs.This project provides a native Plugin for managing Linux-ACLs within the file explorer Nautilus (see screenshots).
+
+It uses Polkit for changing system file ACLs.","Categories
+GNOME"
+"PiBang is a CrunchBang Linux inspired Openbox distribution for the Raspberry Pi. Instead of education users, PiBang focuses on being a desktop replacement for general users and developers.PiBang is a CrunchBang Linux inspired Openbox distribution for the Raspberry Pi. Instead of education users, PiBang focuses on being a desktop replacement for general users and developers.","Categories
+Desktop Environment"
+"When DPI is set to 200%, Windows 8's standard cursors will show dirty outlines due to lack of larger images. This tool lets you change cursors to high DPI cursors that contain larger images and have similar appearance to default ones. With these cursors, even when DPI is 200%, cursors will look clean and clear.When DPI is set to 200%, Windows 8's standard cursors will show dirty outlines due to lack of larger images. This tool lets you change cursors to high DPI cursors that contain larger images and have similar appearance to default ones. With these cursors, even when DPI is 200%, cursors will look clean and clear.","Categories
+Desktop Environment"
+"dwos is a distribute WEB-desktop OS. It mainly contains a WEB desktop environment, a chat-online system, a network disk system, a Scientific Computing platform(developing) and so on. It is developed by JAVA language using the JSH(JSF+Spring+Hibernate) framework. After about half year testing, now it's open source, you can download it and run on your computer, Tomcat and jetty server container are tested ok. It's developed by myself, more about me, see here:
+http://home.ustc.edu.cn/~chh1990/chero/chero.htmldwos is a distribute WEB-desktop OS. It mainly contains a WEB desktop environment, a chat-online system, a network disk system, a Scientific Computing platform(developing) and so on. It is developed by JAVA language using the JSH(JSF+Spring+Hibernate) framework. After about half year testing, now it's open source, you can download it and run on your computer, Tomcat and jetty server container are tested ok. It's developed by myself, more about me, see here:
+http://home.ustc.edu.cn/~chh1990/chero/chero.html","Categories
+Desktop Environment, Social Networking, Research"
+"smartCOM is a graphical serial device terminal, it's an alternative to minicom. It is aimed mainly at hardware developers who need a gui test tools to talk to their custom hardware. The GUI is written using the wxWidgets library, and using the tinyxml to save or load config.
+http://gnssinfo.com/2012/11/21/wiki-smartcom/smartCOM is a graphical serial device terminal, it's an alternative to minicom. It is aimed mainly at hardware developers who need a gui test tools to talk to their custom hardware. The GUI is written using the wxWidgets library, and using the tinyxml to save or load config.
+http://gnssinfo.com/2012/11/21/wiki-smartcom/","Categories
+Serial, Desktop Environment, Embedded Systems"
+"Remember the pixely Bezier lines? They're gone. Now we have transparent, anti aliased polygons in true 3D. The future of this is already clear: real time path tracing of turbid media, and a haze of glowing droplets. Just wait.Remember the pixely Bezier lines? They're gone. Now we have transparent, anti aliased polygons in true 3D. The future of this is already clear: real time path tracing of turbid media, and a haze of glowing droplets. Just wait.","Categories
+Screen Savers"
+A very low resource usage desktop Gadget-shows you live cricket matches' scores alongwith recent results and upcoming matches. Very low on bandwidth usage too. Works equally efficiently on slowest of networks. A must have Desktop Gadget for Cricket Lovers.A very low resource usage desktop Gadget-shows you live cricket matches' scores alongwith recent results and upcoming matches. Very low on bandwidth usage too. Works equally efficiently on slowest of networks. A must have Desktop Gadget for Cricket Lovers.,"Categories
+Desktop Environment"
+"A normal Gtk 3 Theme. Based on the ubuntu 12.10 standard themes. It is usable but there are still some bugs.
+1: the unecessary blue tab selected color
+If someone has the time to ""write"" a bugfix please send me a message : bluedxca93@googlemail.comA normal Gtk 3 Theme. Based on the ubuntu 12.10 standard themes. It is usable but there are still some bugs.
+1: the unecessary blue tab selected color
+If someone has the time to ""write"" a bugfix please send me a message : bluedxca93@googlemail.com","Categories
+GNOME"
+"Scientific Calculator includes the following features:
+* Traditional algebraic or RPN operation
+* Result history
+* Math Functions
+* Percentages
+* Binary, octal, and hexadecimal conversion
+* Large input/output display
+
+I believe it is the best tool for everone get it it's free.Scientific Calculator includes the following features:
+* Traditional algebraic or RPN operation
+* Result history
+* Math Functions
+* Percentages
+* Binary, octal, and hexadecimal conversion
+* Large input/output display
+
+I believe it is the best tool for everone get it it's free.","Categories
+Desktop Environment, GNOME, Education, Calculators, RPN Calculators"
+"Files Arranger helps you to arrange files by easy steps, you can use it to backup your data before formatting your computer, or to store it, your files must be arranged!Files Arranger helps you to arrange files by easy steps, you can use it to backup your data before formatting your computer, or to store it, your files must be arranged!","Categories
+Other/Nonlisted Topic, Desktop Environment"
+"Maktabah Al-Miftah is a Linux digital book reader for Shamela eBook (.bok), Thwab eBook (.th) and its own eBook (.mfth). Version 3.3 is not compatible with Ubuntu 15.10 and up. Now, version 3.4 runs on Lubuntu 17.04. Its installation is on the following Web Site:
+
+Maktabah Al-Miftah adalah pembaca kitab digital Linux untuk eBook Syamilah (.bok), eBook Thwab (.th), dan eBooknya sendiri (.mfth). Versi 3.3 tidak kompatibel dengan Ubuntu 15.10 ke atas. Sekarang, versi 3.4 dapat berjalan di Lubuntu 17.04. Cara pemasangannya ada di Situs Web berikut:Maktabah Al-Miftah is a Linux digital book reader for Shamela eBook (.bok), Thwab eBook (.th) and its own eBook (.mfth). Version 3.3 is not compatible with Ubuntu 15.10 and up. Now, version 3.4 runs on Lubuntu 17.04. Its installation is on the following Web Site:
+
+Maktabah Al-Miftah adalah pembaca kitab digital Linux untuk eBook Syamilah (.bok), eBook Thwab (.th), dan eBooknya sendiri (.mfth). Versi 3.3 tidak kompatibel dengan Ubuntu 15.10 ke atas. Sekarang, versi 3.4 dapat berjalan di Lubuntu 17.04. Cara pemasangannya ada di Situs Web berikut:","Categories
+GNOME, Religion and Philosophy, Research"
+"KSokoban is a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse, trying to get them to storage locations.
+
+Rules:
+
+1. Only one box can be pushed at a time.
+2. A box cannot be pulled.
+3. The player cannot walk through boxes or walls.
+4. The puzzle is solved when all boxes are located at storage locations.
+
+KSokoban original game is available under http://hem.passagen.se/awl/ksokoban/ and was written by Anders Widell, so this project is ported from old KSokoban game for kde3, and now requires KDE4 and Qt4KSokoban is a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse, trying to get them to storage locations.
+
+Rules:
+
+1. Only one box can be pushed at a time.
+2. A box cannot be pulled.
+3. The player cannot walk through boxes or walls.
+4. The puzzle is solved when all boxes are located at storage locations.
+
+KSokoban original game is available under http://hem.passagen.se/awl/ksokoban/ and was written by Anders Widell, so this project is ported from old KSokoban game for kde3, and now requires KDE4 and Qt4","Categories
+KDE, Puzzle Games"
+"Simple meters for monitoring your BigPond data quotas.
+
+Version 0.5b
+- Fix issue caused by change in data from BigPond
+
+Note: I encourage the development of your own skins the best can be included if you like.
+
+******* SPECIAL NOTE *******
+This is the only safe place to download the skins I have created. Please do not get copies from your friends or other forum sites. The scripts downloaded here are the authentic kanine customisations.
+*********************************Simple meters for monitoring your BigPond data quotas.
+
+Version 0.5b
+- Fix issue caused by change in data from BigPond
+
+Note: I encourage the development of your own skins the best can be included if you like.
+
+******* SPECIAL NOTE *******
+This is the only safe place to download the skins I have created. Please do not get copies from your friends or other forum sites. The scripts downloaded here are the authentic kanine customisations.
+*********************************","Categories
+Desktop Environment"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Desktop Environment"
+"This is a small application displaying Iranian (shamsi or Jalali) calendar in windows 8.
+Here we tried to show the concept of live tiles in windows 8 and Metro style UI in a small application.
+
+This application developed with Microsoft Visual Studio Express 2012 RC for windows 8This is a small application displaying Iranian (shamsi or Jalali) calendar in windows 8.
+Here we tried to show the concept of live tiles in windows 8 and Metro style UI in a small application.
+
+This application developed with Microsoft Visual Studio Express 2012 RC for windows 8","Categories
+Desktop Environment"
+"“ClassleSoft Extension Changer and Image convertor 1.0″ is simple application lets you easily change the extension of a single file or multiple files or multiple files in folders. Users can simply Drag and Drop files or browse & select files from File browse dialog and with a click of button, new files with new extension will be created in matter of seconds. The new extension files will be saved in their respective folders as their original ones. This utility is easy to use, does exactly what it says, and is offered free of charge.
+
+This program also allows you to convert Image/Picture files from one format to another format very easily. For example, you can convert a “.PNG” file into “.jpg” file. Batch Processing of thousands of image files at same time is undoubtedly its best feature of all. How ever it supports, image/picture files with .jpg, .png, .gif, .bmp, .tiff extensions.
+
+Whats new in version 1.2?
+* Slightly improved conversion speed
+* Identified bugs fixed.“ClassleSoft Extension Changer and Image convertor 1.0″ is simple application lets you easily change the extension of a single file or multiple files or multiple files in folders. Users can simply Drag and Drop files or browse & select files from File browse dialog and with a click of button, new files with new extension will be created in matter of seconds. The new extension files will be saved in their respective folders as their original ones. This utility is easy to use, does exactly what it says, and is offered free of charge.
+
+This program also allows you to convert Image/Picture files from one format to another format very easily. For example, you can convert a “.PNG” file into “.jpg” file. Batch Processing of thousands of image files at same time is undoubtedly its best feature of all. How ever it supports, image/picture files with .jpg, .png, .gif, .bmp, .tiff extensions.
+
+Whats new in version 1.2?
+* Slightly improved conversion speed
+* Identified bugs fixed.","Categories
+Desktop Environment"
+Send Fun Effects for Yahoo MessengerSend Fun Effects for Yahoo Messenger,"Categories
+Communications, Chat, Desktop Environment, Messaging"
+Providing users the ability to with accuracy map all inbound and outbound TCP/UDP connections to a Process ID and process owner. The application will also map a port to various performance metrics like processor and memory utilization.Providing users the ability to with accuracy map all inbound and outbound TCP/UDP connections to a Process ID and process owner. The application will also map a port to various performance metrics like processor and memory utilization.,"Categories
+Security, Desktop Environment, Logging"
+"一个自己开发的LINUX桌面环境（Desktop Environment）
+3.0.4版本发布！！！
+请到ubuntu中文看细节。
+http://forum.ubuntu.org.cn/viewtopic.php?f=1&t=372366
+wiki：
+https://sourceforge.net/p/icon-de/wiki/Home/
+注意：有多个DEB包，不要直接点“Download Now”按钮，请点击“笑脸”进入项目“Summary”页，然后点“Files”或者“Browse All Files”，再分别下载安装。
+不要只下载其中一个。否则可能运行不正常。
+arch用户的安装包里面，已经包含源码，可解压和本地编译。一个自己开发的LINUX桌面环境（Desktop Environment）
+3.0.4版本发布！！！
+请到ubuntu中文看细节。
+http://forum.ubuntu.org.cn/viewtopic.php?f=1&t=372366
+wiki：
+https://sourceforge.net/p/icon-de/wiki/Home/
+注意：有多个DEB包，不要直接点“Download Now”按钮，请点击“笑脸”进入项目“Summary”页，然后点“Files”或者“Browse All Files”，再分别下载安装。
+不要只下载其中一个。否则可能运行不正常。
+arch用户的安装包里面，已经包含源码，可解压和本地编译。","Categories
+File Sharing, Desktop Environment, System"
+"Easy Clipboard Organizer is an open, extendable and eye candy clipboard manager. You can browse history of copied texts and files, translate selected text, simultaneously paste files from different directories or save part of the screen to clipboard or file. By using plugins and themes you can customize the functionality and appearance to your needs. If you are an office worker, programmer, student or you are just working with texts or files - ECO will make your life easier.Easy Clipboard Organizer is an open, extendable and eye candy clipboard manager. You can browse history of copied texts and files, translate selected text, simultaneously paste files from different directories or save part of the screen to clipboard or file. By using plugins and themes you can customize the functionality and appearance to your needs. If you are an office worker, programmer, student or you are just working with texts or files - ECO will make your life easier.","Categories
+Desktop Environment, Clipboard Managers"
+"SharpDot is an xcursor theme for X11 desktop environments. Main cursors mostly named according to Freedesktop cursor spec, with symlinks to satisfy legacy and hash names for maximum compatibility with applications that use xcursors.SharpDot is an xcursor theme for X11 desktop environments. Main cursors mostly named according to Freedesktop cursor spec, with symlinks to satisfy legacy and hash names for maximum compatibility with applications that use xcursors.","Categories
+Desktop Environment"
+This Software is a very interesting software.This Software is a very interesting software.,"Categories
+Desktop Environment"
+"MailChecker is a simple system tray email notifier. It handles multiple accounts and supports AOL, Gmail, etc... and many more webmail services with IMAP enabled. It has a simple easy-to-use user interface and configuration panel.MailChecker is a simple system tray email notifier. It handles multiple accounts and supports AOL, Gmail, etc... and many more webmail services with IMAP enabled. It has a simple easy-to-use user interface and configuration panel.","Categories
+IMAP, Window Managers"
+"You have to work on Windows XP and you miss Windows Snap, your Windows 7 favorite keyboard shortcut Win + Arrow Keys? SuperResizedMe is there for you! Have a look at the wiki for more information.You have to work on Windows XP and you miss Windows Snap, your Windows 7 favorite keyboard shortcut Win + Arrow Keys? SuperResizedMe is there for you! Have a look at the wiki for more information.","Categories
+Window Managers"
+"Power searching without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to grep.
+
+Fork have new features like displaying context of files and ""Open With"" menu in Linux with KDE.Power searching without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to grep.
+
+Fork have new features like displaying context of files and ""Open With"" menu in Linux with KDE.","Categories
+Desktop Environment, Software Development, Search"
+"Sistema Operacional baseado no Ubuntu 11.04 (natty) 64bits destinado à profissionais e estudantes de eletrônica. O sistema foi gerado principalmente para trabalhos elaborados com o hardware arduino, mas foi evoluindo e hoje trabalha com vários outros equipamentos. A senha para login (Arduino ou root) é arduino.
+Para baixar pelo DropBox, eis o link:
+http://dl.dropbox.com/u/65818773/arduloko.iso
+
+User: Arduino
+Pass: arduino
+
+User: Root
+Pass: arduinoSistema Operacional baseado no Ubuntu 11.04 (natty) 64bits destinado à profissionais e estudantes de eletrônica. O sistema foi gerado principalmente para trabalhos elaborados com o hardware arduino, mas foi evoluindo e hoje trabalha com vários outros equipamentos. A senha para login (Arduino ou root) é arduino.
+Para baixar pelo DropBox, eis o link:
+http://dl.dropbox.com/u/65818773/arduloko.iso
+
+User: Arduino
+Pass: arduino
+
+User: Root
+Pass: arduino","Categories
+GNOME, Scientific/Engineering, Exam"
+"qapod - Fetch each day a new picture from web, store them and put them onto your background, now mainly apod (astronomic picture of the day, http://antwrp.gsfc.nasa.gov/apod/astropix.html). It can also greet YOU with a nice picture every morning :-)qapod - Fetch each day a new picture from web, store them and put them onto your background, now mainly apod (astronomic picture of the day, http://antwrp.gsfc.nasa.gov/apod/astropix.html). It can also greet YOU with a nice picture every morning :-)","Categories
+Desktop Environment, Graphics, Astronomy"
+"KLudoteca es una aplicacion para gestionar ludotecas, esta aplicación esta diseñada especialmente para trabajar sobre KDE.KLudoteca es una aplicacion para gestionar ludotecas, esta aplicación esta diseñada especialmente para trabajar sobre KDE.","Categories
+Point of Sale (POS), KDE"
+gXiso is a GTK2 tool to extract and/or upload via FTP Xbox iso images.gXiso is a GTK2 tool to extract and/or upload via FTP Xbox iso images.,"Categories
+Desktop Environment"
+"Rubrica is an address book for GNOME. It allows you to add personal data (name, surname, address, etc.), Web links, email addresses, ircs, telephone numbers, job information (company where contact works, company infos, contact's assigment, etc.) and notesRubrica is an address book for GNOME. It allows you to add personal data (name, surname, address, etc.), Web links, email addresses, ircs, telephone numbers, job information (company where contact works, company infos, contact's assigment, etc.) and notes","Categories
+Database, GNOME"
+"SLiM (Simple Login Manager) is a graphical, desktop-independent login manager for X11.SLiM (Simple Login Manager) is a graphical, desktop-independent login manager for X11.","Categories
+Desktop Environment"
+"ippfp is a set of php-classes aimed at building interfaces quickly and indepently from output format (xhtml, pdf, gtk, ncurses). You can create input masks or other user interfaces. This is an auxiliary site for http://sourceforge.net/projects/ippfpippfp is a set of php-classes aimed at building interfaces quickly and indepently from output format (xhtml, pdf, gtk, ncurses). You can create input masks or other user interfaces. This is an auxiliary site for http://sourceforge.net/projects/ippfp","Categories
+Desktop Environment, WWW/HTTP, Software Development"
+"Haiku is an open-source operating system currently in development designed from the ground up for desktop computing. Inspired by the BeOS, Haiku aims to provide a computing experience that is simple yet powerful, and free of any unnecessary complexities.Haiku is an open-source operating system currently in development designed from the ground up for desktop computing. Inspired by the BeOS, Haiku aims to provide a computing experience that is simple yet powerful, and free of any unnecessary complexities.","Categories
+Desktop Environment, Operating System Kernels"
+kio_gopher is a gopher kioslave. Kioslave is a kde technology that allows kde programs to access a given protocol. Gopher is an internet protocol similar to http with only text and links. That means you will get gopher:// support in Konqueror.kio_gopher is a gopher kioslave. Kioslave is a kde technology that allows kde programs to access a given protocol. Gopher is an internet protocol similar to http with only text and links. That means you will get gopher:// support in Konqueror.,"Categories
+KDE, Internet"
+Workman keyboard layout and Workman-P (Workman for Programmers) implemented for Portable Keyboard Layout (pkl.sourceforge.net).Workman keyboard layout and Workman-P (Workman for Programmers) implemented for Portable Keyboard Layout (pkl.sourceforge.net).,"Categories
+Office/Business, Desktop Environment, Hardware"
+"Looking for something that can copy nested folders without copying any files? Look no further. Folder Tree Clone does exactly that. It can create a clone of your chosen folder tree, a perfect duplicate of the entire folder structure without any of the files. No installation and highly easy to use. And it's here for free!Looking for something that can copy nested folders without copying any files? Look no further. Folder Tree Clone does exactly that. It can create a clone of your chosen folder tree, a perfect duplicate of the entire folder structure without any of the files. No installation and highly easy to use. And it's here for free!","Categories
+Desktop Environment"
+This engine is not an attemp to re-inventing the wheel. It is a more learning-oriented project than something intended to provide a wide set of features. The approach to the OpenGL in this engine is something very experimental born from my own thoughts and can be usefull in future. If you want to help for your portfolio just ask: the TODO list is very long :)This engine is not an attemp to re-inventing the wheel. It is a more learning-oriented project than something intended to provide a wide set of features. The approach to the OpenGL in this engine is something very experimental born from my own thoughts and can be usefull in future. If you want to help for your portfolio just ask: the TODO list is very long :),"Categories
+Window Managers, 3D Rendering, Research"
+"SyncWall is quite a basic wallpaper changer with a special feature, it is the ability
+to synchronize wallpaper change between several workstations with a basic (and unsecured)
+client/server protocol. Each workstation must share the same pool of files, there is no
+FTP or Internet download.
+Because SyncWall is written with Qt, SyncWall runs on Windows and Linux (MacOSX isn't tested yet).SyncWall is quite a basic wallpaper changer with a special feature, it is the ability
+to synchronize wallpaper change between several workstations with a basic (and unsecured)
+client/server protocol. Each workstation must share the same pool of files, there is no
+FTP or Internet download.
+Because SyncWall is written with Qt, SyncWall runs on Windows and Linux (MacOSX isn't tested yet).","Categories
+Window Managers, KDE, GNOME"
+"Reminds your important events, and also access the system uptime by simply mouse over on the icon in system tray.Reminds your important events, and also access the system uptime by simply mouse over on the icon in system tray.","Categories
+Desktop Environment, System"
+"www.786software.com
+
+www.bulksm.java-abc.com
+Bulk SMS Sender / Marketer Software have wide range of uses. By connecting your mobile set with computer user can send unlimited sms on single click. BSM can be used to promote business of every type. It has unlimited groups, unlimited contact no in each group. User can import contact no from Excel Sheet..
+
+www.bulksms.java-abc.com
+
+BSS can be used almost in every field of life due to its vast usage.For any type of business like school, college, services, political campaigned, product marketing, announcements, retail business etc. To promote your business or product in short time just in minutes Bulk SMS Marketer is very helpful.
+
+
+We can also customized Bulk SMS Marketer with your already built in software like inventory management system , school management system , hotel management system , hospital management system , booking system , order delivery system , payroll system ,Restaurants, Hotels, Cafes, Event Promoters etwww.786software.com
+
+www.bulksm.java-abc.com
+Bulk SMS Sender / Marketer Software have wide range of uses. By connecting your mobile set with computer user can send unlimited sms on single click. BSM can be used to promote business of every type. It has unlimited groups, unlimited contact no in each group. User can import contact no from Excel Sheet..
+
+www.bulksms.java-abc.com
+
+BSS can be used almost in every field of life due to its vast usage.For any type of business like school, college, services, political campaigned, product marketing, announcements, retail business etc. To promote your business or product in short time just in minutes Bulk SMS Marketer is very helpful.
+
+
+We can also customized Bulk SMS Marketer with your already built in software like inventory management system , school management system , hotel management system , hospital management system , booking system , order delivery system , payroll system ,Restaurants, Hotels, Cafes, Event Promoters et","Categories
+Desktop Environment, Hospital Management"
+"Multiple Desktops for Windows is a fast, lightweight application that provides in the Windows environment a function similar to Linux workspaces. It allows to organize your windows in various desktops and to move them between desktops.Multiple Desktops for Windows is a fast, lightweight application that provides in the Windows environment a function similar to Linux workspaces. It allows to organize your windows in various desktops and to move them between desktops.","Categories
+Window Managers"
+"Hello.
+Open Flash Grapix is a project inspired by the components easier to use graphics, basically just using these graphics in Visual Web sites or applications, in our case several times, we need graphs with Bezier curves combined with line graphsHello.
+Open Flash Grapix is a project inspired by the components easier to use graphics, basically just using these graphics in Visual Web sites or applications, in our case several times, we need graphs with Bezier curves combined with line graphs","Categories
+BBS, Desktop Environment"
+"CANAIMA is a complete GNU/Linux operating system/distribution developped in the Bolivarian Republic of Venezuela, with both community and goverment support. It comes with thousands of packages. It aims to be fast, stable, secure, and flexible.CANAIMA is a complete GNU/Linux operating system/distribution developped in the Bolivarian Republic of Venezuela, with both community and goverment support. It comes with thousands of packages. It aims to be fast, stable, secure, and flexible.","Categories
+Desktop Environment, Hardware Drivers"
+"KAccessPartitions gives you the ability to access your partitions easily and
+view useful information about them.KAccessPartitions gives you the ability to access your partitions easily and
+view useful information about them.","Categories
+KDE"
+"PE17 is Enlightenment e17 running on Debian Squeeze 32/64 and Sid 64. Live DVD or installed to desktop. Includes engage, places, calendar modules, Remastersys, Firefox, Gimp, etc.PE17 is Enlightenment e17 running on Debian Squeeze 32/64 and Sid 64. Live DVD or installed to desktop. Includes engage, places, calendar modules, Remastersys, Firefox, Gimp, etc.","Categories
+Enlightenment"
+"A lot of my friends want to try out Linux. They are confused and spoilt with choices on the internet. Making my own remastered distribution based on Ubuntu's latest offering, Unity.A lot of my friends want to try out Linux. They are confused and spoilt with choices on the internet. Making my own remastered distribution based on Ubuntu's latest offering, Unity.","Categories
+GNOME"
+A docking framework library for Gtk Sharp developments.A docking framework library for Gtk Sharp developments.,"Categories
+Window Managers, Frameworks, User Interface (UI)"
+"Transfer your info from Excel to your Mobile device and bring it back again.
+
+Your mobile device is capable of much more than just providing you with access to social media, online shopping, email and maps. If you need to take info with you or collect it away from your home or office, Coral View_pod enables you to create a lite weight database (infobase) on your PC. You can populate your infobase with infoitems and transfer it from your PC to your mobile device using email, Dropbox or even just a Usb cable.
+
+If you can update a Microsoft Excel worksheet then you can create your own customised infobase.
+
+If you update or add any infoitems on your mobile device the infoitem changes can be transfered back to the infobase on your PC using any of the android 'share' functions such as email, Dropbox, Bluetooth etc.
+
+Infoitems can be:
+- Text data
+- Dropdown lists
+- Numeric values
+- Gps locations
+- Timestamps
+- Photos
+- Notes
+- Document attachments
+
+Take IT with you.Transfer your info from Excel to your Mobile device and bring it back again.
+
+Your mobile device is capable of much more than just providing you with access to social media, online shopping, email and maps. If you need to take info with you or collect it away from your home or office, Coral View_pod enables you to create a lite weight database (infobase) on your PC. You can populate your infobase with infoitems and transfer it from your PC to your mobile device using email, Dropbox or even just a Usb cable.
+
+If you can update a Microsoft Excel worksheet then you can create your own customised infobase.
+
+If you update or add any infoitems on your mobile device the infoitem changes can be transfered back to the infobase on your PC using any of the android 'share' functions such as email, Dropbox, Bluetooth etc.
+
+Infoitems can be:
+- Text data
+- Dropdown lists
+- Numeric values
+- Gps locations
+- Timestamps
+- Photos
+- Notes
+- Document attachments
+
+Take IT with you.","Categories
+Database, Desktop Environment, Mobile"
+"iGolaware is an Ubuntu based Linux distribution, fine tuned for all your needs, that you require from your PC at home. We've included many extra programs, codecs and drivers that give the best ever PC user experience.iGolaware is an Ubuntu based Linux distribution, fine tuned for all your needs, that you require from your PC at home. We've included many extra programs, codecs and drivers that give the best ever PC user experience.","Categories
+GNOME, OS distribution"
+Shandong University Open-source H3C 802.1x client with GTK+ GUIShandong University Open-source H3C 802.1x client with GTK+ GUI,"Categories
+GNOME"
+"WinScreener - it is a simple utility, that takes screenshots from the specified window. Main goal of utility - monitoring overlapped window. Sometimes a long time process appears. And in this time you want to surf Internet.WinScreener - it is a simple utility, that takes screenshots from the specified window. Main goal of utility - monitoring overlapped window. Sometimes a long time process appears. And in this time you want to surf Internet.","Categories
+Desktop Environment"
+This is a fork of the FengGUI project which can be found here https://sourceforge.net/projects/fenggui/. Why a fork? Because we're in a rush of getting FengGUI to work for betaville http://betaville.net.This is a fork of the FengGUI project which can be found here https://sourceforge.net/projects/fenggui/. Why a fork? Because we're in a rush of getting FengGUI to work for betaville http://betaville.net.,"Categories
+Desktop Environment, Games/Entertainment, User Interface (UI)"
+"Programa para crear un lista de archivos en un fichero de texto, contenidos en un directorio y subdirectorios.Programa para crear un lista de archivos en un fichero de texto, contenidos en un directorio y subdirectorios.","Categories
+Window Managers"
+A small group of programs built by me that test what I've been learning about programming in school.A small group of programs built by me that test what I've been learning about programming in school.,"Categories
+Desktop Environment"
+"SuperLnk is a Windows utility to create menus tied to shortcuts, and provides an easy way to reduce clutter on your desktop by grouping similar files and application in an easy to use menu.SuperLnk is a Windows utility to create menus tied to shortcuts, and provides an easy way to reduce clutter on your desktop by grouping similar files and application in an easy to use menu.","Categories
+Desktop Environment"
+"XMasMoods converts your Window, Mac and Linux desktop into a Christmas enhanced workstation. Blinking lights, falling snow and Santa himself will give your desktop a brand new look! Originally made for Mac OS X, but runs on Windows and Linux too.XMasMoods converts your Window, Mac and Linux desktop into a Christmas enhanced workstation. Blinking lights, falling snow and Santa himself will give your desktop a brand new look! Originally made for Mac OS X, but runs on Windows and Linux too.","Categories
+Desktop Environment, Games/Entertainment, Multimedia"
+The r2d2-MM ProJect: Welcome!The r2d2-MM ProJect: Welcome!,"Categories
+Desktop Environment, Systems Administration, Home Automation"
+"Software para controle de biblioteca de universidade, com possibilidade de usuários externosSoftware para controle de biblioteca de universidade, com possibilidade de usuários externos","Categories
+Desktop Environment"
+"JListenToMe lets you take control of eSpeak so comfortable, thanks to its friendly graphical interface and easy configuration. It is too easy and the best, is free software!.JListenToMe lets you take control of eSpeak so comfortable, thanks to its friendly graphical interface and easy configuration. It is too easy and the best, is free software!.","Categories
+KDE, GNOME, Speech"
+A Windows utility program for maintaining your temporary files.A Windows utility program for maintaining your temporary files.,"Categories
+Desktop Environment"
+This software is an open source light-weight SCRUM tool. The developer who uses ScrumBones is one whom develops alone -- appreciating a bare-bones method of light and agile self-management.This software is an open source light-weight SCRUM tool. The developer who uses ScrumBones is one whom develops alone -- appreciating a bare-bones method of light and agile self-management.,"Categories
+Desktop Environment, Documentation, Agile Development Tools"
+"Wallpaper changer can change wallpaper after an delay, boost system performance [on XP], show calendar, moon state, reminder, and memory state and famous quote.
+Based on .NET Framework 4.0Wallpaper changer can change wallpaper after an delay, boost system performance [on XP], show calendar, moon state, reminder, and memory state and famous quote.
+Based on .NET Framework 4.0","Categories
+Desktop Environment"
+Monospaced bitmap font embedded into ttf with ASCII & cyrillic charsets intended for programmingMonospaced bitmap font embedded into ttf with ASCII & cyrillic charsets intended for programming,"Categories
+Fonts"
+"NinjaClick is a free easy and simple open source auto clicking application. It's only available for Windows at the moment, but a Linux version will be in the mix shortly.NinjaClick is a free easy and simple open source auto clicking application. It's only available for Windows at the moment, but a Linux version will be in the mix shortly.","Categories
+Desktop Environment"
+The Open Palmtop Integrated Environment (Opie) is a completely Open Source based graphical user environment and suite of applications for PDAs and other devices running Linux.The Open Palmtop Integrated Environment (Opie) is a completely Open Source based graphical user environment and suite of applications for PDAs and other devices running Linux.,"Categories
+Desktop Environment, Embedded Systems"
+"A three-dimensional, animated screen saver for Windows, showing a view of the Solar System.A three-dimensional, animated screen saver for Windows, showing a view of the Solar System.","Categories
+Screen Savers"
+"(РУ) Программа позволяющая размещать небольшие заметки на рабочем экране. Написана на Java (TM) в среде Eclipse (TM). Проверялась на Win XP, Win7 и Ubuntu 10.(РУ) Программа позволяющая размещать небольшие заметки на рабочем экране. Написана на Java (TM) в среде Eclipse (TM). Проверялась на Win XP, Win7 и Ubuntu 10.","Categories
+Desktop Environment"
+"Screen Captain is a Windows application to capture precise screen shots, and schedule timed screen shots to monitor activity. It runs in the background when taking timed screen shots. Also includes complete help section for detailed assistance.Screen Captain is a Windows application to capture precise screen shots, and schedule timed screen shots to monitor activity. It runs in the background when taking timed screen shots. Also includes complete help section for detailed assistance.","Categories
+Desktop Environment, Screen Capture, School Management"
+"PyStatusBar is based on the idea of i3status, but completely new programmed in python and expandable by plugins, so that you can do nearly everything with it without a change in the main program.PyStatusBar is based on the idea of i3status, but completely new programmed in python and expandable by plugins, so that you can do nearly everything with it without a change in the main program.","Categories
+Desktop Environment"
+Eaglefiles is a program that password protects your files with networking capabilities.You have the choice of hiding your files or not.Eaglefiles is a program that password protects your files with networking capabilities.You have the choice of hiding your files or not.,"Categories
+Desktop Environment"
+LongBar is an alternative tile-based sidebar for Windows XP/Vista/7. It is based on idea of Longhorn Sidebar. LongBar shows some relevant information to user using tiles. LongBar written in C# using Microsoft .NET Framework 3.5 and WPF.LongBar is an alternative tile-based sidebar for Windows XP/Vista/7. It is based on idea of Longhorn Sidebar. LongBar shows some relevant information to user using tiles. LongBar written in C# using Microsoft .NET Framework 3.5 and WPF.,"Categories
+Desktop Environment"
+EZ Skin Forger is a skin design software for EZ Flash V kernel. Visual UI for users and easy using.EZ Skin Forger is a skin design software for EZ Flash V kernel. Visual UI for users and easy using.,"Categories
+Desktop Environment"
+"Wind is a window manager for the X Window System. It supports virtual desktops, optional Xft font rendering, and is fairly standards compliant.Wind is a window manager for the X Window System. It supports virtual desktops, optional Xft font rendering, and is fairly standards compliant.","Categories
+Window Managers"
+A simple applet for the Gnome WM that will translate a single word using the Google Translate API.A simple applet for the Gnome WM that will translate a single word using the Google Translate API.,"Categories
+GNOME"
+** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME** ** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME**** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME** ** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME**,"Categories
+Security, KDE, Live CD"
+A comprehensive and easy to use graphical front end for synergy. It allows you to configure synergy as a client or server and gives you complete and easy access to all of synergy's options.A comprehensive and easy to use graphical front end for synergy. It allows you to configure synergy as a client or server and gives you complete and easy access to all of synergy's options.,"Categories
+Desktop Environment, System"
+"G-Workstation is an application for the Logitech G series written in C#.
+You can write you own small G15/G19 Applets with the scriptlanguage Lua.G-Workstation is an application for the Logitech G series written in C#.
+You can write you own small G15/G19 Applets with the scriptlanguage Lua.","Categories
+Desktop Environment, Hardware"
+Just the apps have a range of apps from picture to text2voice and started on the 16 May 2010. Hope you enjoy!Just the apps have a range of apps from picture to text2voice and started on the 16 May 2010. Hope you enjoy!,"Categories
+Window Managers, Audio Recording"
+"Simple plasmoid to show the current speed of a network interface, and to show the overall statisticSimple plasmoid to show the current speed of a network interface, and to show the overall statistic","Categories
+KDE, Monitoring"
+Frunner is file and application launcher like Launchy.Frunner is file and application launcher like Launchy.,"Categories
+Other/Nonlisted Topic, Desktop Environment"
+Прога не дает пользоваться компьютером если блокировка активна! Чтобы снять блокировку надо ввести пароль! Не забудьте его посмотретьПрога не дает пользоваться компьютером если блокировка активна! Чтобы снять блокировку надо ввести пароль! Не забудьте его посмотреть,"Categories
+Desktop Environment"
+A utility written in C# which allows windows 7 ® users to change the logon screen. The application requires administrator privileges to run.A utility written in C# which allows windows 7 ® users to change the logon screen. The application requires administrator privileges to run.,"Categories
+Desktop Environment"
+HTML to PDF conversion using GUI or command line batch files. Requires ABCpdf .NET for HTML parsing and PDF processing.HTML to PDF conversion using GUI or command line batch files. Requires ABCpdf .NET for HTML parsing and PDF processing.,"Categories
+Desktop Environment"
+"Multiple copy/cut/paste with configurable hotkeys (Similar to Visual Studio's Clipboard Ring, only globally in windows). Can swap English and Hebrew characters in cases of typing in the wrong language. Requires .NET 3.5SP1.Multiple copy/cut/paste with configurable hotkeys (Similar to Visual Studio's Clipboard Ring, only globally in windows). Can swap English and Hebrew characters in cases of typing in the wrong language. Requires .NET 3.5SP1.","Categories
+Desktop Environment"
+"This is a plugin I wrote for the gnome file-browser, nautilus. It allows to open a terminal and sync the working dir of the file-browser to the working dir of the terminal and vice-versa. This is NOT safe code. Use at own risk.This is a plugin I wrote for the gnome file-browser, nautilus. It allows to open a terminal and sync the working dir of the file-browser to the working dir of the terminal and vice-versa. This is NOT safe code. Use at own risk.","Categories
+Terminal Emulators, GNOME"
+A simple calendar that shows the current day and time.A simple calendar that shows the current day and time.,"Categories
+Calendar, Desktop Environment"
+Pivaz is a simple dictionary based on java (Kurdish to Turkish and Turkish to Kurdish)Pivaz is a simple dictionary based on java (Kurdish to Turkish and Turkish to Kurdish),"Categories
+Desktop Environment"
+A filesystem mounter that uses udisks to handle notification of new filesystems and mounting of the filesystems as a non-root user. It also includes a mode to display the mounted filesystems with the least free space percentage (similar to wmfsm).A filesystem mounter that uses udisks to handle notification of new filesystems and mounting of the filesystems as a non-root user. It also includes a mode to display the mounted filesystems with the least free space percentage (similar to wmfsm).,"Categories
+Desktop Environment, File Systems"
+THE PROGRAM IS FOR WINDOWS XP TO TRANSFORM ITS COMPLETE LOOK TO MAC OS X LEAPOREDTHE PROGRAM IS FOR WINDOWS XP TO TRANSFORM ITS COMPLETE LOOK TO MAC OS X LEAPORED,"Categories
+Enlightenment Themes"
+"====
+NB: All new development is continued at http://github.com/rowanthorpe/splitzen and newer versions can be found there. The versions found here are for archival purposes only.
+====
+Splitzen is a batch-script for drag-n-drop splitting to arbitrary-size files,with integrity checking,for Windows.It relies on some small unix tools (from GnuWin32 by default).Change one line in the config to toggle using other installed tools.====
+NB: All new development is continued at http://github.com/rowanthorpe/splitzen and newer versions can be found there. The versions found here are for archival purposes only.
+====
+Splitzen is a batch-script for drag-n-drop splitting to arbitrary-size files,with integrity checking,for Windows.It relies on some small unix tools (from GnuWin32 by default).Change one line in the config to toggle using other installed tools.","Categories
+File Sharing, Desktop Environment"
+SuggestRun is program like Windows Start>Run menu with suggestions functionality.SuggestRun is program like Windows Start>Run menu with suggestions functionality.,"Categories
+Desktop Environment"
+Some Tools for Powerful UsersSome Tools for Powerful Users,"Categories
+Desktop Environment"
+A client to use the PasteFire.com service to send content to the PasteFire iPhone ApplicationA client to use the PasteFire.com service to send content to the PasteFire iPhone Application,"Categories
+Desktop Environment"
+"Kuggaa is a (A)gpl open source cloud computing project. Kuggaa enables remote applications and rich media experiences. Kuggaa enables most web based devices the ability to create, manage, and share files on most devices.Kuggaa is a (A)gpl open source cloud computing project. Kuggaa enables remote applications and rich media experiences. Kuggaa enables most web based devices the ability to create, manage, and share files on most devices.","Categories
+Database, Desktop Environment, WWW/HTTP"
+"Lal is a clock for the dock. Nothing more, nothing less.Lal is a clock for the dock. Nothing more, nothing less.","Categories
+Desktop Environment"
+"Simple Web Server with Graphical User interface. Server can be used without special knowledge. Any user can install and share folders in internet or local network. For sample you can share media files (music,video).Simple Web Server with Graphical User interface. Server can be used without special knowledge. Any user can install and share folders in internet or local network. For sample you can share media files (music,video).","Categories
+File Sharing, Desktop Environment, HTTP Servers"
+"7Snap brings the new Windows 7 drag-and-snap-to-size feature to your pre-Windows 7 machine(XP, Vista). demo video : http://www.youtube.com/watch?v=Tl6aNg-o18c7Snap brings the new Windows 7 drag-and-snap-to-size feature to your pre-Windows 7 machine(XP, Vista). demo video : http://www.youtube.com/watch?v=Tl6aNg-o18c","Categories
+Window Managers"
+"http://www.astchannelslive.com/sourceforge.php
+
+This is a dashboard work with Asterisk(FreePBX) any other installation:
+1. Showing the peer status
+2. queue,agent at real time
+3. Hangup, Spy,....http://www.astchannelslive.com/sourceforge.php
+
+This is a dashboard work with Asterisk(FreePBX) any other installation:
+1. Showing the peer status
+2. queue,agent at real time
+3. Hangup, Spy,....","Categories
+Desktop Environment, Networking, VoIP, PBX"

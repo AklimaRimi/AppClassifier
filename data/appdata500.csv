@@ -1,0 +1,731 @@
+Description,Category
+"Portecle is a user friendly GUI application for creating, managing and examining key stores, keys, certificates, certificate requests, certificate revocation lists and more.Portecle is a user friendly GUI application for creating, managing and examining key stores, keys, certificates, certificate requests, certificate revocation lists and more.","Categories
+Cryptography"
+"This is a plugin to KeePass <http://www.KeePass.info> to provide an enhanced entry view.
+
+For the rationale and design behind this project, see the forum post linked to as the homepageThis is a plugin to KeePass <http://www.KeePass.info> to provide an enhanced entry view.
+
+For the rationale and design behind this project, see the forum post linked to as the homepage","Categories
+Password Managers"
+"OWASP Mantra - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.OWASP Mantra - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.","Categories
+Security, Browsers"
+"Looking for free Open Source Antivirus for Windows? Download ClamWin Free Antivirus and get free virus scanning and free virus definition updates. Free Antivirus software for Windows, using the well-respected ClamAV scanning engine. Includes virus scanner, scheduler, virus database updates, context menu integration to MS Windows Explorer and Add-in to MS Outlook. Also features easy setup program.Looking for free Open Source Antivirus for Windows? Download ClamWin Free Antivirus and get free virus scanning and free virus definition updates. Free Antivirus software for Windows, using the well-respected ClamAV scanning engine. Includes virus scanner, scheduler, virus database updates, context menu integration to MS Windows Explorer and Add-in to MS Outlook. Also features easy setup program.","Categories
+Security, Antivirus, Anti-Malware"
+"A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.A KeePass plugin that downloads and stores favicons. A favicon is the little icon / logo used to identify many websites, typically displayed in the browser's address bar, bookmark list and on tabs.","Categories
+Site Management, Password Managers"
+"Synchronizes multiple folders with each other, keeping them up-to-date. One folder of each pair is kept encrypted.
+
+Very useful when using cloud storage tools like SkyDrive, GDrive or Dropbox.Synchronizes multiple folders with each other, keeping them up-to-date. One folder of each pair is kept encrypted.
+
+Very useful when using cloud storage tools like SkyDrive, GDrive or Dropbox.","Categories
+Cryptography"
+"mcrypt, and the accompanying libmcrypt, are intended to be replacements for the old Unix crypt, except that they are under the GPL and support an ever-wider range of algorithms and modes.mcrypt, and the accompanying libmcrypt, are intended to be replacements for the old Unix crypt, except that they are under the GPL and support an ever-wider range of algorithms and modes.","Categories
+Cryptography, Software Development, Mathematics"
+"NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname and open ports of network hosts through packet sniffing or by parsing a PCAP file. NetworkMiner can also extract transmitted files from network traffic.
+
+New versions of NetworkMiner are released exclusively on www.netresec.com since version 2.0 of NetworkMiner. This page on SourceForge is only kept to provide hosting of older versions of the software.
+
+To get the latest version of NetworkMiner, please visit:
+http://www.netresec.com/?page=NetworkMinerNetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname and open ports of network hosts through packet sniffing or by parsing a PCAP file. NetworkMiner can also extract transmitted files from network traffic.
+
+New versions of NetworkMiner are released exclusively on www.netresec.com since version 2.0 of NetworkMiner. This page on SourceForge is only kept to provide hosting of older versions of the software.
+
+To get the latest version of NetworkMiner, please visit:
+http://www.netresec.com/?page=NetworkMiner","Categories
+Security, Monitoring, Information Analysis"
+"EncFSMP can create, mount and edit EncFS (encrypted file system) folders on Windows and Mac OS X.EncFSMP can create, mount and edit EncFS (encrypted file system) folders on Windows and Mac OS X.","Categories
+Cryptography"
+"Untangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.comUntangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.com","Categories
+Email, Security, Networking, Logging, Internet"
+SourceAFIS is a software library for human fingerprint recognition. It can compare two fingerprints 1:1 or search a large database for matching fingerprint. It takes raw fingerprint images on input and produces matching score on output. Click the website link above for more info.SourceAFIS is a software library for human fingerprint recognition. It can compare two fingerprints 1:1 or search a large database for matching fingerprint. It takes raw fingerprint images on input and produces matching score on output. Click the website link above for more info.,"Categories
+Security, Algorithms, Libraries"
+"Open1X is an open source implementation of the IEEE 802.1X protocol. This project includes support for the supplicant, while other projects (e.g., FreeRADIUS) provide support for the authentication server.Open1X is an open source implementation of the IEEE 802.1X protocol. This project includes support for the supplicant, while other projects (e.g., FreeRADIUS) provide support for the authentication server.","Categories
+Security, Systems Administration, Networking"
+"Darik's Boot and Nuke (""DBAN"") is a self-contained boot image that securely wipes the hard disks of most computers. DBAN is appropriate for bulk or emergency data destruction.Darik's Boot and Nuke (""DBAN"") is a self-contained boot image that securely wipes the hard disks of most computers. DBAN is appropriate for bulk or emergency data destruction.","Categories
+Security, File Systems"
+"-- WARNING --
+
+HiJackThis is an inactive project and it is not updated anymore. You may want to look at the existent unofficial forks though:
+
+https://github.com/dragokas/hijackthis/
+
+--
+
+HijackThis is a free utility that generates an in depth report of registry and file settings from your computer. HijackThis scan results make no separation between safe and unsafe settings , which gives you the ability to selectively remove items from your machine. In addition to scan and remove capabilities, HijackThis comes with several useful tools to manually remove malware from your computer. However, HijackThis does not make value based calls between what is considered good or bad. It is important to exercise caution and avoid making changes to your computer settings, unless you have expert knowledge. Source code is available SourceForge, under Code and also as a zip file under Files.-- WARNING --
+
+HiJackThis is an inactive project and it is not updated anymore. You may want to look at the existent unofficial forks though:
+
+https://github.com/dragokas/hijackthis/
+
+--
+
+HijackThis is a free utility that generates an in depth report of registry and file settings from your computer. HijackThis scan results make no separation between safe and unsafe settings , which gives you the ability to selectively remove items from your machine. In addition to scan and remove capabilities, HijackThis comes with several useful tools to manually remove malware from your computer. However, HijackThis does not make value based calls between what is considered good or bad. It is important to exercise caution and avoid making changes to your computer settings, unless you have expert knowledge. Source code is available SourceForge, under Code and also as a zip file under Files.","Categories
+Anti-Malware"
+"EJBCA is an enterprise class PKI Certificate Authority built on JEE technology. It is a robust, high performance, platform independent, flexible, and component based CA to be used standalone or integrated in other JEE applications.EJBCA is an enterprise class PKI Certificate Authority built on JEE technology. It is a robust, high performance, platform independent, flexible, and component based CA to be used standalone or integrated in other JEE applications.","Categories
+Cryptography, Authentication/Directory"
+THIS PROJECT HAS MOVED TO GITHUB!: https://github.com/kaikramer/keystore-explorerTHIS PROJECT HAS MOVED TO GITHUB!: https://github.com/kaikramer/keystore-explorer,"Categories
+Cryptography"
+"Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.","Categories
+Email, Security, Live CD"
+Port of the Password Safe application to AndroidPort of the Password Safe application to Android,"Categories
+Password Managers"
+"DAR is a command-line backup and archiving tool that uses selective compression (not compressing already compressed files), strong encryption, may split an archive in different files of given size and provides on-fly hashing, supports differential backup with or without binary delta, ftp and sftp protocols to remote cloud storage
+
+Archive internal's catalog, allows very quick restoration even a single file from a huge, eventually sliced, compressed, encrypted archive eventually located on a remote cloud storage, by only reading/fetching the necessary data to perform the operation.
+
+Dar saves *all* UNIX inode types, takes care of hard links, sparse files as well as Extended Attributes (MacOS X file forks, Linux ACL, SELinux tags, user attributes) and some Filesystem Specific Attributes (Linux ext2/3/4, Mac OS X HFS+)
+
+more details at: http://dar.linux.free.fr/doc/Features.htmlDAR is a command-line backup and archiving tool that uses selective compression (not compressing already compressed files), strong encryption, may split an archive in different files of given size and provides on-fly hashing, supports differential backup with or without binary delta, ftp and sftp protocols to remote cloud storage
+
+Archive internal's catalog, allows very quick restoration even a single file from a huge, eventually sliced, compressed, encrypted archive eventually located on a remote cloud storage, by only reading/fetching the necessary data to perform the operation.
+
+Dar saves *all* UNIX inode types, takes care of hard links, sparse files as well as Extended Attributes (MacOS X file forks, Linux ACL, SELinux tags, user attributes) and some Filesystem Specific Attributes (Linux ext2/3/4, Mac OS X HFS+)
+
+more details at: http://dar.linux.free.fr/doc/Features.html","Categories
+Cryptography, Backup, Systems Administration"
+"A java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.comA java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.com","Categories
+Other/Nonlisted Topic, Security, LDAP"
+"Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/","Categories
+Security, Desktop Environment, WWW/HTTP, Networking"
+"This is a user space TSS for TPM 2.0. It implements the functionality equivalent to (but not API compatible with) the TCG TSS working group's ESAPI, SAPI, and TCTI API's (and perhaps more) but with a hopefully simpler interface.
+
+It comes with over 110 ""TPM tools"" samples that can be used for scripted apps, rapid prototyping, education, and debugging.
+
+It also comes with a web based TPM interface, suitable for a demo to an audience that is unfamiliar with TCG technology. It is also useful for basic TPM management.
+
+See the below link for operating system, platform, and hardware support.
+
+See the companion IBM TPM 2.0 at https://sourceforge.net/projects/ibmswtpm2/
+and attestation at projects/ibmtpm2acs
+
+I welcome (1) bug reports, (2) documentation requests, (3) suggestions for ECC tests, and (4) requests for features for which you have an immediate need.
+
+See the wiki for additional support - additions to the documentation.This is a user space TSS for TPM 2.0. It implements the functionality equivalent to (but not API compatible with) the TCG TSS working group's ESAPI, SAPI, and TCTI API's (and perhaps more) but with a hopefully simpler interface.
+
+It comes with over 110 ""TPM tools"" samples that can be used for scripted apps, rapid prototyping, education, and debugging.
+
+It also comes with a web based TPM interface, suitable for a demo to an audience that is unfamiliar with TCG technology. It is also useful for basic TPM management.
+
+See the below link for operating system, platform, and hardware support.
+
+See the companion IBM TPM 2.0 at https://sourceforge.net/projects/ibmswtpm2/
+and attestation at projects/ibmtpm2acs
+
+I welcome (1) bug reports, (2) documentation requests, (3) suggestions for ECC tests, and (4) requests for features for which you have an immediate need.
+
+See the wiki for additional support - additions to the documentation.","Categories
+Security"
+"This is a plugin to KeePass <http://www.KeePass.info> to allow the AutoType functionality to work with browser URLs as well as window titles.
+
+If integration with KeePass Check for Updates is required, install http://sourceforge.net/projects/kpsfupdatecheckerThis is a plugin to KeePass <http://www.KeePass.info> to allow the AutoType functionality to work with browser URLs as well as window titles.
+
+If integration with KeePass Check for Updates is required, install http://sourceforge.net/projects/kpsfupdatechecker","Categories
+Password Managers"
+"Netdisco is an SNMP-based L2/L3 network management tool designed for moderate to large networks. Routers and switches are polled to log IP and MAC addresses and map them to switch ports. Automatic L2 network topology discovery, display, and inventory.Netdisco is an SNMP-based L2/L3 network management tool designed for moderate to large networks. Routers and switches are polled to log IP and MAC addresses and map them to switch ports. Automatic L2 network topology discovery, display, and inventory.","Categories
+Security, Systems Administration, Monitoring"
+"MailArchiva is a powerful, full featured email archiving (email archiver) and compliance solution for mail systems such as Microsoft Exchange. It stores all incoming, outgoing and internal emails for long term storage. A web based user interface is availMailArchiva is a powerful, full featured email archiving (email archiver) and compliance solution for mail systems such as Microsoft Exchange. It stores all incoming, outgoing and internal emails for long term storage. A web based user interface is avail","Categories
+Email Spam Filter, Mail Transfer Agents, Enterprise, Data Warehousing, Database, Security"
+"pdfcrack is a command line, password recovery tool for PDF-files.pdfcrack is a command line, password recovery tool for PDF-files.","Categories
+Cryptography, Benchmark, PDF, Password Recovery"
+"What does WinlockPro do?
+
+Brings the entire Windows 10 metro theme across all versions of windows(XP and above)
+Proprietary password encryption technology
+Flash Drive Unlock!
+View login attempts that have occurred
+Sends you an email if many failed attempts occur
+Shuts down the computer if multiple failed attempts occur
+Desktop widget which can be used to easily control all aspects of the software
+Ability to leave notes on the Lock Screen interface
+Extremely simple to use
+Almost every small aspect of the software can be customized
+Fonts, colors, styles, positions, wallpapers, avatars, EVERYTHING can be changed to your liking
+Now has a minimalist mode, to make it even easier to use
+Dual monitor support
+G-mail integration - Ability to control WinlockPro with simple email commands.
+A whole lot more to be discovered
+
+Future
+
+I am currently building a cross platform app that will allow users to control WinlockPro from their mobile phones.What does WinlockPro do?
+
+Brings the entire Windows 10 metro theme across all versions of windows(XP and above)
+Proprietary password encryption technology
+Flash Drive Unlock!
+View login attempts that have occurred
+Sends you an email if many failed attempts occur
+Shuts down the computer if multiple failed attempts occur
+Desktop widget which can be used to easily control all aspects of the software
+Ability to leave notes on the Lock Screen interface
+Extremely simple to use
+Almost every small aspect of the software can be customized
+Fonts, colors, styles, positions, wallpapers, avatars, EVERYTHING can be changed to your liking
+Now has a minimalist mode, to make it even easier to use
+Dual monitor support
+G-mail integration - Ability to control WinlockPro with simple email commands.
+A whole lot more to be discovered
+
+Future
+
+I am currently building a cross platform app that will allow users to control WinlockPro from their mobile phones.","Categories
+Security, Desktop Environment, Password Managers"
+"Clam sentinel is a program that detects file system changes and automatically scans the files added or modified using ClamWin. Require the installation of ClamWin. For Microsoft Windows 98/98SE/Me/2000/XP/Vista, Windows 7 and Windows 8.1.Clam sentinel is a program that detects file system changes and automatically scans the files added or modified using ClamWin. Require the installation of ClamWin. For Microsoft Windows 98/98SE/Me/2000/XP/Vista, Windows 7 and Windows 8.1.","Categories
+Antivirus, Anti-Malware"
+"Automated network based hard disk drives / storage devices erasure is server based software which installs on a central server. Server is connected to network switches and several PXE boot enabled workstations are attached to the network. As soon as the workstation is powered on, it boots off the network via the server and begins wiping all the attached hard disk drives. Once all the hard drives are wiped, data related to each hard disk is stored in the central server’s database. Read WIKI
+
+Automated unattended network based data
+erasure wiping
+Comprehensive Reporting
+Web GUI reporting
+Generates certificate of data erasure
+Barcodes Labels
+Graphs Pie / Bar / Line Charts
+Hard Disks bad sectors & health reporting
+Hard Disk SMART Data collection
+Database Driven Distributed System
+Hard Disk Drives health reports
+Part Open Source
+* Friendly GUI Graphical User Interface
+Mass Hard Disk Drive Destruction Data Wiping
+HDD Data Eraser
+Storage Array Data WipeAutomated network based hard disk drives / storage devices erasure is server based software which installs on a central server. Server is connected to network switches and several PXE boot enabled workstations are attached to the network. As soon as the workstation is powered on, it boots off the network via the server and begins wiping all the attached hard disk drives. Once all the hard drives are wiped, data related to each hard disk is stored in the central server’s database. Read WIKI
+
+Automated unattended network based data
+erasure wiping
+Comprehensive Reporting
+Web GUI reporting
+Generates certificate of data erasure
+Barcodes Labels
+Graphs Pie / Bar / Line Charts
+Hard Disks bad sectors & health reporting
+Hard Disk SMART Data collection
+Database Driven Distributed System
+Hard Disk Drives health reports
+Part Open Source
+* Friendly GUI Graphical User Interface
+Mass Hard Disk Drive Destruction Data Wiping
+HDD Data Eraser
+Storage Array Data Wipe","Categories
+Security, Networking, Logging"
+"Ralasafe Access Control Middleware focus on data-level privilege management, including database row/column and content privilege management. It also manages 2) login control; 3) function-level privilege management; and 4) URL privilege authenticationRalasafe Access Control Middleware focus on data-level privilege management, including database row/column and content privilege management. It also manages 2) login control; 3) function-level privilege management; and 4) URL privilege authentication","Categories
+Security, Software Development"
+"Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.","Categories
+Communications, Security, Systems Administration, Internet"
+BASE is the Basic Analysis and Security Engine. It is based on the code from the Analysis Console for Intrusion Databases (ACID) project. This application provides a web front-end to query and analyze the alerts coming from a SNORT IDS system.BASE is the Basic Analysis and Security Engine. It is based on the code from the Analysis Console for Intrusion Databases (ACID) project. This application provides a web front-end to query and analyze the alerts coming from a SNORT IDS system.,"Categories
+Security, Systems Administration, Firewall, Monitoring, Logging"
+"NOTE PROJECT MIGRATED TO GITHUB - https://github.com/samrocketman/ekeyfinder
+
+is a Magical Jelly Bean Keyfinder fork. It is a utility that retrieves the product key used to install Windows from your registry or from an unbootable Windows installation. It works on Windows 9X, ME, NT/2K/XP, and Vista/Win7 and for other software.NOTE PROJECT MIGRATED TO GITHUB - https://github.com/samrocketman/ekeyfinder
+
+is a Magical Jelly Bean Keyfinder fork. It is a utility that retrieves the product key used to install Windows from your registry or from an unbootable Windows installation. It works on Windows 9X, ME, NT/2K/XP, and Vista/Win7 and for other software.","Categories
+Security, Systems Administration, Logging"
+"OpenVPN ALS is a web-based SSL VPN server written in Java. It has a browser-based AJAX UI which allows easy access to intranet services. OpenVPN ALS is a direct descendant of Adito, which was a fork of SSL-Explorer.OpenVPN ALS is a web-based SSL VPN server written in Java. It has a browser-based AJAX UI which allows easy access to intranet services. OpenVPN ALS is a direct descendant of Adito, which was a fork of SSL-Explorer.","Categories
+Security, Internet, AJAX, VPN"
+"Parrot is a cloud friendly operating system designed for Pentesting, Computer Forensic, Reverse engineering, Hacking, Cloud pentesting, privacy/anonimity and cryptography. Based on Debian and developed by Frozenbox network.Parrot is a cloud friendly operating system designed for Pentesting, Computer Forensic, Reverse engineering, Hacking, Cloud pentesting, privacy/anonimity and cryptography. Based on Debian and developed by Frozenbox network.","Categories
+Security, OS distribution, Live CD"
+"Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)","Categories
+Security, Browsers, VoIP"
+To protect yourself when your VPN disconnects. It blocks Internet access and any others specified applications. It prevents unsecured connections after your VPN connection goes down and reload applications when reconnecting the VPN.To protect yourself when your VPN disconnects. It blocks Internet access and any others specified applications. It prevents unsecured connections after your VPN connection goes down and reload applications when reconnecting the VPN.,"Categories
+Security, Internet, VPN"
+Thanks for your support..Thanks for your support..,"Categories
+Antivirus"
+"Web AND Mobile (Apple iPhone) based, multi user, java port of the KeePass project. A free, easy to use password manager which helps you to manage your passwords in a secure way. Focused on deep encryption and ease of use.Web AND Mobile (Apple iPhone) based, multi user, java port of the KeePass project. A free, easy to use password manager which helps you to manage your passwords in a secure way. Focused on deep encryption and ease of use.","Categories
+Office/Business, Cryptography, Systems Administration, Password Generators"
+"A pronounceable password generator plugin for KeePass.
+
+
+DISCLAIMER:
+Compared to traditional randomly generated passwords of the same length, pronounceable passwords are inherently weaker against brute force attacks. Using pronounceable passwords sacrifice some resistance against brute force attacks to reduce the risk of inadvertent password exposure. Whether this trade-off is worth it or not depends entirely on your use case.
+
+When using this application I recommend generating considerably longer passwords to make any brute force attack as difficult as possible. This application uses FIPS-181 for generating passwords and it is particularly vulnerable to brute force attacks that are targeted specifically towards the algorithm. I added modifications to the implementation (such as allowing the insertion of random numbers or symbols between syllables) with the intention of protecting against a targeted attack, but I cannot make any supported claims as to its effectiveness.A pronounceable password generator plugin for KeePass.
+
+
+DISCLAIMER:
+Compared to traditional randomly generated passwords of the same length, pronounceable passwords are inherently weaker against brute force attacks. Using pronounceable passwords sacrifice some resistance against brute force attacks to reduce the risk of inadvertent password exposure. Whether this trade-off is worth it or not depends entirely on your use case.
+
+When using this application I recommend generating considerably longer passwords to make any brute force attack as difficult as possible. This application uses FIPS-181 for generating passwords and it is particularly vulnerable to brute force attacks that are targeted specifically towards the algorithm. I added modifications to the implementation (such as allowing the insertion of random numbers or symbols between syllables) with the intention of protecting against a targeted attack, but I cannot make any supported claims as to its effectiveness.","Categories
+Cryptography, Password Managers, Password Generators, Encryption Algorithms"
+"Free-SA is logs processor and report generating tool. It can be used to control traffic usage, to evaluate conformance to the Internet access security policies, to investigate security incidents, to evaluate web server efficiency and to detect troubles with server configuration.Free-SA is logs processor and report generating tool. It can be used to control traffic usage, to evaluate conformance to the Internet access security policies, to investigate security incidents, to evaluate web server efficiency and to detect troubles with server configuration.","Categories
+Security, HTTP Servers, Log Analysis"
+"The OpenCA PKI Development Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.The OpenCA PKI Development Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.","Categories
+Cryptography, HTTP Servers"
+"The Network Tracking Database (NetDB for short) tracks all changes to the MAC address tables on your switches and the ARP tables on your routers over time stored in MySQL. It supports extensive switch, VLAN and vendor code reports from a CLI or Web App. NetDB can generate CSV reports, track the usage of static IP addresses, record neighbor discovery data and much more.
+
+There is now a VM ""appliance"" with easier upgrades available in the Files section.
+
+See the http://netdbtracking.sourceforge.net for more details.The Network Tracking Database (NetDB for short) tracks all changes to the MAC address tables on your switches and the ARP tables on your routers over time stored in MySQL. It supports extensive switch, VLAN and vendor code reports from a CLI or Web App. NetDB can generate CSV reports, track the usage of static IP addresses, record neighbor discovery data and much more.
+
+There is now a VM ""appliance"" with easier upgrades available in the Files section.
+
+See the http://netdbtracking.sourceforge.net for more details.","Categories
+Security, Monitoring"
+"VeraCrypt is a free disk encryption software brought to you by IDRIX (https://www.idrix.fr) and based on TrueCrypt 7.1a.
+
+It adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in brute-force attacks. It also solves many vulnerabilities and security issues found in TrueCrypt.
+
+This enhanced security adds some delay ONLY to the opening of encrypted partitions without any performance impact to the application use phase. This is acceptable to the legitimate owner but it makes it much harder for an attacker to gain access to the encrypted data.
+
+All released files are PGP signed with key ID=0x680D16DE, available on key servers and downloadable at https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc
+
+VeraCrypt can mount TrueCrypt volumes. It also can convert them to VeraCrypt format.
+
+Documentation: https://www.veracrypt.fr/en/Documentation.html
+FAQ : https://www.veracrypt.fr/en/FAQ.htmlVeraCrypt is a free disk encryption software brought to you by IDRIX (https://www.idrix.fr) and based on TrueCrypt 7.1a.
+
+It adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in brute-force attacks. It also solves many vulnerabilities and security issues found in TrueCrypt.
+
+This enhanced security adds some delay ONLY to the opening of encrypted partitions without any performance impact to the application use phase. This is acceptable to the legitimate owner but it makes it much harder for an attacker to gain access to the encrypted data.
+
+All released files are PGP signed with key ID=0x680D16DE, available on key servers and downloadable at https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc
+
+VeraCrypt can mount TrueCrypt volumes. It also can convert them to VeraCrypt format.
+
+Documentation: https://www.veracrypt.fr/en/Documentation.html
+FAQ : https://www.veracrypt.fr/en/FAQ.html","Categories
+Security, Cryptography, File Systems, Encryption"
+"AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.","Categories
+Cryptography, Monitoring, Internet"
+"OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.","Categories
+Communications, Security, Internet, Load Balancers"
+"Open source DKIM library, MTA filter implementation and associated tools.Open source DKIM library, MTA filter implementation and associated tools.","Categories
+Email Spam Filter, Anti-Spam, Libraries"
+"Low Orbit Ion Cannon.
+
+The project only keeps and maintains (bug fixing) the code written by the original author - Praetox, but is not associated or related to it.
+
+DISCLAIMER: USE ON YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.Low Orbit Ion Cannon.
+
+The project only keeps and maintains (bug fixing) the code written by the original author - Praetox, but is not associated or related to it.
+
+DISCLAIMER: USE ON YOUR OWN RISK. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER OR CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.","Categories
+Security"
+"Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman's original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman's original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.","Categories
+Security, Systems Administration, Password Crackers"
+"Expand a TrueCrypt volume on the fly without reformatting. All kind of volumes (container files, disks and partitions) formatted with the NTFS file system are supported.Expand a TrueCrypt volume on the fly without reformatting. All kind of volumes (container files, disks and partitions) formatted with the NTFS file system are supported.","Categories
+Cryptography, File Systems"
+"Matriux is a GNU/Linux, Debian based security distribution designed for penetration testing and cyber forensic investigations. It is a distribution designed for security enthusiasts and professionals, can also be used normally as your default OS.Matriux is a GNU/Linux, Debian based security distribution designed for penetration testing and cyber forensic investigations. It is a distribution designed for security enthusiasts and professionals, can also be used normally as your default OS.","Categories
+Security, OS distribution, Penetration Testing"
+"The OVAL Interpreter is a freely available reference implementation that demonstrates the evaluation of OVAL Definitions. Based on a set of OVAL Definitions the interpreter collects system information, evaluates it, and generates a detailed OVAL Results file.
+
+Developed to demonstrate the usability of OVAL Definitions and to ensure correct syntax and adherence to the OVAL Schemas by definition writers, it is not a fully functional scanning tool nor an enterprise scanning tool. It is a simplistic, command-line application that has the ability to execute OVAL Content on an end system. To learn more about organizations that provide OVAL content and tools or otherwise support the OVAL Language, please see the OVAL Adoption Program (http://oval.mitre.org/adoption/).The OVAL Interpreter is a freely available reference implementation that demonstrates the evaluation of OVAL Definitions. Based on a set of OVAL Definitions the interpreter collects system information, evaluates it, and generates a detailed OVAL Results file.
+
+Developed to demonstrate the usability of OVAL Definitions and to ensure correct syntax and adherence to the OVAL Schemas by definition writers, it is not a fully functional scanning tool nor an enterprise scanning tool. It is a simplistic, command-line application that has the ability to execute OVAL Content on an end system. To learn more about organizations that provide OVAL content and tools or otherwise support the OVAL Language, please see the OVAL Adoption Program (http://oval.mitre.org/adoption/).","Categories
+Security, Systems Administration"
+File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.File system/directory monitoring utilities with loggin and task processing support (can execute files or make a WCF service call). Multiple configuration options. Source code libraries can be used to create a custom file system monitor.,"Categories
+Security, Frameworks, File Managers, Logging"
+"A network access control (NAC) system featuring a captive-portal for registration and remediation, wired and wireless management, 802.1X support, isolation of devices, integration with IDS; it can be used to secure networks from small to large.
+
+Source code is hosted here: https://github.com/inverse-inc/packetfence
+Issue tracker tracker is hosted here: http://www.packetfence.org/bugs/A network access control (NAC) system featuring a captive-portal for registration and remediation, wired and wireless management, 802.1X support, isolation of devices, integration with IDS; it can be used to secure networks from small to large.
+
+Source code is hosted here: https://github.com/inverse-inc/packetfence
+Issue tracker tracker is hosted here: http://www.packetfence.org/bugs/","Categories
+Security, Wireless, Monitoring"
+Add security to your desktop by automatically locking and unlocking the screen when you and your phone leave/enter the desk. Think of a proximity detector for your mobile phone via bluetooth.Add security to your desktop by automatically locking and unlocking the screen when you and your phone leave/enter the desk. Think of a proximity detector for your mobile phone via bluetooth.,"Categories
+Security"
+"NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.","Categories
+Security, Monitoring, Internet"
+"Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.","Categories
+Cryptography, Algorithms, File Managers"
+"ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.ANts P2P realizes a third generation P2P net. It protects your privacy while you are connected and makes you not trackable, hiding your identity (ip) and crypting everything you are sending/receiving from others.","Categories
+File Sharing, Security, Intelligent Agents"
+"iAlertU is an alarm system for your Apple MacBook that uses the built in motion detection to trigger the alarm and the iSight to capture the image of the thief.
+
+Among many other features, it incorporates the ability for users with iPhone, iPad, or iPod Touch to connect to and control iAlertU remotely.iAlertU is an alarm system for your Apple MacBook that uses the built in motion detection to trigger the alarm and the iSight to capture the image of the thief.
+
+Among many other features, it incorporates the ability for users with iPhone, iPad, or iPod Touch to connect to and control iAlertU remotely.","Categories
+Security"
+"Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.","Categories
+Security, Monitoring, Internet"
+"CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.","Categories
+Security, Networking, Internet"
+"IOS6 and recent iTunes updates have broken a few features. We have made some partial fixes, but they are not complete. If you'd like to help support our development, or take over the development please let us know.
+
+Explore the internal file structure of your iphone (or of a seized phone in the case of forensic teams) using either the iphone's own backup files or (for jail broken iphones) ssh. Viewing of plist, sqlite, and hex are supported. IOS 5 is now supported
+
+iOS 6 only partially works at the moment (some features fail or are missing). Unfortunately paid work means we can't fix this right now, but would welcome anyone else submitting patches.IOS6 and recent iTunes updates have broken a few features. We have made some partial fixes, but they are not complete. If you'd like to help support our development, or take over the development please let us know.
+
+Explore the internal file structure of your iphone (or of a seized phone in the case of forensic teams) using either the iphone's own backup files or (for jail broken iphones) ssh. Viewing of plist, sqlite, and hex are supported. IOS 5 is now supported
+
+iOS 6 only partially works at the moment (some features fail or are missing). Unfortunately paid work means we can't fix this right now, but would welcome anyone else submitting patches.","Categories
+Security, Mobile, Data Recovery"
+"The Inside Security Rescue Toolkit is a multi-purpose disaster recovery and network analysis system. It runs from a credit card-sized CD-ROM for convenient transport or download. It has read-write support for NTFS-partitions, full partition handling suppThe Inside Security Rescue Toolkit is a multi-purpose disaster recovery and network analysis system. It runs from a credit card-sized CD-ROM for convenient transport or download. It has read-write support for NTFS-partitions, full partition handling supp","Categories
+Other/Nonlisted Topic, Security"
+"This ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1cThis ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1c","Categories
+Telephony, Cryptography, Code Generators, Compilers, Networking, Interface Engine/Protocol Translator"
+"Note: WE ARE UNABLE TO UPDATE THE SCANNER AT THIS MOMENT!
+Note: WE APPRECIATE YOUR CONTRIBUTION.
+
+Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site. We'll update it soon. The database update is currently maintained by web-center.si. Send your contributions, recommendations and bugs report to joomscan at yehg.net or creating a ticket at Trac here.Note: WE ARE UNABLE TO UPDATE THE SCANNER AT THIS MOMENT!
+Note: WE APPRECIATE YOUR CONTRIBUTION.
+
+Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site. We'll update it soon. The database update is currently maintained by web-center.si. Send your contributions, recommendations and bugs report to joomscan at yehg.net or creating a ticket at Trac here.","Categories
+Security"
+Output spool reader for Snort! This program decouples output overhead from the Snort network intrusion detection system and allows Snort to run at full speed. It takes input and output plugins and can therefore be used to convert almost any spooled filOutput spool reader for Snort! This program decouples output overhead from the Snort network intrusion detection system and allows Snort to run at full speed. It takes input and output plugins and can therefore be used to convert almost any spooled fil,"Categories
+Security, Monitoring, Logging"
+EM stands for enforcement module. It is a security module which create bastion host machine. the process involved reading an XML policy file and translate it into Linux/Unix system call set. the translation process is created by CSG(command set generatorEM stands for enforcement module. It is a security module which create bastion host machine. the process involved reading an XML policy file and translate it into Linux/Unix system call set. the translation process is created by CSG(command set generator,"Categories
+Communications, Security"
+"Motion monitors the video signal from one or more cameras (video4linux interface) and is able to detect if a significant part of the picture has changed. Features: interval snapshots, live streaming webcam, mpeg generation, database interface, OSD etc.
+
+For the latest releases and deb packages go to the Motion home pageMotion monitors the video signal from one or more cameras (video4linux interface) and is able to detect if a significant part of the picture has changed. Features: interval snapshots, live streaming webcam, mpeg generation, database interface, OSD etc.
+
+For the latest releases and deb packages go to the Motion home page","Categories
+Security, Video"
+"Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.","Categories
+Security, WWW/HTTP, Software Testing, Vulnerability Scanners"
+"This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.","Categories
+Communications, Security, Internet, Proxy Servers"
+"*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.","Categories
+Security, Authentication/Directory, Libraries"
+"User-friendly and proficient Java program to keep passwords in encrypted databases. High security standard and data safety measures. Storage of huge text documents and sets of images feasible. File format relies on ""Password Safe"" V3 files (Twofish-CBC). Compact cross-platform program with PORTABLE modus, ideal for USB sticks, Linux, Mac, etc.
+
+Requires Java JRE 1.8 or higher
+The Password Safe database library is available at project PWSLIB3.
+For license/usage questions visit the Wiki pages!User-friendly and proficient Java program to keep passwords in encrypted databases. High security standard and data safety measures. Storage of huge text documents and sets of images feasible. File format relies on ""Password Safe"" V3 files (Twofish-CBC). Compact cross-platform program with PORTABLE modus, ideal for USB sticks, Linux, Mac, etc.
+
+Requires Java JRE 1.8 or higher
+The Password Safe database library is available at project PWSLIB3.
+For license/usage questions visit the Wiki pages!","Categories
+Password Managers"
+"gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.","Categories
+Cryptography, GNOME, Networking"
+"Formerly known as DotNetOpenId, this library brings easy and flexible OpenID, OAuth and InfoCard to the .NET platform. Official web site is at http://www.dotnetopenauth.net/, which includes source code downloads.Formerly known as DotNetOpenId, this library brings easy and flexible OpenID, OAuth and InfoCard to the .NET platform. Official web site is at http://www.dotnetopenauth.net/, which includes source code downloads.","Categories
+Cryptography, Libraries"
+"Universal Password Manager allows you to store all your passwords in one highly secure encrypted database. Its strengths are simplicity, portability and security (uses 128bit AES encryption). UPM is available on Android, Windows, OS X & Linux.Universal Password Manager allows you to store all your passwords in one highly secure encrypted database. Its strengths are simplicity, portability and security (uses 128bit AES encryption). UPM is available on Android, Windows, OS X & Linux.","Categories
+Office/Business, Database, Security, Internet"
+Lock Windows workstation upon disconnection of bluetooth device. The program is able to run user specified commands on device connection and disconnection. Requires .NET 3.5Lock Windows workstation upon disconnection of bluetooth device. The program is able to run user specified commands on device connection and disconnection. Requires .NET 3.5,"Categories
+Security"
+"Mole is an automatic SQL Injection exploitation tool. Only by providing a vulnerable URL and a valid string on the site it can detect the injection and exploit it, either by using the union technique or a boolean query based technique. The Mole uses a command based interface, allowing the user to indicate the action he wants to perform easily. The CLI also provides auto-completion on both commands and command arguments, making the user type as less as possible.Mole is an automatic SQL Injection exploitation tool. Only by providing a vulnerable URL and a valid string on the site it can detect the injection and exploit it, either by using the union technique or a boolean query based technique. The Mole uses a command based interface, allowing the user to indicate the action he wants to perform easily. The CLI also provides auto-completion on both commands and command arguments, making the user type as less as possible.","Categories
+Database, Security"
+"Katana packages security / ethical hacking distributions (like Backtrack, Ophcrack, & UBCD) together with portable Windows applications (like Metasploit, NMAP, Cain & Able, & Wireshark) to run off a single USB flash drive.Katana packages security / ethical hacking distributions (like Backtrack, Ophcrack, & UBCD) together with portable Windows applications (like Metasploit, NMAP, Cain & Able, & Wireshark) to run off a single USB flash drive.","Categories
+Security, Live CD"
+"Moon Secure Antivirus aims to be the best Free Antivirus for Windows under GPL license. It offers multiple scan engines, Net shield, Firewall, On access, on Exec scanner and rootkits preventions plus features from Commercial Antivirus applications.
+
+Also visit TWERT, our sister project, allowing scheduled domain and process blocking with Windows, Linux, OSX installers at https://sourceforge.net/projects/twert/Moon Secure Antivirus aims to be the best Free Antivirus for Windows under GPL license. It offers multiple scan engines, Net shield, Firewall, On access, on Exec scanner and rootkits preventions plus features from Commercial Antivirus applications.
+
+Also visit TWERT, our sister project, allowing scheduled domain and process blocking with Windows, Linux, OSX installers at https://sourceforge.net/projects/twert/","Categories
+Security"
+"TeamPass is a collaborative passwords manager. It has been created for managing passwords in a collaborative environment of use such as companies. With TeamPass it is possible to organize passwords in a tree structure, associate information to password.
+
+MORE INFORMATION ON TEAMPASS.NET website!TeamPass is a collaborative passwords manager. It has been created for managing passwords in a collaborative environment of use such as companies. With TeamPass it is possible to organize passwords in a tree structure, associate information to password.
+
+MORE INFORMATION ON TEAMPASS.NET website!","Categories
+Password Managers, Knowledge Management"
+"WinRAP ( Windows Running Applications Protector ) is a utility which allows you to hide windows application, and hide programs which are running on your screen. It will instantly hide all or certain programs on your screen with a key press.WinRAP ( Windows Running Applications Protector ) is a utility which allows you to hide windows application, and hide programs which are running on your screen. It will instantly hide all or certain programs on your screen with a key press.","Categories
+Security"
+"CrococryptFile is a file encryption tool which creates encrypted archives of files and folders.
+The encryption features of CrococryptFile can be compared to a ZIP utility that uses ZIP's AES encryption. However, there are significant differences. CrococryptFile...
+
+- encrypts all file and folder information including filenames, time/date and filesize information,
+- disguises any information of the archive's content, because all data and meta-data is simply integrated into a giant file dump.
+
+=Crypto Suites=
+
+For a full list of and details about supported crypto suites, please visit the CrococryptFile Homepage. Examples:
+- Password-based encryption (following PBKDF2) with AES-256, Twofish, Serpent, ...
+- Public key encryption using GPG/OpenPGP, Windows Keystore/CAPI with RSA/X.509 certificates
+- Cloaked (headerless) Password-based Encryption (AES-Twofish-256 cascaded)
+- ...CrococryptFile is a file encryption tool which creates encrypted archives of files and folders.
+The encryption features of CrococryptFile can be compared to a ZIP utility that uses ZIP's AES encryption. However, there are significant differences. CrococryptFile...
+
+- encrypts all file and folder information including filenames, time/date and filesize information,
+- disguises any information of the archive's content, because all data and meta-data is simply integrated into a giant file dump.
+
+=Crypto Suites=
+
+For a full list of and details about supported crypto suites, please visit the CrococryptFile Homepage. Examples:
+- Password-based encryption (following PBKDF2) with AES-256, Twofish, Serpent, ...
+- Public key encryption using GPG/OpenPGP, Windows Keystore/CAPI with RSA/X.509 certificates
+- Cloaked (headerless) Password-based Encryption (AES-Twofish-256 cascaded)
+- ...","Categories
+Cryptography, Archiving, Encryption, File Archivers"
+"This is a plugin to KeePass <http://www.KeePass.info> to provide a quick searching capability as
+an enhancement to the global auto-type system. If a global auto-type is requested, but no matching
+entry for the active window is found, this plugin will show a quick as-you-type search window which
+lets you to easily pick the entry to auto-type.
+
+It is also possible to open/edit, show, open the url for, or copy the password for the entry that is found. Auto-typing the password only is also supported. Any two actions can be configured, one for Enter, one for Shift+Enter.This is a plugin to KeePass <http://www.KeePass.info> to provide a quick searching capability as
+an enhancement to the global auto-type system. If a global auto-type is requested, but no matching
+entry for the active window is found, this plugin will show a quick as-you-type search window which
+lets you to easily pick the entry to auto-type.
+
+It is also possible to open/edit, show, open the url for, or copy the password for the entry that is found. Auto-typing the password only is also supported. Any two actions can be configured, one for Enter, one for Shift+Enter.","Categories
+Password Managers"
+"ESSPEE - Extreme Security Scanning Penetration testing & Exploitation Environment
+
+Ubuntu 12.04 LTS (Precise Pangolin) is purposefully selected as the base Operating System to obtain supports from Ubuntu for a long duration (till Apr 2017).
+
+It is packed with featured security tools with very less resource consumption and higher degree of stability.
+
+Thanks to Back Track, Blackbuntu, CAINE and DEFT and many others for inspiration.
+
+Being a sole developer to this distro, I wish it would help Open Source community with a better interface for Vulnerability Analysis, Penetration Testing, Malware analysis, Android and Cyber Forensics.
+
+I really enjoyed my work for the last three years.
+
+Please let me know about bugs and if possible provide solution also.ESSPEE - Extreme Security Scanning Penetration testing & Exploitation Environment
+
+Ubuntu 12.04 LTS (Precise Pangolin) is purposefully selected as the base Operating System to obtain supports from Ubuntu for a long duration (till Apr 2017).
+
+It is packed with featured security tools with very less resource consumption and higher degree of stability.
+
+Thanks to Back Track, Blackbuntu, CAINE and DEFT and many others for inspiration.
+
+Being a sole developer to this distro, I wish it would help Open Source community with a better interface for Vulnerability Analysis, Penetration Testing, Malware analysis, Android and Cyber Forensics.
+
+I really enjoyed my work for the last three years.
+
+Please let me know about bugs and if possible provide solution also.","Categories
+Security, Penetration Testing"
+"All 3 Robolinux R12.09 versions come with new login and grub boot splash screens & LibreWolf browser which has the highest privacy! LibreWolf is a fork of Firefox & works with its data.
+
+The R12.09 rolling release LTS -2025 Legacy BIOS & UEFI isos come with the newest 5.15 Linux Kernel, software libraries & application updates.
+
+Legacy Bios isos work in VM's & Non UEFI PC's.
+
+UEFI or Legacy iso questions?
+
+https://youtu.be/dSb1VH_0gsc
+
+Don't miss the 80% Off 12+ price -only $25 Expires February 24th 2023
+The 12+ Sale details
+
+Robo UNTRACKER Custom Installer FREE! Save $40
+FAAST Boot Custom Installer FREE! Save $40
+Backdoor security Custom Installer FREE! Save $40
+12 Advanced upgrades!
+Privacy App installers FREE!
+Stealth VM for FREE! Save $40
+C Drive to VM for FREE! Save $40
+
+The UNTRACKER makes you 100% anonymous on the internet so you can stop being tracked & traced by Evil Governments & Spy Agencies!
+
+Follower of YASHUA
+John Martinson
+Robolinux.orgAll 3 Robolinux R12.09 versions come with new login and grub boot splash screens & LibreWolf browser which has the highest privacy! LibreWolf is a fork of Firefox & works with its data.
+
+The R12.09 rolling release LTS -2025 Legacy BIOS & UEFI isos come with the newest 5.15 Linux Kernel, software libraries & application updates.
+
+Legacy Bios isos work in VM's & Non UEFI PC's.
+
+UEFI or Legacy iso questions?
+
+https://youtu.be/dSb1VH_0gsc
+
+Don't miss the 80% Off 12+ price -only $25 Expires February 24th 2023
+The 12+ Sale details
+
+Robo UNTRACKER Custom Installer FREE! Save $40
+FAAST Boot Custom Installer FREE! Save $40
+Backdoor security Custom Installer FREE! Save $40
+12 Advanced upgrades!
+Privacy App installers FREE!
+Stealth VM for FREE! Save $40
+C Drive to VM for FREE! Save $40
+
+The UNTRACKER makes you 100% anonymous on the internet so you can stop being tracked & traced by Evil Governments & Spy Agencies!
+
+Follower of YASHUA
+John Martinson
+Robolinux.org","Categories
+Antivirus, Anti-Malware, OS distribution"
+"Gui for aircrack-ng that can crack WEP and WPA networks, automatically scans for available networks, provides fake authentication and injection support.Gui for aircrack-ng that can crack WEP and WPA networks, automatically scans for available networks, provides fake authentication and injection support.","Categories
+Security, GNOME, Networking, Password Generators"
+"JSch is a pure Java implementation of SSH2. JSch allows you to connect to an sshd server and use port forwarding, X11 forwarding, file transfer, etc., and you can integrate its functionality into your own Java programs.JSch is a pure Java implementation of SSH2. JSch allows you to connect to an sshd server and use port forwarding, X11 forwarding, file transfer, etc., and you can integrate its functionality into your own Java programs.","Categories
+Security"
+Antitheft software for WM5 and WM6 phones with GPS module(tested on Eten X500+ and Mio A701). Useful for searching of lost/stolen phones and children monitoring. Can monitor sim card changes. Coordinates of the phone can be acquired by SMS.Antitheft software for WM5 and WM6 phones with GPS module(tested on Eten X500+ and Mio A701). Useful for searching of lost/stolen phones and children monitoring. Can monitor sim card changes. Coordinates of the phone can be acquired by SMS.,"Categories
+Communications, Security, Monitoring"
+pwsafe is a password database command-line utility. Passwords are kept in an encrypted database. Compatible with Counterpane's Win32 PasswordSafe ( https://sourceforge.net/projects/passwordsafe ).pwsafe is a password database command-line utility. Passwords are kept in an encrypted database. Compatible with Counterpane's Win32 PasswordSafe ( https://sourceforge.net/projects/passwordsafe ).,"Categories
+Security"
+"OpenVPN is a robust and highly flexible tunneling application that uses all of the encryption, authentication, and certification features of the OpenSSL library to securely tunnel IP networks over a single TCP/UDP port.
+
+Discussion forums and project wiki can be found here:
+https://forums.openvpn.net/
+http://community.openvpn.net/openvpnOpenVPN is a robust and highly flexible tunneling application that uses all of the encryption, authentication, and certification features of the OpenSSL library to securely tunnel IP networks over a single TCP/UDP port.
+
+Discussion forums and project wiki can be found here:
+https://forums.openvpn.net/
+http://community.openvpn.net/openvpn","Categories
+Cryptography, Firewall, VPN"
+"PHLAK is a modular live security Linux distribution. It is a derivative of Morphix. PHLAK hopes to develop the perfect toolkit for all security professionals. There are two flavors: FatMan- large CD-based iso, LittleBoy- slimmed USB pendrive version.PHLAK is a modular live security Linux distribution. It is a derivative of Morphix. PHLAK hopes to develop the perfect toolkit for all security professionals. There are two flavors: FatMan- large CD-based iso, LittleBoy- slimmed USB pendrive version.","Categories
+Security, Systems Administration"
+"[antispam] MailCleaner is an anti-spam / anti-virus filter SMTP gateway with user and admin web interfaces, quarantine, multi-domains, multi-templates, multi-languages. Using Bayes, RBLs, Spamassassin, MailScanner, ClamAV. Based on Debian. Enterprise ready.
+MailCleaner is an anti spam gateway installed between your mail infrastructure and the Internet.
+It includes a complete GNU/Linux OS and a graphical web interface for user and administrative access. It comes in the form of virtual machine templates..
+- fully compatible with any SMTP mail server (Exchange, Zimbra, O365,...)
+
+You can install now MailCleaner within the following virtual environments:
+qcow2 (KVM, Proxmox, OpenStack, Xen)
+ova (OVA, VMware ESXi, VMware Workstation, Fusion)
+vhd (Asure, VirtualPC)
+vhdx (Hyper-V)
+AMI (Amazon)
+
+Dedicate a server to MailCleaner, and you will have a working professional mail filter in less than an hour.[antispam] MailCleaner is an anti-spam / anti-virus filter SMTP gateway with user and admin web interfaces, quarantine, multi-domains, multi-templates, multi-languages. Using Bayes, RBLs, Spamassassin, MailScanner, ClamAV. Based on Debian. Enterprise ready.
+MailCleaner is an anti spam gateway installed between your mail infrastructure and the Internet.
+It includes a complete GNU/Linux OS and a graphical web interface for user and administrative access. It comes in the form of virtual machine templates..
+- fully compatible with any SMTP mail server (Exchange, Zimbra, O365,...)
+
+You can install now MailCleaner within the following virtual environments:
+qcow2 (KVM, Proxmox, OpenStack, Xen)
+ova (OVA, VMware ESXi, VMware Workstation, Fusion)
+vhd (Asure, VirtualPC)
+vhdx (Hyper-V)
+AMI (Amazon)
+
+Dedicate a server to MailCleaner, and you will have a working professional mail filter in less than an hour.","Categories
+Email Spam Filter, Firewall, Anti-Spam, Load Balancers, Email Servers"
+PortableSigner is a tool for digital signing (with X.509 certificates) of PDF filesPortableSigner is a tool for digital signing (with X.509 certificates) of PDF files,"Categories
+Office/Business, Cryptography"
+"Duply is a shell front end for the duplicity backup tool https://duplicity.us . It simplifies the usage by implementing backup job profiles, batch commands and more.
+Secure backup to non-trusted file spaces made easy.Duply is a shell front end for the duplicity backup tool https://duplicity.us . It simplifies the usage by implementing backup job profiles, batch commands and more.
+Secure backup to non-trusted file spaces made easy.","Categories
+Cryptography, Backup, Internet"
+"Hide In Picture is a program that allows you to conceal files inside bitmap pictures, using a password. The pictures look like normal images, so people will not suspect there is hidden data in them.Hide In Picture is a program that allows you to conceal files inside bitmap pictures, using a password. The pictures look like normal images, so people will not suspect there is hidden data in them.","Categories
+Cryptography, Graphics"
+"Many a times when we connect our PenDrive to a PC or Laptop,
+wedon't see our files and folders, instead see one or multiple
+shortcuts.
+
+Assuming these shortcuts as innocent, we launch them which in
+turn infects our PC or laptop with a virus which the geeks call
+Win32:Atraps-PZ[Trojan]
+
+Simply speaking, the shortcut creates a backdoor to your system
+so that it can access all your files,services and privileges
+within that system & all others connected to it without your permission.
+
+This is where HFV comes to help...Simply paste the location of your
+Infected directory on the box & click Delete virus to get rid of virus.
+As a safety precaution, keep this software backed up on system as well
+since the virus which hides all files and creates a shortcut can also
+hide this software as well.
+P.S.It can also be used to hide your private data from Neighbors and Roommates;)Many a times when we connect our PenDrive to a PC or Laptop,
+wedon't see our files and folders, instead see one or multiple
+shortcuts.
+
+Assuming these shortcuts as innocent, we launch them which in
+turn infects our PC or laptop with a virus which the geeks call
+Win32:Atraps-PZ[Trojan]
+
+Simply speaking, the shortcut creates a backdoor to your system
+so that it can access all your files,services and privileges
+within that system & all others connected to it without your permission.
+
+This is where HFV comes to help...Simply paste the location of your
+Infected directory on the box & click Delete virus to get rid of virus.
+As a safety precaution, keep this software backed up on system as well
+since the virus which hides all files and creates a shortcut can also
+hide this software as well.
+P.S.It can also be used to hide your private data from Neighbors and Roommates;)","Categories
+Security"
+SharpSSH is a pure .NET implementation of the SSH2 client protocol suite. It provides an API for communication with SSH servers and can be integrated into any .NET application.SharpSSH is a pure .NET implementation of the SSH2 client protocol suite. It provides an API for communication with SSH servers and can be integrated into any .NET application.,"Categories
+Security"
+"Hive Mind LOIC is a version of the Low Ordbit Ion Cannon made by Praetox, which was adapted for centralized control by NewEraCracker, when the project was then taken on by me. The amongst a few fixes I added RSS control (Such as via Twitter).Hive Mind LOIC is a version of the Low Ordbit Ion Cannon made by Praetox, which was adapted for centralized control by NewEraCracker, when the project was then taken on by me. The amongst a few fixes I added RSS control (Such as via Twitter).","Categories
+Security, Benchmark, Internet"
+"Rootkit Hunter, security monitoring and analyzing tool for POSIX compliant systems.Rootkit Hunter, security monitoring and analyzing tool for POSIX compliant systems.","Categories
+Security"

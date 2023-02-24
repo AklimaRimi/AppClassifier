@@ -1,0 +1,591 @@
+Description,Category
+"OpenFileAid is aimed to help people working with COBOL Copybooks and flat files, such as the orginal IBM FileAid. It allows to parse and load CopyBooks, to map the content of flat files to the fields of CopyBooks, to Intitialize CopyBooks...OpenFileAid is aimed to help people working with COBOL Copybooks and flat files, such as the orginal IBM FileAid. It allows to parse and load CopyBooks, to map the content of flat files to the fields of CopyBooks, to Intitialize CopyBooks...","Categories
+Data Formats, Software Development"
+This is a simple BACnet Server aimed at developers who want to explore or test their BACnet Client implementations of the ASHRAE BACnet protocol. It is based on Steve Karg's fine implementation of the BACnet Stack.This is a simple BACnet Server aimed at developers who want to explore or test their BACnet Client implementations of the ASHRAE BACnet protocol. It is based on Steve Karg's fine implementation of the BACnet Stack.,"Categories
+Data Formats, SCADA"
+NZBGetter is a PHP Script for linux based systems to spider NZB index sites for NZB files matching your predefined search patterns. The script downloads matching NZB files and passes them to your Usenet Reader.NZBGetter is a PHP Script for linux based systems to spider NZB index sites for NZB files matching your predefined search patterns. The script downloads matching NZB files and passes them to your Usenet Reader.,"Categories
+XML, Usenet News, RSS Feed Readers"
+"csv2odf can create business intelligence reports from csv data sources with output to ods, odt, html, xlsx, or docx documents. It uses a template file that you design to control the layout, fonts, and colors. Just query your database with output to csv (or tsv), then use csv2odf to insert the data into your template to produce a nice looking formatted output. It is a command line tool and you can automate the generation of reports by using scripts and cron. It can be used to create spreadsheets and documents for LibreOffice, OpenOffice, Microsoft Office Excel and Word. It is open source GPL v3 and crossplatform, it can run on most operating systems that can run Python (Python is required). More details, example files, and online manual at http://csv2odf.sf.net.csv2odf can create business intelligence reports from csv data sources with output to ods, odt, html, xlsx, or docx documents. It uses a template file that you design to control the layout, fonts, and colors. Just query your database with output to csv (or tsv), then use csv2odf to insert the data into your template to produce a nice looking formatted output. It is a command line tool and you can automate the generation of reports by using scripts and cron. It can be used to create spreadsheets and documents for LibreOffice, OpenOffice, Microsoft Office Excel and Word. It is open source GPL v3 and crossplatform, it can run on most operating systems that can run Python (Python is required). More details, example files, and online manual at http://csv2odf.sf.net.","Categories
+CSV, Report Generators, Command Line Tools"
+"Libiqxmlrpc is C++ object-oriented library that represents an XML-RPC solution for both client and server. It supports HTTP and HTTPS, both single-threaded and multi-threaded computation models on the server side, method interceptors, and other features.Libiqxmlrpc is C++ object-oriented library that represents an XML-RPC solution for both client and server. It supports HTTP and HTTPS, both single-threaded and multi-threaded computation models on the server side, method interceptors, and other features.","Categories
+XML-RPC, Object Oriented, Object Brokering"
+The HandCoded Toolkit for FpML processing is a library supporting functions for manipulating FpML documents implemented both in Java and C#.The HandCoded Toolkit for FpML processing is a library supporting functions for manipulating FpML documents implemented both in Java and C#.,"Categories
+XML"
+"TAPClean is a Commodore tape preservation / restoration tool. It will check, repair, and remaster Commodore 64 and VIC 20 TAP or DC2N DMP files (tape images).TAPClean is a Commodore tape preservation / restoration tool. It will check, repair, and remaster Commodore 64 and VIC 20 TAP or DC2N DMP files (tape images).","Categories
+Data Formats, Emulators, Audio Analysis"
+"Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).","Categories
+Data Formats, Information Analysis, Video"
+"CSSBox is an (X)HTML/CSS rendering engine written in pure Java. Its primary purpose is to provide a complete information about the rendered page suitable for further processing. However, it also allows displaying the rendered document.CSSBox is an (X)HTML/CSS rendering engine written in pure Java. Its primary purpose is to provide a complete information about the rendered page suitable for further processing. However, it also allows displaying the rendered document.","Categories
+HTML/XHTML, Browsers, Libraries"
+FreeRDP is a free remote desktop protocol client that implements RDP following the documentation provided under the Microsoft Open Specification Promise.FreeRDP is a free remote desktop protocol client that implements RDP following the documentation provided under the Microsoft Open Specification Promise.,"Categories
+Web Services, Remote Desktop"
+"DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.","Categories
+Data Formats, Terminal Emulators, Desktop Environment, Software Development, Networking"
+"SampleICC provides an open source platform independent C++ library for reading, writing, manipulating, and applying ICC profiles along with applications that make use of this library.SampleICC provides an open source platform independent C++ library for reading, writing, manipulating, and applying ICC profiles along with applications that make use of this library.","Categories
+Data Formats, Graphics"
+"Prowide Core (previously known as WIFE) is an open source Java framework for managing SWIFT MT messages.
+
+The library key features are the comprehensive Java model for all MT message types, along a straight-forward parsing and building API.
+
+The project is active since 2006, production ready and commercially supported.
+
+For detail information on the support package options please check: https://www.prowidesoftware.com/services
+
+SWIFT is a trademark of S.W.I.F.T. SCRL. (www.swift.com)
+
+Prowide in GitHub: https://github.com/prowideProwide Core (previously known as WIFE) is an open source Java framework for managing SWIFT MT messages.
+
+The library key features are the comprehensive Java model for all MT message types, along a straight-forward parsing and building API.
+
+The project is active since 2006, production ready and commercially supported.
+
+For detail information on the support package options please check: https://www.prowidesoftware.com/services
+
+SWIFT is a trademark of S.W.I.F.T. SCRL. (www.swift.com)
+
+Prowide in GitHub: https://github.com/prowide","Categories
+Data Formats, Financial, Frameworks"
+"Open source .Net (C#) / Java implementation of the W3C Efficient XML Interchange (EXI) format specification. As a corollary to XML, EXI is an alternative, very efficient format that has all of the mechanics of XML, but is much more compact and is faster to exchange.
+
+- README (about Nagasena EXI implemenation)
+https://www.dropbox.com/s/adh83u9z1x1czv6/README.txt?dl=0
+
+- Nagasena EXI grammar interchange format (PDF)
+https://www.dropbox.com/s/etrpuchaddplq2s/EXIGram.pdf?dl=0
+
+- Introduction to OpenEXI (PDF)
+https://www.dropbox.com/s/n2545xm0jjyui2d/IntroToOpenEXI.pdf?dl=0Open source .Net (C#) / Java implementation of the W3C Efficient XML Interchange (EXI) format specification. As a corollary to XML, EXI is an alternative, very efficient format that has all of the mechanics of XML, but is much more compact and is faster to exchange.
+
+- README (about Nagasena EXI implemenation)
+https://www.dropbox.com/s/adh83u9z1x1czv6/README.txt?dl=0
+
+- Nagasena EXI grammar interchange format (PDF)
+https://www.dropbox.com/s/etrpuchaddplq2s/EXIGram.pdf?dl=0
+
+- Introduction to OpenEXI (PDF)
+https://www.dropbox.com/s/n2545xm0jjyui2d/IntroToOpenEXI.pdf?dl=0","Categories
+XML, JSON"
+"A C++ XmlRpc library, client side only at this stage, for Windows. It's built on top of WinInet rather than reimplementing the HTTP and HTTPS protocols, and therefore has automatic support for SSL.A C++ XmlRpc library, client side only at this stage, for Windows. It's built on top of WinInet rather than reimplementing the HTTP and HTTPS protocols, and therefore has automatic support for SSL.","Categories
+XML-RPC"
+"[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.","Categories
+XML, File Sharing, Cryptography"
+"libcsv is a small, simple and fast CSV library written in pure ANSI C89 that can read and write CSV data. It provides a straight-forward interface using callback functions to handle parsed fields and rows and can parse improperly formatted CSV files.libcsv is a small, simple and fast CSV library written in pure ANSI C89 that can read and write CSV data. It provides a straight-forward interface using callback functions to handle parsed fields and rows and can parse improperly formatted CSV files.","Categories
+Data Formats"
+"HL7 file viewer/editor, in tree-view format. Version 2.0 is out now (consider it a beta release for now) with the first release of my new macro feature - you can now automate some of your testing tasks in JavaScript (details in Discussion forum). The purpose of this project is to assist in testing and bug-tracing HL7 communications.HL7 file viewer/editor, in tree-view format. Version 2.0 is out now (consider it a beta release for now) with the first release of my new macro feature - you can now automate some of your testing tasks in JavaScript (details in Discussion forum). The purpose of this project is to assist in testing and bug-tracing HL7 communications.","Categories
+Data Formats, Software Testing"
+"The gawkextlib project provides several extension libraries for gawk (GNU AWK), as well as libgawkextlib containing some APIs that are useful for building gawk extension libraries. These libraries enable gawk to process XML data, interact with a PostgreSQL database, use the GD graphics library, and perform unlimited precision MPFR calculations.
+
+These extensions work with GNU AWK version 4.1.1 or later. We have created a framework for packaging gawk extensions, and we welcome further contributions. Recent additions include haru, redis, and select for I/O multiplexing.The gawkextlib project provides several extension libraries for gawk (GNU AWK), as well as libgawkextlib containing some APIs that are useful for building gawk extension libraries. These libraries enable gawk to process XML data, interact with a PostgreSQL database, use the GD graphics library, and perform unlimited precision MPFR calculations.
+
+These extensions work with GNU AWK version 4.1.1 or later. We have created a framework for packaging gawk extensions, and we welcome further contributions. Recent additions include haru, redis, and select for I/O multiplexing.","Categories
+XML, Interpreters"
+"The main goal of the Office Binary (doc, xls, ppt) Translator to Open XML Project is to create software tools, plus guidance, showing how a document written using the Binary Formats (doc, xls, ppt) can be translated to Office Open XML.The main goal of the Office Binary (doc, xls, ppt) Translator to Open XML Project is to create software tools, plus guidance, showing how a document written using the Binary Formats (doc, xls, ppt) can be translated to Office Open XML.","Categories
+Word Processors, XML, Office Suites"
+"Java based astronomical logging software which stores it's data in a free and open XML based format (OpenAstronomyLog).
+Discontinued project: Please check out the fork: https://github.com/capape/observation-manager for an updated versionJava based astronomical logging software which stores it's data in a free and open XML based format (OpenAstronomyLog).
+Discontinued project: Please check out the fork: https://github.com/capape/observation-manager for an updated version","Categories
+XML, Astronomy"
+"The portable Universal Plug and Play (UPnP) SDK provides support for building UPnP-compliant control points, devices, and bridges on several operating systems.
+
+The main repository is at GitHub in https://github.com/pupnp/pupnp. This is just a clone repository for legacy reasons.
+
+Old SourceForge repo: git://pupnp.git.sourceforge.net/gitroot/pupnp/pupnpThe portable Universal Plug and Play (UPnP) SDK provides support for building UPnP-compliant control points, devices, and bridges on several operating systems.
+
+The main repository is at GitHub in https://github.com/pupnp/pupnp. This is just a clone repository for legacy reasons.
+
+Old SourceForge repo: git://pupnp.git.sourceforge.net/gitroot/pupnp/pupnp","Categories
+XML-RPC, SOAP, Communications"
+pisg is a smart Perl script which generates nice looking statistics out from IRC logfiles. It's a funny thing for the users of your channel :)pisg is a smart Perl script which generates nice looking statistics out from IRC logfiles. It's a funny thing for the users of your channel :),"Categories
+Data Formats, IRC Clients"
+DITA2wiki is a toolkit that enables you to publish DITA content (maps and topics) to a wiki.DITA2wiki is a toolkit that enables you to publish DITA content (maps and topics) to a wiki.,"Categories
+Text Processing, XML, Documentation"
+"IMPORTANT NOTE: This project has moved to Github: https://github.com/pkozelka/libxml2-pas
+
+Pascal units accessing the popular XML API from Daniel Veillard ( http://www.xmlsoft.org ). This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).IMPORTANT NOTE: This project has moved to Github: https://github.com/pkozelka/libxml2-pas
+
+Pascal units accessing the popular XML API from Daniel Veillard ( http://www.xmlsoft.org ). This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).","Categories
+Text Processing, XML, Dynamic Content, System"
+"XML2TeXML provides XSL stylesheets for translating DocBook XML and MathML into TeXML. Oleg Paraschenko's TeXML software and pdfLaTeX can be used to produce high quality PDF documents from the stylesheets' output, even if non-Latin-1 characters are used.XML2TeXML provides XSL stylesheets for translating DocBook XML and MathML into TeXML. Oleg Paraschenko's TeXML software and pdfLaTeX can be used to produce high quality PDF documents from the stylesheets' output, even if non-Latin-1 characters are used.","Categories
+XML, DocBook"
+"Kabeja is a java library for parsing DXF and converting to SVG (dxf2svg). The library supports the SAX-api and can integrated into other applications (Cocoon,Batik). Tools for converting svg to jpeg, tiff, png and pdf are included .Kabeja is a java library for parsing DXF and converting to SVG (dxf2svg). The library supports the SAX-api and can integrated into other applications (Cocoon,Batik). Tools for converting svg to jpeg, tiff, png and pdf are included .","Categories
+Data Formats, Image Converters, Data Visualization"
+"JSON is a lightweight data-interchange format. It can represents integer, real number, string, an ordered sequence of value, and a collection of name/value pairs.
+QJson is a qt-based library that maps JSON data to QVariant objects.JSON is a lightweight data-interchange format. It can represents integer, real number, string, an ordered sequence of value, and a collection of name/value pairs.
+QJson is a qt-based library that maps JSON data to QVariant objects.","Categories
+JSON"
+"NOTE: we moved to http://exificient.github.io !!!
+
+The Efficient XML Interchange (EXI) format is a very compact representation for the Extensible Markup Language (XML) Information Set that is intended to simultaneously optimize performance and the utilization of computational resources.
+
+Besides the EXI library EXIficient provides a command-line interface (CLI, see com.siemens.ct.exi.cmd.EXIficientCMD) and a graphical user interface (GUI, see http://exificient.sourceforge.net/exificient.jnlp)NOTE: we moved to http://exificient.github.io !!!
+
+The Efficient XML Interchange (EXI) format is a very compact representation for the Extensible Markup Language (XML) Information Set that is intended to simultaneously optimize performance and the utilization of computational resources.
+
+Besides the EXI library EXIficient provides a command-line interface (CLI, see com.siemens.ct.exi.cmd.EXIficientCMD) and a graphical user interface (GUI, see http://exificient.sourceforge.net/exificient.jnlp)","Categories
+XML, XML-RPC, SOAP, Web Services, AJAX"
+Extracting image files from Microsoft's Powerpoint (PPS/PPT) filesExtracting image files from Microsoft's Powerpoint (PPS/PPT) files,"Categories
+Data Formats, Presentation, Image Converters"
+"THIS VERSION ON SOURCEFORGE IS NO LONGER SUPPORTED and works only on Windows.
+
+The Okapi Framework is a set of components and tools for localization and translation tasks. THE NEWEST JAVA-BASED VERSION OF OKAPI IS AVAILABLE AT: http://okapi.opentag.com/
+
+The new version runs on Windows, Mac, Linux, etc.THIS VERSION ON SOURCEFORGE IS NO LONGER SUPPORTED and works only on Windows.
+
+The Okapi Framework is a set of components and tools for localization and translation tasks. THE NEWEST JAVA-BASED VERSION OF OKAPI IS AVAILABLE AT: http://okapi.opentag.com/
+
+The new version runs on Windows, Mac, Linux, etc.","Categories
+Data Formats, Frameworks, Localization (L10N)"
+"Multi-connection command line tool to download Internet sites. Similar to wget and cURL, but it manages up to 50 parallel links. Main features are: recursive fetching, Metalink retrieving, segmented download and image filtering by width and height.Multi-connection command line tool to download Internet sites. Similar to wget and cURL, but it manages up to 50 parallel links. Main features are: recursive fetching, Metalink retrieving, segmented download and image filtering by width and height.","Categories
+HTML/XHTML, File Transfer Protocol (FTP), WWW/HTTP"
+"The HL7 Inspector project has moved to Bitbucket.
+
+https://bitbucket.org/crambow/hl7inspector
+
+All new releases can be found there.
+
+The web-based version can still be found at www.hl7inspector.comThe HL7 Inspector project has moved to Bitbucket.
+
+https://bitbucket.org/crambow/hl7inspector
+
+All new releases can be found there.
+
+The web-based version can still be found at www.hl7inspector.com","Categories
+Data Formats, Debuggers, Medical"
+"Resx Editor is a small translation-oriented file editor for Microsoft RESX 2.0
+files. Resx Editor is designed for professional translators (include a word count feature).Resx Editor is a small translation-oriented file editor for Microsoft RESX 2.0
+files. Resx Editor is designed for professional translators (include a word count feature).","Categories
+XML, Site Management, Documentation, Localization (L10N), Internationalization (I18N)"
+"OpenXLS is the open source version of ExtenXLS -- a best-in-class Java spreadsheet SDK that allows you to read, modify and create Excel-compatible spreadsheets from your Java applications.
+
+Supports Excel 97-2012 file formats.OpenXLS is the open source version of ExtenXLS -- a best-in-class Java spreadsheet SDK that allows you to read, modify and create Excel-compatible spreadsheets from your Java applications.
+
+Supports Excel 97-2012 file formats.","Categories
+Data Formats, Libraries"
+"A very lightweight software for PDF file editing. You can merge, rearrange, rotate, delete, compress PDF files in a very simple way.A very lightweight software for PDF file editing. You can merge, rearrange, rotate, delete, compress PDF files in a very simple way.","Categories
+Graphic Design, Desktop Publishing, PDF, PDF Editors"
+"The aim of this project is to compile up-to-date Windows builds of FontForge.
+
+For 'stable' builds, see https://github.com/fontforge/fontforge/releases
+
+The build system used was based off that offered by Matthew Petroff (http://www.mpetroff.net/software/fontforge-windows/), but has since been practically rewritten.
+
+New in 11/07/2020:
+* Synced with the 20201107 release.
+New in 06/04/2020:
+* Updated to latest master, picks up a clipboard copying fix
+New in 14/03/2020:
+* Synced with the 20200314 release.
+New in 01/03/2020:
+* Updated to latest master, now built with CMake. (prerelease)
+New in 02/06/2019:
+* The 32-bit build now uses Python 3 (3.7) instead of Python 2. No further Python 2 builds will be provided.
+* The GDK3 backend is now used. VcXsrv is no longer bundled.
+New in 31/07/2017:
+
+KNOWN ISSUES:
+* CTRL-C from console no longer interrupts/stops FontForgeThe aim of this project is to compile up-to-date Windows builds of FontForge.
+
+For 'stable' builds, see https://github.com/fontforge/fontforge/releases
+
+The build system used was based off that offered by Matthew Petroff (http://www.mpetroff.net/software/fontforge-windows/), but has since been practically rewritten.
+
+New in 11/07/2020:
+* Synced with the 20201107 release.
+New in 06/04/2020:
+* Updated to latest master, picks up a clipboard copying fix
+New in 14/03/2020:
+* Synced with the 20200314 release.
+New in 01/03/2020:
+* Updated to latest master, now built with CMake. (prerelease)
+New in 02/06/2019:
+* The 32-bit build now uses Python 3 (3.7) instead of Python 2. No further Python 2 builds will be provided.
+* The GDK3 backend is now used. VcXsrv is no longer bundled.
+New in 31/07/2017:
+
+KNOWN ISSUES:
+* CTRL-C from console no longer interrupts/stops FontForge","Categories
+Graphic Design, Multimedia, PostScript"
+"This is an RTF code emitter in MS .NET framework. Most frequently used features in MS Word are implemented, including font formatting, pictures, tables, footnotes, headers, footers, etc. No other libraries are required.
+
+LICENSE: LGPLv3 http://www.gnu.org/copyleft/lesser.htmlThis is an RTF code emitter in MS .NET framework. Most frequently used features in MS Word are implemented, including font formatting, pictures, tables, footnotes, headers, footers, etc. No other libraries are required.
+
+LICENSE: LGPLv3 http://www.gnu.org/copyleft/lesser.html","Categories
+Word Processors, Data Formats"
+"MediaWiki is the collaborative editing software that runs Wikipedia, the free encyclopedia, and other projects. MediaWiki is no longer distributed via SourceForge, for downloads and other information please visit www.mediawiki.org.MediaWiki is the collaborative editing software that runs Wikipedia, the free encyclopedia, and other projects. MediaWiki is no longer distributed via SourceForge, for downloads and other information please visit www.mediawiki.org.","Categories
+HTML/XHTML, Other/Nonlisted Topic, Front-Ends, Message Board, Education"
+"phpMyBitTorrent: BitTorrent Tracker written in PHP. Features include: hosting torrents from remote trackers, DHT, Compact Announce, alternate links (eD2K, Magnet), HTTP-Basic Authentication, Passkey Authentication, embedded HTML Editor, Mass-upload of tophpMyBitTorrent: BitTorrent Tracker written in PHP. Features include: hosting torrents from remote trackers, DHT, Compact Announce, alternate links (eD2K, Magnet), HTTP-Basic Authentication, Passkey Authentication, embedded HTML Editor, Mass-upload of to","Categories
+HTML/XHTML, BitTorrent, Dynamic Content"
+Free editor for PDF documents. Complete editing of PDF documents is possible with PDFedit. You can change raw pdf objects (for advanced users) or use many gui functions. Functionality can be easily extended using a scripting language (ECMAScript).Free editor for PDF documents. Complete editing of PDF documents is possible with PDFedit. You can change raw pdf objects (for advanced users) or use many gui functions. Functionality can be easily extended using a scripting language (ECMAScript).,"Categories
+Image Viewers, Graphic Design, PDF"
+Project moved to https://github.com/zamtmn/zcadProject moved to https://github.com/zamtmn/zcad,"Categories
+3D Modeling, Computer-aided technologies (CADD/CAM/CAE), CAD"
+"Canorus is a free cross-platform music score editor. It supports an unlimited number and length of staffs, polyphony, a MIDI playback of notes, chord markings, lyrics, import/export filters to formats like MIDI, MusicXML, ABC Music, MusiXTeX and LilyPondCanorus is a free cross-platform music score editor. It supports an unlimited number and length of staffs, polyphony, a MIDI playback of notes, chord markings, lyrics, import/export filters to formats like MIDI, MusicXML, ABC Music, MusiXTeX and LilyPond","Categories
+Text Editors, XML, Printing, Education, Sound/Audio"
+"HTML2PDF is a PHP class using FPDF for the PHP4 release, and TCPDF for the PHP5 release. It can convert valid HTML and xHTML to PDF. More details and examples on http://html2pdf.fr/
+
+HTML2PDF is now on GitHub : https://github.com/spipu/html2pdf/HTML2PDF is a PHP class using FPDF for the PHP4 release, and TCPDF for the PHP5 release. It can convert valid HTML and xHTML to PDF. More details and examples on http://html2pdf.fr/
+
+HTML2PDF is now on GitHub : https://github.com/spipu/html2pdf/","Categories
+HTML/XHTML"
+"EqualX makes you easily write equations in LaTeX and preview them in real-time.
+
+repository: https://gitlab.com/q-quark/equalxEqualX makes you easily write equations in LaTeX and preview them in real-time.
+
+repository: https://gitlab.com/q-quark/equalx","Categories
+TeX/LaTeX, Mathematics, Desktop Publishing"
+"jPod is a rich PDF manipulation and rendering framework. A complete rendering library based on jPod is available here at ""jPodRenderer"". To see jPod & jPodRenderer at work, have a look at www.cabaret-solutions.comjPod is a rich PDF manipulation and rendering framework. A complete rendering library based on jPod is available here at ""jPodRenderer"". To see jPod & jPodRenderer at work, have a look at www.cabaret-solutions.com","Categories
+Text Processing, Data Formats"
+"Conversion from *.mht files to *.htm files. mht2htm extracts all files from mht in single dir so you can open it on any OS. Also works with .eml, .msg, .nws... filesConversion from *.mht files to *.htm files. mht2htm extracts all files from mht in single dir so you can open it on any OS. Also works with .eml, .msg, .nws... files","Categories
+HTML/XHTML, Email, WWW/HTTP"
+"A command-line Python utility to mine information on open source projects using the ohloh web service APIs. The script is enables analysis of open source projects indexed by ohloh by providing source lines of code (SLOC), contributor data and other info.A command-line Python utility to mine information on open source projects using the ohloh web service APIs. The script is enables analysis of open source projects indexed by ohloh by providing source lines of code (SLOC), contributor data and other info.","Categories
+Web Services, Source Code Analysis"
+"ACTIVE DEVELOPMENT ENDED IN 2011.
+
+Use Easy Feed Editor to create your own feed. Easy Feed Editor supports both RSS and ATOM.ACTIVE DEVELOPMENT ENDED IN 2011.
+
+Use Easy Feed Editor to create your own feed. Easy Feed Editor supports both RSS and ATOM.","Categories
+XML, RSS, WWW/HTTP"
+"Serialization + persistance : in a few lines of code, compress and annotate Python objects into SQLite; then later retrieve them chronologically by keywords without any SQL. Most useful ""standard"" module for a database to store schema-less data.Serialization + persistance : in a few lines of code, compress and annotate Python objects into SQLite; then later retrieve them chronologically by keywords without any SQL. Most useful ""standard"" module for a database to store schema-less data.","Categories
+Data Formats, Database, Software Development"
+"Fast and multi platform reader of network traces, have possible to shared date in screen, file or MatlabFast and multi platform reader of network traces, have possible to shared date in screen, file or Matlab","Categories
+Data Formats"
+"Bots-ediint is a file translator for edi (Electronic Data Interchange).
+EDI data formats eg: edifact, x12, tradacoms, xml.
+
+Bots-ediint is based on Bots
+https://bots.sourceforge.net
+
+Support Python 2 and Python 3
+
+
+AS2 communications are carried out with my external software that could work in standalone and/or in a Bots channel to send and receive AS2 messages (SYNC and ASYNC)Bots-ediint is a file translator for edi (Electronic Data Interchange).
+EDI data formats eg: edifact, x12, tradacoms, xml.
+
+Bots-ediint is based on Bots
+https://bots.sourceforge.net
+
+Support Python 2 and Python 3
+
+
+AS2 communications are carried out with my external software that could work in standalone and/or in a Bots channel to send and receive AS2 messages (SYNC and ASYNC)","Categories
+Data Formats, ERP, Professional Services Automation"
+"Le logiciel permet d'analyser des bases de données de tweets (API Twitter extraites sous format .csv) afin de pouvoir créer un rapport d'impact social media d'un événement suivis par des hashtags.
+Le logiciel permet de créer différents graphiques pertinents et de pouvoir placer dans le presse-papier des tweets à mettre dans le rapport.Le logiciel permet d'analyser des bases de données de tweets (API Twitter extraites sous format .csv) afin de pouvoir créer un rapport d'impact social media d'un événement suivis par des hashtags.
+Le logiciel permet de créer différents graphiques pertinents et de pouvoir placer dans le presse-papier des tweets à mettre dans le rapport.","Categories
+Image Converters, JSON, CSV"
+"Free and open source GUI application for manipulating PDF files using the Windows version of PDF Toolkit (PDFtk) - split, merge, stamp, number pages, rotate, metadata, bookmarks, attachments, etc. This project is a fork of PDFTK Builder by Angus Johnson that enhances the user interface, adds functions, and enables use of later versions of PDFtk. OS: Windows. Author: David King. License: GPLv3.Free and open source GUI application for manipulating PDF files using the Windows version of PDF Toolkit (PDFtk) - split, merge, stamp, number pages, rotate, metadata, bookmarks, attachments, etc. This project is a fork of PDFTK Builder by Angus Johnson that enhances the user interface, adds functions, and enables use of later versions of PDFtk. OS: Windows. Author: David King. License: GPLv3.","Categories
+Office Suites, Desktop Publishing, PDF, PDF Merge, PDF Splitters"
+"This command line utility is a codepage converter to be used to change the character encoding of text. It fully supports charsets such as ANSI code pages, UTF-8, UTF-16 LE/BE, UTF-32 LE/BE, and EBCDIC. It's designed to convert big text files, too. It runs on Windows XP onwards (tested on XP, Windows 7, Windows 8.1, Windows 10, and Windows 11). The ""readme.txt"" file and the Wiki gives you some more information.
+
+You'll find the compiled tool for 32 bit (x86) and 64 bit (x64) Windows in the ""bin"" directory. The C source code is available in the ""src"" directory. Just click on the ""Files"" tab.
+
+Regardless if you have or don't have a SourceForge account - whenever you have questions about CONVERTCP or you want to give feedback then you are welcome to post it in the forum. Click on the ""Discussion"" tab.This command line utility is a codepage converter to be used to change the character encoding of text. It fully supports charsets such as ANSI code pages, UTF-8, UTF-16 LE/BE, UTF-32 LE/BE, and EBCDIC. It's designed to convert big text files, too. It runs on Windows XP onwards (tested on XP, Windows 7, Windows 8.1, Windows 10, and Windows 11). The ""readme.txt"" file and the Wiki gives you some more information.
+
+You'll find the compiled tool for 32 bit (x86) and 64 bit (x64) Windows in the ""bin"" directory. The C source code is available in the ""src"" directory. Just click on the ""Files"" tab.
+
+Regardless if you have or don't have a SourceForge account - whenever you have questions about CONVERTCP or you want to give feedback then you are welcome to post it in the forum. Click on the ""Discussion"" tab.","Categories
+Text Processing, Data Formats, Desktop Publishing"
+"This project provides VBA add-ins which convert Microsoft Office contents to various text formats.
+Currently the following two VBA add-ins are ready.
+
+* xls2textile: Excel to Textile, HTML, AsciiDoc, GitHub Flavored Markdown (GFM), and CSV.
+* ppt2textile: PowerPoint to to Textile, AsciiDoc, and GitHub Flavored Markdown (GFM).
+
+2021/02/06: Version 0.97 is released. Fix ""general horizontal alignment"" which was broken on 0.96.
+2020/07/11: Version 0.96 is released. Fix for MacOS. fix for ""General"" horizontal alignment not to modify the Excel file.
+2020/05/16: Version 0.95 is released. AsciiDoc, GitHub Flavored Markdown (GFM), and CSV output is supported.
+2019/12/29: Version 0.94 is released. It fixed an issue throwing an exception when used with Skype.This project provides VBA add-ins which convert Microsoft Office contents to various text formats.
+Currently the following two VBA add-ins are ready.
+
+* xls2textile: Excel to Textile, HTML, AsciiDoc, GitHub Flavored Markdown (GFM), and CSV.
+* ppt2textile: PowerPoint to to Textile, AsciiDoc, and GitHub Flavored Markdown (GFM).
+
+2021/02/06: Version 0.97 is released. Fix ""general horizontal alignment"" which was broken on 0.96.
+2020/07/11: Version 0.96 is released. Fix for MacOS. fix for ""General"" horizontal alignment not to modify the Excel file.
+2020/05/16: Version 0.95 is released. AsciiDoc, GitHub Flavored Markdown (GFM), and CSV output is supported.
+2019/12/29: Version 0.94 is released. It fixed an issue throwing an exception when used with Skype.","Categories
+Data Formats"
+"Cross-platform C library for reading values from and writing values to .xlsx files.
+
+XLSX I/O aims to provide a C library for reading and writing .xlsx files.
+The .xlsx file format is the native format used by Microsoft(R) Excel(TM) since version 2007.
+
+The library was written with the following goals in mind:
+- primary focus on data values organized in tables, on not layout or graphics
+- written in standard C, but allows being used by C++
+- simple interface
+- small footprint
+- portable across different platforms (Windows, *nix)
+- minimal dependancies: only depends on expat (only for reading) and libzip (which in turn depends on zlib)
+- separate library for reading and writing .xlsx files
+
+Also includes command line tools to convert between .xslx and CSV files.Cross-platform C library for reading values from and writing values to .xlsx files.
+
+XLSX I/O aims to provide a C library for reading and writing .xlsx files.
+The .xlsx file format is the native format used by Microsoft(R) Excel(TM) since version 2007.
+
+The library was written with the following goals in mind:
+- primary focus on data values organized in tables, on not layout or graphics
+- written in standard C, but allows being used by C++
+- simple interface
+- small footprint
+- portable across different platforms (Windows, *nix)
+- minimal dependancies: only depends on expat (only for reading) and libzip (which in turn depends on zlib)
+- separate library for reading and writing .xlsx files
+
+Also includes command line tools to convert between .xslx and CSV files.","Categories
+Data Formats, Libraries"
+"GdnPlanner is a tool to create the 2D plans of your garden or flat.
+
+See review at http://listoffreeware.com/free-landscape-design-software-windows/GdnPlanner is a tool to create the 2D plans of your garden or flat.
+
+See review at http://listoffreeware.com/free-landscape-design-software-windows/","Categories
+XML, Data Visualization, Hobbies"
+"June 2021
+
+I have decided to now longer maintain releases on sourceforge.
+
+Please feel free to visit the project on github:
+
+https://github.com/sapstern/edifactconverter
+
+You will find instructions on how to build the converter there.June 2021
+
+I have decided to now longer maintain releases on sourceforge.
+
+Please feel free to visit the project on github:
+
+https://github.com/sapstern/edifactconverter
+
+You will find instructions on how to build the converter there.","Categories
+Data Formats, XML"
+"KOMA-Script provides drop-in replacements for the LaTeX standard classes article, report, and book. These KOMA-Script classes scrartcl, scrreprt, and scrbook are much more configurable than the standard classes.
+
+Additionally, KOMA-Script provides a completely new designed letter class that is also very versatil. Predefined setting (letter class options) are available, e.g., for German letters, US-American letters, Swiss letters, French letters, and Japanese letters.
+
+There are several additional packages in KOMA-Script that may be used with other classes too, e.g.:
+- scrbase (basic features of the KOMA-Script classes)
+- tocbasic (features for tables of contents and creating more floats)
+- scrdate (date functions)
+- scrtime (current time)
+- scrlayer (virtual layers)
+- scrlayer-scrpage (page style configuration)
+- typearea (semi-automatic typing area and margin setup)
+- scrextend (extended features of the KOMA-Script classes)
+…KOMA-Script provides drop-in replacements for the LaTeX standard classes article, report, and book. These KOMA-Script classes scrartcl, scrreprt, and scrbook are much more configurable than the standard classes.
+
+Additionally, KOMA-Script provides a completely new designed letter class that is also very versatil. Predefined setting (letter class options) are available, e.g., for German letters, US-American letters, Swiss letters, French letters, and Japanese letters.
+
+There are several additional packages in KOMA-Script that may be used with other classes too, e.g.:
+- scrbase (basic features of the KOMA-Script classes)
+- tocbasic (features for tables of contents and creating more floats)
+- scrdate (date functions)
+- scrtime (current time)
+- scrlayer (virtual layers)
+- scrlayer-scrpage (page style configuration)
+- typearea (semi-automatic typing area and margin setup)
+- scrextend (extended features of the KOMA-Script classes)
+…","Categories
+TeX/LaTeX"
+"This software will help you to convert a .csv(Comma-Separated Values) files to .vcf(vCard 2.1) files. For example, you'll find it very helpful for transfering your contacts from old-types cell phones, wich can export it's phonebook to csv only, to newer ones or even smartphones, etc.
+The latest version from now on has the ability of language selection. The built in languages are: English, Ukrainian and Russian. Besides, users can even make own translations now and store them into languages.ini file (I would appreciate if users will send me a new language sections for ini file, so I would be able to include them into release.).This software will help you to convert a .csv(Comma-Separated Values) files to .vcf(vCard 2.1) files. For example, you'll find it very helpful for transfering your contacts from old-types cell phones, wich can export it's phonebook to csv only, to newer ones or even smartphones, etc.
+The latest version from now on has the ability of language selection. The built in languages are: English, Ukrainian and Russian. Besides, users can even make own translations now and store them into languages.ini file (I would appreciate if users will send me a new language sections for ini file, so I would be able to include them into release.).","Categories
+Other/Nonlisted Topic, CSV"
+"RTextDoc is an editor for structured text documents such as LaTeX, AsciiDoc, DocBook. RTextDoc has proofreading capabilities: on-the-fly spelling, instant grammar checking and built-in free dictionaries. RTextDoc has syntax highlighting, bracket matching, folding, document structure browser for sections and labels, bookmarks, manager for LaTeX symbols, an editor for mathematical equations,integrated BibTeX database manager and several tools to convert LaTeX to HTML and back. AsciiDoc files can be converted to DocBook, HTML and PDF files.RTextDoc is an editor for structured text documents such as LaTeX, AsciiDoc, DocBook. RTextDoc has proofreading capabilities: on-the-fly spelling, instant grammar checking and built-in free dictionaries. RTextDoc has syntax highlighting, bracket matching, folding, document structure browser for sections and labels, bookmarks, manager for LaTeX symbols, an editor for mathematical equations,integrated BibTeX database manager and several tools to convert LaTeX to HTML and back. AsciiDoc files can be converted to DocBook, HTML and PDF files.","Categories
+Text Editors, Text Processing, TeX/LaTeX"
+"biweekly HAS MOVED TO GITHUB! Watch me, star me, fork me!
+
+https://github.com/mangstadt/biweekly
+
+biweekly is an iCalendar library written in Java (requires Java 1.5 or above). The project aims to provide a well documented, easy to use API for reading and writing iCalendar and vCalendar data.biweekly HAS MOVED TO GITHUB! Watch me, star me, fork me!
+
+https://github.com/mangstadt/biweekly
+
+biweekly is an iCalendar library written in Java (requires Java 1.5 or above). The project aims to provide a well documented, easy to use API for reading and writing iCalendar and vCalendar data.","Categories
+Data Formats, Calendar, Libraries"
+This is a User Defined Language for N++ which provides full auto-complete and call-tip hints for the Arduino language.This is a User Defined Language for N++ which provides full auto-complete and call-tip hints for the Arduino language.,"Categories
+Data Formats"
+"Xidel is a command line tool to download web pages and extract data from them.
+
+This data can be extracted using XPath/XQuery 3.0 (with a compatibility modes for XPath 2.0 and XQuery 1.0), JSONiq, CSS 3 selectors, and custom, pattern-matching templates that are like an annotated version of the processed page.
+
+It can download files over HTTP/S connections, follow redirections, links, or extracted values, and also process local files.
+
+The extracted values can then be exported as plain text/XML/JSON, or assigned to variables to use in other extract expressions.
+
+It also provides an online CGI service for testing of XPath / XQuery 3.0 expression.
+
+
+
+(Xidel is a part of the VideLibri project, so its project page just redirects there )Xidel is a command line tool to download web pages and extract data from them.
+
+This data can be extracted using XPath/XQuery 3.0 (with a compatibility modes for XPath 2.0 and XQuery 1.0), JSONiq, CSS 3 selectors, and custom, pattern-matching templates that are like an annotated version of the processed page.
+
+It can download files over HTTP/S connections, follow redirections, links, or extracted values, and also process local files.
+
+The extracted values can then be exported as plain text/XML/JSON, or assigned to variables to use in other extract expressions.
+
+It also provides an online CGI service for testing of XPath / XQuery 3.0 expression.
+
+
+
+(Xidel is a part of the VideLibri project, so its project page just redirects there )","Categories
+XML, HTML/XHTML, WWW/HTTP"
+"Code_finder is a standalone php script written by Akram Hasan Sharkar and Sazzad Hossain Sharkar.
+It has inner database of Bangladeshi Postal Code with District, Thana, Post Office and Post Code.
+This is easy to use script, works on single call and line of code. Anyone use this script for their standalone website or any kind of CMS. No need extra coding or programming skill to work with this script.
+
+Easy customizable and fully flexible calls and output. You can apply your own style if you want to implement it with your exist input fields.Code_finder is a standalone php script written by Akram Hasan Sharkar and Sazzad Hossain Sharkar.
+It has inner database of Bangladeshi Postal Code with District, Thana, Post Office and Post Code.
+This is easy to use script, works on single call and line of code. Anyone use this script for their standalone website or any kind of CMS. No need extra coding or programming skill to work with this script.
+
+Easy customizable and fully flexible calls and output. You can apply your own style if you want to implement it with your exist input fields.","Categories
+HTML/XHTML, Database, Database Engines/Servers"
+"El propósito de este proyecto es generar scripts ZLP que puedan ser usados en impresoras de etiquetas que soporten éste lenguaje de programación.
+
+The purpouse of this project is generate a ZPL scritp to be used with label printers that suports this programming language.
+
+* Visual design
+* WYSIWYG
+* Database integration
+* Ease of use
+* SimpleEl propósito de este proyecto es generar scripts ZLP que puedan ser usados en impresoras de etiquetas que soporten éste lenguaje de programación.
+
+The purpouse of this project is generate a ZPL scritp to be used with label printers that suports this programming language.
+
+* Visual design
+* WYSIWYG
+* Database integration
+* Ease of use
+* Simple","Categories
+Data Formats, PostScript"
+"Trx Framework allows to build client/server applications to interchange financial messages. It supports many encoding/decoding mechanisms for fixed and variable field messages, including ISO 8583, XML and conditional formatting. It is highly customizable and extensible. Trx Framework also provides a flexible channel communication infrastructure supporting TCP/IP and other technologies.Trx Framework allows to build client/server applications to interchange financial messages. It supports many encoding/decoding mechanisms for fixed and variable field messages, including ISO 8583, XML and conditional formatting. It is highly customizable and extensible. Trx Framework also provides a flexible channel communication infrastructure supporting TCP/IP and other technologies.","Categories
+Data Formats, Communications, Point of Sale (POS), Frameworks"
+"S-FENG stands for Semantic-FEderation Next Generation.
+S-FENG represents the solution for managing federation of registries with its related aspects: affiliation, promotion, semantic publication and discovery, according to UDDI 3.0.2 specifications.S-FENG stands for Semantic-FEderation Next Generation.
+S-FENG represents the solution for managing federation of registries with its related aspects: affiliation, promotion, semantic publication and discovery, according to UDDI 3.0.2 specifications.","Categories
+Web Services, Semantic Web"
+"Open Source program for creating tests, which will be a compile of test and testing. It can be used by anyone who want to quickly create test and make testing.Open Source program for creating tests, which will be a compile of test and testing. It can be used by anyone who want to quickly create test and make testing.","Categories
+HTML/XHTML, Exam, PostScript"
+SITools2 is a new CNES generic tool performed by a joint effort between CNES and scientific laboratories. The aim of SITools is to provide a self-manageable data access layer deployed on already existing scientific laboratory databases.SITools2 is a new CNES generic tool performed by a joint effort between CNES and scientific laboratories. The aim of SITools is to provide a self-manageable data access layer deployed on already existing scientific laboratory databases.,"Categories
+Astronomy, Web Services, Digital Preservation"
+AJAX Micro Mini Library is a simplest library [ 2.8KB just ] to send data using post or get to an external fetch and send back the output ! Very user friendly and easy ! This pack comes with example PHP project to testAJAX Micro Mini Library is a simplest library [ 2.8KB just ] to send data using post or get to an external fetch and send back the output ! Very user friendly and easy ! This pack comes with example PHP project to test,"Categories
+AJAX"
+Java toolkit for XML document centric applications. Provides non destructive Object/XML mapping and XML document repository using traditionnal SQL database.Java toolkit for XML document centric applications. Provides non destructive Object/XML mapping and XML document repository using traditionnal SQL database.,"Categories
+XML"
+SharePoint 2010 EUPC (End User Password Changer) allow the users of SharePoint 2010 to change there Active Directory passwords.SharePoint 2010 EUPC (End User Password Changer) allow the users of SharePoint 2010 to change there Active Directory passwords.,"Categories
+Enterprise, Authentication/Directory, Web Services"
+Wireless Music Sync for BlackBerry® keeps the music on your BlackBerry® devices in sync with your Desktop music library wirelessly. It presently works with iTunes on Windows. It is fast and easy to setup and use.Wireless Music Sync for BlackBerry® keeps the music on your BlackBerry® devices in sync with your Desktop music library wirelessly. It presently works with iTunes on Windows. It is fast and easy to setup and use.,"Categories
+Sound/Audio, JSON, File Sync"
+Can't download Meebo chat logs? Shot that Adium duck? Pidgin poop? Log2Log: The all-in-one solution to chat log conversion!Can't download Meebo chat logs? Shot that Adium duck? Pidgin poop? Log2Log: The all-in-one solution to chat log conversion!,"Categories
+Data Formats, Chat"
+"A Java based icon file tool for reading and writing ico files.
+Extract, list, view icons in ico files.
+Create ico files with icons extracted from other ico files.
+Report ico file mapping details.
+Useful for creating ico files for building EXE files.A Java based icon file tool for reading and writing ico files.
+Extract, list, view icons in ico files.
+Create ico files with icons extracted from other ico files.
+Report ico file mapping details.
+Useful for creating ico files for building EXE files.","Categories
+Data Formats"
+"Automata editor is a vector editor for drawing finite automata according to VauCanSon-G format with tools for working with finite automata such as basic algorithms, exporting transition table to LaTeX format and automata work simulation.Automata editor is a vector editor for drawing finite automata according to VauCanSon-G format with tools for working with finite automata such as basic algorithms, exporting transition table to LaTeX format and automata work simulation.","Categories
+TeX/LaTeX, Vector Graphics, Simulation"
+For Java developpers who need to request SOAP server... until SOAP is deprecated. This is a client Java API. It does not require neither perform any code generation. It fits within a single jar file. soap-dust is validated against real servers.For Java developpers who need to request SOAP server... until SOAP is deprecated. This is a client Java API. It does not require neither perform any code generation. It fits within a single jar file. soap-dust is validated against real servers.,"Categories
+SOAP, Agile Development Tools, Libraries"
+"Modified AMFPHP with advanced authentication, file management, view templating, automated ORM MySQL interface while maintaining a fast and easy ""drag and drop to FTP"" installation. Get the Free UI at http://cubehenge.org/?pageName=DownloadModified AMFPHP with advanced authentication, file management, view templating, automated ORM MySQL interface while maintaining a fast and easy ""drag and drop to FTP"" installation. Get the Free UI at http://cubehenge.org/?pageName=Download","Categories
+Content Management Systems (CMS), Web Services, Object-Relational Mapping (ORM)"
+A converter of music from Sibelius to LilyPond.A converter of music from Sibelius to LilyPond.,"Categories
+Data Formats"
+"Simple J2EE webapp that acts as a SOAP proxy, validating XML content of incoming requests and outgoing responses. Configure : add your configuration dynamically from a simple page. Check : display the last results of transiting SOAP messages.Simple J2EE webapp that acts as a SOAP proxy, validating XML content of incoming requests and outgoing responses. Configure : add your configuration dynamically from a simple page. Check : display the last results of transiting SOAP messages.","Categories
+SOAP, Software Testing, Web Services"
+"A generic hierarchical file format. BHM can be seen as the binary equivalent of XML. It allows flexible hierarchies of any type of data, in a platform-independent way. BHM however trades XML's readability for compactness and speed of processing.A generic hierarchical file format. BHM can be seen as the binary equivalent of XML. It allows flexible hierarchies of any type of data, in a platform-independent way. BHM however trades XML's readability for compactness and speed of processing.","Categories
+Data Formats, 3D Rendering, Animation"
+"XDAKit is a smart development kit for XML-based Document Archive. It offers some basic operations of XDA by C++ and Java, like Open, Create, AddFile, Close etc.XDAKit is a smart development kit for XML-based Document Archive. It offers some basic operations of XDA by C++ and Java, like Open, Create, AddFile, Close etc.","Categories
+XML, Archiving"
+TextSplitter is an open source GUI utility written in C# for .NET platform. Designed to split the text file into multiple files for a specified number of rows or the size of the resulting file. Encoding of input and output files can be selected.TextSplitter is an open source GUI utility written in C# for .NET platform. Designed to split the text file into multiple files for a specified number of rows or the size of the resulting file. Encoding of input and output files can be selected.,"Categories
+Text Processing, Data Formats"
+"ThuThesis is a LaTeX thesis template package for Tsinghua University in order to make it easy to write thesises for either bachelor, master or doctor. ThuThesis是清华大学学位论文LaTeX模板，支持本科、硕士、博士论文格式。ThuThesis is a LaTeX thesis template package for Tsinghua University in order to make it easy to write thesises for either bachelor, master or doctor. ThuThesis是清华大学学位论文LaTeX模板，支持本科、硕士、博士论文格式。","Categories
+TeX/LaTeX"
+"Galleon is a home media server using TiVo's discontinued HME protocol. It only works on TiVo versions earlier than 20.7.2.
+
+The project is not actively maintained. If you want to maintain it, contact the admins.Galleon is a home media server using TiVo's discontinued HME protocol. It only works on TiVo versions earlier than 20.7.2.
+
+The project is not actively maintained. If you want to maintain it, contact the admins.","Categories
+RSS, Streaming, Email, Puzzle Games, Graphics, MP3"
+An MS Excel VBA macro converts XML to CSV. It demonstrates this capability by converting an XML-based Continuity of Care Document (CCD) into a slim Comma Separated Value (CSV) file.An MS Excel VBA macro converts XML to CSV. It demonstrates this capability by converting an XML-based Continuity of Care Document (CCD) into a slim Comma Separated Value (CSV) file.,"Categories
+XML, Office Suites, UML, Frameworks, Object Oriented, Usability"
+Excalibur is a TeX/LaTeX aware spelling checker. It will also spell check plain text documents.Excalibur is a TeX/LaTeX aware spelling checker. It will also spell check plain text documents.,"Categories
+TeX/LaTeX, Mathematics"
+"PodAdmin is a very simple web-based podcast management tool. Upload your new episode via web form, PodAdmin will then grab title and description from the ID3 tags and generate a new RSS feed on your website. PodAdmin uses PHP and MySQL.PodAdmin is a very simple web-based podcast management tool. Upload your new episode via web form, PodAdmin will then grab title and description from the ID3 tags and generate a new RSS feed on your website. PodAdmin uses PHP and MySQL.","Categories
+RSS, Sound/Audio"
+"HTML Viewer Components for Delphi, Lazarus and C++Builder
+
+The HtmlViewer component set consists of the THtmlViewer, TFrameViewer,
+and TFrameBrowser components. All three are HTML document display components:
+
+THtmlViewer
+* The basic component.
+* THtmlViewer displays single (non-frame) documents.
+* It also forms the basis for the other two components.
+
+TFrameViewer
+* Displays both frame and single HTML documents.
+* TFrameViewer is oriented more for local file system use.
+
+TFrameBrowser
+* Also displays frame and single HTML documents.
+* TFrameBrower is oriented for use with local file systems and toward Internet style protocols and URL usage.
+* Additional code and/or components are generally required to get data from other sources than the local file system.
+
+These components Support most of the HTML 4.01 specifications with many additional popular HTML 5 enhancements.
+
+Many Cascading Style Sheet properties are also supported.HTML Viewer Components for Delphi, Lazarus and C++Builder
+
+The HtmlViewer component set consists of the THtmlViewer, TFrameViewer,
+and TFrameBrowser components. All three are HTML document display components:
+
+THtmlViewer
+* The basic component.
+* THtmlViewer displays single (non-frame) documents.
+* It also forms the basis for the other two components.
+
+TFrameViewer
+* Displays both frame and single HTML documents.
+* TFrameViewer is oriented more for local file system use.
+
+TFrameBrowser
+* Also displays frame and single HTML documents.
+* TFrameBrower is oriented for use with local file systems and toward Internet style protocols and URL usage.
+* Additional code and/or components are generally required to get data from other sources than the local file system.
+
+These components Support most of the HTML 4.01 specifications with many additional popular HTML 5 enhancements.
+
+Many Cascading Style Sheet properties are also supported.","Categories
+HTML/XHTML, Browsers, Image Viewers"
+"The OpenGL OBJ Loader is an 'OBJ' mesh loader & viewer.<br>It is written in C++ and uses OpenGL & SDL.<br>The project's second iteration reads vertex, normal, texture, and mtl data.<br>Note: the 'OBJ' file format is known by most modern 3D modelers.The OpenGL OBJ Loader is an 'OBJ' mesh loader & viewer.<br>It is written in C++ and uses OpenGL & SDL.<br>The project's second iteration reads vertex, normal, texture, and mtl data.<br>Note: the 'OBJ' file format is known by most modern 3D modelers.","Categories
+Data Formats, 3D Rendering"
+"js-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is providedjs-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is provided","Categories
+HTML/XHTML, Dynamic Content"
+"A lightweight, easy to use PHP content management system (CMS). Written to be fast and to use as little memory as possible. Placeto CMS offers browser and server caching, provides gzip compression and to cut down on bandwidth and CPU time.A lightweight, easy to use PHP content management system (CMS). Written to be fast and to use as little memory as possible. Placeto CMS offers browser and server caching, provides gzip compression and to cut down on bandwidth and CPU time.","Categories
+HTML/XHTML, Site Management, Content Management Systems (CMS)"
+"Outdated! Only works for Firefox 3.0-3.2. ff3hr is a forensic tool to recover deleted history records from Firefox 3. FF3 uses various SQLite databases to store the history, and this tool can recover records from different tables in an disk image.Outdated! Only works for Firefox 3.0-3.2. ff3hr is a forensic tool to recover deleted history records from Firefox 3. FF3 uses various SQLite databases to store the history, and this tool can recover records from different tables in an disk image.","Categories
+Data Formats, Security, Browsers, File Systems"
+"Calenco is a Web collaborative platform that enable remote teams of writers, proofreader, graphic designers, translators, etc. to produce together XML documents like user guides, security procedures, etc.Calenco is a Web collaborative platform that enable remote teams of writers, proofreader, graphic designers, translators, etc. to produce together XML documents like user guides, security procedures, etc.","Categories
+XML, DocBook, File Sharing, Documentation, Content Management Systems (CMS)"
+A map editor for Return Fire.A map editor for Return Fire.,"Categories
+Data Formats, Real Time Strategy"
+"MvOLE is program for reading Microsoft OLE Storage file (such as MS Word .doc or MS Excel .xls). You can get content of any OLE object in this file, even if it is damaged. Object's content may be translated from MS Office UNICODE to plain text.MvOLE is program for reading Microsoft OLE Storage file (such as MS Word .doc or MS Excel .xls). You can get content of any OLE object in this file, even if it is damaged. Object's content may be translated from MS Office UNICODE to plain text.","Categories
+Word Processors, Data Formats, Storage"
+"TaxPub is an extension of the NLM/NCBI Journal Archiving DTD for markup of taxonomic treatments.
+
+Maintenance of TaxPub has moved to: https://github.com/plazi/TaxPubTaxPub is an extension of the NLM/NCBI Journal Archiving DTD for markup of taxonomic treatments.
+
+Maintenance of TaxPub has moved to: https://github.com/plazi/TaxPub","Categories
+XML, Bio-Informatics"
+"Simple Java API Windows style .ini file handling. Also provide Java Preferences API
+functionality on top of .ini file.Simple Java API Windows style .ini file handling. Also provide Java Preferences API
+functionality on top of .ini file.","Categories
+Data Formats, Frameworks"

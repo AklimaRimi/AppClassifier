@@ -1,0 +1,395 @@
+Description,Category
+"An Open Source (predictive) Dialer. OSDial is a full featured GPL dialer which does Manual, Power and Predictive dialing out of the box. Its easily installed through one of our .iso images. Install manual available at http://store.osdial.com/
+
+Full details available at web site (http://osdial.com).An Open Source (predictive) Dialer. OSDial is a full featured GPL dialer which does Manual, Power and Predictive dialing out of the box. Its easily installed through one of our .iso images. Install manual available at http://store.osdial.com/
+
+Full details available at web site (http://osdial.com).","Categories
+Internet Phone, Office/Business, VoIP"
+"Webcam application for windows, encoding streaming data with video and sound into Flash Live Video FLV using encoder ffMpeg for broadcasting live on the web .Webcam application for windows, encoding streaming data with video and sound into Flash Live Video FLV using encoder ffMpeg for broadcasting live on the web .","Categories
+Streaming, Video Capture, Audio Recording"
+"Verlihub is a NMDC hub server that runs on all operating systems. It is written in C++ and has many rich plugins including Lua, Python and Perl.Verlihub is a NMDC hub server that runs on all operating systems. It is written in C++ and has many rich plugins including Lua, Python and Perl.","Categories
+Chat, File Sharing, Direct Connect"
+JMule - Java eDonkey2000 p2p file sharing client. More info on http://jmule.orgJMule - Java eDonkey2000 p2p file sharing client. More info on http://jmule.org,"Categories
+File Sharing"
+"InspIRCd is no longer managed though SourceForge. For information and the latest version, please check out:
+
+http://www.inspircd.orgInspIRCd is no longer managed though SourceForge. For information and the latest version, please check out:
+
+http://www.inspircd.org","Categories
+IRC Clients, Internet"
+Please visit http://dev.frontlinesms.comPlease visit http://dev.frontlinesms.com,"Categories
+Telephony"
+Wintin is a scriptable MUD client for WindowsWintin is a scriptable MUD client for Windows,"Categories
+Telnet, Communications, Multi-User Dungeons (MUD)"
+"The original Infobot, a networked, language-interactive agent platform. IRC bot written in PerlThe original Infobot, a networked, language-interactive agent platform. IRC bot written in Perl","Categories
+IRC Clients"
+"A free Win32 instant messaging client. Smaller, Faster, Easier.A free Win32 instant messaging client. Smaller, Faster, Easier.","Categories
+AOL Instant Messenger, IRC Clients, ICQ, Messaging"
+"A Reed-Solomon error-correcting encoder/decoder library written in C. Useful for forward error correction applications such as streaming audio, magnetic and optical storage, or just plain amusement value. GPL license with commercial license available.A Reed-Solomon error-correcting encoder/decoder library written in C. Useful for forward error correction applications such as streaming audio, magnetic and optical storage, or just plain amusement value. GPL license with commercial license available.","Categories
+Communications"
+Kadu is a dynamically evolving instant messenger compatible with the Gadu-Gadu and XMPP protocol. It can be run on all platforms supporting the Qt toolkit.Kadu is a dynamically evolving instant messenger compatible with the Gadu-Gadu and XMPP protocol. It can be run on all platforms supporting the Qt toolkit.,"Categories
+Chat, Messaging"
+This project continued development of the legacy Direct Connect client valknut from 2006-2009.This project continued development of the legacy Direct Connect client valknut from 2006-2009.,"Categories
+File Sharing"
+"Mstone is a mail performance measurement system. It can simultaneously test SMTP, POP, IMAP, and some HTML based systems. It measures transaction latency in multiple stages, and graphs the combined results from multiple clients.Mstone is a mail performance measurement system. It can simultaneously test SMTP, POP, IMAP, and some HTML based systems. It measures transaction latency in multiple stages, and graphs the combined results from multiple clients.","Categories
+Email, Software Testing"
+"A C# wrapper library for using MAPI (Messaging API) on Pocket PCs and Smartphones written 99% in C#.
+Allows for viewing and sending emails and SMS messages and their associated properties.A C# wrapper library for using MAPI (Messaging API) on Pocket PCs and Smartphones written 99% in C#.
+Allows for viewing and sending emails and SMS messages and their associated properties.","Categories
+Mail Transfer Agents, Front-Ends"
+HylaFAX is an enterprise-class system for sending and receiving facsimiles as well as for sending alpha-numeric pages.HylaFAX is an enterprise-class system for sending and receiving facsimiles as well as for sending alpha-numeric pages.,"Categories
+Fax"
+"[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.[[We are in the progress of moving to github]]
+Metalinks is a project to facilitate data distribution over mirrors and P2P networks. It does so by defining an XML format and the tools to handle these. The metalink files contain all the information needed to download and verify files.","Categories
+XML, File Sharing, Cryptography"
+"The SFF tools allow you to deal with group 3 fax documents that are stored in the ""Structured Fax File"" (SFF) format that is produced by most ISDN devices that adhere to the CAPI specification (see http://www.capi.org).The SFF tools allow you to deal with group 3 fax documents that are stored in the ""Structured Fax File"" (SFF) format that is produced by most ISDN devices that adhere to the CAPI specification (see http://www.capi.org).","Categories
+Fax, Image Viewers, Image Converters"
+"Generic SCSI target subsystem for Linux SCST allows creation of sophisticated storage devices. It includes generic SCSI target core with SCSI target drivers and backend handlers. There are target drivers for iSCSI, Fibre Channel, SRP, SAS, FCoE, etc.Generic SCSI target subsystem for Linux SCST allows creation of sophisticated storage devices. It includes generic SCSI target core with SCSI target drivers and backend handlers. There are target drivers for iSCSI, Fibre Channel, SRP, SAS, FCoE, etc.","Categories
+Communications, Backup, Networking, Operating System Kernels, Hardware Drivers, Clustering"
+BytesFall Explorer (bfExplorer for short) is a web-based file manager written in PHP and JavaScript and licensed under the GNU GPL.BytesFall Explorer (bfExplorer for short) is a web-based file manager written in PHP and JavaScript and licensed under the GNU GPL.,"Categories
+File Sharing, Dynamic Content, Site Management"
+"The portable Universal Plug and Play (UPnP) SDK provides support for building UPnP-compliant control points, devices, and bridges on several operating systems.
+
+The main repository is at GitHub in https://github.com/pupnp/pupnp. This is just a clone repository for legacy reasons.
+
+Old SourceForge repo: git://pupnp.git.sourceforge.net/gitroot/pupnp/pupnpThe portable Universal Plug and Play (UPnP) SDK provides support for building UPnP-compliant control points, devices, and bridges on several operating systems.
+
+The main repository is at GitHub in https://github.com/pupnp/pupnp. This is just a clone repository for legacy reasons.
+
+Old SourceForge repo: git://pupnp.git.sourceforge.net/gitroot/pupnp/pupnp","Categories
+XML-RPC, SOAP, Communications"
+"Two tools able to edit your ipfilter.dat . These tools are able to edit your ipfilter.dat in order to check for big ranges and to check adjacent ranges . From the creators of ipfilterX , Nexus23 Labs . - Updates in Progress -Two tools able to edit your ipfilter.dat . These tools are able to edit your ipfilter.dat in order to check for big ranges and to check adjacent ranges . From the creators of ipfilterX , Nexus23 Labs . - Updates in Progress -","Categories
+File Sharing, Firewall"
+SpamAssassin for Win32 is a free and powerful anti-spam filter for Windows. Includes a resident daemon for mail servers and a user-friendly personal spam filter that works with any POP3 account and any email client.SpamAssassin for Win32 is a free and powerful anti-spam filter for Windows. Includes a resident daemon for mail servers and a user-friendly personal spam filter that works with any POP3 account and any email client.,"Categories
+Email Spam Filter"
+"Hypermail is a program that takes a file of mail messages in UNIX mailbox format and generates a set of cross-referenced HTML documents.
+
+Development of hypermail continues now at github: https://github.com/hypermail-project/hypermailHypermail is a program that takes a file of mail messages in UNIX mailbox format and generates a set of cross-referenced HTML documents.
+
+Development of hypermail continues now at github: https://github.com/hypermail-project/hypermail","Categories
+Email, Search Engines"
+ExpectJ is a Java implementation of the Unix expect utility. ExpectJ provides a Unix expect like support to write Java Programs that communicate with other programs and perform some operation on them. Download from http://expectj.sf.net.ExpectJ is a Java implementation of the Unix expect utility. ExpectJ provides a Unix expect like support to write Java Programs that communicate with other programs and perform some operation on them. Download from http://expectj.sf.net.,"Categories
+Communications"
+"TundraDraw is a cross-platform ANSI drawing program written with C++, using the Qt Toolkit. Thus, it runs natively on both X environments and Windows. It features network connectivity to allow artists to draw together over the Internet.TundraDraw is a cross-platform ANSI drawing program written with C++, using the Qt Toolkit. Thus, it runs natively on both X environments and Windows. It features network connectivity to allow artists to draw together over the Internet.","Categories
+Text Editors, Chat, BBS, Graphic Design"
+"A progress indicator for web based file uploads with PHP, perl and JSP. Originally the project was a solution to the lack of a progress monitor for PHP file upload. Since then
+it has expanded to include upload monitors for perl and JSP.A progress indicator for web based file uploads with PHP, perl and JSP. Originally the project was a solution to the lack of a progress monitor for PHP file upload. Since then
+it has expanded to include upload monitors for perl and JSP.","Categories
+File Sharing, Site Management"
+pisg is a smart Perl script which generates nice looking statistics out from IRC logfiles. It's a funny thing for the users of your channel :)pisg is a smart Perl script which generates nice looking statistics out from IRC logfiles. It's a funny thing for the users of your channel :),"Categories
+Data Formats, IRC Clients"
+Thresher is a .Net IRC client library designed to serve as the basis for IRC bots and GUI clients. It is written in C# but can be used by any .Net supported language. Thesher also works with Mono on Linux.Thresher is a .Net IRC client library designed to serve as the basis for IRC bots and GUI clients. It is written in C# but can be used by any .Net supported language. Thesher also works with Mono on Linux.,"Categories
+IRC Clients"
+"MacBiff is a ""Biff"" program for Mac OS X. It unobtrusively resides in the system bar, periodically checking your IMAP server for new email, and reports where in your folder hierarchy your new mail resides.MacBiff is a ""Biff"" program for Mac OS X. It unobtrusively resides in the system bar, periodically checking your IMAP server for new email, and reports where in your folder hierarchy your new mail resides.","Categories
+Email"
+"OpenXP is a multi-protocol offline mail and news reader for the text console, supporting Internet email, Usenet, Fidonet, Zconnect, etc. It is based on CrossPoint (XP) by Peter Mandrella.OpenXP is a multi-protocol offline mail and news reader for the text console, supporting Internet email, Usenet, Fidonet, Zconnect, etc. It is based on CrossPoint (XP) by Peter Mandrella.","Categories
+FIDO, Usenet News, Email"
+Olate Download (OD) allows you to add a downloads area to your website and control every aspect of it through an admin control panel.Olate Download (OD) allows you to add a downloads area to your website and control every aspect of it through an admin control panel.,"Categories
+File Sharing, Site Management, File Managers"
+"A two floppies Linux distribution with a graphical web browser (links with SVGALIB), a text mode IRC client (rhapsody), configuration scripts with ""dialog"" front-ends, almost all of the Ethernet drivers from the latest 2.6.x kernel, PPP, ssh and more.A two floppies Linux distribution with a graphical web browser (links with SVGALIB), a text mode IRC client (rhapsody), configuration scripts with ""dialog"" front-ends, almost all of the Ethernet drivers from the latest 2.6.x kernel, PPP, ssh and more.","Categories
+Chat, Browsers"
+"Program to block junk calls. Connects to a modem and listens for a caller ID. It then reads strings from a blacklist file and scans them against the caller ID. On a match, it sends commands to the modem that terminate the call. RECENT ACTIVITY: (11/2014):Added Raspberry Pi support for two USB modem brands. (01/2015): Added Raspberry Pi support for USR5686G modem. (06/2015): Added full-function program for ATian voice/FAX modem. (01/2016): Added jcEdit.py file edit program. (05/2016): Confirmed Sewell modem same as ATian modem. (07/06/2016): File download count passed 10,000. (11/2016): Changed contact email to: walsheath@gmail.com (01/2017): Updated jcEdit.py (See Discussion menu for details). (03/2018): Uploaded final jcblockAT update . (06/2018): Final jcblockAT update success (see Discussion menu or README2 file). (07/2018): Uploaded final jcblock update.Program to block junk calls. Connects to a modem and listens for a caller ID. It then reads strings from a blacklist file and scans them against the caller ID. On a match, it sends commands to the modem that terminate the call. RECENT ACTIVITY: (11/2014):Added Raspberry Pi support for two USB modem brands. (01/2015): Added Raspberry Pi support for USR5686G modem. (06/2015): Added full-function program for ATian voice/FAX modem. (01/2016): Added jcEdit.py file edit program. (05/2016): Confirmed Sewell modem same as ATian modem. (07/06/2016): File download count passed 10,000. (11/2016): Changed contact email to: walsheath@gmail.com (01/2017): Updated jcEdit.py (See Discussion menu for details). (03/2018): Uploaded final jcblockAT update . (06/2018): Final jcblockAT update success (see Discussion menu or README2 file). (07/2018): Uploaded final jcblock update.","Categories
+Telephony"
+Movino is a solution for streaming and broadcasting live video from smartphonesMovino is a solution for streaming and broadcasting live video from smartphones,"Categories
+Streaming, Video"
+A web cache written in PHP that implements the Gnutella Web Cache 1 and 2 Specifications. Beacon Cache can be configured extensively much more than other caches. Beacon Cache can be configured to work with any network now too!A web cache written in PHP that implements the Gnutella Web Cache 1 and 2 Specifications. Beacon Cache can be configured extensively much more than other caches. Beacon Cache can be configured to work with any network now too!,"Categories
+Gnutella, Database, WWW/HTTP"
+my little forum is on GitHub now: https://github.com/ilosuna/mylittleforummy little forum is on GitHub now: https://github.com/ilosuna/mylittleforum,"Categories
+BBS"
+YahooFriend is a plugin for Yahoo Messenger. It makes your chatting more funny with a lot of cool emoticons. Visit http://YahooFriend.SourceForge.net for more detail...YahooFriend is a plugin for Yahoo Messenger. It makes your chatting more funny with a lot of cool emoticons. Visit http://YahooFriend.SourceForge.net for more detail...,"Categories
+Chat, User Interface (UI)"
+"SerialPortNet is an open source serial port communication library for Microsoft .NET. It's written in c#, implements complete .NET 2.0 specifications, and is designed to allow for multiple OSes and add-on 3rd party Serial to Network adapters.SerialPortNet is an open source serial port communication library for Microsoft .NET. It's written in c#, implements complete .NET 2.0 specifications, and is designed to allow for multiple OSes and add-on 3rd party Serial to Network adapters.","Categories
+Serial, Communications, Networking, Hardware, Interface Engine/Protocol Translator"
+Koolwired.Imap is a fully managed .NET IMAP client library written in C#.Koolwired.Imap is a fully managed .NET IMAP client library written in C#.,"Categories
+IMAP, Email Clients"
+GenY is an open source chat client for GNU/Linux using YMSG protocol.GenY is an open source chat client for GNU/Linux using YMSG protocol.,"Categories
+Chat"
+CopyFile is flexible and persistent utility for searching and copying (large) files over Local Area Network (LAN). Supports for MultiThreading /pause/resume/integrity check/subdir recurse/queue(with autosave)/network listing with autosave and lots of othCopyFile is flexible and persistent utility for searching and copying (large) files over Local Area Network (LAN). Supports for MultiThreading /pause/resume/integrity check/subdir recurse/queue(with autosave)/network listing with autosave and lots of oth,"Categories
+File Sharing, Software Development, Networking"
+TurnServer is a implementation of Traversal Using Relay around NAT (TURN) protocol. This protocol allows a client to obtain IP addresses and ports from such a relay.TurnServer is a implementation of Traversal Using Relay around NAT (TURN) protocol. This protocol allows a client to obtain IP addresses and ports from such a relay.,"Categories
+Networking, Internet, VoIP"
+StreamHijacker is a small Open Source stream ripper application and you can easly save audio or video contents from the internet radios or video servers without any modifications or data loss. It's supports ShoutCast and IceCast protocols.StreamHijacker is a small Open Source stream ripper application and you can easly save audio or video contents from the internet radios or video servers without any modifications or data loss. It's supports ShoutCast and IceCast protocols.,"Categories
+Streaming, Video Capture, Audio Recording"
+Series60-Remote is an application to manage your mobile phone. You can send and receive SMS messages directly on your computer. It also provides a complex contact and file management.Series60-Remote is an application to manage your mobile phone. You can send and receive SMS messages directly on your computer. It also provides a complex contact and file management.,"Categories
+Telephony, File Sync"
+The libSRTP project has been moved to https://github.com/cisco/libsrtpThe libSRTP project has been moved to https://github.com/cisco/libsrtp,"Categories
+Internet Phone, Telephony, Cryptography, Networking"
+"Sasa is a set of extensions to the .NET framework for networking, generic operator handling, LINQ expression processing, parsing, and more.Sasa is a set of extensions to the .NET framework for networking, generic operator handling, LINQ expression processing, parsing, and more.","Categories
+Email, WWW/HTTP, Frameworks"
+provides popups for pidgin via a libnotify interfaceprovides popups for pidgin via a libnotify interface,"Categories
+Chat"
+Fetches your Hotmail Live mail such that it can be stored in a local mailbox or further processed via procmail-like mail filters.Fetches your Hotmail Live mail such that it can be stored in a local mailbox or further processed via procmail-like mail filters.,"Categories
+Email"
+"Simple, small, secure web conferencing on any platform that supports Java.Simple, small, secure web conferencing on any platform that supports Java.","Categories
+Internet Phone, Chat, Conferencing"
+"A flash flv, mp3 or mp4 (h.264) player made on haxe that can be embedded into any website for free or commercial use. With support for rtmp, youtube, http streaming and many more features. Open for improvements by you!A flash flv, mp3 or mp4 (h.264) player made on haxe that can be embedded into any website for free or commercial use. With support for rtmp, youtube, http streaming and many more features. Open for improvements by you!","Categories
+Streaming, Media Players"
+"Encryption plugin for Pidgin, providing up to 4096 bit RSA encryption using the NSS crypto library from Mozilla. Keys are automatically transmitted and stored, making it very easy to use, but also resistant to man-in-the-middle attacks.Encryption plugin for Pidgin, providing up to 4096 bit RSA encryption using the NSS crypto library from Mozilla. Keys are automatically transmitted and stored, making it very easy to use, but also resistant to man-in-the-middle attacks.","Categories
+AOL Instant Messenger"
+"FSRadio-Remote is a portable application for Windows Desktop that allows to control Frontier-Silicon chipset based Radio devices.
+
+• Installation:
+Download ""FSRadio-Remote.zip"", unzip it where you want and run ""FSRadio-Remote.exe"".
+It is advisable to set tray-icon as always visible in Windows settings.
+
+• Compatibility:
+Internet Radio devices based on the Frontier Silicon technology such as some from the following manufacturers: Hama, Medion, Technisat, Dual, Sangean, Roberts, Revo, Ruark, Silvercrest, Auna, Como Audio. Pinell devices require specific port: ""IP:2244"".
+In theory any device working with UNDOK should work with FSRadio-Remote too.
+http://frontier-silicon.com/undok
+https://github.com/openhab/openhab/wiki/Frontier-Silicon-Radio-Binding
+
+• Disclaimer:
+This is a Beta version that I developed for personal use.
+It is based on the « Frontier Silicon API for .NET » (https://github.com/z1c0/FsApi)
+
+Eric Marchesin (eric.dev@laposte.net)
+December 2016-2020FSRadio-Remote is a portable application for Windows Desktop that allows to control Frontier-Silicon chipset based Radio devices.
+
+• Installation:
+Download ""FSRadio-Remote.zip"", unzip it where you want and run ""FSRadio-Remote.exe"".
+It is advisable to set tray-icon as always visible in Windows settings.
+
+• Compatibility:
+Internet Radio devices based on the Frontier Silicon technology such as some from the following manufacturers: Hama, Medion, Technisat, Dual, Sangean, Roberts, Revo, Ruark, Silvercrest, Auna, Como Audio. Pinell devices require specific port: ""IP:2244"".
+In theory any device working with UNDOK should work with FSRadio-Remote too.
+http://frontier-silicon.com/undok
+https://github.com/openhab/openhab/wiki/Frontier-Silicon-Radio-Binding
+
+• Disclaimer:
+This is a Beta version that I developed for personal use.
+It is based on the « Frontier Silicon API for .NET » (https://github.com/z1c0/FsApi)
+
+Eric Marchesin (eric.dev@laposte.net)
+December 2016-2020","Categories
+Communications"
+"This is 'Great Little Radio Player'. It is a robust internet radio station streamer. It connects to web sites offering radio streaming and lets you play radio stations directly from that locations. We develop for Windows, Linux and MacOSX.This is 'Great Little Radio Player'. It is a robust internet radio station streamer. It connects to web sites offering radio streaming and lets you play radio stations directly from that locations. We develop for Windows, Linux and MacOSX.","Categories
+Streaming, Players, Audio Recording"
+"NOTE: Litecube Free is temporarily unavailable. We'll bring it back as soon as we can. Thank you for your patience.
+
+Litecube Free is a clean Roundcube skin that's free for personal and non-commercial use. The latest version includes skin color selection and full support for the Roundcube Plus plugins.
+
+Litecube Free is a limited version of the commercial Litecube skin and it does not include the mobile interface. Skins with support for mobile devices and an online demo are available at http://roundcubeplus.com
+
+Current version: 5.0.9
+Latest update: 2017-02-15NOTE: Litecube Free is temporarily unavailable. We'll bring it back as soon as we can. Thank you for your patience.
+
+Litecube Free is a clean Roundcube skin that's free for personal and non-commercial use. The latest version includes skin color selection and full support for the Roundcube Plus plugins.
+
+Litecube Free is a limited version of the commercial Litecube skin and it does not include the mobile interface. Skins with support for mobile devices and an online demo are available at http://roundcubeplus.com
+
+Current version: 5.0.9
+Latest update: 2017-02-15","Categories
+Email Clients"
+uTorrent users can benefit from having naughty IP addresses removed from the torrent swarm.uTorrent users can benefit from having naughty IP addresses removed from the torrent swarm.,"Categories
+BitTorrent, Security, Networking"
+"Unofficial KDE Dropbox client developed in QT. KFilebox (previously called KDropbox) offers almost the same features as the official Dropbox Linux application, but works on KDE.Unofficial KDE Dropbox client developed in QT. KFilebox (previously called KDropbox) offers almost the same features as the official Dropbox Linux application, but works on KDE.","Categories
+File Sharing, KDE"
+"jPodder is the leading podcasting client. It's support advanced features like enclosure previewing, multiple downloading and many more user friendly functions.jPodder is the leading podcasting client. It's support advanced features like enclosure previewing, multiple downloading and many more user friendly functions.","Categories
+File Sharing, WWW/HTTP, Sound/Audio"
+Zimbra is an open source server and client technology for next-generation enterprise messaging and collaboration. Please see www.zimbra.com for the latest news and downloads.Zimbra is an open source server and client technology for next-generation enterprise messaging and collaboration. Please see www.zimbra.com for the latest news and downloads.,"Categories
+Conferencing, Email, Enterprise, Calendar"
+"PeerProject is a versatile peer-to-peer filesharing client and file manager. Intuitive and aesthetic while supporting many networks and features. BitTorrent, G2, Gnutella, eDonkey, DC++, IRC, http/ftp & more. Mainstream fork of Shareaza p2p, for Windows & WINE.
+
+Note: This project is idle, see Envy fork for further development.PeerProject is a versatile peer-to-peer filesharing client and file manager. Intuitive and aesthetic while supporting many networks and features. BitTorrent, G2, Gnutella, eDonkey, DC++, IRC, http/ftp & more. Mainstream fork of Shareaza p2p, for Windows & WINE.
+
+Note: This project is idle, see Envy fork for further development.","Categories
+BitTorrent, Gnutella, File Transfer Protocol (FTP)"
+"PowerTalk automatically speaks Microsoft PowerPoint presentations. For presenters who find speaking difficult, audiences containing people with visual impairments and fun educational uses. Uses synthesised computer speech provided with WindowsPowerTalk automatically speaks Microsoft PowerPoint presentations. For presenters who find speaking difficult, audiences containing people with visual impairments and fun educational uses. Uses synthesised computer speech provided with Windows","Categories
+Communications, Other/Nonlisted Topic, Bio-Informatics, Education"
+"PHP script to let non-technical users create and administer surveys, gather results, view statistics. All managed online after database initialization. Very easy (and recommended) to integrate into your own design.PHP script to let non-technical users create and administer surveys, gather results, view statistics. All managed online after database initialization. Very easy (and recommended) to integrate into your own design.","Categories
+Communications, Dynamic Content"
+"phpMyBitTorrent: BitTorrent Tracker written in PHP. Features include: hosting torrents from remote trackers, DHT, Compact Announce, alternate links (eD2K, Magnet), HTTP-Basic Authentication, Passkey Authentication, embedded HTML Editor, Mass-upload of tophpMyBitTorrent: BitTorrent Tracker written in PHP. Features include: hosting torrents from remote trackers, DHT, Compact Announce, alternate links (eD2K, Magnet), HTTP-Basic Authentication, Passkey Authentication, embedded HTML Editor, Mass-upload of to","Categories
+HTML/XHTML, BitTorrent, Dynamic Content"
+"ABC is a Bittorrent client which supports a queueing system with priority, global and local preferences for downloading torrents, multiple upload options for completed files, an adjustable display, and remote access via a web service.ABC is a Bittorrent client which supports a queueing system with priority, global and local preferences for downloading torrents, multiple upload options for completed files, an adjustable display, and remote access via a web service.","Categories
+File Sharing"
+"AfterLogic WebMail Lite PHP is a free AJAX webmail application. Users can receive, view, manage, compose, and send email through web interface (IMAP and SMTP supported). Source code included.AfterLogic WebMail Lite PHP is a free AJAX webmail application. Users can receive, view, manage, compose, and send email through web interface (IMAP and SMTP supported). Source code included.","Categories
+Email Clients, Dynamic Content"
+"synchronize local files with your host, via FTP. Use your files anywhere and avoid any disk space limits...synchronize local files with your host, via FTP. Use your files anywhere and avoid any disk space limits...","Categories
+File Sharing, File Transfer Protocol (FTP)"
+"Skype Audio Player allows playing audio files (mp3, wav, wma) during Skype calls to both parties. It is a simple tool without luxurious functions, useful for those who study foreign languages using Skype and need to play sample dialogs or audio tests.Skype Audio Player allows playing audio files (mp3, wav, wma) during Skype calls to both parties. It is a simple tool without luxurious functions, useful for those who study foreign languages using Skype and need to play sample dialogs or audio tests.","Categories
+Internet Phone, Players"
+"Dimdim is an open source web meeting product with features like Application, Desktop and Presentation sharing with A/V streaming and chat. No attendee installation - all features are available through a web browser. Dimdim can be integrated with Moodle.Dimdim is an open source web meeting product with features like Application, Desktop and Presentation sharing with A/V streaming and chat. No attendee installation - all features are available through a web browser. Dimdim can be integrated with Moodle.","Categories
+Conferencing"
+"Intel Integrated Performace Primitives audio/video codecs plug-in for the OPAL/OpenH323 library including G.728, G.729, G.723.1, G.722.2 GSM-FR, GSM-AMR, H.261, H.263, H.264 and MPEG4 part 2.Intel Integrated Performace Primitives audio/video codecs plug-in for the OPAL/OpenH323 library including G.728, G.729, G.723.1, G.722.2 GSM-FR, GSM-AMR, H.261, H.263, H.264 and MPEG4 part 2.","Categories
+Internet Phone, Codec, VoIP"
+TeleKast is an open source teleprompter. Scripts are created and used to create content for the teleprompter. The scripts can also be used for doing feature stories and interviews. TeleKast is your means for creative communication.TeleKast is an open source teleprompter. Scripts are created and used to create content for the teleprompter. The scripts can also be used for doing feature stories and interviews. TeleKast is your means for creative communication.,"Categories
+Communications, Multimedia"
+"LIRC is a package that supports receiving and sending IR signals of IR remote controls, adding functionality and flexibility to the basic support in the Linux kernel. Support for LIRC is ubiquitous in Linux HTPC applications; it's also packaged in all major Linux distributions.
+
+Despite it's name, LIRC also works on OSX.LIRC is a package that supports receiving and sending IR signals of IR remote controls, adding functionality and flexibility to the basic support in the Linux kernel. Support for LIRC is ubiquitous in Linux HTPC applications; it's also packaged in all major Linux distributions.
+
+Despite it's name, LIRC also works on OSX.","Categories
+Communications, Hardware Drivers, Multimedia"
+"It is an email sender. This software can send your mass marketing bulk email to unlimited mailing list. The program can send via SMTP server, MAPI, or delivers e-mail directly without ISP's mail system. Also includes flexible address filters and rules.It is an email sender. This software can send your mass marketing bulk email to unlimited mailing list. The program can send via SMTP server, MAPI, or delivers e-mail directly without ISP's mail system. Also includes flexible address filters and rules.","Categories
+Email Clients, Email Marketing"
+"Repeater controller and EchoLink software for Linux including a GUI, Qtel - the Qt EchoLink client.
+
+The SvxLink project has now moved to GitHub. The new home page for the project is http://svxlink.org/ .Repeater controller and EchoLink software for Linux including a GUI, Qtel - the Qt EchoLink client.
+
+The SvxLink project has now moved to GitHub. The new home page for the project is http://svxlink.org/ .","Categories
+Ham Radio"
+"VitalPBX is a free telephone and communications PBX system for companies. It is a complete platform that can be installed on the physical hardware on the site or as a hosted application. VitalPBX acts as the upper layer interface for the Linux base and then Asterisk (one of the most popular communication toolkits in the world). For this reason, VitalPBX is the graphic user interface between you and the complex world of modern communications. VitalPBX will help you implement a secure telephone system for your company, save, take advantage of recent innovations and provide opportunities to integrate your business processes if you wish to do so.VitalPBX is a free telephone and communications PBX system for companies. It is a complete platform that can be installed on the physical hardware on the site or as a hosted application. VitalPBX acts as the upper layer interface for the Linux base and then Asterisk (one of the most popular communication toolkits in the world). For this reason, VitalPBX is the graphic user interface between you and the complex world of modern communications. VitalPBX will help you implement a secure telephone system for your company, save, take advantage of recent innovations and provide opportunities to integrate your business processes if you wish to do so.","Categories
+Communications, Telephony, VoIP, PBX, Softphones"
+"Mail Alert Simple Mailer is a simple command-line utility designed for IT administrators for sending e-mail from Microsoft Windows OS. It can be executed from command line, Windows batch file or PowerShell scripts. My main reason for writing this software was to handle events generated by Dell OpenManage Server Administrator (OMSA), APC PowerChute and Windows Events to send hardware status and alerts like temperature alerts, UPS battery status, powerline status and RAID controller alerts from monitoring software. It can be used with any other software where you can configure external application to be executed when specific event occurs.
+Mail Alert Simple Mailer supports SSL and STARTTLS protocols, so it is compatible with many free e-mail providers like GMail, Hotmail, etc. Unlike other simple command line tools it supports ISO-8859-1, ISO-8859-2 and UTF-8 code pages for national characters. Mail Alert Simple Mailer encrypts SMTP password in configuration file.Mail Alert Simple Mailer is a simple command-line utility designed for IT administrators for sending e-mail from Microsoft Windows OS. It can be executed from command line, Windows batch file or PowerShell scripts. My main reason for writing this software was to handle events generated by Dell OpenManage Server Administrator (OMSA), APC PowerChute and Windows Events to send hardware status and alerts like temperature alerts, UPS battery status, powerline status and RAID controller alerts from monitoring software. It can be used with any other software where you can configure external application to be executed when specific event occurs.
+Mail Alert Simple Mailer supports SSL and STARTTLS protocols, so it is compatible with many free e-mail providers like GMail, Hotmail, etc. Unlike other simple command line tools it supports ISO-8859-1, ISO-8859-2 and UTF-8 code pages for national characters. Mail Alert Simple Mailer encrypts SMTP password in configuration file.","Categories
+Email, Logging, Email Servers"
+If you want to promote your product and services online then you must have to integrate live chat software on your website. It help your customer to know very well about your product and services. By the help of live chat software you can also track the Geo location of your online visitor. Before download live chat customer support tool you need to register a free account on https://account.eassistancepro.com/register.phpIf you want to promote your product and services online then you must have to integrate live chat software on your website. It help your customer to know very well about your product and services. By the help of live chat software you can also track the Geo location of your online visitor. Before download live chat customer support tool you need to register a free account on https://account.eassistancepro.com/register.php,"Categories
+Chat"
+SaltOS is a Business Management solution 100% Cloud Computing. It integrates features like CRM (Customer Relation Management) and ERP (Enterprise Resource Planning). Moreover is it licensed as 100% free software GPL-3.0.SaltOS is a Business Management solution 100% Cloud Computing. It integrates features like CRM (Customer Relation Management) and ERP (Enterprise Resource Planning). Moreover is it licensed as 100% free software GPL-3.0.,"Categories
+Email Clients, CRM, ERP"
+(Deprecated) library to provide access to Gmail via Python. We strongly encourage you to use Gmail's new IMAP interface and Python's imaplib instead.(Deprecated) library to provide access to Gmail via Python. We strongly encourage you to use Gmail's new IMAP interface and Python's imaplib instead.,"Categories
+Email, Software Development"
+X-Chat is an IRC (Internet Relay Chat) program for Linux and Windows.X-Chat is an IRC (Internet Relay Chat) program for Linux and Windows.,"Categories
+IRC Clients"
+"Mailman is the GNU mailing list manager. It provides standard list management features, integrated with a web interface. Please note: the subversion repository has been retired. Please see http://wiki.list.org/x/DgAJ for details.Mailman is the GNU mailing list manager. It provides standard list management features, integrated with a web interface. Please note: the subversion repository has been retired. Please see http://wiki.list.org/x/DgAJ for details.","Categories
+Mailing List Servers"
+"SpamPal is a mail classification program that can help separate your spam from the mail you really want to read. SpamPal includes support for POP3, IMAP4 and SMTP accounts and can be extended by dozens of plugins and tools and is available in 6 languagesSpamPal is a mail classification program that can help separate your spam from the mail you really want to read. SpamPal includes support for POP3, IMAP4 and SMTP accounts and can be extended by dozens of plugins and tools and is available in 6 languages","Categories
+Email Spam Filter"
+A multiplayer RPG that connects as a psuedo server to an IRCD. Built in the tradition of old BBS Door games such as LORD (http://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon). Forest fights add experience and gold needed to best your master (gain levelA multiplayer RPG that connects as a psuedo server to an IRCD. Built in the tradition of old BBS Door games such as LORD (http://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon). Forest fights add experience and gold needed to best your master (gain level,"Categories
+IRC Clients, BBS, Other/Nonlisted Topic, Turn Based Strategy, Role-Playing Games (RPG), Multi-User Dungeons (MUD)"
+"Columba is an email client written in Java, featuring a user-friendly graphical interface with wizards and internalionalization support. Its a powerful mail management tool with features to enhance your productivity and communication.Columba is an email client written in Java, featuring a user-friendly graphical interface with wizards and internalionalization support. Its a powerful mail management tool with features to enhance your productivity and communication.","Categories
+Post-Office, Email Clients"
+"OpenCallshop for VoIP Switch was started to be an alternitive to VoipSwitch Inc. closed source callshop systems, You can extend development of this project and customize it to fit your needs. if you would like to get a custom developed callshop desktop or web software do not hesitate to contact me. if you're reseller this product consider a donation.OpenCallshop for VoIP Switch was started to be an alternitive to VoipSwitch Inc. closed source callshop systems, You can extend development of this project and customize it to fit your needs. if you would like to get a custom developed callshop desktop or web software do not hesitate to contact me. if you're reseller this product consider a donation.","Categories
+VoIP"
+"Conversion from *.mht files to *.htm files. mht2htm extracts all files from mht in single dir so you can open it on any OS. Also works with .eml, .msg, .nws... filesConversion from *.mht files to *.htm files. mht2htm extracts all files from mht in single dir so you can open it on any OS. Also works with .eml, .msg, .nws... files","Categories
+HTML/XHTML, Email, WWW/HTTP"
+A complete rewrite of the mobile java irc-client WLIrc. (http://wirelessirc.sourceforge.net) Aims to be more responsive and use less memory maintaining the current gui and looks.A complete rewrite of the mobile java irc-client WLIrc. (http://wirelessirc.sourceforge.net) Aims to be more responsive and use less memory maintaining the current gui and looks.,"Categories
+IRC Clients, WWW/HTTP"
+This is a clone of the original thepiratebay dot org. The latest code is in SVN: http://tpb.svn.sourceforge.net/viewvc/tpbThis is a clone of the original thepiratebay dot org. The latest code is in SVN: http://tpb.svn.sourceforge.net/viewvc/tpb,"Categories
+BitTorrent"
+PHPCheckMail is a simple and fast email checking web application which notifies you when you have received new email in an account. It lists your email messages in all your mailboxes clearly and you can preview or delete them immediately on nearly any device.PHPCheckMail is a simple and fast email checking web application which notifies you when you have received new email in an account. It lists your email messages in all your mailboxes clearly and you can preview or delete them immediately on nearly any device.,"Categories
+Email"
+"Use this plugin to embed Google Wave inside a wordpress post, as easy as [wave id=""wave-id""]. This plugin implements the full wave embed api and features a TinyMCE button for embedding the wave. follow @wavewordpress in twitter for updates and more infUse this plugin to embed Google Wave inside a wordpress post, as easy as [wave id=""wave-id""]. This plugin implements the full wave embed api and features a TinyMCE button for embedding the wave. follow @wavewordpress in twitter for updates and more inf","Categories
+Communications, Blogging"
+"This is an open source Email client for Borland Delphi with source code. It uses Indy controls as well as PBears HTML Viewer Component and BSALA EmbeddedWB (updated versions for Delphi 2009 are here). It is IMAP, POP3, MAPI and SMTP compatible.This is an open source Email client for Borland Delphi with source code. It uses Indy controls as well as PBears HTML Viewer Component and BSALA EmbeddedWB (updated versions for Delphi 2009 are here). It is IMAP, POP3, MAPI and SMTP compatible.","Categories
+Email Clients"
+"IMinGame is a Windows software for gamers, it updates their IM status with the name of the game they are playing.
+
+Currently it supports updating the ""Now Playing"" status of MSN/Live Messenger (or other IM software implementing the same interface).IMinGame is a Windows software for gamers, it updates their IM status with the name of the game they are playing.
+
+Currently it supports updating the ""Now Playing"" status of MSN/Live Messenger (or other IM software implementing the same interface).","Categories
+MSN Messenger, Games/Entertainment"
+"MOVED TO:
+https://github.com/stevenlovegrove/MqttDotNet
+
+.net Implementation of the client half of the MQTT messaging protocol. MQTT is a lightweight, open specification publish and subscribe protocol cheifly developed by IBM. Details of MQTT can be found at http://mqtt.org.MOVED TO:
+https://github.com/stevenlovegrove/MqttDotNet
+
+.net Implementation of the client half of the MQTT messaging protocol. MQTT is a lightweight, open specification publish and subscribe protocol cheifly developed by IBM. Details of MQTT can be found at http://mqtt.org.","Categories
+Communications"
+"e-Dokyumento is opensource web-based Document Management System (DMS)
+
+A Document Management which automates the basic office document workflow such as receiving, filing, routing, and approving through capturing (scanning), digitizing (OCR Reading), storing, tagging, and electronically routing and approving (e-signature) of electronic documents.
+
+# Demo : https://e-dokyumento.herokuapp.com/
+https://edokyu.seillig.com/
+(refer to Readme.md for the accounts)
+
+#Dockerhub: https://hub.docker.com/r/nelsonmaligro/edokyumento
+
+# Install using the ISO:
+1. Download: https://sourceforge.net/projects/e-dokyumento/files/Releases/e-DokyuV3.iso/download
+2. Boot and login with: ""root"" and ""admin@123""
+3. Create 2 partitions: SWAP and / mount
+4. Login and move ""/opt/drive"" folder to root: ""mv /opt/drive /""
+
+# Install on Ubuntu: https://sourceforge.net/projects/e-dokyumento/files/Install%20e-Dokyumento%20on%20Ubuntu%20Linux.pdf/downloade-Dokyumento is opensource web-based Document Management System (DMS)
+
+A Document Management which automates the basic office document workflow such as receiving, filing, routing, and approving through capturing (scanning), digitizing (OCR Reading), storing, tagging, and electronically routing and approving (e-signature) of electronic documents.
+
+# Demo : https://e-dokyumento.herokuapp.com/
+https://edokyu.seillig.com/
+(refer to Readme.md for the accounts)
+
+#Dockerhub: https://hub.docker.com/r/nelsonmaligro/edokyumento
+
+# Install using the ISO:
+1. Download: https://sourceforge.net/projects/e-dokyumento/files/Releases/e-DokyuV3.iso/download
+2. Boot and login with: ""root"" and ""admin@123""
+3. Create 2 partitions: SWAP and / mount
+4. Login and move ""/opt/drive"" folder to root: ""mv /opt/drive /""
+
+# Install on Ubuntu: https://sourceforge.net/projects/e-dokyumento/files/Install%20e-Dokyumento%20on%20Ubuntu%20Linux.pdf/download","Categories
+File Sharing, Project Management, Workflow Management, OCR, Document Management"
+"Telegram is a wonderful and private messaging app that offers simple, fast, secure and synced messaging for all your devices. It delivers messages faster than any other application; cloud-based so you can access your messages from any device; and very secure, with messages heavily encrypted and could even self-destruct.
+
+Telegram is simple and fun to use, with powerful photo and video editing tools as well as an open sticker/GIF platform to let you express yourself fully. It’s also incredibly powerful. Whether you’re setting up a group chat for up to 200,000 members or sharing large videos or documents, Telegram is up to the task. Best of all it’s completely free and open source, with no ads or subscription fees.Telegram is a wonderful and private messaging app that offers simple, fast, secure and synced messaging for all your devices. It delivers messages faster than any other application; cloud-based so you can access your messages from any device; and very secure, with messages heavily encrypted and could even self-destruct.
+
+Telegram is simple and fun to use, with powerful photo and video editing tools as well as an open sticker/GIF platform to let you express yourself fully. It’s also incredibly powerful. Whether you’re setting up a group chat for up to 200,000 members or sharing large videos or documents, Telegram is up to the task. Best of all it’s completely free and open source, with no ads or subscription fees.","Categories
+Chat, File Sharing, Messaging"
+"Give your customers the flexibility and extra mobility with Wireless Internet Access
+MyHotspot is a professional Wireless LAN Free software solution for providing internet access to your customers. Customers will be redirected to your login page to authenticate with user account or a prepaid-code before getting the Internet access. The PayPal payment option allows your customers to create and pay for network access directly. The software controls download, upload, data transfer, time usage, visited pages. MyHotSpot Billing software runs on your Windows PC, controls unlimited user or prepaid-code accounts, and displays data to customers on your self-branded pages.
+MyHotspot billing software is the definitive tool for managing your public WIFI-HotSpot in internet cafes, shools, hotels, bistros or gaming cafe / game center.Give your customers the flexibility and extra mobility with Wireless Internet Access
+MyHotspot is a professional Wireless LAN Free software solution for providing internet access to your customers. Customers will be redirected to your login page to authenticate with user account or a prepaid-code before getting the Internet access. The PayPal payment option allows your customers to create and pay for network access directly. The software controls download, upload, data transfer, time usage, visited pages. MyHotSpot Billing software runs on your Windows PC, controls unlimited user or prepaid-code accounts, and displays data to customers on your self-branded pages.
+MyHotspot billing software is the definitive tool for managing your public WIFI-HotSpot in internet cafes, shools, hotels, bistros or gaming cafe / game center.","Categories
+Communications, DNS, Internet"
+"ChuVNSongSong4.0 is new invented method of quick entry of Vietnamese characters that helps speed up typing by 40% with the help of a tool online named: chuvnsongsong.com - a free for typing Vietnamese sofware.
+
+Or see full manual at: http://chuvietnhanh.sourceforge.net/CongThucChuVNSongSong4.0VaViDu.htm
+
+Also, see manual article of the mehod of typing shortcut ChuVietNhanh (Tubinhtran) to Chu Quoc Ngu at link:
+http://chuvietnhanh.sourceforge.net/GoNhanhChuVietCachTubinhtranVoiWinvnkey.htm
+Download from 2 links below:
+- For 64 bits:
+https://sourceforge.net/projects/chuvietnhanh/files/winvnkey-tubinhtran-64bit-5.5.457.zip/download
+- For 32 bits:
+https://sourceforge.net/projects/chuvietnhanh/files/winvnkey-tubinhtran-32bit-5.5.456.zip/downloadChuVNSongSong4.0 is new invented method of quick entry of Vietnamese characters that helps speed up typing by 40% with the help of a tool online named: chuvnsongsong.com - a free for typing Vietnamese sofware.
+
+Or see full manual at: http://chuvietnhanh.sourceforge.net/CongThucChuVNSongSong4.0VaViDu.htm
+
+Also, see manual article of the mehod of typing shortcut ChuVietNhanh (Tubinhtran) to Chu Quoc Ngu at link:
+http://chuvietnhanh.sourceforge.net/GoNhanhChuVietCachTubinhtranVoiWinvnkey.htm
+Download from 2 links below:
+- For 64 bits:
+https://sourceforge.net/projects/chuvietnhanh/files/winvnkey-tubinhtran-64bit-5.5.457.zip/download
+- For 32 bits:
+https://sourceforge.net/projects/chuvietnhanh/files/winvnkey-tubinhtran-32bit-5.5.456.zip/download","Categories
+Chat"
+"Lightweight audio player to listen to your favorite radio stations.
+
+From now on it will no longer be necessary to go to the site of your favorite radio stations or to install app / software full of advertising or that pick up your data in a hidden way.
+Just copy-paste the station URL in the preset customization page and take profit!
+
+Here you can find the list of audio stations from around the world:
+http://www.listenlive.eu/
+https://www.internet-radio.com/
+
+Remember, no ads, no banners, no software to install, 100% portable.
+It's a donationware, if you like it and the software seems useful you can offer me a coffee or even a pizza.
+
+Requirements:
+- Internet connection
+- Windows 7/8/10 - x86/x64
+- Windows media player installed
+
+Remember to leave an honest feedback! Thank you!Lightweight audio player to listen to your favorite radio stations.
+
+From now on it will no longer be necessary to go to the site of your favorite radio stations or to install app / software full of advertising or that pick up your data in a hidden way.
+Just copy-paste the station URL in the preset customization page and take profit!
+
+Here you can find the list of audio stations from around the world:
+http://www.listenlive.eu/
+https://www.internet-radio.com/
+
+Remember, no ads, no banners, no software to install, 100% portable.
+It's a donationware, if you like it and the software seems useful you can offer me a coffee or even a pizza.
+
+Requirements:
+- Internet connection
+- Windows 7/8/10 - x86/x64
+- Windows media player installed
+
+Remember to leave an honest feedback! Thank you!","Categories
+Streaming, Players"
+"Das Fritz!Box Telefon-dingsbums ist ein Outlook-Addin, welches ein direktes Wählen der Kontakte aus dem Computer ermöglicht. Zusätzlich bietet es nützliche Funktionen, wie einen Anrufmonitor oder Rückwärtssuche.Das Fritz!Box Telefon-dingsbums ist ein Outlook-Addin, welches ein direktes Wählen der Kontakte aus dem Computer ermöglicht. Zusätzlich bietet es nützliche Funktionen, wie einen Anrufmonitor oder Rückwärtssuche.","Categories
+Telephony"
+"FileRun is a selfhosted Google Drive alternative. It provides powerful file sharing and synching tools.
+Access your files from anywhere (desktop, mobile app or browser)FileRun is a selfhosted Google Drive alternative. It provides powerful file sharing and synching tools.
+Access your files from anywhere (desktop, mobile app or browser)","Categories
+File Sharing, Site Management, Cloud Storage"
+"G16 framework is 100% CSS based framework with no single code of javascript. It is lightweight, simple, smart and well structured modular system built upon 16 scalable grids that creates smooth and itch-free responsive layouts. It constructs relevant html elements properties by using only the inline class without writing a single code in your stylesheet.G16 framework is 100% CSS based framework with no single code of javascript. It is lightweight, simple, smart and well structured modular system built upon 16 scalable grids that creates smooth and itch-free responsive layouts. It constructs relevant html elements properties by using only the inline class without writing a single code in your stylesheet.","Categories
+Communications, Dynamic Content, Browser Extensions and Plugins"
+Remote control for Pentax K-S2 via WiFiRemote control for Pentax K-S2 via WiFi,"Categories
+Communications, Digital Camera"

@@ -1,0 +1,638 @@
+Description,Category
+VisualSubSync is a subtitle program using audio waveform representation as its cornerstone. SRT and SSA/ASS subtitle formats are supported. It also provides some tools to help improving the quality of your subtitle.VisualSubSync is a subtitle program using audio waveform representation as its cornerstone. SRT and SSA/ASS subtitle formats are supported. It also provides some tools to help improving the quality of your subtitle.,"Categories
+Word Processors, Non-Linear Editor, Special Effects"
+Library communicating with PTP enabled devices (digital photo cameras and so on).Library communicating with PTP enabled devices (digital photo cameras and so on).,"Categories
+Digital Camera"
+"MP4Cam2AVI is a MP4/MOV/M2TS to AVI repackaging tool for digital photo-video cameras, it makes their clips editable in VirtualDub, MovieMaker and other AVI editors. Also it can combine (join) multiple clips from camera into a single AVI movie, preserving audio/video sync.
+No video recompression (by default), no quality loss, fast operation (5-20x realtime). No installation needed - just download, unzip and run mp4cam2avi.exe.MP4Cam2AVI is a MP4/MOV/M2TS to AVI repackaging tool for digital photo-video cameras, it makes their clips editable in VirtualDub, MovieMaker and other AVI editors. Also it can combine (join) multiple clips from camera into a single AVI movie, preserving audio/video sync.
+No video recompression (by default), no quality loss, fast operation (5-20x realtime). No installation needed - just download, unzip and run mp4cam2avi.exe.","Categories
+Video Converters"
+"ZynAddSubFX is a powerful realtime, multi-timbral software synthesizer for Linux, OSX, and Windows. It is microtonal, and the instruments made by it sounds like those from professional keyboards. The program has effects like Reverb, Echo, Chorus, Phaser...ZynAddSubFX is a powerful realtime, multi-timbral software synthesizer for Linux, OSX, and Windows. It is microtonal, and the instruments made by it sounds like those from professional keyboards. The program has effects like Reverb, Echo, Chorus, Phaser...","Categories
+Sound Synthesis"
+"DVDStyler is a cross-platform free DVD authoring application that makes possible for video enthusiasts to create professional-looking DVDs. DVDStyler provides over 20 DVD menu templates, allowing you to create your own menu designs and photo slideshows. After you select your DVD label name, video quality, video format, aspect ratio, and audio format, you can select a template to add video materials to. DVDStyler's interface supports drag-and-drop so you can add project buttons and movies around with ease. Some basic video editing operations such as trimming and cropping are also available.DVDStyler is a cross-platform free DVD authoring application that makes possible for video enthusiasts to create professional-looking DVDs. DVDStyler provides over 20 DVD menu templates, allowing you to create your own menu designs and photo slideshows. After you select your DVD label name, video quality, video format, aspect ratio, and audio format, you can select a template to add video materials to. DVDStyler's interface supports drag-and-drop so you can add project buttons and movies around with ease. Some basic video editing operations such as trimming and cropping are also available.","Categories
+Video Converters, DVD, DVD Burners"
+"Thumbnail me is a free and open source thumbnails generator built on movie thumbnailer. Thumbnail me is coded in C++ and uses the Qt 4.8.0 library. This software is actually available on Windows Xp / 2k3 / 2k8 / Vista / 7 x86/x64 and Linux x86/x64.
+
+Source Code :
+3.5 (Never released) : https://github.com/kwent/thumbnailme
+3.0 (Current version) : http://sourceforge.net/projects/thumbnailme/files/Sources/thumbnailme_3.0_Windows_Sources.zip/download
+
+Source Documentation : http://www.thumbnailme.com/docThumbnail me is a free and open source thumbnails generator built on movie thumbnailer. Thumbnail me is coded in C++ and uses the Qt 4.8.0 library. This software is actually available on Windows Xp / 2k3 / 2k8 / Vista / 7 x86/x64 and Linux x86/x64.
+
+Source Code :
+3.5 (Never released) : https://github.com/kwent/thumbnailme
+3.0 (Current version) : http://sourceforge.net/projects/thumbnailme/files/Sources/thumbnailme_3.0_Windows_Sources.zip/download
+
+Source Documentation : http://www.thumbnailme.com/doc","Categories
+Screen Capture, Video Converters, Photo Management, Thumbnail Makers"
+Provides optical character recognition (OCR) solutions for Vietnamese language.Provides optical character recognition (OCR) solutions for Vietnamese language.,"Categories
+Other/Nonlisted Topic, Scanner, Image Converters, OCR"
+"GnomeBaker is a CD/DVD burning application for the Gnome desktop.
+
+I am considering closing the project, please mail me at mario.danic AT gmail.com if you have any concerns about that.GnomeBaker is a CD/DVD burning application for the Gnome desktop.
+
+I am considering closing the project, please mail me at mario.danic AT gmail.com if you have any concerns about that.","Categories
+GNOME, CD Ripping, DVD Burners, CD Burners"
+"[ENG]
+Mod FreeCAD-PCB allow you to import PCB boards to FreeCAD.
+
+Scope of mod:
+- support for many different layers,
+- possible to choose colours, transparency and names for each layer,
+- mod allows you to import IGES models with colours,
+- possible to show holes/vias independent.
+
+[PL]
+Moduł FreeCAD-PCB pozwala na importowanie płytek PCB do programu FreeCAD.
+
+Możliwości modułu:
+- wsparcie dla wielu różnych warstw,
+- wyświetlanie otworów, przelotek niezależnie od siebie,
+- możliwość wyboru koloru, przeźroczystości oraz nazwy dla poszczególnych warstw,
+- importowanie modeli zapisanych w formacie IGS wraz z kolorami.
+
+*****
+
+Supported software:
+- Eagle (*.brd)
+- Razen (*.rzp)
+- FreePCB (*.fpc)
+- gEDA (*.pcb)
+- FidoCadJ (*.fcd)
+- KiCad (*.kicad_pcb)
+- IDF v2/v3
+
+Requirements: FreeCAD >= 0.14
+
+Project forum: https://sourceforge.net/p/eaglepcb2freecad/forum/[ENG]
+Mod FreeCAD-PCB allow you to import PCB boards to FreeCAD.
+
+Scope of mod:
+- support for many different layers,
+- possible to choose colours, transparency and names for each layer,
+- mod allows you to import IGES models with colours,
+- possible to show holes/vias independent.
+
+[PL]
+Moduł FreeCAD-PCB pozwala na importowanie płytek PCB do programu FreeCAD.
+
+Możliwości modułu:
+- wsparcie dla wielu różnych warstw,
+- wyświetlanie otworów, przelotek niezależnie od siebie,
+- możliwość wyboru koloru, przeźroczystości oraz nazwy dla poszczególnych warstw,
+- importowanie modeli zapisanych w formacie IGS wraz z kolorami.
+
+*****
+
+Supported software:
+- Eagle (*.brd)
+- Razen (*.rzp)
+- FreePCB (*.fpc)
+- gEDA (*.pcb)
+- FidoCadJ (*.fcd)
+- KiCad (*.kicad_pcb)
+- IDF v2/v3
+
+Requirements: FreeCAD >= 0.14
+
+Project forum: https://sourceforge.net/p/eaglepcb2freecad/forum/","Categories
+3D Modeling, Electronic Design Automation (EDA)"
+"Rompr has MOVED to
+
+https://fatg3erman.github.io/RompR/Rompr has MOVED to
+
+https://fatg3erman.github.io/RompR/","Categories
+Players, Sound/Audio, MP3"
+"FTGL is a free cross-platform Open Source C++ library that uses Freetype2 to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps, texture maps, outlines, polygon mesh, and extruded polygon rendering modes.FTGL is a free cross-platform Open Source C++ library that uses Freetype2 to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps, texture maps, outlines, polygon mesh, and extruded polygon rendering modes.","Categories
+Software Development, Graphics"
+"pdf2xml convertor based on Xpdf library (http://www.foolabs.com/xpdf/home.html). It converts information contained in a PDF file into XML. First, you need to install xpdf and libxml2 (see documentation).
+Hervé Déjean
+Xerox Research Centre Europe
+
+http://www.xrce.xerox.com/About-XRCE/People/Herve-Dejeanpdf2xml convertor based on Xpdf library (http://www.foolabs.com/xpdf/home.html). It converts information contained in a PDF file into XML. First, you need to install xpdf and libxml2 (see documentation).
+Hervé Déjean
+Xerox Research Centre Europe
+
+http://www.xrce.xerox.com/About-XRCE/People/Herve-Dejean","Categories
+XML, Other/Nonlisted Topic, Cataloguing"
+"The SoftPixel Engine is an OpenSource high level realtime 3D engine for C++ (GNU C++ & VisualC++). It supports Direct3D11, Direct3D9, OpenGL 1.1 - 4.1, OpenGL|ES 1.1 and OpenGL|ES 2.0 and runs on Windows, Linux, Android and iOS.The SoftPixel Engine is an OpenSource high level realtime 3D engine for C++ (GNU C++ & VisualC++). It supports Direct3D11, Direct3D9, OpenGL 1.1 - 4.1, OpenGL|ES 1.1 and OpenGL|ES 2.0 and runs on Windows, Linux, Android and iOS.","Categories
+Games/Entertainment, Software Development, 3D Rendering"
+"Impressive is a program that displays PDF presentation slides with style. Smooth alpha-blended slide transitions are provided for the sake of eye candy, but in addition to this, Impressive offers some unique tools that are very useful for presentations.Impressive is a program that displays PDF presentation slides with style. Smooth alpha-blended slide transitions are provided for the sake of eye candy, but in addition to this, Impressive offers some unique tools that are very useful for presentations.","Categories
+Presentation"
+"Create data discs with advanced data settings. Create video and audio discs, Burn will convert if needed. Create DVD-Video discs. Recreate discs. Burn doesn't reinvent the wheel, it uses many powerful open source Unix utilities and is also open source.Create data discs with advanced data settings. Create video and audio discs, Burn will convert if needed. Create DVD-Video discs. Recreate discs. Burn doesn't reinvent the wheel, it uses many powerful open source Unix utilities and is also open source.","Categories
+File Managers, Audio Conversion, Video Converters, CD Burners"
+"Flexxi Image Resizer can resize, rotate, rename and convert images.
+
+Imagine if you want to
+- automatically rotate holiday pictures in portrait format
+- rename images to the date they were taken to join images from different cameras
+- same also is posible with a simple counter if you just care about the correct order
+- resize images and lower the quality to reduce the file size for easier sending them per mail
+- resize shop images all to the same size with a filling background color to have a common format
+- convert images in a different file format (e.g. jpg to png with all images the same size and transparent filling background)
+- open your images in Flexxi just by sending them to the application with the right click menu (send to)
+- preview changes on the images before appling it
+- use it in your native language (supported until now English, German, Spanish)
+and much more is posible with Flexxi.
+
+Key words: Image Resize, resize images, image resizing, Image CompressorFlexxi Image Resizer can resize, rotate, rename and convert images.
+
+Imagine if you want to
+- automatically rotate holiday pictures in portrait format
+- rename images to the date they were taken to join images from different cameras
+- same also is posible with a simple counter if you just care about the correct order
+- resize images and lower the quality to reduce the file size for easier sending them per mail
+- resize shop images all to the same size with a filling background color to have a common format
+- convert images in a different file format (e.g. jpg to png with all images the same size and transparent filling background)
+- open your images in Flexxi just by sending them to the application with the right click menu (send to)
+- preview changes on the images before appling it
+- use it in your native language (supported until now English, German, Spanish)
+and much more is posible with Flexxi.
+
+Key words: Image Resize, resize images, image resizing, Image Compressor","Categories
+Graphics, Image Converters, Raster Graphics"
+"Taksi is a video capture/screen capture tool for recording 3D graphics applications (such as games). It can capture almost any windows application using DirectX, OpenGL, or GDI and create an AVI file using any installed VFW codec or still frames in PNG.Taksi is a video capture/screen capture tool for recording 3D graphics applications (such as games). It can capture almost any windows application using DirectX, OpenGL, or GDI and create an AVI file using any installed VFW codec or still frames in PNG.","Categories
+Screen Capture, Video Capture"
+NaroCAD is a fully fledged and extensible 3D parametric modeling CAD application. It is based on OpenCascade.NaroCAD is a fully fledged and extensible 3D parametric modeling CAD application. It is based on OpenCascade.,"Categories
+3D Modeling, 3D Rendering, Data Visualization"
+"A Photomosaics system written in Delphi. The software has three subsystems. i. A Photomosaic generator; ii. A final image (jpg) generator; iii. A program to build an Image Library Index.
+
+An article about the software was published in the defun Dr. Dobbs Journal (https://www.drdobbs.com/understanding-photomosaics/184404848).
+
+Please check https://www.embarcadero.com/products/delphiA Photomosaics system written in Delphi. The software has three subsystems. i. A Photomosaic generator; ii. A final image (jpg) generator; iii. A program to build an Image Library Index.
+
+An article about the software was published in the defun Dr. Dobbs Journal (https://www.drdobbs.com/understanding-photomosaics/184404848).
+
+Please check https://www.embarcadero.com/products/delphi","Categories
+Photo Management"
+"FYIT Full Featured Youtube Downloader, Whatsapp Message Scheduler
+and Facebook Video Downloader. One of the Most Interesting Features is Fast Youtube Search
+
+Click the Link for Detail https://youtu.be/Mr6dzTEvun0FYIT Full Featured Youtube Downloader, Whatsapp Message Scheduler
+and Facebook Video Downloader. One of the Most Interesting Features is Fast Youtube Search
+
+Click the Link for Detail https://youtu.be/Mr6dzTEvun0","Categories
+Video Downloaders, YouTube Downloaders"
+An offline map viewer for the Desktop based on OsmAnd.An offline map viewer for the Desktop based on OsmAnd.,"Categories
+Image Viewers, Mapping, GIS"
+This plugin allows you to automatically save and restore the position of the last played files in the VLC player.This plugin allows you to automatically save and restore the position of the last played files in the VLC player.,"Categories
+Video"
+"With openAviToGif you can convert video into an animated gif file.
+
+What's new in v0.6:
+-GPU processing
+-improvements and bugfixes
+
+Use your video card to speed up the conversion. Recommended for those who have high-end video cards.With openAviToGif you can convert video into an animated gif file.
+
+What's new in v0.6:
+-GPU processing
+-improvements and bugfixes
+
+Use your video card to speed up the conversion. Recommended for those who have high-end video cards.","Categories
+Image Converters, Video Converters"
+"Okular is a multi-document viewer software for KDE Desktop Enviroment. It can open pdf, djvu, eps, ps, e-book, among others document formats.
+
+Up to date there is no simple way to install Okular in windows. It is neccesary to install the entire KDE enviroment for windows from http://windows.kde.org/
+
+This project aim to pack a simple instaler for Okular multi document viewer in windows operating system in order to share comments stored in .okular files with other users.
+
+I am not programmer, neither devoted full time to this task, so help is welcome!Okular is a multi-document viewer software for KDE Desktop Enviroment. It can open pdf, djvu, eps, ps, e-book, among others document formats.
+
+Up to date there is no simple way to install Okular in windows. It is neccesary to install the entire KDE enviroment for windows from http://windows.kde.org/
+
+This project aim to pack a simple instaler for Okular multi document viewer in windows operating system in order to share comments stored in .okular files with other users.
+
+I am not programmer, neither devoted full time to this task, so help is welcome!","Categories
+Image Viewers"
+This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.,"Categories
+KDE, Video Downloaders"
+"GDS3D is a cross-platform 3D hardware accelerated viewer for chip layouts. Read standalone GDS files or use the Cadence plugin for easy integration with your Virtuoso environment.
+
+Developed by PhDs of the IC-Design Group, University of Twente, The Netherlands
+
+The GDS3D project has now moved to: https://github.com/skuep/GDS3DGDS3D is a cross-platform 3D hardware accelerated viewer for chip layouts. Read standalone GDS files or use the Cadence plugin for easy integration with your Virtuoso environment.
+
+Developed by PhDs of the IC-Design Group, University of Twente, The Netherlands
+
+The GDS3D project has now moved to: https://github.com/skuep/GDS3D","Categories
+3D Rendering, Data Visualization"
+B-Maxwell add-on offers seamless integration with Maxwell Render and BlenderB-Maxwell add-on offers seamless integration with Maxwell Render and Blender,"Categories
+3D Modeling, 3D Rendering"
+JAAD is an open-source AAC decoder and MP4 demultiplexer library written completely in Java. It is platform-independent and portable.JAAD is an open-source AAC decoder and MP4 demultiplexer library written completely in Java. It is platform-independent and portable.,"Categories
+Audio Conversion, Libraries"
+Ginkgo CADx is an extensible multi-platform Open Source Medical Imaging software which provides a complete DICOM Viewer solution with advanced capabilities.Ginkgo CADx is an extensible multi-platform Open Source Medical Imaging software which provides a complete DICOM Viewer solution with advanced capabilities.,"Categories
+Image Viewers, Data Visualization, Healthcare"
+"ZappStream - Open Source Flash Video Streaming Server with Adaptive Bandwidth Throttling. Developed for Zappiens.PT in mid-2009, by FCCN.PT, released as GPL, after more than one year of sucessful deployment.ZappStream - Open Source Flash Video Streaming Server with Adaptive Bandwidth Throttling. Developed for Zappiens.PT in mid-2009, by FCCN.PT, released as GPL, after more than one year of sucessful deployment.","Categories
+Video"
+Converseen is an open source batch image converter and resizer for Linux and Windows. It supports more than 100 image formats and you can convert and resize an unlimited number of images to any of the most popular formats.Converseen is an open source batch image converter and resizer for Linux and Windows. It supports more than 100 image formats and you can convert and resize an unlimited number of images to any of the most popular formats.,"Categories
+Image Converters"
+"Be more efficicient in Adobe Lightroom! Paddy throughput more than 100% by mapping the sliders, presets, camera profiles, and any shortcut to unused keys, external Keyboards and MIDI controllers. Easy interface, equivalent to very expensive commercial solutions. Also supports Scripting in Lightroom, relative presets, extBe more efficicient in Adobe Lightroom! Paddy throughput more than 100% by mapping the sliders, presets, camera profiles, and any shortcut to unused keys, external Keyboards and MIDI controllers. Easy interface, equivalent to very expensive commercial solutions. Also supports Scripting in Lightroom, relative presets, ext","Categories
+Digital Camera, Graphic Design"
+"The project has moved to https://github.com/greenya/irrlichtlime
+
+-----------
+
+The Irrlicht Lime is a .NET wrapper for the Irrlicht Engine. It wraps most of API available in native library, easily allowing you to use 2D/3D graphics in your app, written in C#, VB.NET or other .NET language.
+
+Currently Lime is being develop under Visual Studio 2010 with .NET Framework 4.0. It includes bunch of examples and IntelliSense documentation.
+
+Lime is not a distinct ""engine"", it is a wrapper with almost the same architecture witch native Irrlicht Engine has. You do not need to download/compile Irrlicht Engine, wrapper already has it and ready to be used straight from the box.The project has moved to https://github.com/greenya/irrlichtlime
+
+-----------
+
+The Irrlicht Lime is a .NET wrapper for the Irrlicht Engine. It wraps most of API available in native library, easily allowing you to use 2D/3D graphics in your app, written in C#, VB.NET or other .NET language.
+
+Currently Lime is being develop under Visual Studio 2010 with .NET Framework 4.0. It includes bunch of examples and IntelliSense documentation.
+
+Lime is not a distinct ""engine"", it is a wrapper with almost the same architecture witch native Irrlicht Engine has. You do not need to download/compile Irrlicht Engine, wrapper already has it and ready to be used straight from the box.","Categories
+Games/Entertainment, Software Development, 3D Rendering"
+XPS (XML Paper Specification) document to set of images conversion utility.XPS (XML Paper Specification) document to set of images conversion utility.,"Categories
+Image Converters"
+XBMC Complete installer is a Linux automated installer for XBMC on top of minimal Ubuntu install. It aims to provide quality and complete support for installing & configuring for ION platforms/others. It automates otherwise complex tasks.XBMC Complete installer is a Linux automated installer for XBMC on top of minimal Ubuntu install. It aims to provide quality and complete support for installing & configuring for ION platforms/others. It automates otherwise complex tasks.,"Categories
+Home Theater PC"
+"Piwigo is a photo gallery software for the web. It comes with powerful features for publishing your photos and smart browsing capabilities such as categories, tags, or chronology. Extensions make Piwigo easily customizable.Piwigo is a photo gallery software for the web. It comes with powerful features for publishing your photos and smart browsing capabilities such as categories, tags, or chronology. Extensions make Piwigo easily customizable.","Categories
+Dynamic Content, Image Viewers, Photo Management"
+"Devignetting application for DNG images; originally written for Leica cameras, CornerFix now works with most cameras including Sony NEX and Sigma DP series. CornerFix fixes the ""cyan corners"" and/or ""red edges"" problem when using wide angle lenseDevignetting application for DNG images; originally written for Leica cameras, CornerFix now works with most cameras including Sony NEX and Sigma DP series. CornerFix fixes the ""cyan corners"" and/or ""red edges"" problem when using wide angle lense","Categories
+Digital Camera, Image Converters"
+"LinPHA is an easy to use, multilingual, flexible photo/image archive/album/gallery written in PHP. It uses a SQL database to store information about your pictures. It comes with a HTML based installer, so you don't need experience in setting up SQLLinPHA is an easy to use, multilingual, flexible photo/image archive/album/gallery written in PHP. It uses a SQL database to store information about your pictures. It comes with a HTML based installer, so you don't need experience in setting up SQL","Categories
+Dynamic Content, Archiving, Presentation, Image Viewers, Digital Camera, Media Players"
+"Marsyas (Music Analysis, Retrieval and Synthesis for Audio Signals) is a framework for developing systems for audio processing. It provides an general architecture for connecting audio, soundfiles, signal processing blocks and machine learning.
+
+Source code at SF is outdated! Marsyas is now hosted at GitHub:
+https://github.com/marsyas/marsyas
+
+Downloads are now provided at Bintray:
+https://bintray.com/marsyasMarsyas (Music Analysis, Retrieval and Synthesis for Audio Signals) is a framework for developing systems for audio processing. It provides an general architecture for connecting audio, soundfiles, signal processing blocks and machine learning.
+
+Source code at SF is outdated! Marsyas is now hosted at GitHub:
+https://github.com/marsyas/marsyas
+
+Downloads are now provided at Bintray:
+https://bintray.com/marsyas","Categories
+Audio Analysis, Libraries, Machine Learning"
+"FCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topiFCOLLADA based COLLADA plugins for Maya and 3DSMax. Newer plugins with 1.5 support and support the files mentioned in ""Papervision3D Essentials"" by Paul Tondeur are available at http://opencollada.org . Please use this project for FCOLLADA related topi","Categories
+XML, 3D Modeling, 3D Rendering, Data Visualization"
+"MeediOS is an open source Home Theater application based on the closed source Meedio. The software acts as a front end for all your media such as TVShows, Music, Movies and Games. It is infinitely customizable with its plugin based architecture.MeediOS is an open source Home Theater application based on the closed source Meedio. The software acts as a front end for all your media such as TVShows, Music, Movies and Games. It is infinitely customizable with its plugin based architecture.","Categories
+Video, Sound/Audio, Home Theater PC"
+"PTCPas is a free, portable framebuffer library, written in Free Pascal. It allows low-level high-speed graphics access on multiple platforms.PTCPas is a free, portable framebuffer library, written in Free Pascal. It allows low-level high-speed graphics access on multiple platforms.","Categories
+Graphics, Libraries"
+"Screen capturing program that records your screen-activities, supports commentboxes and exports to all video formats. It also acts as a client for the captorials.com website that enables you to share your captured tutorial with users around the world.Screen capturing program that records your screen-activities, supports commentboxes and exports to all video formats. It also acts as a client for the captorials.com website that enables you to share your captured tutorial with users around the world.","Categories
+Screen Capture"
+"Simple demuxing app to separate an MPEG or VOB file into its component video and audio streams. Useful for working with MPEGs, VCDs, and DVDs.Simple demuxing app to separate an MPEG or VOB file into its component video and audio streams. Useful for working with MPEGs, VCDs, and DVDs.","Categories
+Video Converters"
+"Frontera is an open art project which uses interactive video combined with hand tracking to make an ""interactive portrait"". It uses open standards like OpenCV and the OSC protocol.Frontera is an open art project which uses interactive video combined with hand tracking to make an ""interactive portrait"". It uses open standards like OpenCV and the OSC protocol.","Categories
+Streaming, Media Players, Realtime Processing, Video Capture"
+"It's a OpenGL/openSource implementation of coverFlow - Quicklook from apple for the linux desktop. Now I'm trying to do the preview for the most used document types such as images, odt, mp3, pdf, text, html. http://www.youtube.com/watch?v=fo09GRwbokUIt's a OpenGL/openSource implementation of coverFlow - Quicklook from apple for the linux desktop. Now I'm trying to do the preview for the most used document types such as images, odt, mp3, pdf, text, html. http://www.youtube.com/watch?v=fo09GRwbokU","Categories
+3D Rendering, Image Viewers"
+"Handy 1..12 LPT port pins manager. Manual direction by keyboard or mouse. Automatic direction by Script or Music Visualization.
+Access to LPT-port pins in any Windows 98/Me/2k/XP/Vista/7/8/10.
+Also support direction up to 32 signals via COM port (see video with Arduino UNO).
+Can work as VIS plugin for Winamp, WMP and AIMP2/3/4.Handy 1..12 LPT port pins manager. Manual direction by keyboard or mouse. Automatic direction by Script or Music Visualization.
+Access to LPT-port pins in any Windows 98/Me/2k/XP/Vista/7/8/10.
+Also support direction up to 32 signals via COM port (see video with Arduino UNO).
+Can work as VIS plugin for Winamp, WMP and AIMP2/3/4.","Categories
+Hardware, Multimedia, Home Automation"
+"JHotDraw is a two-dimensional graphics framework for structured drawing editors that is written in Java. It is based on Erich Gamma's JHotDraw, which is copyright 1996, 1997 by IFA Informatik and Erich Gamma.JHotDraw is a two-dimensional graphics framework for structured drawing editors that is written in Java. It is based on Erich Gamma's JHotDraw, which is copyright 1996, 1997 by IFA Informatik and Erich Gamma.","Categories
+Software Development, Vector Graphics, Data Visualization"
+"GLUI is a GLUT-based C++ user interface library which provides controls such as buttons, checkboxes, radio buttons, and spinners to OpenGL applications. It is window-system independent, using GLUT or FreeGLUT.GLUI is a GLUT-based C++ user interface library which provides controls such as buttons, checkboxes, radio buttons, and spinners to OpenGL applications. It is window-system independent, using GLUT or FreeGLUT.","Categories
+Simulation Games, Graphics, Scientific/Engineering, Simulation, Physics"
+"Jajuk is a jukebox for all platforms. The goal of this project is to provide a fully-featured application to advanced users with large or scattered music collections.
+
+(Note: the codebase is now hosted at http://gitorious.org/jajuk/jajuk .)Jajuk is a jukebox for all platforms. The goal of this project is to provide a fully-featured application to advanced users with large or scattered music collections.
+
+(Note: the codebase is now hosted at http://gitorious.org/jajuk/jajuk .)","Categories
+Players"
+"The library im4java provides a pure-java interface to ImageMagick, GraphicsMagick and other popular commandline tools like jpegtran, ufraw, dcraw, exiftool. The im4java-engine permits the addition of new tools in a very short time (less than an hour)The library im4java provides a pure-java interface to ImageMagick, GraphicsMagick and other popular commandline tools like jpegtran, ufraw, dcraw, exiftool. The im4java-engine permits the addition of new tools in a very short time (less than an hour)","Categories
+Object Oriented, Image Converters"
+NeoEngine is an Open Source platform independent 3D game engine written in C++NeoEngine is an Open Source platform independent 3D game engine written in C++,"Categories
+Games/Entertainment, Software Development, 3D Rendering"
+ASH Viewer provides a graphical view of active session history data within the Oracle and PostgreSQL DBASH Viewer provides a graphical view of active session history data within the Oracle and PostgreSQL DB,"Categories
+Systems Administration, Image Viewers"
+Windows VU Meter is a standalone application that mimics an old stereo's VU or audio level meters. Please see the project's website at http://windowsvumeter.sourceforge.net/ for all of the program's details and features and download.Windows VU Meter is a standalone application that mimics an old stereo's VU or audio level meters. Please see the project's website at http://windowsvumeter.sourceforge.net/ for all of the program's details and features and download.,"Categories
+Audio Analysis"
+"Comix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books, but also serves as a generic viewer. It reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as well as plain image files.Comix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books, but also serves as a generic viewer. It reads images in ZIP, RAR or tar archives (also gzip or bzip2 compressed) as well as plain image files.","Categories
+GNOME, Games/Entertainment, Image Viewers"
+"Celluloid is the world's first AVISynth-based non-linear editor. Built on the new, cross-platform AVISynth 3.0 and for Mac OS X, Celluloid will be the first fully-featured, free, and open-source video editing system available.Celluloid is the world's first AVISynth-based non-linear editor. Built on the new, cross-platform AVISynth 3.0 and for Mac OS X, Celluloid will be the first fully-featured, free, and open-source video editing system available.","Categories
+Non-Linear Editor"
+xmms and winamp input plugin to play dts cinema audio off of dts cinema audio disc\'s that use the apt-x codecxmms and winamp input plugin to play dts cinema audio off of dts cinema audio disc\'s that use the apt-x codec,"Categories
+Sound/Audio"
+"Interactive application to generate and view random fractal planets and terrain with oceans, mountains, icecaps and rivers, then export them to POV-Ray format or Blender. Written in C++ using Qt and OpenGL.Interactive application to generate and view random fractal planets and terrain with oceans, mountains, icecaps and rivers, then export them to POV-Ray format or Blender. Written in C++ using Qt and OpenGL.","Categories
+3D Modeling, Flight Simulator, Fractal"
+"CGRU is an open source CG tools pack, includes Afanasy render farm manager and RULES project tracker.CGRU is an open source CG tools pack, includes Afanasy render farm manager and RULES project tracker.","Categories
+Distributed Computing, Graphics"
+Clavier virtuel et synthétiseur vocal pour les personnes ne pouvant plus parler et ayant du mal à utiliser leurs mains. Virtual keyboard and speech synthetiser for people with reduced mobility and unability to speak. In French and english.Clavier virtuel et synthétiseur vocal pour les personnes ne pouvant plus parler et ayant du mal à utiliser leurs mains. Virtual keyboard and speech synthetiser for people with reduced mobility and unability to speak. In French and english.,"Categories
+Communications, Speech, Sound Synthesis"
+"VDMSound is a modular, extendable soundcard (and other ""legacy"" hardware) emulator for MS Windows NT/2000 DOS boxes.VDMSound is a modular, extendable soundcard (and other ""legacy"" hardware) emulator for MS Windows NT/2000 DOS boxes.","Categories
+Games/Entertainment, Emulators, Sound/Audio"
+"Tuniac is an iTunes style media player/manager for Windows.
+Advanced playlist editor, search as you type and queue support.
+
+Supports:
+MPEG-1 Audio (mp3, mp2, mp1)
+FLAC (flac, fla, oga, ogg)
+Advanced Audio Coding (aac, m4a, m4b, mp4)
+Apple Lossless Audio Codec aka ALAC (m4a)
+Windows Media Audio (wma)
+Vorbis (ogg)
+Opus (opus)
+WavPack (wv)
+TAK Audio (tak)
+TrueAudio (tta)
+Monkeys Audio (ape, mac)
+Musepack (mpc, mp+, mpp)
+OptimFrog (ofr, ofs)
+Shorten (shn)
+Dolby Digital (ac3)
+DSD (dff, dfs)
+PCM (wav, aif)
+CD Audio (cda)
+Speex (spx)
+MOD Formats (mod, mo3, xm, it, s3m, mtm)
+Game Audio Formats (adx, umx)
+MIDI (mid)
+Supporting radio streaming of most the above formats.Tuniac is an iTunes style media player/manager for Windows.
+Advanced playlist editor, search as you type and queue support.
+
+Supports:
+MPEG-1 Audio (mp3, mp2, mp1)
+FLAC (flac, fla, oga, ogg)
+Advanced Audio Coding (aac, m4a, m4b, mp4)
+Apple Lossless Audio Codec aka ALAC (m4a)
+Windows Media Audio (wma)
+Vorbis (ogg)
+Opus (opus)
+WavPack (wv)
+TAK Audio (tak)
+TrueAudio (tta)
+Monkeys Audio (ape, mac)
+Musepack (mpc, mp+, mpp)
+OptimFrog (ofr, ofs)
+Shorten (shn)
+Dolby Digital (ac3)
+DSD (dff, dfs)
+PCM (wav, aif)
+CD Audio (cda)
+Speex (spx)
+MOD Formats (mod, mo3, xm, it, s3m, mtm)
+Game Audio Formats (adx, umx)
+MIDI (mid)
+Supporting radio streaming of most the above formats.","Categories
+Players, Sound/Audio, MP3"
+"JIBS: Java Image Browser Sorter. An image viewer with a full-screen slide show, image sorting, and producing contact sheet/thumbnails. The image viewer is perfect for sorting digital photos into correct directories. Displays EXIF information captured in the photos. Also great for managing downloaded images. Lots of other utilities included.JIBS: Java Image Browser Sorter. An image viewer with a full-screen slide show, image sorting, and producing contact sheet/thumbnails. The image viewer is perfect for sorting digital photos into correct directories. Displays EXIF information captured in the photos. Also great for managing downloaded images. Lots of other utilities included.","Categories
+Presentation, Image Viewers, Photo Management"
+"TV-Viewer is a frontend to watch and record TV. Designed for analog TV-cards working with ivtv, pvrusb2 or cx18 driver and others with a build-in hardware MPEG-2 encoder. The Gui is written in Tk, so it does not rely on a special desktop environment.TV-Viewer is a frontend to watch and record TV. Designed for analog TV-cards working with ivtv, pvrusb2 or cx18 driver and others with a build-in hardware MPEG-2 encoder. The Gui is written in Tk, so it does not rely on a special desktop environment.","Categories
+Media Players, Video Capture"
+"G3D is a commercial-grade C++ 3D engine. It is used in commercial games, research papers, military simulators, and university courses. G3D supports real-time rendering, off-line rendering like ray tracing, and general purpose computation on GPUs.
+
+As of January 16, 2018, SourceForge is again the home of the active repository for G3D.G3D is a commercial-grade C++ 3D engine. It is used in commercial games, research papers, military simulators, and university courses. G3D supports real-time rendering, off-line rendering like ray tracing, and general purpose computation on GPUs.
+
+As of January 16, 2018, SourceForge is again the home of the active repository for G3D.","Categories
+Games/Entertainment, 3D Rendering, Scientific/Engineering, Education"
+"Family Connections is a private social networking website designed specifically for families to be as easy to use as possible. Key features are: message board, photo gallery, family tree, calendar, blog, chat room, address book and more.Family Connections is a private social networking website designed specifically for families to be as easy to use as possible. Key features are: message board, photo gallery, family tree, calendar, blog, chat room, address book and more.","Categories
+Front-Ends, Photo Management, Social Networking"
+".NET wrapper for the OGRE 3D rendering engine. ________ .DON'T USE THE DOWNLOAD BUTTON on right side. (It points to outdated files.) Click to ""Files"" instead. ________ Also look to the Mogre PROJECT PAGE: http://www.ogre3d.org/wiki/index.php/MOGRE.NET wrapper for the OGRE 3D rendering engine. ________ .DON'T USE THE DOWNLOAD BUTTON on right side. (It points to outdated files.) Click to ""Files"" instead. ________ Also look to the Mogre PROJECT PAGE: http://www.ogre3d.org/wiki/index.php/MOGRE","Categories
+3D Rendering"
+GraphCalc is a very gui graphing calculator. It has been called a good replacement for a TI-85. It is a must for any high school math student.GraphCalc is a very gui graphing calculator. It has been called a good replacement for a TI-85. It is a must for any high school math student.,"Categories
+3D Modeling, Mathematics, Education, Calculators, Graphing Calculators"
+"Frinika is a free, complete music workstation software for Linux, Windows, Mac OSX and other operating systems running Java. It features sequencer, soft-synths, realtime effects and audio recording.Frinika is a free, complete music workstation software for Linux, Windows, Mac OSX and other operating systems running Java. It features sequencer, soft-synths, realtime effects and audio recording.","Categories
+Audio Editing, Audio Recording, MIDI, Sound Synthesis, Digital Audio Workstations (DAW)"
+XenonMKV has moved to GitHub and been rewritten. This version is no longer supported. Please visit https://github.com/jbillo/xenonmkv for the newest code.XenonMKV has moved to GitHub and been rewritten. This version is no longer supported. Please visit https://github.com/jbillo/xenonmkv for the newest code.,"Categories
+Video Converters, Home Theater PC"
+"Version 3.x available here on SourceForge has been superseded by version 4.x available on Github. The later is a port to JavaScript, PHP and Ruby - all dependencies on Flash have been removed, as well as some of the functionality it provided.
+
+Version 3.x
+---------------
+Extensible Flash and PHP online video editor with effects, transitions, titling, timeshifting and compositing. Client side ActionScript provides a robust GUI that interacts with PHP through simple XML protocols for saving edit decision lists, handling uploads and asset searching.
+
+XML is also used to describe the GUI itself as well as its underlying functionality - there is no need to recompile the Flash applets! But if you so desire then custom fonts, effects and widget classes can be written in AS3 - PixelBender support too, for effects and transitions.
+
+http://www.moviemasher.comVersion 3.x available here on SourceForge has been superseded by version 4.x available on Github. The later is a port to JavaScript, PHP and Ruby - all dependencies on Flash have been removed, as well as some of the functionality it provided.
+
+Version 3.x
+---------------
+Extensible Flash and PHP online video editor with effects, transitions, titling, timeshifting and compositing. Client side ActionScript provides a robust GUI that interacts with PHP through simple XML protocols for saving edit decision lists, handling uploads and asset searching.
+
+XML is also used to describe the GUI itself as well as its underlying functionality - there is no need to recompile the Flash applets! But if you so desire then custom fonts, effects and widget classes can be written in AS3 - PixelBender support too, for effects and transitions.
+
+http://www.moviemasher.com","Categories
+Players, Audio Editing, Media Players, Non-Linear Editor"
+"Hide In Picture is a program that allows you to conceal files inside bitmap pictures, using a password. The pictures look like normal images, so people will not suspect there is hidden data in them.Hide In Picture is a program that allows you to conceal files inside bitmap pictures, using a password. The pictures look like normal images, so people will not suspect there is hidden data in them.","Categories
+Cryptography, Graphics"
+The Linux Media Center (LMC) is an attempt to create a clone of Windows Media Player. It'll be having almost all the features of WMP and many more. It'll be play audio as well as video. It is being written using the GTK libraries and GStreamer.The Linux Media Center (LMC) is an attempt to create a clone of Windows Media Player. It'll be having almost all the features of WMP and many more. It'll be play audio as well as video. It is being written using the GTK libraries and GStreamer.,"Categories
+Players, CD Ripping, Video, CD Playing"
+"LastFMCE is a Hosted HTML application for Windows Media Center 2005 that allow to interact with Last.fm radio and listen to it inside Media Center. It allows to tune into any station: by tag, by artist or custom.LastFMCE is a Hosted HTML application for Windows Media Center 2005 that allow to interact with Last.fm radio and listen to it inside Media Center. It allows to tune into any station: by tag, by artist or custom.","Categories
+Players"
+"Automatically geocode pictures from your camera and a GPS track log.
+
+Following Google code closure the only official webpage is (doc, support, code) :
+https://github.com/notfrancois/GPicSyncAutomatically geocode pictures from your camera and a GPS track log.
+
+Following Google code closure the only official webpage is (doc, support, code) :
+https://github.com/notfrancois/GPicSync","Categories
+Digital Camera, Education, GIS"
+"NOTE: FontForge has moved to fontforge.github.io, newer binaries and sources are available at github.com/fontforge.
+
+FontForge allows you to edit outline and bitmap fonts. You may create new ones or modify old ones. It is also a format converter and can interconvert between PostScript (ascii & binary Type1, some Type3, some Type0), TrueType, OpenType (Type2), CID, SVGNOTE: FontForge has moved to fontforge.github.io, newer binaries and sources are available at github.com/fontforge.
+
+FontForge allows you to edit outline and bitmap fonts. You may create new ones or modify old ones. It is also a format converter and can interconvert between PostScript (ascii & binary Type1, some Type3, some Type0), TrueType, OpenType (Type2), CID, SVG","Categories
+Printing, Vector Graphics"
+"A Windows installer with a collection of extensions for GIMP that provides the ability to choose which Plug-ins, Scripts, Brushes, etc, that you want to install.
+
+Details: http://code.google.com/p/gimp-extensions
+
+
+You can download GIMP for Windows from http://www.gimp.org/A Windows installer with a collection of extensions for GIMP that provides the ability to choose which Plug-ins, Scripts, Brushes, etc, that you want to install.
+
+Details: http://code.google.com/p/gimp-extensions
+
+
+You can download GIMP for Windows from http://www.gimp.org/","Categories
+Raster Graphics"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU General Public License version 2.0 (GPLv2)","Categories
+Non-Linear Editor"
+"Cross-platform command-line tool for creation of PDF documents from scans/photos of pages in JPEG (.jpg) format and the lightest weight ANSI C library to put multiple JPEG files into one PDF file.
+
+You can add handwritten comments to PDF scans (over original images) with xournal: http://xournal.sourceforge.net/
+It supports graphics tablets and saves comments to PDFs as vector data.Cross-platform command-line tool for creation of PDF documents from scans/photos of pages in JPEG (.jpg) format and the lightest weight ANSI C library to put multiple JPEG files into one PDF file.
+
+You can add handwritten comments to PDF scans (over original images) with xournal: http://xournal.sourceforge.net/
+It supports graphics tablets and saves comments to PDFs as vector data.","Categories
+Image Converters, Digital Preservation, PDF"
+iTunes Agent enables many non-iPod MP3 players to be used with iTunes. The project enables you to synchronize your MP3 player with an iTunes playlist with just a few mouse-clicks.iTunes Agent enables many non-iPod MP3 players to be used with iTunes. The project enables you to synchronize your MP3 player with an iTunes playlist with just a few mouse-clicks.,"Categories
+Sound/Audio"
+A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.A GUI to ease the process of producing a multipage PDF from a scan. gscan2pdf should work on almost any Linux/BSD machine.,"Categories
+Office/Business, Desktop Environment, Scanner, OCR"
+"VideoWhisper Live Streaming provides web based live video streaming (from webcam or similar sources).
+
+Live Streaming key features:
++ 1 to many 1 way video streaming
++ Live chat for viewers
++ User list with online participants
++ Channel title
++ HTML embed code to publish video channel
++ P2P group streaming support
++ Session timer and control with scripts
++ 100% web based for clients
+
+
+The php edition is the easiest choice to setup and run the Live Streaming application on a website.
+Also to integrate with any php script or content management system that does not have a ready made integration, yet.
+
+PHP Live Streaming Edition Highlights:
++ Create Live Video Channels
++ Broadcast Live Video from Browser
++ Share Channels Link/Embed Code
++ Limit Total Use Time by Channel
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
+
+
+Requires a RTMP hosting to setup rtmp side (see installation instructions).VideoWhisper Live Streaming provides web based live video streaming (from webcam or similar sources).
+
+Live Streaming key features:
++ 1 to many 1 way video streaming
++ Live chat for viewers
++ User list with online participants
++ Channel title
++ HTML embed code to publish video channel
++ P2P group streaming support
++ Session timer and control with scripts
++ 100% web based for clients
+
+
+The php edition is the easiest choice to setup and run the Live Streaming application on a website.
+Also to integrate with any php script or content management system that does not have a ready made integration, yet.
+
+PHP Live Streaming Edition Highlights:
++ Create Live Video Channels
++ Broadcast Live Video from Browser
++ Share Channels Link/Embed Code
++ Limit Total Use Time by Channel
++ Simple Setup
++ Easy to Install
++ Full PHP Source Code
++ Easy to Integrate
+
+
+Requires a RTMP hosting to setup rtmp side (see installation instructions).","Categories
+Communications, Sound/Audio, Video Conferencing"
+"With this program you will be able to organize your (legally obtained) android .apk file collection.
+Features include getting Play Store information and screenshots from each apk file, and storing them offline for later viewing.With this program you will be able to organize your (legally obtained) android .apk file collection.
+Features include getting Play Store information and screenshots from each apk file, and storing them offline for later viewing.","Categories
+Other/Nonlisted Topic, Cataloguing"
+"You must agree how annoying it is when you want to relax to a nice movie, but it’s not in your language and there are no subtitles in sight! So you download some, but now they’re not in sync! This is where Subtitle Adjuster comes in - with this program you can adjust the timing of said subtitles. This works by specifying one or two reference points, of which you know the correct timing, after which Subtitle Adjuster can automatically recalculate the rest, saving the result as a new subtitle file. Enjoy your movie!
+
+Check out the wiki here on SourceForge for more info!
+If you like Subtitle Adjuster, please leave a review!
+
+For Windows 10 / Missing MSVCR110.dll problem:
+Download and install both x86 and x64 Visual C++ Redistributable Packages for Visual Studio 2012
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads#section-4You must agree how annoying it is when you want to relax to a nice movie, but it’s not in your language and there are no subtitles in sight! So you download some, but now they’re not in sync! This is where Subtitle Adjuster comes in - with this program you can adjust the timing of said subtitles. This works by specifying one or two reference points, of which you know the correct timing, after which Subtitle Adjuster can automatically recalculate the rest, saving the result as a new subtitle file. Enjoy your movie!
+
+Check out the wiki here on SourceForge for more info!
+If you like Subtitle Adjuster, please leave a review!
+
+For Windows 10 / Missing MSVCR110.dll problem:
+Download and install both x86 and x64 Visual C++ Redistributable Packages for Visual Studio 2012
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads#section-4","Categories
+Video, Video Converters, DVD"
+DiffImg is a simple image comparison tool which take two images with the same size as input. Some statitics are computed and the positions where pixel differ are displayed as a color mask.DiffImg is a simple image comparison tool which take two images with the same size as input. Some statitics are computed and the positions where pixel differ are displayed as a color mask.,"Categories
+Image Viewers"
+"Spacescape is a tool for creating space skyboxes with stars and nebulas. Powered by Ogre3d and Qt.
+
+""He determines the number of the stars and calls them each by name. "" Psalm 147:4
+
+NOTE: repository moved to Github
+https://github.com/petrocket/spacescapeSpacescape is a tool for creating space skyboxes with stars and nebulas. Powered by Ogre3d and Qt.
+
+""He determines the number of the stars and calls them each by name. "" Psalm 147:4
+
+NOTE: repository moved to Github
+https://github.com/petrocket/spacescape","Categories
+Graphics"
+"PDF Clown is a general-purpose Java and .NET library for manipulating PDF files through multiple abstraction layers, rigorously adhering to PDF 1.7 specification (ISO 32000-1).
+
+This project aims to provide a universal access to PDF files (creation, reading, editing, rendering...) through an accurate and elegant object-oriented API.
+
+* Features: http://pdfclown.org/overview/features/
+* Overview: http://pdfclown.org/overview/architecture/
+
+* Website: http://pdfclown.org/
+* Blog: http://www.pdfclown.org/blog/
+* Twitter: https://twitter.com/PDFClownPDF Clown is a general-purpose Java and .NET library for manipulating PDF files through multiple abstraction layers, rigorously adhering to PDF 1.7 specification (ISO 32000-1).
+
+This project aims to provide a universal access to PDF files (creation, reading, editing, rendering...) through an accurate and elegant object-oriented API.
+
+* Features: http://pdfclown.org/overview/features/
+* Overview: http://pdfclown.org/overview/architecture/
+
+* Website: http://pdfclown.org/
+* Blog: http://www.pdfclown.org/blog/
+* Twitter: https://twitter.com/PDFClown","Categories
+Text Processing, Dynamic Content, Presentation"
+The XonX project is used by developers of XFree86 for Darwin and Mac OS X to share and distribute code and information. All of the code developed is committed to the XFree86 Project's CVS server.The XonX project is used by developers of XFree86 for Darwin and Mac OS X to share and distribute code and information. All of the code developed is committed to the XFree86 Project's CVS server.,"Categories
+Desktop Environment, Graphics"
+Dorgem is a webcam capture program for WindowsDorgem is a webcam capture program for Windows,"Categories
+Digital Camera, Video Capture"
+FileSearch is a multi-threaded documents searcher. No indexes need to be updated ; no background service is required. The more you have drives the more search speed is increased thanks to its multi-threading technic.FileSearch is a multi-threaded documents searcher. No indexes need to be updated ; no background service is required. The more you have drives the more search speed is increased thanks to its multi-threading technic.,"Categories
+Search Engines, File Managers, Cataloguing"
+"This project is not currently being supported but feel free to use it as an example.
+
+delta3d is a robust simulation platform built using open standards and open source software. It features full toolchain development supporting a wide variety of free and commercial software.This project is not currently being supported but feel free to use it as an example.
+
+delta3d is a robust simulation platform built using open standards and open source software. It features full toolchain development supporting a wide variety of free and commercial software.","Categories
+Simulation Games, 3D Rendering"
+"projectM is an OpenGL based advanced music visualization program for Linux, Mac OSX, and Windows. It is backward compatible with all the features of Milkdrop 1.x (and now 2.x), but has many new toys and enhancements.projectM is an OpenGL based advanced music visualization program for Linux, Mac OSX, and Windows. It is backward compatible with all the features of Milkdrop 1.x (and now 2.x), but has many new toys and enhancements.","Categories
+Graphics, Audio Analysis"
+"FreeWRL is an Open Source, cross platform VRML2 and X3D compliant browser, with script, SAI and EAI support. Platforms supported: Linux and other Unix-style platforms; Mac OS/X; Windows. Support for mobile platforms (iOS, Android, QNX) is under development.FreeWRL is an Open Source, cross platform VRML2 and X3D compliant browser, with script, SAI and EAI support. Platforms supported: Linux and other Unix-style platforms; Mac OS/X; Windows. Support for mobile platforms (iOS, Android, QNX) is under development.","Categories
+Browsers, 3D Rendering, Image Viewers"
+Sodipodi is general vector illustrating application for Linux/Unix and Windows. It uses W3C SVG as native file and in-memory image format and can do many neat things.Sodipodi is general vector illustrating application for Linux/Unix and Windows. It uses W3C SVG as native file and in-memory image format and can do many neat things.,"Categories
+GNOME, Image Viewers, Vector Graphics"
+"Mp3 decoder to convert mp3 files into wav file.
+Works well on Linux, Windows and Android.
+Can perform fast fourier transforms on decoded audio data.
+
+Under research & development by WeaveBytesMp3 decoder to convert mp3 files into wav file.
+Works well on Linux, Windows and Android.
+Can perform fast fourier transforms on decoded audio data.
+
+Under research & development by WeaveBytes","Categories
+Audio Conversion, Audio Editing, MP3"
+"Desktop wallpaper management application for Gnome. Cortina changes wallpapers by time. It works as an tray application with an configuration interface. It works great under Ubuntu Lucid and all other gnome using distributions.Cortina is a lightweigh
+
+Repository:
+ppa:cs-sniffer/cortina
+http://ppa.launchpad.net/cs-sniffer/cortina/ubuntuDesktop wallpaper management application for Gnome. Cortina changes wallpapers by time. It works as an tray application with an configuration interface. It works great under Ubuntu Lucid and all other gnome using distributions.Cortina is a lightweigh
+
+Repository:
+ppa:cs-sniffer/cortina
+http://ppa.launchpad.net/cs-sniffer/cortina/ubuntu","Categories
+GNOME, Photo Management"
+"The Open Toolkit is an advanced, cross-platform, C# OpenGL, OpenAL and OpenCL wrapper for Mono/.Net. It is especially suitable to RAD development and can be used in games, GUIs (WinForms, WPF, GTK#) and scientific applications.
+
+The official repository can be found in github:
+
+https://github.com/opentk/opentk
+
+The sourceforge repository will no longer be updated, but will remain online for posterity.The Open Toolkit is an advanced, cross-platform, C# OpenGL, OpenAL and OpenCL wrapper for Mono/.Net. It is especially suitable to RAD development and can be used in games, GUIs (WinForms, WPF, GTK#) and scientific applications.
+
+The official repository can be found in github:
+
+https://github.com/opentk/opentk
+
+The sourceforge repository will no longer be updated, but will remain online for posterity.","Categories
+Games/Entertainment, Software Development, Graphics, Sound/Audio"
+SVG Document Object Model in C# on the .Net framework. Help build the future foundation of SVG on .Net.SVG Document Object Model in C# on the .Net framework. Help build the future foundation of SVG on .Net.,"Categories
+XML, Image Viewers"
+"JACK Audio Connection Kit - Qt GUI Interface: A simple Qt application to control the JACK server daemon. Written in C++ around the Qt framework for X11, most exclusively using Qt Designer. Provides a simple GUI dialog for setting several JACK server pJACK Audio Connection Kit - Qt GUI Interface: A simple Qt application to control the JACK server daemon. Written in C++ around the Qt framework for X11, most exclusively using Qt Designer. Provides a simple GUI dialog for setting several JACK server p","Categories
+Sound/Audio"
+"Grip is a GTK-based CD-player and CD-ripper / MP3 encoder. It has the ripping capabilities of cdparanoia built in, but can also use external rippers (such as cdda2wav). Encoder presets are provided for oggenc, bladeenc, lame, l3enc, xingmp3enc, mp3encode, gogo, flac, faac and opusenc.
+
+The main developers can be found in #grip on Libera (irc.libera.chat).Grip is a GTK-based CD-player and CD-ripper / MP3 encoder. It has the ripping capabilities of cdparanoia built in, but can also use external rippers (such as cdda2wav). Encoder presets are provided for oggenc, bladeenc, lame, l3enc, xingmp3enc, mp3encode, gogo, flac, faac and opusenc.
+
+The main developers can be found in #grip on Libera (irc.libera.chat).","Categories
+CD Ripping, CD Playing"

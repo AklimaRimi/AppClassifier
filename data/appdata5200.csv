@@ -1,0 +1,425 @@
+Description,Category
+"DEP4E integrates DocBook XML and DocBook XSL into Eclipse IDE to create, edit and process DocBook projects.DEP4E integrates DocBook XML and DocBook XSL into Eclipse IDE to create, edit and process DocBook projects.","Categories
+DocBook, Build Tools, Documentation"
+A radius protocol application is running on Windows platform. now the code of this application is copyed from freeradius 2.1.12 and be edited to fit the VS 2010.A radius protocol application is running on Windows platform. now the code of this application is copyed from freeradius 2.1.12 and be edited to fit the VS 2010.,"Categories
+Data Formats"
+"Use this suite of Application Programming Interface (API) platforms to share web content across multiple channels. Mobile and tablet applications, widgets, and web pages may use the APIs to deliver and update content. The APIs allow content reuse and reduce development costs and product time-to-market. The APIs are available as .NET or Java instances. For more information, see the ReadMe.txt file in the downloadable zip archive.
+
+The Centers for Disease Control and Prevention (CDC) and the Department of Health and Human Services (HHS) Assistant Secretary for Public Affairs office (ASPA) developed these APIs in collaboration with the Food and Drug Administration’s (FDA) Center for Tobacco Products (CTP).
+
+The CDC, FDA/CTP, HHS/ASPA, and the National Institute of Health’s National Institute for Allergy and Infectious Diseases (NIH/NIAID) use these platforms.
+
+https://syndication.hhs.gov
+http://tools.cdc.gov
+http://tools.niaid.nih.gov
+http://tools.fda.govUse this suite of Application Programming Interface (API) platforms to share web content across multiple channels. Mobile and tablet applications, widgets, and web pages may use the APIs to deliver and update content. The APIs allow content reuse and reduce development costs and product time-to-market. The APIs are available as .NET or Java instances. For more information, see the ReadMe.txt file in the downloadable zip archive.
+
+The Centers for Disease Control and Prevention (CDC) and the Department of Health and Human Services (HHS) Assistant Secretary for Public Affairs office (ASPA) developed these APIs in collaboration with the Food and Drug Administration’s (FDA) Center for Tobacco Products (CTP).
+
+The CDC, FDA/CTP, HHS/ASPA, and the National Institute of Health’s National Institute for Allergy and Infectious Diseases (NIH/NIAID) use these platforms.
+
+https://syndication.hhs.gov
+http://tools.cdc.gov
+http://tools.niaid.nih.gov
+http://tools.fda.gov","Categories
+RSS, Medical, Multimedia"
+htmldom parses the HTML file and provides methods for iterating and searching the parse tree in a similar way as Jquery. To report bugs please mail me at bhimsen.pes@gmail.comhtmldom parses the HTML file and provides methods for iterating and searching the parse tree in a similar way as Jquery. To report bugs please mail me at bhimsen.pes@gmail.com,"Categories
+HTML/XHTML, Internet, Libraries"
+"TinyREST allows a Java programmer to easily create a REST server without having to install a J2EE server. Creating a new server is as easy as copying the service jar, setting up a configuration file and writing your own service handler class. The resulting project can be made to start up as a service.
+
+Annotations can now be used to write handler class and methods.
+
+JDBC database access as well as file system access is allowed from the service.TinyREST allows a Java programmer to easily create a REST server without having to install a J2EE server. Creating a new server is as easy as copying the service jar, setting up a configuration file and writing your own service handler class. The resulting project can be made to start up as a service.
+
+Annotations can now be used to write handler class and methods.
+
+JDBC database access as well as file system access is allowed from the service.","Categories
+HTTP Servers, Web Services, Application Servers"
+"Java application for creating graphs, with a simple and intuitive interface. Obtaining LaTeX code for designed graph is a single-click operation. Allows creating less and more complicated graphs for LaTeX documents without any knowledge about TikZ library.
+
+The program lets you design and edit vertices, edges and labels to your liking thanks to a wide range of variants adequate to TikZ library.
+
+GraTeX incorporates common editing mechanisms like saving/loading projects, undo-redo & copy-paste operations, and many other useful features.
+
+The application has been developed by two students of University of Science and Technology in Krakow, Poland.Java application for creating graphs, with a simple and intuitive interface. Obtaining LaTeX code for designed graph is a single-click operation. Allows creating less and more complicated graphs for LaTeX documents without any knowledge about TikZ library.
+
+The program lets you design and edit vertices, edges and labels to your liking thanks to a wide range of variants adequate to TikZ library.
+
+GraTeX incorporates common editing mechanisms like saving/loading projects, undo-redo & copy-paste operations, and many other useful features.
+
+The application has been developed by two students of University of Science and Technology in Krakow, Poland.","Categories
+TeX/LaTeX"
+"enc2ly is a small tool to dump musical information contained in an Encore binary file to a Lilypond text one. Encore is a popular music notation program from GVOX, which uses a proprietary data format.enc2ly is a small tool to dump musical information contained in an Encore binary file to a Lilypond text one. Encore is a popular music notation program from GVOX, which uses a proprietary data format.","Categories
+Data Formats"
+"Restful Web Service adapter for the NextBus prediction and transit network reporting service. This implementation uses XSD Schema, JAXB and a domain object model to decouple the consuming application from the over-the-wire representation of the data. NextBus is currently providing real-time bus data in several major metro transit agencies including, but not limited to MBTA (Boston), Toronto, Seattle, Brooklyn, Staten Island as well as a number of University towns. In additional to the standalone Adapter, an Enterprise Service Bus pump and demonstration subscription client are available for those interested in Asynchronous integration of the transit feed.Restful Web Service adapter for the NextBus prediction and transit network reporting service. This implementation uses XSD Schema, JAXB and a domain object model to decouple the consuming application from the over-the-wire representation of the data. NextBus is currently providing real-time bus data in several major metro transit agencies including, but not limited to MBTA (Boston), Toronto, Seattle, Brooklyn, Staten Island as well as a number of University towns. In additional to the standalone Adapter, an Enterprise Service Bus pump and demonstration subscription client are available for those interested in Asynchronous integration of the transit feed.","Categories
+XML, XML-RPC, Libraries"
+"Specialized tool for PostProcessors of books produced by Project Gutenberg Distributed Proofreaders.
+Parses the markup structure of a project file out of the formatting rounds; reports about the text structure found, and identifies markup errors.
+Planned future features: generation of normalized dp output by rejoining split paragraphs and moving around footnotes, renumbering of pages; conversion to basic LaTeX and basic HTML markup for further processing.Specialized tool for PostProcessors of books produced by Project Gutenberg Distributed Proofreaders.
+Parses the markup structure of a project file out of the formatting rounds; reports about the text structure found, and identifies markup errors.
+Planned future features: generation of normalized dp output by rejoining split paragraphs and moving around footnotes, renumbering of pages; conversion to basic LaTeX and basic HTML markup for further processing.","Categories
+HTML/XHTML, TeX/LaTeX"
+"This is my first Project originally named ""CoLiBro"". It is a C-HTTP and HTML Wrapper to process webdata automatically.
+
+Some examples are:
+- Receive website to check if it is up
+- Download your personal data from eg. Online-Banking, Bills, ...
+- Process data contained in websites eg. weather data
+- Receive mass of data, especially to crawl a website?
+- ...
+
+Examples and API Documentation plannedThis is my first Project originally named ""CoLiBro"". It is a C-HTTP and HTML Wrapper to process webdata automatically.
+
+Some examples are:
+- Receive website to check if it is up
+- Download your personal data from eg. Online-Banking, Bills, ...
+- Process data contained in websites eg. weather data
+- Receive mass of data, especially to crawl a website?
+- ...
+
+Examples and API Documentation planned","Categories
+Browsers, Dynamic Content, Web Services"
+"This Projects aims to create a server-client architecture to make annotation of web elements not only possible, but easy to use.
+
+The idea for this project has its roots within a practical software study for the module software Engeneering of the Unisversity of Leipzig, Germany.
+
+Under the given liscence we want for everyone interested in supporting or further development to do so.
+
+For usage and installation see our [Wiki].This Projects aims to create a server-client architecture to make annotation of web elements not only possible, but easy to use.
+
+The idea for this project has its roots within a practical software study for the module software Engeneering of the Unisversity of Leipzig, Germany.
+
+Under the given liscence we want for everyone interested in supporting or further development to do so.
+
+For usage and installation see our [Wiki].","Categories
+Communications, Semantic Web"
+"Porting of the SmartM3 Triple Space's KP on JavaScript.
+Due to limitations on JS connectivity a ""WebSocket to TCP"" relay has been developed in order to enable JavaScript KP to communicato with a SmartM3 SIB.
+Relay is based on jWebSocketServer.
+User manual currently only in italian :(Porting of the SmartM3 Triple Space's KP on JavaScript.
+Due to limitations on JS connectivity a ""WebSocket to TCP"" relay has been developed in order to enable JavaScript KP to communicato with a SmartM3 SIB.
+Relay is based on jWebSocketServer.
+User manual currently only in italian :(","Categories
+WWW/HTTP, Mobile, Semantic Web"
+"The Java OutlookExpress Reader is a package that allows the reading of .dbx files, the format used to store OutlookExpress emails and folders.
+The main reader class loads all the data from a given .dbx and parses it, allowing easy access to information through public variables and classes.
+
+This is an implementation of the work done by Arne Schloh (http://oedbx.aroh.de/).The Java OutlookExpress Reader is a package that allows the reading of .dbx files, the format used to store OutlookExpress emails and folders.
+The main reader class loads all the data from a given .dbx and parses it, allowing easy access to information through public variables and classes.
+
+This is an implementation of the work done by Arne Schloh (http://oedbx.aroh.de/).","Categories
+Data Formats, Libraries"
+This application allows you to quickly convert binary data to text and vice versa.This application allows you to quickly convert binary data to text and vice versa.,"Categories
+Data Formats"
+"osGraphX is a 3D file viewer. Based on openscenegraph, it can load all the OSG supported file formats.osGraphX is a 3D file viewer. Based on openscenegraph, it can load all the OSG supported file formats.","Categories
+Data Formats, 3D Rendering, Image Viewers"
+this tool tries to repair your broken pcap and pcapng files by fixing the global header respectively packet blocks and recovering the packets by searching und guessing the packet headers or blocksthis tool tries to repair your broken pcap and pcapng files by fixing the global header respectively packet blocks and recovering the packets by searching und guessing the packet headers or blocks,"Categories
+Data Formats, Log Analysis, Monitoring"
+"XML is intolerant of errors. This program will automatically salvage XML files by finding the first XML error, then truncating a configurable number of characters before the error and finally using the great xmllint to recover the xml file by automatically adding the correct end tags. The program starts with a default of 50 characters truncation.
+
+This truncation value may need to be changed if the truncation happens in the middle of a complex tag as xmllint may not know how to recover the file correctly. Additionally some extra text or data may be recoverable by changing the truncation amount to less than 50 characters.The extra truncation is needed in the first place because the XML validator used is not able to perfectly identify where the XML corruption begins and will often not flag the corruption for several characters after it begins.XML is intolerant of errors. This program will automatically salvage XML files by finding the first XML error, then truncating a configurable number of characters before the error and finally using the great xmllint to recover the xml file by automatically adding the correct end tags. The program starts with a default of 50 characters truncation.
+
+This truncation value may need to be changed if the truncation happens in the middle of a complex tag as xmllint may not know how to recover the file correctly. Additionally some extra text or data may be recoverable by changing the truncation amount to less than 50 characters.The extra truncation is needed in the first place because the XML validator used is not able to perfectly identify where the XML corruption begins and will often not flag the corruption for several characters after it begins.","Categories
+Text Processing, XML-RPC, Data Recovery"
+"InkPlot is an extension (plugin) for the SVG Editor Inkscape to insert graphs from Gnuplot.
+
+It allows you to
+- preview the graph
+- add it as SVG into Inkscape
+- edit already generated graphs
+- use a preamble file for reusable style and commands
+- customize default settings in a config fileInkPlot is an extension (plugin) for the SVG Editor Inkscape to insert graphs from Gnuplot.
+
+It allows you to
+- preview the graph
+- add it as SVG into Inkscape
+- edit already generated graphs
+- use a preamble file for reusable style and commands
+- customize default settings in a config file","Categories
+XML, Vector Graphics, Data Visualization"
+"Detects DataMatrix barcodes in images and decodes them. Currently in C#, usable from any .net language, Mono Planned. Licensed the GPL Simple usage, unlimited fiddling possible. See the Wiki (English) for our DocumentationDetects DataMatrix barcodes in images and decodes them. Currently in C#, usable from any .net language, Mono Planned. Licensed the GPL Simple usage, unlimited fiddling possible. See the Wiki (English) for our Documentation","Categories
+Data Formats, Digital Camera"
+A python script that uses wxwidgets. View or edit delimited data.A python script that uses wxwidgets. View or edit delimited data.,"Categories
+Text Processing, Data Formats, Database"
+"FIX Pusher is a tool for developers and administrators working with the Financial Information eXchange (""FIX"") protocol. The FIX protocol is an industry driven standard for the electronic communication of trade related messages, released and maintained by FIX Protocol, Ltd.
+
+FIX Pusher can send and receive FIX messages. It supports you simulating workflows with third party systems speaking the FIX protocol. The application acts as acceptor or initiator. FIX Pusher can interpret and modify QuickFIX conform, customized data dictionaries containing user defined fields. The tool supports FIX versions 4.0 - 5.0 SP2.
+
+The application ships with the option for exporting message details into Excel© sheets and graphical analysis of message logs. FIX Pusher is a 100% Java open source implementation running on Windows, Linux/Unix and Mac OS. It requires JRE version of 1.6 or higher for proper functioning.
+
+Related project: FIX Agora http://fixagora.sourceforge.netFIX Pusher is a tool for developers and administrators working with the Financial Information eXchange (""FIX"") protocol. The FIX protocol is an industry driven standard for the electronic communication of trade related messages, released and maintained by FIX Protocol, Ltd.
+
+FIX Pusher can send and receive FIX messages. It supports you simulating workflows with third party systems speaking the FIX protocol. The application acts as acceptor or initiator. FIX Pusher can interpret and modify QuickFIX conform, customized data dictionaries containing user defined fields. The tool supports FIX versions 4.0 - 5.0 SP2.
+
+The application ships with the option for exporting message details into Excel© sheets and graphical analysis of message logs. FIX Pusher is a 100% Java open source implementation running on Windows, Linux/Unix and Mac OS. It requires JRE version of 1.6 or higher for proper functioning.
+
+Related project: FIX Agora http://fixagora.sourceforge.net","Categories
+Data Formats, Financial, Investment Management"
+Raw JSON Library (RJL) is a high-performance JSON (RFC 4627 compliant) generator. It is designed for server-side intensive json generation and is released under the BSD license.Raw JSON Library (RJL) is a high-performance JSON (RFC 4627 compliant) generator. It is designed for server-side intensive json generation and is released under the BSD license.,"Categories
+JSON"
+Biblatex style to format bibliography according to Russian standard GOST 7.0.5-2008Biblatex style to format bibliography according to Russian standard GOST 7.0.5-2008,"Categories
+TeX/LaTeX, Education, Desktop Publishing"
+"SGML parser for Java, based on OpenSP.SGML parser for Java, based on OpenSP.","Categories
+SGML"
+"c++ library to read/write DXF files in binary and ascii form and to read DWG from r14 to v2015
+
+Continued at: https://github.com/LibreCAD/libdxfrwc++ library to read/write DXF files in binary and ascii form and to read DWG from r14 to v2015
+
+Continued at: https://github.com/LibreCAD/libdxfrw","Categories
+Scientific/Engineering, CAD, Libraries"
+"The libtld is used to extract the TLD from any URI from anywhere in the world. The library recognizes all TLDs, whatever the number of levels the TLD includes (i.e. .com has one, .au has up to 4 such as .schools.nsw.edu.au) this library will be capable of extracting it. The library is for C, C++, and PHP.The libtld is used to extract the TLD from any URI from anywhere in the world. The library recognizes all TLDs, whatever the number of levels the TLD includes (i.e. .com has one, .au has up to 4 such as .schools.nsw.edu.au) this library will be capable of extracting it. The library is for C, C++, and PHP.","Categories
+Data Formats, Internet, Libraries"
+A python based utility to export key value pair into a CSV file.A python based utility to export key value pair into a CSV file.,"Categories
+CSV"
+"Editor for Diablo III *.stl files, written in QTEditor for Diablo III *.stl files, written in QT","Categories
+Data Formats"
+This software allows for a user to generate test data. This is useful for testing Hadoop or other data processing clusters.This software allows for a user to generate test data. This is useful for testing Hadoop or other data processing clusters.,"Categories
+Other/Nonlisted Topic, Information Analysis, CSV"
+"RDBToOnto allows to automatically generate fine-tuned OWL ontologies from relational databases.
+
+A major feature of this full-fledged tool is the ability to produce structured ontologies with deeper hierarchies by exploiting both the database schema and the stored data.
+
+RDBToOnto can be exploited to produce RDF Linked Data.
+
+It can also be used to generate highly accurate RDB-to-RDF mapping rules (for D2RQ Server and Triplify).RDBToOnto allows to automatically generate fine-tuned OWL ontologies from relational databases.
+
+A major feature of this full-fledged tool is the ability to produce structured ontologies with deeper hierarchies by exploiting both the database schema and the stored data.
+
+RDBToOnto can be exploited to produce RDF Linked Data.
+
+It can also be used to generate highly accurate RDB-to-RDF mapping rules (for D2RQ Server and Triplify).","Categories
+Semantic Web"
+"Translate local OpenStreetMap files to shapefiles
+
+#Atencion: ver documentacion para ejecutar
+#Ultima version 101Translate local OpenStreetMap files to shapefiles
+
+#Atencion: ver documentacion para ejecutar
+#Ultima version 101","Categories
+Data Formats, Mapping"
+turquaz mavisi web templateturquaz mavisi web template,"Categories
+HTML/XHTML"
+Simple C API for working with bitmap (.bmp) files.Simple C API for working with bitmap (.bmp) files.,"Categories
+Data Formats, Raster Graphics"
+VNC for use with the BrowserMob Selenium JavaScript Validator. This tool is made available for users of BrowserMob FREE Website Monitoring and Load Testing. The BrowserMob Local Validation Service can be downloaded from https://browsermob.com/tools.VNC for use with the BrowserMob Selenium JavaScript Validator. This tool is made available for users of BrowserMob FREE Website Monitoring and Load Testing. The BrowserMob Local Validation Service can be downloaded from https://browsermob.com/tools.,"Categories
+HTML/XHTML, Browsers, Monitoring, Load Testing"
+"Azzet is a generic asset loading java library. Assets can be loaded from multiple sources (filesystem, classpath, http, database, ftp) and in any supported format . The barebone library contains the default sources and no formats. By Magnos Software.Azzet is a generic asset loading java library. Assets can be loaded from multiple sources (filesystem, classpath, http, database, ftp) and in any supported format . The barebone library contains the default sources and no formats. By Magnos Software.","Categories
+Data Formats, Front-Ends, Libraries"
+"Stand-alone Java library implementing parser/formatter/comparator/validator for JSON/XML-like text formats oriented on JSON-like object model (list,map,scalar + reflection). Library is designed to maximize adaptivity via set of extendable modules.Stand-alone Java library implementing parser/formatter/comparator/validator for JSON/XML-like text formats oriented on JSON-like object model (list,map,scalar + reflection). Library is designed to maximize adaptivity via set of extendable modules.","Categories
+XML, JSON, Libraries"
+"/!\ Developer(s) needed to optimize routines, multi-processing; any kind of help is accepted :)/!\ Developer(s) needed to optimize routines, multi-processing; any kind of help is accepted :)","Categories
+Data Formats, Cryptography, Exam"
+"This is an eclipse project for common java platform (API), to use in RTMP client development.This is an eclipse project for common java platform (API), to use in RTMP client development.","Categories
+Data Formats, Streaming, Web Conferencing"
+"Simple XML processing using C++14:
+-> header-only
+-> fully portable
+-> simple API
+-> powerful features
+-> high performance
+
+Overview: http://zenxml.sourceforge.netSimple XML processing using C++14:
+-> header-only
+-> fully portable
+-> simple API
+-> powerful features
+-> high performance
+
+Overview: http://zenxml.sourceforge.net","Categories
+XML, Software Development"
+Automatic publishing system for www. TeX interpreter with pure php and css. Output is %filename%.html and %filename%.css files.Automatic publishing system for www. TeX interpreter with pure php and css. Output is %filename%.html and %filename%.css files.,"Categories
+HTML/XHTML, Printing, Education"
+"LibNebular is C++ Linux library for uniform image file manipulation as String key-value pairs (with sometimes BLOB values) where different file types are intruduced through DL ("".so"") libraries. Includes BMP and JPEG plugins. Can easily be ported.LibNebular is C++ Linux library for uniform image file manipulation as String key-value pairs (with sometimes BLOB values) where different file types are intruduced through DL ("".so"") libraries. Includes BMP and JPEG plugins. Can easily be ported.","Categories
+Data Formats, Graphics"
+"Note: The project has moved to https://github.com/pyhys/minimalmodbus The files available here are very old, download from Github instead.
+
+MinimalModbus is an easy-to-use Python module for talking to instruments (slaves) from a computer (master) using the Modbus protocol, and is intended to be running on the master. Example code includes drivers for Eurotherm and Omega process controllers. The only dependence is the pySerial module (also pure Python).
+
+This software supports the ‘Modbus RTU’ and ‘Modbus ASCII’ serial communication versions of the protocol, and is intended for use on Linux, OS X and Windows platforms. It is open source, and has the Apache License, Version 2.0.Note: The project has moved to https://github.com/pyhys/minimalmodbus The files available here are very old, download from Github instead.
+
+MinimalModbus is an easy-to-use Python module for talking to instruments (slaves) from a computer (master) using the Modbus protocol, and is intended to be running on the master. Example code includes drivers for Eurotherm and Omega process controllers. The only dependence is the pySerial module (also pure Python).
+
+This software supports the ‘Modbus RTU’ and ‘Modbus ASCII’ serial communication versions of the protocol, and is intended for use on Linux, OS X and Windows platforms. It is open source, and has the Apache License, Version 2.0.","Categories
+Data Formats, Communications, Hardware Drivers"
+"RICcreator is an editor for the LEGO Mindstorms RIC image format and aims to bring out the formats advanced features for everybody. The goal is to support every feature apparent in John Hansen's enhanced firmware for Windows, Mac and Linux users.RICcreator is an editor for the LEGO Mindstorms RIC image format and aims to bring out the formats advanced features for everybody. The goal is to support every feature apparent in John Hansen's enhanced firmware for Windows, Mac and Linux users.","Categories
+Data Formats, Graphic Design"
+C++ library for working with OWL ontologiesC++ library for working with OWL ontologies,"Categories
+XML, Artificial Intelligence, Libraries"
+"Schema validation with simple dom php classes, that will check the xsd file before the xml based forms will accept any submit. The ajax wrapper should work with widgets to show any validation error to the form user.Schema validation with simple dom php classes, that will check the xsd file before the xml based forms will accept any submit. The ajax wrapper should work with widgets to show any validation error to the form user.","Categories
+XML, Object Oriented, Digital Preservation"
+"WAPI, or WOMBAT API, is a SOAP-based API built in the context of the WOMBAT FP7 project (http://www.wombat-project.eu) to facilitate the remote access and exploration of security-related datasets.WAPI, or WOMBAT API, is a SOAP-based API built in the context of the WOMBAT FP7 project (http://www.wombat-project.eu) to facilitate the remote access and exploration of security-related datasets.","Categories
+SOAP, Security"
+"This application converts the XML Polar file (from polarpersonaltrainer.com) to TCX Garmin file. All websites which register your trainers don't allow XML files from Polar. Tested with these models: RS300X, CS200This application converts the XML Polar file (from polarpersonaltrainer.com) to TCX Garmin file. All websites which register your trainers don't allow XML files from Polar. Tested with these models: RS300X, CS200","Categories
+XML, Sports Games"
+"Ever wanted to read your Google Reader RSS feeds on your Amazon Kindle while being offline and with a nice ebook formatting ? greader2kindle will retrieve your most recent unread news, and send them to your kindle as a proper mobipocket ebook.Ever wanted to read your Google Reader RSS feeds on your Amazon Kindle while being offline and with a nice ebook formatting ? greader2kindle will retrieve your most recent unread news, and send them to your kindle as a proper mobipocket ebook.","Categories
+DocBook, RSS Feed Readers, eBook Readers"
+Thymeleaf is a java web template engine designed for XML/XHTML/HTML5.Thymeleaf is a java web template engine designed for XML/XHTML/HTML5.,"Categories
+HTML/XHTML"
+This project has moved! Go to https://github.com/yenrab/qcdbsyncThis project has moved! Go to https://github.com/yenrab/qcdbsync,"Categories
+Database, WWW/HTTP, JSON"
+Python script converting Palm Keyring export file into KeePass 1.x XML import filePython script converting Palm Keyring export file into KeePass 1.x XML import file,"Categories
+XML, Mobile, File Sync"
+The Versioning Machine is a framework and an interface for displaying multiple versions of text encoded according to the Text Encoding Initiative (TEI) P5 Guidelines for critical apparatus.The Versioning Machine is a framework and an interface for displaying multiple versions of text encoded according to the Text Encoding Initiative (TEI) P5 Guidelines for critical apparatus.,"Categories
+TEI"
+"Substitutes the missing GPS information in Garmin TCX files when devices lacking a GPS receiver are used to collect training data (Garmin FR 60, heartrate and pedometer only). GpxTcxWelder integrates GPS info from a GPX v1.1 files into TCX filesSubstitutes the missing GPS information in Garmin TCX files when devices lacking a GPS receiver are used to collect training data (Garmin FR 60, heartrate and pedometer only). GpxTcxWelder integrates GPS info from a GPX v1.1 files into TCX files","Categories
+XML, GPS"
+"The YALTools is a set of command line tools written in ruby for CouchDB. It provides a unix like command set, mkdb, rmdb, lsdbs, lsdocs, putdocs, csv2json, and more. It aims to provide a power of filters and pipes in *NIX environment.The YALTools is a set of command line tools written in ruby for CouchDB. It provides a unix like command set, mkdb, rmdb, lsdbs, lsdocs, putdocs, csv2json, and more. It aims to provide a power of filters and pipes in *NIX environment.","Categories
+Front-Ends, JSON"
+A Program for converting .msg-files to .txt-files and extracting the attachmentsA Program for converting .msg-files to .txt-files and extracting the attachments,"Categories
+Data Formats, Email"
+SEG-Y files need special compression because they don't compress well using gzip and the like. The code is cross-platform C++ using nothing else than standard system libraries. This is a spin-off from the OpendTect project (http://opendtect.org).SEG-Y files need special compression because they don't compress well using gzip and the like. The code is cross-platform C++ using nothing else than standard system libraries. This is a spin-off from the OpendTect project (http://opendtect.org).,"Categories
+Data Formats, File Compression, Earth Sciences"
+"The Perl 3D-extension of MFPic LaTeX package aimed to high quality draw of spatial objects, such as vectors, curves, bounded surfaces.The Perl 3D-extension of MFPic LaTeX package aimed to high quality draw of spatial objects, such as vectors, curves, bounded surfaces.","Categories
+TeX/LaTeX, 3D Modeling, Mathematics"
+"A powerful Java Template Engine, great for building HTML or XML docs. Chunk can handle many other needs and situations as well. In-tag filters & default values, multiple snippets per file, layered themes, macros, conditional includes, localization & more.A powerful Java Template Engine, great for building HTML or XML docs. Chunk can handle many other needs and situations as well. In-tag filters & default values, multiple snippets per file, layered themes, macros, conditional includes, localization & more.","Categories
+HTML/XHTML, CGI Scripts, Admin Templates"
+Small tools to convert binary data format from spectrometers and oscilloscopes. Now the translators for * Starnford SR430 * LeCROY oscilloscope are included.Small tools to convert binary data format from spectrometers and oscilloscopes. Now the translators for * Starnford SR430 * LeCROY oscilloscope are included.,"Categories
+Data Formats, Test and Measurement"
+"ThreeTen provides a modern date and time library for Java and is the reference implementation for JSR-310. It includes many of the lessons of the Joda-Time project and aims to standardise date and time concepts in computing. Code now integrated into OpenJDK, this project is archived.ThreeTen provides a modern date and time library for Java and is the reference implementation for JSR-310. It includes many of the lessons of the Joda-Time project and aims to standardise date and time concepts in computing. Code now integrated into OpenJDK, this project is archived.","Categories
+Data Formats, Internationalization (I18N), Libraries"
+"extJWNL (Extended Java WordNet Library) is a Java API for creating, reading and updating dictionaries in WordNet format. extJWNL is an upgraded version of JWNL. The library features support for creating, editing and writing dictionaries; dictionary encodings, including UTF-8; Java generics; huge dictionaries; instance dictionaries and static singletone dictionary; Maven and more.extJWNL (Extended Java WordNet Library) is a Java API for creating, reading and updating dictionaries in WordNet format. extJWNL is an upgraded version of JWNL. The library features support for creating, editing and writing dictionaries; dictionary encodings, including UTF-8; Java generics; huge dictionaries; instance dictionaries and static singletone dictionary; Maven and more.","Categories
+Data Formats, Scientific/Engineering, Research"
+The goal of this package of classes is to generate XHTML code perfectly indented and without errors. It also allows to manipulate HTML templates. There's one PHP class by HTML tag and some classes contain facility methods to set the content.The goal of this package of classes is to generate XHTML code perfectly indented and without errors. It also allows to manipulate HTML templates. There's one PHP class by HTML tag and some classes contain facility methods to set the content.,"Categories
+HTML/XHTML, Dynamic Content"
+Tex to HTML translatorTex to HTML translator,"Categories
+HTML/XHTML, TeX/LaTeX, Desktop Publishing"
+"FigTeX manages images and their easy inclusion in LaTeX documents. Similar to BibTex, the image information is stored in an external file and is imported into the document as needed. It comes with a comfortable GUI for managing the image library.FigTeX manages images and their easy inclusion in LaTeX documents. Similar to BibTex, the image information is stored in an external file and is imported into the document as needed. It comes with a comfortable GUI for managing the image library.","Categories
+Text Processing, TeX/LaTeX, Photo Management"
+"Intermediate Vulnerability Information Language is is an XML schema for the exchange of vulnerability information from one tool handling vulnerability information to the other.
+
+This project has moved to GitHub: https://github.com/schubergphilis/ivilIntermediate Vulnerability Information Language is is an XML schema for the exchange of vulnerability information from one tool handling vulnerability information to the other.
+
+This project has moved to GitHub: https://github.com/schubergphilis/ivil","Categories
+XML, Security"
+"HTMLArea 4 is a browser based WYSIWYG editor that easily replaces the TEXTAREA in your web pages. It is written in JavaScript, and suitable for use in any modern web browser, and any page on your web site. Current version is 4.0-2016-08-29HTMLArea 4 is a browser based WYSIWYG editor that easily replaces the TEXTAREA in your web pages. It is written in JavaScript, and suitable for use in any modern web browser, and any page on your web site. Current version is 4.0-2016-08-29","Categories
+Text Editors, HTML/XHTML, Browsers"
+"Java library that implements the PESC College Transcript object and all dependent objects. It provides Marshalling and Unmarshalling from java objects to PESC XML files. To be used in an IDE such as eclipse for auto-completion of fields.
+
+The latest version (support for PESC CollegeTranscript 1.6) has been moved to github:
+https://github.com/jamhgit/pesc-transcript-jarJava library that implements the PESC College Transcript object and all dependent objects. It provides Marshalling and Unmarshalling from java objects to PESC XML files. To be used in an IDE such as eclipse for auto-completion of fields.
+
+The latest version (support for PESC CollegeTranscript 1.6) has been moved to github:
+https://github.com/jamhgit/pesc-transcript-jar","Categories
+Data Formats, School Management"
+Provides XML Data Binding for C++ through XML Schema. Features: a) xsd2cpp - generates C++ XML Objects(X/O mapping) b) XML I/O ie. marshalling-unmarshalling(serialization-deserialization) c) roundtrip retains processing instructions and commentsProvides XML Data Binding for C++ through XML Schema. Features: a) xsd2cpp - generates C++ XML Objects(X/O mapping) b) XML I/O ie. marshalling-unmarshalling(serialization-deserialization) c) roundtrip retains processing instructions and comments,"Categories
+XML, Agile Development Tools, Libraries"
+"A full-featured lightweight wrapper library of the native html canvas element written in Javascript, aimed to make visualization and animation using canvas simpler. Features animation support, layers, event capture, multitouch and many examples.A full-featured lightweight wrapper library of the native html canvas element written in Javascript, aimed to make visualization and animation using canvas simpler. Features animation support, layers, event capture, multitouch and many examples.","Categories
+HTML/XHTML, CGI Scripts, Libraries"
+"A GUI for creating and editing TAGxML files for TAGEngine games, written in python. See https://sourceforge.net/projects/tagengine/A GUI for creating and editing TAGxML files for TAGEngine games, written in python. See https://sourceforge.net/projects/tagengine/","Categories
+XML, Game Development Frameworks"
+This site was created with the aim of serving in learning a language. Especially we'll try to help listen it. It also comes with the goal of being free and collaborative. Therefore anyone who wants to participate is welcome.This site was created with the aim of serving in learning a language. Especially we'll try to help listen it. It also comes with the goal of being free and collaborative. Therefore anyone who wants to participate is welcome.,"Categories
+MP3, AJAX, Languages"
+"Report library + visual editor for Qt based applications.
+
+Project moved to https://sourceforge.net/projects/qsqlmon/Report library + visual editor for Qt based applications.
+
+Project moved to https://sourceforge.net/projects/qsqlmon/","Categories
+XML, Libraries, Report Generators"
+"fb2bin: A program to list binary attachment in FB2 files, extract them to files and replace these attachments by files.fb2bin: A program to list binary attachment in FB2 files, extract them to files and replace these attachments by files.","Categories
+XML, Library"
+chm reader for samsung wave mobiles. Bada Oschm reader for samsung wave mobiles. Bada Os,"Categories
+Data Formats"
+Run Maxima programs via the web in batch mode. Maxima is a Computer Algebra System written in Lisp.Run Maxima programs via the web in batch mode. Maxima is a Computer Algebra System written in Lisp.,"Categories
+Mathematics, Computer Aided Instruction (CAI), Web Services"
+"Develop: domain secure, and performing secure Domain Name System (DNS) dynamic updates. Domain Name System Security Extensions
+Servlet API Package
+The javax.servlet.http package contains a number of classes and interfaces that describe and define the contracts between a servlet class running under the HTTP protocol and the runtime environment provided for an instance of such a class by a conforming servlet container.Develop: domain secure, and performing secure Domain Name System (DNS) dynamic updates. Domain Name System Security Extensions
+Servlet API Package
+The javax.servlet.http package contains a number of classes and interfaces that describe and define the contracts between a servlet class running under the HTTP protocol and the runtime environment provided for an instance of such a class by a conforming servlet container.","Categories
+HTML/XHTML, CGI Scripts, Business Performance Management"
+"The Systems Biology Format Converter (SBFC) is a Java generic framework aiming to translate any systems biology model format into another.
+
+The SBFC Web Site providing detailed feature description and instructions for installing, using and developing new modules is: http://sbfc.sourceforge.net/ .
+
+Currently, SBFC allows the user to convert SBML models into the formats: BioPax, Matlab, Octave, XPP, DOT, and SBGN. Due to its modular design fast development and addition of new converters is highly facilitated.
+
+SBFC can be executed in two modes:
+1. standalone executable downloading the package provided in this website;
+2. web-service at http://www.ebi.ac.uk/biomodels/tools/converters .
+
+For general discussion about SBFC, please use the forum sbfc-forum@googlegroups.com .
+
+A mailing-list is also available for developers: sbfc-devel@googlegroups.com
+
+
+Thanks for using SBFC!
+
+The SBFC TeamThe Systems Biology Format Converter (SBFC) is a Java generic framework aiming to translate any systems biology model format into another.
+
+The SBFC Web Site providing detailed feature description and instructions for installing, using and developing new modules is: http://sbfc.sourceforge.net/ .
+
+Currently, SBFC allows the user to convert SBML models into the formats: BioPax, Matlab, Octave, XPP, DOT, and SBGN. Due to its modular design fast development and addition of new converters is highly facilitated.
+
+SBFC can be executed in two modes:
+1. standalone executable downloading the package provided in this website;
+2. web-service at http://www.ebi.ac.uk/biomodels/tools/converters .
+
+For general discussion about SBFC, please use the forum sbfc-forum@googlegroups.com .
+
+A mailing-list is also available for developers: sbfc-devel@googlegroups.com
+
+
+Thanks for using SBFC!
+
+The SBFC Team","Categories
+Data Formats, Simulation, Bio-Informatics"
+"PHP View-Controller framework similar to Adobe Flex framework. It is component based, event driven framework. Components can be defined in XML with possibility of inline PHP binding expressions or directly in PHP as PHP class.PHP View-Controller framework similar to Adobe Flex framework. It is component based, event driven framework. Components can be defined in XML with possibility of inline PHP binding expressions or directly in PHP as PHP class.","Categories
+HTML/XHTML, Dynamic Content, Software Development"
+The London Datastore (http://data.london.gov.uk) was created by the Greater London Authority (GLA) as an innovation towards freeing London’s data. This SourceForge Project will be used to Open Source our development efforts surrounding data formatsThe London Datastore (http://data.london.gov.uk) was created by the Greater London Authority (GLA) as an innovation towards freeing London’s data. This SourceForge Project will be used to Open Source our development efforts surrounding data formats,"Categories
+XML, CSV, Semantic Web"
+"Given an XSD schema and an XSA.xml configuration file, XML Skeleton Annotations (XSA) generates JSF forms UI to create XML records compliant to the XSD and following the XML skeleton defined in XSA.xml, still keeping everything under your control.Given an XSD schema and an XSA.xml configuration file, XML Skeleton Annotations (XSA) generates JSF forms UI to create XML records compliant to the XSD and following the XML skeleton defined in XSA.xml, still keeping everything under your control.","Categories
+XML, Code Generators, TEI"
+"Simple PHP class to check the validity of a VAT number from the European Union countries. Just include the class and call the function vat::check_vat($vat_number,$state_code). The state_code is the country 2 letter abbreviation (eg. GB, DE, AT etc.)Simple PHP class to check the validity of a VAT number from the European Union countries. Just include the class and call the function vat::check_vat($vat_number,$state_code). The state_code is the country 2 letter abbreviation (eg. GB, DE, AT etc.)","Categories
+User Interface (UI), QA Automation, Web Services"
+"The Universal Batch Converter is a project to take all the myriad file conversion programs, and provide a powerful but easy to use interface for all types of file conversion.The Universal Batch Converter is a project to take all the myriad file conversion programs, and provide a powerful but easy to use interface for all types of file conversion.","Categories
+Data Formats, Audio Conversion, Image Converters"
+A parser to read and write RoadXML files.A parser to read and write RoadXML files.,"Categories
+Data Formats"
+"SYMPLiK RANGEHOOD is a Javadoc-like tool for Oracle database. This pure-Java program ""sucks up"" data dictionary and object source code from database and generate document for Tables, Views, Triggers, Packages, Procedures, Functions, and others.SYMPLiK RANGEHOOD is a Javadoc-like tool for Oracle database. This pure-Java program ""sucks up"" data dictionary and object source code from database and generate document for Tables, Views, Triggers, Packages, Procedures, Functions, and others.","Categories
+HTML/XHTML, Front-Ends, Documentation"
+"off site: http://bote.to4tonado.com System Info: - Battle Of The Elements - a game based on open source, giving developers the right to download it in free mode and do their completion, thereby complicating the world.off site: http://bote.to4tonado.com System Info: - Battle Of The Elements - a game based on open source, giving developers the right to download it in free mode and do their completion, thereby complicating the world.","Categories
+Web Services, MMORPG"
+Very easy manipulation of XML with syntax like jQuery. One small file with lots of power. Highly extensible. Examples and Documentation are on the site. Great for a quick Data Import script.Very easy manipulation of XML with syntax like jQuery. One small file with lots of power. Highly extensible. Examples and Documentation are on the site. Great for a quick Data Import script.,"Categories
+XML, HTML/XHTML, Dynamic Content"
+The main objective of the EXIP project is to provide a C library for parsing and serialization of Efficient XML Interchange (EXI) Format streams. The focus is portability and efficiency for embedded systems development.The main objective of the EXIP project is to provide a C library for parsing and serialization of Efficient XML Interchange (EXI) Format streams. The focus is portability and efficiency for embedded systems development.,"Categories
+Data Formats"
+"An semantic editor for describing public administration services. Produces ontologies containing a workflow description in owl notation. Can be used for modelling processes in different fields, but was originally focused on semantically describing government services with their corresponding documents, fees and other information items.
+
+Launch the editor with Java Web Start at http://ri.tdf.lvAn semantic editor for describing public administration services. Produces ontologies containing a workflow description in owl notation. Can be used for modelling processes in different fields, but was originally focused on semantically describing government services with their corresponding documents, fees and other information items.
+
+Launch the editor with Java Web Start at http://ri.tdf.lv","Categories
+Semantic Web, Data Modeling"
+Wh32Edit is an army and savegame editor for the game Dark OmenWh32Edit is an army and savegame editor for the game Dark Omen,"Categories
+Data Formats, Hex Editors"
+"A PHP encapsulation of the AJAX sack library so that developers need only code in PHP to implement AJAX, Feedback will be good to improve this component set.
+Now supporting cross browser drag and drop events, no other library dependencies.A PHP encapsulation of the AJAX sack library so that developers need only code in PHP to implement AJAX, Feedback will be good to improve this component set.
+Now supporting cross browser drag and drop events, no other library dependencies.","Categories
+Dynamic Content, AJAX, Libraries"
+"This is a soap server to build converter server to convert files from any format to any format. A set of adapters classes, makes rbconverter highly modular and adaptable to use any applications for make conversions.This is a soap server to build converter server to convert files from any format to any format. A set of adapters classes, makes rbconverter highly modular and adaptable to use any applications for make conversions.","Categories
+Web Services, Knowledge Management"
+"A Transport Stream analyser for the Brazilian D-TV system (SBTVD / ISDB-Tb). It shows in a GUI the SI/PSI structure of the stream in a tree-view, bitrate statistics for each ES, specific Closed Caption, EPG and DSMCC carroussel decoding plus more.A Transport Stream analyser for the Brazilian D-TV system (SBTVD / ISDB-Tb). It shows in a GUI the SI/PSI structure of the stream in a tree-view, bitrate statistics for each ES, specific Closed Caption, EPG and DSMCC carroussel decoding plus more.","Categories
+Data Formats, Streaming, Video"
+An implementation of the VP8 image/video codec in pure Java.An implementation of the VP8 image/video codec in pure Java.,"Categories
+Data Formats, Image Converters, Codec"
+Mentat is a set of educational tools aimed to help teachers create courses - sets of tasks and students to learn with assistance of computer.Main feature is the ability to verify analytical response and assist student basing on his previous results.Mentat is a set of educational tools aimed to help teachers create courses - sets of tasks and students to learn with assistance of computer.Main feature is the ability to verify analytical response and assist student basing on his previous results.,"Categories
+XML, Computer Aided Instruction (CAI)"
+Converts TeX equations from a file using simple tags to images and replaces them by the corresponding <img> HTML tags in the output file.Converts TeX equations from a file using simple tags to images and replaces them by the corresponding <img> HTML tags in the output file.,"Categories
+HTML/XHTML, TeX/LaTeX"
+"Smart servers that can provide customized snippets of digital orthophotos using just-in-time geoprocessing and interoperable web-based components.
+
+These servers are based on the MITOthoServers who was under the GNU Public License (GPL).Smart servers that can provide customized snippets of digital orthophotos using just-in-time geoprocessing and interoperable web-based components.
+
+These servers are based on the MITOthoServers who was under the GNU Public License (GPL).","Categories
+Web Services, Mapping"
+jSOAP is designed for mobile devices which runs a J2ME platform. With jSOAP you can deal with a webservice using SOAP. jSOAP is very usefull when you don't now before the application starts how is structured the webservice. No need of WSDL !jSOAP is designed for mobile devices which runs a J2ME platform. With jSOAP you can deal with a webservice using SOAP. jSOAP is very usefull when you don't now before the application starts how is structured the webservice. No need of WSDL !,"Categories
+SOAP, Internet Phone, Mobile"
+"GenerateData is a general purpose data generation engine. No plug-ins, no APIs, just data generation made easy. From single files, to referentially sound databases, point, click, tweak and generate.GenerateData is a general purpose data generation engine. No plug-ins, no APIs, just data generation made easy. From single files, to referentially sound databases, point, click, tweak and generate.","Categories
+Data Formats, Data Warehousing, Database"
+"This software is an implementation of a Socknet Profile Provider, the kind of website that contains and maintains users' profiles on the Socknet. This is the code used at http://foolishmortal.org.This software is an implementation of a Socknet Profile Provider, the kind of website that contains and maintains users' profiles on the Socknet. This is the code used at http://foolishmortal.org.","Categories
+Web Services, Social Networking"
+"MieZ is a WYSIWYG-editor for TikZ documents.
+
+This project is now being developed on http://github.com/Antimon2000/MieZMieZ is a WYSIWYG-editor for TikZ documents.
+
+This project is now being developed on http://github.com/Antimon2000/MieZ","Categories
+TeX/LaTeX, Vector Graphics"

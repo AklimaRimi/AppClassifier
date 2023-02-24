@@ -1,0 +1,343 @@
+Description,Category
+"The ftp4j library implements a Java full-featured FTP client. With ftp4j embedded in your application you can: transfer files (upload and download), browse the FTP site (directory listing), create, delete, rename and move directories and files.The ftp4j library implements a Java full-featured FTP client. With ftp4j embedded in your application you can: transfer files (upload and download), browse the FTP site (directory listing), create, delete, rename and move directories and files.","Categories
+File Transfer Protocol (FTP), Object Oriented, Libraries, FTP Clients"
+"A high speed file transfer protocol using UDP and TCP for high speed long distance networks, much faster than new TCP congestion control algorithms. Based on Indiana University 2002 Tsunami source code. Contains real-time VSIB DAQ extensions. Further info on http://tsunami-udp.sourceforge.netA high speed file transfer protocol using UDP and TCP for high speed long distance networks, much faster than new TCP congestion control algorithms. Based on Indiana University 2002 Tsunami source code. Contains real-time VSIB DAQ extensions. Further info on http://tsunami-udp.sourceforge.net","Categories
+Streaming, Internet"
+"This project has moved to GitHub! https://github.com/flatpressblog/flatpress
+
+FlatPress is a new blog engine. Written from scratch, it features same plugin interface as WordPress and plain compatibility with SimplePHPBlog stored entries. Plus, a template based theming engine, and full conformance to web standards and usabilityThis project has moved to GitHub! https://github.com/flatpressblog/flatpress
+
+FlatPress is a new blog engine. Written from scratch, it features same plugin interface as WordPress and plain compatibility with SimplePHPBlog stored entries. Plus, a template based theming engine, and full conformance to web standards and usability","Categories
+Site Management"
+"httpfs depends on FUSE. It uses HTTP/1.1 extensions to read arbitrary bytes from a file on a web-server. This is particular interesting for an iso, since it can be investigated (loop device) without actually downloading the whole iso.httpfs depends on FUSE. It uses HTTP/1.1 extensions to read arbitrary bytes from a file on a web-server. This is particular interesting for an iso, since it can be investigated (loop device) without actually downloading the whole iso.","Categories
+WWW/HTTP, File Systems"
+An open source project originally designed to provide the University of Michigan with a secure single sign-on web authentication system. Cosign is part of the National Science Foundation Middleware Initiative (NMI) EDIT software release.An open source project originally designed to provide the University of Michigan with a secure single sign-on web authentication system. Cosign is part of the National Science Foundation Middleware Initiative (NMI) EDIT software release.,"Categories
+Security, WWW/HTTP, Systems Administration"
+"CSSBox is an (X)HTML/CSS rendering engine written in pure Java. Its primary purpose is to provide a complete information about the rendered page suitable for further processing. However, it also allows displaying the rendered document.CSSBox is an (X)HTML/CSS rendering engine written in pure Java. Its primary purpose is to provide a complete information about the rendered page suitable for further processing. However, it also allows displaying the rendered document.","Categories
+HTML/XHTML, Browsers, Libraries"
+"WebInject is a tool for automated testing of web applications and web services. It can be used to test system components with HTTP interfaces, as a test harness to create a suite of functional and regression tests, or for service-level monitoring.WebInject is a tool for automated testing of web applications and web services. It can be used to test system components with HTTP interfaces, as a test harness to create a suite of functional and regression tests, or for service-level monitoring.","Categories
+WWW/HTTP, QA Automation, Monitoring, Benchmark, Automated Testing"
+Moved to https://jwebunit.github.io/jwebunitMoved to https://jwebunit.github.io/jwebunit,"Categories
+WWW/HTTP, Software Testing, QA Automation"
+"SSL-Explorer is a fully-featured, web-based SSL VPN server. This project is no longer actively maintained as the SSL-Explorer technology has now been acquired by Barracuda Networks, Inc.SSL-Explorer is a fully-featured, web-based SSL VPN server. This project is no longer actively maintained as the SSL-Explorer technology has now been acquired by Barracuda Networks, Inc.","Categories
+Cryptography, Systems Administration, Networking, Internet, VPN"
+"myGifts manages xmas/birthday wish-lists, as well as gift registries for weddings or newborns. People can add gifts to their lists, decide who can(cannot) see them, claim gifts or add ideas to other lists, and much moremyGifts manages xmas/birthday wish-lists, as well as gift registries for weddings or newborns. People can add gifts to their lists, decide who can(cannot) see them, claim gifts or add ideas to other lists, and much more","Categories
+Other/Nonlisted Topic, Dynamic Content"
+Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.,"Categories
+Dynamic Content, Graphics, Data Visualization"
+"Gnaughty is an utility to automatically download adult sex content, i.e. porn movies and pictures, from a known internet porn directory (sublimedirectory.com). Providing a friendly interface, users who feel like having some porn can have it served fastlyGnaughty is an utility to automatically download adult sex content, i.e. porn movies and pictures, from a known internet porn directory (sublimedirectory.com). Providing a friendly interface, users who feel like having some porn can have it served fastly","Categories
+GNOME, WWW/HTTP"
+A fork of WASTE 1.5.0.408 beta 3 starting form 1.5.1.412 beta 3A fork of WASTE 1.5.0.408 beta 3 starting form 1.5.1.412 beta 3,"Categories
+Chat, Conferencing, File Sharing, Cryptography, Internet"
+"DBG is a full-featured PHP Debugger and Profiler. Makes it easier to find problems or bugs in PHP scripts. DBG supports back-tracking, watching variables, viewing arguments passed to all nested function calls at any point of execution. Opensource.DBG is a full-featured PHP Debugger and Profiler. Makes it easier to find problems or bugs in PHP scripts. DBG supports back-tracking, watching variables, viewing arguments passed to all nested function calls at any point of execution. Opensource.","Categories
+CGI Scripts, Debuggers"
+"aMule AdunanzA e' un progetto volto a rendere accessibile la rete Kademlia anche all'utenza Fastweb, grazie alla patch AdunanzA. Questo in specifico per utenti Linux e Mac OS X Per riferimenti alla community italiana http://forum.adunanza.netaMule AdunanzA e' un progetto volto a rendere accessibile la rete Kademlia anche all'utenza Fastweb, grazie alla patch AdunanzA. Questo in specifico per utenti Linux e Mac OS X Per riferimenti alla community italiana http://forum.adunanza.net","Categories
+File Sharing, Networking, Internet"
+"This project implements a Python API for the Yahoo Search Webservices API. pYsearch is an OO abstraction of the web services, with emphasis on ease of use and extensibility.This project implements a Python API for the Yahoo Search Webservices API. pYsearch is an OO abstraction of the web services, with emphasis on ease of use and extensibility.","Categories
+Search Engines"
+"Generating Excel 97+ files with Python 2.4+ (need decorators), importing Excel 95+ files, support for UNICODE in Excel files, using variety of formatting features and printing options, Excel files and OLE2 compound files dumper. No need in Windows/COMGenerating Excel 97+ files with Python 2.4+ (need decorators), importing Excel 95+ files, support for UNICODE in Excel files, using variety of formatting features and printing options, Excel files and OLE2 compound files dumper. No need in Windows/COM","Categories
+Spreadsheet, Database, CGI Scripts"
+"Gamers.IRC is a full MSL Script for mIRC, the most popular Windows IRC client. Gamers.IRC is for Windows 95 and higher.
+
+Source code: Download and run the installer. Open the .grc and .ini files with notepad.Gamers.IRC is a full MSL Script for mIRC, the most popular Windows IRC client. Gamers.IRC is for Windows 95 and higher.
+
+Source code: Download and run the installer. Open the .grc and .ini files with notepad.","Categories
+IRC Clients, Internet"
+"Zebedee is a simple program to establish an encrypted, compressed ""tunnel"" for TCP/IP or UDP data transfer between two systems.Zebedee is a simple program to establish an encrypted, compressed ""tunnel"" for TCP/IP or UDP data transfer between two systems.","Categories
+Security, Networking, Internet"
+"tinyhttpd is a relatively simple webserver I wrote for a school project. While exceedingly simple, tinyhttpd is threaded and handles basic CGI scripts! This is an educational tool to demonstrate the concepts behind http.tinyhttpd is a relatively simple webserver I wrote for a school project. While exceedingly simple, tinyhttpd is threaded and handles basic CGI scripts! This is an educational tool to demonstrate the concepts behind http.","Categories
+HTTP Servers"
+"netrik is an advanced text-mode WWW browser, focusing on a convenient user interface.netrik is an advanced text-mode WWW browser, focusing on a convenient user interface.","Categories
+Browsers"
+"Net Statistics is a network monitoring tool. Watch device status, parameters and statistics for incoming and outgoing traffic, and summary info. Traffic diagram shows last few minutes in real-time for easy monitoring of network activity.Net Statistics is a network monitoring tool. Watch device status, parameters and statistics for incoming and outgoing traffic, and summary info. Traffic diagram shows last few minutes in real-time for easy monitoring of network activity.","Categories
+Communications, Monitoring, Internet"
+"For further information regarding RTH visit our blog at http://requirementsandtestinghub.wordpress.com/. You can learn more about the history of RTH, the current status and our Demo (Live) system for testing of RTH.For further information regarding RTH visit our blog at http://requirementsandtestinghub.wordpress.com/. You can learn more about the history of RTH, the current status and our Demo (Live) system for testing of RTH.","Categories
+Software Testing, QA Automation, Internet"
+"A collection of Products for use with the Plone and/or Zope CMF Frameworks. Please note that most of the active projects in here have moved to http://svn.plone.org. If you want to look for available released products, please try http://plone.org/productsA collection of Products for use with the Plone and/or Zope CMF Frameworks. Please note that most of the active projects in here have moved to http://svn.plone.org. If you want to look for available released products, please try http://plone.org/products","Categories
+Dynamic Content"
+Cuyahoga is a flexible CMS / Portal solution written in C#. It runs on both Microsoft .NET and Mono and uses NHibernate for persistence Multiple databases are supported.Cuyahoga is a flexible CMS / Portal solution written in C#. It runs on both Microsoft .NET and Mono and uses NHibernate for persistence Multiple databases are supported.,"Categories
+Dynamic Content, Site Management"
+"xajax is an open source PHP and Javascript library that allows you to easily create powerful Ajax enabled web applications using PHP, HTML, CSS and Javascript. Update web page content asynchronously with simple Javascript calls to access your PHP codxajax is an open source PHP and Javascript library that allows you to easily create powerful Ajax enabled web applications using PHP, HTML, CSS and Javascript. Update web page content asynchronously with simple Javascript calls to access your PHP cod","Categories
+Dynamic Content, Frameworks"
+phpSQLiteCMS is on GitHub now: https://github.com/ilosuna/phpsqlitecmsphpSQLiteCMS is on GitHub now: https://github.com/ilosuna/phpsqlitecms,"Categories
+Site Management"
+"A small PHP application for manage content for small web sites. Not intended for a cooperative group of editors and rewiers: simply one editor can insert new contents, immediatly pubblished on web: ""one task, one click""A small PHP application for manage content for small web sites. Not intended for a cooperative group of editors and rewiers: simply one editor can insert new contents, immediatly pubblished on web: ""one task, one click""","Categories
+Dynamic Content"
+Proxyma is a multiple reverse-proxy library/webapplication with a cache subsystem and url-rewriting capabilities. The new core is based upon a flexible plugins subsystem easy to extend and customize. Recently this project was promoted to release 1.0.Proxyma is a multiple reverse-proxy library/webapplication with a cache subsystem and url-rewriting capabilities. The new core is based upon a flexible plugins subsystem easy to extend and customize. Recently this project was promoted to release 1.0.,"Categories
+WWW/HTTP, Networking"
+Seeks is a free and open technical design and application for enabling social websearch. Its specific purpose is to regroup users whose queries are similar so they can share both the query results and their experience on these results.Seeks is a free and open technical design and application for enabling social websearch. Its specific purpose is to regroup users whose queries are similar so they can share both the query results and their experience on these results.,"Categories
+Search Engines, Social Networking"
+This project is a java web spider (web crawler) with the ability to download (and resume) files. It is also highly customizable with regular expressions and download templates. All backend functionalities are also available in a separate library.This project is a java web spider (web crawler) with the ability to download (and resume) files. It is also highly customizable with regular expressions and download templates. All backend functionalities are also available in a separate library.,"Categories
+WWW/HTTP"
+"Geomajas is a web mapping GIS software with full vectorial editing capabilities, and support for custom attribute relation models in the browser. It has built-in support for any type of query, selection, filtering, snapping, printing, ...Geomajas is a web mapping GIS software with full vectorial editing capabilities, and support for custom attribute relation models in the browser. It has built-in support for any type of query, selection, filtering, snapping, printing, ...","Categories
+Dynamic Content, Frameworks, GIS"
+"Excel_Out is an Ada package for writing easily and dynamically Excel files with basic formatting. Enables the automatic production of reports. Standalone and unconditionally portable code. No interaction needed with Excel or MS Office.
+More information on: http://excel-writer.sf.netExcel_Out is an Ada package for writing easily and dynamically Excel files with basic formatting. Enables the automatic production of reports. Standalone and unconditionally portable code. No interaction needed with Excel or MS Office.
+More information on: http://excel-writer.sf.net","Categories
+Spreadsheet, Office Suites, Dynamic Content"
+"JVending is a content provisioning system that implements most of the J2EE Client Provisioning Specification (JSR-124). JVending provides catalog management and device detection. Project also includes WAP push, MMS client and a registry for devices.JVending is a content provisioning system that implements most of the J2EE Client Provisioning Specification (JSR-124). JVending provides catalog management and device detection. Project also includes WAP push, MMS client and a registry for devices.","Categories
+File Sharing, WAP, Frameworks, Multimedia"
+"AmphetaDesk is a cross-platform, highly customizable, news aggregator - it sits on your desktop, downloads the latest news that interests you, and displays them in a quick, easy to use and customizable webpage. No webserver required.AmphetaDesk is a cross-platform, highly customizable, news aggregator - it sits on your desktop, downloads the latest news that interests you, and displays them in a quick, easy to use and customizable webpage. No webserver required.","Categories
+Communications, Desktop Environment, Internet"
+"msdl(media stream downloader) is an open source multi-protocol downloader for various streaming protocols such as mmst (mms://) , mmsh , rtsp-real , rtsp-wms , http ,ftp.msdl(media stream downloader) is an open source multi-protocol downloader for various streaming protocols such as mmst (mms://) , mmsh , rtsp-real , rtsp-wms , http ,ftp.","Categories
+Internet"
+This project provides binary packages for the Ada front end of GNU compiler collection. The project also provides various Ada libraries like the Ada Web Server and Ada aware Integrated Development Environments (gps and vim).This project provides binary packages for the Ada front end of GNU compiler collection. The project also provides various Ada libraries like the Ada Web Server and Ada aware Integrated Development Environments (gps and vim).,"Categories
+Integrated Development Environments (IDE), HTTP Servers, Compilers"
+A free simple ADO.NET compliant MySQL driver. Made in C# but it would be used in all .NET compatible languages.A free simple ADO.NET compliant MySQL driver. Made in C# but it would be used in all .NET compatible languages.,"Categories
+Database Engines/Servers, WWW/HTTP, Software Development"
+"InspIRCd is no longer managed though SourceForge. For information and the latest version, please check out:
+
+http://www.inspircd.orgInspIRCd is no longer managed though SourceForge. For information and the latest version, please check out:
+
+http://www.inspircd.org","Categories
+IRC Clients, Internet"
+Poptop is an open source implementation of a PPTP server. Running under x86 or embedded Motorola ColdFire architectures Poptop provides full interoperability with the Microsoft PPTP VPN client.Poptop is an open source implementation of a PPTP server. Running under x86 or embedded Motorola ColdFire architectures Poptop provides full interoperability with the Microsoft PPTP VPN client.,"Categories
+Cryptography, Networking, VPN"
+"Open Auto Classifieds is a free, open source vehicle classifieds manager. Intended to be easy to install and easy to administer. OAC is Based on open technologies such as PHP, MySQL, XHTML, and CSS styling, making it easy to customize for your needs.Open Auto Classifieds is a free, open source vehicle classifieds manager. Intended to be easy to install and easy to administer. OAC is Based on open technologies such as PHP, MySQL, XHTML, and CSS styling, making it easy to customize for your needs.","Categories
+Other/Nonlisted Topic, Content Management Systems (CMS)"
+"The Web Community Wiki aims to create a base for informations, using mediawiki and the semantic mediawiki extension. The project works on templates for the wiki and on skins and extensions to enhance the useability of the Web Community Wiki.The Web Community Wiki aims to create a base for informations, using mediawiki and the semantic mediawiki extension. The project works on templates for the wiki and on skins and extensions to enhance the useability of the Web Community Wiki.","Categories
+Wiki, Social Networking"
+"Pligg CMS is a content management platform that powers tens of thousands of websites. It specializes in creating social publishing networks, where users submit and promote content similar to sites like Digg, Reddit, and Mixx.Pligg CMS is a content management platform that powers tens of thousands of websites. It specializes in creating social publishing networks, where users submit and promote content similar to sites like Digg, Reddit, and Mixx.","Categories
+Content Management Systems (CMS), Blogging, Social Networking"
+"PHP-Nuke is a simple, yet fully featured Content Management System to enable webmasters to quickly deploy a dynamic websites with minimal hassle.PHP-Nuke is a simple, yet fully featured Content Management System to enable webmasters to quickly deploy a dynamic websites with minimal hassle.","Categories
+Dynamic Content, Site Management"
+"ffmpeg-php is a PHP extension that adds functions for accessing and retrieving information from movies and audio files. ffmpeg-php provides access to the many audio and video formats supported by ffmpeg.
+
+NOTE: This project is no longer maintained and completely unloved. Check out (https://github.com/char0n/ffmpeg-php/tree/master/adapter) for a drop in replacement that's actively maintained and not hosted on this horrendous sourceforge site.ffmpeg-php is a PHP extension that adds functions for accessing and retrieving information from movies and audio files. ffmpeg-php provides access to the many audio and video formats supported by ffmpeg.
+
+NOTE: This project is no longer maintained and completely unloved. Check out (https://github.com/char0n/ffmpeg-php/tree/master/adapter) for a drop in replacement that's actively maintained and not hosted on this horrendous sourceforge site.","Categories
+Dynamic Content, Video"
+The XML Resume Library is an XML document type and set of XSL stylesheets for the web and print production as well as the metadata mangement and B2B exchange of resumes and curricula vitae.The XML Resume Library is an XML document type and set of XSL stylesheets for the web and print production as well as the metadata mangement and B2B exchange of resumes and curricula vitae.,"Categories
+Office/Business, Dynamic Content, Printing"
+"Template Lite is a very fast, small HTML template engine written in PHP. The engine supports most of the Smarty2 template engine functions and filters. This template engine is no longer a Smarty Replacement. But is still similar to Smarty.
+
+The new TemplateLite3 is currently in the works and has a new parser and compiler structure along with a modified syntax. The new TemplateLite is not 100% backward compatible for the templates but, the usage from php should be. Version 2 will still receive bug fixes until v3 is production stable and out performs v2.Template Lite is a very fast, small HTML template engine written in PHP. The engine supports most of the Smarty2 template engine functions and filters. This template engine is no longer a Smarty Replacement. But is still similar to Smarty.
+
+The new TemplateLite3 is currently in the works and has a new parser and compiler structure along with a modified syntax. The new TemplateLite is not 100% backward compatible for the templates but, the usage from php should be. Version 2 will still receive bug fixes until v3 is production stable and out performs v2.","Categories
+Dynamic Content, Networking"
+The ZSyncer project allows multiple Zopes to easily be manually synchronized by transferring data between them using xml-rpc. This can save a lot of time over the old export / transfer / import dance. See the home page for more information.The ZSyncer project allows multiple Zopes to easily be manually synchronized by transferring data between them using xml-rpc. This can save a lot of time over the old export / transfer / import dance. See the home page for more information.,"Categories
+Dynamic Content, Object Brokering, Clustering"
+"OFBiz, recently changed to The Apache Open For Business Project (or Apache OFBiz), is now managed through the Apache Software Foundation. Apache OFBiz has a full-featured enterprise app framework plus an extensive set of best practices applications.OFBiz, recently changed to The Apache Open For Business Project (or Apache OFBiz), is now managed through the Apache Software Foundation. Apache OFBiz has a full-featured enterprise app framework plus an extensive set of best practices applications.","Categories
+Office/Business, WWW/HTTP, Software Development"
+SHEF is a WYSIWYG HTML editor framework and embeddable component for Swing. It takes the pain out of using JEditorPane.SHEF is a WYSIWYG HTML editor framework and embeddable component for Swing. It takes the pain out of using JEditorPane.,"Categories
+Text Editors, Dynamic Content, Frameworks, User Interface (UI)"
+"AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website. It's made easy with advanced custom fields, a very simple but powerful template system and much more.AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website. It's made easy with advanced custom fields, a very simple but powerful template system and much more.","Categories
+Site Management, Content Management Systems (CMS)"
+"WideImage is an object-oriented PHP image library, written in PHP5. It uses GD2 and promotes ease of use and extensibility. It supports all common image transformations, such as resize, watermark, crop, draw text, ...WideImage is an object-oriented PHP image library, written in PHP5. It uses GD2 and promotes ease of use and extensibility. It supports all common image transformations, such as resize, watermark, crop, draw text, ...","Categories
+CGI Scripts, Object Oriented, Graphics"
+"This project has moved to GitHub and is in maintenance mode.
+Visit https://github.com/pivotx/
+
+PivotX is a tool to create weblogs, without the need of a database. PivotX is easy to setup, easy to maintain and even easier to work with.This project has moved to GitHub and is in maintenance mode.
+Visit https://github.com/pivotx/
+
+PivotX is a tool to create weblogs, without the need of a database. PivotX is easy to setup, easy to maintain and even easier to work with.","Categories
+Site Management"
+"System tray icon, can open multiple VPN connections and display log information.System tray icon, can open multiple VPN connections and display log information.","Categories
+Internet, VPN"
+"MaxMind GeoIP is a set of APIs for looking up the location of an IP address, including the country, region, city, latitude, and longitude. Free GeoLite databases are available at http://www.maxmind.com/app/geolitecityMaxMind GeoIP is a set of APIs for looking up the location of an IP address, including the country, region, city, latitude, and longitude. Free GeoLite databases are available at http://www.maxmind.com/app/geolitecity","Categories
+Networking, Internet"
+"ASTRES is used in a helpdesk of the french civil aviation and allow to manage customer tickets (with workflow and level tree-view), internal actions between actors, diffused/received documents, sent/received material, planning, stats, reporting, news.ASTRES is used in a helpdesk of the french civil aviation and allow to manage customer tickets (with workflow and level tree-view), internal actions between actors, diffused/received documents, sent/received material, planning, stats, reporting, news.","Categories
+Enterprise, Help Desk"
+"Open Source Network traffic monitoring software. You can choose your network adapter and can see what happens, how much bandwidth used by your system. Free and easy to use and it need only a small resources of your system.Open Source Network traffic monitoring software. You can choose your network adapter and can see what happens, how much bandwidth used by your system. Free and easy to use and it need only a small resources of your system.","Categories
+Monitoring, Internet"
+"OpenNHRP implements NBMA Next Hop Resolution Protocol (as defined in RFC 2332). It makes it possible to create dynamic multipoint VPN Linux router using NHRP, GRE and IPsec. It aims to be Cisco DMVPN compatible.OpenNHRP implements NBMA Next Hop Resolution Protocol (as defined in RFC 2332). It makes it possible to create dynamic multipoint VPN Linux router using NHRP, GRE and IPsec. It aims to be Cisco DMVPN compatible.","Categories
+Networking, Internet"
+"RankQuest Free SEO Tools aims to help Webmasters in Search Engine Optimization.Keyword Finder lists the keywords in the meta keyword tag of a site.Meta Tag Analyzer examines the meta information of a site,to check if the content is Search Engine friendlyRankQuest Free SEO Tools aims to help Webmasters in Search Engine Optimization.Keyword Finder lists the keywords in the meta keyword tag of a site.Meta Tag Analyzer examines the meta information of a site,to check if the content is Search Engine friendly","Categories
+Site Management"
+Plugin for Mozilla that uses mplayer to play embedded mediaPlugin for Mozilla that uses mplayer to play embedded media,"Categories
+Browsers, Image Viewers, Video"
+"!! PJL Compressing Filter is renamed to ziplet and hosted on github now!!
+See here: https://github.com/ziplet/ziplet
+
+A J2EE servlet filter which compresses data written to the response. It supports several algorithms (gzip, deflate, etc.) and emphasizes minimal memory usage and high throughput. Also provides detailed performance stats.
+
+Feel free to fork pjl-comp-filter on Github: https://github.com/ziplet/ziplet!! PJL Compressing Filter is renamed to ziplet and hosted on github now!!
+See here: https://github.com/ziplet/ziplet
+
+A J2EE servlet filter which compresses data written to the response. It supports several algorithms (gzip, deflate, etc.) and emphasizes minimal memory usage and high throughput. Also provides detailed performance stats.
+
+Feel free to fork pjl-comp-filter on Github: https://github.com/ziplet/ziplet","Categories
+Dynamic Content, Site Management, HTTP Servers"
+"phpmyfamily is a dynamic genealogy website builder allowing geographically dispersed family members to co-ordinate and share research. Users can import and export GEDCOM files, upload images and document transcripts and monitor changes to individuals.phpmyfamily is a dynamic genealogy website builder allowing geographically dispersed family members to co-ordinate and share research. Users can import and export GEDCOM files, upload images and document transcripts and monitor changes to individuals.","Categories
+Dynamic Content, Genealogy"
+"Ganesha is a Learning Management System (LMS) software. It manages the learning process for the trainees and the trainers and handles course administration. Collaboratives tools are also available. AICC, SCORM 1.2, SCORM 2004 compliant.Ganesha is a Learning Management System (LMS) software. It manages the learning process for the trainees and the trainers and handles course administration. Collaboratives tools are also available. AICC, SCORM 1.2, SCORM 2004 compliant.","Categories
+Dynamic Content, Education, Human Resources, Learning Management Systems (LMS)"
+BytesFall Explorer (bfExplorer for short) is a web-based file manager written in PHP and JavaScript and licensed under the GNU GPL.BytesFall Explorer (bfExplorer for short) is a web-based file manager written in PHP and JavaScript and licensed under the GNU GPL.,"Categories
+File Sharing, Dynamic Content, Site Management"
+"PyLoris is a scriptable tool for testing a server's vulnerability to connection exhaustion denial of service (DoS) attacks. PyLoris can utilize SOCKS proxies and SSL connections, and can target protocols such as HTTP, FTP, SMTP, IMAP, and Telnet.PyLoris is a scriptable tool for testing a server's vulnerability to connection exhaustion denial of service (DoS) attacks. PyLoris can utilize SOCKS proxies and SSL connections, and can target protocols such as HTTP, FTP, SMTP, IMAP, and Telnet.","Categories
+Security, HTTP Servers, Performance Testing"
+The Amazon Products Feed script was created to provide a current listing of products on your site using Amazon's XML Web Services to provide links for your visitors to purchase these items on Amazon.com using your affiliate code in the URL.The Amazon Products Feed script was created to provide a current listing of products on your site using Amazon's XML Web Services to provide links for your visitors to purchase these items on Amazon.com using your affiliate code in the URL.,"Categories
+Dynamic Content"
+"Gregarius is a Web-based RSS/RDF/ATOM news aggregator featuring OPML import/export, XHTML/CSS output and an AJAX-based item tagging systemGregarius is a Web-based RSS/RDF/ATOM news aggregator featuring OPML import/export, XHTML/CSS output and an AJAX-based item tagging system","Categories
+Dynamic Content"
+"Hypermail is a program that takes a file of mail messages in UNIX mailbox format and generates a set of cross-referenced HTML documents.
+
+Development of hypermail continues now at github: https://github.com/hypermail-project/hypermailHypermail is a program that takes a file of mail messages in UNIX mailbox format and generates a set of cross-referenced HTML documents.
+
+Development of hypermail continues now at github: https://github.com/hypermail-project/hypermail","Categories
+Email, Search Engines"
+"A free and portable Common Lisp Webserver.
+
+Portable AllegroServe is a variant of AllegroServe(tm) with an explicit emphasis on portability between Lispsystems and Operating Systems. You can find the original AllegroServe at https://github.com/franzinc/aserve
+
+The best way to install Portable AllegroServe is through Quicklisp (http://quicklisp.org/). (The best way to install any Lisp library is through Quicklisp.)A free and portable Common Lisp Webserver.
+
+Portable AllegroServe is a variant of AllegroServe(tm) with an explicit emphasis on portability between Lispsystems and Operating Systems. You can find the original AllegroServe at https://github.com/franzinc/aserve
+
+The best way to install Portable AllegroServe is through Quicklisp (http://quicklisp.org/). (The best way to install any Lisp library is through Quicklisp.)","Categories
+HTTP Servers"
+"A progress indicator for web based file uploads with PHP, perl and JSP. Originally the project was a solution to the lack of a progress monitor for PHP file upload. Since then
+it has expanded to include upload monitors for perl and JSP.A progress indicator for web based file uploads with PHP, perl and JSP. Originally the project was a solution to the lack of a progress monitor for PHP file upload. Since then
+it has expanded to include upload monitors for perl and JSP.","Categories
+File Sharing, Site Management"
+"phpxmlclasses is a project grouping a set of classes for XML processing using PHP, classes will be added frequently to cover new features or to provide abstraction layers to existing features. Developers wanting to contribute classes/code are welcome.phpxmlclasses is a project grouping a set of classes for XML processing using PHP, classes will be added frequently to cover new features or to provide abstraction layers to existing features. Developers wanting to contribute classes/code are welcome.","Categories
+CGI Scripts"
+FreeRealty is an easy to use set of scripts for hosting a real estate web site that uses PHP and MySQL.FreeRealty is an easy to use set of scripts for hosting a real estate web site that uses PHP and MySQL.,"Categories
+Front-Ends, Dynamic Content"
+"IMPORTANT NOTE: This project has moved to Github: https://github.com/pkozelka/libxml2-pas
+
+Pascal units accessing the popular XML API from Daniel Veillard ( http://www.xmlsoft.org ). This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).IMPORTANT NOTE: This project has moved to Github: https://github.com/pkozelka/libxml2-pas
+
+Pascal units accessing the popular XML API from Daniel Veillard ( http://www.xmlsoft.org ). This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).","Categories
+Text Processing, XML, Dynamic Content, System"
+Olate Download (OD) allows you to add a downloads area to your website and control every aspect of it through an admin control panel.Olate Download (OD) allows you to add a downloads area to your website and control every aspect of it through an admin control panel.,"Categories
+File Sharing, Site Management, File Managers"
+"A two floppies Linux distribution with a graphical web browser (links with SVGALIB), a text mode IRC client (rhapsody), configuration scripts with ""dialog"" front-ends, almost all of the Ethernet drivers from the latest 2.6.x kernel, PPP, ssh and more.A two floppies Linux distribution with a graphical web browser (links with SVGALIB), a text mode IRC client (rhapsody), configuration scripts with ""dialog"" front-ends, almost all of the Ethernet drivers from the latest 2.6.x kernel, PPP, ssh and more.","Categories
+Chat, Browsers"
+Scripts and tools to manage your Server.Scripts and tools to manage your Server.,"Categories
+Log Analysis, Systems Administration, Installation/Setup"
+">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+pack:tag is now available at github: https://github.com/galan/packtag
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+pack:tag is now available at github: https://github.com/galan/packtag
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>","Categories
+Browsers, Algorithms"
+"Taverna is *no longer* hosted on SourceForge, but has moved to the Apache Software Foundation: https://taverna.apache.org
+
+These pages and mailing list archives are provided for *archival purposes* for older Taverna 1.x releases.
+
+See https://taverna.apache.org/download/ for the latest releases from Apache Taverna.Taverna is *no longer* hosted on SourceForge, but has moved to the Apache Software Foundation: https://taverna.apache.org
+
+These pages and mailing list archives are provided for *archival purposes* for older Taverna 1.x releases.
+
+See https://taverna.apache.org/download/ for the latest releases from Apache Taverna.","Categories
+Dynamic Content, Interface Engine/Protocol Translator, Bio-Informatics, Medical"
+A web cache written in PHP that implements the Gnutella Web Cache 1 and 2 Specifications. Beacon Cache can be configured extensively much more than other caches. Beacon Cache can be configured to work with any network now too!A web cache written in PHP that implements the Gnutella Web Cache 1 and 2 Specifications. Beacon Cache can be configured extensively much more than other caches. Beacon Cache can be configured to work with any network now too!,"Categories
+Gnutella, Database, WWW/HTTP"
+"ehcp for Ubuntu is a hosting control panel, for multiple domains on single machine. easily installable,easy usage, non-complex,functional. homepage:http://www.ehcp.net * automatically installs and works: dns, apache, mysql, ftp, email, domains,auto updatehcp for Ubuntu is a hosting control panel, for multiple domains on single machine. easily installable,easy usage, non-complex,functional. homepage:http://www.ehcp.net * automatically installs and works: dns, apache, mysql, ftp, email, domains,auto updat","Categories
+Site Management, HTTP Servers, Algorithms"
+"1. INTRODUCTION
+---------------------------------------------
+JdonFramework is a java framework to build your Domain Driven Design + CQRS + EventSource applications with asynchronous concurrency and higher throughput.
+
+
+
+2. GETTING STARTED
+------------------
+In the ""example"" directory there are several examples for web application.
+
+You can run runTest.bat in this directory to see how to play JdonFramework in Application.
+
+In the ""doc"" directory there are all documents about how to use.
+
+Source Project : https://github.com/banq/jdonframework1. INTRODUCTION
+---------------------------------------------
+JdonFramework is a java framework to build your Domain Driven Design + CQRS + EventSource applications with asynchronous concurrency and higher throughput.
+
+
+
+2. GETTING STARTED
+------------------
+In the ""example"" directory there are several examples for web application.
+
+You can run runTest.bat in this directory to see how to play JdonFramework in Application.
+
+In the ""doc"" directory there are all documents about how to use.
+
+Source Project : https://github.com/banq/jdonframework","Categories
+WWW/HTTP, Frameworks, Agile Development Tools"
+"Wysgui is a CMS which is completely customizable. It uses various other Open Source systems to operate smoothly. Icons, right-click functions, and inner windows are some functions that give the users a friendly, WYSIWYG graphical environment- WysGui.Wysgui is a CMS which is completely customizable. It uses various other Open Source systems to operate smoothly. Icons, right-click functions, and inner windows are some functions that give the users a friendly, WYSIWYG graphical environment- WysGui.","Categories
+Content Management Systems (CMS), Blogging"
+"HAVP (HTTP Anti Virus Proxy) is a proxy which scans downloads for viruses with several scanners (e.g. ClamAV, F-Prot, Kaspersky, NOD32, Sophos) at the same time. The main aims are continuous, non-blocking downloads and smooth scanning of dynamic andHAVP (HTTP Anti Virus Proxy) is a proxy which scans downloads for viruses with several scanners (e.g. ClamAV, F-Prot, Kaspersky, NOD32, Sophos) at the same time. The main aims are continuous, non-blocking downloads and smooth scanning of dynamic and","Categories
+WWW/HTTP"
+"YADE (former SOSFTP) is a batch file transfer solution for FTP, FTPS, SFTP, WebDAV and other protocols. It provides a configurable command line client, an API and a bridge to the SOS JobScheduler.
+
+YADE comes with advanced error handling and logging capabilities. YADE is able to create and maintain a transfer history in a central database.
+
+Product Knowledge Base at https://kb.sos-berlin.com
+Change Management System at https://change.sos-berlin.comYADE (former SOSFTP) is a batch file transfer solution for FTP, FTPS, SFTP, WebDAV and other protocols. It provides a configurable command line client, an API and a bridge to the SOS JobScheduler.
+
+YADE comes with advanced error handling and logging capabilities. YADE is able to create and maintain a transfer history in a central database.
+
+Product Knowledge Base at https://kb.sos-berlin.com
+Change Management System at https://change.sos-berlin.com","Categories
+File Transfer Protocol (FTP), Other file transfer protocol, SSH"
+"Multi-connection command line tool to download Internet sites. Similar to wget and cURL, but it manages up to 50 parallel links. Main features are: recursive fetching, Metalink retrieving, segmented download and image filtering by width and height.Multi-connection command line tool to download Internet sites. Similar to wget and cURL, but it manages up to 50 parallel links. Main features are: recursive fetching, Metalink retrieving, segmented download and image filtering by width and height.","Categories
+HTML/XHTML, File Transfer Protocol (FTP), WWW/HTTP"
+TurnServer is a implementation of Traversal Using Relay around NAT (TURN) protocol. This protocol allows a client to obtain IP addresses and ports from such a relay.TurnServer is a implementation of Traversal Using Relay around NAT (TURN) protocol. This protocol allows a client to obtain IP addresses and ports from such a relay.,"Categories
+Networking, Internet, VoIP"
+"Sasa is a set of extensions to the .NET framework for networking, generic operator handling, LINQ expression processing, parsing, and more.Sasa is a set of extensions to the .NET framework for networking, generic operator handling, LINQ expression processing, parsing, and more.","Categories
+Email, WWW/HTTP, Frameworks"
+"Resx Editor is a small translation-oriented file editor for Microsoft RESX 2.0
+files. Resx Editor is designed for professional translators (include a word count feature).Resx Editor is a small translation-oriented file editor for Microsoft RESX 2.0
+files. Resx Editor is designed for professional translators (include a word count feature).","Categories
+XML, Site Management, Documentation, Localization (L10N), Internationalization (I18N)"
+"XODA is a KISSed (Keep Simple and Stupid) System for Organizing Documents using AJAX. This is a Document Management System without backend database, though making possible organizing files/directories by descriptions, filters and more.
+Visit xoda.orgXODA is a KISSed (Keep Simple and Stupid) System for Organizing Documents using AJAX. This is a Document Management System without backend database, though making possible organizing files/directories by descriptions, filters and more.
+Visit xoda.org","Categories
+Dynamic Content, Search Engines, Site Management, Document Management"
+"Nooku Framework is a rapid extension development platform for Joomla and PHP 5.2. It aims to speed up the creation and maintenance of Joomla extensions, to eliminate repetitive coding, and add power, flexibility and fun. Click 'Develop' for SVN accNooku Framework is a rapid extension development platform for Joomla and PHP 5.2. It aims to speed up the creation and maintenance of Joomla extensions, to eliminate repetitive coding, and add power, flexibility and fun. Click 'Develop' for SVN acc","Categories
+Frameworks, Content Management Systems (CMS), Agile Development Tools"
+"This is a patch for WampServer application (Windows Apache Mysql PHP) which adds functionnalities to Wamp menu. It can be extended by components, and a component generator is included. Interface is a local website but patch can be used in cli mode.This is a patch for WampServer application (Windows Apache Mysql PHP) which adds functionnalities to Wamp menu. It can be extended by components, and a component generator is included. Interface is a local website but patch can be used in cli mode.","Categories
+HTTP Servers"
+Uber-Uploader is a web based file upload mechanism that uses AJAX to display a progress bar.Uber-Uploader is a web based file upload mechanism that uses AJAX to display a progress bar.,"Categories
+Dynamic Content, Site Management, Other file transfer protocol"
+"XMLArsenal is a free, open-source, extensible Armory for ""World of Warcraft""-emulators like Mangos, Trinity, Ascent and Hearthstone/Aspire. Data is aquired via DataGrabber plugins and outputtet as Blizzard-Arsenal-compatible XML.XMLArsenal is a free, open-source, extensible Armory for ""World of Warcraft""-emulators like Mangos, Trinity, Ascent and Hearthstone/Aspire. Data is aquired via DataGrabber plugins and outputtet as Blizzard-Arsenal-compatible XML.","Categories
+Dynamic Content, MMORPG"
+"-== Support SVL Reborn ==--
+
+Update v.4.5.1
+#Fix : DNS2SOCKS & Tun2Socks
+#add feature : Host to IP
+
+Update v.4.5
+#OpenVPN Launcher
+Adopt from SVL-VPN.
+Request from many users. Thank you for the advice.
+#DNS2SOCKS
+#Fix Issue
+OpenVPN TAP now can also be used at SVL Tun2Socks-== Support SVL Reborn ==--
+
+Update v.4.5.1
+#Fix : DNS2SOCKS & Tun2Socks
+#add feature : Host to IP
+
+Update v.4.5
+#OpenVPN Launcher
+Adopt from SVL-VPN.
+Request from many users. Thank you for the advice.
+#DNS2SOCKS
+#Fix Issue
+OpenVPN TAP now can also be used at SVL Tun2Socks","Categories
+SSH"
+"Coffee will keep your computer wide awake while your downloads or network transfers complete. Coffee prevents standby when your traffic speed on a selected network adapter is above the user configurable threshold.
+
+
+
+[Licence is GPLv3] as at bitcoin block (0000000000000000001b34dafd32802dd18c0303c73b2af6b1969be7c9bbccbe)Coffee will keep your computer wide awake while your downloads or network transfers complete. Coffee prevents standby when your traffic speed on a selected network adapter is above the user configurable threshold.
+
+
+
+[Licence is GPLv3] as at bitcoin block (0000000000000000001b34dafd32802dd18c0303c73b2af6b1969be7c9bbccbe)","Categories
+Battery Monitoring, Monitoring, Internet"
+"vpnautoconnect is a daemon that allow you to reconnect automatically (at startup too) a vpn create with network manager.It can reconnect very quickly and monitor the bandwith, It works with pptp and openvpn connection.vpnautoconnect is a daemon that allow you to reconnect automatically (at startup too) a vpn create with network manager.It can reconnect very quickly and monitor the bandwith, It works with pptp and openvpn connection.","Categories
+Networking, VPN"
+"<HTML> Editor is a free open source HTML editor from Sheva Software Inc the HTML Editor includes syntax highlighting and a unique feature of a live previewing of current HTML document, check it out, and please wright a review if possible.<HTML> Editor is a free open source HTML editor from Sheva Software Inc the HTML Editor includes syntax highlighting and a unique feature of a live previewing of current HTML document, check it out, and please wright a review if possible.","Categories
+Integrated Development Environments (IDE), Site Management, Compilers"
+"jPodder is the leading podcasting client. It's support advanced features like enclosure previewing, multiple downloading and many more user friendly functions.jPodder is the leading podcasting client. It's support advanced features like enclosure previewing, multiple downloading and many more user friendly functions.","Categories
+File Sharing, WWW/HTTP, Sound/Audio"
+"Pyjamas is a python to Javascript compiler, Widget set, Framework and Toolkit for Application development that runs on Web browsers. The developer need not know anything about AJAX: all the AJAX tricks, for all major browsers, are entirely taken care of.Pyjamas is a python to Javascript compiler, Widget set, Framework and Toolkit for Application development that runs on Web browsers. The developer need not know anything about AJAX: all the AJAX tricks, for all major browsers, are entirely taken care of.","Categories
+Dynamic Content, Compilers, User Interface (UI)"
+"Apache httpd tools is a collection of administration and security scripts originally developed for the book Apache Security (O'Reilly). Included are tools for Apache httpd monitoring, statistics, log analysis, DoS detection and defense.Apache httpd tools is a collection of administration and security scripts originally developed for the book Apache Security (O'Reilly). Included are tools for Apache httpd monitoring, statistics, log analysis, DoS detection and defense.","Categories
+HTTP Servers"

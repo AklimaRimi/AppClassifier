@@ -1,0 +1,263 @@
+Description,Category
+"PocketPuTTY is a Pocket PC port of famous PuTTY (SSH client). Smartphone support is also planned.
+
+The long-term goal is to get PocketPuTTY included into official PuTTY development tree.PocketPuTTY is a Pocket PC port of famous PuTTY (SSH client). Smartphone support is also planned.
+
+The long-term goal is to get PocketPuTTY included into official PuTTY development tree.","Categories
+Terminal Emulators, Telnet, Communications, Security"
+*** PLEASE NOTE: THIS PROJECT HAS NOW MOVED TO THE MAIN SSHTOOLS PROJECT PAGE. PLEASE CLICK 'HOME PAGE' TO BE REDIRECTED ****** PLEASE NOTE: THIS PROJECT HAS NOW MOVED TO THE MAIN SSHTOOLS PROJECT PAGE. PLEASE CLICK 'HOME PAGE' TO BE REDIRECTED ***,"Categories
+Terminals, Communications, Cryptography, Internet"
+Pvnc is a portable VNC package. It can be built with extensions (e.g. open GL). It is tested with FC-6 and FC-8 and should work with other Linux distributions such as Ubuntu.Pvnc is a portable VNC package. It can be built with extensions (e.g. open GL). It is tested with FC-6 and FC-8 and should work with other Linux distributions such as Ubuntu.,"Categories
+Terminal Emulators, Image Viewers"
+"Curses++ is a set of C++ wrapper classes for the curses library. The project is aimed at providing a layer compatible with any version of curses (ncurses and pdcurses are seen as two major versions) and to be easy-to-use, using familiar STL interfaces.Curses++ is a set of C++ wrapper classes for the curses library. The project is aimed at providing a layer compatible with any version of curses (ncurses and pdcurses are seen as two major versions) and to be easy-to-use, using familiar STL interfaces.","Categories
+Terminals, User Interface (UI), Usability"
+"HW(VHDL) and SW of logic analyzer and On-Chip-Verification(OCV) for Value Change Dump(VCD) file format that exported to seemd SystemC ,ModelSIM, and many other EDA tools. Very easy and Simple.HW(VHDL) and SW of logic analyzer and On-Chip-Verification(OCV) for Value Change Dump(VCD) file format that exported to seemd SystemC ,ModelSIM, and many other EDA tools. Very easy and Simple.","Categories
+Serial, GNOME, Hardware, Electronic Design Automation (EDA)"
+A Java telnet server with status reporting for a modded Ninja pan and tilt robotic base from X10.com.A Java telnet server with status reporting for a modded Ninja pan and tilt robotic base from X10.com.,"Categories
+Telnet"
+"vtemm is the C++ wrapper for GTK+ 2.0 VTE terminal emulator widget.
+It is intended for use with gtkmm library.vtemm is the C++ wrapper for GTK+ 2.0 VTE terminal emulator widget.
+It is intended for use with gtkmm library.","Categories
+Terminal Emulators, GNOME, Software Development"
+free apptoservicefree apptoservice,"Categories
+Telnet, Systems Administration, Operating System Kernels"
+"Cextraz is a set of linux/unix commandline aliases and scripts to make it easier for a enduser with very little knowledge to use the terminal. Maybe someone thats just migrantedd from windows or mac. Note, its beta. More features to come.Cextraz is a set of linux/unix commandline aliases and scripts to make it easier for a enduser with very little knowledge to use the terminal. Maybe someone thats just migrantedd from windows or mac. Note, its beta. More features to come.","Categories
+Terminals, System Shells"
+"Conlib is a portable console input/output library supporting cursor and color attributes management, frames drawing, string-oriented output etc.Conlib is a portable console input/output library supporting cursor and color attributes management, frames drawing, string-oriented output etc.","Categories
+Terminals, Software Development"
+"termula2x is a UNIX terminal emulator for GP2X, including vi text editor. It supports background images.termula2x is a UNIX terminal emulator for GP2X, including vi text editor. It supports background images.","Categories
+Terminal Emulators"
+"Quark is a simple Java based SSH client, featuring tabbed connection windows.Quark is a simple Java based SSH client, featuring tabbed connection windows.","Categories
+Terminals, Security, System Shells, Networking"
+"A replacement for the Linux ""cmp"" tool. Results are displayed in hexadecimal.A replacement for the Linux ""cmp"" tool. Results are displayed in hexadecimal.","Categories
+Terminals, Games/Entertainment"
+A Perl script that interfaces with the Devantech USB to I2C interface adapter. This script allows a user to read and write as a master to the i2c bus as well as set or get the value of the io pins.A Perl script that interfaces with the Devantech USB to I2C interface adapter. This script allows a user to read and write as a master to the i2c bus as well as set or get the value of the io pins.,"Categories
+Serial, Software Testing, Hardware Drivers, Robotics, Interface Engine/Protocol Translator"
+"The project is comprised of two VB 2005 applications, a serial port emulator and a modem emulator, used as virtual devices in conjunction with the emu8086 assembler (www.emu8086.com), allowing users to communicate with them in their own assembly programsThe project is comprised of two VB 2005 applications, a serial port emulator and a modem emulator, used as virtual devices in conjunction with the emu8086 assembler (www.emu8086.com), allowing users to communicate with them in their own assembly programs","Categories
+Serial, Communications, Emulators"
+"Agnix is an educational, network operating system kernel. It is ideal starting point to learn about operating systems. The main goal of the project is to provide a network kernel fully compatible with the Linux Kernel in the system call layerAgnix is an educational, network operating system kernel. It is ideal starting point to learn about operating systems. The main goal of the project is to provide a network kernel fully compatible with the Linux Kernel in the system call layer","Categories
+Terminals, Networking, Operating System Kernels, Hardware Drivers, Init, Education"
+Provides access to Belkin Nostromo n50/n52 speedpads as more than simple USB keyboard devices via configuration GUI. Also includes a basic userland linux event interface and both OpenGL and OpenAL modules for video and audio.Provides access to Belkin Nostromo n50/n52 speedpads as more than simple USB keyboard devices via configuration GUI. Also includes a basic userland linux event interface and both OpenGL and OpenAL modules for video and audio.,"Categories
+Terminals, Games/Entertainment, Hardware Drivers, HMI, Sound/Audio"
+Viewglob is a tool to increase the usability of the Unix shell in graphical environments. It watches your shell activity in an xterm and tracks file selections and potential name completions in a GTK+ display showing the layouts of relevant directories.Viewglob is a tool to increase the usability of the Unix shell in graphical environments. It watches your shell activity in an xterm and tracks file selections and potential name completions in a GTK+ display showing the layouts of relevant directories.,"Categories
+Terminal Emulators, Other/Nonlisted Topic, Desktop Environment, System Shells"
+Serial Port Communication Software -- It sends command and receive data from the device connected on serial COM port.Serial Port Communication Software -- It sends command and receive data from the device connected on serial COM port.,"Categories
+Serial"
+"OpenGtalk (Aka: ""GinsuTalk"") is a telnet based BBS chat system, with similarities to IRC and DDial.OpenGtalk (Aka: ""GinsuTalk"") is a telnet based BBS chat system, with similarities to IRC and DDial.","Categories
+Telnet, Chat, BBS"
+Windows program to control your Sony DVP-CX777ES 400-disc DVD player via its RS232 port connected to the serial port of your computer. Includes documentation and all source.Windows program to control your Sony DVP-CX777ES 400-disc DVD player via its RS232 port connected to the serial port of your computer. Includes documentation and all source.,"Categories
+Serial, Communications, Hardware"
+A MUD client completely written in java. It is especially designed for use with the Discworld MUD (discworld.atuin.net) but can be used with any other text based MUD. The program can parse ANSI colour control characters to enable coloured output.A MUD client completely written in java. It is especially designed for use with the Discworld MUD (discworld.atuin.net) but can be used with any other text based MUD. The program can parse ANSI colour control characters to enable coloured output.,"Categories
+Telnet, Multi-User Dungeons (MUD)"
+"Nemho emulatore video tn5250 con accesso sicuro via Internet ad iSeries/400.
+Costruito ""assemblando"" opportunamente i progetti tn5250j e jsocks.Nemho emulatore video tn5250 con accesso sicuro via Internet ad iSeries/400.
+Costruito ""assemblando"" opportunamente i progetti tn5250j e jsocks.","Categories
+Terminal Emulators"
+kTelnet - a telnet client for J2ME enabled deviceskTelnet - a telnet client for J2ME enabled devices,"Categories
+Telnet, Internet"
+"yet another PalmOS serial browser, primarily for GPS receivers. he consists of several distinct applications (like ZboxZ), so he is rather slow, but flexible. nauta can be used as a serial logger for multiple simultaneous channels.yet another PalmOS serial browser, primarily for GPS receivers. he consists of several distinct applications (like ZboxZ), so he is rather slow, but flexible. nauta can be used as a serial logger for multiple simultaneous channels.","Categories
+Serial, GIS"
+"A GTK+ MUD client with support for MCCP, MXP, support for the zChat and MudMaster peer-to-peer chat protocols, the MUD sound protocol (MSP), Telnet GA support, regexp trigger support, aliases, Perl and Python plugin support.A GTK+ MUD client with support for MCCP, MXP, support for the zChat and MudMaster peer-to-peer chat protocols, the MUD sound protocol (MSP), Telnet GA support, regexp trigger support, aliases, Perl and Python plugin support.","Categories
+Telnet, Multi-User Dungeons (MUD), Internet"
+"Virtual Shell Service, is a service that runs on your server allowing trusted users to interact with the system via a sand boxed environment.
+The service has been designed to support mapping terminal commands in different ways via plugins and XML mappingVirtual Shell Service, is a service that runs on your server allowing trusted users to interact with the system via a sand boxed environment.
+The service has been designed to support mapping terminal commands in different ways via plugins and XML mapping","Categories
+Terminals, Site Management, System Shells, Systems Administration"
+Telnet server for remote administration or MUD servers that is easily customizable and will support external settings from an XML database.Telnet server for remote administration or MUD servers that is easily customizable and will support external settings from an XML database.,"Categories
+Telnet, Multi-User Dungeons (MUD), Systems Administration"
+"If you had problems with getting console input or console manipulation (you miss things like conio.h), Powerutils is for you. Powerutils already contains a dynamic fgetline function, a pause(), a gotoxy() and also a clear().If you had problems with getting console input or console manipulation (you miss things like conio.h), Powerutils is for you. Powerutils already contains a dynamic fgetline function, a pause(), a gotoxy() and also a clear().","Categories
+Terminal Emulators"
+"This program sends keyboard and mouse events
+from a sender's X display into a receiver's X display. It is useful
+if you don't have a keyboard/mouse hooked up to a machine
+on your network but want to control that machine from another
+machine that doesThis program sends keyboard and mouse events
+from a sender's X display into a receiver's X display. It is useful
+if you don't have a keyboard/mouse hooked up to a machine
+on your network but want to control that machine from another
+machine that does","Categories
+Terminal Emulators"
+"JBuzz BBS Server is a telnet daemon which provides several communication facilities, like discussion board and chatting room for clients to experience. In order to extend functions for the system more easily, the feature called ""applet"" is introduced.JBuzz BBS Server is a telnet daemon which provides several communication facilities, like discussion board and chatting room for clients to experience. In order to extend functions for the system more easily, the feature called ""applet"" is introduced.","Categories
+Terminal Emulators, Telnet, Chat, Conferencing, BBS, Networking"
+"aftp is an FTP library and an FTP tool. The aftp tool is a good example on how to use the library. You need FTP functionality in your software? Use the aftp library! Now also atelnet(d), a client and server telnet between MS-Windows (server) and Linux.aftp is an FTP library and an FTP tool. The aftp tool is a good example on how to use the library. You need FTP functionality in your software? Use the aftp library! Now also atelnet(d), a client and server telnet between MS-Windows (server) and Linux.","Categories
+Telnet, File Transfer Protocol (FTP)"
+Qonsole is a collection of classes written in ActionScript2.0/Macromedia flash that emulates an output console similar to many found in operative systems like linux's shell and MS-DOS.Qonsole is a collection of classes written in ActionScript2.0/Macromedia flash that emulates an output console similar to many found in operative systems like linux's shell and MS-DOS.,"Categories
+Terminal Emulators, Games/Entertainment, Multimedia"
+central-ssh (cssh) is a Perl program that allows systems administrators to run multiple arbitrary commands on multiple arbitrary hosts from one central host. Straight CLI or config file can be used.central-ssh (cssh) is a Perl program that allows systems administrators to run multiple arbitrary commands on multiple arbitrary hosts from one central host. Straight CLI or config file can be used.,"Categories
+Terminals, System Shells, Systems Administration, Distributed Computing"
+"Purpose of this project is create games/other software for Java enabled mobile phones. Programs are written under Java (J2ME, midlets). Current highlights include simple mail client and web browser.Purpose of this project is create games/other software for Java enabled mobile phones. Programs are written under Java (J2ME, midlets). Current highlights include simple mail client and web browser.","Categories
+POP3, Telnet, Email Clients, Browsers"
+"This small project fills a need for network administrators to centralize their SSH keys management. It allows to manage a database of public keys via a GUI (and an upcoming command line interface), dinamically enabiling on a per-key, per-user and per-hostThis small project fills a need for network administrators to centralize their SSH keys management. It allows to manage a database of public keys via a GUI (and an upcoming command line interface), dinamically enabiling on a per-key, per-user and per-host","Categories
+Telnet, Authentication/Directory"
+Communication protocol for advanced clients of talker Atlantis (now running at atlantis.talker.sk). No implementation. No source code. Only specfication.Communication protocol for advanced clients of talker Atlantis (now running at atlantis.talker.sk). No implementation. No source code. Only specfication.,"Categories
+Telnet, Chat"
+"This program makes easy the configuration and utilization of multiple connection to remote desktops, using rdp or vnc protocols. Supports almost all rdesktop and xtightvncviewer parameters and copy/paste/rename connections. Stores password in kwallet.This program makes easy the configuration and utilization of multiple connection to remote desktops, using rdp or vnc protocols. Supports almost all rdesktop and xtightvncviewer parameters and copy/paste/rename connections. Stores password in kwallet.","Categories
+Terminal Emulators, KDE, Systems Administration, Distributed Computing, Remote Desktop"
+Program to change a terminal\\\\\\\'s title.Program to change a terminal\\\\\\\'s title.,"Categories
+Terminals"
+"ajaxPHPterm is an AJAX terminal/shell emulator for PHP, based on the PHPterm project. It acts as a terminal and allows you to execute shell commands within your browser, even in a hosted environment. Added AJAX makes it behave more like a real shell.ajaxPHPterm is an AJAX terminal/shell emulator for PHP, based on the PHPterm project. It acts as a terminal and allows you to execute shell commands within your browser, even in a hosted environment. Added AJAX makes it behave more like a real shell.","Categories
+Terminal Emulators, Telnet"
+"The Pueblo MUD/MUSH/MOO/etc client, originally developed by Chaco Communications. Updated, improved, and open source!
+
+The client provides access to ""virtual worlds"", supporting HTML, colour, forms, and images.The Pueblo MUD/MUSH/MOO/etc client, originally developed by Chaco Communications. Updated, improved, and open source!
+
+The client provides access to ""virtual worlds"", supporting HTML, colour, forms, and images.","Categories
+Telnet, Chat, Multi-User Dungeons (MUD), Internet"
+XLauncher is a GUI configuration program for the cygwin-xfree X server. It makes it easy to set up a connection to a remote XDMCP host.XLauncher is a GUI configuration program for the cygwin-xfree X server. It makes it easy to set up a connection to a remote XDMCP host.,"Categories
+Terminal Emulators"
+jpnevulator - just another serial snifferjpnevulator - just another serial sniffer,"Categories
+Serial, Communications"
+"A graphic capabable, 'terminfo' driven, window library. We try to adapt old style curses programs to be displayed in this window and build an environment for a new user interface tactic.A graphic capabable, 'terminfo' driven, window library. We try to adapt old style curses programs to be displayed in this window and build an environment for a new user interface tactic.","Categories
+Terminal Emulators, Desktop Environment, Browsers"
+"DRAKE is a true homebrew game console that consists of specially crafted hardware, system software and games.DRAKE is a true homebrew game console that consists of specially crafted hardware, system software and games.","Categories
+Serial, Games/Entertainment, Virtual Machine"
+"this is a webserver that maniplate string from rtl to tlr
+most needed in swf micromdiathis is a webserver that maniplate string from rtl to tlr
+most needed in swf micromdia","Categories
+Terminal Emulators"
+joom - Java Object Orientated MUDjoom - Java Object Orientated MUD,"Categories
+Telnet, Role-Playing Games (RPG), Multi-User Dungeons (MUD)"
+"FreeTerm is a virtual console based on Konsole. FreeTerm replaces Konsole's custom ""session"" MDI interface with Qt's MDI Workspace. FreeTerm also has multi-language support for BBS or MUD.FreeTerm is a virtual console based on Konsole. FreeTerm replaces Konsole's custom ""session"" MDI interface with Qt's MDI Workspace. FreeTerm also has multi-language support for BBS or MUD.","Categories
+Terminal Emulators, KDE"
+"DupISO aims to be an easy-to-use interface of CDRecord intended to simplify the process of burning preset ISO files to multiple CD:s, propably using numerous burners at once..
+
+Please submit an oppinion and some ideas in the Forums
+ThanksDupISO aims to be an easy-to-use interface of CDRecord intended to simplify the process of burning preset ISO files to multiple CD:s, propably using numerous burners at once..
+
+Please submit an oppinion and some ideas in the Forums
+Thanks","Categories
+Terminals, Archiving"
+"Schnitzel is a terminal server based on VNC and PHP which allows people to use their ""graphic shells"" like webmail based systemsSchnitzel is a terminal server based on VNC and PHP which allows people to use their ""graphic shells"" like webmail based systems","Categories
+Terminals, Communications, Internet"
+"SBD is a way of leaving ultra-secure minimal access to a computer, which allows you to run a single command based on a one time key. It is good if you don't want to have an ssh server running all the time, but only want to start it when needed.SBD is a way of leaving ultra-secure minimal access to a computer, which allows you to run a single command based on a one time key. It is good if you don't want to have an ssh server running all the time, but only want to start it when needed.","Categories
+Telnet, System Shells"
+"ROTE is a simple C library for VT102 terminal emulation. It allows the
+programmer to set up virtual 'screens' and send them data. They
+will emulate the behavior of a VT102 terminal, interpreting
+escape sequences, control characters and such.ROTE is a simple C library for VT102 terminal emulation. It allows the
+programmer to set up virtual 'screens' and send them data. They
+will emulate the behavior of a VT102 terminal, interpreting
+escape sequences, control characters and such.","Categories
+Terminal Emulators"
+"This is a collection of XF86Configs for a variety of hardware. If you've hacked together a working XF86Config file for any kind of strange hardware, please submit it to the collection. See the file HOWTO-contribute for details. Every file is sacred.This is a collection of XF86Configs for a variety of hardware. If you've hacked together a working XF86Config file for any kind of strange hardware, please submit it to the collection. See the file HOWTO-contribute for details. Every file is sacred.","Categories
+Terminal Emulators, Installation/Setup"
+"GPS-aided car kinematics calculator. Computes forward and lateral accelerations of the vehicle, time to reach some speed and some distance. It will work on PocketPC.GPS-aided car kinematics calculator. Computes forward and lateral accelerations of the vehicle, time to reach some speed and some distance. It will work on PocketPC.","Categories
+Serial, Calculators"
+GBrowser is a tabbed filemanager/terminal emulator. It attempts to include efficient file management under easy to use interface. GBrowser is written with C++ using gtk+ tookit.GBrowser is a tabbed filemanager/terminal emulator. It attempts to include efficient file management under easy to use interface. GBrowser is written with C++ using gtk+ tookit.,"Categories
+Terminal Emulators, File Managers"
+Software for a serial LCD display (4x<20>/<16>) and four keys. The software displays default shell-scripts or menues with (shell) commands.Software for a serial LCD display (4x<20>/<16>) and four keys. The software displays default shell-scripts or menues with (shell) commands.,"Categories
+Serial, Software Development"
+"Discuz! Command Prompt is a plugin for Discuz! forum system that emulates the famous DOS environment, written using AJAX and PHP.Discuz! Command Prompt is a plugin for Discuz! forum system that emulates the famous DOS environment, written using AJAX and PHP.","Categories
+Terminal Emulators, BBS, System Shells"
+"Dzt is a YATGT (Yet Another Tabbed GNOME Terminal). It was inspired by PowerShell, which did not seem stable enough for daily use. Dzt's main goal is to provide a multi-tabbed/paged terminal for GNOME which is simple, configurable, and quick to use.Dzt is a YATGT (Yet Another Tabbed GNOME Terminal). It was inspired by PowerShell, which did not seem stable enough for daily use. Dzt's main goal is to provide a multi-tabbed/paged terminal for GNOME which is simple, configurable, and quick to use.","Categories
+Terminal Emulators"
+Dzcomm is an RS-232 API for as many OS / platforms as we can achieve. Originally designed to work on DOS alongside the allegro games programming library it can now work work alongside it as well as independently of it and works on some unixes as well.Dzcomm is an RS-232 API for as many OS / platforms as we can achieve. Originally designed to work on DOS alongside the allegro games programming library it can now work work alongside it as well as independently of it and works on some unixes as well.,"Categories
+Serial, Communications"
+"JVRMUDClient is a simple client for MUD ( Multi User Dungeons ) written in java. Supports mini-map, colourful ansi terminal, will support triggers, scripts,...JVRMUDClient is a simple client for MUD ( Multi User Dungeons ) written in java. Supports mini-map, colourful ansi terminal, will support triggers, scripts,...","Categories
+Telnet, Multi-User Dungeons (MUD), Internet"
+"aart converts PNM (PGM, PBM, PPM) images into colored ASCII. It supports user-defined color palletes, PSF fonts, and character sets. It generates a PPM image file or a text file.aart converts PNM (PGM, PBM, PPM) images into colored ASCII. It supports user-defined color palletes, PSF fonts, and character sets. It generates a PPM image file or a text file.","Categories
+Terminals, Image Converters"
+"NetworkTools has 2 components: A protocol analyzer which plays a TCP client or server or pipeline, which sits between a client and server and shows how they communicate. A port scanner can scan a range of IP addresses and ports. See screenshots.NetworkTools has 2 components: A protocol analyzer which plays a TCP client or server or pipeline, which sits between a client and server and shows how they communicate. A port scanner can scan a range of IP addresses and ports. See screenshots.","Categories
+Telnet, Security, Debuggers, Monitoring"
+Pygtk+ application to connect to machines via ssh ussing paramiko as ssh interface and run command on them. At the moment it is mainly used for opening terminals to machines which are configured in the xml.Pygtk+ application to connect to machines via ssh ussing paramiko as ssh interface and run command on them. At the moment it is mainly used for opening terminals to machines which are configured in the xml.,"Categories
+Terminal Emulators"
+"UniTeS is a multiplatform virtual desktop what uses different Terminal Services and connection clients like rdesktop, XDMCP, rdp, etc. to allow users to connect to apps located in different systems from a common place.UniTeS is a multiplatform virtual desktop what uses different Terminal Services and connection clients like rdesktop, XDMCP, rdp, etc. to allow users to connect to apps located in different systems from a common place.","Categories
+Terminal Emulators"
+"Telnetchatd is a chatserver which uses the telnetprotocol. Users do not need to install a client, as every desktop-OS comes with a preinstalled telnetclient. Programmed in pure C, the server needs very little resources and runs on any unix-like system.Telnetchatd is a chatserver which uses the telnetprotocol. Users do not need to install a client, as every desktop-OS comes with a preinstalled telnetclient. Programmed in pure C, the server needs very little resources and runs on any unix-like system.","Categories
+Telnet, Chat, Networking, Internet"
+"YaCS - A window based chatserver with the ability to log or kick users. You can connect to the server by using PuTTY or Microsoft Telnet, because the chat supports VT100 and the telnet protocol.YaCS - A window based chatserver with the ability to log or kick users. You can connect to the server by using PuTTY or Microsoft Telnet, because the chat supports VT100 and the telnet protocol.","Categories
+Telnet, Chat"
+This project implements payload plugins over RealVNC 4.0 (aka VNC 4.0). A file transfer payload plugins has been implemented under Delphi 7 by using plugins architecture created by myself. ftRealVNC code is derivated initially from RealVNC 4.0.This project implements payload plugins over RealVNC 4.0 (aka VNC 4.0). A file transfer payload plugins has been implemented under Delphi 7 by using plugins architecture created by myself. ftRealVNC code is derivated initially from RealVNC 4.0.,"Categories
+Terminals, File Sharing"
+Free Software/Open Source tabbed terminal through GNU Emacs for windowsFree Software/Open Source tabbed terminal through GNU Emacs for windows,"Categories
+Terminal Emulators"
+Read an e-mail message from a mail client and send it to a cellular phone number. Read an SMS from GSM celular phone and send it to a given e-mail direction.Read an e-mail message from a mail client and send it to a cellular phone number. Read an SMS from GSM celular phone and send it to a given e-mail direction.,"Categories
+Serial, Telephony, Email"
+"Mocas is a mini-shell to use in Linux/Unix systems.It is developed using C, and Linux system functions. The main objective of this project is not to create a shell as powerfull as bash.Mocas will be a solid base for programmers and developers.Mocas is a mini-shell to use in Linux/Unix systems.It is developed using C, and Linux system functions. The main objective of this project is not to create a shell as powerfull as bash.Mocas will be a solid base for programmers and developers.","Categories
+Terminals, Software Development, System Shells, HMI"
+A serial port terminal emulator for the GNOME desktop.A serial port terminal emulator for the GNOME desktop.,"Categories
+Serial, Terminal Emulators"
+"The project works on a kernel module and inetd service to allow the usage
+of a distant RS.232 port through a network connection.The project works on a kernel module and inetd service to allow the usage
+of a distant RS.232 port through a network connection.","Categories
+Serial, Networking, Operating System Kernels"
+"Device Debugger is a Communication Terminal designed to communicate with electronic devices to support the process of development, testing, and reverse-engineering of embedded designs.Device Debugger is a Communication Terminal designed to communicate with electronic devices to support the process of development, testing, and reverse-engineering of embedded designs.","Categories
+Terminals, Hardware, Embedded Systems"
+"Все записи основаны на собственном опыте и не являются чьим то официальным юзермануалом.
+Все скрипты и команды тестировались в установленной системе SuSE Linux Enterprise Server 10.4 от NOVELL
+Скорее всего всё будет работать в любой системе Linux как есть или с небольшими изменениями, но смысл манипуляций остаётся тот же.Все записи основаны на собственном опыте и не являются чьим то официальным юзермануалом.
+Все скрипты и команды тестировались в установленной системе SuSE Linux Enterprise Server 10.4 от NOVELL
+Скорее всего всё будет работать в любой системе Linux как есть или с небольшими изменениями, но смысл манипуляций остаётся тот же.","Categories
+Terminals, Systems Administration, Desktop Publishing"
+"JKnightCommander is a NortonCommander like file manager written in Java.
+We are going to implement the following features:
+-cross-platform
+-FTP, SMB, IO, ZIP, Webdav
+-fast but nice, graphical user interface
+-multi language
+-ui configureable
+-fileJKnightCommander is a NortonCommander like file manager written in Java.
+We are going to implement the following features:
+-cross-platform
+-FTP, SMB, IO, ZIP, Webdav
+-fast but nice, graphical user interface
+-multi language
+-ui configureable
+-file","Categories
+Terminals, System"
+"Mini OpenBSD Router/Firewall/Gateway
+with openssh, altqd, pfctl (firewall+nat), routed, snmpd, oidentd, simple shell menu config,multi user & wireless support. Fit on 8MB flashdisk & 24 MB ram.Mini OpenBSD Router/Firewall/Gateway
+with openssh, altqd, pfctl (firewall+nat), routed, snmpd, oidentd, simple shell menu config,multi user & wireless support. Fit on 8MB flashdisk & 24 MB ram.","Categories
+Terminals, System Shells, Firewall, Monitoring, Operating System Kernels"
+Visual Basic Program to drive an HD44780 LCD connected to the Parallel port. I have it working in all versions of windows.Visual Basic Program to drive an HD44780 LCD connected to the Parallel port. I have it working in all versions of windows.,"Categories
+Terminals"
+"Extend dell remote control features, such as to enable the remote control to control the mouse's movement and clicking.Extend dell remote control features, such as to enable the remote control to control the mouse's movement and clicking.","Categories
+Terminal Emulators, Home Theater PC"
+A terminal communication program that is able to open multiple terminal windows in a multiple document interface (MDI). Terminal windows include serial ports and ethernet ports (TCP and UDP). Every configuration is stored in a tree view for quick accA terminal communication program that is able to open multiple terminal windows in a multiple document interface (MDI). Terminal windows include serial ports and ethernet ports (TCP and UDP). Every configuration is stored in a tree view for quick acc,"Categories
+Serial"
+A VT6530 block mode terminal emulator. VT6530 is a proprietary terminal used by Tandem (HP Non-Stop) mainframes.A VT6530 block mode terminal emulator. VT6530 is a proprietary terminal used by Tandem (HP Non-Stop) mainframes.,"Categories
+Terminals"
+"Terminal emulation using ANSI escape sequences, written in Flex/AS3 and could be embedded in browser or use standalone with Adobe AIR. Planned to be able to connect foreign hosts via ssh/telnet and also play sessions recorded with ttyrec.Terminal emulation using ANSI escape sequences, written in Flex/AS3 and could be embedded in browser or use standalone with Adobe AIR. Planned to be able to connect foreign hosts via ssh/telnet and also play sessions recorded with ttyrec.","Categories
+Terminal Emulators, Emulators"
+"Wetnet - Web and Wireless Telnet
+Wetnet alows people to access telnet services over the web and via wap browsers, giving you full access to the internet over any web-enabled device such as public web access terminals and wap enabled phones.Wetnet - Web and Wireless Telnet
+Wetnet alows people to access telnet services over the web and via wap browsers, giving you full access to the internet over any web-enabled device such as public web access terminals and wap enabled phones.","Categories
+Telnet, WWW/HTTP"
+Remote control software for remote operation of a Miteq (c)(r) 9696 (or other 9600 series) satellite upconverter.Remote control software for remote operation of a Miteq (c)(r) 9696 (or other 9600 series) satellite upconverter.,"Categories
+Serial"
+"lcdmod is a linux device driver for controlling HD44780 comatible LCD panels attached to the parallel port. It supports user generated fonts, multiple wiring schemes, multiple display sizes, and multiple driver chips. It has visualisation and control pluglcdmod is a linux device driver for controlling HD44780 comatible LCD panels attached to the parallel port. It supports user generated fonts, multiple wiring schemes, multiple display sizes, and multiple driver chips. It has visualisation and control plug","Categories
+Terminals, Hardware Drivers"
+"CaTer is a terminal programm for the C64. It is intended to connect the C64 via a serial RS-232 connection to a Linux or Unix host.
+It is possible to make either a CaTer auto start cartridge, or to load it with a BASIC loader.CaTer is a terminal programm for the C64. It is intended to connect the C64 via a serial RS-232 connection to a Linux or Unix host.
+It is possible to make either a CaTer auto start cartridge, or to load it with a BASIC loader.","Categories
+Serial"
+Term-Highlight is a highly customizable perl-compatible regexp highlighter for wide range of terminal emulators. Term-Highlight can be used as grep-like engine or command output highlighter. You can use it just to learn perl regular expressions!Term-Highlight is a highly customizable perl-compatible regexp highlighter for wide range of terminal emulators. Term-Highlight can be used as grep-like engine or command output highlighter. You can use it just to learn perl regular expressions!,"Categories
+Terminal Emulators"
+Online is a speed focused program to give a textual display of your friends/buddies/users currently logged onto a unix host.Online is a speed focused program to give a textual display of your friends/buddies/users currently logged onto a unix host.,"Categories
+Terminals, Unix Talk, Finger"
+WTC Lite is a Linux based distribution kit allow you to organize thin stations for Windows 2000/XP/2003 terminal server on 586/32RAM or better PC.WTC Lite is a Linux based distribution kit allow you to organize thin stations for Windows 2000/XP/2003 terminal server on 586/32RAM or better PC.,"Categories
+Terminal Emulators, Software Distribution"
+Terminal like program with integrated LUA interpreter and specifically designed to use with Wavecom wireless modules.Terminal like program with integrated LUA interpreter and specifically designed to use with Wavecom wireless modules.,"Categories
+Serial"
+MultiTerm aims to become an extendible Terminal Emulation which provides a high quality (nice look and feel) user interface for everyday terminal work.MultiTerm aims to become an extendible Terminal Emulation which provides a high quality (nice look and feel) user interface for everyday terminal work.,"Categories
+Terminal Emulators"
+"Delphi component for serial port communications. ""Based on ComPort Library"" (http://sourceforge.net/projects/comport) but with true unicode support.Delphi component for serial port communications. ""Based on ComPort Library"" (http://sourceforge.net/projects/comport) but with true unicode support.","Categories
+Serial, Streaming, Object Oriented"
+Xxvt is an internationalized terminal emulator for X.Xxvt is an internationalized terminal emulator for X.,"Categories
+Terminal Emulators"
+"A set of tools for recording/replaying text-terminal session, in the vein of ttyrec.A set of tools for recording/replaying text-terminal session, in the vein of ttyrec.","Categories
+Terminals, Logging"
+ICMP Shell (ISH) is a telnet-like protocol. It allows users to connect to a remote host and to open a shell using only ICMP to send and receive data. ICMP Shell was written in C for the UNIX environment.ICMP Shell (ISH) is a telnet-like protocol. It allows users to connect to a remote host and to open a shell using only ICMP to send and receive data. ICMP Shell was written in C for the UNIX environment.,"Categories
+Telnet, System Shells, Internet"
+LtTTY is a windows ssh client based on PuTTY. It has some Expanded functionalities: stored the settings information at local file(not Registry); easy to manage multi-window; transparentable window; and so on ... I think it will be useful.LtTTY is a windows ssh client based on PuTTY. It has some Expanded functionalities: stored the settings information at local file(not Registry); easy to manage multi-window; transparentable window; and so on ... I think it will be useful.,"Categories
+Telnet, User Interface (UI), System Shells"
+VT102 terminal implemented in the avr mcu. Intended for use with rattulla pdas.VT102 terminal implemented in the avr mcu. Intended for use with rattulla pdas.,"Categories
+Serial, Hardware"
+"Small program, which monitor batery and signal status (over bluetoot, COM port) of connected mobile phoneSmall program, which monitor batery and signal status (over bluetoot, COM port) of connected mobile phone","Categories
+Serial, Mobile"
+"Intronet is a light weighted framework which allows user to work with remote Linux system and to do some administration tasks using web browser. It's fully usable in browsers at mobile devices such pda, modern cell phones, etc.Intronet is a light weighted framework which allows user to work with remote Linux system and to do some administration tasks using web browser. It's fully usable in browsers at mobile devices such pda, modern cell phones, etc.","Categories
+Terminal Emulators, Frameworks, File Managers, Systems Administration"
+A pseudo-ansi SDL terminal (or console) libraryA pseudo-ansi SDL terminal (or console) library,"Categories
+Terminal Emulators, Graphics"
+"When debug kernel driver, sometimes the kernel maybe involve loop statue so that shell can’t work. I define a new protocol based on icmp and implement server and client.When debug kernel driver, sometimes the kernel maybe involve loop statue so that shell can’t work. I define a new protocol based on icmp and implement server and client.","Categories
+Telnet"

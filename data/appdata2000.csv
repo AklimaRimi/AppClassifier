@@ -1,0 +1,785 @@
+Description,Category
+A Java JNA wrapper for Tesseract OCR APIA Java JNA wrapper for Tesseract OCR API,"Categories
+Image Converters, Libraries, OCR"
+"Fast Artificial Neural Network Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. Cross-platform execution in both fixed and floating point are supported. It includes a framework for easy handling of training data sets. It is easy to use, versatile, well documented, and fast. Bindings to more than 15 programming languages are available. An easy to read introduction article and a reference manual accompanies the library with examples and recommendations on how to use the library. Several graphical user interfaces are also available for the library.Fast Artificial Neural Network Library is a free open source neural network library, which implements multilayer artificial neural networks in C with support for both fully connected and sparsely connected networks. Cross-platform execution in both fixed and floating point are supported. It includes a framework for easy handling of training data sets. It is easy to use, versatile, well documented, and fast. Bindings to more than 15 programming languages are available. An easy to read introduction article and a reference manual accompanies the library with examples and recommendations on how to use the library. Several graphical user interfaces are also available for the library.","Categories
+CGI Scripts, Software Development, Artificial Intelligence, Neural Network Libraries"
+"Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.","Categories
+Telephony, Software Testing, Simulation, Exam"
+"SoundHelix is a free versatile Java framework for algorithmic random music composition. SoundHelix can generate random songs, play them (for example, on any number of MIDI devices or MIDI-capable software synthesizers) and is highly customizable using XML configuration. SoundHelix also allows writing the generated music as MIDI files.
+
+SoundHelix produces music that is actually enjoyable to listen to.SoundHelix is a free versatile Java framework for algorithmic random music composition. SoundHelix can generate random songs, play them (for example, on any number of MIDI devices or MIDI-capable software synthesizers) and is highly customizable using XML configuration. SoundHelix also allows writing the generated music as MIDI files.
+
+SoundHelix produces music that is actually enjoyable to listen to.","Categories
+Frameworks, MIDI, Music Composition"
+We moved to GitHub. Please look at the new homepage for an accurate description of the project.We moved to GitHub. Please look at the new homepage for an accurate description of the project.,"Categories
+Build Tools"
+"Internet Direct (Indy) - An open source internet component suite comprised of popular internet protocols. Both client and server implementations are included as well as full source code and comprehensive demos
+
+Indy is an open source internet developmenInternet Direct (Indy) - An open source internet component suite comprised of popular internet protocols. Both client and server implementations are included as well as full source code and comprehensive demos
+
+Indy is an open source internet developmen","Categories
+Communications, Software Development, Internet"
+"This is a collection of various open source tools:
+
+StExBar: The ultimate extensions for Windows Explorer or: what Microsoft forgot to implement in the explorer.
+
+SKTimeStamp: Adds a new page to the Windows explorer properties where you can manipulate file times
+
+AAClr: change Aero colors to match the wallpaper
+
+FileTool: a small utility to create files with random data for testing
+
+tabspace: a command line tool to change all tabs/spaces to tabs/spaces and vice versa in text/code files.
+
+Note: projects moved to GitHub
+https://github.com/stefankueng/toolsThis is a collection of various open source tools:
+
+StExBar: The ultimate extensions for Windows Explorer or: what Microsoft forgot to implement in the explorer.
+
+SKTimeStamp: Adds a new page to the Windows explorer properties where you can manipulate file times
+
+AAClr: change Aero colors to match the wallpaper
+
+FileTool: a small utility to create files with random data for testing
+
+tabspace: a command line tool to change all tabs/spaces to tabs/spaces and vice versa in text/code files.
+
+Note: projects moved to GitHub
+https://github.com/stefankueng/tools","Categories
+Command Line Tools"
+External diff Tool is an Eclipse plugin that allows the launch of an external diff tool for file compares rather than the default built-in Eclipse diff tool. This plugin doesn't replace the built-in Eclipse tool. It only adds a new menu item to the GUI.External diff Tool is an Eclipse plugin that allows the launch of an external diff tool for file compares rather than the default built-in Eclipse diff tool. This plugin doesn't replace the built-in Eclipse tool. It only adds a new menu item to the GUI.,"Categories
+Integrated Development Environments (IDE), Version Control, Diff Tools"
+"Dev-C++ is a full-featured Integrated Development Environment (IDE) for Win32. It uses GCC, Mingw or Cygwin as compiler and libraries set. It supports Windows 98, NT, 2000 & XP.
+
+This is the original Dev-C++ software as published by Colin Laplace and this repository is frozen to version 4.9.9.2.
+For more recent versions of Dev-C++, please check the following forks:
+
+- Embarcadero Dev-C++: https://sourceforge.net/projects/embarcadero-devcpp/ (last update: March 2021)
+
+- Orwell Dev-C++: https://sourceforge.net/projects/orwelldevcpp/ (last update: 2016)
+
+- wxDev-C++: http://wxdsgn.sourceforge.net/ (last update: 2012)Dev-C++ is a full-featured Integrated Development Environment (IDE) for Win32. It uses GCC, Mingw or Cygwin as compiler and libraries set. It supports Windows 98, NT, 2000 & XP.
+
+This is the original Dev-C++ software as published by Colin Laplace and this repository is frozen to version 4.9.9.2.
+For more recent versions of Dev-C++, please check the following forks:
+
+- Embarcadero Dev-C++: https://sourceforge.net/projects/embarcadero-devcpp/ (last update: March 2021)
+
+- Orwell Dev-C++: https://sourceforge.net/projects/orwelldevcpp/ (last update: 2016)
+
+- wxDev-C++: http://wxdsgn.sourceforge.net/ (last update: 2012)","Categories
+Integrated Development Environments (IDE), Software Development, Compilers"
+A Java library for your BlackBerry applications to integrate with Facebook using OAuth 2.0 and Graph API.A Java library for your BlackBerry applications to integrate with Facebook using OAuth 2.0 and Graph API.,"Categories
+Libraries"
+"Python port for Windows CE (Pocket PC) devices. Intended to be as close to desktop version as possible (console, current directory support, testsuite passed).Python port for Windows CE (Pocket PC) devices. Intended to be as close to desktop version as possible (console, current directory support, testsuite passed).","Categories
+Interpreters"
+A complete documentation solution for PHP. Generates javaDoc-style API documentation and user-level manuals from your PHP code.A complete documentation solution for PHP. Generates javaDoc-style API documentation and user-level manuals from your PHP code.,"Categories
+Dynamic Content, Documentation"
+"Framework phpDays - flexible php framework for rapid web site development. Using MVC, logging, yaml configurations, php5 class autoloading, support all databases. Based on strict php5 OOP and php design patternsFramework phpDays - flexible php framework for rapid web site development. Using MVC, logging, yaml configurations, php5 class autoloading, support all databases. Based on strict php5 OOP and php design patterns","Categories
+Dynamic Content, Site Management, Frameworks"
+"Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. Platform-independent, it can retrieve data from both the IMDb's web server and a local copy of the whole db.Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. Platform-independent, it can retrieve data from both the IMDb's web server and a local copy of the whole db.","Categories
+Front-Ends, CGI Scripts, Software Development, Software Testing, Debuggers, QA Automation, Profiling, Logging"
+"LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files. The main feature is lossless trimming and cutting of video and audio files, which is great for saving space by rough-cutting your large video files taken from a video camera, GoPro, drone, etc. It lets you quickly extract the good parts from your videos and discard many gigabytes of data without doing a slow re-encode and thereby losing quality. Or you can add a music or subtitle track to your video without needing to encode. Everything is extremely fast because it does an almost direct data copy, fueled by the awesome FFmpeg which does all the grunt work. Lossless merge/concatenation of arbitrary files (with identical codecs parameters, e.g. from the same camera). Lossless stream editing: Combine arbitrary tracks from multiple files (ex. add music or subtitle track to a video file).LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files. The main feature is lossless trimming and cutting of video and audio files, which is great for saving space by rough-cutting your large video files taken from a video camera, GoPro, drone, etc. It lets you quickly extract the good parts from your videos and discard many gigabytes of data without doing a slow re-encode and thereby losing quality. Or you can add a music or subtitle track to your video without needing to encode. Everything is extremely fast because it does an almost direct data copy, fueled by the awesome FFmpeg which does all the grunt work. Lossless merge/concatenation of arbitrary files (with identical codecs parameters, e.g. from the same camera). Lossless stream editing: Combine arbitrary tracks from multiple files (ex. add music or subtitle track to a video file).","Categories
+User Interface (UI), Graphic Design"
+"The NWICODE CMS project, an open source mobile app Builder, was launched in beta testing in 2019. Since 2016, the platform has only been offered as a cloud-based solution for creating mobile applications.
+
+Our goal
+
+Not a month goes by without the launch of new platforms and mobile app designers on the market. All these platforms with DRAG&DROP and ready-made features. These solutions are very standardized and do not allow you to develop and control your application.
+
+We eliminate these limitations by providing open source code, so that every developer can easily and with a quick start to create mobile applications for any areas and categories of business.The NWICODE CMS project, an open source mobile app Builder, was launched in beta testing in 2019. Since 2016, the platform has only been offered as a cloud-based solution for creating mobile applications.
+
+Our goal
+
+Not a month goes by without the launch of new platforms and mobile app designers on the market. All these platforms with DRAG&DROP and ready-made features. These solutions are very standardized and do not allow you to develop and control your application.
+
+We eliminate these limitations by providing open source code, so that every developer can easily and with a quick start to create mobile applications for any areas and categories of business.","Categories
+Software Development, Build Tools, Mobile"
+"wxDev-C++ Portable is the portable version of wxDev-C++ [http://wxdsgn.sourceforge.net/] The portable version has derived from the devcpp-portable.sourceforge.net project, with wx2.9.3, TDM-GCC MinGW 4.6.1 and with wxctb 0.8 for the wxDevcpp extension -V7.4.2 and newerwxDev-C++ Portable is the portable version of wxDev-C++ [http://wxdsgn.sourceforge.net/] The portable version has derived from the devcpp-portable.sourceforge.net project, with wx2.9.3, TDM-GCC MinGW 4.6.1 and with wxctb 0.8 for the wxDevcpp extension -V7.4.2 and newer","Categories
+Integrated Development Environments (IDE), Software Development"
+"Ethernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object LibraryEthernet/IP compatible library for .NET implementations For Data Exchange with Ethernet/IP Devices (Targets)
+
+Support of Explicit and Implicit Messaging
+Supports IO Scanner and Explicit Message Client functionality
+
+Object Library with CIP-Definined Objects
+Provides a simple way to access Ethernet/IP Devices without special knowledge about Ethernet/IP. Only few lines of code are required.
+Can also be used for LabView integration (See LabView Example in the Downloads Area)
+
+See www.eeip-library.de for documentation and Codesamples
+
+V1.6: Large Forward Open, Integration of Examples in VS Project, Allow ForwardClose and UnregisterSesssion if connection broke up.
+
+V1.4: 16 Bit Path Encryption Explicit Messaging
+
+V1.3: Bugfix Discover Devices
+
+V1,1:
+- Bugfix Multicast Implicit Messaging
+
+V1.0:
+- Some Bugfixes Implicit Messaging
+- Bugfixes large data Explicit Messaging
+- Added TCP/IP Object (Class code: F5h)to Object Library","Categories
+Communications, Software Development, Scientific/Engineering"
+"Atom is a text editor that's modern, approachable and full-featured. It's also easily customizable- you can customize it to do anything and be able to use it productively without ever touching a config file.
+
+Atom is free to download and runs on Linux, OS X and Windows with support for plug-ins written in Node.js and embedded Git Control. It is based on Electron (formerly known as Atom Shell),a framework for building cross-platform apps using Chromium and Node.js.Atom is a text editor that's modern, approachable and full-featured. It's also easily customizable- you can customize it to do anything and be able to use it productively without ever touching a config file.
+
+Atom is free to download and runs on Linux, OS X and Windows with support for plug-ins written in Node.js and embedded Git Control. It is based on Electron (formerly known as Atom Shell),a framework for building cross-platform apps using Chromium and Node.js.","Categories
+Text Editors, Integrated Development Environments (IDE), Web Development"
+Circular progress bar widget for Qt frameworkCircular progress bar widget for Qt framework,"Categories
+User Interface (UI)"
+"This is a small program that fixes the problem introduced by the Windows update KB2982791 with Delphi 2006 to 2010 that causes the error ""Cannot create file %Temp%\EditorLineEnds.ttr"".
+It works by moving the file to its own unique subdirectory whenever it is being created.
+
+Version 1.0.2 creates its own unique directory in temp and tries to delete and recreate it on startup in order to get rid of all those files from the last session.
+
+Version 1.0.3 removes the balloon hint that was shown on startup.This is a small program that fixes the problem introduced by the Windows update KB2982791 with Delphi 2006 to 2010 that causes the error ""Cannot create file %Temp%\EditorLineEnds.ttr"".
+It works by moving the file to its own unique subdirectory whenever it is being created.
+
+Version 1.0.2 creates its own unique directory in temp and tries to delete and recreate it on startup in order to get rid of all those files from the last session.
+
+Version 1.0.3 removes the balloon hint that was shown on startup.","Categories
+Software Development"
+"PLEASE NOTE: Latest XOOPS files are on http://github.com/xoops and http://github.com/xoopsmodules25x)
+
+XOOPS is a Web application platform written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, intra-company and corporate portals, weblogs, and much more. XOOPS is an acronym of eXtensible Object Oriented Portal System. Initially a portal system, XOOPS is now a leading content management system (CMS) that serves as a versatile Web framework.
+
+XOOPS can also be used as a weblog or journal via a standard install using the News module alone. Another approach is to use modules like News, Forum, Download, Web Links, etc. to form a community that interacts with members and visitors. Or think big, like an enterprise, and develop modules to use with eShop that integrate into XOOP's uniform user management system.
+
+XOOPS is released under the terms of the GNU General Public License (GPL)PLEASE NOTE: Latest XOOPS files are on http://github.com/xoops and http://github.com/xoopsmodules25x)
+
+XOOPS is a Web application platform written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, intra-company and corporate portals, weblogs, and much more. XOOPS is an acronym of eXtensible Object Oriented Portal System. Initially a portal system, XOOPS is now a leading content management system (CMS) that serves as a versatile Web framework.
+
+XOOPS can also be used as a weblog or journal via a standard install using the News module alone. Another approach is to use modules like News, Forum, Download, Web Links, etc. to form a community that interacts with members and visitors. Or think big, like an enterprise, and develop modules to use with eShop that integrate into XOOP's uniform user management system.
+
+XOOPS is released under the terms of the GNU General Public License (GPL)","Categories
+Message Board, Site Management, Content Management Systems (CMS), Web Development Frameworks"
+"*New version 2018.04.23* - use the contact page on opulos.com or sourceforge to report any issues.
+
+NüHelp converts Microsoft Word documents and HTML files to a CHM file. It's easy to use for beginners and has lots of options for advanced users.
+
+Requirements:
+1) Word 2003, 2007, 2010 or 2013.
+2) HTML Help Workshop (included in zip file)
+3) .Net 3.5 Client Profile (already on most computers)
+
+*** Win7/8 users: After downloading the file, you will have to right click on the zip file, click properties, and then click the unblock button before unzipping. Otherwise the two chm help files in the zip file will either appear blank or say webpage not found.
+
+Tip: Use NuZip to zip CHM files to prevent gmail from rejecting the attachment: http://sourceforge.net/p/nuzip
+
+For programmers, a framework is provided that shows you how to link specific screens in your application to specific sections in the help file.
+
+NüHelp is written in C#*New version 2018.04.23* - use the contact page on opulos.com or sourceforge to report any issues.
+
+NüHelp converts Microsoft Word documents and HTML files to a CHM file. It's easy to use for beginners and has lots of options for advanced users.
+
+Requirements:
+1) Word 2003, 2007, 2010 or 2013.
+2) HTML Help Workshop (included in zip file)
+3) .Net 3.5 Client Profile (already on most computers)
+
+*** Win7/8 users: After downloading the file, you will have to right click on the zip file, click properties, and then click the unblock button before unzipping. Otherwise the two chm help files in the zip file will either appear blank or say webpage not found.
+
+Tip: Use NuZip to zip CHM files to prevent gmail from rejecting the attachment: http://sourceforge.net/p/nuzip
+
+For programmers, a framework is provided that shows you how to link specific screens in your application to specific sections in the help file.
+
+NüHelp is written in C#","Categories
+Software Development, Documentation, User Interface (UI)"
+"HeatmapGenerator is a graphical user interface software program written in C++, R, and OpenGL to create customized gene expression heatmaps from RNA-seq and microarray data in medical research. HeatmapGenerator can also be used to make heatmaps in a variety of other non-medical fields.
+
+HeatmapGenerator is peer-reviewed published software (http://www.scfbm.org/content/9/1/30). Please cite: [Khomtchouk et al.: ""HeatmapGenerator: High performance RNAseq and microarray visualization software suite to examine differential gene expression levels using an R and C++ hybrid computational pipeline."" Source Code for Biology and Medicine, 2014 9:30]
+
+HeatmapGenerator source code is available at: https://github.com/Bohdan-Khomtchouk/HeatmapGenerator
+
+Bohdan Khomtchouk wishes to acknowledge the support of the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program.
+
+HeatmapGenerator is released under the GNU GPL.HeatmapGenerator is a graphical user interface software program written in C++, R, and OpenGL to create customized gene expression heatmaps from RNA-seq and microarray data in medical research. HeatmapGenerator can also be used to make heatmaps in a variety of other non-medical fields.
+
+HeatmapGenerator is peer-reviewed published software (http://www.scfbm.org/content/9/1/30). Please cite: [Khomtchouk et al.: ""HeatmapGenerator: High performance RNAseq and microarray visualization software suite to examine differential gene expression levels using an R and C++ hybrid computational pipeline."" Source Code for Biology and Medicine, 2014 9:30]
+
+HeatmapGenerator source code is available at: https://github.com/Bohdan-Khomtchouk/HeatmapGenerator
+
+Bohdan Khomtchouk wishes to acknowledge the support of the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program.
+
+HeatmapGenerator is released under the GNU GPL.","Categories
+Software Development, Bio-Informatics, Medical"
+"This plugin add tabs for QtCreator source editor. It is very helpful when you edit less than 10 files simultaneously.
+
+Currently project supported by Trollix on GitHub, where you can find source code for newest QtCreator versions https://github.com/trollixx/qtcreator-tabbededitor-pluginThis plugin add tabs for QtCreator source editor. It is very helpful when you edit less than 10 files simultaneously.
+
+Currently project supported by Trollix on GitHub, where you can find source code for newest QtCreator versions https://github.com/trollixx/qtcreator-tabbededitor-plugin","Categories
+Software Development"
+CommitMonitor is a small tool to monitor Apache™ Subversion® repositories for new commits. It has a very small memory footprint and resides in the system tray.CommitMonitor is a small tool to monitor Apache™ Subversion® repositories for new commits. It has a very small memory footprint and resides in the system tray.,"Categories
+Subversion, Source Code Management"
+"This library allows to use the Raspberry Pi Camera.
+
+Main features:
+- Provides class RaspiCam for easy and full control of the camera
+- Provides class RaspiCam_Cv for easy control of the camera with OpenCV.
+- Easy compilation/installation using cmake.
+- No need to install development file of userland. Implementation is hidden.
+- Many examplesThis library allows to use the Raspberry Pi Camera.
+
+Main features:
+- Provides class RaspiCam for easy and full control of the camera
+- Provides class RaspiCam_Cv for easy control of the camera with OpenCV.
+- Easy compilation/installation using cmake.
+- No need to install development file of userland. Implementation is hidden.
+- Many examples","Categories
+Artificial Intelligence, Video, Libraries"
+"NxEngine 9.2 build 2.6.0 RC4
+|Increase Your Android Performance|
+
+Changelog :
+-Xreality engine
+-Unninstaller script for easy unninstal this mod
+-Open Vpn script
+-NxEngine
+-Eco Dynamic Power saving
+-Hibernate feature
+-High Sound Quality [Optimized For Rakun Optimizer]
+-Full easy configuration with aroma installer
+-Full I/O and Governor Optimalization
+-Batery Tweaks
+-Multitasking-RamManagement-Performance Optimalized
+-DarkZipalign-Zipalign
+-Entropy and cpu&Ram checker via terminal emulator
+-XReality port from xperia i1 honami
+-Bravia engine 3
+-NxEngine for kernel and sqlite3 database tweaks
+-Smoothnes multitasking
+-Screen Refresh rate optimizer
+-Smart governor
+
+Requiretment :
+-GB 2.3+
+-no use any tweaks
+
+Rom a not use tweaks
+extract the zip before instal and read how to instal.xml
+
+Credit :
+-Ryuinferno
+-Slaid480
+-pizza dox
+-Andi Ogie
+-C.innovation
+-All member the lounge droidindonesia
+-you....
+-and you...NxEngine 9.2 build 2.6.0 RC4
+|Increase Your Android Performance|
+
+Changelog :
+-Xreality engine
+-Unninstaller script for easy unninstal this mod
+-Open Vpn script
+-NxEngine
+-Eco Dynamic Power saving
+-Hibernate feature
+-High Sound Quality [Optimized For Rakun Optimizer]
+-Full easy configuration with aroma installer
+-Full I/O and Governor Optimalization
+-Batery Tweaks
+-Multitasking-RamManagement-Performance Optimalized
+-DarkZipalign-Zipalign
+-Entropy and cpu&Ram checker via terminal emulator
+-XReality port from xperia i1 honami
+-Bravia engine 3
+-NxEngine for kernel and sqlite3 database tweaks
+-Smoothnes multitasking
+-Screen Refresh rate optimizer
+-Smart governor
+
+Requiretment :
+-GB 2.3+
+-no use any tweaks
+
+Rom a not use tweaks
+extract the zip before instal and read how to instal.xml
+
+Credit :
+-Ryuinferno
+-Slaid480
+-pizza dox
+-Andi Ogie
+-C.innovation
+-All member the lounge droidindonesia
+-you....
+-and you...","Categories
+Performance Testing"
+"The goal of ""GeoWeb 3D Globe"" is developing 3D visualization and utilization module for geospatial data. We are conveniently wide range of developers hope to take advantage of geospatial information.
+
+Using three-dimensional spatial information service developed for web-based 3D ""GeoWeb 3D Globe"" The main contents of the project are as follows:
+1. Based on proven open source SW(WWJava)
+2. Specializing in 3D visualization of geospatial data
+3. Web based serviceThe goal of ""GeoWeb 3D Globe"" is developing 3D visualization and utilization module for geospatial data. We are conveniently wide range of developers hope to take advantage of geospatial information.
+
+Using three-dimensional spatial information service developed for web-based 3D ""GeoWeb 3D Globe"" The main contents of the project are as follows:
+1. Based on proven open source SW(WWJava)
+2. Specializing in 3D visualization of geospatial data
+3. Web based service","Categories
+Frameworks, Libraries"
+"qpt (Qt Project Tool) understands Qt C++ projects (.pro) and allows to pass this information to command line tools as ""Code Counters"" and ""Static Analysis tools"".
+
+It also can used inside QtCreator to act as a plugin for ""Static Analysis tools"" putting reported issues into QtCreator issues pane.qpt (Qt Project Tool) understands Qt C++ projects (.pro) and allows to pass this information to command line tools as ""Code Counters"" and ""Static Analysis tools"".
+
+It also can used inside QtCreator to act as a plugin for ""Static Analysis tools"" putting reported issues into QtCreator issues pane.","Categories
+QA Automation, Source Code Analysis, Collaborative Development"
+"VCG is an automated code security review tool for C++, C#, VB, PHP, Java, PL/SQL and COBOL, which is intended to speed up the code review process by identifying bad/insecure code.
+
+It has a few features that should make it useful. In addition to performing some more complex checks it also has a config file for each language that basically allows you to add any bad functions (or other text) that you want to search for. It attempts to find phrases within comments that can indicate broken code and it provides stats and a pie chart (for the entire codebase and for individual files) showing relative proportions of code, whitespace, comments, 'ToDo'-style comments and bad code.
+
+I've tried to produce something which searches intelligently for buffer overflows and signed/unsigned comparison in C, violations of OWASP recommendations in Java code, etc.
+
+Current version: 2.2.0VCG is an automated code security review tool for C++, C#, VB, PHP, Java, PL/SQL and COBOL, which is intended to speed up the code review process by identifying bad/insecure code.
+
+It has a few features that should make it useful. In addition to performing some more complex checks it also has a config file for each language that basically allows you to add any bad functions (or other text) that you want to search for. It attempts to find phrases within comments that can indicate broken code and it provides stats and a pie chart (for the entire codebase and for individual files) showing relative proportions of code, whitespace, comments, 'ToDo'-style comments and bad code.
+
+I've tried to produce something which searches intelligently for buffer overflows and signed/unsigned comparison in C, violations of OWASP recommendations in Java code, etc.
+
+Current version: 2.2.0","Categories
+Security, Source Code Analysis, Code Review"
+"XLStoXML is a portable cross-platform desktop application for file format translation between XLS/XLSX and XML. No installation required except Java. The simple and intuitive interface allows you to do complex operations with just a few clicks.
+
+We are currently offering only a free version of this software, this means that all the features are available for you! The downloads and old versions code are distributed in SourceForge, and will be available soon.
+
+This piece of software is more than a simple converter. XLStoXML allows you to configure the translation in a wide range of combinations to reach out your requirements. Convert one or a bunch of files in short time.
+
+What else? Track your conversions in the console tab, see the errors or the success of each of the excel files. If you get stuck or you need support, we give you help in numerous ways: http://xlstoxml.sourceforge.net/#Support.XLStoXML is a portable cross-platform desktop application for file format translation between XLS/XLSX and XML. No installation required except Java. The simple and intuitive interface allows you to do complex operations with just a few clicks.
+
+We are currently offering only a free version of this software, this means that all the features are available for you! The downloads and old versions code are distributed in SourceForge, and will be available soon.
+
+This piece of software is more than a simple converter. XLStoXML allows you to configure the translation in a wide range of combinations to reach out your requirements. Convert one or a bunch of files in short time.
+
+What else? Track your conversions in the console tab, see the errors or the success of each of the excel files. If you get stuck or you need support, we give you help in numerous ways: http://xlstoxml.sourceforge.net/#Support.","Categories
+Software Development, Software Testing, Code Generators"
+"This is the repository to host all those Harbour's contrib libraries and applications which could not comply with strict Harbour project goals but had the potentiality to march into the future.
+
+The goal is to keep this repository parallel with Harbours contrib and use the same build system which Harbour uses. This way it will be possible easily to shift any library/application from here to Harbour or vice-verse.
+
+As I am totally ignorant of Harbour's build system, it will be appreciated if someone knowledgeable take over this responsibility, which might be one-time task.
+
+Welcome to new chapter in Harbour history!
+
+Pritpal Bedi
+a student of software analysis & conceptsThis is the repository to host all those Harbour's contrib libraries and applications which could not comply with strict Harbour project goals but had the potentiality to march into the future.
+
+The goal is to keep this repository parallel with Harbours contrib and use the same build system which Harbour uses. This way it will be possible easily to shift any library/application from here to Harbour or vice-verse.
+
+As I am totally ignorant of Harbour's build system, it will be appreciated if someone knowledgeable take over this responsibility, which might be one-time task.
+
+Welcome to new chapter in Harbour history!
+
+Pritpal Bedi
+a student of software analysis & concepts","Categories
+Compilers, Agile Development Tools, Libraries"
+"With the growing need to exchange information and share resources, information security has become more important than ever in both the public and private sectors. Although many technologies have been developed to control access to files or resources, to enforce security policies, and to audit network usages, there does not exist a technology that can verify that the user who is using the system is the same person who logged in.
+
+FaceAccess provides a prototype implementation as a ""login module"" of an information system. The goal is to enhance the level of system security by periodically checking the user’s identity without disrupting the user’s activities.
+
+Installation instructions can be found in the package. If you need anymore guidance, please use the Wiki to post any kind of inquiry.
+
+NB: Please Donate to support the development of this project. PM me for other means. Any kind of support will be very much appreciated. Thanks a bunch.With the growing need to exchange information and share resources, information security has become more important than ever in both the public and private sectors. Although many technologies have been developed to control access to files or resources, to enforce security policies, and to audit network usages, there does not exist a technology that can verify that the user who is using the system is the same person who logged in.
+
+FaceAccess provides a prototype implementation as a ""login module"" of an information system. The goal is to enhance the level of system security by periodically checking the user’s identity without disrupting the user’s activities.
+
+Installation instructions can be found in the package. If you need anymore guidance, please use the Wiki to post any kind of inquiry.
+
+NB: Please Donate to support the development of this project. PM me for other means. Any kind of support will be very much appreciated. Thanks a bunch.","Categories
+Software Development"
+This project/document has been created to give more exposure of the advanced debugging and dump file analysis/concepts using WinDbg. The document contains the real world scenario of programming bugs/problems with the authors explanation.This project/document has been created to give more exposure of the advanced debugging and dump file analysis/concepts using WinDbg. The document contains the real world scenario of programming bugs/problems with the authors explanation.,"Categories
+Debuggers"
+"A pre-configured MinGW focused on ease of use, integration, workflow and completeness. It's also portable and isolated OSS distro.A pre-configured MinGW focused on ease of use, integration, workflow and completeness. It's also portable and isolated OSS distro.","Categories
+Terminals, Software Development, Software Distribution"
+"NCandE grants the popular Notepad++ text editor the capability to compile and execute any code, with native support for Ada, Batch, C, C++, D, Java, Lua and Python code. Custom languages can be added with the built-in GUI Configuration Tool. The compile (Build) and run (Execute) functions are added under the Run command in Notepad ++.
+
+The ""Build"" and ""Execute"" commands automatically detect which compiler is necessary for the file running the commands. Custom paths, commands and switches for compilers can also be easily implemented with the GUI Configuration Tool.
+
+For detailed information on NCandE, check out the wiki page.NCandE grants the popular Notepad++ text editor the capability to compile and execute any code, with native support for Ada, Batch, C, C++, D, Java, Lua and Python code. Custom languages can be added with the built-in GUI Configuration Tool. The compile (Build) and run (Execute) functions are added under the Run command in Notepad ++.
+
+The ""Build"" and ""Execute"" commands automatically detect which compiler is necessary for the file running the commands. Custom paths, commands and switches for compilers can also be easily implemented with the GUI Configuration Tool.
+
+For detailed information on NCandE, check out the wiki page.","Categories
+Build Tools, Usability, Source Code Analysis"
+"Information Dispersal Algorithym (IDA) is a method to split a file f into n pieces in such a way that the file can be reconstructed from some predefined subsets of pieces.
+
+this is a Java implementation.Information Dispersal Algorithym (IDA) is a method to split a file f into n pieces in such a way that the file can be reconstructed from some predefined subsets of pieces.
+
+this is a Java implementation.","Categories
+Algorithms"
+"This plugin mimics the ""open selected file"" in PSPad.
+
+I am a PHP developer and i often see an 'require_once(""../this/is/some/file.php"");'. In pspad you can select the whole path (../this/is/some/file.php) and open it from the menu.
+
+Now you can do the same in notepad++. Just select the whole path and press alt+o, or use the button in the toolbar on top. It will open the file automatically.
+
+The plugin understands the relative path.
+
+The code is also available on https://bitbucket.org/sgezel/quickopenpluginThis plugin mimics the ""open selected file"" in PSPad.
+
+I am a PHP developer and i often see an 'require_once(""../this/is/some/file.php"");'. In pspad you can select the whole path (../this/is/some/file.php) and open it from the menu.
+
+Now you can do the same in notepad++. Just select the whole path and press alt+o, or use the button in the toolbar on top. It will open the file automatically.
+
+The plugin understands the relative path.
+
+The code is also available on https://bitbucket.org/sgezel/quickopenplugin","Categories
+Software Development, Libraries"
+"GMLib (Google Maps Library) are components that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,.... All objects that you can put into a map. Actual components
+
+- TGMMap: component to use the Google Maps map
+- TGMMarker: component to show markers
+- TGMInfoWindow: component to show a balloon with information
+- TGMPolyline: component to show polylines
+- TGMPolygon: component to show polygons
+- TGMRectangle: component to show rectangles
+- TGMCircle: component to show circles
+- TGMGeoCode: component to geocoding
+- TGMDirection: component to get routes
+- TGMElevation: component to calc elevations
+- TGMGroundOverlay: component to show images
+
+Compiled in:
+- Delphi 6, 7, 2007, 2009
+- RAD Studio 2010, XE, XE2, XE3, XE4
+
+Compatible for VCL and FMX.
+
+For more information visit my blog at
+http://www.cadetill.com/gmlib (es)
+http://www.cadetill.com/gmlib_en (en)GMLib (Google Maps Library) are components that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,.... All objects that you can put into a map. Actual components
+
+- TGMMap: component to use the Google Maps map
+- TGMMarker: component to show markers
+- TGMInfoWindow: component to show a balloon with information
+- TGMPolyline: component to show polylines
+- TGMPolygon: component to show polygons
+- TGMRectangle: component to show rectangles
+- TGMCircle: component to show circles
+- TGMGeoCode: component to geocoding
+- TGMDirection: component to get routes
+- TGMElevation: component to calc elevations
+- TGMGroundOverlay: component to show images
+
+Compiled in:
+- Delphi 6, 7, 2007, 2009
+- RAD Studio 2010, XE, XE2, XE3, XE4
+
+Compatible for VCL and FMX.
+
+For more information visit my blog at
+http://www.cadetill.com/gmlib (es)
+http://www.cadetill.com/gmlib_en (en)","Categories
+Software Development"
+"A collection of extensions for Python's IDLE, the Python IDE built with the tkinter GUI toolkit.A collection of extensions for Python's IDLE, the Python IDE built with the tkinter GUI toolkit.","Categories
+Integrated Development Environments (IDE), Interpreters"
+"An open-source library to support Stanford's course 'Programming Abstractions', CS106B/X. Written initially for Linux, but porting to Windows/MinGW is planned.An open-source library to support Stanford's course 'Programming Abstractions', CS106B/X. Written initially for Linux, but porting to Windows/MinGW is planned.","Categories
+Libraries"
+"CodeBlocks With A full development environment.
+
+Took a while but CodeBlocks is now upto speed and in sync with the current release version.
+New version of CodeBlocks supports XML based configuration, so users can do specialized compiler support if needed.
+Changed away from the old Msys in favor of Msys2 which has better support for a lot of things like miktex.
+Old package is still there if you still need it but wont be developed on anymore.
+Loads of modifications compared to the Msys2 package from Alex, you can still update Msys2 packages from his server though.
+MinGW64 packages have to many changes compared to Alex version so those will not upgrade but im working on creating my own package server.
+Current Msys2/MinGW64 gcc is now 6.2.0-4 and binutils 2.27.
+
+New packages will be uploaded shortly.
+
+Stay tuned for more changes.CodeBlocks With A full development environment.
+
+Took a while but CodeBlocks is now upto speed and in sync with the current release version.
+New version of CodeBlocks supports XML based configuration, so users can do specialized compiler support if needed.
+Changed away from the old Msys in favor of Msys2 which has better support for a lot of things like miktex.
+Old package is still there if you still need it but wont be developed on anymore.
+Loads of modifications compared to the Msys2 package from Alex, you can still update Msys2 packages from his server though.
+MinGW64 packages have to many changes compared to Alex version so those will not upgrade but im working on creating my own package server.
+Current Msys2/MinGW64 gcc is now 6.2.0-4 and binutils 2.27.
+
+New packages will be uploaded shortly.
+
+Stay tuned for more changes.","Categories
+Compilers"
+"Driver para impresor / controlador fiscal EPSON en JAVA. Utiliza JNI para comunicacion con puerto serie. Testeado en winxp, linux x86_64, win7 32 / 64 sobre TMU-220AF. solo rollo papel continuo (chicos)Driver para impresor / controlador fiscal EPSON en JAVA. Utiliza JNI para comunicacion con puerto serie. Testeado en winxp, linux x86_64, win7 32 / 64 sobre TMU-220AF. solo rollo papel continuo (chicos)","Categories
+Office/Business, Hardware Drivers, Libraries"
+Generation PHP classes wrapping access to Mysql database. The current package includes a MySQL5 to PHP 5 class generator. Thanks to XML and XSLT it can easily be extended to other languages and databases. See forums->help for a detailed descriptionGeneration PHP classes wrapping access to Mysql database. The current package includes a MySQL5 to PHP 5 class generator. Thanks to XML and XSLT it can easily be extended to other languages and databases. See forums->help for a detailed description,"Categories
+Database, Software Development"
+"This python script will generate a custom python.xml file used by Notepad++ for auto-completion features when programming in python (function names, arguments, and descriptions), using your own set of imported modules.This python script will generate a custom python.xml file used by Notepad++ for auto-completion features when programming in python (function names, arguments, and descriptions), using your own set of imported modules.","Categories
+Text Editors, Code Generators"
+"******************************************************************************
+
+Please note that this project (and all downloads) can be now be found at:
+https://totalnonsense.com/open-source-vector-playing-cards
+
+******************************************************************************
+
+This is a set of poker size playing cards which has been hand crafted in a standard Vector Format (.SVG). All 52 faces are offered in one file as separate objects that can easily be cut/pasted/exported singly as desired.
+
+These are licensed under LPGL 3.0.******************************************************************************
+
+Please note that this project (and all downloads) can be now be found at:
+https://totalnonsense.com/open-source-vector-playing-cards
+
+******************************************************************************
+
+This is a set of poker size playing cards which has been hand crafted in a standard Vector Format (.SVG). All 52 faces are offered in one file as separate objects that can easily be cut/pasted/exported singly as desired.
+
+These are licensed under LPGL 3.0.","Categories
+Graphics, Libraries"
+"FSQLF - Free SQL Formatter is open source SQL code formatter and beautifier, built to make life easier for people dealing with long SQL queries.FSQLF - Free SQL Formatter is open source SQL code formatter and beautifier, built to make life easier for people dealing with long SQL queries.","Categories
+Code Review"
+MIUI for Samsung Galaxy S (and other Variants). Please refer here for more information: http://bit.ly/eKcaWW Home Page: http://miui9k.jblanc.orgMIUI for Samsung Galaxy S (and other Variants). Please refer here for more information: http://bit.ly/eKcaWW Home Page: http://miui9k.jblanc.org,"Categories
+Software Development, ROMs"
+"An open source starter package for creating Minecraft type games, using Unity 3 by Unity Technologies.An open source starter package for creating Minecraft type games, using Unity 3 by Unity Technologies.","Categories
+Frameworks, Minecraft Mods"
+"A minimal C++ framework for plug-in management. Small, cross-platform and simple to use.A minimal C++ framework for plug-in management. Small, cross-platform and simple to use.","Categories
+Frameworks, Libraries"
+"Simple XML parser written in C, with limited XPath and Unicode support and customizable tags. 'Simple' means that it does not implement all XML specifications, only the most widely used ones.Simple XML parser written in C, with limited XPath and Unicode support and customizable tags. 'Simple' means that it does not implement all XML specifications, only the most widely used ones.","Categories
+XML, XML Parsers"
+Surreal ToDo is an AJAX enabled web 2.0 list manager written in php with jquery and mysql. Lists are organized in tabs that allow multiple pages per tab. Everything is drag and drop for organization.Surreal ToDo is an AJAX enabled web 2.0 list manager written in php with jquery and mysql. Lists are organized in tabs that allow multiple pages per tab. Everything is drag and drop for organization.,"Categories
+To-Do Lists, Dynamic Content, Agile Development Tools"
+This tool helps you to reverse engineer UML Sequence Diagram for your java program at runtime. It works well with both complex java programs (that have multiple threads) and J2EE applications deployed on Application Servers.This tool helps you to reverse engineer UML Sequence Diagram for your java program at runtime. It works well with both complex java programs (that have multiple threads) and J2EE applications deployed on Application Servers.,"Categories
+Design, Source Code Analysis, Agile Development Tools"
+"Compile your clarion source code into java runtime environment. Includes the compiler, 100% java based runtime implementation of the clarion runtime environment and other miscellaneous tools.Compile your clarion source code into java runtime environment. Includes the compiler, 100% java based runtime implementation of the clarion runtime environment and other miscellaneous tools.","Categories
+Compilers"
+"SmartSlog (Smart Space Ontology) is a software/application development kit (SDK or ADK) for programming Smart-M3 agents (Knowledge Processors, KPs) that consume/produce smart space content according with its high-level ontological representation. SmartSlog applies the code generation approach: given an OWL ontology description, the ontology programming library is produced. The latter provides API to access the smart space via a Smart-M3 Semantic Information Broker (SIB) and data structures and functions to represent and maintain locally in KP code all ontology classes, relations, properties, and individuals.
+
+Since 2012 the project is supported by grant KA179 of Karelia ENPI programme, http://kareliaenpi.eu/
+
+More information about project: http://oss.fruct.org/wiki/SmartSlog
+Smart-M3 on Wikipedia: http://en.wikipedia.org/wiki/Smart-M3SmartSlog (Smart Space Ontology) is a software/application development kit (SDK or ADK) for programming Smart-M3 agents (Knowledge Processors, KPs) that consume/produce smart space content according with its high-level ontological representation. SmartSlog applies the code generation approach: given an OWL ontology description, the ontology programming library is produced. The latter provides API to access the smart space via a Smart-M3 Semantic Information Broker (SIB) and data structures and functions to represent and maintain locally in KP code all ontology classes, relations, properties, and individuals.
+
+Since 2012 the project is supported by grant KA179 of Karelia ENPI programme, http://kareliaenpi.eu/
+
+More information about project: http://oss.fruct.org/wiki/SmartSlog
+Smart-M3 on Wikipedia: http://en.wikipedia.org/wiki/Smart-M3","Categories
+Code Generators, Embedded Systems, Semantic Web"
+"Kunagi is a free web-based tool for software project management based on the agile framework Scrum. Not only does it help pragmatic people get their work done, it's also suitable for distributed teams and fun to use.Kunagi is a free web-based tool for software project management based on the agile framework Scrum. Not only does it help pragmatic people get their work done, it's also suitable for distributed teams and fun to use.","Categories
+Project Management, Collaborative Development, Agile Development Tools"
+"The Moqui Ecosystem is a series of open source components for enterprise applications all built on a common framework (Moqui Framework) written in Java and Groovy. The components include tools that plug in to the framework, business artifacts, and applications.
+
+Some of the popular tool plug ins include ElasticSearch, Apache FOP, Apache Camel, OrientDB, and Hazelcast.
+
+The business artifacts later includes a universal data model (mantle-udm), service library (mantle-usl), reusable screens (SimpleScreens), and integration components for EDI, Authorize.NET, and Shippo.
+
+There are 2 main applications in the ecosystem: POP Commerce ERP and eCommerce for retail and wholesale, and HiveMind Project Management and ERP for service organizations.
+
+NOTE: the code repositories for Moqui Ecosystem are hosted on GitHub at: https://github.com/moquiThe Moqui Ecosystem is a series of open source components for enterprise applications all built on a common framework (Moqui Framework) written in Java and Groovy. The components include tools that plug in to the framework, business artifacts, and applications.
+
+Some of the popular tool plug ins include ElasticSearch, Apache FOP, Apache Camel, OrientDB, and Hazelcast.
+
+The business artifacts later includes a universal data model (mantle-udm), service library (mantle-usl), reusable screens (SimpleScreens), and integration components for EDI, Authorize.NET, and Shippo.
+
+There are 2 main applications in the ecosystem: POP Commerce ERP and eCommerce for retail and wholesale, and HiveMind Project Management and ERP for service organizations.
+
+NOTE: the code repositories for Moqui Ecosystem are hosted on GitHub at: https://github.com/moqui","Categories
+Front-Ends, Frameworks, User Interface (UI)"
+Maveryx is an innovative Test Automation Framework for Java GUI-based applications. It eliminates the GUI Maps dependency by providing a new dynamic GUI objects handling and an expert system detecting and managing AUT changes and defects at runtime.Maveryx is an innovative Test Automation Framework for Java GUI-based applications. It eliminates the GUI Maps dependency by providing a new dynamic GUI objects handling and an expert system detecting and managing AUT changes and defects at runtime.,"Categories
+Software Testing, User Interface (UI), Test Frameworks, Automated Testing"
+"FastFlow is a C/C++ programming framework supporting the development of pattern-based parallel programs on multi/many-core, GPUs and distributed platforms. FastFlow run-time is built upon non-blocking threads and lock-free queues. Thanks to its very efficient CAS-free communication/synchronization support (e.g. few clock cycles core-to-core latency), FastFlow effectively supports the exploitation of fine grain parallelism, e.g. parallel codes managing very high frequency streams on commodity multi-core.
+FastFlow works on x86, x86_64, PPC, ARM, and Linux, Mac and Win XP/7.
+
+From Jan 1, 2018 code development migrated on GitHub at
+
+https://github.com/fastflow/fastflowFastFlow is a C/C++ programming framework supporting the development of pattern-based parallel programs on multi/many-core, GPUs and distributed platforms. FastFlow run-time is built upon non-blocking threads and lock-free queues. Thanks to its very efficient CAS-free communication/synchronization support (e.g. few clock cycles core-to-core latency), FastFlow effectively supports the exploitation of fine grain parallelism, e.g. parallel codes managing very high frequency streams on commodity multi-core.
+FastFlow works on x86, x86_64, PPC, ARM, and Linux, Mac and Win XP/7.
+
+From Jan 1, 2018 code development migrated on GitHub at
+
+https://github.com/fastflow/fastflow","Categories
+Algorithms, Scientific/Engineering, Libraries"
+"Project moved to GitHub: https://github.com/mikhail-barg/moreclipboard
+
+Please change your update site to https://raw.github.com/mikhail-barg/moreclipboard/master/site
+
+More Clipboard keeps track of the latest entries copied/cut into clipboard buffer and allows quick pasting from the popup list by pressing a hotkey. Inspired by Multi Clipboard plugin for Eclipse and Visual Assist for MS VS.Project moved to GitHub: https://github.com/mikhail-barg/moreclipboard
+
+Please change your update site to https://raw.github.com/mikhail-barg/moreclipboard/master/site
+
+More Clipboard keeps track of the latest entries copied/cut into clipboard buffer and allows quick pasting from the popup list by pressing a hotkey. Inspired by Multi Clipboard plugin for Eclipse and Visual Assist for MS VS.","Categories
+Integrated Development Environments (IDE), Usability"
+"Sort, filter and aggregate lists of business objects without all the boring code! This library provides a powerful ""view"" approach to data binding .NET objects to user interface controls.Sort, filter and aggregate lists of business objects without all the boring code! This library provides a powerful ""view"" approach to data binding .NET objects to user interface controls.","Categories
+Frameworks, Object Oriented, Presentation"
+C++ Grid/Table control with rich set of features. Now implemented in pure WinAPI. Also useful for MFC projects (via CWnd wrapper).C++ Grid/Table control with rich set of features. Now implemented in pure WinAPI. Also useful for MFC projects (via CWnd wrapper).,"Categories
+Object Oriented, User Interface (UI)"
+"The Tao Framework for .NET is a collection of bindings to facilitate cross-platform game-related development utilizing the .NET platform.
+
+Superseded by OpenTK: https://sourceforge.net/projects/opentk/The Tao Framework for .NET is a collection of bindings to facilitate cross-platform game-related development utilizing the .NET platform.
+
+Superseded by OpenTK: https://sourceforge.net/projects/opentk/","Categories
+Frameworks"
+SvnStat (Subversion Statistics) generates statistical reports with graphs and charts similar to StatCvs from Subversion (svn) logs.SvnStat (Subversion Statistics) generates statistical reports with graphs and charts similar to StatCvs from Subversion (svn) logs.,"Categories
+Version Control"
+"Scrinch is a stand-alone Swing application that helps managing your projects the Agile way (mostly Scrum). Easy to configure: not based on Web technology, no database to manage: just launch it and start working on your desktop.Scrinch is a stand-alone Swing application that helps managing your projects the Agile way (mostly Scrum). Easy to configure: not based on Web technology, no database to manage: just launch it and start working on your desktop.","Categories
+Project Management, QA Automation"
+"OfficePartner is the easy way to integrate your projects with Microsoft Office, the worlds leading business productivity software. With OfficePartner you can access COM services in Microsoft Office with easy to use VCL components.OfficePartner is the easy way to integrate your projects with Microsoft Office, the worlds leading business productivity software. With OfficePartner you can access COM services in Microsoft Office with easy to use VCL components.","Categories
+Office Suites, Software Development"
+"MDO is an open source data-access component suite, providing direct access to Firebird from Borland Delphi applications. MDO is a descendant of FreeIBComponents by Greg Deatz, so IBX users looking for a migration path to Firebird can have a look at theseMDO is an open source data-access component suite, providing direct access to Firebird from Borland Delphi applications. MDO is a descendant of FreeIBComponents by Greg Deatz, so IBX users looking for a migration path to Firebird can have a look at these","Categories
+Database, Frameworks, Usability"
+"a git web repository viewer that aims to be easy to set up and upgrade, light on dependencies, and comfortable to use.a git web repository viewer that aims to be easy to set up and upgrade, light on dependencies, and comfortable to use.","Categories
+Version Control"
+A gdb-like debugger for bashA gdb-like debugger for bash,"Categories
+Debuggers, Interpreters, System Shells"
+"Virtual T is a TRS-80 Model 100/102/200 emulator that runs on Windows, Linux, and Macintosh. The goal of Virtual T is to provide 100% hardware emulation so any existing programs will run. It also adds powerful development and debugging tools.Virtual T is a TRS-80 Model 100/102/200 emulator that runs on Windows, Linux, and Macintosh. The goal of Virtual T is to provide 100% hardware emulation so any existing programs will run. It also adds powerful development and debugging tools.","Categories
+Debuggers, Compilers, Emulators, Exam"
+"A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.A software gps simulator, providing TCP/IP, UDP, http and serial port connectivity in NMEA 0183, XML or user defined output format.
+Usable for testing all kinds of GPS applications.
+Can playback pre-recorded GPS files with NMEA output.","Categories
+Ham Radio, Software Testing, Simulation, Earth Sciences, GIS"
+"CatMDEdit is a metadata editor tool for describing resources, mainly geographic information. Developed by IAAA (University of Zaragoza) and GeoSpatiumLab S.L., sponsored by IGN Spain. Technical details: Java, XML, multiplatform, multilingual.CatMDEdit is a metadata editor tool for describing resources, mainly geographic information. Developed by IAAA (University of Zaragoza) and GeoSpatiumLab S.L., sponsored by IGN Spain. Technical details: Java, XML, multiplatform, multilingual.","Categories
+Documentation, MARC and Book/Library Metadata, GIS"
+"Piklab is an integrated development environment for applications based on PIC and dsPIC microcontrollers. The GNU PIC Utilities, SDCC, PICC, PIC30 toolchain, ICD2 debugger, PICkit1, PICkit2, PicStart+, GPSim and most direct programmers are supported.Piklab is an integrated development environment for applications based on PIC and dsPIC microcontrollers. The GNU PIC Utilities, SDCC, PICC, PIC30 toolchain, ICD2 debugger, PICkit1, PICkit2, PicStart+, GPSim and most direct programmers are supported.","Categories
+Integrated Development Environments (IDE), Software Development, Electronic Design Automation (EDA)"
+An eclipse plugin for ANTLRv3 grammars. Support for ANTLR 3.0.x/3.1.x/3.2.xAn eclipse plugin for ANTLRv3 grammars. Support for ANTLR 3.0.x/3.1.x/3.2.x,"Categories
+Integrated Development Environments (IDE), Build Tools"
+Luke StackWalker is a GUI-based C/C++ source code profiler for Windows. It samples your application's stack while the application is running to find out where the application spends most of its time.Luke StackWalker is a GUI-based C/C++ source code profiler for Windows. It samples your application's stack while the application is running to find out where the application spends most of its time.,"Categories
+Profiling"
+NeuronDotNet is a neural network engine written in C#. It provides an interface for advanced AI programmers to design various types of artificial neural networks and use them.NeuronDotNet is a neural network engine written in C#. It provides an interface for advanced AI programmers to design various types of artificial neural networks and use them.,"Categories
+Frameworks, Library, Artificial Intelligence, Neural Network Libraries"
+"X11-Basic is a dialect of the BASIC programming language with graphics capability that integrates features like shell scripting, cgi-Programming and full graphical visualisation into the easy to learn basic language on modern computers.X11-Basic is a dialect of the BASIC programming language with graphics capability that integrates features like shell scripting, cgi-Programming and full graphical visualisation into the easy to learn basic language on modern computers.","Categories
+Compilers, Interpreters, Virtual Machine"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+32/64 bit filesystem capable (Break that 2GB barrier!)
+Multi-user aware (row-level locking)
+Transaction processing (begin/commit/rollback)
+Easily extensible","Categories
+Database Engines/Servers, Software Development, File Systems"
+"Sharp Serialization Library serializes and deserializes primitives, ArrayLists and Hashtables, compatible with PHP serialize(). Use it for SOAP/Web Services communications where Hashtables cannot be passed otherwise, or saving to a file readable by php.Sharp Serialization Library serializes and deserializes primitives, ArrayLists and Hashtables, compatible with PHP serialize(). Use it for SOAP/Web Services communications where Hashtables cannot be passed otherwise, or saving to a file readable by php.","Categories
+Communications, Object Brokering, System"
+"HIPAATalk - Contains stored procedures and sample DTS packages for parsing and converting X12 to flat tables and creating HIPAA-compliant X12 files. Currently reads 820, 834, 835, 837P/I/D, 841, 997, TA1, and creates 835, 837P/I/D, 834, 277U, 997, TA1.HIPAATalk - Contains stored procedures and sample DTS packages for parsing and converting X12 to flat tables and creating HIPAA-compliant X12 files. Currently reads 820, 834, 835, 837P/I/D, 841, 997, TA1, and creates 835, 837P/I/D, 834, 277U, 997, TA1.","Categories
+Data Formats, Database, Frameworks"
+A framework for accessing the Windows Shell Namespace from .Net. Provides controls to enable embedding Windows Explorer-like functionality into .Net programs and for creating custom file dialogs.A framework for accessing the Windows Shell Namespace from .Net. Provides controls to enable embedding Windows Explorer-like functionality into .Net programs and for creating custom file dialogs.,"Categories
+Frameworks"
+Parse C++ header files using ply.lex to generate navigable class tree representing the class structure. CppHeaderParser.py has the advantage of being a pure python C++ header parser. Grap a copy of ply at http://www.dabeaz.com/ply/Parse C++ header files using ply.lex to generate navigable class tree representing the class structure. CppHeaderParser.py has the advantage of being a pure python C++ header parser. Grap a copy of ply at http://www.dabeaz.com/ply/,"Categories
+Code Generators, Compilers"
+"PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt
+
+Jasypt (Java Simplified Encryption) is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowledge on how cryptography works.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasyptPLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt
+
+Jasypt (Java Simplified Encryption) is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowledge on how cryptography works.
+
+PLEASE NOTE that we are in the process of moving to GitHub: https://github.com/jasypt/jasypt","Categories
+Cryptography, Algorithms, Object Oriented"
+DispHelper is a COM helper library that can be used in C++ or even plain C. No MFC or ATL required! It allows you to call COM objects with a printf style syntax. Included with DispHelper are over 20 samples demonstrating using COM objects from ADO to WMIDispHelper is a COM helper library that can be used in C++ or even plain C. No MFC or ATL required! It allows you to call COM objects with a printf style syntax. Included with DispHelper are over 20 samples demonstrating using COM objects from ADO to WMI,"Categories
+Software Development"
+OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.,"Categories
+Interpreters, Mathematics"
+Kuzya is simple crossplatform IDE for people who study programming. Main idea of it is to concentrate attention of the users only on learning the programming language but not on usage of IDE.Kuzya is simple crossplatform IDE for people who study programming. Main idea of it is to concentrate attention of the users only on learning the programming language but not on usage of IDE.,"Categories
+Software Development, Education"
+Software Defined Radio Transceiver project is written in Python while using GNU Radio and USRP. The goal is to create a software HF transceiver with various modes. Go here for more info: http://apps.sourceforge.net/mediawiki/sdr/index.php?title=Main_PageSoftware Defined Radio Transceiver project is written in Python while using GNU Radio and USRP. The goal is to create a software HF transceiver with various modes. Go here for more info: http://apps.sourceforge.net/mediawiki/sdr/index.php?title=Main_Page,"Categories
+Ham Radio, User Interface (UI), Scientific/Engineering"
+"Anjuta DevStudio is a versatile Integrated Development Environment (IDE) for software development on GNU/Linux. It features many advanced facilities such as project management, application wizards, interactive debugger, source browsing etc.Anjuta DevStudio is a versatile Integrated Development Environment (IDE) for software development on GNU/Linux. It features many advanced facilities such as project management, application wizards, interactive debugger, source browsing etc.","Categories
+GNOME, Software Development"
+"Randon number generation & testing. The best suite of statistical tests for fast PRNGs anywhere. Multithreaded for speed, command line tools for automation, no upper limit on data size. Also, a variety of C++ pseudo-random number generators with well designed interfaces aimed at practical uses, not just research.Randon number generation & testing. The best suite of statistical tests for fast PRNGs anywhere. Multithreaded for speed, command line tools for automation, no upper limit on data size. Also, a variety of C++ pseudo-random number generators with well designed interfaces aimed at practical uses, not just research.","Categories
+Software Development, Test and Measurement, Statistics"
+"""Roberge's Used Robot (RUR) : a Python Learning Environment"" is a Python implementation of a ""robot environment"" as introduced by R. Pattis in 1981. **It is obsolete.** See https://github.com/aroberge/rur-ple""Roberge's Used Robot (RUR) : a Python Learning Environment"" is a Python implementation of a ""robot environment"" as introduced by R. Pattis in 1981. **It is obsolete.** See https://github.com/aroberge/rur-ple","Categories
+Simulation Games, Documentation, Education"
+"JGAP is a Genetic Algorithms and Genetic Programming package written in Java. It is designed to require minimum effort to use, but is also designed to be highly modular. JGAP features grid functionality and a lot of examples. Many unit tests included.
+
+Legal notice/Impressum:
+Klaus Meffert
+An der Struth 25
+D-65510 Idstein
+sourceforge <at> klausmeffert.deJGAP is a Genetic Algorithms and Genetic Programming package written in Java. It is designed to require minimum effort to use, but is also designed to be highly modular. JGAP features grid functionality and a lot of examples. Many unit tests included.
+
+Legal notice/Impressum:
+Klaus Meffert
+An der Struth 25
+D-65510 Idstein
+sourceforge <at> klausmeffert.de","Categories
+Genetic Algorithms, Simulation, Bio-Informatics, Artificial Intelligence, Information Analysis"
+"Important: Groimp migrates to Gitlab. You can find the latest code and documentation at https://gitlab.com/grogra/groimp/-/wikis/home. The version on Sourceforge will not be updated anymore.
+
+The modelling platform GroIMP is designed as an integrated platform which incorporates modelling, visualisation and interaction. It exhibits several features which makes itself suitable for the field of biological or ALife modelling:
+
+The “modelling backbone” consists in the language XL. It is fully integrated, e.g., the user can interactively select the rules to be applied.
+GroIMP provides classes that can be used in modelling: Turtle commands, further geometrical classes like bicubic surfaces, the class Cell which has been used in the Game Of Life implementation, and so on.
+The outcome of a model is visualised within GroIMP.
+In the visual representation of the model output, users can interact with the dynamics of the model, e.g., by selecting or deleting elements.Important: Groimp migrates to Gitlab. You can find the latest code and documentation at https://gitlab.com/grogra/groimp/-/wikis/home. The version on Sourceforge will not be updated anymore.
+
+The modelling platform GroIMP is designed as an integrated platform which incorporates modelling, visualisation and interaction. It exhibits several features which makes itself suitable for the field of biological or ALife modelling:
+
+The “modelling backbone” consists in the language XL. It is fully integrated, e.g., the user can interactively select the rules to be applied.
+GroIMP provides classes that can be used in modelling: Turtle commands, further geometrical classes like bicubic surfaces, the class Cell which has been used in the Game Of Life implementation, and so on.
+The outcome of a model is visualised within GroIMP.
+In the visual representation of the model output, users can interact with the dynamics of the model, e.g., by selecting or deleting elements.","Categories
+Compilers, 3D Modeling, 3D Rendering, Graphic Design, Simulation, Bio-Informatics"
+"Tools for localization:
+- Pootle: web based translation management system.
+- Virtaal: Computer Aided Translation (CAT) tool.
+- Translate Toolkit: QA, format conversion and support (PO, Java .properties, OpenOffice, Mozilla, XLIFF, TMX, TBX, CSV, Qt .ts).Tools for localization:
+- Pootle: web based translation management system.
+- Virtaal: Computer Aided Translation (CAT) tool.
+- Translate Toolkit: QA, format conversion and support (PO, Java .properties, OpenOffice, Mozilla, XLIFF, TMX, TBX, CSV, Qt .ts).","Categories
+Localization (L10N), Internationalization (I18N), Computer Aided Translation (CAT)"
+"gpsim is an open sourced simulator for Microchip's PIC microcontrollers. It supports all three families of PICs: 12-bit, 14-bit, and 16-bit cores. See also gputils http://gputils.sourceforge.net/gpsim is an open sourced simulator for Microchip's PIC microcontrollers. It supports all three families of PICs: 12-bit, 14-bit, and 16-bit cores. See also gputils http://gputils.sourceforge.net/","Categories
+Debuggers, Emulators, Electronic Design Automation (EDA)"
+"NUnit brings xUnit-style unit-testing to all .Net languages.
+
+Although we no longer host our development on Sourceforge, our latest releases are always available here, as well as at our current development site at http://launchpad.net/nunitv2
+
+Please report bugs at http://bugs.launchpad.net/nunitv2
+
+You can browse or download the current source code at http://code.launchpad.net/nunitv2NUnit brings xUnit-style unit-testing to all .Net languages.
+
+Although we no longer host our development on Sourceforge, our latest releases are always available here, as well as at our current development site at http://launchpad.net/nunitv2
+
+Please report bugs at http://bugs.launchpad.net/nunitv2
+
+You can browse or download the current source code at http://code.launchpad.net/nunitv2","Categories
+Software Development, Unit Testing"
+"An implementation of DSSSL, a style language to format SGML or XML documents.
+OpenJade contains backends for various formats (RTF, HTML, TeX, MIF, SGML2SGML, and FOT). This project also maintains OpenSP.An implementation of DSSSL, a style language to format SGML or XML documents.
+OpenJade contains backends for various formats (RTF, HTML, TeX, MIF, SGML2SGML, and FOT). This project also maintains OpenSP.","Categories
+XML, SGML, DocBook, HTML/XHTML, TeX/LaTeX, Interpreters"
+"Chart component based on SWT.
+
+- project has been migrated to https://github.com/eclipse/swtchart
+- please file issues at https://github.com/eclipse/swtchart/issuesChart component based on SWT.
+
+- project has been migrated to https://github.com/eclipse/swtchart
+- please file issues at https://github.com/eclipse/swtchart/issues","Categories
+User Interface (UI)"
+"Automate almost anything by sending keystrokes & mouse clicks (macros). Create hotkeys for keyboard, mouse, joystick, & handheld remote controls. Define abbreviations that expand as you type them (AutoText). Create graphical user interfaces & menu bars.Automate almost anything by sending keystrokes & mouse clicks (macros). Create hotkeys for keyboard, mouse, joystick, & handheld remote controls. Define abbreviations that expand as you type them (AutoText). Create graphical user interfaces & menu bars.","Categories
+Office/Business, Desktop Environment, Software Testing, Interpreters, User Interface (UI), Systems Administration"
+"Python framework to access Linux dumps programmatically from 'crash' and tools written using it
+
+Documentation (a work in progress!) is available at
+
+https://pykdump.readthedocs.io/en/latest/Python framework to access Linux dumps programmatically from 'crash' and tools written using it
+
+Documentation (a work in progress!) is available at
+
+https://pykdump.readthedocs.io/en/latest/","Categories
+Debuggers"

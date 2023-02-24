@@ -1,0 +1,507 @@
+Description,Category
+"CMSimple_XH is a modular, easy-to-install and easy-to-use one administrator Content Management System (CMS) without database. Contents are stored in flat files. Upload it to a server with php 4.3 or higher and it runs. (On some servers writing permissions have to be given.)CMSimple_XH is a modular, easy-to-install and easy-to-use one administrator Content Management System (CMS) without database. Contents are stored in flat files. Upload it to a server with php 4.3 or higher and it runs. (On some servers writing permissions have to be given.)","Categories
+Content Management Systems (CMS)"
+"ClickHeat is a visual heatmap of clicks on a HTML page, showing hot and cold click zones. Requires Javascript on the client to track clicks, PHP and GD on the server to log clicks and generate the heatmap.
+
+You should download it on Github where the project has moved: https://github.com/dugwood/clickheatClickHeat is a visual heatmap of clicks on a HTML page, showing hot and cold click zones. Requires Javascript on the client to track clicks, PHP and GD on the server to log clicks and generate the heatmap.
+
+You should download it on Github where the project has moved: https://github.com/dugwood/clickheat","Categories
+WWW/HTTP, Log Analysis"
+A general purpose source code indexer and cross-referencer that provides web-based browsing of source code with links to the definition and usage of any identifier. Supports multiple languages. Up-to-date information in http://lxr.sourceforge.netA general purpose source code indexer and cross-referencer that provides web-based browsing of source code with links to the definition and usage of any identifier. Supports multiple languages. Up-to-date information in http://lxr.sourceforge.net,"Categories
+Search Engines, Source Code Analysis, Source Code Management"
+"This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).This is the Standard French translation project for phpBB3. We are doing translations of the actual software itself (language files, packages and imagesets).","Categories
+BBS, Message Board, Internationalization (I18N)"
+"Jena is Java toolkit for developing semantic web applications based on W3C recommendations for RDF and OWL. It provides an RDF API; ARP, an RDF parser; SPARQL, the W3C RDF query language; an OWL API; and rule-based inference for RDFS and OWL.
+
+Jena is now an Apache project:
+
+http://jena.apache.org/Jena is Java toolkit for developing semantic web applications based on W3C recommendations for RDF and OWL. It provides an RDF API; ARP, an RDF parser; SPARQL, the W3C RDF query language; an OWL API; and rule-based inference for RDFS and OWL.
+
+Jena is now an Apache project:
+
+http://jena.apache.org/","Categories
+Database, WWW/HTTP"
+"EGroupware has moved to Github, please find all our downloads there: https://github.com/EGroupware/egroupware/releases
+
+EGroupware is a multi-user, web-based groupware suite. Currently available modules include: email, addressbook, calendar, infolog (notes, to-do's, phone calls), content management, wiki, project management, tracker, timesheet, knowledge base, CalDAV/CardDAVEGroupware has moved to Github, please find all our downloads there: https://github.com/EGroupware/egroupware/releases
+
+EGroupware is a multi-user, web-based groupware suite. Currently available modules include: email, addressbook, calendar, infolog (notes, to-do's, phone calls), content management, wiki, project management, tracker, timesheet, knowledge base, CalDAV/CardDAV","Categories
+File Sharing, Email Clients, Scheduling, Office Suites, Project Management, Site Management"
+"Fetch the latest version on https://get.typo3.org.
+
+TYPO3 is an enterprise class Web CMS written in PHP/MySQL. It's designed to be extended with custom written backend modules and frontend libraries for special functionality.
+It has very powerful integration of image manipulation.Fetch the latest version on https://get.typo3.org.
+
+TYPO3 is an enterprise class Web CMS written in PHP/MySQL. It's designed to be extended with custom written backend modules and frontend libraries for special functionality.
+It has very powerful integration of image manipulation.","Categories
+Site Management, Content Management Systems (CMS)"
+"Untangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.comUntangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.com","Categories
+Email, Security, Networking, Logging, Internet"
+"PHPFusion is an award-winning open source content management system (CMS).
+PHPFusion is written in PHP and MySQL and includes a simple, comprehensive administration system.
+Demos : https://demos.php-fusion.co.uk/PHPFusion is an award-winning open source content management system (CMS).
+PHPFusion is written in PHP and MySQL and includes a simple, comprehensive administration system.
+Demos : https://demos.php-fusion.co.uk/","Categories
+Message Board, Site Management, Content Management Systems (CMS)"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+GNU Library or Lesser General Public License version 2.0 (LGPLv2)","Categories
+Email, Office/Business, Games/Entertainment, Browsers, Design, Education"
+"This Chrome/Iron extension is inspired by the excellent Firefox extension - BarTab, although it's much less sophisticated and powerful.
+
+I've written it over a weekend while learning Chrome's API, so it might be a bit unpolished ;) I just couldn't believe it's not possible to do something about Chrome's startup tab loading mess.
+
+Turns out it's possible, but results are pretty unstable depending on OS, Chrome version and computer's speed.
+
+I didn't publish it on Web Store, because I don't have a developer account and don't want to pay entry fee to publish a free extension.
+
+It works for 10 secs on Chrome/Iron start, blocking tabs that are not active from any web requests.
+
+After those 10 seconds the web traffic is restored and the extension only monitors the tabs that were previously blocked to reload them when they are activated.
+
+It's 10 secs so that non-SSD boxes manage to finish loading. I plan to make it configurable when I'll have some time. Feel free to contribute!This Chrome/Iron extension is inspired by the excellent Firefox extension - BarTab, although it's much less sophisticated and powerful.
+
+I've written it over a weekend while learning Chrome's API, so it might be a bit unpolished ;) I just couldn't believe it's not possible to do something about Chrome's startup tab loading mess.
+
+Turns out it's possible, but results are pretty unstable depending on OS, Chrome version and computer's speed.
+
+I didn't publish it on Web Store, because I don't have a developer account and don't want to pay entry fee to publish a free extension.
+
+It works for 10 secs on Chrome/Iron start, blocking tabs that are not active from any web requests.
+
+After those 10 seconds the web traffic is restored and the extension only monitors the tabs that were previously blocked to reload them when they are activated.
+
+It's 10 secs so that non-SSD boxes manage to finish loading. I plan to make it configurable when I'll have some time. Feel free to contribute!","Categories
+Browser Extensions and Plugins"
+"Editor for MySQL database tables.
+Edit, View or Add records of a MySQL table.
+Languages: English, French, German, Italian, (Mex) Spanish, Dutch and Swedish
+
+Version 1.3.2:
+PHP8 compatible and two new language files:Editor for MySQL database tables.
+Edit, View or Add records of a MySQL table.
+Languages: English, French, German, Italian, (Mex) Spanish, Dutch and Swedish
+
+Version 1.3.2:
+PHP8 compatible and two new language files:","Categories
+Database, Front-Ends, Site Management"
+"Dual panel Android file manager (like Norton or Total Commander). Aside the /sdcard it works with FTP servers, Windows (Samba) network shares (with a plug-in), ZIP archives, etc. Lots more features and customization settings are there.
+
+Feel free to add a feature request here: http://tinyurl.com/gc-user
+Report bugs and issues: http://tinyurl.com/gc-issueDual panel Android file manager (like Norton or Total Commander). Aside the /sdcard it works with FTP servers, Windows (Samba) network shares (with a plug-in), ZIP archives, etc. Lots more features and customization settings are there.
+
+Feel free to add a feature request here: http://tinyurl.com/gc-user
+Report bugs and issues: http://tinyurl.com/gc-issue","Categories
+FTP Clients, SFTP Clients"
+"Apache Mobile Filter is the easiest and fastest way to detect mobile devices. AMF is a suite of tools that allow access to a Device Repository (such as WURFL, DetectRight, 51Degrees.mobi or the free AMF service) directly from Apache: now you can detect devices no matter what language your website uses.Apache Mobile Filter is the easiest and fastest way to detect mobile devices. AMF is a suite of tools that allow access to a Device Repository (such as WURFL, DetectRight, 51Degrees.mobi or the free AMF service) directly from Apache: now you can detect devices no matter what language your website uses.","Categories
+Site Management, HTTP Servers, Mobile"
+"Regain is a Java search engine based on Jakarta Lucene. It provides indexing and searching files for plenty of formats (HTML,XML,doc(x),xls(x),ppt(x),oo,PDF,RTF,mp3,mp4,Java). A TagLibrary eases integrating search results in your JSP based web page.Regain is a Java search engine based on Jakarta Lucene. It provides indexing and searching files for plenty of formats (HTML,XML,doc(x),xls(x),ppt(x),oo,PDF,RTF,mp3,mp4,Java). A TagLibrary eases integrating search results in your JSP based web page.","Categories
+Data Formats, Desktop Environment, Search Engines"
+"SWFAddress is a small, but powerful library that provides deep linking for Flash and Ajax. It's a developer tool, allowing creation of unique virtual URLs that can point to a website section or an application state.SWFAddress is a small, but powerful library that provides deep linking for Flash and Ajax. It's a developer tool, allowing creation of unique virtual URLs that can point to a website section or an application state.","Categories
+Browsers"
+"eAccelerator is a further development from mmcache PHP Accelerator & Encoder. It increases performance of PHP scripts by caching them in compiled state, so that the overhead of compiling is almost completely eliminated.eAccelerator is a further development from mmcache PHP Accelerator & Encoder. It increases performance of PHP scripts by caching them in compiled state, so that the overhead of compiling is almost completely eliminated.","Categories
+Dynamic Content, Code Generators"
+Projet de traduction française de Mozilla et ses dérivés - French translation project for Mozilla and its derivativesProjet de traduction française de Mozilla et ses dérivés - French translation project for Mozilla and its derivatives,"Categories
+Internet"
+Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters. Supports clusters up to 2000 nodes in size.Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters. Supports clusters up to 2000 nodes in size.,"Categories
+Site Management, Systems Administration, Monitoring, Clustering, Distributed Computing"
+"With this application you can download all images from a Tumblr page.
+
+Please, check discussion for bugs and feedback.With this application you can download all images from a Tumblr page.
+
+Please, check discussion for bugs and feedback.","Categories
+WWW/HTTP"
+"Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications.Plugin for Notepad++ allowing FTP, FTPS, FTPES and SFTP communications.","Categories
+Text Editors, File Transfer Protocol (FTP), SSH"
+"Megaupload Downloader is a programme born to avoid users tons of advertisement, poup-ups, etc.. that we get when we try to download from free file hosting services.Megaupload Downloader is a programme born to avoid users tons of advertisement, poup-ups, etc.. that we get when we try to download from free file hosting services.","Categories
+File Sharing, Internet"
+"ISPConfig - ISP management and Hosting Control Panel. ISPConfig manages one or more webservers, mailservers, BIND DNS server, FTP servers, MySQL databases and virtual Servers with an easy to use webinterface for administrators, resellers and clients.ISPConfig - ISP management and Hosting Control Panel. ISPConfig manages one or more webservers, mailservers, BIND DNS server, FTP servers, MySQL databases and virtual Servers with an easy to use webinterface for administrators, resellers and clients.","Categories
+Site Management, Systems Administration, Email Servers"
+"OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.","Categories
+Text Editors, Communications, Other/Nonlisted Topic, Office/Business, Internet, Simulation, Physics, Multimedia"
+"FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!","Categories
+File Sharing, File Transfer Protocol (FTP), Networking, FTP Clients"
+TV-Browser is a java-based TV guide which can be easily extended with lots of plugins. It is designed to look like your paper TV guide.TV-Browser is a java-based TV guide which can be easily extended with lots of plugins. It is designed to look like your paper TV guide.,"Categories
+Games/Entertainment, Internet, Multimedia"
+"PhpWiki is a WikiWikiWeb clone in PHP. A WikiWikiWeb is a site where anyone can edit the pages through an HTML form. Multiple storage backends, dynamic hyperlinking, themeable, scriptable by plugins, full authentication, ACL's.PhpWiki is a WikiWikiWeb clone in PHP. A WikiWikiWeb is a site where anyone can edit the pages through an HTML form. Multiple storage backends, dynamic hyperlinking, themeable, scriptable by plugins, full authentication, ACL's.","Categories
+Site Management, Wiki"
+"A very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linuxA very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linux","Categories
+MSN Messenger, Networking, Internet, Messaging"
+"WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB. WampServer automatically installs everything you need to intuitively develope Web applications. You will be able to tune your server without even touching its setting files. Best of all, WampServer is available for free (under GPML license) in both 32 and 64 bit versions. Wampserver is not compatible with Windows XP, SP3, or Windows Server 2003.WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB. WampServer automatically installs everything you need to intuitively develope Web applications. You will be able to tune your server without even touching its setting files. Best of all, WampServer is available for free (under GPML license) in both 32 and 64 bit versions. Wampserver is not compatible with Windows XP, SP3, or Windows Server 2003.","Categories
+HTTP Servers, Web Development"
+"Shorten your time of reading mega bytes of log files! DE 2016-01
+Supporting Don HO's NotePad++ see http://notepad-plus-plus.org/
+This sources are a dockable pattern search plugin for Notepad++ version 5.1 or later. With this plugin you can search for multiple patterns in any of the opened documents in NotePad++.
+You may want to tune your search using all fancy tricks from NPP like regular expressions or escaped patterns and give each of the searches different colors. The result will be stored in a dockable window in same ordering as in the origin and a double click allows you to jump to the original position.
+
+It is designed to treat log-files of typical size like 60MB. More features can be found in the help dialogue of the plugin. For generating the dll file I use a msdev compiler. If you like to port it to other OSs just let me know your changes and I'll incorporate it.
+Best Regards,
+Mattes H.Shorten your time of reading mega bytes of log files! DE 2016-01
+Supporting Don HO's NotePad++ see http://notepad-plus-plus.org/
+This sources are a dockable pattern search plugin for Notepad++ version 5.1 or later. With this plugin you can search for multiple patterns in any of the opened documents in NotePad++.
+You may want to tune your search using all fancy tricks from NPP like regular expressions or escaped patterns and give each of the searches different colors. The result will be stored in a dockable window in same ordering as in the origin and a double click allows you to jump to the original position.
+
+It is designed to treat log-files of typical size like 60MB. More features can be found in the help dialogue of the plugin. For generating the dll file I use a msdev compiler. If you like to port it to other OSs just let me know your changes and I'll incorporate it.
+Best Regards,
+Mattes H.","Categories
+Text Processing, Log Analysis, Logging"
+"This freely available open-source software turns Wikipedia’s popular software engine MediaWiki into a fully-fledged enterprise wiki solution. Companies can continue cherishing MediaWiki’s numerous advantages and automation capabilities; with BlueSpice, they can now work even more comfortably, safely and more effectively.
+Compared with basic MediaWiki, BlueSpice provides, amongst other, the following enhancements: comfortable and sophisticated rights management capabilities, a visual editor (WYSIWYG), easy image - and file upload, workflows.
+
+Further information with respect to the management and administration of your wiki:
+BlueSpice is free, open source und not subject to any restrictions with regards to the number of users. There are no licence fees or other additional costs, no matter how many employees are using the software. Existing content is not changed or lost when installing BlueSpice.This freely available open-source software turns Wikipedia’s popular software engine MediaWiki into a fully-fledged enterprise wiki solution. Companies can continue cherishing MediaWiki’s numerous advantages and automation capabilities; with BlueSpice, they can now work even more comfortably, safely and more effectively.
+Compared with basic MediaWiki, BlueSpice provides, amongst other, the following enhancements: comfortable and sophisticated rights management capabilities, a visual editor (WYSIWYG), easy image - and file upload, workflows.
+
+Further information with respect to the management and administration of your wiki:
+BlueSpice is free, open source und not subject to any restrictions with regards to the number of users. There are no licence fees or other additional costs, no matter how many employees are using the software. Existing content is not changed or lost when installing BlueSpice.","Categories
+Wiki, Customer Service, Knowledge Management"
+"Virtuoso is a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality.Virtuoso is a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality.","Categories
+Database Engines/Servers, Search Engines, HTTP Servers"
+"NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.","Categories
+Communications, Networking, Internet"
+"Community websites can be difficult to maintain and a target for hackers. But, not with ImpressCMS behind it.
+
+Started in 2007 by a talented and committed group of developers and designers unhappy with the progress of the projects they were working on, ImpressCMS continues to lead in providing secure, easy to build and maintain community websites.
+
+ImpressCMS is built using PHP and MySQL, and employs JavaScript and Smarty and is optimized for performance - on even shared hosts.
+
+Secure. Easy. Open. Friendly.Community websites can be difficult to maintain and a target for hackers. But, not with ImpressCMS behind it.
+
+Started in 2007 by a talented and committed group of developers and designers unhappy with the progress of the projects they were working on, ImpressCMS continues to lead in providing secure, easy to build and maintain community websites.
+
+ImpressCMS is built using PHP and MySQL, and employs JavaScript and Smarty and is optimized for performance - on even shared hosts.
+
+Secure. Easy. Open. Friendly.","Categories
+Site Management, Frameworks, Content Management Systems (CMS)"
+gpEasy is a complete Content Management System (CMS) that lets users create rich and flexible web sites with a simple and easy to use interface. The embedded design of the admin interface allows users to instantly see changes in one browser window.gpEasy is a complete Content Management System (CMS) that lets users create rich and flexible web sites with a simple and easy to use interface. The embedded design of the admin interface allows users to instantly see changes in one browser window.,"Categories
+Content Management Systems (CMS)"
+Tools for every developer to collaborate and work together.Tools for every developer to collaborate and work together.,"Categories
+Desktop Environment, Dynamic Content"
+"Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.","Categories
+Terminals, Communications, Software Development, Networking, Internet"
+"Self Integrated DNS DHCP Server Open Source Freeware Windows/Linux. Works as DHCP or DNS Server or both. Using both services automatically adds DHCP allotted hosts automatically to DNS Server. Support Relay Agent, PXEBOOT, BOOTP, Zone Trasfer, DHCP Range Filters. Download.Self Integrated DNS DHCP Server Open Source Freeware Windows/Linux. Works as DHCP or DNS Server or both. Using both services automatically adds DHCP allotted hosts automatically to DNS Server. Support Relay Agent, PXEBOOT, BOOTP, Zone Trasfer, DHCP Range Filters. Download.","Categories
+DNS, Networking, Init"
+"The open source Enterprise Content Management (ECM) software that handles any type of content, allowing users to easily share and collaborate on content.The open source Enterprise Content Management (ECM) software that handles any type of content, allowing users to easily share and collaborate on content.","Categories
+File Sharing, Enterprise, Dynamic Content, Productivity"
+Moved to https://codeberg.org/andybalaam/FreeGuideMoved to https://codeberg.org/andybalaam/FreeGuide,"Categories
+Other/Nonlisted Topic, Games/Entertainment, Internet"
+"Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/","Categories
+Security, Desktop Environment, WWW/HTTP, Networking"
+"pH7Builder is a Professional, Free & Open Source PHP Social Dating Builder Software (primarily designed for developers ...).
+
+This Social Dating Web App is fully coded in object-oriented PHP (OOP) with the MVC pattern (Model-View-Controller). It is low resource-intensive, extremely powerful and highly secure. pH7Builder is included with over 42 native modules and is based on its homemade pH7 Framework which includes more than 52 packages
+
+To summarize, pH7Builder Social Dating Script gives you the perfect ingredients to create the best dating web app or social networking site on the World Wide Web!
+
+
+-- Get Involved! --
+If you want to work on an Innovative Open Source Social/Dating Software Project with a Beautiful PHP Code using the latest PHP Features while collaborating with nice people and finally if you love the ""Social"" and ""Dating"" Services, ...you HAVE TO DO IT!
+
+- Fork the repo http://github.com/pH7Software/pH7-Social-Dating-CMSpH7Builder is a Professional, Free & Open Source PHP Social Dating Builder Software (primarily designed for developers ...).
+
+This Social Dating Web App is fully coded in object-oriented PHP (OOP) with the MVC pattern (Model-View-Controller). It is low resource-intensive, extremely powerful and highly secure. pH7Builder is included with over 42 native modules and is based on its homemade pH7 Framework which includes more than 52 packages
+
+To summarize, pH7Builder Social Dating Script gives you the perfect ingredients to create the best dating web app or social networking site on the World Wide Web!
+
+
+-- Get Involved! --
+If you want to work on an Innovative Open Source Social/Dating Software Project with a Beautiful PHP Code using the latest PHP Features while collaborating with nice people and finally if you love the ""Social"" and ""Dating"" Services, ...you HAVE TO DO IT!
+
+- Fork the repo http://github.com/pH7Software/pH7-Social-Dating-CMS","Categories
+Dynamic Content, Content Management Systems (CMS), Social Networking, Web Development Frameworks"
+"Simple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demoSimple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demo","Categories
+Email, Other/Nonlisted Topic, CRM, Social Networking"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.License
+GNU General Public License version 3.0 (GPLv3)","Categories
+Browsers"
+"Claroline is collaborative learning environment based on PHP/mySQL. It allows teachers or education institutions to create and administer courses through the web. The software provides group management, forums, document repositories, calendar, SCORM,...Claroline is collaborative learning environment based on PHP/mySQL. It allows teachers or education institutions to create and administer courses through the web. The software provides group management, forums, document repositories, calendar, SCORM,...","Categories
+Communications, Internet, Education, Learning Management Systems (LMS)"
+esniper is a lightweight console application for sniping eBay auctions.esniper is a lightweight console application for sniping eBay auctions.,"Categories
+Financial, WWW/HTTP"
+"EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.","Categories
+Communications, Networking, Internet, Remote Desktop"
+"YChan is a free image downloader. It supports multithreading and auto-rechecking of threads. It was created as an alternative for XChan which doesnt work anymore.
+Supported Websites: 8chan.co / 8ch.net and 4chan.org
+YChan requieres .NET Framework 4.5 or higher.
+
+If you like my work donate me via Paypal or send me a gift on Steam (see ""About"" in the program).
+
+Dev Status:
+Project is dead, if somebody wants to create something based on this - the sources are avaiable in the SVNYChan is a free image downloader. It supports multithreading and auto-rechecking of threads. It was created as an alternative for XChan which doesnt work anymore.
+Supported Websites: 8chan.co / 8ch.net and 4chan.org
+YChan requieres .NET Framework 4.5 or higher.
+
+If you like my work donate me via Paypal or send me a gift on Steam (see ""About"" in the program).
+
+Dev Status:
+Project is dead, if somebody wants to create something based on this - the sources are avaiable in the SVN","Categories
+Message Board"
+"The open content management system for professional journalists. Features include multiple author management, issue-and-section based publishing, geolocation, multilingual content management, and a templating engine supporting HTML5 & mobile.The open content management system for professional journalists. Features include multiple author management, issue-and-section based publishing, geolocation, multilingual content management, and a templating engine supporting HTML5 & mobile.","Categories
+Content Management Systems (CMS)"
+"The Bug Genie is a user-friendly and powerful PHP5.3-based bug tracker/bug tracking tool with features such as project management, VCS integration (git, svn, hig), wiki and more. Ready to use out-of-the-box, and easy to install.The Bug Genie is a user-friendly and powerful PHP5.3-based bug tracker/bug tracking tool with features such as project management, VCS integration (git, svn, hig), wiki and more. Ready to use out-of-the-box, and easy to install.","Categories
+Project Management, Software Development, Help Desk"
+MOVED TO GITHUB https://github.com/ole1986/pdf-phpMOVED TO GITHUB https://github.com/ole1986/pdf-php,"Categories
+Dynamic Content, Presentation, PDF"
+Classes to access the information on imdb from php.Classes to access the information on imdb from php.,"Categories
+CGI Scripts"
+"Fast and easy TYPO3-Setup for Windows (WAMP). Just Download, Setup and Run TYPO3. Complete Apache Webserver with PHP/MySQL, easy Windows-Frontend for Endusers. Preconfigured Dummy, Quickstart and Testsite-Package of TYPO3 available.Fast and easy TYPO3-Setup for Windows (WAMP). Just Download, Setup and Run TYPO3. Complete Apache Webserver with PHP/MySQL, easy Windows-Frontend for Endusers. Preconfigured Dummy, Quickstart and Testsite-Package of TYPO3 available.","Categories
+HTTP Servers, Application Servers, Mobile"
+"NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players.NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players.","Categories
+NNTP, Usenet News, Other file transfer protocol"
+"Barbecue is a Java library that enables the creation of barcodes in a variety of standard formats that can be displayed as Swing/AWT components, included in printed output, generated as EPS and SVG and displayed in a web application.Barbecue is a Java library that enables the creation of barcodes in a variety of standard formats that can be displayed as Swing/AWT components, included in printed output, generated as EPS and SVG and displayed in a web application.","Categories
+Point of Sale (POS), Dynamic Content, Printing, Graphics, Scientific/Engineering"
+"A Web-based Usenet News Reader written by PHP, support NNTP/NNRP access to News Server. Authentication can be easily configured with flexibility. It also supports the charset conversion between different Chinese charsets, both Traditional and Simplified.A Web-based Usenet News Reader written by PHP, support NNTP/NNRP access to News Server. Authentication can be easily configured with flexibility. It also supports the charset conversion between different Chinese charsets, both Traditional and Simplified.","Categories
+Usenet News, Message Board"
+"Biet-O-Matic is a tool to watch and bid on auctions. Many features like mail control, autoconnect/disconnect, integrated ODBC- client, multi-language-support, time sync, item grouping etc.Biet-O-Matic is a tool to watch and bid on auctions. Many features like mail control, autoconnect/disconnect, integrated ODBC- client, multi-language-support, time sync, item grouping etc.","Categories
+Office/Business, Internet"
+"Liferay Portal is the world's leading enterprise open source portal framework, offering integrated Web publishing and content management, an enterprise service bus and service-oriented architecture, and compatibility with all major IT infrastructure.
+
+Check GitHub for our latest releases:
+https://github.com/liferay/liferay-portal/releases
+https://github.com/liferay/liferay-ide/releasesLiferay Portal is the world's leading enterprise open source portal framework, offering integrated Web publishing and content management, an enterprise service bus and service-oriented architecture, and compatibility with all major IT infrastructure.
+
+Check GitHub for our latest releases:
+https://github.com/liferay/liferay-portal/releases
+https://github.com/liferay/liferay-ide/releases","Categories
+Enterprise, Dynamic Content, Site Management"
+"e107 is a website content management (CMS) system written in PHP and MySQL. It installs a completely dynamic website on your server allowing you complete control of your site from a secure and intuitive, yet powerful and flexible admin area. Coded HTML5, Twitter Bootstrap 5, jQuery. Full source and changelog available on Github.e107 is a website content management (CMS) system written in PHP and MySQL. It installs a completely dynamic website on your server allowing you complete control of your site from a secure and intuitive, yet powerful and flexible admin area. Coded HTML5, Twitter Bootstrap 5, jQuery. Full source and changelog available on Github.","Categories
+Message Board, Content Management Systems (CMS), Blogging"
+"ClipBucket is an Open Source and freely downloadable PHP script that will let you start your own Video Sharing website (YouTube Clone) in a matter of minutes. ClipBucket is the fastest growing video script with the most advanced video sharing and social.
+
+ClipBucket source code has been shifted to GitHub, Kindly follow our GitHub for latest releases and code:
+https://github.com/arslancb/clipbucketClipBucket is an Open Source and freely downloadable PHP script that will let you start your own Video Sharing website (YouTube Clone) in a matter of minutes. ClipBucket is the fastest growing video script with the most advanced video sharing and social.
+
+ClipBucket source code has been shifted to GitHub, Kindly follow our GitHub for latest releases and code:
+https://github.com/arslancb/clipbucket","Categories
+Multimedia, Content Management Systems (CMS), Social Networking"
+"MultiThreaded TFTP Server Open Source Freeware Windows/Unix for PXEBOOT, firmware load, support tsize, blksize, timeout Server Port Ranges, Block Number Rollover for Large Files. Runs as Service/daemon. Single Port version also available. DownloadMultiThreaded TFTP Server Open Source Freeware Windows/Unix for PXEBOOT, firmware load, support tsize, blksize, timeout Server Port Ranges, Block Number Rollover for Large Files. Runs as Service/daemon. Single Port version also available. Download","Categories
+File Transfer Protocol (FTP), Networking, Boot"
+"Contiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.xContiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.x","Categories
+Desktop Environment, Browsers, HTTP Servers, Networking, Operating System Kernels"
+"With Osclass, get your own classifieds website for free. Using this script, you can provide free advertising for items for sale, real estate, jobs, cars... Best features: Plugins, Themes, Multi-language, Captcha, Dashboard, SEO Friendly.With Osclass, get your own classifieds website for free. Using this script, you can provide free advertising for items for sale, real estate, jobs, cars... Best features: Plugins, Themes, Multi-language, Captcha, Dashboard, SEO Friendly.","Categories
+WWW/HTTP"
+"This is the home of the old MindTouch Platform and Core. This project was turned over to the community in 2010. Please visit www.MindTouch.com for the most up to date version of MindTouch--software that accelerates customer success.
+
+More info on the old Core and Platform: http://mndt.ch/oss-dep
+
+Thanks for your interest and for making the old MindTouch open source one of the most popular (top 5) open source projects in the world from 2007-2010.
+
+Some key terms commonly associated with this project are: customer support, self service support, customer success center, help center, enterprise wiki, etcThis is the home of the old MindTouch Platform and Core. This project was turned over to the community in 2010. Please visit www.MindTouch.com for the most up to date version of MindTouch--software that accelerates customer success.
+
+More info on the old Core and Platform: http://mndt.ch/oss-dep
+
+Thanks for your interest and for making the old MindTouch open source one of the most popular (top 5) open source projects in the world from 2007-2010.
+
+Some key terms commonly associated with this project are: customer support, self service support, customer success center, help center, enterprise wiki, etc","Categories
+Text Editors, Enterprise, Site Management, Frameworks, Wiki"
+"playSMS is a free and open source SMS management software, a web interface for SMS gateways and bulk SMS services.playSMS is a free and open source SMS management software, a web interface for SMS gateways and bulk SMS services.","Categories
+Communications, WWW/HTTP, Mobile"
+"Web application for management formal representations of knowledge, thesauri, taxonomies and multilingual vocabularies / Aplicación para la gestión de representaciones formales del conocimiento, tesauros, taxonomías, vocabularios multilingües. For the latest version of code: https://github.com/tematres/TemaTres-Vocabulary-ServerWeb application for management formal representations of knowledge, thesauri, taxonomies and multilingual vocabularies / Aplicación para la gestión de representaciones formales del conocimiento, tesauros, taxonomías, vocabularios multilingües. For the latest version of code: https://github.com/tematres/TemaTres-Vocabulary-Server","Categories
+Site Management, Library, Knowledge Management"
+"Please note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etcPlease note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etc","Categories
+Communications, WWW/HTTP, Logging, Hardware Drivers, File Systems, Scientific/Engineering"
+"Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.Network Security Toolkit (NST) is a bootable ISO image (Live USB Flash Drive) based on Fedora 36 providing easy access to best-of-breed Open Source Network Security Applications and should run on most x86_64 systems.
+
+The main intent of developing this toolkit was to provide the security professional and network administrator with a comprehensive set of Open Source Network Security Tools. The majority of tools published in the article: Top 125 Security Tools by INSECURE.ORG are available in the toolkit. An advanced Web User Interface (WUI) is provided for system/network administration, navigation, automation, network monitoring, host geolocation, network analysis and configuration of many network and security applications found within the NST distribution. In the virtual world, NST can be used as a network security analysis, validation and monitoring tool on enterprise virtual servers hosting virtual machines.","Categories
+Communications, Security, Systems Administration, Internet"
+"Foswiki is an Enterprise wiki, typically used to run a collaboration platform, knowledge base or document management system. Users can create wiki applications using the Topic Markup Language, and developers can extend its functionality with plugins.
+
+Foswiki stands for ""Free and Open Source"" wiki to emphasize its commitment to Open Source software.Foswiki is an Enterprise wiki, typically used to run a collaboration platform, knowledge base or document management system. Users can create wiki applications using the Topic Markup Language, and developers can extend its functionality with plugins.
+
+Foswiki stands for ""Free and Open Source"" wiki to emphasize its commitment to Open Source software.","Categories
+Documentation, Wiki, Business Intelligence, Document Management"
+"Camera/Shy is the only steganographic tool that automatically scans for and delivers decrypted content straight from the Web. It is a stand-alone, Internet Explorer-based browser that leaves no trace on the user's system and has enhanced security.Camera/Shy is the only steganographic tool that automatically scans for and delivers decrypted content straight from the Web. It is a stand-alone, Internet Explorer-based browser that leaves no trace on the user's system and has enhanced security.","Categories
+Browsers"
+A class for PHP to talk to Active Directory through LDAP.A class for PHP to talk to Active Directory through LDAP.,"Categories
+WWW/HTTP, LDAP"
+"This project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txtThis project implements a simple STUN server and client on Windows, Linux, and Solaris. The STUN protocol (Simple Traversal of UDP through NATs) is described in the IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txt","Categories
+Internet Phone, Telephony, Networking, Internet"
+"HTML Parser is a Java library used to parse HTML in either a linear or nested fashion. Primarily used for transformation or extraction, it features filters, visitors, custom tags and easy to use JavaBeans. It is a fast, robust and well tested package.HTML Parser is a Java library used to parse HTML in either a linear or nested fashion. Primarily used for transformation or extraction, it features filters, visitors, custom tags and easy to use JavaBeans. It is a fast, robust and well tested package.","Categories
+WWW/HTTP, Software Development"
+"swatchdog.pl started out as swatch, the ""simple watchdog"" for activity monitoring log files produced by UNIX's syslog facility. It has since been evolving into a utility that can monitor just about any type of log. The name has been changed to satisfy a request made by the old Swiss watch company.swatchdog.pl started out as swatch, the ""simple watchdog"" for activity monitoring log files produced by UNIX's syslog facility. It has since been evolving into a utility that can monitor just about any type of log. The name has been changed to satisfy a request made by the old Swiss watch company.","Categories
+Log Analysis, Systems Administration, Logging"
+Speed up perl scripts by running them persistentlySpeed up perl scripts by running them persistently,"Categories
+CGI Scripts, Interpreters"
+"The NCID (Network Caller ID) project is Caller ID (CID) distributed over a network. The project contains the NCID package and 4 optional client packages. Each package is described at the NCID web site. A non-inclusive list of 3rd party addons is also available at the web site
+
+Available Packages:
+NCID - contains the server, gateways, and a client with output modules
+LCDncid - a client that uses LCDproc to display Caller ID on a LCD display
+NCIDandroid - a client and gateway for Android devices
+NCIDdisplay - a homebrew client that displays on large LED modules
+NCIDpop - a popup client for Windows, Mac, and LinuxThe NCID (Network Caller ID) project is Caller ID (CID) distributed over a network. The project contains the NCID package and 4 optional client packages. Each package is described at the NCID web site. A non-inclusive list of 3rd party addons is also available at the web site
+
+Available Packages:
+NCID - contains the server, gateways, and a client with output modules
+LCDncid - a client that uses LCDproc to display Caller ID on a LCD display
+NCIDandroid - a client and gateway for Android devices
+NCIDdisplay - a homebrew client that displays on large LED modules
+NCIDpop - a popup client for Windows, Mac, and Linux","Categories
+Telephony, Internet"
+"phpABook is a simple address/contact management system that uses PHP and MySQL. It provides many features that you would find in a similar offline, OS specific application. It also has multi-user capabilities.
+
+NEWS: We are cooking an all new version - new code, new features, new design. Subscribe the mailing list to keep updated.phpABook is a simple address/contact management system that uses PHP and MySQL. It provides many features that you would find in a similar offline, OS specific application. It also has multi-user capabilities.
+
+NEWS: We are cooking an all new version - new code, new features, new design. Subscribe the mailing list to keep updated.","Categories
+Other/Nonlisted Topic, CRM, WWW/HTTP"
+"Drake CMS is a light-weight PHP dynamic web authoring and content management system with an embedded flat file database and support for any other database system. High speed, best security, fully internationalized and customizable. Works on any PHP4/PHP5Drake CMS is a light-weight PHP dynamic web authoring and content management system with an embedded flat file database and support for any other database system. High speed, best security, fully internationalized and customizable. Works on any PHP4/PHP5","Categories
+Dynamic Content, Site Management"
+Silex is a free and open source website builder in the cloud. Create websites directly in the browser without writing code. It is suitable for professional designers to produce great websites without constraints.Silex is a free and open source website builder in the cloud. Create websites directly in the browser without writing code. It is suitable for professional designers to produce great websites without constraints.,"Categories
+Graphic Design, Content Management Systems (CMS)"
+"Snoopy is a PHP class that simulates a web browser. It automates the task of retrieving web page content and posting forms, for example.Snoopy is a PHP class that simulates a web browser. It automates the task of retrieving web page content and posting forms, for example.","Categories
+WWW/HTTP, Software Development"
+mod_auth_sspi - Apache 2.x SSPI authentication module which let Apache 2.x users authenticate against Win32 domains.mod_auth_sspi - Apache 2.x SSPI authentication module which let Apache 2.x users authenticate against Win32 domains.,"Categories
+HTTP Servers"
+"KompoZer is a wysiwyg HTML editor using the Mozilla Composer codebase. As Nvu's development has been stopped in 2005, KompoZer fixes many bugs and adds a few useful features.KompoZer is a wysiwyg HTML editor using the Mozilla Composer codebase. As Nvu's development has been stopped in 2005, KompoZer fixes many bugs and adds a few useful features.","Categories
+Text Editors, WWW/HTTP, Web Design"
+"KCFinder is an alternative to the CKFinder web file manager. It can be integrated into FCKeditor, CKEditor, and TinyMCE WYSIWYG web editors to upload and manage images, flash movies, and other files that can be embedded in generated HTML content.KCFinder is an alternative to the CKFinder web file manager. It can be integrated into FCKeditor, CKEditor, and TinyMCE WYSIWYG web editors to upload and manage images, flash movies, and other files that can be embedded in generated HTML content.","Categories
+Browsers, CGI Scripts, Content Management Systems (CMS)"
+"OpenVPN ALS is a web-based SSL VPN server written in Java. It has a browser-based AJAX UI which allows easy access to intranet services. OpenVPN ALS is a direct descendant of Adito, which was a fork of SSL-Explorer.OpenVPN ALS is a web-based SSL VPN server written in Java. It has a browser-based AJAX UI which allows easy access to intranet services. OpenVPN ALS is a direct descendant of Adito, which was a fork of SSL-Explorer.","Categories
+Security, Internet, AJAX, VPN"
+"Osclass is best open source classifieds script to building your own classifieds website in minute.
+
+Download ultimate classfieds script developed by professionals. Osclass is based has similar structure as wordpress, is easy to modify and work with and scale very well. You can find hundreds of themes and plugins developed, together with great community is right choice for classifieds website.
+
+Create a site with car classifieds, rentals, real estate ads, job listings or just create a genera classifieds for free with our open-source CMS. With many themes and plugins, Osclass is easy to customize. Start your business now with Osclass, it it's so simple!
+
+As oclass is easy to learn and work with, many people has started to contribute themes, plugins and different modifications.
+You may find a lot of support forums, osclass blogs, articles, different markets and websites with free & premium products or modifications.
+
+https://osclass-classifieds.com
+
+-Osclass is best open source classifieds script to building your own classifieds website in minute.
+
+Download ultimate classfieds script developed by professionals. Osclass is based has similar structure as wordpress, is easy to modify and work with and scale very well. You can find hundreds of themes and plugins developed, together with great community is right choice for classifieds website.
+
+Create a site with car classifieds, rentals, real estate ads, job listings or just create a genera classifieds for free with our open-source CMS. With many themes and plugins, Osclass is easy to customize. Start your business now with Osclass, it it's so simple!
+
+As oclass is easy to learn and work with, many people has started to contribute themes, plugins and different modifications.
+You may find a lot of support forums, osclass blogs, articles, different markets and websites with free & premium products or modifications.
+
+https://osclass-classifieds.com
+
+-","Categories
+WWW/HTTP, Content Management Systems (CMS)"
+"Polarity is a dual engine browser powered by both Chromium and Trident that focuses on system efficiency by bringing low RAM and low CPU usage. This browser was also programmed to be optimized for Windows with an Android version available. Browse the web with an uncomplicated UI that is highly customizable with themes, apps, and extensions from the Polarity Store, GreasyFork, OpenUserJS, and UserStyles. Polarity also comes with a built in password manager which safely encrypts all data to prevent theft. Polarity also comes with a built in adblocker and privacy tools such as proxy/VPN support and header masking to prevent further tracking online.
+
+If you appreciate all the hard work that we put into creating and developing Polarity, please consider giving a small donation at: https://polaritybrowser.netlify.com/donatePolarity is a dual engine browser powered by both Chromium and Trident that focuses on system efficiency by bringing low RAM and low CPU usage. This browser was also programmed to be optimized for Windows with an Android version available. Browse the web with an uncomplicated UI that is highly customizable with themes, apps, and extensions from the Polarity Store, GreasyFork, OpenUserJS, and UserStyles. Polarity also comes with a built in password manager which safely encrypts all data to prevent theft. Polarity also comes with a built in adblocker and privacy tools such as proxy/VPN support and header masking to prevent further tracking online.
+
+If you appreciate all the hard work that we put into creating and developing Polarity, please consider giving a small donation at: https://polaritybrowser.netlify.com/donate","Categories
+Internet, VPN, YouTube Downloaders, Download Managers"
+"Windows XP+/32 bit native port of GNU Midnight Commander,
+based on the current 4.8.28 development stream.
+
+Midnight Commander (also known as mc) is a free cross-platform orthodox file manager
+and a clone of Norton Commander.
+
+Supports both the recent Windows 10 enhanced plus legacy consoles,
+16 and 256+ colour modes are available within either. Features include the ability work with common archive formats as if they were simply another directory, and function as an SFTP/FTP client.
+
+Also includes an built-in editor/viewer, features include syntax highlighting for many languages,
+macros, code snippets, simple integration with external tools, automatic indentation, mouse support,
+clipboard and the ability to work in both ASCII and hex modes.
+
+MC can also rename groups of files, move files to a different directory at the same time as it.renames them. It lets the user specify the original and resulting file names using wildcard.
+
+https://github.com/adamyg/mcwin32Windows XP+/32 bit native port of GNU Midnight Commander,
+based on the current 4.8.28 development stream.
+
+Midnight Commander (also known as mc) is a free cross-platform orthodox file manager
+and a clone of Norton Commander.
+
+Supports both the recent Windows 10 enhanced plus legacy consoles,
+16 and 256+ colour modes are available within either. Features include the ability work with common archive formats as if they were simply another directory, and function as an SFTP/FTP client.
+
+Also includes an built-in editor/viewer, features include syntax highlighting for many languages,
+macros, code snippets, simple integration with external tools, automatic indentation, mouse support,
+clipboard and the ability to work in both ASCII and hex modes.
+
+MC can also rename groups of files, move files to a different directory at the same time as it.renames them. It lets the user specify the original and resulting file names using wildcard.
+
+https://github.com/adamyg/mcwin32","Categories
+Text Processing, File Transfer Protocol (FTP), File Managers, FTP Clients"
+"Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)Open Source - GPLv3 inc images.
+
+*** PLEASE NOTE: There are now 2 seperate versions here.
+*** One is Pre Firefox 57. The other is Post Firefox 57.
+*** For those providing mirrors, please enable your users to realize this.
+
+Vidalia Based, Tor as a Service Solution.
+MicroSip: enables FREE PC to PC video calling with no account sign-up and no middleman server.
+WASTE: enables chat, file transfer and support. *** AI Powered ***
+Tor/i2p: enables safer browsing.
+Tor/i2p Profile: Browse over Tor/i2p on Firefox (Vanilla, ESR), Waterfox (Classic, New), Palemoon , LibreWolf and legacy CyberFox.
+
+As with all versions of Tor - do not rely on this for strong anonymity.
+
+A usability enhanced Privacy Pack.
+
+An installer, for :
+Vista 32/64, Win7 32/64, Win8 32/64, Win10 32/64, Win11, Linux (Wine)","Categories
+Security, Browsers, VoIP"
+To protect yourself when your VPN disconnects. It blocks Internet access and any others specified applications. It prevents unsecured connections after your VPN connection goes down and reload applications when reconnecting the VPN.To protect yourself when your VPN disconnects. It blocks Internet access and any others specified applications. It prevents unsecured connections after your VPN connection goes down and reload applications when reconnecting the VPN.,"Categories
+Security, Internet, VPN"
+"HTTP server designed for file transfer. Very easy to use, just drag&drop your files in it. It automatically copies in the clipboard the full url of the file, so you just have to paste in your preferred chat. Standalone executable.HTTP server designed for file transfer. Very easy to use, just drag&drop your files in it. It automatically copies in the clipboard the full url of the file, so you just have to paste in your preferred chat. Standalone executable.","Categories
+File Sharing, HTTP Servers"
+"Java port of Mozilla&#39;s automatic charset detection algorithm. See... <a href=""http://www.mozilla.org/projects/intl/chardet.html""> http://www.mozilla.org/projects/intl/chardet.html </a>for the details of the orginal code and Author.Java port of Mozilla&#39;s automatic charset detection algorithm. See... <a href=""http://www.mozilla.org/projects/intl/chardet.html""> http://www.mozilla.org/projects/intl/chardet.html </a>for the details of the orginal code and Author.","Categories
+Browsers, CGI Scripts"
+"TouchGraph provides a set of interfaces for graph visualization using force-based layout and focus+context techniques. For now only older code is available, but we are planning to release new versions as well.TouchGraph provides a set of interfaces for graph visualization using force-based layout and focus+context techniques. For now only older code is available, but we are planning to release new versions as well.","Categories
+Search Engines, Vector Graphics, Data Visualization"
+"EasyHotspot is a web bassed billing hotspot written in PHP and MySQL. Easyhotspot is a complete billing system and ready to use. EasyHotspot comes with linux distro and other software deppendencies (Apache,MySQL,Chillispot,Freeradius).EasyHotspot is a web bassed billing hotspot written in PHP and MySQL. Easyhotspot is a complete billing system and ready to use. EasyHotspot comes with linux distro and other software deppendencies (Apache,MySQL,Chillispot,Freeradius).","Categories
+Point of Sale (POS), Systems Administration, Internet"
+SEO Tools provides tools for search engine optimization. Spider SEO: generates meta tags for all pages of a website. Web Page Optimizer performs analysis and changes in a web page. A graphical user interface is linked with a scriptol program that geneSEO Tools provides tools for search engine optimization. Spider SEO: generates meta tags for all pages of a website. Web Page Optimizer performs analysis and changes in a web page. A graphical user interface is linked with a scriptol program that gene,"Categories
+HTML/XHTML, Site Management, Code Generators"
+"PHP Mini SQL Admin - Lightweight alternative to heavy phpMyAdmin. Extremely small (~30Kb) standalone php script. Easy to Install, simple to use. No SQL knowledge required for basic operations.PHP Mini SQL Admin - Lightweight alternative to heavy phpMyAdmin. Extremely small (~30Kb) standalone php script. Easy to Install, simple to use. No SQL knowledge required for basic operations.","Categories
+Front-Ends, Site Management"
+The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.The UPnP PortMapper can be used to easily manage the port mappings/port forwarding of a UPnP enabled internet gateway/router in the local network.,"Categories
+File Sharing, Firewall, Internet"
+"Free-SA is logs processor and report generating tool. It can be used to control traffic usage, to evaluate conformance to the Internet access security policies, to investigate security incidents, to evaluate web server efficiency and to detect troubles with server configuration.Free-SA is logs processor and report generating tool. It can be used to control traffic usage, to evaluate conformance to the Internet access security policies, to investigate security incidents, to evaluate web server efficiency and to detect troubles with server configuration.","Categories
+Security, HTTP Servers, Log Analysis"
+"Exponent is a fully-featured, modern CMS written in PHP, that enables non-technical people to manage and update their websites with minimal effort. Exponent is also an attractive development platform for traditional and non-traditional web applications.Exponent is a fully-featured, modern CMS written in PHP, that enables non-technical people to manage and update their websites with minimal effort. Exponent is also an attractive development platform for traditional and non-traditional web applications.","Categories
+Site Management"
+"The OpenCA PKI Development Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.The OpenCA PKI Development Project is a collaborative effort to develop a robust, full-featured and Open Source out-of-the-box Certification Authority implementing the most used protocols with full-strength cryptography world-wide.","Categories
+Cryptography, HTTP Servers"
+mod_gzip is an Internet Content Acceleration module for the popular Apache Web Server. It compresses the contents delivered to the client. There is no need to install any additional software on the client!mod_gzip is an Internet Content Acceleration module for the popular Apache Web Server. It compresses the contents delivered to the client. There is no need to install any additional software on the client!,"Categories
+Browsers, HTTP Servers"

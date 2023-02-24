@@ -1,0 +1,343 @@
+Description,Category
+NOTICE: Nulloy is not hosted on SourceForge anymore. Please visit http://nulloy.com to download the latest version.NOTICE: Nulloy is not hosted on SourceForge anymore. Please visit http://nulloy.com to download the latest version.,"Categories
+Players, MP3, Audio Analysis"
+"Hierarchical Approximate Convex Decomposition of 3D Meshes
+
+Check out also the new V-HACD https://code.google.com/p/v-hacd/Hierarchical Approximate Convex Decomposition of 3D Meshes
+
+Check out also the new V-HACD https://code.google.com/p/v-hacd/","Categories
+Games/Entertainment, Graphics"
+"DyrnwynConverter is a free video and audio converter. DyrnwynConverter is a GUI for the popular command line video and audio converter, FFmpeg. DyrnwynConverter is a modified version of WinFF 1.3.2 by Matthew WeatherfordDyrnwynConverter is a free video and audio converter. DyrnwynConverter is a GUI for the popular command line video and audio converter, FFmpeg. DyrnwynConverter is a modified version of WinFF 1.3.2 by Matthew Weatherford","Categories
+Video Converters"
+"JSTx is used for displaying overlay graphics and text on top of a Philips television, changing channels, receiving remote control keys and changing television display modes. It is a command line utility to execute jointSPACE commands on a device that supports the jointSPACE protocol for Philips televisions (see http://jointspace.sourceforge.net for details on jointSPACE, which is based on DirectFB).
+It is used in various home automation/internet-of-things projects.
+There are three versions: 0.23 for 2009/2010 Philips televisions (xxx5 en xxx4 series), 0.24 for 2011-2012 televisions (xxx6-xxx7) and 0.24_2013 for 2013-2014 televisions (xxx8-xxx9 (only non-Android)). New Android sets (2014+) do not come with Jointspace and are not supported. It works on Linux operating systems. A Raspberry-Pi version is also available.JSTx is used for displaying overlay graphics and text on top of a Philips television, changing channels, receiving remote control keys and changing television display modes. It is a command line utility to execute jointSPACE commands on a device that supports the jointSPACE protocol for Philips televisions (see http://jointspace.sourceforge.net for details on jointSPACE, which is based on DirectFB).
+It is used in various home automation/internet-of-things projects.
+There are three versions: 0.23 for 2009/2010 Philips televisions (xxx5 en xxx4 series), 0.24 for 2011-2012 televisions (xxx6-xxx7) and 0.24_2013 for 2013-2014 televisions (xxx8-xxx9 (only non-Android)). New Android sets (2014+) do not come with Jointspace and are not supported. It works on Linux operating systems. A Raspberry-Pi version is also available.","Categories
+Presentation, Home Automation, IoT"
+PHP class encapsulating manipulation with ICC profiles saved in JPEG images. Written in pure PHP without any 3rd party libraries and/or utilities.PHP class encapsulating manipulation with ICC profiles saved in JPEG images. Written in pure PHP without any 3rd party libraries and/or utilities.,"Categories
+Libraries, Metadata Editors"
+Face-following and facial expression detection based on OpenCV.Face-following and facial expression detection based on OpenCV.,"Categories
+Realtime Processing"
+"fiScanner - A (WIA) image scanner application for Windows Vista or greater, providing better scanning functionality than Windows Fax and Scan. Allows the output folder and (base) filename to be specified, and also allows for multiple scans at once.
+
+Does not support Windows XP.fiScanner - A (WIA) image scanner application for Windows Vista or greater, providing better scanning functionality than Windows Fax and Scan. Allows the output folder and (base) filename to be specified, and also allows for multiple scans at once.
+
+Does not support Windows XP.","Categories
+Scanner"
+"This is a nice Windows and Linux screenshot tool for make, edit, share and exchange screenshots between people via the internet. This tool oriented for QA testers, programmers, designers, sales managers, support centers and other people.This is a nice Windows and Linux screenshot tool for make, edit, share and exchange screenshots between people via the internet. This tool oriented for QA testers, programmers, designers, sales managers, support centers and other people.","Categories
+Presentation, Screen Capture, Desktop Publishing"
+A tool for finding missing or corrupt images in a sequence. Also generates basic statistics from Exif data. Targeting time-lapse and render-farm users when using post-processing tools such as After Effects.A tool for finding missing or corrupt images in a sequence. Also generates basic statistics from Exif data. Targeting time-lapse and render-farm users when using post-processing tools such as After Effects.,"Categories
+3D Rendering, Digital Camera, Still Capture"
+"osgXI is a general interface of GPU effects, resource managers, and game developing components. It also includes a NVIDIA CG module and an Autodesk Maya exporter for use. osgXI is based on the OpenSceneGraph project.osgXI is a general interface of GPU effects, resource managers, and game developing components. It also includes a NVIDIA CG module and an Autodesk Maya exporter for use. osgXI is based on the OpenSceneGraph project.","Categories
+3D Rendering, Game Development Frameworks"
+"The MangaStream Downloader is an open source application written in Java for managing and downloading manga from the site mangastream.com and mangafox.me. It is written under the GNU-GPL license and uses an open source HTML parser - TagSoup.
+
+Follow the project page on Facebook for updates: https://www.facebook.com/MangastreamDownloaderThe MangaStream Downloader is an open source application written in Java for managing and downloading manga from the site mangastream.com and mangafox.me. It is written under the GNU-GPL license and uses an open source HTML parser - TagSoup.
+
+Follow the project page on Facebook for updates: https://www.facebook.com/MangastreamDownloader","Categories
+Search Engines, Multimedia"
+New control application for your great VOX Tonelab ST device. Planned is to be able to control all settings you can set on the device in realtime from your pc! Also channel switching. Platform independent java project.New control application for your great VOX Tonelab ST device. Planned is to be able to control all settings you can set on the device in realtime from your pc! Also channel switching. Platform independent java project.,"Categories
+MIDI"
+"PLEASE NOTE!!!
+
+ClipUpload will not be available from SourceForge anymore. RIP, SourceForge. You were once good.
+
+Please find our new home of source code on Github: https://github.com/NimbleTools/Clipupload
+
+Or on our website: https://nimble.tools/clipupload
+
+
+
+---
+Quickly upload anything thats on your clipboard to the internet. It supports FTP, Imgur.com, Pastebin.com and Dropbox.
+Usage?
+Step 1: Copy.
+Step 2: Right-click system tray icon and pick an upload method.
+Step 3: Paste public link. The easiest way to share your clipboard!PLEASE NOTE!!!
+
+ClipUpload will not be available from SourceForge anymore. RIP, SourceForge. You were once good.
+
+Please find our new home of source code on Github: https://github.com/NimbleTools/Clipupload
+
+Or on our website: https://nimble.tools/clipupload
+
+
+
+---
+Quickly upload anything thats on your clipboard to the internet. It supports FTP, Imgur.com, Pastebin.com and Dropbox.
+Usage?
+Step 1: Copy.
+Step 2: Right-click system tray icon and pick an upload method.
+Step 3: Paste public link. The easiest way to share your clipboard!","Categories
+File Sharing, Office/Business, Graphics"
+Stealth Player is a music player without GUI. You control it using global hotkeys. Player understands a lot of popular stream and tracker music formats. It also supports internet radio and playlists.Stealth Player is a music player without GUI. You control it using global hotkeys. Player understands a lot of popular stream and tracker music formats. It also supports internet radio and playlists.,"Categories
+Players"
+SNFaceCrop is a Windows-based application to detect and crop faces from an image file. The detected faces can be automatically saved into files or copied into the Windows clipboard. SNFaceCrop is open source and using OpenCV library for face detection.SNFaceCrop is a Windows-based application to detect and crop faces from an image file. The detected faces can be automatically saved into files or copied into the Windows clipboard. SNFaceCrop is open source and using OpenCV library for face detection.,"Categories
+Graphics, Artificial Intelligence"
+MangaReader is a Windows application made in Python used to browse the images in a more comfortable way like how it is on popular online manga sites. This is an image viewer specifically tailored to view manga.MangaReader is a Windows application made in Python used to browse the images in a more comfortable way like how it is on popular online manga sites. This is an image viewer specifically tailored to view manga.,"Categories
+Image Viewers"
+GNUGuitarINUX is a GNU/Linux Live CD with a Realtime kernel aiming to be used as an electric guitar pedal effect.GNUGuitarINUX is a GNU/Linux Live CD with a Realtime kernel aiming to be used as an electric guitar pedal effect.,"Categories
+Music Composition"
+"Ultratools is a suite of freeware for ultrastar songs. -The first freeware is Ultratools - Editor a really great editor, with a new song creation tool.Ultratools is a suite of freeware for ultrastar songs. -The first freeware is Ultratools - Editor a really great editor, with a new song creation tool.","Categories
+Audio Editing"
+command line utility to store/restore ALSA and/or JACK connections to/from an XML file.command line utility to store/restore ALSA and/or JACK connections to/from an XML file.,"Categories
+Sound/Audio"
+With the changes to the gimp 2.6 interface and the lack of compassion by the developers to anyone who wanted the classic look I decided to provide patches to the official gimp 2.6 releases to restore the classic look and functionality to gimp.With the changes to the gimp 2.6 interface and the lack of compassion by the developers to anyone who wanted the classic look I decided to provide patches to the official gimp 2.6 releases to restore the classic look and functionality to gimp.,"Categories
+Graphics"
+"Sharetronix is a multimedia micro-social platform. It helps people in a community, company, or group to exchange short messages over the web. Download Sharetronix here: http://sharetronix.com/opensource/downloadSharetronix is a multimedia micro-social platform. It helps people in a community, company, or group to exchange short messages over the web. Download Sharetronix here: http://sharetronix.com/opensource/download","Categories
+Communications, Internet, Multimedia"
+"""Noch Ein Mp3-Player"" - Yet another mp3-player. With medialibrary, coverflow, webradio and a webserver for remote control.""Noch Ein Mp3-Player"" - Yet another mp3-player. With medialibrary, coverflow, webradio and a webserver for remote control.","Categories
+Players"
+"Pdf & Djvu Bookmarker is a powerful tool to create and edit outlines in Pdf and DjVu files. It is based on DjVuLibre, iTextSharp and TreeViewAdv for .NET. Adobe Reader X should be installed on target computer. For more info read MediaWiki on Hosted Apps page and manuals (included in installation).Pdf & Djvu Bookmarker is a powerful tool to create and edit outlines in Pdf and DjVu files. It is based on DjVuLibre, iTextSharp and TreeViewAdv for .NET. Adobe Reader X should be installed on target computer. For more info read MediaWiki on Hosted Apps page and manuals (included in installation).","Categories
+Image Viewers, Metadata Editors"
+Neuroph OCR - Handwriting Recognition is developed to recognize hand written letter and characters. It's engine derived's from the Java Neural Network Framework - Neuroph and as such it can be used as a standalone project or a Neuroph plug in.Neuroph OCR - Handwriting Recognition is developed to recognize hand written letter and characters. It's engine derived's from the Java Neural Network Framework - Neuroph and as such it can be used as a standalone project or a Neuroph plug in.,"Categories
+Frameworks, Handwriting Recognition, Machine Learning, OCR, Neural Network Libraries"
+A C#/.net-library for encoding and decoding DataMatrix codes (based on a .net-port of libdmtx). DataMatrix.net also contains a small application for generating PDF documents containing different types of 1D- and 2D-codes.A C#/.net-library for encoding and decoding DataMatrix codes (based on a .net-port of libdmtx). DataMatrix.net also contains a small application for generating PDF documents containing different types of 1D- and 2D-codes.,"Categories
+Office/Business, Printing, Image Converters"
+Transcoder Audio Edition is an audio converter for Linux which can convert from one audio format into another and can extract audio tracks from video files and convert them into audio formats. It uses GTK+ as GUI toolkit and ffmpeg as backend.Transcoder Audio Edition is an audio converter for Linux which can convert from one audio format into another and can extract audio tracks from video files and convert them into audio formats. It uses GTK+ as GUI toolkit and ffmpeg as backend.,"Categories
+Audio Conversion"
+Tadween is a powerful multilingual application allowing users to write Arabic in applications that support Unicode but don't fully support Arabic.Tadween is a powerful multilingual application allowing users to write Arabic in applications that support Unicode but don't fully support Arabic.,"Categories
+Graphics, Desktop Publishing, Fonts"
+Kantaris Media Player is a all-in-one media player which tries to provides the best media experience.Video playback is based on VLC code which results in that it plays everything without the need of installing any codecs.Contains beautiful music visuals.Kantaris Media Player is a all-in-one media player which tries to provides the best media experience.Video playback is based on VLC code which results in that it plays everything without the need of installing any codecs.Contains beautiful music visuals.,"Categories
+Video, Sound/Audio"
+Flazr is a Java implementation of protocols such as RTMP used for multimedia streaming. The Flazr project includes a streaming media server and related utilities.Flazr is a Java implementation of protocols such as RTMP used for multimedia streaming. The Flazr project includes a streaming media server and related utilities.,"Categories
+Streaming, Video Capture, Video Conferencing, Proxy Servers"
+Remote Control VLC Media Player (http://www.videolan.org/vlc/) from a Windows Mobile Device over LAN. The application requires Windows Mobile 6.x and .NET Compact Framework 3.5Remote Control VLC Media Player (http://www.videolan.org/vlc/) from a Windows Mobile Device over LAN. The application requires Windows Mobile 6.x and .NET Compact Framework 3.5,"Categories
+Media Players, Mobile"
+"A speech synthesis and recognition library that is cross-platform, accessible from Java and C++, and has a very small API. Uses CMU Sphinx4 and FreeTTS internally.A speech synthesis and recognition library that is cross-platform, accessible from Java and C++, and has a very small API. Uses CMU Sphinx4 and FreeTTS internally.","Categories
+Games/Entertainment, User Interface (UI), Robotics, HMI, Speech"
+"JUCE is a C++ toolkit for building cross-platform applications on PC/Mac/Linux/iOS/Android. Particularly good for complex, customised GUIs and audio/midi processing, it also includes a vast range of classes to help with all your day-to-day programming tasks.JUCE is a C++ toolkit for building cross-platform applications on PC/Mac/Linux/iOS/Android. Particularly good for complex, customised GUIs and audio/midi processing, it also includes a vast range of classes to help with all your day-to-day programming tasks.","Categories
+Frameworks, User Interface (UI), Sound/Audio"
+Project moved to http://qnapi.github.ioProject moved to http://qnapi.github.io,"Categories
+Video"
+"Portable command line utility for encoding and recording audio signals (chirps) to set the speed, incline, and resistance functions of iFit technology equipped exercise machines. Writes generated settings signals to music file format.Portable command line utility for encoding and recording audio signals (chirps) to set the speed, incline, and resistance functions of iFit technology equipped exercise machines. Writes generated settings signals to music file format.","Categories
+Other/Nonlisted Topic, Sound Synthesis"
+VDR plugin: xine-lib based software output device for VDR.VDR plugin: xine-lib based software output device for VDR.,"Categories
+Streaming, Players, Media Players"
+Moved to https://github.com/syvaidya/openstegoMoved to https://github.com/syvaidya/openstego,"Categories
+Cryptography, Graphics"
+"TAPClean is a Commodore tape preservation / restoration tool. It will check, repair, and remaster Commodore 64 and VIC 20 TAP or DC2N DMP files (tape images).TAPClean is a Commodore tape preservation / restoration tool. It will check, repair, and remaster Commodore 64 and VIC 20 TAP or DC2N DMP files (tape images).","Categories
+Data Formats, Emulators, Audio Analysis"
+"Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).","Categories
+Data Formats, Information Analysis, Video"
+"Qsynth is a fluidsynth GUI front-end application, written in C++ around the Qt framework, using Qt Designer. Eventually it may evolve into a softsynth management application allowing the user to control and manage a variety of command line softsynths.Qsynth is a fluidsynth GUI front-end application, written in C++ around the Qt framework, using Qt Designer. Eventually it may evolve into a softsynth management application allowing the user to control and manage a variety of command line softsynths.","Categories
+Sound Synthesis"
+Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.,"Categories
+Dynamic Content, Graphics, Data Visualization"
+"xmp is a module player for Unix-like systems that plays over 90 mainstream and obscure module formats from Amiga, Atari, Acorn, Apple IIgs and PC, including Protracker (MOD), Scream Tracker 3 (S3M), Fast Tracker II (XM) and Impulse Tracker (IT) files.xmp is a module player for Unix-like systems that plays over 90 mainstream and obscure module formats from Amiga, Atari, Acorn, Apple IIgs and PC, including Protracker (MOD), Scream Tracker 3 (S3M), Fast Tracker II (XM) and Impulse Tracker (IT) files.","Categories
+Players, Libraries"
+"Nyquist is a language for sound synthesis and music composition. It is implemented in C and C++ and runs on Win32, OSX, and Linux. Nyquist combines a powerful functional programming style with efficient signal-processing primitives. Nyquist is also embedded as a scripting language in Audacity.Nyquist is a language for sound synthesis and music composition. It is implemented in C and C++ and runs on Win32, OSX, and Linux. Nyquist combines a powerful functional programming style with efficient signal-processing primitives. Nyquist is also embedded as a scripting language in Audacity.","Categories
+Sound Synthesis"
+"Horde3D is a small 3D rendering and animation engine. It is written in an effort to create a graphics engine that offers the visual effects expected in next-generation games while at the same time being as lightweight and conceptually clean as possible.
+
+Further development has moved to https://github.com/horde3d/Horde3D
+where you're also able to download new releases.Horde3D is a small 3D rendering and animation engine. It is written in an effort to create a graphics engine that offers the visual effects expected in next-generation games while at the same time being as lightweight and conceptually clean as possible.
+
+Further development has moved to https://github.com/horde3d/Horde3D
+where you're also able to download new releases.","Categories
+3D Rendering"
+"Project migrated to GitHub: https://github.com/Junker/gvolwheel
+
+---
+
+GVolWheel is a Lightweight application which lets you control the audio volume. GVolWheel is application which lets you control the volume easily through a tray icon you can scroll on. Easily integrate with minimal desktops (Openbox,IceWM,XFCE etc).Project migrated to GitHub: https://github.com/Junker/gvolwheel
+
+---
+
+GVolWheel is a Lightweight application which lets you control the audio volume. GVolWheel is application which lets you control the volume easily through a tray icon you can scroll on. Easily integrate with minimal desktops (Openbox,IceWM,XFCE etc).","Categories
+Audio Mixers"
+"This is a set of small programs and patches to configure the advanced features of some laptops, such as enabling the extra onetouch/multimedia keys, console blanking, battery and temperature reporting, etc. Many HPs and Toshiba Satellites are supported.This is a set of small programs and patches to configure the advanced features of some laptops, such as enabling the extra onetouch/multimedia keys, console blanking, battery and temperature reporting, etc. Many HPs and Toshiba Satellites are supported.","Categories
+Operating System Kernels, Hardware, Multimedia"
+"The Napkin Look and Feel is a pluggable Java look and feel that looks like it was scrawled on a napkin. You can use it to make provisional work actually look provisonal, or just for fun.The Napkin Look and Feel is a pluggable Java look and feel that looks like it was scrawled on a napkin. You can use it to make provisional work actually look provisonal, or just for fun.","Categories
+Software Development, Presentation, HMI"
+AutoQ3D - a complete QT quick 3d model editor programAutoQ3D - a complete QT quick 3d model editor program,"Categories
+3D Modeling"
+"The videotrans project is a set of scripts that converts a movie file in any format that mplayer understands (AVI, etc) to a DVD compatible VOB file, including all the necessary conversions. Further, an automatic DVD menu generator is provided.The videotrans project is a set of scripts that converts a movie file in any format that mplayer understands (AVI, etc) to a DVD compatible VOB file, including all the necessary conversions. Further, an automatic DVD menu generator is provided.","Categories
+Video Converters"
+"cdw is a ncurses based front end for command-line tools used to burn data CD/DVD discs, create and burn ISO9660 images, create UDF images, and for related tasks. The tools are: cdrecord/wodim, mkisofs/genisoimage, growisofs, dvd+rw-mediainfo, dvd+rw-format, xorriso, mkudffs.cdw is a ncurses based front end for command-line tools used to burn data CD/DVD discs, create and burn ISO9660 images, create UDF images, and for related tasks. The tools are: cdrecord/wodim, mkisofs/genisoimage, growisofs, dvd+rw-mediainfo, dvd+rw-format, xorriso, mkudffs.","Categories
+Multimedia"
+"A SoundFont editor and other software for editing, managing and sharing sample based MIDI instrument files for computer music composition. Support for other formats is planned.A SoundFont editor and other software for editing, managing and sharing sample based MIDI instrument files for computer music composition. Support for other formats is planned.","Categories
+Audio Editing, MIDI, Sound Synthesis"
+"SampleICC provides an open source platform independent C++ library for reading, writing, manipulating, and applying ICC profiles along with applications that make use of this library.SampleICC provides an open source platform independent C++ library for reading, writing, manipulating, and applying ICC profiles along with applications that make use of this library.","Categories
+Data Formats, Graphics"
+"Star Trek 24/7: LCARS (Starfleet) GUI, full-screen alarm clock & calendar, games, utilities, sims, maps, graphical LCARS library, file manager, viewers, players, animation. Requires a HighColor/TrueColor DOS-based laptop w/ std. graphics & sound cards.Star Trek 24/7: LCARS (Starfleet) GUI, full-screen alarm clock & calendar, games, utilities, sims, maps, graphical LCARS library, file manager, viewers, players, animation. Requires a HighColor/TrueColor DOS-based laptop w/ std. graphics & sound cards.","Categories
+Window Managers, Puzzle Games, Image Viewers"
+"Quantizes a 32-bit RGBA PNG image to an 8 bit RGBA palette PNG
+using the neuquant algorithm.Quantizes a 32-bit RGBA PNG image to an 8 bit RGBA palette PNG
+using the neuquant algorithm.","Categories
+Image Converters"
+Free media file converter for Windows that supports many video/audio formats and codecs (direct stream copy is also supported). Clear and intuitive user interface. Context menu extension allows you to convert files right from Windows Explorer.Free media file converter for Windows that supports many video/audio formats and codecs (direct stream copy is also supported). Clear and intuitive user interface. Context menu extension allows you to convert files right from Windows Explorer.,"Categories
+Video Converters"
+"ReadBarC reads barcodes using a Symbian OS cellphone with a integrated digital camera. Point the camera at a barcode, click capture, and the barcode is displayed on the screen. The code is also saved in the clipboard so it can be used by other programs.ReadBarC reads barcodes using a Symbian OS cellphone with a integrated digital camera. Point the camera at a barcode, click capture, and the barcode is displayed on the screen. The code is also saved in the clipboard so it can be used by other programs.","Categories
+Digital Camera"
+"FixTag is a Java MP3 tag editor. It searches for MP3 files with inconsistent filenames and ID3 tags, supports individual editing as well as batch updates of ID3 tags, and automatic file renaming based on a user defined pattern. Supports ID3v1 and ID3v2.xFixTag is a Java MP3 tag editor. It searches for MP3 files with inconsistent filenames and ID3 tags, supports individual editing as well as batch updates of ID3 tags, and automatic file renaming based on a user defined pattern. Supports ID3v1 and ID3v2.x","Categories
+CD Ripping, MP3"
+A Linux Alsa driver for the Gadget Labs Wavepro 824 card.A Linux Alsa driver for the Gadget Labs Wavepro 824 card.,"Categories
+Operating System Kernels, Hardware Drivers, Sound/Audio"
+Audiobook joiner and converter for Mac OS X. This application is a perfect companion for your IPod. The program will join MP3 files into an audio book format (M4B).Audiobook joiner and converter for Mac OS X. This application is a perfect companion for your IPod. The program will join MP3 files into an audio book format (M4B).,"Categories
+Sound/Audio"
+"Fract is a free, Open-source PC Benchmark based on realtime software rendering. It is designed to provide 100% unbiased results that really correspond to the raw performance of your CPU and system bus.Fract is a free, Open-source PC Benchmark based on realtime software rendering. It is designed to provide 100% unbiased results that really correspond to the raw performance of your CPU and system bus.","Categories
+Benchmark, 3D Rendering"
+"A Linux CLI tool for converting multiple audio types from one format to another.
+
+It supports the following audio formats:
+
+3G2, 3GP, 8SVX, AAC, AC3, ADTS, AIFF, AL, AMB, AMR, APE, AU, AVR, BONK, CAF, CDR, CVU, DAT, DTS, DVMS, F32, F64, FAP, FLA, FLAC, FSSD, GSRT, HCOM, IMA, IRCAM, LA, MAT, AUD, MAT4, MAT5, M4A, M4R, MP2, MP3, MP4, MP4A, MPC, MPP, NIST, OFF, OFR, OFS, OPUS, OGA,OGG, PAF, PRC, PVF, RA, RAM, RAW, RF64, SD2, SF, SHN, SMP, SND,SOU, SPX, SRN, TAK, TTA, TXW, VOC, VMS, VQF, W64, WAV, WMA, and WV.
+
+It can also extract audio from the following video extensions:
+
+RM, RV, ASF, DivX, MPG, MKV, MPEG, AVI, MOV, OGM, OGV, QT, VCD, SVCD, M4V, NSV, NUV, PSP, SMK, VOB, FLV, WEBM and WMV.
+
+Parallel Processing, a CD ripping function with CDDB support, batch conversion, tag preservation for most supported formats, independent tag reading & writing, service menus for KDE Dolphin/Konqueror, Gnome Nautilus script, and action scripts for Nemo/Thunar are also provided.A Linux CLI tool for converting multiple audio types from one format to another.
+
+It supports the following audio formats:
+
+3G2, 3GP, 8SVX, AAC, AC3, ADTS, AIFF, AL, AMB, AMR, APE, AU, AVR, BONK, CAF, CDR, CVU, DAT, DTS, DVMS, F32, F64, FAP, FLA, FLAC, FSSD, GSRT, HCOM, IMA, IRCAM, LA, MAT, AUD, MAT4, MAT5, M4A, M4R, MP2, MP3, MP4, MP4A, MPC, MPP, NIST, OFF, OFR, OFS, OPUS, OGA,OGG, PAF, PRC, PVF, RA, RAM, RAW, RF64, SD2, SF, SHN, SMP, SND,SOU, SPX, SRN, TAK, TTA, TXW, VOC, VMS, VQF, W64, WAV, WMA, and WV.
+
+It can also extract audio from the following video extensions:
+
+RM, RV, ASF, DivX, MPG, MKV, MPEG, AVI, MOV, OGM, OGV, QT, VCD, SVCD, M4V, NSV, NUV, PSP, SMK, VOB, FLV, WEBM and WMV.
+
+Parallel Processing, a CD ripping function with CDDB support, batch conversion, tag preservation for most supported formats, independent tag reading & writing, service menus for KDE Dolphin/Konqueror, Gnome Nautilus script, and action scripts for Nemo/Thunar are also provided.","Categories
+Audio Conversion, Audio Editing, Multimedia"
+"A Biblia Falada é um software para leitura e estudo da Biblia Sagrada. Muito simples de usar e totalmente acessível para deficientes visuais, traz, além do novo sistema de leitura, os textos completos da edição Revista e Atualizada.A Biblia Falada é um software para leitura e estudo da Biblia Sagrada. Muito simples de usar e totalmente acessível para deficientes visuais, traz, além do novo sistema de leitura, os textos completos da edição Revista e Atualizada.","Categories
+Religion and Philosophy, Speech"
+"WARNING: THIS PROJECT IS OBSOLETE NOW,
+check the recent version at https://sourceforge.net/projects/naps2/
+
+This software makes scanning of documents (including from ADF and Duplex) as simple as possible. Requires .NET Framework 2.0WARNING: THIS PROJECT IS OBSOLETE NOW,
+check the recent version at https://sourceforge.net/projects/naps2/
+
+This software makes scanning of documents (including from ADF and Duplex) as simple as possible. Requires .NET Framework 2.0","Categories
+Scanner"
+"Omega48 is a virtual printer driver for Microsoft Windows which allows you to convert the document to the graphics formats such as EMF, BMP and non formated text file (UNICODE or ANSI). Omega48 allows to save MS Windows Spool (SPL) and Shadow (SHD) filesOmega48 is a virtual printer driver for Microsoft Windows which allows you to convert the document to the graphics formats such as EMF, BMP and non formated text file (UNICODE or ANSI). Omega48 allows to save MS Windows Spool (SPL) and Shadow (SHD) files","Categories
+Hardware Drivers, Printing, Image Converters"
+"JVending is a content provisioning system that implements most of the J2EE Client Provisioning Specification (JSR-124). JVending provides catalog management and device detection. Project also includes WAP push, MMS client and a registry for devices.JVending is a content provisioning system that implements most of the J2EE Client Provisioning Specification (JSR-124). JVending provides catalog management and device detection. Project also includes WAP push, MMS client and a registry for devices.","Categories
+File Sharing, WAP, Frameworks, Multimedia"
+"A general-purpose library that generates three-dimensional coherent noise. Useful for terrain generation and procedural texture generation. Uses a broad number of techniques (Perlin noise, ridged multifractal, etc.) and combinations of those techniques.A general-purpose library that generates three-dimensional coherent noise. Useful for terrain generation and procedural texture generation. Uses a broad number of techniques (Perlin noise, ridged multifractal, etc.) and combinations of those techniques.","Categories
+Graphics"
+"Webcam application for windows, encoding streaming data with video and sound into Flash Live Video FLV using encoder ffMpeg for broadcasting live on the web .Webcam application for windows, encoding streaming data with video and sound into Flash Live Video FLV using encoder ffMpeg for broadcasting live on the web .","Categories
+Streaming, Video Capture, Audio Recording"
+"Structure Synth generates 3D structures by specifying a design grammar. Even simple systems may generate surprising and complex structures. Structure Synth offers a graphical environment with multiple tabs, syntax highlighting, and OpenGL preview.Structure Synth generates 3D structures by specifying a design grammar. Even simple systems may generate surprising and complex structures. Structure Synth offers a graphical environment with multiple tabs, syntax highlighting, and OpenGL preview.","Categories
+3D Modeling, 3D Rendering"
+"Audio, video and CD/DVD player that uses DirectShow technology. It can read (but not modify) ID3/Ogg/APE/WMA tags and show sub/srt/aqt/dks subtitles. CD information can be obtained from freedb, CD-TEXT or cdplayer.ini and submitted to freedb.Audio, video and CD/DVD player that uses DirectShow technology. It can read (but not modify) ID3/Ogg/APE/WMA tags and show sub/srt/aqt/dks subtitles. CD information can be obtained from freedb, CD-TEXT or cdplayer.ini and submitted to freedb.","Categories
+Players, Media Players, CD Playing"
+3D game engine and multiplayer/singleplayer FPS game3D game engine and multiplayer/singleplayer FPS game,"Categories
+First Person Shooters, 3D Rendering"
+ExportSWC is a plugin written for the FlashDevelop IDE (http://www.flashdevelop.org) used to generate SWC files for Flash/Flex code libraries on the PC. Tutorial: http://blog.log2e.com/2008/05/07/creating-a-swc-component-in-flashdevelop/ExportSWC is a plugin written for the FlashDevelop IDE (http://www.flashdevelop.org) used to generate SWC files for Flash/Flex code libraries on the PC. Tutorial: http://blog.log2e.com/2008/05/07/creating-a-swc-component-in-flashdevelop/,"Categories
+Software Development, Multimedia"
+D-Fend Reloaded is a graphical environment for DOSBox. D-Fend Reloaded is a successor of the discontinued D-Fend. Both environments look alike and D-Fend Reloaded contains all features of D-Fend. Even the D-Fend config files can be used.D-Fend Reloaded is a graphical environment for DOSBox. D-Fend Reloaded is a successor of the discontinued D-Fend. Both environments look alike and D-Fend Reloaded contains all features of D-Fend. Even the D-Fend config files can be used.,"Categories
+Other/Nonlisted Topic, Games/Entertainment, Emulators"
+"Launchy is a free utility designed to help you forget about your start menu, your desktop icons, and your file manager. Launchy indexes and launches your applications, documents, project files, folders, and bookmarks with just a few keystrokes!Launchy is a free utility designed to help you forget about your start menu, your desktop icons, and your file manager. Launchy indexes and launches your applications, documents, project files, folders, and bookmarks with just a few keystrokes!","Categories
+Other/Nonlisted Topic, Desktop Environment, Search"
+"Modular, touch screen friendly navigation system with GPS tracking, realtime routing engine and support for various vector map formats. Works on a wide range of devices, from computers to smartphones.Modular, touch screen friendly navigation system with GPS tracking, realtime routing engine and support for various vector map formats. Works on a wide range of devices, from computers to smartphones.","Categories
+Other/Nonlisted Topic, GIS"
+"Q Light Controller is a cross-platform application to control DMX or analog lighting systems like moving heads, dimmers, scanners and other effects. Our goal is to replace expensive and somewhat limited hardware lighting desks with free software.Q Light Controller is a cross-platform application to control DMX or analog lighting systems like moving heads, dimmers, scanners and other effects. Our goal is to replace expensive and somewhat limited hardware lighting desks with free software.","Categories
+Other/Nonlisted Topic"
+"Brewtarget is free brewing software for Linux, Mac, and Windows. Compatible with BeerSmith. Generates instructions for you from the recipe and interactive mash designer! Hit all your targets with brewtarget.Brewtarget is free brewing software for Linux, Mac, and Windows. Compatible with BeerSmith. Generates instructions for you from the recipe and interactive mash designer! Hit all your targets with brewtarget.","Categories
+Other/Nonlisted Topic"
+"DictionaryForMIDs is an dictionary application for cell phones, tablets and PCs. The dictionary is completely installed on the device (""offline dictionary""), i.e. after installation there is no need for an internet connection.
+DictionaryForMIDs can be set up for any dictionary, for any language, or for any other lookup-purpose. The DfM-Creator tool is used to set up a dictionary for use with DictionaryForMIDs.DictionaryForMIDs is an dictionary application for cell phones, tablets and PCs. The dictionary is completely installed on the device (""offline dictionary""), i.e. after installation there is no need for an internet connection.
+DictionaryForMIDs can be set up for any dictionary, for any language, or for any other lookup-purpose. The DfM-Creator tool is used to set up a dictionary for use with DictionaryForMIDs.","Categories
+Other/Nonlisted Topic, Education, Dictionary"
+"XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.XMLStarlet is a set of command line utilities (tools) to transform, query, validate, and edit XML documents and files using simple set of shell commands in similar way it is done for text files with UNIX grep, sed, awk, diff, patch, join, etc utilities.","Categories
+Text Processing, Other/Nonlisted Topic, Interpreters, System Shells"
+Open Source Worship Presentation Software. This project has moved to Launchpad: https://launchpad.net/openlpOpen Source Worship Presentation Software. This project has moved to Launchpad: https://launchpad.net/openlp,"Categories
+Other/Nonlisted Topic, Office/Business, Religion and Philosophy, Media Players"
+"QLC+ is a fork of the great QLC project written by Heikki Junnila. This project aims to continue the development of QLC and to introduce new features.
+The primary goal is to bring QLC+ at the level of other lighting control commercial softwares.
+Please download the latest version from https://www.qlcplus.org.QLC+ is a fork of the great QLC project written by Heikki Junnila. This project aims to continue the development of QLC and to introduce new features.
+The primary goal is to bring QLC+ at the level of other lighting control commercial softwares.
+Please download the latest version from https://www.qlcplus.org.","Categories
+Other/Nonlisted Topic"
+A web-based project management tool for workgroups. Encourage groups and individuals to work collaboratively. This tool aims to be functional and elegant without being complicated or graphically intensive.A web-based project management tool for workgroups. Encourage groups and individuals to work collaboratively. This tool aims to be functional and elegant without being complicated or graphically intensive.,"Categories
+Other/Nonlisted Topic, Scheduling, To-Do Lists, Project Management"
+"OpenSong is a free software application for managing chords and lyrics sheets (lead sheets), presenting lyrics (and custom slides) using a projector, and much more! Great for worship leaders and musicians!OpenSong is a free software application for managing chords and lyrics sheets (lead sheets), presenting lyrics (and custom slides) using a projector, and much more! Great for worship leaders and musicians!","Categories
+Other/Nonlisted Topic, Religion and Philosophy, Presentation"
+"OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.","Categories
+Text Editors, Communications, Other/Nonlisted Topic, Office/Business, Internet, Simulation, Physics, Multimedia"
+"An easy to use application to design your kitchen garden or your house farm. Helps you plan your plants ( vegetables, fruit trees, herbs, flowers ) so that it respects the rules of crop rotation and companion planting. Based on square foot gardening. Requires Java 8.An easy to use application to design your kitchen garden or your house farm. Helps you plan your plants ( vegetables, fruit trees, herbs, flowers ) so that it respects the rules of crop rotation and companion planting. Based on square foot gardening. Requires Java 8.","Categories
+Other/Nonlisted Topic, Ecosystem Sciences, Data Visualization"
+Moved to https://codeberg.org/andybalaam/FreeGuideMoved to https://codeberg.org/andybalaam/FreeGuide,"Categories
+Other/Nonlisted Topic, Games/Entertainment, Internet"
+"A java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.comA java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.com","Categories
+Other/Nonlisted Topic, Security, LDAP"
+Virtual Magnifying Glass is designed for visually-impaired and others who need to magnify a part of the screen. Unlike similar programs it does not open a separate window for the magnification but instead puts a movable magnifying glass on screen.Virtual Magnifying Glass is designed for visually-impaired and others who need to magnify a part of the screen. Unlike similar programs it does not open a separate window for the magnification but instead puts a movable magnifying glass on screen.,"Categories
+Other/Nonlisted Topic, Graphics"
+"Simple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demoSimple, web-based address & phone book, contact manager, organizer. Groups, addresses, e-Mails, phone numbers & birthdays. vCards, LDIF, Excel, iPhone, Gmail & Google-Maps supported. PHP / MySQL based. http://php-addressbook.sourceforge.net/demo","Categories
+Email, Other/Nonlisted Topic, CRM, Social Networking"
+"Cybera is an Internet cafe administration system. It works with prepaid cards or client accounts or in a post paid Self Service mode. Features include workstation control, user rights lockdown, accounting, stats and screen replication for CAI.Cybera is an Internet cafe administration system. It works with prepaid cards or client accounts or in a post paid Self Service mode. Features include workstation control, user rights lockdown, accounting, stats and screen replication for CAI.","Categories
+Other/Nonlisted Topic, Point of Sale (POS), Systems Administration, Computer Aided Instruction (CAI)"
+"phpABook is a simple address/contact management system that uses PHP and MySQL. It provides many features that you would find in a similar offline, OS specific application. It also has multi-user capabilities.
+
+NEWS: We are cooking an all new version - new code, new features, new design. Subscribe the mailing list to keep updated.phpABook is a simple address/contact management system that uses PHP and MySQL. It provides many features that you would find in a similar offline, OS specific application. It also has multi-user capabilities.
+
+NEWS: We are cooking an all new version - new code, new features, new design. Subscribe the mailing list to keep updated.","Categories
+Other/Nonlisted Topic, CRM, WWW/HTTP"
+"easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.","Categories
+Other/Nonlisted Topic"
+"Megacubo is an intuitive, multi-language and cross-platform IPTV player with support for history, bookmarks and much more.
+
+You can add as many IPTV lists you want (M3U format) and record live broadcasts to your PC or device.
+
+With Miniplayer mode, you can work or navigate on your PC while watching any broadcast.Megacubo is an intuitive, multi-language and cross-platform IPTV player with support for history, bookmarks and much more.
+
+You can add as many IPTV lists you want (M3U format) and record live broadcasts to your PC or device.
+
+With Miniplayer mode, you can work or navigate on your PC while watching any broadcast.","Categories
+Streaming, Other/Nonlisted Topic"
+"Belgelendirme Çalışma Grubu, Linux ile ilgili olarak, NASIL, kılavuz ve bilgi sayfaları ile yardım belgelerinin çevrilmesi, yeni belgelerin hazırlanması, eski belgelerin arşivlenmesiyle ilgilenir.Belgelendirme Çalışma Grubu, Linux ile ilgili olarak, NASIL, kılavuz ve bilgi sayfaları ile yardım belgelerinin çevrilmesi, yeni belgelerin hazırlanması, eski belgelerin arşivlenmesiyle ilgilenir.","Categories
+Other/Nonlisted Topic"
+"As of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise editionAs of now, you can get Ehcache only from ehcache.org or Maven central.
+
+A simple, fast, thread safe, standards based cache for Java, and provides memory and disk stores and distributed operation for clusters. ehcache is widely used in such open source projects as Hibernate and Spring. Terracotta offers enterprise edition","Categories
+Other/Nonlisted Topic, Frameworks, Clustering"
+A fully featured nutrition and biomarker tracking tool. Designed for practitioners of Caloric Restrictrion (CRON) Diets.A fully featured nutrition and biomarker tracking tool. Designed for practitioners of Caloric Restrictrion (CRON) Diets.,"Categories
+Other/Nonlisted Topic"
+"Use your favorite keyboard layout everywhere! I learned the Colemak keyboard layout, but I can not install at school, so I wrote a portable keyboard layout program in autohotkey. It no requires install or administrator privileges.Use your favorite keyboard layout everywhere! I learned the Colemak keyboard layout, but I can not install at school, so I wrote a portable keyboard layout program in autohotkey. It no requires install or administrator privileges.","Categories
+Other/Nonlisted Topic, Hardware Drivers"
+"Perl scripts to manage a tennis club with its database held by PostgreSQL. Includes tournaments, profiles, rankings, challenges, galleries, head-to-heads, courts online reservation, etc.Perl scripts to manage a tennis club with its database held by PostgreSQL. Includes tournaments, profiles, rankings, challenges, galleries, head-to-heads, courts online reservation, etc.","Categories
+Other/Nonlisted Topic"
+"Development of CRG is now in
+
+https://www.facebook.com/groups/126006504596245 (This is for DEVELOPERS). For Users, use the normal Derby Scoreboard group
+
+https://www.facebook.com/groups/derbyscoreboard/Development of CRG is now in
+
+https://www.facebook.com/groups/126006504596245 (This is for DEVELOPERS). For Users, use the normal Derby Scoreboard group
+
+https://www.facebook.com/groups/derbyscoreboard/","Categories
+Chat, Other/Nonlisted Topic, Sports Games"
+"AllChars provides a quick, easy-to-remember way of creating accents like é Ü ç î æ and special characters like ƒ ² ‰ © £ ± ß ° 1/2 ¿ « » ™ „ in most Windows programs. AllChars emulates the *nix Compose key on Windows.AllChars provides a quick, easy-to-remember way of creating accents like é Ü ç î æ and special characters like ƒ ² ‰ © £ ± ß ° 1/2 ¿ « » ™ „ in most Windows programs. AllChars emulates the *nix Compose key on Windows.","Categories
+Other/Nonlisted Topic, Office/Business, Internationalization (I18N)"
+"The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface.
+
+Please take the latest code from 'https://github.com/DIA-NZ/Metadata-Extraction-Tool.git'. The code on source forge will not be updated henceforth as it is moved to github.","Categories
+Data Formats, Other/Nonlisted Topic, Information Analysis"
+"TreeLine stores almost any kind of information in an organized tree structure. Each node in the tree can contain several fields, forming a mini-database.TreeLine stores almost any kind of information in an organized tree structure. Each node in the tree can contain several fields, forming a mini-database.","Categories
+Other/Nonlisted Topic"

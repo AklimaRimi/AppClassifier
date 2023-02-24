@@ -1,0 +1,247 @@
+Description,Category
+This project aims at developing a easy software for the protection of SCP-ECG files and also control the access to the protected files.This project aims at developing a easy software for the protection of SCP-ECG files and also control the access to the protected files.,"Categories
+Security"
+"pev is a multiplatform toolkit to work with PE (Portable Executable) binaries. Its main goal is to provide feature-rich tools for proper analyze binaries, specially the suspicious ones.
+
+Go to https://github.com/merces/pev for most up to date code!pev is a multiplatform toolkit to work with PE (Portable Executable) binaries. Its main goal is to provide feature-rich tools for proper analyze binaries, specially the suspicious ones.
+
+Go to https://github.com/merces/pev for most up to date code!","Categories
+Security, Software Development, Anti-Malware"
+“Scramble your social network data!” - With Scramble you can selective enforce you access control preferences for your content on social networks like Facebook or Twitter ...“Scramble your social network data!” - With Scramble you can selective enforce you access control preferences for your content on social networks like Facebook or Twitter ...,"Categories
+Communications, Cryptography, Browser Extensions and Plugins"
+Securepoint Antivirus eCAP adapter for Squid 3.1 and above.Securepoint Antivirus eCAP adapter for Squid 3.1 and above.,"Categories
+WWW/HTTP, Firewall, Antivirus"
+A very basic single-threaded UDP server with optional support for DTLS.A very basic single-threaded UDP server with optional support for DTLS.,"Categories
+Communications, Security, Internet"
+"Small and portable utility for protecting flash drive from autorun and another viruses, by quick filling out free space, preventing from creating even empty file, and more...Small and portable utility for protecting flash drive from autorun and another viruses, by quick filling out free space, preventing from creating even empty file, and more...","Categories
+Antivirus"
+It is a Password generator! :DIt is a Password generator! :D,"Categories
+Password Generators"
+"A webapp hacking game, where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etcA webapp hacking game, where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etc","Categories
+Security, Puzzle Games"
+Password.Manager is (going to be) an online web service which allows you to create some storage for all your passwords with only a single master password.Password.Manager is (going to be) an online web service which allows you to create some storage for all your passwords with only a single master password.,"Categories
+Password Managers, Password Generators"
+This is a simple but robust application to manage your User Ids and password for various client. This application is best suited for those who is running a Web hosting or Domain registration. This application is built on .Net 2.5 framework.This is a simple but robust application to manage your User Ids and password for various client. This application is best suited for those who is running a Web hosting or Domain registration. This application is built on .Net 2.5 framework.,"Categories
+Password Managers"
+"Hosting exploit/backdoor detection daemon.It's written in python , and uses inotify (pyinotify) to monitor file system activity.It checks files smaller then some size,compares their md5sum and hex signatures against DBs with known exploits/backdoor.Hosting exploit/backdoor detection daemon.It's written in python , and uses inotify (pyinotify) to monitor file system activity.It checks files smaller then some size,compares their md5sum and hex signatures against DBs with known exploits/backdoor.","Categories
+Monitoring, Operating System Kernels, Anti-Malware"
+"Gives you the ability to operate Windows using PMCP alone, with its collection of useful utilities. Also includes several network tools. Written in pure C with Win32 API for maximum portability.Gives you the ability to operate Windows using PMCP alone, with its collection of useful utilities. Also includes several network tools. Written in pure C with Win32 API for maximum portability.","Categories
+Security, Networking"
+"HashTool calculates the most common hash and hmac values of files and strings by using the ""Bouncy Castle Java cryptography API"".HashTool calculates the most common hash and hmac values of files and strings by using the ""Bouncy Castle Java cryptography API"".","Categories
+Cryptography, Hash Calculators"
+"Command-line strong encryption tools including: triple cascaded encryptor, multiple hash calculator and multiple block cipher encryptor. Supports AES, Serpent, Twofish, SHA-512, RIPEMD-160, MD5 and other algorithms.Command-line strong encryption tools including: triple cascaded encryptor, multiple hash calculator and multiple block cipher encryptor. Supports AES, Serpent, Twofish, SHA-512, RIPEMD-160, MD5 and other algorithms.","Categories
+Cryptography, Hash Calculators"
+This project provides an implementation of the NTRU public-key cryptosystem: NTRUEncrypt and NTRUSign.This project provides an implementation of the NTRU public-key cryptosystem: NTRUEncrypt and NTRUSign.,"Categories
+Cryptography, Algorithms"
+"ABouncer for Spring Security provides a convenient and robust web interface for managing Users, User Groups, Authorities, ACL lists and moreABouncer for Spring Security provides a convenient and robust web interface for managing Users, User Groups, Authorities, ACL lists and more","Categories
+Security, Site Management"
+"Intermediate Vulnerability Information Language is is an XML schema for the exchange of vulnerability information from one tool handling vulnerability information to the other.
+
+This project has moved to GitHub: https://github.com/schubergphilis/ivilIntermediate Vulnerability Information Language is is an XML schema for the exchange of vulnerability information from one tool handling vulnerability information to the other.
+
+This project has moved to GitHub: https://github.com/schubergphilis/ivil","Categories
+XML, Security"
+"DROID FINDER will help you to track your phone, identify the user taking a picture using the front camera (i.e. if available) and provide the geographic positioning of the device sending you a SMS with a google maps link.DROID FINDER will help you to track your phone, identify the user taking a picture using the front camera (i.e. if available) and provide the geographic positioning of the device sending you a SMS with a google maps link.","Categories
+Security"
+"Security Configuration Assistant for Apache, MySQL and PHP (SCAAMP) is a security configuration vulnerability auditing and fixing tool for Apache HTTP Server, PHP Interpreter and MySQL Database Server.Security Configuration Assistant for Apache, MySQL and PHP (SCAAMP) is a security configuration vulnerability auditing and fixing tool for Apache HTTP Server, PHP Interpreter and MySQL Database Server.","Categories
+Security"
+"Este script saca claves de redes WLAN_XX y JAZZTEL_XX usando aircrack-ng, wepattack, wlandecrypter y jazzteldecrypter. Automágicamente. Tiene aún muchos bugs, para reportarlos usa el ""Tracker"" o el foro (anonymous bienvenidos).Este script saca claves de redes WLAN_XX y JAZZTEL_XX usando aircrack-ng, wepattack, wlandecrypter y jazzteldecrypter. Automágicamente. Tiene aún muchos bugs, para reportarlos usa el ""Tracker"" o el foro (anonymous bienvenidos).","Categories
+Security"
+Dir2Encrypt encrypt a folder with privat files and subfolders into a single password protected archive file. The archive file can be a zip file or a self extracting exe file. Microsoft Net Framwork 2 has to be installed.Dir2Encrypt encrypt a folder with privat files and subfolders into a single password protected archive file. The archive file can be a zip file or a self extracting exe file. Microsoft Net Framwork 2 has to be installed.,"Categories
+Security, Application Packaging"
+Easy Random password generatorEasy Random password generator,"Categories
+Password Generators"
+"Unhide is a forensic tool to find processes and TCP/UDP ports hidden by rootkits / LKMs or by another hiding technique.
+Note 1: Unhide-linux repo has migrated to https://github.com/YJesus/Unhide
+Please, report bugs or make pull requests on the new repo.
+Note 2: unhide-windows is no more maintained. Use tools like Gmer http://www.gmer.net/Unhide is a forensic tool to find processes and TCP/UDP ports hidden by rootkits / LKMs or by another hiding technique.
+Note 1: Unhide-linux repo has migrated to https://github.com/YJesus/Unhide
+Please, report bugs or make pull requests on the new repo.
+Note 2: unhide-windows is no more maintained. Use tools like Gmer http://www.gmer.net/","Categories
+Security"
+Rezort Security is a free software. License under GPL. Rezort security is security program for your computer. Running in Windows(R). Rezort Security is portable software and low size.Rezort Security is a free software. License under GPL. Rezort security is security program for your computer. Running in Windows(R). Rezort Security is portable software and low size.,"Categories
+Password Generators"
+Generates a list of passwords (wordlist) for password crackers.Generates a list of passwords (wordlist) for password crackers.,"Categories
+Security"
+Hexadecimal and raw packet injector and sniffer. Can be easily combined with other tools to provide a powerful cmdline framework for raw network access.Hexadecimal and raw packet injector and sniffer. Can be easily combined with other tools to provide a powerful cmdline framework for raw network access.,"Categories
+Security, Networking"
+Easy and simple PKCS7 signer using java and SunMSCAPI provider.Easy and simple PKCS7 signer using java and SunMSCAPI provider.,"Categories
+Cryptography"
+Two utilities that use the bing and google search engines to harvest email addresses and profile links on linkedin.comTwo utilities that use the bing and google search engines to harvest email addresses and profile links on linkedin.com,"Categories
+Email, Security, Social Networking"
+"This is free Java desktop application to keep your note in safe from others using the Encrypting Decrypting symmetric key algorithm, it's easy to transfer your note form source to another in confidential manner.This is free Java desktop application to keep your note in safe from others using the Encrypting Decrypting symmetric key algorithm, it's easy to transfer your note form source to another in confidential manner.","Categories
+Text Editors, Cryptography, Encryption Algorithms"
+"The Open Protocol for Access Control Identification and Ticketing with privacY, is a standard suite of Key Establishment and Authentication protocols based on ECC and AES, for optimized contactless transactions and simple PKI based Key management.The Open Protocol for Access Control Identification and Ticketing with privacY, is a standard suite of Key Establishment and Authentication protocols based on ECC and AES, for optimized contactless transactions and simple PKI based Key management.","Categories
+Cryptography"
+"This project aims at porting visual cryptography, which only works with transparent slides, to ordinary 80g/m^2 white paper. Please read the documentation before using the program.This project aims at porting visual cryptography, which only works with transparent slides, to ordinary 80g/m^2 white paper. Please read the documentation before using the program.","Categories
+Cryptography"
+"Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.","Categories
+Communications, Security, Messaging"
+"ShredBitz is a free and simple file shredder tool that can wipe selected files from any hard disk drive. ShredBitz is written in the java programming language and uses a custom written algorithm for shredding.
+ShredBitz is a very powerful tool.ShredBitz is a free and simple file shredder tool that can wipe selected files from any hard disk drive. ShredBitz is written in the java programming language and uses a custom written algorithm for shredding.
+ShredBitz is a very powerful tool.","Categories
+Cryptography, Encryption Algorithms"
+"Sistema de gestión para pruebas de penetración, ofrece una plataforma para ejecutar herramientas de línea de comandos, salvar resultados en una base de datos, realizar búsquedas usando expresiones regulares, impresion de informes y mucho mas.Sistema de gestión para pruebas de penetración, ofrece una plataforma para ejecutar herramientas de línea de comandos, salvar resultados en una base de datos, realizar búsquedas usando expresiones regulares, impresion de informes y mucho mas.","Categories
+Security"
+"Live Hacking CD is a new Linux distribution packed with tools and utilities for ethical hacking, penetration testing and countermeasure verification.Live Hacking CD is a new Linux distribution packed with tools and utilities for ethical hacking, penetration testing and countermeasure verification.","Categories
+Penetration Testing"
+"A free, open source, ""on-the-fly"" transparent disk encryption program. With this software, you can create one or more ""virtual memory cards"" on your PDA - anything written to which will be automatically, and securely, encrypted before being storeA free, open source, ""on-the-fly"" transparent disk encryption program. With this software, you can create one or more ""virtual memory cards"" on your PDA - anything written to which will be automatically, and securely, encrypted before being store","Categories
+Cryptography, Storage, File Systems, Encryption"
+SilentEye is a cross-platform application design for an easy use of steganography. It provides a pretty nice interface and an easy integration of new steganography algorithm and cryptography process.SilentEye is a cross-platform application design for an easy use of steganography. It provides a pretty nice interface and an easy integration of new steganography algorithm and cryptography process.,"Categories
+Security, Graphics"
+cvechecker is an application that allows you to pull in the (latest) CVE entries and match these against your own system. The application attempts to discover the installed versions and lists those that are a potential target for an existing CVE.cvechecker is an application that allows you to pull in the (latest) CVE entries and match these against your own system. The application attempts to discover the installed versions and lists those that are a potential target for an existing CVE.,"Categories
+Security"
+"The software blocks the kids’ access to websites with adult content. In addition to that, it is possible to set password in order to avoid any temptation to deactivate the software.The software blocks the kids’ access to websites with adult content. In addition to that, it is possible to set password in order to avoid any temptation to deactivate the software.","Categories
+Security, Software Development"
+Project Razorback(tm). A framework for detection.Project Razorback(tm). A framework for detection.,"Categories
+Security"
+"raw2vmdk is an OS independent Java utility that allows you to mount raw disk images, like images created by ""dd"", using VMware, VirtualBox or any other virtualization platform supporting the VMDK disk format.raw2vmdk is an OS independent Java utility that allows you to mount raw disk images, like images created by ""dd"", using VMware, VirtualBox or any other virtualization platform supporting the VMDK disk format.","Categories
+Security, Virtual Machine"
+Kryptographie is a student project to implement historic encryption methods. It has a linux style command line interface. This project will also include the notes for my talk I'll hold on cryptography in school. (in German).Kryptographie is a student project to implement historic encryption methods. It has a linux style command line interface. This project will also include the notes for my talk I'll hold on cryptography in school. (in German).,"Categories
+Cryptography"
+** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME** ** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME**** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME** ** NEW HOME** http://sourceforge.net/p/secmic/home/ ** NEW HOME**,"Categories
+Security, KDE, Live CD"
+Open Smart Home is project which provide intelligent control interface for your home.Open Smart Home is project which provide intelligent control interface for your home.,"Categories
+Security"
+"SmartRouter Project A GNU/Linux Router, Firewall and Proxy ServerSmartRouter Project A GNU/Linux Router, Firewall and Proxy Server","Categories
+Security, Networking, Internet, Proxy Servers"
+"this application can lock a folder , using feature of OS registery so, the advantage is that this program don't do much on your folder, so your file wont destroy becuz of locking...this application can lock a folder , using feature of OS registery so, the advantage is that this program don't do much on your folder, so your file wont destroy becuz of locking...","Categories
+Security"
+Some tools collection to do assessment and penetration testing against IPv6. It's completed with article which fully explained about this ipv6hackit.Some tools collection to do assessment and penetration testing against IPv6. It's completed with article which fully explained about this ipv6hackit.,"Categories
+Penetration Testing"
+"SOLEid is a multi-purpose file protector that helps users to easily protect their files with different protection measures. The ones that are included till date are: password protection, hardware id lock, username and process protection.SOLEid is a multi-purpose file protector that helps users to easily protect their files with different protection measures. The ones that are included till date are: password protection, hardware id lock, username and process protection.","Categories
+Cryptography"
+Samba Virus Scanner (SVS) -- Samba VFS plugin for transparent and parallel on-access virus scansSamba Virus Scanner (SVS) -- Samba VFS plugin for transparent and parallel on-access virus scans,"Categories
+File Managers, Antivirus"
+Java implementation of Shamir's Secret Sharing algorithm as described in Applied Cryptography [as LaGrange Interpolating Polynomial Scheme].Java implementation of Shamir's Secret Sharing algorithm as described in Applied Cryptography [as LaGrange Interpolating Polynomial Scheme].,"Categories
+Cryptography, Encryption Algorithms"
+"This project contain chat server and chat client/admin that works on Windows/Unix.. This is a Free software. Developed by Osama Mohammad Oransa, 2009,contain 3 parts : Chat Server ,Admin and Chat Clients, Based on Java RMI, will support XMPP soon.This project contain chat server and chat client/admin that works on Windows/Unix.. This is a Free software. Developed by Osama Mohammad Oransa, 2009,contain 3 parts : Chat Server ,Admin and Chat Clients, Based on Java RMI, will support XMPP soon.","Categories
+Chat, Security, Messaging"
+Startup Edit enables you to control what should and should not load automatically with Windows. why this USEFUL: Preventing spyware from running behind your back without your knowledge. Maximizing your system resources . Decreasing Windows load time.Startup Edit enables you to control what should and should not load automatically with Windows. why this USEFUL: Preventing spyware from running behind your back without your knowledge. Maximizing your system resources . Decreasing Windows load time.,"Categories
+Security, Software Development, Hardware"
+TPMitigation is a transparent HTTP-proxy for mitigation of drive-by-malware. Content is converted on-the-fly and/or replaced where there is a risk of a infection by embedded drive-by-maleware. Also visit http://tpmitigation.sourceforge.net/TPMitigation is a transparent HTTP-proxy for mitigation of drive-by-malware. Content is converted on-the-fly and/or replaced where there is a risk of a infection by embedded drive-by-maleware. Also visit http://tpmitigation.sourceforge.net/,"Categories
+Anti-Malware"
+"This is simple php password generator. There are 3 levels (weak, medium, strong).This is simple php password generator. There are 3 levels (weak, medium, strong).","Categories
+Password Generators"
+This project automates the reporting of improper Internet use by the X-ARF format. The two schemas specified abuse_login-attack and abuse_malware are currently implemented. Fixing a Bug and the Date / Timestamp issues. Now it should work fine :)This project automates the reporting of improper Internet use by the X-ARF format. The two schemas specified abuse_login-attack and abuse_malware are currently implemented. Fixing a Bug and the Date / Timestamp issues. Now it should work fine :),"Categories
+Security, Internet"
+"EDSS stands for Easy Debian Security Script and it is a very easy to use script that installs additional software, configures the software, and scans a GNU/Linux Debian server for possible security risks.EDSS stands for Easy Debian Security Script and it is a very easy to use script that installs additional software, configures the software, and scans a GNU/Linux Debian server for possible security risks.","Categories
+Security, HTTP Servers, Networking"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Includes customized HTTP server
+Compatible with Internet Explorer, Chrome, Firefox, and Safari
+Easy to use
+Two samples included","Categories
+Security, WWW/HTTP, Logging"
+"phpPassSafe is a web based Tool for secure, rolebased password storage and management. The passwords are stored aes-256 encrypted. Now a random password generator is included.phpPassSafe is a web based Tool for secure, rolebased password storage and management. The passwords are stored aes-256 encrypted. Now a random password generator is included.","Categories
+Password Managers, Password Generators"
+Programa escrito en python y que permitira analizar las antenas y tarjetas inalambricas para compararlas asi como calibrar la calidad de la conexion. Este es mi primer programa en python por lo que os ruego comprension.Programa escrito en python y que permitira analizar las antenas y tarjetas inalambricas para compararlas asi como calibrar la calidad de la conexion. Este es mi primer programa en python por lo que os ruego comprension.,"Categories
+Security, Wireless, Internet"
+It is a simple password manager for your PC and Smartphone. It works like a text editor and uses a strong cryptography algorithm to generate the end file.It is a simple password manager for your PC and Smartphone. It works like a text editor and uses a strong cryptography algorithm to generate the end file.,"Categories
+Text Processing, Office/Business, Cryptography, Encryption Algorithms"
+"PassGen is a password generation program for users that need a safe password for an account, etc. PassGen can make passwords of any length and many as you like, and have adjustable options and passwords can be saved as normal text, HEX or encoded.PassGen is a password generation program for users that need a safe password for an account, etc. PassGen can make passwords of any length and many as you like, and have adjustable options and passwords can be saved as normal text, HEX or encoded.","Categories
+Password Managers"
+"A KeePass 1.x-compatible password manager using GTK.
+
+Please check github for future updates.A KeePass 1.x-compatible password manager using GTK.
+
+Please check github for future updates.","Categories
+Password Managers"
+"SiPS is a simple cross-platform TCP Port Scanner.
+Probable service names based on http://www.iana.org/assignments/port-numbers.SiPS is a simple cross-platform TCP Port Scanner.
+Probable service names based on http://www.iana.org/assignments/port-numbers.","Categories
+Security, Monitoring, Internet"
+"Backup script for Windows based on robocopy Fast backup, syncs changed files only. Space efficient, all duplicate files are Hardlinked. Easy Overview of destination folder Structure: Computer Name > Date_Time > Drive > Folder > FileBackup script for Windows based on robocopy Fast backup, syncs changed files only. Space efficient, all duplicate files are Hardlinked. Easy Overview of destination folder Structure: Computer Name > Date_Time > Drive > Folder > File","Categories
+Data Warehousing, Security, Backup"
+"Encrypted Message Exchange by using Diffie-Hellman key exchange algorithm and Advanced Encryption Standard(AES) encryption algorithm with Cipher-block chaining(CBC) mode using User Datagram Protocol(UDP)port server-client application in C, Ansi-styleEncrypted Message Exchange by using Diffie-Hellman key exchange algorithm and Advanced Encryption Standard(AES) encryption algorithm with Cipher-block chaining(CBC) mode using User Datagram Protocol(UDP)port server-client application in C, Ansi-style","Categories
+Cryptography, Encryption Algorithms"
+"Common network dump analyzer tool to extract application data and pretty show.
+It reassembles and shows HTTP/SMTP/POP3/IMAP etc files.
+Please donate if you want this to be a candy.Common network dump analyzer tool to extract application data and pretty show.
+It reassembles and shows HTTP/SMTP/POP3/IMAP etc files.
+Please donate if you want this to be a candy.","Categories
+Monitoring, Internet, Anti-Malware"
+"Rainbow Tables Generation Project allow free use of rainbow tables for software RainbowCrack.
+Tables Generated by Winrtgen.
+Thank you, mao.Rainbow Tables Generation Project allow free use of rainbow tables for software RainbowCrack.
+Tables Generated by Winrtgen.
+Thank you, mao.","Categories
+Cryptography"
+Simple tool for file encryption and folder content encryption with AES 256. Files can also be hashed with a SHA1 signature. A command line version is available as well as a GUI version. One other useful feature is to encrypt messages for emails.Simple tool for file encryption and folder content encryption with AES 256. Files can also be hashed with a SHA1 signature. A command line version is available as well as a GUI version. One other useful feature is to encrypt messages for emails.,"Categories
+Cryptography"
+"Zero Wine Tryouts is an open source malware analysis tool. Just upload your suspicious file (e.g. Windows executable file, PDF file) through the web interface and let it analyze.
+
+For more information, please visit project website: http://zerowine-tryout.sourceforge.net/Zero Wine Tryouts is an open source malware analysis tool. Just upload your suspicious file (e.g. Windows executable file, PDF file) through the web interface and let it analyze.
+
+For more information, please visit project website: http://zerowine-tryout.sourceforge.net/","Categories
+Security"
+"Yet Another Ping Tunnel (YAPT) is a network security tool, which can be used to test firewalls. It supports ICMP-tunnel for IPv4 and IPv6! Plugged and wired with SENF senf.berlios.deYet Another Ping Tunnel (YAPT) is a network security tool, which can be used to test firewalls. It supports ICMP-tunnel for IPv4 and IPv6! Plugged and wired with SENF senf.berlios.de","Categories
+Security"
+Simple program to encrypt text. Programa simple para encriptar texto.Simple program to encrypt text. Programa simple para encriptar texto.,"Categories
+Cryptography, Encryption Algorithms"
+"Cymothoa is a backdooring tool, that inject backdoor's shellcode directly into running applications. Stealth and lightweight...Cymothoa is a backdooring tool, that inject backdoor's shellcode directly into running applications. Stealth and lightweight...","Categories
+Security, System"
+PyMSR is a python script for reading and writing magnetic stripe cards with the MSR206 Reader/Writer from unix.PyMSR is a python script for reading and writing magnetic stripe cards with the MSR206 Reader/Writer from unix.,"Categories
+Security"
+Corazones Web Toolbox es una compilación de herramientas para realizar auditorías de seguridad informática. Entre sus herramientas incluye: | MAC spoofing | Admin panel Finder | Port scanner | MD5 multi search | Metasploit web launcher | etc...Corazones Web Toolbox es una compilación de herramientas para realizar auditorías de seguridad informática. Entre sus herramientas incluye: | MAC spoofing | Admin panel Finder | Port scanner | MD5 multi search | Metasploit web launcher | etc...,"Categories
+Security, Networking"
+"This tool will anonymize images by destroying the Photo Response Non Uniformity (PRNU) pattern. It can also remove or forge the PRNU patterns, without having a (negative) impact on the quality.This tool will anonymize images by destroying the Photo Response Non Uniformity (PRNU) pattern. It can also remove or forge the PRNU patterns, without having a (negative) impact on the quality.","Categories
+Security, Photo Management"
+A small script to mount a TrueCrypt volume in one click.A small script to mount a TrueCrypt volume in one click.,"Categories
+Cryptography, Password Managers"
+"Software solution for creation and verification of digitral signatures. Can replace tokens and smart cards with mobile phones. Components included are client and server. Can creates, verifiy and store content and signatures. Offers secure sharing.Software solution for creation and verification of digitral signatures. Can replace tokens and smart cards with mobile phones. Components included are client and server. Can creates, verifiy and store content and signatures. Offers secure sharing.","Categories
+File Sharing, Cryptography, Mobile"
+"OpenCloudAV is the first open source multi-engine based malware analysis service from the network cloud. This project is in alpha release, run only in GNU/Linux, and is mainly developed using Perl SOAP::Lite module. Version 0.2 alpha is available nowOpenCloudAV is the first open source multi-engine based malware analysis service from the network cloud. This project is in alpha release, run only in GNU/Linux, and is mainly developed using Perl SOAP::Lite module. Version 0.2 alpha is available now","Categories
+Web Services, Antivirus, Anti-Malware"
+Encrypt and decrypt text with my own encryption algorithm. (Executable included)Encrypt and decrypt text with my own encryption algorithm. (Executable included),"Categories
+Encryption Algorithms"
+Common Hardware Recovery Solutions by Ukrainian-Russian network from http://hardw.net/forumCommon Hardware Recovery Solutions by Ukrainian-Russian network from http://hardw.net/forum,"Categories
+Terminals, File Sharing, Security, Hardware, Scientific/Engineering, Exam"
+"RemenDeKO is a file repair program that you can use to generate off-line patch files to apply over damaged files. It's targeted for corrupted downloads, so the downloader just need to re-download a (probably) small file to fix the damaged download.RemenDeKO is a file repair program that you can use to generate off-line patch files to apply over damaged files. It's targeted for corrupted downloads, so the downloader just need to re-download a (probably) small file to fix the damaged download.","Categories
+Security, Archiving"
+"Penny Post is a system to combat spam emails by making the sender ""pay for email"" by spending a few seconds of computing time. Outgoing mail is marked with postage stamps that convince the receiver that the sender is genuine.Penny Post is a system to combat spam emails by making the sender ""pay for email"" by spending a few seconds of computing time. Outgoing mail is marked with postage stamps that convince the receiver that the sender is genuine.","Categories
+Email, Security"
+"A software written in java to compute the digital signature on documents and verify them, using a smart card or a token file in p12 formatA software written in java to compute the digital signature on documents and verify them, using a smart card or a token file in p12 format","Categories
+Cryptography"
+"Gate Guardian is a library of C/C++ functions that can be used to avoid common security problems when a process forks or is forked from a parent process, or runs / is run by an external program. The code is meant to be portable across many UNIX variants.Gate Guardian is a library of C/C++ functions that can be used to avoid common security problems when a process forks or is forked from a parent process, or runs / is run by an external program. The code is meant to be portable across many UNIX variants.","Categories
+Security, Software Development"
+"Dear Diary is a password-protected text editor with features similar to WordPad that automatically encrypts the text before writing to disk. You can format text with different colors, fonts and font sizes as well as insert images into your documents.Dear Diary is a password-protected text editor with features similar to WordPad that automatically encrypts the text before writing to disk. You can format text with different colors, fonts and font sizes as well as insert images into your documents.","Categories
+Word Processors, Text Processing, Cryptography"
+"JEraser is a very simple but extremely effective tool to erase a file or and entire directory so that no one could recover it.
+It's written in Java so you can run it on every platform.JEraser is a very simple but extremely effective tool to erase a file or and entire directory so that no one could recover it.
+It's written in Java so you can run it on every platform.","Categories
+Security, Systems Administration, File Systems"
+"rssh is a restricted shell for use with OpenSSH, allowing only scp and/or sftp.rssh is a restricted shell for use with OpenSSH, allowing only scp and/or sftp.","Categories
+Security, System Shells"
+PADS is a signature based detection engine used to passively detect network assets. It is designed to complement IDS technology by providing context to IDS alerts.PADS is a signature based detection engine used to passively detect network assets. It is designed to complement IDS technology by providing context to IDS alerts.,"Categories
+Security, Monitoring"
+The Digital Forensic Tool Testing (DFTT) project creates test images for digital forensic acquisition and analysis tools. These images can be used by a tool developers and owners to test their software.The Digital Forensic Tool Testing (DFTT) project creates test images for digital forensic acquisition and analysis tools. These images can be used by a tool developers and owners to test their software.,"Categories
+Security, Software Development, File Systems"
+Active dictionary attack on WEP keys in WLAN networks.Active dictionary attack on WEP keys in WLAN networks.,"Categories
+Cryptography, Monitoring"
+PHP Security Scanner is a tool written in PHP intended to search PHP code for vulnarabilities. MySQL DB stores patterns to search for as well as the results from the search. The tool can scan any directory on the file system.PHP Security Scanner is a tool written in PHP intended to search PHP code for vulnarabilities. MySQL DB stores patterns to search for as well as the results from the search. The tool can scan any directory on the file system.,"Categories
+Security, Search"
+Development of Linux kernel extensions which enable intrusion detection and prevention functionalities based on NSA's SELinux (http://www.nsa.gov/selinux/).Development of Linux kernel extensions which enable intrusion detection and prevention functionalities based on NSA's SELinux (http://www.nsa.gov/selinux/).,"Categories
+Security, Operating System Kernels"
+"SecureSqueak is a fork of Squeak Smalltalk (http://www.squeak.org/) which is designed to be able to run remotely loaded, untrusted bytecodes in a secure sandbox.SecureSqueak is a fork of Squeak Smalltalk (http://www.squeak.org/) which is designed to be able to run remotely loaded, untrusted bytecodes in a secure sandbox.","Categories
+Security, Object Oriented, Distributed Computing"
+"NeapoliX č la distribuzione live GNU/Linux creata dal Neapolis HackLab.
+Su questo sito non troverete la iso della distribuzione, ma solo alcuni script per trasformare una Knoppix in una NeapoliX.NeapoliX č la distribuzione live GNU/Linux creata dal Neapolis HackLab.
+Su questo sito non troverete la iso della distribuzione, ma solo alcuni script per trasformare una Knoppix in una NeapoliX.","Categories
+Security, System, Internet, Multimedia"
+"The OpenSC project allows the use of PKCS #15 compatible SmartCards and other cryptographic tokens (e.g. the Aladdin eToken) in UNIX compatible operating systems. OpenSC can use PC/SC Lite or CT-API as its reader backend.
+
+https://github.com/OpenSC/OpenSC/wiki/OpenSC-ServicesThe OpenSC project allows the use of PKCS #15 compatible SmartCards and other cryptographic tokens (e.g. the Aladdin eToken) in UNIX compatible operating systems. OpenSC can use PC/SC Lite or CT-API as its reader backend.
+
+https://github.com/OpenSC/OpenSC/wiki/OpenSC-Services","Categories
+Cryptography"
+"TinyCrypt is a simple secure program for encrypting files. The core encryption code is only 76 lines of C code, based on the well known ARC4-D(768) algorithm.TinyCrypt is a simple secure program for encrypting files. The core encryption code is only 76 lines of C code, based on the well known ARC4-D(768) algorithm.","Categories
+Cryptography, Encryption, Encryption Algorithms"
+"Killtrojan Usb Antivirus es un rápido,sencillo y eficaç antivírus para todo tipo de dispositivo que se conecte mediante un usb a un pc. Para usarlo simplemente ejecutarlo en la raiz del disco extraible. Protege llaves usb, targetas de memória varias,Killtrojan Usb Antivirus es un rápido,sencillo y eficaç antivírus para todo tipo de dispositivo que se conecte mediante un usb a un pc. Para usarlo simplemente ejecutarlo en la raiz del disco extraible. Protege llaves usb, targetas de memória varias,","Categories
+Enterprise, Security, Software Testing"
+Kaspersky Turkish Translation Project (Kaspersky Türkçe Çeviri Aktivitesi)Kaspersky Turkish Translation Project (Kaspersky Türkçe Çeviri Aktivitesi),"Categories
+Security, Internationalization (I18N)"
+"Simplebackup is a cross-platform backup program. It reads a configuration file then builds a compress backup set, finally places the compressed files into another location (a directory, a remote http,ftp,sftp server or even one or more email accounts).Simplebackup is a cross-platform backup program. It reads a configuration file then builds a compress backup set, finally places the compressed files into another location (a directory, a remote http,ftp,sftp server or even one or more email accounts).","Categories
+Cryptography, File Compression, Backup, Internet"
+"Distributed John is a distributed password cracking using John The Ripper. It consists of a server that handles work to the clients (each on a different machine), which use John the Ripper.Distributed John is a distributed password cracking using John The Ripper. It consists of a server that handles work to the clients (each on a different machine), which use John the Ripper.","Categories
+Security, Distributed Computing, Password Crackers"

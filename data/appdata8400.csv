@@ -1,0 +1,581 @@
+Description,Category
+"NEWS: NumPy 1.11.2 is the last release that will be made on sourceforge. Wheels for Windows, Mac, and Linux as well as archived source distributions can be found on PyPI.
+
+Numerical Python adds a fast and sophisticated array facility to the Python language. NumPy is the most recent and most actively supported package. Numarray and Numeric are no longer supported.NEWS: NumPy 1.11.2 is the last release that will be made on sourceforge. Wheels for Windows, Mac, and Linux as well as archived source distributions can be found on PyPI.
+
+Numerical Python adds a fast and sophisticated array facility to the Python language. NumPy is the most recent and most actively supported package. Numarray and Numeric are no longer supported.","Categories
+Scientific/Engineering"
+"Joone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base componentJoone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base component","Categories
+Software Development, Distributed Computing, Artificial Intelligence"
+"Luminance HDR is a complete suite for HDR imaging workflow. It provides a wide range of functionalities, during both the fusion stage and the tonemapping stage. Its graphical user interface, based on Qt5, runs on a variety of platforms, such as Microsoft Windows, Mac OS X 10.9 and later and several Unix flavors (Linux, FreeBSD and others).
+
+Input images can be supplied in multiple formats, from JPEG to RAW files. In the same way, output can be saved in many different formats as well, from JPEG to TIFF (both 8 bit and 16 bit per channel), enabling all the power of your post processing tools.Luminance HDR is a complete suite for HDR imaging workflow. It provides a wide range of functionalities, during both the fusion stage and the tonemapping stage. Its graphical user interface, based on Qt5, runs on a variety of platforms, such as Microsoft Windows, Mac OS X 10.9 and later and several Unix flavors (Linux, FreeBSD and others).
+
+Input images can be supplied in multiple formats, from JPEG to RAW files. In the same way, output can be saved in many different formats as well, from JPEG to TIFF (both 8 bit and 16 bit per channel), enabling all the power of your post processing tools.","Categories
+Image Viewers, Digital Camera, Image Converters, Data Visualization"
+NETGEN is an automatic 3d tetrahedral mesh generator. It accepts input from constructive solid geometry (CSG) or boundary representation (BRep) from STL file format. The connection to a geometry kernel allows the handling of IGES and STEP files. NETGEN contains modules for mesh optimization and hierarchical mesh refinement. Netgen is open source based on the LGPL license. It is available for Unix/Linux and Windows.NETGEN is an automatic 3d tetrahedral mesh generator. It accepts input from constructive solid geometry (CSG) or boundary representation (BRep) from STL file format. The connection to a geometry kernel allows the handling of IGES and STEP files. NETGEN contains modules for mesh optimization and hierarchical mesh refinement. Netgen is open source based on the LGPL license. It is available for Unix/Linux and Windows.,"Categories
+Simulation, Mathematics"
+"OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.OS X FOSS portable applications are packaged so you can carry around on any portable device, USB thumb drive, iPod, portable hard drive, memory card, other portable device (or also on your internal hard disk), taking your preferences with you.","Categories
+Text Editors, Communications, Other/Nonlisted Topic, Office/Business, Internet, Simulation, Physics, Multimedia"
+"SkyChart is a software to draw chart of the night sky for the amateur astronomer from a bunch of stars and nebulae catalogs. See main web page for full download.
+This software is part of a full suite for astronomical observation:
+https://sourceforge.net/projects/ccdciel/
+https://sourceforge.net/projects/indistarter/
+https://sourceforge.net/projects/eqmodgui/
+Requirement:
+https://sourceforge.net/projects/libpasastro/
+See also:
+https://sourceforge.net/projects/indi/SkyChart is a software to draw chart of the night sky for the amateur astronomer from a bunch of stars and nebulae catalogs. See main web page for full download.
+This software is part of a full suite for astronomical observation:
+https://sourceforge.net/projects/ccdciel/
+https://sourceforge.net/projects/indistarter/
+https://sourceforge.net/projects/eqmodgui/
+Requirement:
+https://sourceforge.net/projects/libpasastro/
+See also:
+https://sourceforge.net/projects/indi/","Categories
+Astronomy"
+"Please participate in the SURVEY on rgedit's future:
+https://www.surveymonkey.com/s/VNMMJMJ
+your answers are much appreciated!
+
+Gedit (Gnome editor, www.gedit.org) plug-in allowing it to become an easy-to-use and yet light-weight IDE for the statistical programming environment, R (www.r-project.org).Please participate in the SURVEY on rgedit's future:
+https://www.surveymonkey.com/s/VNMMJMJ
+your answers are much appreciated!
+
+Gedit (Gnome editor, www.gedit.org) plug-in allowing it to become an easy-to-use and yet light-weight IDE for the statistical programming environment, R (www.r-project.org).","Categories
+Integrated Development Environments (IDE), Statistics"
+"myFocuserPro2 is an ASCOM - INDI - LINUX telescope focuser with a large range of options.
+
+226,000+ file downloads. The most popular focuser project.
+
+(c) Copyright Robert Brown 2014-2023. All Rights Reserved.
+Code or portions of code may not be copied or used without appropriate credit given to author.
+
+myFP2E WiFi - https://sourceforge.net/projects/myfocuserpro2-esp32/ [ESP32/ESP8266]
+
+myFP2N - Nextion touch screen display - https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/myFocuserPro2N%20NEXTION%20TFT%20DISPLAY/
+
+Build a simple controller
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Build%20a%20simple%20myFP2M-100.pdf/download
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown)myFocuserPro2 is an ASCOM - INDI - LINUX telescope focuser with a large range of options.
+
+226,000+ file downloads. The most popular focuser project.
+
+(c) Copyright Robert Brown 2014-2023. All Rights Reserved.
+Code or portions of code may not be copied or used without appropriate credit given to author.
+
+myFP2E WiFi - https://sourceforge.net/projects/myfocuserpro2-esp32/ [ESP32/ESP8266]
+
+myFP2N - Nextion touch screen display - https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/myFocuserPro2N%20NEXTION%20TFT%20DISPLAY/
+
+Build a simple controller
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Build%20a%20simple%20myFP2M-100.pdf/download
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown)","Categories
+Hardware, Astronomy, IoT"
+"Mecrisp - A family of optimising native code Forth implementations for MSP430, ARM Cortex M, RISC-V RV32IM(C), MIPS M4K and FPGAs.Mecrisp - A family of optimising native code Forth implementations for MSP430, ARM Cortex M, RISC-V RV32IM(C), MIPS M4K and FPGAs.","Categories
+Compilers, Scientific/Engineering, Assemblers"
+"SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+The code and the issue tracker can be found at https://github.com/eclipse/sumo/
+The documentation can be found at https://sumo.dlr.de/docs/SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+The code and the issue tracker can be found at https://github.com/eclipse/sumo/
+The documentation can be found at https://sumo.dlr.de/docs/","Categories
+Simulation, Education, Mechanical and Civil Engineering"
+"Design PCR primers from DNA sequence. Widely used (190k Google hits for ""primer3""). From mispriming libraries to sequence quality data to the generation of internal oligos, primer3 does it. C&perl. Developers/testers/documenters needed.Design PCR primers from DNA sequence. Widely used (190k Google hits for ""primer3""). From mispriming libraries to sequence quality data to the generation of internal oligos, primer3 does it. C&perl. Developers/testers/documenters needed.","Categories
+Bio-Informatics"
+An Open Source model rocket simulator.An Open Source model rocket simulator.,"Categories
+Simulation, Physics, Hobbies"
+"A data visualization and processing tool for scanning probe microscopy (SPM, i.e. AFM, STM, MFM, SNOM/NSOM, ...) and profilometry data, useful also for general image and 2D data analysis.A data visualization and processing tool for scanning probe microscopy (SPM, i.e. AFM, STM, MFM, SNOM/NSOM, ...) and profilometry data, useful also for general image and 2D data analysis.","Categories
+Bio-Informatics, Data Visualization, Physics, Data Analytics"
+"The FFT library to ""Keep It Simple, Stupid""
+This is the original home of kissfft.
+Most recent development is at
+https://github.com/mborgerding/kissfft
+Please ask questions on stackoverflow.comThe FFT library to ""Keep It Simple, Stupid""
+This is the original home of kissfft.
+Most recent development is at
+https://github.com/mborgerding/kissfft
+Please ask questions on stackoverflow.com","Categories
+Mathematics, Audio Analysis"
+obo An umbrella organization for ontologies and structured shared controlled vocabularies for use across all biological and biomedical domainsobo An umbrella organization for ontologies and structured shared controlled vocabularies for use across all biological and biomedical domains,"Categories
+Bio-Informatics"
+"SaVi - simulate Starlink, Iridium, Globalstar, O3b, GPS, Galileo and other satellite constellations, modify them, or design your own. Requires Tcl/Tk and Unix libraries; 3D viewing option requires Geomview running on X Window.SaVi - simulate Starlink, Iridium, Globalstar, O3b, GPS, Galileo and other satellite constellations, modify them, or design your own. Requires Tcl/Tk and Unix libraries; 3D viewing option requires Geomview running on X Window.","Categories
+3D Modeling, 3D Rendering, Simulation, Data Visualization, Astronomy"
+"Free open source GPL instrument / musical chromatic tuner (like an electronic guitar tuner) for Windows, Windows Mobile, & Pocket PC. Displays name of note played & accurate indication of whether pitch is sharp, flat, or exact (relative to 440Hz A).Free open source GPL instrument / musical chromatic tuner (like an electronic guitar tuner) for Windows, Windows Mobile, & Pocket PC. Displays name of note played & accurate indication of whether pitch is sharp, flat, or exact (relative to 440Hz A).","Categories
+Data Visualization, Audio Analysis"
+"An easy to use application to design your kitchen garden or your house farm. Helps you plan your plants ( vegetables, fruit trees, herbs, flowers ) so that it respects the rules of crop rotation and companion planting. Based on square foot gardening. Requires Java 8.An easy to use application to design your kitchen garden or your house farm. Helps you plan your plants ( vegetables, fruit trees, herbs, flowers ) so that it respects the rules of crop rotation and companion planting. Based on square foot gardening. Requires Java 8.","Categories
+Other/Nonlisted Topic, Ecosystem Sciences, Data Visualization"
+Gpredict is a real-time satellite tracking and orbit prediction application. Gpredict can track an unlimited number of satellites and display the data in tables and various graphical view.Gpredict is a real-time satellite tracking and orbit prediction application. Gpredict can track an unlimited number of satellites and display the data in tables and various graphical view.,"Categories
+Ham Radio, Astronomy, Physics"
+CLIPS is a forward-chaining rule-based programming language written in C that also provides procedural and object-oriented programming facilities.CLIPS is a forward-chaining rule-based programming language written in C that also provides procedural and object-oriented programming facilities.,"Categories
+Interpreters, Artificial Intelligence"
+"NASA World Wind is a graphically rich 3D virtual globe for use on desktop computers running Windows. It combines NASA imagery generated from satellites that have produced Blue Marble, Landsat 7, SRTM, MODIS and more.NASA World Wind is a graphically rich 3D virtual globe for use on desktop computers running Windows. It combines NASA imagery generated from satellites that have produced Blue Marble, Landsat 7, SRTM, MODIS and more.","Categories
+Image Viewers, Data Visualization, Education, GIS"
+This repository is now frozen. The latest version of the RepRap project can be found at https://github.com/reprap.This repository is now frozen. The latest version of the RepRap project can be found at https://github.com/reprap.,"Categories
+Printing, 3D Modeling, Robotics"
+"An easy to use Java program that allows you to digitize data points off of scanned plots, scaled drawings, or orthographic photographs. Includes an automatic digitization feature that can automatically digitize many types of functional data.An easy to use Java program that allows you to digitize data points off of scanned plots, scaled drawings, or orthographic photographs. Includes an automatic digitization feature that can automatically digitize many types of functional data.","Categories
+Image Converters, Information Analysis"
+"The Spinal Cord Toolbox is a comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord.
+
+IMPORTANT: SCT WEBSITE HAS NOW MOVED HERE: https://spinalcordtoolbox.com/The Spinal Cord Toolbox is a comprehensive and open-source library of analysis tools for multi-parametric MRI of the spinal cord.
+
+IMPORTANT: SCT WEBSITE HAS NOW MOVED HERE: https://spinalcordtoolbox.com/","Categories
+Software Development, Medical Physics"
+"JaCoP is a Java Constraint Programming solver. It provides a significant number of (global) constraints to facilitate efficient modeling of combinatorial problems, as well as modular design of search. Documentation is available at project Web site.
+Please, note that the sources from version 4.0 are only available at GitHub.JaCoP is a Java Constraint Programming solver. It provides a significant number of (global) constraints to facilitate efficient modeling of combinatorial problems, as well as modular design of search. Documentation is available at project Web site.
+Please, note that the sources from version 4.0 are only available at GitHub.","Categories
+Artificial Intelligence, Business Intelligence, Research"
+A HP41CV simulator for the Android platform. This version is the second beta release and includes nearly all functionality of the HP41CV including running programmes. Programmes can be imported / exported on csv format. A simple programme editor inclA HP41CV simulator for the Android platform. This version is the second beta release and includes nearly all functionality of the HP41CV including running programmes. Programmes can be imported / exported on csv format. A simple programme editor incl,"Categories
+Mathematics, Mobile"
+"Artha is a handy thesaurus based on WordNet with distinct features like global hotkey look-up, passive desktop notifications, regular expression based search, etc.. Artha may be used as a free open-source replacement to the proprietary WordWeb Pro.Artha is a handy thesaurus based on WordNet with distinct features like global hotkey look-up, passive desktop notifications, regular expression based search, etc.. Artha may be used as a free open-source replacement to the proprietary WordWeb Pro.","Categories
+Communications, Education, Linguistics"
+"Qalculate! is a multi-purpose desktop calculator for GNU/Linux (now ported to Mac via MacPorts). It is small and simple to use but with much power and versatility underneath. Features include customizable functions, units, arbitrary precision, plotting, and a user-friendly interface (GTK+).
+
+Qalculate! has now moved to GitHub (https://github.com/Qalculate). Get the latest version from http://qalculate.github.io/downloads.html.Qalculate! is a multi-purpose desktop calculator for GNU/Linux (now ported to Mac via MacPorts). It is small and simple to use but with much power and versatility underneath. Features include customizable functions, units, arbitrary precision, plotting, and a user-friendly interface (GTK+).
+
+Qalculate! has now moved to GitHub (https://github.com/Qalculate). Get the latest version from http://qalculate.github.io/downloads.html.","Categories
+KDE, GNOME, Mathematics, Calculators"
+"JChart2D is a easy to use component for displaying two- dimensional traces in a coordinate system written in Java. It supports real-time (animated) charting, custom trace rendering, Multithreading, viewports, automatic scaling and labels.
+Former UI controls (right click context menu, file menu) have been ported to the subproject jchart2d-uimenu (https://sourceforge.net/projects/jchart2d-uimenu.jchart2d.p/) for the benefit of having no dependencies to 3rd party libraries.JChart2D is a easy to use component for displaying two- dimensional traces in a coordinate system written in Java. It supports real-time (animated) charting, custom trace rendering, Multithreading, viewports, automatic scaling and labels.
+Former UI controls (right click context menu, file menu) have been ported to the subproject jchart2d-uimenu (https://sourceforge.net/projects/jchart2d-uimenu.jchart2d.p/) for the benefit of having no dependencies to 3rd party libraries.","Categories
+User Interface (UI), Library, Graphics, Data Visualization, Charting Libraries"
+"Barbecue is a Java library that enables the creation of barcodes in a variety of standard formats that can be displayed as Swing/AWT components, included in printed output, generated as EPS and SVG and displayed in a web application.Barbecue is a Java library that enables the creation of barcodes in a variety of standard formats that can be displayed as Swing/AWT components, included in printed output, generated as EPS and SVG and displayed in a web application.","Categories
+Point of Sale (POS), Dynamic Content, Printing, Graphics, Scientific/Engineering"
+"PICSimLab is a realtime emulator of development boards with MPLABX/avr-gdb debugger integration. PICSimLab supports microcontrollers from picsim, simavr, uCsim, qemu-stm32, qemu-esp32, and gpsim. PICSimLab has integration with MPLABX/Arduino IDE for programming the microcontroller's boards. As the purpose of PICSimLab is to emulate real hardware it does not have any source code editing support. For code editing and debugging the same tools used for a real board should be used with PICSimLab, such as MPLABX, Arduino IDE, or VSCode with PlatformIO.
+PICSimLab supports several devices (spare parts) that can be connected to the boards for simulation. Such as example LEDs and push buttons for simple outputs and inputs and some more complex ones like the ethernet shield w5500 for internet connection or the color graphic display ili9340 with touchscreen. The complete list of parts can be accessed in the documentation.
+
+Documentation at https://lcgamboa.github.io/picsimlab/PICSimLab is a realtime emulator of development boards with MPLABX/avr-gdb debugger integration. PICSimLab supports microcontrollers from picsim, simavr, uCsim, qemu-stm32, qemu-esp32, and gpsim. PICSimLab has integration with MPLABX/Arduino IDE for programming the microcontroller's boards. As the purpose of PICSimLab is to emulate real hardware it does not have any source code editing support. For code editing and debugging the same tools used for a real board should be used with PICSimLab, such as MPLABX, Arduino IDE, or VSCode with PlatformIO.
+PICSimLab supports several devices (spare parts) that can be connected to the boards for simulation. Such as example LEDs and push buttons for simple outputs and inputs and some more complex ones like the ethernet shield w5500 for internet connection or the color graphic display ili9340 with touchscreen. The complete list of parts can be accessed in the documentation.
+
+Documentation at https://lcgamboa.github.io/picsimlab/","Categories
+Software Testing, Simulation, Electronic Design Automation (EDA), Computer Aided Instruction (CAI)"
+"NOTE! We have moved to https://gitlab.com/msc-generator/msc-generator All development happens there. Also, download new releases & submit issues there.
+
+A tool to draw various charts from textual descriptions. Currently, three types of charts are supported: Message Sequence Charts, generic Graphs, and Block Diagrams, with more to be added in the future. There is a command-line version for Linux and Mac (replacing mscgen), which now sports a GUI, as well.
+
+Msc-generator allows fine control over the appearance and has a rich feature set complete with detailed documentation. On Windows, you can embed the charts in a document or presentation and simply double-click it in Office to edit them. On Linux and the Mac, a command-line version is available, and a GUI, as well.
+A .deb package is available starting from Debian Bookworm (currently testing) and Ubuntu Jammy Jellyfish (22.04) from the official repositories. For older releases see the Wiki. A Mac homebrew package is available.NOTE! We have moved to https://gitlab.com/msc-generator/msc-generator All development happens there. Also, download new releases & submit issues there.
+
+A tool to draw various charts from textual descriptions. Currently, three types of charts are supported: Message Sequence Charts, generic Graphs, and Block Diagrams, with more to be added in the future. There is a command-line version for Linux and Mac (replacing mscgen), which now sports a GUI, as well.
+
+Msc-generator allows fine control over the appearance and has a rich feature set complete with detailed documentation. On Windows, you can embed the charts in a document or presentation and simply double-click it in Office to edit them. On Linux and the Mac, a command-line version is available, and a GUI, as well.
+A .deb package is available starting from Debian Bookworm (currently testing) and Ubuntu Jammy Jellyfish (22.04) from the official repositories. For older releases see the Wiki. A Mac homebrew package is available.","Categories
+Documentation, Data Visualization"
+"The purpose of GeoRaptor project is to extend Oracle SQL Developer with additional functionality for database administrators or developers working with Oracle Spatial data.
+
+Dear Users, A port to version 4.x of SQL Developer is being attempted. It is not simple due to the lack of development resources. Please keep using GeoRaptor with SQL Developer 3.x until the new version is available. Thanks. Simon GreenerThe purpose of GeoRaptor project is to extend Oracle SQL Developer with additional functionality for database administrators or developers working with Oracle Spatial data.
+
+Dear Users, A port to version 4.x of SQL Developer is being attempted. It is not simple due to the lack of development resources. Please keep using GeoRaptor with SQL Developer 3.x until the new version is available. Thanks. Simon Greener","Categories
+Front-Ends, GIS"
+"A multiplatform C++ library for dynamic generation of Excel .xls files containing multiple worksheets. Unlike .csv files, these can be directly opened by Excel and thus provide an excellent way to output large data sets that require further analysis.
+
+To see the latest changes, select ""Files"" and view the README text displayed at the bottom of that pane.
+
+IMPORTANT: Major changes are contained in the current SVN source. If you have time please try to use it or the xlslib-package-2.4.0b1.zip archive, and enter bug reports on any problems!
+
+Changes:
+- library specific strings now in their own namespace
+- iOS Objective-C library
+- most project files updated (MSVS etc)
+- C bridge now supports formulas
+
+Note: there is a related SF project, libxls, to read Excel files.A multiplatform C++ library for dynamic generation of Excel .xls files containing multiple worksheets. Unlike .csv files, these can be directly opened by Excel and thus provide an excellent way to output large data sets that require further analysis.
+
+To see the latest changes, select ""Files"" and view the README text displayed at the bottom of that pane.
+
+IMPORTANT: Major changes are contained in the current SVN source. If you have time please try to use it or the xlslib-package-2.4.0b1.zip archive, and enter bug reports on any problems!
+
+Changes:
+- library specific strings now in their own namespace
+- iOS Objective-C library
+- most project files updated (MSVS etc)
+- C bridge now supports formulas
+
+Note: there is a related SF project, libxls, to read Excel files.","Categories
+Spreadsheet, Front-Ends, Information Analysis"
+"dcm4che is an implementation of DICOM and IHE actors in Java. Homepage: http://www.dcm4che.org, Google Group: http://groups.google.com/group/dcm4che?hl=en, Wiki: http://www.dcm4che.org/confluence, Issue Tracking: http://www.dcm4che.org/jiradcm4che is an implementation of DICOM and IHE actors in Java. Homepage: http://www.dcm4che.org, Google Group: http://groups.google.com/group/dcm4che?hl=en, Wiki: http://www.dcm4che.org/confluence, Issue Tracking: http://www.dcm4che.org/jira","Categories
+Communications, Graphics, Medical"
+"SciDAVis is a user-friendly data analysis and visualization program primarily aimed at high-quality plotting of scientific data. It strives to combine an intuitive, easy-to-use graphical user interface with powerful features such as Python scriptability.SciDAVis is a user-friendly data analysis and visualization program primarily aimed at high-quality plotting of scientific data. It strives to combine an intuitive, easy-to-use graphical user interface with powerful features such as Python scriptability.","Categories
+Data Visualization, Mathematics, Information Analysis, Physics, Data Analytics"
+"Open Nautical Charts offers free seacharts for everybody. This charts are usable (offline) with several ship-plotters and Navigation-equipement on board. kap, Png, Jpr, png-cal, For user with Open CPN or SeaClear and other.Open Nautical Charts offers free seacharts for everybody. This charts are usable (offline) with several ship-plotters and Navigation-equipement on board. kap, Png, Jpr, png-cal, For user with Open CPN or SeaClear and other.","Categories
+Mapping"
+"This is an official mirror of FreeCAD. Code and release files are primarily hosted on https://github.com/FreeCAD/FreeCAD and mirrored here.
+
+FreeCAD is a general purpose feature-based, parametric 3D modeler for CAD, MCAD, CAx, CAE and PLM, aimed directly at mechanical engineering and product design but also fits a wider range of uses in engineering, such as architecture or other engineering specialties. It is 100% Open Source and extremely modular, allowing for very advanced extension and customization.
+
+FreeCAD is based on OpenCasCade, a powerful geometry kernel, features an Open Inventor-compliant 3D scene representation model provided by the Coin 3D library, and a broad Python API. The interface is built with Qt. FreeCAD runs exactly the same way on Windows, Mac OSX and Linux platforms.This is an official mirror of FreeCAD. Code and release files are primarily hosted on https://github.com/FreeCAD/FreeCAD and mirrored here.
+
+FreeCAD is a general purpose feature-based, parametric 3D modeler for CAD, MCAD, CAx, CAE and PLM, aimed directly at mechanical engineering and product design but also fits a wider range of uses in engineering, such as architecture or other engineering specialties. It is 100% Open Source and extremely modular, allowing for very advanced extension and customization.
+
+FreeCAD is based on OpenCasCade, a powerful geometry kernel, features an Open Inventor-compliant 3D scene representation model provided by the Coin 3D library, and a broad Python API. The interface is built with Qt. FreeCAD runs exactly the same way on Windows, Mac OSX and Linux platforms.","Categories
+3D Modeling, Computer-aided technologies (CADD/CAM/CAE)"
+"Modbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for ServerModbus TCP, Modbus UDP and Modbus RTU client/server library for .NET
+
+Supports Function Codes:
+
+- Read Coils (FC1)
+- Read Discrete Inputs (FC2)
+- Read Holding Registers (FC3)
+- Read Input Registers (FC4)
+- Write Single Coil (FC5)
+- Write Single Register (FC6)
+- Write Multiple Coils (FC15)
+- Write Multiple Registers (FC16)
+
+V5.6: Upload lates version
+- This will probably the last version for .NET Framework 4.0
+- The next Version will be based on new .NET5 and redesigned
+
+V5.5: Bugfixes and MQTT Bridge removed
+
+V5.0: Major Bugfixes and Event Handlers changed
+
+V4.4 HF1: Bugfix excessive CPU-Load Modbus TCP Server
+
+V4.4: Bugfix Modbus RTU and MQTT
+
+V4.3: Bugfixes Modbus RTU
+Webview for Modbus Server Simulator and MQTT functionality for Server","Categories
+Communications, Software Development, Scientific/Engineering"
+"Java Treeview - An Open Source, Extensible Viewer for Microarray Data in the PCL or CDT formatJava Treeview - An Open Source, Extensible Viewer for Microarray Data in the PCL or CDT format","Categories
+Image Viewers, Bio-Informatics, Data Visualization"
+"WinPython is a free open-source portable distribution of the Python programming language for Windows XP/7/8, designed for scientists, supporting both 32bit and 64bit versions of Python 2 and Python 3.
+Since September 2014, Developpement has moved to https://winpython.github.io/WinPython is a free open-source portable distribution of the Python programming language for Windows XP/7/8, designed for scientists, supporting both 32bit and 64bit versions of Python 2 and Python 3.
+Since September 2014, Developpement has moved to https://winpython.github.io/","Categories
+Software Development, Scientific/Engineering"
+"Real Time Electronic Circuit Simulator.
+Include PIC, AVR and Arduino simulation.
+Code Editor & Debugger for Arduino, GcBasic, PIC asm, AVR asm.
+
+Downloads: https://www.simulide.com/p/downloads.html
+
+WebSite: https://simulide.com
+Forum: https://forum.simulide.com
+Patreon: https://www.patreon.com/simulide
+
+
+AVR simulation provide by simavr: https://github.com/buserror/simavr
+PIC simulation provided by GpSim: http://gpsim.sourceforge.net/Real Time Electronic Circuit Simulator.
+Include PIC, AVR and Arduino simulation.
+Code Editor & Debugger for Arduino, GcBasic, PIC asm, AVR asm.
+
+Downloads: https://www.simulide.com/p/downloads.html
+
+WebSite: https://simulide.com
+Forum: https://forum.simulide.com
+Patreon: https://www.patreon.com/simulide
+
+
+AVR simulation provide by simavr: https://github.com/buserror/simavr
+PIC simulation provided by GpSim: http://gpsim.sourceforge.net/","Categories
+Electronic Design Automation (EDA)"
+See https://www.openorienteering.org/apps/mapper/See https://www.openorienteering.org/apps/mapper/,"Categories
+Vector Graphics, Mapping"
+"GeographicLib is a small C++ library for: geodesic and rhumb line calculations; conversions between geographic, UTM, UPS, MGRS, geocentric, and local cartesian coordinates; gravity (e.g., EGM2008) and geomagnetic field (e.g., WMM2020) calculations.GeographicLib is a small C++ library for: geodesic and rhumb line calculations; conversions between geographic, UTM, UPS, MGRS, geocentric, and local cartesian coordinates; gravity (e.g., EGM2008) and geomagnetic field (e.g., WMM2020) calculations.","Categories
+GIS"
+"Grassroots DiCoM is a C++ library for DICOM medical files. It is accessible from Python, C#, Java and PHP. It supports RAW, JPEG, JPEG 2000, JPEG-LS, RLE and deflated transfer syntax.
+It comes with a super fast scanner implementation to quickly scan hundreds of DICOM files.
+It supports SCU network operations (C-ECHO, C-FIND, C-STORE, C-MOVE). PS 3.3 & 3.6 are distributed as XML files.
+It also provides PS 3.15 certificates and password based mecanism to anonymize and de-identify DICOM datasets.Grassroots DiCoM is a C++ library for DICOM medical files. It is accessible from Python, C#, Java and PHP. It supports RAW, JPEG, JPEG 2000, JPEG-LS, RLE and deflated transfer syntax.
+It comes with a super fast scanner implementation to quickly scan hundreds of DICOM files.
+It supports SCU network operations (C-ECHO, C-FIND, C-STORE, C-MOVE). PS 3.3 & 3.6 are distributed as XML files.
+It also provides PS 3.15 certificates and password based mecanism to anonymize and de-identify DICOM datasets.","Categories
+Data Formats, Frameworks, Medical"
+"Please note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etcPlease note that OWFS source code, and all Issue/Tickets/merge requests have now been moved to https://github.com/owfs/owfs/.
+
+Developer mailing lists will still be kept at Sourceforge.
+----
+OWFS -- 1-Wire file system. Use the Dallas 1-Wire and iButton chips with standard filesystem commands. Create temperature loggers. Monitor everything. OWHTTPD -- same system, only used as a light weight web server. OWFS is also ported to embedded routers, Mac OSX and Windows.
+
+Basically you can use these inexpensive little sensors and other chips with very simple wiring to sense and control the physical environment. The interface is very flexible -- everything from a web browser, to read and writing directly to the chip's ""file"" to integrating with your programs -- even over the internet.
+
+There is a growing number of 1-wire sensors: temperature, voltage, humidity, light, ultraviolet, pressure, thermisters, thermocouples, programmable microcontrollers, relays, lights, LCD panels, etc","Categories
+Communications, WWW/HTTP, Logging, Hardware Drivers, File Systems, Scientific/Engineering"
+"Multiuser HylaFAX PHP/MySQL Web interface for viewing faxes online, downloading & emailing in PDF format, and categorizing & archiving all sent and received faxes.Multiuser HylaFAX PHP/MySQL Web interface for viewing faxes online, downloading & emailing in PDF format, and categorizing & archiving all sent and received faxes.","Categories
+Fax, OCR"
+"A Python package with bindings to the ""Virtual Instrument Software Architecture"" VISA library, in order to control measurement devices and test equipment via GPIB, RS232, or USB.
+
+Note: Development of PyVisa moved to github
+https://github.com/hgrecco/pyvisa
+
+This page is of historical interest only!A Python package with bindings to the ""Virtual Instrument Software Architecture"" VISA library, in order to control measurement devices and test equipment via GPIB, RS232, or USB.
+
+Note: Development of PyVisa moved to github
+https://github.com/hgrecco/pyvisa
+
+This page is of historical interest only!","Categories
+Interface Engine/Protocol Translator"
+"UniTime is a comprehensive educational scheduling system that supports developing course and exam timetables, managing changes to these timetables, sharing rooms with other events, and scheduling students to individual classes. It is a distributed system that allows multiple university and departmental schedule managers to coordinate efforts to build and modify a schedule that meets their diverse organizational needs while allowing for minimization of student course conflicts. It can be used alone to create and maintain a school's schedule of classes and/or exams, or interfaced with an existing student information system.UniTime is a comprehensive educational scheduling system that supports developing course and exam timetables, managing changes to these timetables, sharing rooms with other events, and scheduling students to individual classes. It is a distributed system that allows multiple university and departmental schedule managers to coordinate efforts to build and modify a schedule that meets their diverse organizational needs while allowing for minimization of student course conflicts. It can be used alone to create and maintain a school's schedule of classes and/or exams, or interfaced with an existing student information system.","Categories
+Scheduling, Algorithms, Artificial Intelligence"
+"i-Blue 747 / i-Blue 757 / Qstarz BT-Q1000 / i.Trek Z1 / Konet BGL-32 / Holux M-241 / ... control SW (for Java Phones, PalmOS, WinCe (PPC), Java platforms, Windows, Linux, and MacOS). Compatible with most MTK GPS Chipset based loggers.i-Blue 747 / i-Blue 757 / Qstarz BT-Q1000 / i.Trek Z1 / Konet BGL-32 / Holux M-241 / ... control SW (for Java Phones, PalmOS, WinCe (PPC), Java platforms, Windows, Linux, and MacOS). Compatible with most MTK GPS Chipset based loggers.","Categories
+Hardware Drivers, GPS"
+"A feature rich Open Source Core Electronic Medical Record for small medical providers developed with Plone/ Python/ Zope. Core EMR functionalities: Patient History, Past Visits, Rx, Health Maint., Allergies, Labs, Vitals, Notes, and Procedures.A feature rich Open Source Core Electronic Medical Record for small medical providers developed with Plone/ Python/ Zope. Core EMR functionalities: Patient History, Past Visits, Rx, Health Maint., Allergies, Labs, Vitals, Notes, and Procedures.","Categories
+Software Development, Medical, Electronic Health Record (EHR)"
+"pgfplots - A TeX package to draw normal and/or logarithmic plots directly in TeX in two and three dimensions with a user-friendly interface and pgfplotstable - a TeX package to round and format numerical tables. Examples in manuals and/or on web site.
+
+ATTENTION: As of February 2020, the development has been moved to https://github.com/pgf-tikz/pgfplots ! Please refer to the new page for downloads and change requests!
+
+This page is kept in read-only mode.pgfplots - A TeX package to draw normal and/or logarithmic plots directly in TeX in two and three dimensions with a user-friendly interface and pgfplotstable - a TeX package to round and format numerical tables. Examples in manuals and/or on web site.
+
+ATTENTION: As of February 2020, the development has been moved to https://github.com/pgf-tikz/pgfplots ! Please refer to the new page for downloads and change requests!
+
+This page is kept in read-only mode.","Categories
+Word Processors, Text Processing, Presentation, Mathematics"
+USARSim (Unified System for Automation and Robot Simulation) is a high-fidelity simulation of robots and environments based on the Unreal Tournament game engine. It is intended as a research tool and is the basis for the RoboCup rescue virtual robot compUSARSim (Unified System for Automation and Robot Simulation) is a high-fidelity simulation of robots and environments based on the Unreal Tournament game engine. It is intended as a research tool and is the basis for the RoboCup rescue virtual robot comp,"Categories
+Robotics, Simulation, Intelligent Agents"
+"QLandkarte GT is the ultimate outdoor aficionado's tool. It supports GPS maps in GeoTiff format as well as Garmin's img vector map format. Additional it is the PC side front end to QLandkarte M, a moving map application for mobile devices.QLandkarte GT is the ultimate outdoor aficionado's tool. It supports GPS maps in GeoTiff format as well as Garmin's img vector map format. Additional it is the PC side front end to QLandkarte M, a moving map application for mobile devices.","Categories
+GIS"
+"JMCAD is an program for the modeling and simulation of complex dynamic systems. This includes the ability to construct and simulate block diagrams. The visual block diagram interface offers a simple method for constructing, modifying and maintaining complex system models. The simulation engine provides fast and accurate solutions for linear, nonlinear, continuous time, discrete time, time varying and hybrid system designs. With JMCAD, users can quickly develop software or ""virtual"" prototypes of systems or processes to demonstrate their behavior prior to building physical prototypes.
+
+The user builds his system model by selecting predefined blocks from a block library and simply wiring the blocks together. Each block of the diagram performs a function. Users can also create custom blocks in Java and add them to the JMCAD block library.
+
+JMCAD is a block diagram language for creating complex nonlinear dynamic systems.JMCAD is an program for the modeling and simulation of complex dynamic systems. This includes the ability to construct and simulate block diagrams. The visual block diagram interface offers a simple method for constructing, modifying and maintaining complex system models. The simulation engine provides fast and accurate solutions for linear, nonlinear, continuous time, discrete time, time varying and hybrid system designs. With JMCAD, users can quickly develop software or ""virtual"" prototypes of systems or processes to demonstrate their behavior prior to building physical prototypes.
+
+The user builds his system model by selecting predefined blocks from a block library and simply wiring the blocks together. Each block of the diagram performs a function. Users can also create custom blocks in Java and add them to the JMCAD block library.
+
+JMCAD is a block diagram language for creating complex nonlinear dynamic systems.","Categories
+Simulation, Electronic Design Automation (EDA), Mathematics, HMI, Exam, Computer Aided Instruction (CAI)"
+"XTrackCAD is a open-source, free, CAD program for designing model railroad layouts. You can easily create layout of any scale or size. Libraries for many brands, scales and gauges of track and turnouts/points and model structures are included. Adding new components is easy with the built-in editor. It runs on Windows, Mac and Linux,XTrackCAD is a open-source, free, CAD program for designing model railroad layouts. You can easily create layout of any scale or size. Libraries for many brands, scales and gauges of track and turnouts/points and model structures are included. Adding new components is easy with the built-in editor. It runs on Windows, Mac and Linux,","Categories
+Office/Business, Vector Graphics, Scientific/Engineering"
+"Gerbv is an open source Gerber file (RS-274X only) viewer. Gerbv lets you load several files on top of each other, do measurements on the displayed image, etc. Besides viewing Gerbers, you may also view Excellon drill files as well as pick-place fileGerbv is an open source Gerber file (RS-274X only) viewer. Gerbv lets you load several files on top of each other, do measurements on the displayed image, etc. Besides viewing Gerbers, you may also view Excellon drill files as well as pick-place file","Categories
+Electronic Design Automation (EDA)"
+"mp3splt is a free utility to split mp3, ogg vorbis and FLAC files without decoding, selecting begin/end time; if file is an album, you can get splitpoints automatically from internet or a local cue, cddb file. It also splits Mp3Wrap and AlbumWrap archives. Supports splitting and trimming by silence detection. For mp3 files, both ID3v1 and ID3v2 are supported using original tags or user defined tags.mp3splt is a free utility to split mp3, ogg vorbis and FLAC files without decoding, selecting begin/end time; if file is an album, you can get splitpoints automatically from internet or a local cue, cddb file. It also splits Mp3Wrap and AlbumWrap archives. Supports splitting and trimming by silence detection. For mp3 files, both ID3v1 and ID3v2 are supported using original tags or user defined tags.","Categories
+Audio Conversion, Audio Editing, Simulation"
+The PDL module gives standard perl the ability to COMPACTLY store and SPEEDILY manipulate the large N-dimensional data sets that are the bread and butter of scientific computing.The PDL module gives standard perl the ability to COMPACTLY store and SPEEDILY manipulate the large N-dimensional data sets that are the bread and butter of scientific computing.,"Categories
+Data Visualization, Astronomy, Mathematics"
+"Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.Apertium is a toolbox to build open-source shallow-transfer machine translation systems, especially suitable for related language pairs: it includes the engine, maintenance tools, and open linguistic data for several language pairs.","Categories
+Machine Translation"
+"ASTAP, Astrometric STAcking Program, astrometric solver and FITS image viewer. This program can view, measure, ""astrometric (plate) solve"" and stack deep sky images.
+
+Main features:
+
+- Stacking of astronomical images including dark frame and flat field correction
+- Native fast astrometric (plate) solver.
+- Alignment using an internal star match routine, internal Plate Solver, manual or ephemeris.
+- FITS viewer with swipe functionality, deep sky and star annotation, photometry and CCD inspector.
+- Annotation of solar and deepsky objects.
+- Photometry of point sources, extended sources and variable stars
+- Blink routine for astro images.ASTAP, Astrometric STAcking Program, astrometric solver and FITS image viewer. This program can view, measure, ""astrometric (plate) solve"" and stack deep sky images.
+
+Main features:
+
+- Stacking of astronomical images including dark frame and flat field correction
+- Native fast astrometric (plate) solver.
+- Alignment using an internal star match routine, internal Plate Solver, manual or ephemeris.
+- FITS viewer with swipe functionality, deep sky and star annotation, photometry and CCD inspector.
+- Annotation of solar and deepsky objects.
+- Photometry of point sources, extended sources and variable stars
+- Blink routine for astro images.","Categories
+Astronomy"
+GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.,"Categories
+Image Viewers, GPS"
+"Build custom robots in your browser with IncrediBots! Design your robot by drawing shapes, joints, motors, and more! Then, pilot your machine using your own custom key bindings. NOTE: OPEN SOURCE VERSION CAN BE DOWNLOADED FROM ""FILES"" TAB!Build custom robots in your browser with IncrediBots! Design your robot by drawing shapes, joints, motors, and more! Then, pilot your machine using your own custom key bindings. NOTE: OPEN SOURCE VERSION CAN BE DOWNLOADED FROM ""FILES"" TAB!","Categories
+Simulation Games, Puzzle Games, Physics"
+"Lin-guider is an astronomical autoguiding program for Linux. It supports Philips, Logitech, uvc webcams, QHY5, QHY6, DSI2PRO, QHY5L-II-M, QHY5L-II-C, QHY5-II, ATIK, Starlight Xpress, ZWO ASI astrocams for video and FTDI chip-based, parallel port-based (LPT), GPIO-based, GPUSB devices, Nexstar-protocol based and QHY5, QHY6, QHY5L-II-M, QHY5L-II-C, QHY5-II, ATIK, Starlight Xpress, ZWO ASI astrocams for pulse guiding.
+
+Starlight Xpress ltd. is helping this project http://www.sxccd.com/Lin-guider is an astronomical autoguiding program for Linux. It supports Philips, Logitech, uvc webcams, QHY5, QHY6, DSI2PRO, QHY5L-II-M, QHY5L-II-C, QHY5-II, ATIK, Starlight Xpress, ZWO ASI astrocams for video and FTDI chip-based, parallel port-based (LPT), GPIO-based, GPUSB devices, Nexstar-protocol based and QHY5, QHY6, QHY5L-II-M, QHY5L-II-C, QHY5-II, ATIK, Starlight Xpress, ZWO ASI astrocams for pulse guiding.
+
+Starlight Xpress ltd. is helping this project http://www.sxccd.com/","Categories
+Astronomy"
+"SciPlore MindMapping is based on FreeMind but extended with features for students & researchers. It integrates mind maps with reference and pdf management (BibTeX support & PDF Bookmark import). Keywords: Mind maps, Mind Mapping, MindMap, JabRefSciPlore MindMapping is based on FreeMind but extended with features for students & researchers. It integrates mind maps with reference and pdf management (BibTeX support & PDF Bookmark import). Keywords: Mind maps, Mind Mapping, MindMap, JabRef","Categories
+To-Do Lists, Graphics, Data Visualization"
+QMapControl is a Qt widget which enables your applications to use map data from different sources on desktop or mobiles. Maps can be enriched by custom objects which will be drawn into the map.QMapControl is a Qt widget which enables your applications to use map data from different sources on desktop or mobiles. Maps can be enriched by custom objects which will be drawn into the map.,"Categories
+Data Visualization, Earth Sciences, GIS"
+simple GPS navigation for java phones (J2ME) and recording of tracks. Supports internal and external GPS. (JSR-179 / JSR-82 ). Good for Geocaching.simple GPS navigation for java phones (J2ME) and recording of tracks. Supports internal and external GPS. (JSR-179 / JSR-82 ). Good for Geocaching.,"Categories
+GPS, GIS"
+"TouchGraph provides a set of interfaces for graph visualization using force-based layout and focus+context techniques. For now only older code is available, but we are planning to release new versions as well.TouchGraph provides a set of interfaces for graph visualization using force-based layout and focus+context techniques. For now only older code is available, but we are planning to release new versions as well.","Categories
+Search Engines, Vector Graphics, Data Visualization"
+"THIS LIBRARY IS NOT UNDER ACTIVE DEVELOPMENT (sorry).
+
+AIMLBot (Program#) is a small, fast, standards-compliant yet easily customizable .NET dll implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot. AIMLBot has been tested on both Microsoft's runtime environment and Mono.THIS LIBRARY IS NOT UNDER ACTIVE DEVELOPMENT (sorry).
+
+AIMLBot (Program#) is a small, fast, standards-compliant yet easily customizable .NET dll implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot. AIMLBot has been tested on both Microsoft's runtime environment and Mono.","Categories
+Chat, Artificial Intelligence, HMI"
+"A free, industrial quality library for simulating articulated rigid body dynamics - for example ground vehicles, legged creatures, and moving objects in VR environments. It's fast, flexible & robust. Built-in collision detection.A free, industrial quality library for simulating articulated rigid body dynamics - for example ground vehicles, legged creatures, and moving objects in VR environments. It's fast, flexible & robust. Built-in collision detection.","Categories
+Simulation Games, Data Visualization, Mathematics, Physics"
+"A quantitative finance C++ library for modeling, pricing, trading, and risk management in real-life. A cross-platform free/open-source tool for derivatives and financial engineering.A quantitative finance C++ library for modeling, pricing, trading, and risk management in real-life. A cross-platform free/open-source tool for derivatives and financial engineering.","Categories
+Financial, Scientific/Engineering"
+"GLE is a graphics scripting language designed for creating publication quality graphs, plots, diagrams, figures, and slides. Text can be formatted with LaTeX/TeX markup. Its output formats include EPS, PS, PDF, JPEG, and PNG. GLE can operate as either a command line or GUI application.GLE is a graphics scripting language designed for creating publication quality graphs, plots, diagrams, figures, and slides. Text can be formatted with LaTeX/TeX markup. Its output formats include EPS, PS, PDF, JPEG, and PNG. GLE can operate as either a command line or GUI application.","Categories
+Graphics, Data Visualization"
+"Complete manufacturing automation platform for factory and process equipment. It includes multi-protocol communications (including Modbus/TCP), PLC soft logic, HMI, and tools for troubleshooting and installation in 4 comprehensive packages.Complete manufacturing automation platform for factory and process equipment. It includes multi-protocol communications (including Modbus/TCP), PLC soft logic, HMI, and tools for troubleshooting and installation in 4 comprehensive packages.","Categories
+Communications, Scientific/Engineering"
+"libdc1394 is a library that provides a high level programming interface for application developers who wish to control and capture streams from IEEE 1394 based cameras that conform to the 1394-based Digital Camera Specifications (also known as the IIDC or DCAM Specifications). libdc1394 also supports some USB cameras that are IIDC compliant.
+
+Besides capture and control, libdc1394 provides a full set of colour space conversion functions (including RAW decoding), vendor specific functions and direct camera register access.
+
+Keywords: ieee1394, IIDC, DCAM, firewire, USB, machine vision, computer vision, video capture, librarylibdc1394 is a library that provides a high level programming interface for application developers who wish to control and capture streams from IEEE 1394 based cameras that conform to the 1394-based Digital Camera Specifications (also known as the IIDC or DCAM Specifications). libdc1394 also supports some USB cameras that are IIDC compliant.
+
+Besides capture and control, libdc1394 provides a full set of colour space conversion functions (including RAW decoding), vendor specific functions and direct camera register access.
+
+Keywords: ieee1394, IIDC, DCAM, firewire, USB, machine vision, computer vision, video capture, library","Categories
+Hardware Drivers, Scientific/Engineering, Video Capture"
+Icarus Verilog is an open source Verilog compiler that supports the IEEE-1364 Verilog HDL including IEEE1364-2005 plus extensions.Icarus Verilog is an open source Verilog compiler that supports the IEEE-1364 Verilog HDL including IEEE1364-2005 plus extensions.,"Categories
+Electronic Design Automation (EDA)"
+"CEDAR LS is an interactive digital logic simulator to be used for teaching of logic design or testing simple digital designs. It features both low-level logic gates as well as high-level components, including registers and a Z80 microprocessor emulatCEDAR LS is an interactive digital logic simulator to be used for teaching of logic design or testing simple digital designs. It features both low-level logic gates as well as high-level components, including registers and a Z80 microprocessor emulat","Categories
+Simulation, Data Visualization"
+"IIPImage is a high performance image server and client for viewing, navigating and zooming within high resolution images on the internet. Images in TIFF or JPEG2000 format are efficiently streamed by the server to a choice of clients that can be embedded within a web page.IIPImage is a high performance image server and client for viewing, navigating and zooming within high resolution images on the internet. Images in TIFF or JPEG2000 format are efficiently streamed by the server to a choice of clients that can be embedded within a web page.","Categories
+Dynamic Content, Data Visualization, Web Services"
+"CoGrOO (A LibreOffice & OpenOffice.org Grammar Checker), the only open source Portuguese grammar checker that can be used with LibreOffice & OpenOffice.org.CoGrOO (A LibreOffice & OpenOffice.org Grammar Checker), the only open source Portuguese grammar checker that can be used with LibreOffice & OpenOffice.org.","Categories
+Word Processors, Office Suites, Artificial Intelligence"
+"BRL-CAD is a powerful cross-platform constructive solid geometry solid modeling system that includes an interactive geometry editor, ray-tracing for rendering & geometric analyses, network distributed framebuffer support, image & signal-processing tools.BRL-CAD is a powerful cross-platform constructive solid geometry solid modeling system that includes an interactive geometry editor, ray-tracing for rendering & geometric analyses, network distributed framebuffer support, image & signal-processing tools.","Categories
+Symmetric Multiprocessing (SMP), Benchmark, 3D Modeling, 3D Rendering, Image Converters, Scientific/Engineering"
+"Google2SRT allows you to download, save and convert multiple subtitles and translations from YouTube and Google Video to SubRip (.srt) format, which is recognized by most video players. You can download XML subtitles or simply type video's URL, Google2SRT will do the rest.Google2SRT allows you to download, save and convert multiple subtitles and translations from YouTube and Google Video to SubRip (.srt) format, which is recognized by most video players. You can download XML subtitles or simply type video's URL, Google2SRT will do the rest.","Categories
+XML, Internet, Video Converters, Speech Recognition"
+"AstroTortilla is a wrapper around common astrophotography tools intended to automate basic tasks such as polar alignment and goto correction.
+Not in active development presently.AstroTortilla is a wrapper around common astrophotography tools intended to automate basic tasks such as polar alignment and goto correction.
+Not in active development presently.","Categories
+Astronomy"
+Software for Moon observation and survey. Let you visualize the real Moon aspect at every time. Also help to study any lunar formations using feature database and pictures library.Software for Moon observation and survey. Let you visualize the real Moon aspect at every time. Also help to study any lunar formations using feature database and pictures library.,"Categories
+Astronomy"
+"SAM (Sequence Alignment/Map) is a flexible generic format for storing nucleotide sequence alignment. SAMtools provide efficient utilities on manipulating alignments in the SAM format.
+
+The main samtools source code repository moved to GitHub in March 2012. For ongoing development since then, see http://github.com/samtools/samtoolsSAM (Sequence Alignment/Map) is a flexible generic format for storing nucleotide sequence alignment. SAMtools provide efficient utilities on manipulating alignments in the SAM format.
+
+The main samtools source code repository moved to GitHub in March 2012. For ongoing development since then, see http://github.com/samtools/samtools","Categories
+Bio-Informatics"
+"myFocuserPro is an ASCOM and Moonlite compatible stepper motor telescope focus controller (DIY) based on Arduino Nano/Uno. A popular DIY ASCOM focuser with more than 114,000+ downloads.
+
+(c) Copyright Robert Brown 2014-2023. All Rights reserved.
+Permission is granted for personal and Academic use only.
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown).
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/downloadmyFocuserPro is an ASCOM and Moonlite compatible stepper motor telescope focus controller (DIY) based on Arduino Nano/Uno. A popular DIY ASCOM focuser with more than 114,000+ downloads.
+
+(c) Copyright Robert Brown 2014-2023. All Rights reserved.
+Permission is granted for personal and Academic use only.
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown).
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download","Categories
+Hardware, Astronomy"
+"Multi-platform tools and information for programming and controlling LEGO MINDSTORMS programmable bricks, such as the NXT, via USB and Bluetooth.Multi-platform tools and information for programming and controlling LEGO MINDSTORMS programmable bricks, such as the NXT, via USB and Bluetooth.","Categories
+Robotics"
+"Cloo is an open source, easy to use, managed library which enables .NET/Mono applications to take full advantage of the OpenCL framework.Cloo is an open source, easy to use, managed library which enables .NET/Mono applications to take full advantage of the OpenCL framework.","Categories
+Games/Entertainment, Scientific/Engineering, Multimedia"
+"BioImageXD - free open source software for analysis, processing and 3D rendering of multi dimensional, multi data channel, time series image data from microscopy and other sources.BioImageXD - free open source software for analysis, processing and 3D rendering of multi dimensional, multi data channel, time series image data from microscopy and other sources.","Categories
+Bio-Informatics, Data Visualization, Medical"
+"3store is an RDF ""triple store"", written in C and backed by MySQL and Berkeley DB. It is an optimisation and port of an older triple store (WebKBC). It provides access to the RDF data via RDQL or SPARQL over HTTP, on the command line or via a C API.3store is an RDF ""triple store"", written in C and backed by MySQL and Berkeley DB. It is an optimisation and port of an older triple store (WebKBC). It provides access to the RDF data via RDQL or SPARQL over HTTP, on the command line or via a C API.","Categories
+Database, Search Engines, HTTP Servers, Artificial Intelligence"
+"Cuttlefish aims to be a highly extensible visualization and analysis platform for all kinds of network data.
+
+IMPORTANT:
+The Cuttlefish project has been migrated to github:
+https://github.com/dev-cuttlefish/cuttlefishCuttlefish aims to be a highly extensible visualization and analysis platform for all kinds of network data.
+
+IMPORTANT:
+The Cuttlefish project has been migrated to github:
+https://github.com/dev-cuttlefish/cuttlefish","Categories
+Data Visualization, Information Analysis"
+"Stochastic simulator for signaling pathways occuring in biological cells. Handles reaction-diffusion processes in 3D tetrahedral meshes.
+
+Please check our new repository: https://github.com/CNS-OIST/STEPSStochastic simulator for signaling pathways occuring in biological cells. Handles reaction-diffusion processes in 3D tetrahedral meshes.
+
+Please check our new repository: https://github.com/CNS-OIST/STEPS","Categories
+Molecular Science, Simulation, Chemistry, Bio-Informatics, Medical"
+"JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.","Categories
+UML, Mathematics, Social Networking"
+Pulsar software for forming timing residuals. Developed mainly by George Hobbs and Russell Edwards at the ATNF.Pulsar software for forming timing residuals. Developed mainly by George Hobbs and Russell Edwards at the ATNF.,"Categories
+Astronomy"
+"Java Modelling Tools is a suite of scientific tools for performance analysis and modelling using queueing theory and colored stochastic Petri nets. Models are solved either with analytical, asymptotic or simulation methods; workload characterization tools are also included in the suite.
+
+See the project website for more details: http://jmt.sf.netJava Modelling Tools is a suite of scientific tools for performance analysis and modelling using queueing theory and colored stochastic Petri nets. Models are solved either with analytical, asymptotic or simulation methods; workload characterization tools are also included in the suite.
+
+See the project website for more details: http://jmt.sf.net","Categories
+Simulation, Information Analysis, Education"
+"NOTE THAT THE SOURCE CODE AND ISSUE TRACKER HAVE NOW MOVED TO GITHUB. FIND US AT https://github.com/GateNLP/
+
+
+GATE (General Architecture for Text Engineering) is an architecture, framework and development environment for developing, evaluating and embedding Human Language Technology. See http://gate.ac.uk for full details.NOTE THAT THE SOURCE CODE AND ISSUE TRACKER HAVE NOW MOVED TO GITHUB. FIND US AT https://github.com/GateNLP/
+
+
+GATE (General Architecture for Text Engineering) is an architecture, framework and development environment for developing, evaluating and embedding Human Language Technology. See http://gate.ac.uk for full details.","Categories
+Text Processing, Frameworks, Information Analysis"
+Please use WebMeV for all NGS and Microarray analysis: http://mev.tm4.org/Please use WebMeV for all NGS and Microarray analysis: http://mev.tm4.org/,"Categories
+Bio-Informatics"
+"##### The RKWard project has moved! #####
+
+Find the most recent news and downloads at http://rkward.kde.org .
+
+RKWard aims to provide an easily extensible, easy to use IDE/GUI for R. RKWard tries to combine the power of the R-language with the (relative) ease of use of commercial statistics tools.##### The RKWard project has moved! #####
+
+Find the most recent news and downloads at http://rkward.kde.org .
+
+RKWard aims to provide an easily extensible, easy to use IDE/GUI for R. RKWard tries to combine the power of the R-language with the (relative) ease of use of commercial statistics tools.","Categories
+Office/Business, Statistics"
+"UPDATE: Chromium is no longer updated or maintained. The project is frozen.
+
+Chromium is a flexible framework for scalable real-time rendering on clusters of workstations, derived from the Stanford WireGL project code base.UPDATE: Chromium is no longer updated or maintained. The project is frozen.
+
+Chromium is a flexible framework for scalable real-time rendering on clusters of workstations, derived from the Stanford WireGL project code base.","Categories
+Clustering, 3D Rendering, Data Visualization"
+A Python interface to the gnuplot plotting program.A Python interface to the gnuplot plotting program.,"Categories
+CGI Scripts, Software Development, Presentation, Data Visualization"
+"NASPRO, acronym for ""NASPRO Architecture for Sound PROcessing"" is a collection of free and open source sound processing software built around the LV2 plugin standard.NASPRO, acronym for ""NASPRO Architecture for Sound PROcessing"" is a collection of free and open source sound processing software built around the LV2 plugin standard.","Categories
+Scientific/Engineering, Sound/Audio"
+"This project is dedicated to open source data quality and data preparation solutions. Data Quality includes profiling, filtering, governance, similarity check, data enrichment alteration, real time alerting, basket analysis, bubble chart Warehouse validation, single customer view etc. defined by Strategy.
+
+This tool is developing high performance integrated data management platform which will seamlessly do Data Integration, Data Profiling, Data Quality, Data Preparation, Dummy Data Creation, Meta Data Discovery, Anomaly Discovery, Data Cleansing, Reporting and Analytic.
+
+It also had Hadoop ( Big data ) support to move files to/from Hadoop Grid, Create, Load and Profile Hive Tables. This project is also known as ""Aggregate Profiler""
+
+Resful API for this project is getting built as (Beta Version) https://sourceforge.net/projects/restful-api-for-osdq/
+
+apache spark based data quality is getting built at https://sourceforge.net/projects/apache-spark-osdq/This project is dedicated to open source data quality and data preparation solutions. Data Quality includes profiling, filtering, governance, similarity check, data enrichment alteration, real time alerting, basket analysis, bubble chart Warehouse validation, single customer view etc. defined by Strategy.
+
+This tool is developing high performance integrated data management platform which will seamlessly do Data Integration, Data Profiling, Data Quality, Data Preparation, Dummy Data Creation, Meta Data Discovery, Anomaly Discovery, Data Cleansing, Reporting and Analytic.
+
+It also had Hadoop ( Big data ) support to move files to/from Hadoop Grid, Create, Load and Profile Hive Tables. This project is also known as ""Aggregate Profiler""
+
+Resful API for this project is getting built as (Beta Version) https://sourceforge.net/projects/restful-api-for-osdq/
+
+apache spark based data quality is getting built at https://sourceforge.net/projects/apache-spark-osdq/","Categories
+Data Warehousing, Front-Ends, Information Analysis"

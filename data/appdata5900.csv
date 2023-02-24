@@ -1,0 +1,479 @@
+Description,Category
+"IIPImage is a high performance image server and client for viewing, navigating and zooming within high resolution images on the internet. Images in TIFF or JPEG2000 format are efficiently streamed by the server to a choice of clients that can be embedded within a web page.IIPImage is a high performance image server and client for viewing, navigating and zooming within high resolution images on the internet. Images in TIFF or JPEG2000 format are efficiently streamed by the server to a choice of clients that can be embedded within a web page.","Categories
+Dynamic Content, Data Visualization, Web Services"
+mod_aspdotnet is a loadable Apache 2 module for serving ASP.NET content using the Microsoft's ASP.NET hosting and .NET runtime within the Apache HTTP Server process. Non-Windows users should look at mono (mod_mono) for an alternate implementation.mod_aspdotnet is a loadable Apache 2 module for serving ASP.NET content using the Microsoft's ASP.NET hosting and .NET runtime within the Apache HTTP Server process. Non-Windows users should look at mono (mod_mono) for an alternate implementation.,"Categories
+Dynamic Content, Application Servers"
+"GeSHi - Generic Syntax Highlighter for PHP. Used to highlight almost any code for the web. Nearly 150 supported languages: PHP, HTML, C and more. Styles can be changed on the fly and CSS classes can be used to reduce the amount of XHTML compliant output.GeSHi - Generic Syntax Highlighter for PHP. Used to highlight almost any code for the web. Nearly 150 supported languages: PHP, HTML, C and more. Styles can be changed on the fly and CSS classes can be used to reduce the amount of XHTML compliant output.","Categories
+Dynamic Content, Software Development, Presentation"
+"Cyberfox is a Mozilla-based Internet browser designed to take advantage of 64-bit architecture but a 32-bit version is also available. The application provides a higher memory performance when navigating your favorite pages.
+
+Compatible Windows Operating Systems:
+
+Windows 7/7 SP1 OS x86|x64
+Windows 8/8.x OS x86|x64
+Windows 10 OS x86|x64
+(Windows XP Unsupported, Windows Vista Unsupported)
+
+Dedicated support forums.
+https://8pecxstudios.com/Forums/index.php
+
+Dedicated Contact Forms.
+https://cyberfox.8pecxstudios.com/contact-us
+
+Profile Buddy:
+Transfer your profile from any Mozilla base browser.
+https://8pecxstudios.com/Forums/viewtopic.php?f=6&t=350
+
+See notifications for critical release information:
+https://cyberfox.8pecxstudios.com/notifications
+
+Tell us what you think and write a review.
+
+Future direction of project https://8pecxstudios.com/Forums/viewtopic.php?f=6&t=1756Cyberfox is a Mozilla-based Internet browser designed to take advantage of 64-bit architecture but a 32-bit version is also available. The application provides a higher memory performance when navigating your favorite pages.
+
+Compatible Windows Operating Systems:
+
+Windows 7/7 SP1 OS x86|x64
+Windows 8/8.x OS x86|x64
+Windows 10 OS x86|x64
+(Windows XP Unsupported, Windows Vista Unsupported)
+
+Dedicated support forums.
+https://8pecxstudios.com/Forums/index.php
+
+Dedicated Contact Forms.
+https://cyberfox.8pecxstudios.com/contact-us
+
+Profile Buddy:
+Transfer your profile from any Mozilla base browser.
+https://8pecxstudios.com/Forums/viewtopic.php?f=6&t=350
+
+See notifications for critical release information:
+https://cyberfox.8pecxstudios.com/notifications
+
+Tell us what you think and write a review.
+
+Future direction of project https://8pecxstudios.com/Forums/viewtopic.php?f=6&t=1756","Categories
+Browsers"
+"A small, easy-to-use program to access itunesU media & podcasts in Linux and Android.A small, easy-to-use program to access itunesU media & podcasts in Linux and Android.","Categories
+Browsers, Education, Podcast"
+"AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.AirSnort is a wireless LAN (WLAN) tool which cracks encryption keys on 802.11b WEP networks. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.","Categories
+Cryptography, Monitoring, Internet"
+"ILIAS is a web base learning management system (LMS, VLE). Features: Courses, SCORM 1.2 and 2004, mail, forum, chat, groups, podcast, file sharing, authoring, CMS, test, wiki, personal desktop, LOM, LDAP, role based access, see http://www.ilias.de/ILIAS is a web base learning management system (LMS, VLE). Features: Courses, SCORM 1.2 and 2004, mail, forum, chat, groups, podcast, file sharing, authoring, CMS, test, wiki, personal desktop, LOM, LDAP, role based access, see http://www.ilias.de/","Categories
+Site Management, Education, Learning Management Systems (LMS)"
+YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!YPOPs! is an application which emulates a POP3/SMTP mail server and provides free POP3 and SMTP access to Yahoo! Mail. It does not depend on Yahoo's POP3/SMTP mail server. You can use a mail client of your choice!,"Categories
+POP3, Mail Transfer Agents, Browsers, Email Servers"
+"OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.
+Requirements:
+- Java 1.8 or newer (tested with the LTS versions of Java up to 17)
+- Any OS that runs Java
+
+Planned enhancements in the next major release:
+- User interace configuration GUI
+- Certificate Exchange Management
+
+IMPORTANT: Java 1.7 is no longer supported.","Categories
+Communications, Security, Internet, Load Balancers"
+"Compiere ERP+CRM is the leading open source ERP solution for Distribution, Retail, Manufacturing and Service industries. Compiere automates accounting, supply chain, inventory and sales orders. Compiere ERP is distributed under GPL V2 by Compiere, Inc.Compiere ERP+CRM is the leading open source ERP solution for Distribution, Retail, Manufacturing and Service industries. Compiere automates accounting, supply chain, inventory and sales orders. Compiere ERP is distributed under GPL V2 by Compiere, Inc.","Categories
+Enterprise, CRM, ERP, Accounting, Point of Sale (POS), Dynamic Content, Build Tools"
+"Google2SRT allows you to download, save and convert multiple subtitles and translations from YouTube and Google Video to SubRip (.srt) format, which is recognized by most video players. You can download XML subtitles or simply type video's URL, Google2SRT will do the rest.Google2SRT allows you to download, save and convert multiple subtitles and translations from YouTube and Google Video to SubRip (.srt) format, which is recognized by most video players. You can download XML subtitles or simply type video's URL, Google2SRT will do the rest.","Categories
+XML, Internet, Video Converters, Speech Recognition"
+"The J!German translation team provides German translations for Joomla! 3.x and old Joomla! versions.
+
+HERE YOU FIND THE NEW RELEASES FROM Joomla! 1.6.0 and above: https://github.com/joomlagerman/joomla/releasesThe J!German translation team provides German translations for Joomla! 3.x and old Joomla! versions.
+
+HERE YOU FIND THE NEW RELEASES FROM Joomla! 1.6.0 and above: https://github.com/joomlagerman/joomla/releases","Categories
+Localization (L10N), Internationalization (I18N), Content Management Systems (CMS)"
+"A networking tool that has main purpose for VPN with extra settings. Surf any blocked websites through this app privately and securely, You can also add profile (SSH/V2Ray/OpenVPN/Proxy) as much as possible, so you wont get bother when your preferred server down and just change it to another profile by easily.
+
+This project is non-profit if you like this project and you want to support me, You can help by donation:
+https://www.paypal.com/paypalme/NetModSyna
+
+Any question related to project can be asked in here:
+https://www.facebook.com/NetModSyna/
+netmodsyna@gmail.com
+
+Android Version:
+https://play.google.com/store/apps/details?id=com.netmod.synaA networking tool that has main purpose for VPN with extra settings. Surf any blocked websites through this app privately and securely, You can also add profile (SSH/V2Ray/OpenVPN/Proxy) as much as possible, so you wont get bother when your preferred server down and just change it to another profile by easily.
+
+This project is non-profit if you like this project and you want to support me, You can help by donation:
+https://www.paypal.com/paypalme/NetModSyna
+
+Any question related to project can be asked in here:
+https://www.facebook.com/NetModSyna/
+netmodsyna@gmail.com
+
+Android Version:
+https://play.google.com/store/apps/details?id=com.netmod.syna","Categories
+Networking, Internet, SSH, VPN"
+"The Free Manga Downloader (FMD) is an open source application written in Object-Pascal for managing and downloading manga from various websites.
+
+This is a mirror of main repository on GitHub.
+For feedback/bug report visit https://github.com/riderkick/FMDThe Free Manga Downloader (FMD) is an open source application written in Object-Pascal for managing and downloading manga from various websites.
+
+This is a mirror of main repository on GitHub.
+For feedback/bug report visit https://github.com/riderkick/FMD","Categories
+WWW/HTTP, Search Engines, Internet"
+"If you need help, please go to:
+
+https://www.websmithing.com/gps-tracker/
+
+Google Map Gps Cell Phone Tracker has a responsive design using twitter bootstrap! Google Map Gps Cell Phone Tracker includes clients for IOS, Android, Windows Phone and Java Me/J2ME cell phones.
+
+The project allows you to track cell phones periodically. For instance, every minute or every five minutes. With Google Map Gps Cell Phone Tracker, you can watch the cell phone being tracked in real time and you can store and reload routes easily.
+
+With Google Map Gps Cell Phone Tracker, you have the choice of two server stacks. Either using asp.net and Sql Server or using php and mySQL, postgreSQL or Sqlite. Both are included in the same download but you only need to use one.
+
+thanks
+NickIf you need help, please go to:
+
+https://www.websmithing.com/gps-tracker/
+
+Google Map Gps Cell Phone Tracker has a responsive design using twitter bootstrap! Google Map Gps Cell Phone Tracker includes clients for IOS, Android, Windows Phone and Java Me/J2ME cell phones.
+
+The project allows you to track cell phones periodically. For instance, every minute or every five minutes. With Google Map Gps Cell Phone Tracker, you can watch the cell phone being tracked in real time and you can store and reload routes easily.
+
+With Google Map Gps Cell Phone Tracker, you have the choice of two server stacks. Either using asp.net and Sql Server or using php and mySQL, postgreSQL or Sqlite. Both are included in the same download but you only need to use one.
+
+thanks
+Nick","Categories
+Communications, WWW/HTTP, Mobile"
+"Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one to display and interact with a remote computer screen. In other words, you can use Chicken of the VNC to interact with a remote computer as though it's right next to you.
+
+This project has has been superseded by http://chicken.sourceforge.net/Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one to display and interact with a remote computer screen. In other words, you can use Chicken of the VNC to interact with a remote computer as though it's right next to you.
+
+This project has has been superseded by http://chicken.sourceforge.net/","Categories
+Systems Administration, Internet"
+"phpList delivers Open Source email marketing, including analytics, list segmentation, content personalisaton and bounce processing. Extensive technical features and a secure and stable codebase are the result of over 17 years of continuous development.
+
+Used in 95 countries, available in 20+ languages, and used to send 25 billion email campaigns last year.
+
+Deploy it with your own SMTP server, or get a free hosted account at http://phplist.com.phpList delivers Open Source email marketing, including analytics, list segmentation, content personalisaton and bounce processing. Extensive technical features and a secure and stable codebase are the result of over 17 years of continuous development.
+
+Used in 95 countries, available in 20+ languages, and used to send 25 billion email campaigns last year.
+
+Deploy it with your own SMTP server, or get a free hosted account at http://phplist.com.","Categories
+Mailing List Servers, CRM, Dynamic Content, Email Marketing"
+"A complete Hotspot or Internet Cafe solution. Provides a simple interface to managing users, and does the hard work of bring all the components together (Coova Chilli, MySQL, FreeRadius). Packaged as Debs for Debian/Ubuntu. NOT installable from tar.
+
+Code now hosted on Github https://github.com/GraseHotspotA complete Hotspot or Internet Cafe solution. Provides a simple interface to managing users, and does the hard work of bring all the components together (Coova Chilli, MySQL, FreeRadius). Packaged as Debs for Debian/Ubuntu. NOT installable from tar.
+
+Code now hosted on Github https://github.com/GraseHotspot","Categories
+Networking, Internet"
+"Web application for browsing and searching contact details within an LDAP directory. Supports Microsoft/Samba Active Directory, OpenLDAP and Novell eDirectory.Web application for browsing and searching contact details within an LDAP directory. Supports Microsoft/Samba Active Directory, OpenLDAP and Novell eDirectory.","Categories
+LDAP, Groupware"
+"With this little tool you are able to Crawl various Images of Bloghoster Tumblr.com.
+It searches given Tumblr Blog Url for all types of image formats,
+and gives you the ability to download the found Images automatic.
+
+Tutorial Video:
+https://www.youtube.com/watch?v=Ns2bkvF_ht4
+
+A Manual can be found at SourceForge in Download Area.
+
+BE AWARE:
+HERE IS A NEW DOMAIN www.TumblOne.COM, WICH POINTS TO MY PROJECT, THIS HAS NOTHING TO DO WITH THIS PROJECT, IT'S NOT FROM ME. STAY AWAY, MAYBE VIRUS INFECTED!
+
+This Version 1.0.4 will be the Last Update of the Project under Version 1 - it was a TechTest.
+A new Version with nice Features and a well formed User Interface is under Development, be patient!With this little tool you are able to Crawl various Images of Bloghoster Tumblr.com.
+It searches given Tumblr Blog Url for all types of image formats,
+and gives you the ability to download the found Images automatic.
+
+Tutorial Video:
+https://www.youtube.com/watch?v=Ns2bkvF_ht4
+
+A Manual can be found at SourceForge in Download Area.
+
+BE AWARE:
+HERE IS A NEW DOMAIN www.TumblOne.COM, WICH POINTS TO MY PROJECT, THIS HAS NOTHING TO DO WITH THIS PROJECT, IT'S NOT FROM ME. STAY AWAY, MAYBE VIRUS INFECTED!
+
+This Version 1.0.4 will be the Last Update of the Project under Version 1 - it was a TechTest.
+A new Version with nice Features and a well formed User Interface is under Development, be patient!","Categories
+WWW/HTTP, Internet, Blogging"
+"XOWA is a desktop application for reading and editing Wikipedia offline
+
+(XOWA has moved to http://gnosygnu.github.io/xowa/download.html)XOWA is a desktop application for reading and editing Wikipedia offline
+
+(XOWA has moved to http://gnosygnu.github.io/xowa/download.html)","Categories
+Library, Wiki"
+"PHPCrawl is a high configurable webcrawler/webspider-library written in PHP. It supports filters, limiters, cookie-handling, robots.txt-handling, multiprocessing and much more.PHPCrawl is a high configurable webcrawler/webspider-library written in PHP. It supports filters, limiters, cookie-handling, robots.txt-handling, multiprocessing and much more.","Categories
+Search Engines, Libraries"
+"3store is an RDF ""triple store"", written in C and backed by MySQL and Berkeley DB. It is an optimisation and port of an older triple store (WebKBC). It provides access to the RDF data via RDQL or SPARQL over HTTP, on the command line or via a C API.3store is an RDF ""triple store"", written in C and backed by MySQL and Berkeley DB. It is an optimisation and port of an older triple store (WebKBC). It provides access to the RDF data via RDQL or SPARQL over HTTP, on the command line or via a C API.","Categories
+Database, Search Engines, HTTP Servers, Artificial Intelligence"
+"This is a pre-alpha tool for modifying PDF forms written in C. It currently supports PDF versions 1.2, 1.3 and 1.4, which corresponds to Acrobat 3.0, 4.x and 5.x respectively. The program can currently handle text fields, checkboxes, and radio buttons.This is a pre-alpha tool for modifying PDF forms written in C. It currently supports PDF versions 1.2, 1.3 and 1.4, which corresponds to Acrobat 3.0, 4.x and 5.x respectively. The program can currently handle text fields, checkboxes, and radio buttons.","Categories
+CGI Scripts"
+"phpWatch is a flexible service monitoring system. Features include multiple contact methods for when services malfunction, multiple query methods, statistics gathering, and a fully extendable architecture for developers.phpWatch is a flexible service monitoring system. Features include multiple contact methods for when services malfunction, multiple query methods, statistics gathering, and a fully extendable architecture for developers.","Categories
+Site Management, Systems Administration, Logging"
+"Server bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manualsServer bundle of : Apache2 , MySQL , PostgreSQL , OpenSSL , Xmail , SlimFTPd
+Software developing triad of : PHP , Perl and Python
++ Apache2TriadCP , PHPmyadmin , PHPPgAdmin , AWStats , UebiMiau , PHPXMail , PHPSFTPd.
+All latest stables , all manuals","Categories
+Email, Database, File Transfer Protocol (FTP), Site Management, HTTP Servers, Interpreters, Email Servers"
+"SIDU is a FREE database web GUI written in PHP. Handy and powerful for MySQL + PostgreSQL + SQLite + CUBRID. SIDU is simple and easy DB tool to use! SIDU has all features you need for database admin and web development. It's a great DB admin tool! No installation need. Best database front-end web based tools, cross platform looking no furtherSIDU is a FREE database web GUI written in PHP. Handy and powerful for MySQL + PostgreSQL + SQLite + CUBRID. SIDU is simple and easy DB tool to use! SIDU has all features you need for database admin and web development. It's a great DB admin tool! No installation need. Best database front-end web based tools, cross platform looking no further","Categories
+Data Warehousing, Front-Ends, Site Management"
+A PHP Web Application that you can install on your own web server. It allows you to play chess with other users across the internet or sitting at the same screen. It only permits valid moves and can automatically detect check and checkmate status.A PHP Web Application that you can install on your own web server. It allows you to play chess with other users across the internet or sitting at the same screen. It only permits valid moves and can automatically detect check and checkmate status.,"Categories
+Board Games, Turn Based Strategy, Dynamic Content"
+"BrewBlogger is a easy to set up, easy to use, web-based beer homebrewing log. It is a PHP/MySQL-based system that provides today's brewer not only an easy way to record their beer brewing activities, but also blog-like forum to share their efforts.BrewBlogger is a easy to set up, easy to use, web-based beer homebrewing log. It is a PHP/MySQL-based system that provides today's brewer not only an easy way to record their beer brewing activities, but also blog-like forum to share their efforts.","Categories
+Communications, Games/Entertainment, Dynamic Content"
+"JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.JGraphT is a free Java class library that provides mathematical graph-theory objects and algorithms. JGraphT supports a rich gallery of graphs and is designed to be powerful, extensible, and easy to use.","Categories
+UML, Mathematics, Social Networking"
+"A php class for searching an XML document using XPath, and making modifications using a DOM style API. Does not require the DOM XML PHP library. The new home and name for the phpxml project.A php class for searching an XML document using XPath, and making modifications using a DOM style API. Does not require the DOM XML PHP library. The new home and name for the phpxml project.","Categories
+CGI Scripts"
+"NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.NOTE: Project has moved to github, including file downloads.
+
+SharpPcap is a cross-platform packet capture framework for the .NET environment, based on the famous pcap / WinPcap libraries. It provides an API for capturing, injecting, analyzing and building packets using any .NET language such as C# and VB.NET.","Categories
+Security, Monitoring, Internet"
+Jin is a Java client for various chess servers. It currently supports the Internet Chess Club (chessclub.com) and the Free Internet Chess Server (freechess.org) but is designed to be able to support any chess server.Jin is a Java client for various chess servers. It currently supports the Internet Chess Club (chessclub.com) and the Free Internet Chess Server (freechess.org) but is designed to be able to support any chess server.,"Categories
+Board Games, Internet"
+A Python interface to the gnuplot plotting program.A Python interface to the gnuplot plotting program.,"Categories
+CGI Scripts, Software Development, Presentation, Data Visualization"
+"Now we moved to https://github.com/xoopscube
+
+/!\ Development : security only updates !
+
+XOOPS Cube is an Open Source Web Application Platform, empowering webmasters to create dynamic and content rich websites with ease.
+
+The XOOPS Cube Project is friendly managed, developed and supported by a volunteer group with a multidisciplinary focus to provide a variety of different perspectives and ideas to consider in further development and design.
+
+XOOPS Cube Legacy is a Simple, Secure and Scalable content management solution to strengthen everyone's social network, share the essential knowledge and the understanding necessary to encourage creativity.
+
+XOOPS Cube moved to GitHub
+You can find Legacy 2.2.1 here:
+https://github.com/xoopscubeNow we moved to https://github.com/xoopscube
+
+/!\ Development : security only updates !
+
+XOOPS Cube is an Open Source Web Application Platform, empowering webmasters to create dynamic and content rich websites with ease.
+
+The XOOPS Cube Project is friendly managed, developed and supported by a volunteer group with a multidisciplinary focus to provide a variety of different perspectives and ideas to consider in further development and design.
+
+XOOPS Cube Legacy is a Simple, Secure and Scalable content management solution to strengthen everyone's social network, share the essential knowledge and the understanding necessary to encourage creativity.
+
+XOOPS Cube moved to GitHub
+You can find Legacy 2.2.1 here:
+https://github.com/xoopscube","Categories
+Site Management, Content Management Systems (CMS), Social Networking"
+"WebDAV-Sync can synchronise a local directory with a WebDAV collection, which is useful when a lot of files are going to be accessed randomly. The tool is an Ant task and it also has a command-line interface. Try it with Pincette (pincette.biz).WebDAV-Sync can synchronise a local directory with a WebDAV collection, which is useful when a lot of files are going to be accessed randomly. The tool is an Ant task and it also has a command-line interface. Try it with Pincette (pincette.biz).","Categories
+WWW/HTTP"
+"XForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is availableXForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is available","Categories
+HTML/XHTML, Browsers, User Interface (UI)"
+"Semantic MediaWiki is an extension to the MediaWiki software (powering Wikipedia), which extends the Wiki with ideas from the Semantic Web. We focus on usability and tight integration.
+
+See the web site for further details and GitHub at https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases for the file releases! (since version 2.4.0).Semantic MediaWiki is an extension to the MediaWiki software (powering Wikipedia), which extends the Wiki with ideas from the Semantic Web. We focus on usability and tight integration.
+
+See the web site for further details and GitHub at https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases for the file releases! (since version 2.4.0).","Categories
+Front-Ends, Dynamic Content, Semantic Web"
+"FullSync is a powerful tool that helps you keep multiple copies of various data in sync. I.e. it can update your Website using (S)Ftp, backup your data or refresh a working copy from a remote server. It offers flexible rules, a scheduler and moreFullSync is a powerful tool that helps you keep multiple copies of various data in sync. I.e. it can update your Website using (S)Ftp, backup your data or refresh a working copy from a remote server. It offers flexible rules, a scheduler and more","Categories
+File Transfer Protocol (FTP), Site Management, Backup"
+"All development will continue here under a BSD license:
+https://github.com/web2project/web2project
+
+LAMP-based Project Management System focused on satisfying real-world business requirements based on community feedback. Built on a modular app framework, it allows Add On modules & customizations to interact almost seamlessly. (dotproject fork)All development will continue here under a BSD license:
+https://github.com/web2project/web2project
+
+LAMP-based Project Management System focused on satisfying real-world business requirements based on community feedback. Built on a modular app framework, it allows Add On modules & customizations to interact almost seamlessly. (dotproject fork)","Categories
+Enterprise, Time Tracking, Financial, Scheduling, Project Management, Internet"
+"xVideoServiceThief is a tool for downloading your favourite video clips from a lot of video websites. xVideoServiceThief also provide you the ability to convert each video in most popular formats: AVI, MPEG1, MPEG2, WMV, MP4, 3GP, MP3 file formats.xVideoServiceThief is a tool for downloading your favourite video clips from a lot of video websites. xVideoServiceThief also provide you the ability to convert each video in most popular formats: AVI, MPEG1, MPEG2, WMV, MP4, 3GP, MP3 file formats.","Categories
+Internet, Video"
+"Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.Angry IP scanner is fast and friendly network scanner for Windows, Linux, and Mac. It is very extensible, allowing it to be used for very wide range of purposes, with the primary goal of being useful to network administrators.","Categories
+Security, Monitoring, Internet"
+"Vuze (formerly Azureus) is an extremely powerful and configurable BitTorrent client. Search and download torrent files. Play, convert and transcode videos and music for playing on many devices such as PSP, TiVo, XBox, PS3, iTunes (iPhone, iPod, Apple TV).Vuze (formerly Azureus) is an extremely powerful and configurable BitTorrent client. Search and download torrent files. Play, convert and transcode videos and music for playing on many devices such as PSP, TiVo, XBox, PS3, iTunes (iPhone, iPod, Apple TV).","Categories
+BitTorrent, Internet"
+"Using this free download manager and accelerator, you can download files and complete web sites up to 6 times faster than before. Also we plan to port it to Linux and Mac OS.Using this free download manager and accelerator, you can download files and complete web sites up to 6 times faster than before. Also we plan to port it to Linux and Mac OS.","Categories
+Internet, Download Managers"
+"Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO moduleHunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO module","Categories
+Word Processors, Search Engines, Internationalization (I18N), Artificial Intelligence, HMI, Information Analysis"
+MLDonkey is a multi-platform multi-network peer-to-peer client.MLDonkey is a multi-platform multi-network peer-to-peer client.,"Categories
+File Sharing, File Transfer Protocol (FTP)"
+"CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.CacheGuard Web Gateway works as a transparent (or explicit) HTTP/HTTPS proxy and blocks undesirable URLs and malware (viruses, trojans & worms) at the gateway. The URL guarding is mainly based on automatically updated lists of URLs. Malware are detected even in encrypted (HTTPS) Web traffic and are instantly blocked before entering your networks.
+
+CacheGuard Web Gateway is distributed as an open source OS to install on a virtual or hardware machine of your choice. Once installed on a machine, CacheGuard-OS transforms that machine into a network appliance to implement as a link to the internet (or other WAN).
+
+CacheGuard-OS is based on a Linux kernel and mainly uses OpenSSL, ClamAV and Squid. CacheGuard Web Gateway is especially designed to address organization requirements by providing functional and easy to handle security solutions.","Categories
+Security, Networking, Internet"
+"This is based on original OpenVPN source/binaries, but for special purposes (you'll find it on usage instructions), I modified and rebuilt it. Those special purposes are: modication of Host header, and passing custom X-Online-Host header in the body of HTTP request.This is based on original OpenVPN source/binaries, but for special purposes (you'll find it on usage instructions), I modified and rebuilt it. Those special purposes are: modication of Host header, and passing custom X-Online-Host header in the body of HTTP request.","Categories
+Internet"
+"Track your roaming staff, know their whereabouts and give them orders instantly. Works with web admin app,
+Android, Nokia etc. clients...Track your roaming staff, know their whereabouts and give them orders instantly. Works with web admin app,
+Android, Nokia etc. clients...","Categories
+XML, Browsers, AJAX"
+"This is a complete API to access World of Warcraft armory at battle.net. This also includes cache control, so you can keep below the daily request limit.
+
+Ideas is more than welcome.
+Change log: http://sourceforge.net/p/wowarmoryapi/home/ChangelogThis is a complete API to access World of Warcraft armory at battle.net. This also includes cache control, so you can keep below the daily request limit.
+
+Ideas is more than welcome.
+Change log: http://sourceforge.net/p/wowarmoryapi/home/Changelog","Categories
+Multi-User Dungeons (MUD), CGI Scripts, Frameworks"
+Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.,"Categories
+Desktop Environment, Browsers"
+Web browser plug-in for hosting real 3D on the websites.Web browser plug-in for hosting real 3D on the websites.,"Categories
+Games/Entertainment, Browser Extensions and Plugins, Animation"
+"Technology demonstrator of 3D rendering and navigation within a standards compliant web page (requires browser SVG support), no need for a plugin. Intended for use creating basic informative diagrams, ideal for live 3D animations through a web 2.0 mashup. Uses JavaScript to generate SVG (inline) from X3D (inline) using a VRMLScript compliant environment object (an implementation of the VRMLScript standard in JS).Technology demonstrator of 3D rendering and navigation within a standards compliant web page (requires browser SVG support), no need for a plugin. Intended for use creating basic informative diagrams, ideal for live 3D animations through a web 2.0 mashup. Uses JavaScript to generate SVG (inline) from X3D (inline) using a VRMLScript compliant environment object (an implementation of the VRMLScript standard in JS).","Categories
+Software Development, Internet, 3D Rendering"
+injooosm integrades OpenStreetMap in Joomla. It shows Tracks and Waypoints in a SlippyMap. Registred Users can uploads own Files.injooosm integrades OpenStreetMap in Joomla. It shows Tracks and Waypoints in a SlippyMap. Registred Users can uploads own Files.,"Categories
+Dynamic Content, GPS"
+"The FNET is a free, open source, dual TCP/IPv4 and IPv6 Stack (under Apache Version 2.0 license) for building embedded communication software on 32bit MCUs.The FNET is a free, open source, dual TCP/IPv4 and IPv6 Stack (under Apache Version 2.0 license) for building embedded communication software on 32bit MCUs.","Categories
+Communications, Internet"
+"Our mission is to develop open source solutions and provides professional support helps small and medium size companies meet the challenges of developing professional Arabic websites in the PHP/MySQL environment based on our experience in Arabic language processing, the library that we develop helps companies save time and increase productivity.Our mission is to develop open source solutions and provides professional support helps small and medium size companies meet the challenges of developing professional Arabic websites in the PHP/MySQL environment based on our experience in Arabic language processing, the library that we develop helps companies save time and increase productivity.","Categories
+CGI Scripts"
+"RGameScript is an advanced game site management script. With which you can easily run your own miniclip.com, photoshopcity.com/games/ flash game site. it has lots of features and forum integrations. (phpbb, smf, ipb, phpbb, mybb)RGameScript is an advanced game site management script. With which you can easily run your own miniclip.com, photoshopcity.com/games/ flash game site. it has lots of features and forum integrations. (phpbb, smf, ipb, phpbb, mybb)","Categories
+Dynamic Content, Site Management"
+"A Python wrapper for the Google web API. Allows you to do Google searches, retrieve pages from the Google cache, and ask Google for spelling suggestions.A Python wrapper for the Google web API. Allows you to do Google searches, retrieve pages from the Google cache, and ask Google for spelling suggestions.","Categories
+Search Engines"
+"A Java interface and implementation for the W3C Web Ontology Language (OWL), used to represent Semantic Web ontologies. The API is focused towards OWL 2 and offers an interface to inference engines and validation functionality.A Java interface and implementation for the W3C Web Ontology Language (OWL), used to represent Semantic Web ontologies. The API is focused towards OWL 2 and offers an interface to inference engines and validation functionality.","Categories
+WWW/HTTP, Artificial Intelligence"
+"A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.","Categories
+Telnet, BBS, SSH"
+"MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.MathJax is a modular javascript framework for including mathematics in web pages. It can take input in various formats, like TeX and MathML, and can produce output in various forms, such as MathML or HTML-with-CSS. Components are loaded as needed.","Categories
+BBS, Message Board, Mathematics, Computer Aided Instruction (CAI), Blogging, Wiki"
+"A PHP-based DKP solution to help guilds in EverQuest track guild members' attendence, item purchases and other statistics. Features templating, plugin support and support for various database abstraction layers, and many other features.A PHP-based DKP solution to help guilds in EverQuest track guild members' attendence, item purchases and other statistics. Features templating, plugin support and support for various database abstraction layers, and many other features.","Categories
+Role-Playing Games (RPG), WWW/HTTP"
+"JTidy is a Java port of HTML Tidy, a HTML syntax checker and pretty printer. Like its non-Java cousin, JTidy can be used as a tool for cleaning up malformed and faulty HTML. In addition, JTidy provides a DOM parser for real-world HTML.JTidy is a Java port of HTML Tidy, a HTML syntax checker and pretty printer. Like its non-Java cousin, JTidy can be used as a tool for cleaning up malformed and faulty HTML. In addition, JTidy provides a DOM parser for real-world HTML.","Categories
+Internet"
+a Java library for the automatic stimulation and testing of web applicationsa Java library for the automatic stimulation and testing of web applications,"Categories
+WWW/HTTP, Software Development"
+"PHP app to access Gmail/Googlemail/Gmail-for-Your-Domain accounts on wireless devices. Convenient alternative access method to your email account on the move, gmail-mobile incorporates as many Gmail features as possible within limits of a mobile device.PHP app to access Gmail/Googlemail/Gmail-for-Your-Domain accounts on wireless devices. Convenient alternative access method to your email account on the move, gmail-mobile incorporates as many Gmail features as possible within limits of a mobile device.","Categories
+Email Clients, WAP, CGI Scripts"
+"UnixODBC.pm provides a Perl API for the unixODBC driver manager and a bridge API for unixODBC network queries. The sample text-mode, GUI, and Web clients can manage multiple hosts and DBMSs and create RSS output.UnixODBC.pm provides a Perl API for the unixODBC driver manager and a bridge API for unixODBC network queries. The sample text-mode, GUI, and Web clients can manage multiple hosts and DBMSs and create RSS output.","Categories
+Front-Ends, Database Engines/Servers, Message Board, CGI Scripts, Distributed Computing"
+"Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.","Categories
+Security, WWW/HTTP, Software Testing, Vulnerability Scanners"
+"SWISH-Enhanced is a fast, powerful, *flexible*, free, and easy to use system for indexing collections of Web pages or other files. Key features include the ability to limit searches to certain HTML tags (META, TITLE, comments, etc.).SWISH-Enhanced is a fast, powerful, *flexible*, free, and easy to use system for indexing collections of Web pages or other files. Key features include the ability to limit searches to certain HTML tags (META, TITLE, comments, etc.).","Categories
+Search Engines"
+"Winstone is a Java servlet container (spec v2.5) that aims at being light, fast and reliable. It requires no configuration files, and is extremely simple to use.Winstone is a Java servlet container (spec v2.5) that aims at being light, fast and reliable. It requires no configuration files, and is extremely simple to use.","Categories
+HTTP Servers"
+"Programming library for writing an XML-RPC server or client in C or C++. XML-RPC is a standard network protocol to allow a client program to make a simple remote procedure call (RPC) type request of a server. Like SOAP or CORBA, but much simpler.Programming library for writing an XML-RPC server or client in C or C++. XML-RPC is a standard network protocol to allow a client program to make a simple remote procedure call (RPC) type request of a server. Like SOAP or CORBA, but much simpler.","Categories
+WWW/HTTP, Object Brokering"
+"This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.This program allows you to use SSH, TELNET, VNC, FTP and any other Internet application from behind HTTP(HTTPS) and SOCKS(4/5) proxy servers. This ""proxifier"" provides proxy server support to any app.","Categories
+Communications, Security, Internet, Proxy Servers"
+"AOLserver is a multithreaded, Tcl-enabled, massively-scalable and extensible web server tuned for large scale, dynamic web sites. AOLserver also includes complete database integration and a dynamic page scripting language.AOLserver is a multithreaded, Tcl-enabled, massively-scalable and extensible web server tuned for large scale, dynamic web sites. AOLserver also includes complete database integration and a dynamic page scripting language.","Categories
+Dynamic Content, HTTP Servers"
+PDFBox is a Java PDF Library. This project will allow access to all of the components in a PDF document. More PDF manipulation features will be added as the project matures. This ships with a utility to take a PDF document and output a text file.PDFBox is a Java PDF Library. This project will allow access to all of the components in a PDF document. More PDF manipulation features will be added as the project matures. This ships with a utility to take a PDF document and output a text file.,"Categories
+Text Processing, Dynamic Content, Search Engines"
+PHP2ICQ is a libary which lets you easily send ICQ Messages from your own php scripts by using a direct connection to the ICQ server via the Oscar protocol (ICQ v7/v8/v9). It is completely written from scratch.PHP2ICQ is a libary which lets you easily send ICQ Messages from your own php scripts by using a direct connection to the ICQ server via the Oscar protocol (ICQ v7/v8/v9). It is completely written from scratch.,"Categories
+ICQ, CGI Scripts"
+"Getleft is a Web site grabber, it downloads complete web sites according to the options set by the user.Getleft is a Web site grabber, it downloads complete web sites according to the options set by the user.","Categories
+File Transfer Protocol (FTP), WWW/HTTP"
+"PHP Home Edition is a complete package including WWW server Apache, DBS Server MYSQL and scripting language PHP into one fully operational system. Including additional compiled libraries for Win32 OS and many more. Easy to install, plug and play installatPHP Home Edition is a complete package including WWW server Apache, DBS Server MYSQL and scripting language PHP into one fully operational system. Including additional compiled libraries for Win32 OS and many more. Easy to install, plug and play installat","Categories
+Database Engines/Servers, Dynamic Content"
+Joomla! 1.5 native helpdesk application with built-in knowledgebase. Inspired by open source Liberum ASP-based helpdesk.Joomla! 1.5 native helpdesk application with built-in knowledgebase. Inspired by open source Liberum ASP-based helpdesk.,"Categories
+Content Management Systems (CMS), Customer Service"
+"OpenDocMan is a web based document management system (DMS) written in PHP designed to comply with ISO 17025 and OIE standard for document management. It features fine grained control of access to files, and automated install and upgrades.OpenDocMan is a web based document management system (DMS) written in PHP designed to comply with ISO 17025 and OIE standard for document management. It features fine grained control of access to files, and automated install and upgrades.","Categories
+File Sharing, Content Management Systems (CMS), Knowledge Management, Document Management"
+"Dave Raggett's excellent HTML Tidy lived here at SourceForge! And this site is kept for historic reasons only. Bugs, issues, feature requests should be filed on the current github site.Dave Raggett's excellent HTML Tidy lived here at SourceForge! And this site is kept for historic reasons only. Bugs, issues, feature requests should be filed on the current github site.","Categories
+WWW/HTTP, Software Development"
+"Eric is a Python IDE written using PyQt and QScintilla. It provides various features such as any number of open editors, an integrated (remote) debugger, project management facilities, unit test, refactoring and much more.Eric is a Python IDE written using PyQt and QScintilla. It provides various features such as any number of open editors, an integrated (remote) debugger, project management facilities, unit test, refactoring and much more.","Categories
+Browsers, Software Development"
+"Universal Password Manager allows you to store all your passwords in one highly secure encrypted database. Its strengths are simplicity, portability and security (uses 128bit AES encryption). UPM is available on Android, Windows, OS X & Linux.Universal Password Manager allows you to store all your passwords in one highly secure encrypted database. Its strengths are simplicity, portability and security (uses 128bit AES encryption). UPM is available on Android, Windows, OS X & Linux.","Categories
+Office/Business, Database, Security, Internet"
+GTK-based BitTorrent client. You can find Ubuntu packages of Flush at http://bit.ly/cYBYQf. Git repository: http://bit.ly/cdwdPE.GTK-based BitTorrent client. You can find Ubuntu packages of Flush at http://bit.ly/cYBYQf. Git repository: http://bit.ly/cdwdPE.,"Categories
+BitTorrent, Internet"
+"WebIssues is an open source, multi-platform system for issue tracking and team collaboration. It can be used to store, share and track issues with various attributes, description, comments and file attachments. The system is easy to install and use but has many capabilities and is highly customizable.
+
+Website: https://webissues.mimec.org/
+
+The current development version of WebIssues can be found at https://github.com/mimecorg/webissuesWebIssues is an open source, multi-platform system for issue tracking and team collaboration. It can be used to store, share and track issues with various attributes, description, comments and file attachments. The system is easy to install and use but has many capabilities and is highly customizable.
+
+Website: https://webissues.mimec.org/
+
+The current development version of WebIssues can be found at https://github.com/mimecorg/webissues","Categories
+Project Management, QA Automation, Help Desk"
+"phpFreeChat is a free, simple to install, fast and customizable chat that uses by default files for message and nickname storage. It uses AJAX to smoothly refresh and display the chat zone and the nickname zone.phpFreeChat is a free, simple to install, fast and customizable chat that uses by default files for message and nickname storage. It uses AJAX to smoothly refresh and display the chat zone and the nickname zone.","Categories
+Chat, Dynamic Content"
+"POSH is a social PHP widget portal, web-based content and RSS feed reader, customizable and compliant with Netvibes. Usable in an educational, associative or enterprise intranet context.POSH is a social PHP widget portal, web-based content and RSS feed reader, customizable and compliant with Netvibes. Usable in an educational, associative or enterprise intranet context.","Categories
+Enterprise, User Interface (UI), Social Networking"
+"Dev-PHP is a well-featured IDE for PHP. Fast and powerful, it is easy to use and has a lot of cool features : class browser, scripts preview, integration with PHP parsers, PHP-GTK library, and Xdebug of course. Dev-PHP-usb slips even into your pocket.Dev-PHP is a well-featured IDE for PHP. Fast and powerful, it is easy to use and has a lot of cool features : class browser, scripts preview, integration with PHP parsers, PHP-GTK library, and Xdebug of course. Dev-PHP-usb slips even into your pocket.","Categories
+Integrated Development Environments (IDE), Dynamic Content, Code Generators"
+"phpMyBackupPro is a web-based MySQL backup application in PHP. You can schedule backups, download, email or upload them with FTP and backup whole file directories. Zip and gzip compression, easy interface and installation. Many languages and online help!phpMyBackupPro is a web-based MySQL backup application in PHP. You can schedule backups, download, email or upload them with FTP and backup whole file directories. Zip and gzip compression, easy interface and installation. Many languages and online help!","Categories
+Database, Site Management, Backup"
+"A PHP/Postgresql based document management system (DMS) with full-text searching, keyword support, file discussions, document workflow, task management, webdav support, and file locking.A PHP/Postgresql based document management system (DMS) with full-text searching, keyword support, file discussions, document workflow, task management, webdav support, and file locking.","Categories
+Office/Business, Search Engines, Document Management"
+"Easy, fast and free CMS Blog.
+Nibbleblog it's a powerful engine for creating blogs, all you need is PHP to work. Very simple to install and configure (only 1 step).Easy, fast and free CMS Blog.
+Nibbleblog it's a powerful engine for creating blogs, all you need is PHP to work. Very simple to install and configure (only 1 step).","Categories
+XML, Site Management, Blogging"
+"The elegant, powerful, and open-source mod manager. Arisen Studio allows you to easily browse through a regularly updated database of mods, game saves, homebrew, resources, themes, and much more for the PlayStation 3 and Xbox 360. All mods have been tested and verified in our library, which is populated by myself, a few friends, and awesome contributors. Arisen Studio can also be used as an FTP client to install and uninstall mods directly from your console. Without the need to search up old posts or use file managers - this will do everything for you.The elegant, powerful, and open-source mod manager. Arisen Studio allows you to easily browse through a regularly updated database of mods, game saves, homebrew, resources, themes, and much more for the PlayStation 3 and Xbox 360. All mods have been tested and verified in our library, which is populated by myself, a few friends, and awesome contributors. Arisen Studio can also be used as an FTP client to install and uninstall mods directly from your console. Without the need to search up old posts or use file managers - this will do everything for you.","Categories
+Front-Ends, File Transfer Protocol (FTP), File Managers, FTP Clients"
+"Note: the work on this project is currently on halt. Check out https://sourceforge.net/projects/imagefap-gallery-dl-cli/?source=directory for a more recent version.
+
+ImageFap Gallery Downloader is a Python script for full image gallery downloads on ImageFap and xHamster.
+
+xHamster support added in v0.3
+
+In order to download user folders in v0.4, open the user profile, follow the 'Galleries' link and copy the folder link from the sidebar to the clipboard. Download everything from a user by copying the user profile link.
+
+Windows executable was created with py2exe: https://sourceforge.net/projects/py2exe/
+
+
+Please report bugs and problems.Note: the work on this project is currently on halt. Check out https://sourceforge.net/projects/imagefap-gallery-dl-cli/?source=directory for a more recent version.
+
+ImageFap Gallery Downloader is a Python script for full image gallery downloads on ImageFap and xHamster.
+
+xHamster support added in v0.3
+
+In order to download user folders in v0.4, open the user profile, follow the 'Galleries' link and copy the folder link from the sidebar to the clipboard. Download everything from a user by copying the user profile link.
+
+Windows executable was created with py2exe: https://sourceforge.net/projects/py2exe/
+
+
+Please report bugs and problems.","Categories
+Internet"
+"FifamasterXLS is an open source script in PHP and MYSQL based on Master League XLS, a competition of fantasy football that involves the use of the web and the video game FIFA from Electronic Arts.
+
+Latest Release: v 2.3.2
+Release Note: https://sourceforge.net/p/fifamasterxls/blog/2015/10/fifamasterxls-232-disponibile-/FifamasterXLS is an open source script in PHP and MYSQL based on Master League XLS, a competition of fantasy football that involves the use of the web and the video game FIFA from Electronic Arts.
+
+Latest Release: v 2.3.2
+Release Note: https://sourceforge.net/p/fifamasterxls/blog/2015/10/fifamasterxls-232-disponibile-/","Categories
+Games/Entertainment, WWW/HTTP"
+"PROJECT MOVED!
+
+GO TO: http://algoprog.com/google-search-scriptPROJECT MOVED!
+
+GO TO: http://algoprog.com/google-search-script","Categories
+Search Engines"
+Free & open-source PHP5 + MYSQL/SQLite CMS.Free & open-source PHP5 + MYSQL/SQLite CMS.,"Categories
+Content Management Systems (CMS)"
+Roundcube Plugin that adds a new tab to the settings section to create simple client-side e-mail filtering.Roundcube Plugin that adds a new tab to the settings section to create simple client-side e-mail filtering.,"Categories
+Email, Enterprise, WWW/HTTP"
+"Piwigo is a photo gallery software for the web. It comes with powerful features for publishing your photos and smart browsing capabilities such as categories, tags, or chronology. Extensions make Piwigo easily customizable.Piwigo is a photo gallery software for the web. It comes with powerful features for publishing your photos and smart browsing capabilities such as categories, tags, or chronology. Extensions make Piwigo easily customizable.","Categories
+Dynamic Content, Image Viewers, Photo Management"
+"GMOD is a set of interoperable open source software components for visualizing, annotating, and managing biological data. See http://gmod.org for more.GMOD is a set of interoperable open source software components for visualizing, annotating, and managing biological data. See http://gmod.org for more.","Categories
+Database, Dynamic Content, Bio-Informatics"
+"Client-server transfers files/folders P2P, fast and secure: transparent compression/encryption (SSL), pause/resume, TCP/UDP connection, auto-discover, proxy support (HTTP, SOCKS5), NAT Traversal (Teredo, UPnP), HTTP/FTP downloads, speed graph, chat.Client-server transfers files/folders P2P, fast and secure: transparent compression/encryption (SSL), pause/resume, TCP/UDP connection, auto-discover, proxy support (HTTP, SOCKS5), NAT Traversal (Teredo, UPnP), HTTP/FTP downloads, speed graph, chat.","Categories
+File Sharing, File Transfer Protocol (FTP), WWW/HTTP"
+"LinPHA is an easy to use, multilingual, flexible photo/image archive/album/gallery written in PHP. It uses a SQL database to store information about your pictures. It comes with a HTML based installer, so you don't need experience in setting up SQLLinPHA is an easy to use, multilingual, flexible photo/image archive/album/gallery written in PHP. It uses a SQL database to store information about your pictures. It comes with a HTML based installer, so you don't need experience in setting up SQL","Categories
+Dynamic Content, Archiving, Presentation, Image Viewers, Digital Camera, Media Players"
+"JAMWIKI IS NO LONGER UNDER ACTIVE DEVELOPMENT.
+
+JAMWiki is a Wiki engine implemented using Java/JSP that attempts to provide much of the functionality of MediaWiki. It can be run with or without a database and is designed to be fast and easy to set up.JAMWIKI IS NO LONGER UNDER ACTIVE DEVELOPMENT.
+
+JAMWiki is a Wiki engine implemented using Java/JSP that attempts to provide much of the functionality of MediaWiki. It can be run with or without a database and is designed to be fast and easy to set up.","Categories
+Enterprise, Dynamic Content"

@@ -1,0 +1,375 @@
+Description,Category
+"EHR/EMR cross-platform software for the design, implementation and use of autonomous, open, database models for multilingual medical knowledge management systems from primary care to continuing care.EHR/EMR cross-platform software for the design, implementation and use of autonomous, open, database models for multilingual medical knowledge management systems from primary care to continuing care.","Categories
+Database, Medical, Knowledge Management"
+"R portable configures R to work with the PortableApps framework, so that R can be ran from a thumb drive or portable hard drive without leaving artifacts on the computer.R portable configures R to work with the PortableApps framework, so that R can be ran from a thumb drive or portable hard drive without leaving artifacts on the computer.","Categories
+Statistics"
+"Java Marine API is an NMEA 0183 library for Java.
+
+For furher info and latest source code, see project's Github pages.
+
+http://github.com/ktuukkan/marine-api/Java Marine API is an NMEA 0183 library for Java.
+
+For furher info and latest source code, see project's Github pages.
+
+http://github.com/ktuukkan/marine-api/","Categories
+Data Formats, Libraries, GPS"
+"Variant detection in massively parallel sequencing. For one sample, calls SNPs, indels, and consensus genotypes. For tumor-normal pairs, further classifies each variant as Germline, Somatic, or LOH, and also detects somatic copy number changes. THE LATEST VERSION IS AVAILABLE ON GITHUBVariant detection in massively parallel sequencing. For one sample, calls SNPs, indels, and consensus genotypes. For tumor-normal pairs, further classifies each variant as Germline, Somatic, or LOH, and also detects somatic copy number changes. THE LATEST VERSION IS AVAILABLE ON GITHUB","Categories
+Bio-Informatics"
+This is a simple BACnet Server aimed at developers who want to explore or test their BACnet Client implementations of the ASHRAE BACnet protocol. It is based on Steve Karg's fine implementation of the BACnet Stack.This is a simple BACnet Server aimed at developers who want to explore or test their BACnet Client implementations of the ASHRAE BACnet protocol. It is based on Steve Karg's fine implementation of the BACnet Stack.,"Categories
+Data Formats, SCADA"
+"A memory device programmer (Flash / EPROM / E2PROM) board and software, connected to PC by USB port. Placa e software para gravação de memórias (Flash / EPROM / E2PROM), conectada ao PC através de porta USB.A memory device programmer (Flash / EPROM / E2PROM) board and software, connected to PC by USB port. Placa e software para gravação de memórias (Flash / EPROM / E2PROM), conectada ao PC através de porta USB.","Categories
+Hardware, Embedded Systems, Test and Measurement"
+"asciiTeX is an ASCII equation renderer, i.e., it can generate ASCII-art representations of mathematical formula's. You can use asciiTeX to quickly insert equations in e.g. e-mails, in comments in your source-code, etc. The syntax is similar to LaTeXasciiTeX is an ASCII equation renderer, i.e., it can generate ASCII-art representations of mathematical formula's. You can use asciiTeX to quickly insert equations in e.g. e-mails, in comments in your source-code, etc. The syntax is similar to LaTeX","Categories
+Scientific/Engineering"
+Machine Learning framework in PythonMachine Learning framework in Python,"Categories
+Machine Learning"
+The tools in this package allow conversion of tracts from one CAMINO to TRACKVIS and vice versa in a very effective way with ability to handle over a million tracts.The tools in this package allow conversion of tracts from one CAMINO to TRACKVIS and vice versa in a very effective way with ability to handle over a million tracts.,"Categories
+Interface Engine/Protocol Translator"
+Msieve is a C library implementing a suite of algorithms to factor large integers. It contains an implementation of the SIQS and GNFS algorithms; the latter has helped complete some of the largest public factorizations knownMsieve is a C library implementing a suite of algorithms to factor large integers. It contains an implementation of the SIQS and GNFS algorithms; the latter has helped complete some of the largest public factorizations known,"Categories
+Cryptography, Mathematics"
+TML has moved to http://www.villalon.cl/tml.html and the code to https://github.com/villalon/tmlTML has moved to http://www.villalon.cl/tml.html and the code to https://github.com/villalon/tml,"Categories
+Artificial Intelligence, Linguistics, Research"
+Neuroph OCR - Handwriting Recognition is developed to recognize hand written letter and characters. It's engine derived's from the Java Neural Network Framework - Neuroph and as such it can be used as a standalone project or a Neuroph plug in.Neuroph OCR - Handwriting Recognition is developed to recognize hand written letter and characters. It's engine derived's from the Java Neural Network Framework - Neuroph and as such it can be used as a standalone project or a Neuroph plug in.,"Categories
+Frameworks, Handwriting Recognition, Machine Learning, OCR, Neural Network Libraries"
+"INDI is an instrument neutral distributed interface control protocol that aims to provide backend driver support and automation for a wide range of Astronomical devices (telescopes, focusers, CCDs..etc).
+
+Project migrated to Github: https://github.com/indilib/indiINDI is an instrument neutral distributed interface control protocol that aims to provide backend driver support and automation for a wide range of Astronomical devices (telescopes, focusers, CCDs..etc).
+
+Project migrated to Github: https://github.com/indilib/indi","Categories
+Hardware Drivers, Interface Engine/Protocol Translator, Astronomy"
+"A simple API suite to send and receive SMS messages with an ETSI 07.05 compatible GSM phone/terminal (in PDU mode)
+Tested with serial, irda and USB (via cdc-acm kernel driver)A simple API suite to send and receive SMS messages with an ETSI 07.05 compatible GSM phone/terminal (in PDU mode)
+Tested with serial, irda and USB (via cdc-acm kernel driver)","Categories
+Software Development, Scientific/Engineering"
+"JsMath is a means of including mathematical notation in web pages. It interprets TeX code within your document and uses JavaScript, CSS and unicode fonts to typeset the resulting formulas. It works across multiple browsers and platforms, without MathMLJsMath is a means of including mathematical notation in web pages. It interprets TeX code within your document and uses JavaScript, CSS and unicode fonts to typeset the resulting formulas. It works across multiple browsers and platforms, without MathML","Categories
+Message Board, Mathematics"
+This project aims a proving an Hardware as a VSCP node (M2M) to store information remotely on the CAN network.This project aims a proving an Hardware as a VSCP node (M2M) to store information remotely on the CAN network.,"Categories
+Serial, Emulators, Log Rotation, Embedded Systems, Test and Measurement"
+"BioPAX is a standard language for integration, exchange, visualization and analysis of biological pathway data. BioPAX supports data exchange between pathway data groups and thus reduces the complexity of interchange between data formats by providing an accepted standard format for pathway data. By offering a standard, with well-defined semantics for pathway representation, BioPAX allows pathway databases and software to interact more efficiently. In addition, BioPAX enables the development of pathway visualization from databases and facilitates analysis of experimentally generated data through combination with prior knowledge. The BioPAX effort is coordinated closely with that of other pathway related standards initiatives namely; PSI-MI, SBML, CellML, and SBGN in order to deliver a compatible standard in the areas where they overlap.BioPAX is a standard language for integration, exchange, visualization and analysis of biological pathway data. BioPAX supports data exchange between pathway data groups and thus reduces the complexity of interchange between data formats by providing an accepted standard format for pathway data. By offering a standard, with well-defined semantics for pathway representation, BioPAX allows pathway databases and software to interact more efficiently. In addition, BioPAX enables the development of pathway visualization from databases and facilitates analysis of experimentally generated data through combination with prior knowledge. The BioPAX effort is coordinated closely with that of other pathway related standards initiatives namely; PSI-MI, SBML, CellML, and SBGN in order to deliver a compatible standard in the areas where they overlap.","Categories
+Bio-Informatics"
+"A speech synthesis and recognition library that is cross-platform, accessible from Java and C++, and has a very small API. Uses CMU Sphinx4 and FreeTTS internally.A speech synthesis and recognition library that is cross-platform, accessible from Java and C++, and has a very small API. Uses CMU Sphinx4 and FreeTTS internally.","Categories
+Games/Entertainment, User Interface (UI), Robotics, HMI, Speech"
+TRMSim-WSN (Trust and Reputation Models Simulator for Wireless Sensor Networks) is a Java-based simulator aimed to test Trust and Reputation models for WSNs. It provides several Trust and Reputation models and new ones can be easily added.TRMSim-WSN (Trust and Reputation Models Simulator for Wireless Sensor Networks) is a Java-based simulator aimed to test Trust and Reputation models for WSNs. It provides several Trust and Reputation models and new ones can be easily added.,"Categories
+Security, Frameworks, User Interface (UI), Benchmark, Simulation, Bio-Informatics"
+"EQAlign born as a software that assists to align a German Equatorial Mount (GEM) exactly to the Earth polar axis. Today, in adition to polar align feature, EQAlign is a full featured astronomical software.EQAlign born as a software that assists to align a German Equatorial Mount (GEM) exactly to the Earth polar axis. Today, in adition to polar align feature, EQAlign is a full featured astronomical software.","Categories
+Astronomy"
+The Orientation Library is a collection of routines for rotation/orientation manipulation. It ranges from general tools to others for crystal orientations. It is written in C and is well-documented. An interactive program enables to run the routines.The Orientation Library is a collection of routines for rotation/orientation manipulation. It ranges from general tools to others for crystal orientations. It is written in C and is well-documented. An interactive program enables to run the routines.,"Categories
+Simulation, Mathematics, Physics"
+"xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under linux. Originally based on code written by Andrew Rogers (http://www.rogerstech.co.uk/ ).xc3sprog is a suite of utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with the Xilinx Parallel Cable and other JTAG adapters under linux. Originally based on code written by Andrew Rogers (http://www.rogerstech.co.uk/ ).","Categories
+Electronic Design Automation (EDA)"
+"Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).Defraser is a forensic analysis application that can be used to detect full and partial multimedia files in datastreams. It is typically used to find (and restore) complete or partial video files in datastreams (for instance, unallocated diskspace).","Categories
+Data Formats, Information Analysis, Video"
+"Siril is an astronomical image processing software for Linux. Dev here is stopped: as of 2013/02, Siril development has moved and is regaining activity here https://free-astro.org/index.php?title=SirilSiril is an astronomical image processing software for Linux. Dev here is stopped: as of 2013/02, Siril development has moved and is regaining activity here https://free-astro.org/index.php?title=Siril","Categories
+Astronomy"
+The bflow* Toolbox is an open source tool kit for business process management. The objective of bflow* is to explore new ways and scenarios for the development and use of modelling tools.The bflow* Toolbox is an open source tool kit for business process management. The objective of bflow* is to explore new ways and scenarios for the development and use of modelling tools.,"Categories
+UML, Simulation, Exam, Workflow Management, Business Performance Management"
+LaserCalc is an Open Source wxWidgets application for the calculation of optical beam paths and laser resonators based on Gaussian beam matrix optics. In addition beam paths can be optimized to match given beam parameters (mode matching).LaserCalc is an Open Source wxWidgets application for the calculation of optical beam paths and laser resonators based on Gaussian beam matrix optics. In addition beam paths can be optimized to match given beam parameters (mode matching).,"Categories
+Simulation, Physics"
+"UMLet is an open-source Java tool for rapidly drawing UML diagrams, with a focus on a sound and pop-up-free user interface. Its homepage is www.umlet.com.UMLet is an open-source Java tool for rapidly drawing UML diagrams, with a focus on a sound and pop-up-free user interface. Its homepage is www.umlet.com.","Categories
+UML, Data Visualization"
+"An Open Source IEC 61131-3 Integrated Development Environment, providing PLCOpen SoftPLC programming, CanOpen IO's, and SVG based HMI.An Open Source IEC 61131-3 Integrated Development Environment, providing PLCOpen SoftPLC programming, CanOpen IO's, and SVG based HMI.","Categories
+Other/Nonlisted Topic, Compilers, Robotics, Simulation, Data Visualization, HMI"
+"A fixed point math header-library for C, under a liberal license.A fixed point math header-library for C, under a liberal license.","Categories
+Mathematics, Embedded Systems, Libraries"
+"OpenMEDIS is a simple, flexible, and standardized tool to collect (inventory) and process (manage) information on health technology infrastructure, e.g. medical devices in low- and middle income countries.
+
+The latest source code is available in the folder Code/trunk. There are also sub-projects of openMEDIS that contain the source-code of installations in each country.OpenMEDIS is a simple, flexible, and standardized tool to collect (inventory) and process (manage) information on health technology infrastructure, e.g. medical devices in low- and middle income countries.
+
+The latest source code is available in the folder Code/trunk. There are also sub-projects of openMEDIS that contain the source-code of installations in each country.","Categories
+Data Warehousing, Front-Ends, Information Analysis"
+Astrology software inspired by the SYMBOLON deck. This software calculates the planet positions and make symbolon card tables according to the calculated constellation. It can draw the classical circular horoscope also.Astrology software inspired by the SYMBOLON deck. This software calculates the planet positions and make symbolon card tables according to the calculated constellation. It can draw the classical circular horoscope also.,"Categories
+New Age, Astronomy"
+Both forward-chaining and backward-chaining rules (which may include python code) are compiled into python. Can also automatically assemble python programs out of python functions which are attached to backward-chaining rules. See pyke.sourceforge.neBoth forward-chaining and backward-chaining rules (which may include python code) are compiled into python. Can also automatically assemble python programs out of python functions which are attached to backward-chaining rules. See pyke.sourceforge.ne,"Categories
+Code Generators, Software Distribution, Installation/Setup, Artificial Intelligence"
+"Foma is a compiler, programming language, and C library for constructing finite-state automata and transducers for various uses. It has specific support for many natural language processing applications such as producing morphological analyzers.Foma is a compiler, programming language, and C library for constructing finite-state automata and transducers for various uses. It has specific support for many natural language processing applications such as producing morphological analyzers.","Categories
+Code Generators, Compilers, Mathematics"
+"OpenFOAM - The Open Source CFD Toolbox. OpenFOAM is a generic, programmable software tool for Computational Fluid Dynamics (CFD). For more information, see:
+- Main Website: https://openfoam.org
+- C++ Source Documentation: https://cpp.openfoam.org
+- Issue (Bug) Tracking: https://bugs.openfoam.org
+- User Guide: https://cfd.direct/openfoam/user-guideOpenFOAM - The Open Source CFD Toolbox. OpenFOAM is a generic, programmable software tool for Computational Fluid Dynamics (CFD). For more information, see:
+- Main Website: https://openfoam.org
+- C++ Source Documentation: https://cpp.openfoam.org
+- Issue (Bug) Tracking: https://bugs.openfoam.org
+- User Guide: https://cfd.direct/openfoam/user-guide","Categories
+Simulation, Computational Fluid Dynamics (CFD)"
+Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.Cewolf is a tag library for charts of all kinds. It enables every JSP to easily embed chart images. It can be used by any web applications running in a servlet container. No Java scriplet code is needed to define charts.,"Categories
+Dynamic Content, Graphics, Data Visualization"
+MyHDL is a Python package for using Python as a hardware description and verification language.MyHDL is a Python package for using Python as a hardware description and verification language.,"Categories
+Electronic Design Automation (EDA)"
+The project has moved on Google Code: http://code.google.com/p/beagle.The project has moved on Google Code: http://code.google.com/p/beagle.,"Categories
+Artificial Intelligence"
+"The Napkin Look and Feel is a pluggable Java look and feel that looks like it was scrawled on a napkin. You can use it to make provisional work actually look provisonal, or just for fun.The Napkin Look and Feel is a pluggable Java look and feel that looks like it was scrawled on a napkin. You can use it to make provisional work actually look provisonal, or just for fun.","Categories
+Software Development, Presentation, HMI"
+"OptFrame is a framework for efficient implementation of metaheuristics and optimization methods. It has already been used in some real combinatorial problems and applied to Operations Research. Since November 2017, project has been moved to GitHub (new releases will also be included here in SourceForge, but Git mainline is no longer supported here). For more information, visit: https://github.com/OptFrame/optframeOptFrame is a framework for efficient implementation of metaheuristics and optimization methods. It has already been used in some real combinatorial problems and applied to Operations Research. Since November 2017, project has been moved to GitHub (new releases will also be included here in SourceForge, but Git mainline is no longer supported here). For more information, visit: https://github.com/OptFrame/optframe","Categories
+Frameworks, Scientific/Engineering, Libraries"
+"open2300 - reads/writes data from the Lacrosse WS2300 family of weather stations. Includes tools that send data to: logfiles, webpages with graphs, XML file, MySQL, Weather Underground, Citizen Weather. Library of 50+ functions for your own programs (C)open2300 - reads/writes data from the Lacrosse WS2300 family of weather stations. Includes tools that send data to: logfiles, webpages with graphs, XML file, MySQL, Weather Underground, Citizen Weather. Library of 50+ functions for your own programs (C)","Categories
+Hardware Drivers, Physics"
+JSci is a set of open source Java packages. The aim is to encapsulate scientific methods/principles in the most natural way possible. As such they should greatly aid the development of scientific based software.JSci is a set of open source Java packages. The aim is to encapsulate scientific methods/principles in the most natural way possible. As such they should greatly aid the development of scientific based software.,"Categories
+Mathematics"
+"Arrowmatcher is a ballistics software for crossbow archers. It can calculate the speed, kinetic energy, trajectory, aiming solution and much more of an arrow (or bullet). It uses a simplified 6 degree of freedom model.Arrowmatcher is a ballistics software for crossbow archers. It can calculate the speed, kinetic energy, trajectory, aiming solution and much more of an arrow (or bullet). It uses a simplified 6 degree of freedom model.","Categories
+Data Visualization, Physics"
+"Radiation detection and measurement education is necessary for a wide variety of people working with radiation. The equipment and laboratory setup needed for delivering this education are expensive and difficult to assemble due to the large variety of the type of experiments that are desirable to cover. For a basic education one needs to have gamma, beta, alpha and neutron sources, at least one detector to detect each type of radiation and other supplemental instrumentation to perform experiments. Although the radiation exposure due to these radioactive sources in an education laboratory is low, shielding and a private secured place is needed. Nearly two hundred thousand dollars is needed to construct such a basic laboratory described as above. In order to overcome these difficulties, a model of a basic Radiation Detection Laboratory has been created to provide a virtual environment for designing and simulating such experiments. Team: Dagistan Sahin, Muzaffer Sena Sahin, Korcan KayrinRadiation detection and measurement education is necessary for a wide variety of people working with radiation. The equipment and laboratory setup needed for delivering this education are expensive and difficult to assemble due to the large variety of the type of experiments that are desirable to cover. For a basic education one needs to have gamma, beta, alpha and neutron sources, at least one detector to detect each type of radiation and other supplemental instrumentation to perform experiments. Although the radiation exposure due to these radioactive sources in an education laboratory is low, shielding and a private secured place is needed. Nearly two hundred thousand dollars is needed to construct such a basic laboratory described as above. In order to overcome these difficulties, a model of a basic Radiation Detection Laboratory has been created to provide a virtual environment for designing and simulating such experiments. Team: Dagistan Sahin, Muzaffer Sena Sahin, Korcan Kayrin","Categories
+Medical, Physics, Education"
+"NGSolve is a general purpose Finite Element Library on top of Netgen. With the basic library one can solve heat flow equations, Maxwell equations, and solid mechanical problems. Several add-ons are available for particular application classes.
+
+New paper:
+J. Schöberl: ""C++11 Implementation of Finite Elements in NGSolve"", ASC Report 30/2014, Institute for Analysis and Scientific Computing, Vienna University of Technology, 2014
+http://www.asc.tuwien.ac.at/~schoeberl/wiki/publications/ngs-cpp11.pdfNGSolve is a general purpose Finite Element Library on top of Netgen. With the basic library one can solve heat flow equations, Maxwell equations, and solid mechanical problems. Several add-ons are available for particular application classes.
+
+New paper:
+J. Schöberl: ""C++11 Implementation of Finite Elements in NGSolve"", ASC Report 30/2014, Institute for Analysis and Scientific Computing, Vienna University of Technology, 2014
+http://www.asc.tuwien.ac.at/~schoeberl/wiki/publications/ngs-cpp11.pdf","Categories
+Simulation, Mathematics"
+Software for quantifying growth in Arabidopsis thaliana roots.Software for quantifying growth in Arabidopsis thaliana roots.,"Categories
+Bio-Informatics"
+Mjograph is an XY (2D) graph editor that runs on Mac OSX and Java with the goal to provide researchers with a quick way to visualize numerical data and also create publication-quality plots.Mjograph is an XY (2D) graph editor that runs on Mac OSX and Java with the goal to provide researchers with a quick way to visualize numerical data and also create publication-quality plots.,"Categories
+Data Visualization"
+IPC 175x Utilities is a collection of software tools to support the IPC 1750 series of supplier declaration standards. These utilities are being developed to help electronics industry supply chain stakeholders implement the IPC 1750 series of standard.IPC 175x Utilities is a collection of software tools to support the IPC 1750 series of supplier declaration standards. These utilities are being developed to help electronics industry supply chain stakeholders implement the IPC 1750 series of standard.,"Categories
+Electronic Design Automation (EDA)"
+Working hardware has been built and is in a late beta stage. Software is also available.Working hardware has been built and is in a late beta stage. Software is also available.,"Categories
+Bio-Informatics, HMI, Medical"
+"Amine is an Artificial Intelligence Multi-Layer Java Open Source Platform dedicated to the development of various kinds of Intelligent Systems and Agents (Knowledge-Based, Ontology-Based, Conceptual Graph -CG- Based, NLP, Reasoning and Learning, Natural Language Processing, etc.). Ontology, KB can be created and manipulated with various processes. CG theory is used as the main knowledge representation language.
+Amine provides two languages: PROLOG+CG which extends PROLOG with CG and Amine modules, and SYNERGY which is a visual activation/propagation based language. CGs are considered by SYNERGY as activable/executable graphs.
+See for more detail: //amine-platform.sourceforge.net/Amine is an Artificial Intelligence Multi-Layer Java Open Source Platform dedicated to the development of various kinds of Intelligent Systems and Agents (Knowledge-Based, Ontology-Based, Conceptual Graph -CG- Based, NLP, Reasoning and Learning, Natural Language Processing, etc.). Ontology, KB can be created and manipulated with various processes. CG theory is used as the main knowledge representation language.
+Amine provides two languages: PROLOG+CG which extends PROLOG with CG and Amine modules, and SYNERGY which is a visual activation/propagation based language. CGs are considered by SYNERGY as activable/executable graphs.
+See for more detail: //amine-platform.sourceforge.net/","Categories
+Artificial Intelligence, Intelligent Agents, Machine Learning"
+ChronosXP is a planetary hours astrology program for Windows. It runs from the system tray where it displays a glyph corresponding to the current planetary hour. Planetary hours/days can also be viewed for any given time or location.ChronosXP is a planetary hours astrology program for Windows. It runs from the system tray where it displays a glyph corresponding to the current planetary hour. Planetary hours/days can also be viewed for any given time or location.,"Categories
+New Age, Astronomy"
+"One-dimensional semiconductor device simulator. Developed since 1982, it is widely regarded as the industry standard simulator for the photovoltaic (solar cell) industry.One-dimensional semiconductor device simulator. Developed since 1982, it is widely regarded as the industry standard simulator for the photovoltaic (solar cell) industry.","Categories
+Simulation, Physics"
+"The development community in building GIS solutions is sustaining an enormous level of effort. The GeoAPI project aims to reduce duplication and increase interoperability by providing neutral, interface-only APIs derived from OGC/ISO Standards.The development community in building GIS solutions is sustaining an enormous level of effort. The GeoAPI project aims to reduce duplication and increase interoperability by providing neutral, interface-only APIs derived from OGC/ISO Standards.","Categories
+Libraries, GIS"
+"The Open Instrumentation Project provides open source software for graphical user interface and control of computer-based lab instruments. Current instruments include an oscilloscope, waveform generator, CircuitGear, multimeter and network analyser.The Open Instrumentation Project provides open source software for graphical user interface and control of computer-based lab instruments. Current instruments include an oscilloscope, waveform generator, CircuitGear, multimeter and network analyser.","Categories
+User Interface (UI), Scientific/Engineering"
+DICOM Anonymizer replaces the patient names in all the DICOM files in a folder (and sub-folders) with other strings you assigned. Works as a batch and works fast. Supports number index. Anonymizing is required for medical image processing.DICOM Anonymizer replaces the patient names in all the DICOM files in a folder (and sub-folders) with other strings you assigned. Works as a batch and works fast. Supports number index. Anonymizing is required for medical image processing.,"Categories
+Medical"
+"The C-Munipack is an astrophotometry software package, which offers a complete solution for reduction of images carried out by CCD or DSLR camera, intended on a observation of variable stars, exoplanets and minor Solar System bodies. It provides a simple and intuitive graphical user interface.The C-Munipack is an astrophotometry software package, which offers a complete solution for reduction of images carried out by CCD or DSLR camera, intended on a observation of variable stars, exoplanets and minor Solar System bodies. It provides a simple and intuitive graphical user interface.","Categories
+Astronomy"
+"The PyCogent project is moving to GitHub. When completed, you will find us at http://github.com/pycogent/pycogent/. You can find the PyCogent website at http://www.pycogent.org.The PyCogent project is moving to GitHub. When completed, you will find us at http://github.com/pycogent/pycogent/. You can find the PyCogent website at http://www.pycogent.org.","Categories
+Bio-Informatics"
+"Open source 3D physics and dynamics engine and library written in pure Java. This is a Java port of ODE / OpenDE (Open Dynamics Engine).
+
+THIS PROJECT HAS BEEN MOVED TO A NEW LOCATION: http://www.ode4j.orgOpen source 3D physics and dynamics engine and library written in pure Java. This is a Java port of ODE / OpenDE (Open Dynamics Engine).
+
+THIS PROJECT HAS BEEN MOVED TO A NEW LOCATION: http://www.ode4j.org","Categories
+Robotics, Physics, Game Development Frameworks"
+"This project is a quest for conscious artificial intelligence. A number of prototypes will be developed as the project progresses.
+
+This project has 2 subprojects:
+Object Pascal based CAI NEURAL API - https://github.com/joaopauloschuler/neural-api
+Python based K-CAI NEURAL API - https://github.com/joaopauloschuler/k-neural-api
+
+A video from the first prototype has been made:
+http://www.youtube.com/watch?v=qH-IQgYy9zg
+
+Above video shows a popperian agent collecting mining ore from 3 mining sites and bringing to the base. At the time the agent is born, it doesn't know how to walk nor it knows that it feels pleasure by mining. He has tact only (blind agent). The video shows learning, planning, executing and plan optimization.This project is a quest for conscious artificial intelligence. A number of prototypes will be developed as the project progresses.
+
+This project has 2 subprojects:
+Object Pascal based CAI NEURAL API - https://github.com/joaopauloschuler/neural-api
+Python based K-CAI NEURAL API - https://github.com/joaopauloschuler/k-neural-api
+
+A video from the first prototype has been made:
+http://www.youtube.com/watch?v=qH-IQgYy9zg
+
+Above video shows a popperian agent collecting mining ore from 3 mining sites and bringing to the base. At the time the agent is born, it doesn't know how to walk nor it knows that it feels pleasure by mining. He has tact only (blind agent). The video shows learning, planning, executing and plan optimization.","Categories
+Bio-Informatics, Intelligent Agents, Machine Learning"
+"Geomajas is a web mapping GIS software with full vectorial editing capabilities, and support for custom attribute relation models in the browser. It has built-in support for any type of query, selection, filtering, snapping, printing, ...Geomajas is a web mapping GIS software with full vectorial editing capabilities, and support for custom attribute relation models in the browser. It has built-in support for any type of query, selection, filtering, snapping, printing, ...","Categories
+Dynamic Content, Frameworks, GIS"
+Once upon a time there was a pocket calculator called the HP15C. It used a system called Reverse Polish Notation (RPN) for doing its calculations. The Fairwood Calculator is a RPN calculator designed for the computer.Once upon a time there was a pocket calculator called the HP15C. It used a system called Reverse Polish Notation (RPN) for doing its calculations. The Fairwood Calculator is a RPN calculator designed for the computer.,"Categories
+Mathematics, Calculators, RPN Calculators"
+"PySCeS is the Python Simulator of Cellular Systems. For a network of coupled reactions it does a stoichiometric matrix analysis, calculates the time course and steady state, and does a complete control analysis.PySCeS is the Python Simulator of Cellular Systems. For a network of coupled reactions it does a stoichiometric matrix analysis, calculates the time course and steady state, and does a complete control analysis.","Categories
+Simulation, Chemistry, Bio-Informatics"
+"Scientific calculator for PalmOS and PocketPC with graphing, financial operations, number conversions, complex numbers and much more.Scientific calculator for PalmOS and PocketPC with graphing, financial operations, number conversions, complex numbers and much more.","Categories
+Mathematics, Calculators, Graphing Calculators"
+Towhee is a Monte Carlo molecular simulation code originally designed for the prediction of fluid phase equilibria using atom-based force fields and the Gibbs ensemble with particular attention paid to algorithms addressing molecule conformation sampling.Towhee is a Monte Carlo molecular simulation code originally designed for the prediction of fluid phase equilibria using atom-based force fields and the Gibbs ensemble with particular attention paid to algorithms addressing molecule conformation sampling.,"Categories
+Chemistry, Physics"
+"MARF is a general cross-platform framework with a collection of algorithms for audio (voice, speech, and sound) and natural language text analysis and recognition along with sample applications (identification, NLP, etc.) of its use, implemented in Java.MARF is a general cross-platform framework with a collection of algorithms for audio (voice, speech, and sound) and natural language text analysis and recognition along with sample applications (identification, NLP, etc.) of its use, implemented in Java.","Categories
+Frameworks, Distributed Computing, Artificial Intelligence, HMI, Speech, Audio Analysis"
+"WIndows Dicom Open Viewer, is a simple viewer for DICOM medical images, to be used expecially on removable devices (such as Patient CDs). Partially based on ezDICOM sources.
+----
+Currently no one of the developers has enough time to go on with the code.
+Please, feel free to contact the administrators in order to participate in the development.WIndows Dicom Open Viewer, is a simple viewer for DICOM medical images, to be used expecially on removable devices (such as Patient CDs). Partially based on ezDICOM sources.
+----
+Currently no one of the developers has enough time to go on with the code.
+Please, feel free to contact the administrators in order to participate in the development.","Categories
+Medical"
+"Febrl (Freely Extensible Biomedical Record Linkage) does data standardisation (segmentation and cleaning) and probabilistic record linkage (""fuzzy"" matching) of one or more files or data sources which do not share a unique record key or identifier.Febrl (Freely Extensible Biomedical Record Linkage) does data standardisation (segmentation and cleaning) and probabilistic record linkage (""fuzzy"" matching) of one or more files or data sources which do not share a unique record key or identifier.","Categories
+Bio-Informatics, Artificial Intelligence, Medical"
+"EtherApe is a graphical network monitor modeled after etherman. Featuring Ethernet, IP, TCP, FDDI, Token Ring and wireless modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display.EtherApe is a graphical network monitor modeled after etherman. Featuring Ethernet, IP, TCP, FDDI, Token Ring and wireless modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display.","Categories
+Monitoring, Data Visualization"
+MiXiM is a simulator for wireless and mobile networks using the OMNeT++ simulation engine.MiXiM is a simulator for wireless and mobile networks using the OMNeT++ simulation engine.,"Categories
+Wireless, Simulation"
+K8055 User Interface is a Mac OS X based Cocoa application for controlling the Velleman K8055 USB interface. Included is a static library which can be used for developing other applications and closely replicates the Velleman Windows .DLL functions.K8055 User Interface is a Mac OS X based Cocoa application for controlling the Velleman K8055 USB interface. Included is a static library which can be used for developing other applications and closely replicates the Velleman Windows .DLL functions.,"Categories
+Hardware, Robotics, HMI"
+"See the new project page: https://nojhan.github.io/paradiseo/
+
+(Archived project page: http://eodev.sourceforge.net/)See the new project page: https://nojhan.github.io/paradiseo/
+
+(Archived project page: http://eodev.sourceforge.net/)","Categories
+Genetic Algorithms, Artificial Intelligence"
+"A Sequenced Binaural Wave Generator for Linux+Windows. May be used to generate sounds that entrain the brain's waves to oscillate at selected frequencies to aid in relaxation, lucid dreaming, meditation, clear thought, out-of-body experiences + moreA Sequenced Binaural Wave Generator for Linux+Windows. May be used to generate sounds that entrain the brain's waves to oscillate at selected frequencies to aid in relaxation, lucid dreaming, meditation, clear thought, out-of-body experiences + more","Categories
+Bio-Informatics, Medical, Sound Synthesis"
+"The project development has been moved on GitHub https://github.com/pcb2gcode/pcb2gcode
+The GUI for pcb2gcode can be found here https://github.com/pcb2gcode/pcb2gcodeGUI
+
+pcb2gcode is a command-line tool for isolation, routing and drilling of PCBs that provides full support for both single- and double-sided boards. For more information, see http://sourceforge.net/apps/mediawiki/pcb2gcode/The project development has been moved on GitHub https://github.com/pcb2gcode/pcb2gcode
+The GUI for pcb2gcode can be found here https://github.com/pcb2gcode/pcb2gcodeGUI
+
+pcb2gcode is a command-line tool for isolation, routing and drilling of PCBs that provides full support for both single- and double-sided boards. For more information, see http://sourceforge.net/apps/mediawiki/pcb2gcode/","Categories
+Electronic Design Automation (EDA), Command Line Tools"
+"SBEVSL is a collaborative project between Dowling and RIT on the development of a Structural Biology Extensible Visualization Scripting Language, so that users can move freely among various molecular graphics tools, such as rasmol, pymol, raster3d, etc.SBEVSL is a collaborative project between Dowling and RIT on the development of a Structural Biology Extensible Visualization Scripting Language, so that users can move freely among various molecular graphics tools, such as rasmol, pymol, raster3d, etc.","Categories
+Bio-Informatics, Data Visualization"
+GRid Advanced Simulation SystemGRid Advanced Simulation System,"Categories
+Simulation"
+"Math library for Delphi, FreePascal and LazarusMath library for Delphi, FreePascal and Lazarus","Categories
+Mathematics"
+"Free ladder & sequential (grafcet) languages as used on many PLC for programming automation process. Ladder language allows to realize programs on PLC in an electric way.
+GTK graphical interface to edit/simulate.
+Modbus protocol for SCADA connexion and remote Inputs/Outputs modules.
+Logs events available.
+Can run on embedded targets for real usages (without GTK interface), as Arietta, RaspberryPi, ... Xenomai support for real-time.Free ladder & sequential (grafcet) languages as used on many PLC for programming automation process. Ladder language allows to realize programs on PLC in an electric way.
+GTK graphical interface to edit/simulate.
+Modbus protocol for SCADA connexion and remote Inputs/Outputs modules.
+Logs events available.
+Can run on embedded targets for real usages (without GTK interface), as Arietta, RaspberryPi, ... Xenomai support for real-time.","Categories
+Scientific/Engineering"
+"OpenCyc is the open source version of the Cyc(r) technology, the world's largest and most complete general knowledge base and reasoning engine. A new release with even more content, better performance, and improved reliability will be up shortly.OpenCyc is the open source version of the Cyc(r) technology, the world's largest and most complete general knowledge base and reasoning engine. A new release with even more content, better performance, and improved reliability will be up shortly.","Categories
+Artificial Intelligence"
+PyNomo is a package for creating nomograph(s) [nomogram(s)] using Python language.PyNomo is a package for creating nomograph(s) [nomogram(s)] using Python language.,"Categories
+Software Development, Data Visualization"
+"galculator is a GTK 2 / GTK 3 based scientific calculator supporting algebraic mode as well as RPN. Features include arithmetic precedence handling, mathematical functions, different number bases (DEC, HEX, BIN, OCT) and angle bases (radiant, degree, and grad).
+
+Please note: This project page at sf.net reflects the state of the project up to August 2015. Beginning in September 2015, the project homepage was moved to http://galculator.mnim.org, with the source code repositories and issue trackers hosted at https://github.com/galculator/galculator.galculator is a GTK 2 / GTK 3 based scientific calculator supporting algebraic mode as well as RPN. Features include arithmetic precedence handling, mathematical functions, different number bases (DEC, HEX, BIN, OCT) and angle bases (radiant, degree, and grad).
+
+Please note: This project page at sf.net reflects the state of the project up to August 2015. Beginning in September 2015, the project homepage was moved to http://galculator.mnim.org, with the source code repositories and issue trackers hosted at https://github.com/galculator/galculator.","Categories
+Mathematics, Calculators, RPN Calculators"
+Dynamic COBOL copybook parser for Java. Supports parsing and writing of application data based on parsed copybooks. Coverts COBOL types to Java types and back to COBOL types with validation.Dynamic COBOL copybook parser for Java. Supports parsing and writing of application data based on parsed copybooks. Coverts COBOL types to Java types and back to COBOL types with validation.,"Categories
+Interface Engine/Protocol Translator"
+Dexter is a little java program to interactively or semi-automatically extract data from scanned graphs. In its applet incarnation it is used by the Astrophysics Data System. A rudimenary standalone version is provided as well.Dexter is a little java program to interactively or semi-automatically extract data from scanned graphs. In its applet incarnation it is used by the Astrophysics Data System. A rudimenary standalone version is provided as well.,"Categories
+Data Visualization"
+"This is an unusually easy-to-use module for Python that generates navigable 3D animations as a side effect of computations. See vpython.org for current stable downloads and much other information. As of 2012 April 10, source code updates take place at github.com/vpython.This is an unusually easy-to-use module for Python that generates navigable 3D animations as a side effect of computations. See vpython.org for current stable downloads and much other information. As of 2012 April 10, source code updates take place at github.com/vpython.","Categories
+3D Rendering, Data Visualization, Education"
+"DataCleaner is a data quality analysis application and a solution platform for DQ solutions. It's core is a strong data profiling engine, which is extensible and thereby adds data cleansing, transformations, enrichment, deduplication, matching and merging.
+
+Website: http://datacleaner.github.ioDataCleaner is a data quality analysis application and a solution platform for DQ solutions. It's core is a strong data profiling engine, which is extensible and thereby adds data cleansing, transformations, enrichment, deduplication, matching and merging.
+
+Website: http://datacleaner.github.io","Categories
+Data Warehousing, Information Analysis, Business Intelligence"
+"GG-Tracker tracks the location of your mobile device. It displays your position on the internet using Google Maps / Earth and uses live updates via ajax technology.
+
+GG-Tracker can run standalone or integrated on an existing webpage. The application is built using the template framework Bootstrap which makes it fully responsive (fits on any screen). Also the supporting files for Google Maps, Streetview and Earth are 100% responsive.
+
+GG-Tracker can potentially hook up to many different apps (iOS and Android) as long as they follow the OpenGTS or Garmin $GPRMC standards. The application itself runs on a standard Apache and MySQL setup.GG-Tracker tracks the location of your mobile device. It displays your position on the internet using Google Maps / Earth and uses live updates via ajax technology.
+
+GG-Tracker can run standalone or integrated on an existing webpage. The application is built using the template framework Bootstrap which makes it fully responsive (fits on any screen). Also the supporting files for Google Maps, Streetview and Earth are 100% responsive.
+
+GG-Tracker can potentially hook up to many different apps (iOS and Android) as long as they follow the OpenGTS or Garmin $GPRMC standards. The application itself runs on a standard Apache and MySQL setup.","Categories
+GPS, GIS"
+"The PAMGUARD project develops software to help detect, locate and classify marine mammals using Passive Acoustic Monitoring.
+
+This project is being migrated to github at https://github.com/PAMGuard. Please go there for the latest updates.
+
+thank you sourceforge for hosting us for all these years.The PAMGUARD project develops software to help detect, locate and classify marine mammals using Passive Acoustic Monitoring.
+
+This project is being migrated to github at https://github.com/PAMGuard. Please go there for the latest updates.
+
+thank you sourceforge for hosting us for all these years.","Categories
+Ecosystem Sciences, Data Visualization, Information Analysis, Audio Analysis"
+"Java based astronomical logging software which stores it's data in a free and open XML based format (OpenAstronomyLog).
+Discontinued project: Please check out the fork: https://github.com/capape/observation-manager for an updated versionJava based astronomical logging software which stores it's data in a free and open XML based format (OpenAstronomyLog).
+Discontinued project: Please check out the fork: https://github.com/capape/observation-manager for an updated version","Categories
+XML, Astronomy"
+"This library is meant for high performance calculations for science or 3D games/rasterizers using SIMD instructions of x86 processors to allow an unparalleled level of optimization. This takes advantage of MMX, 3DNow!, 3DNow!+/MMX+, & SSE/SSE2/SSE3/SSSE3This library is meant for high performance calculations for science or 3D games/rasterizers using SIMD instructions of x86 processors to allow an unparalleled level of optimization. This takes advantage of MMX, 3DNow!, 3DNow!+/MMX+, & SSE/SSE2/SSE3/SSSE3","Categories
+3D Rendering, Mathematics, Physics"
+"A java library for geometry applications. Provides a general framework for manipulating and creating geometric primitives, computing intersection points between shapes, composing them to create new shapes, and performing some measurements.
+
+Important note: the repository has now moved to GitHub: https://github.com/dlegland/javaGeom
+Please update bookmarks!A java library for geometry applications. Provides a general framework for manipulating and creating geometric primitives, computing intersection points between shapes, composing them to create new shapes, and performing some measurements.
+
+Important note: the repository has now moved to GitHub: https://github.com/dlegland/javaGeom
+Please update bookmarks!","Categories
+Mathematics"
+"PTools is a set of useful tools written in Pascal. It includes: scientific calculator, archiver, text editor, remote adminitration and more. It is designed to be portable across operating systems, specially Java-based mobiles, Windows and Unixes.PTools is a set of useful tools written in Pascal. It includes: scientific calculator, archiver, text editor, remote adminitration and more. It is designed to be portable across operating systems, specially Java-based mobiles, Windows and Unixes.","Categories
+Text Processing, Archiving, Systems Administration, Mathematics, Calculators"
+"MSTParser is a non-projective dependency parser that searches for maximum spanning trees over directed graphs. Models of dependency structure are based on large-margin discriminative training methods. Projective parsing is also supported.
+
+mstparser 0.5.1 is now available via Maven Central. If you use Maven as your build tool, then you can add it as a dependency in your pom.xml file:
+
+<dependency>
+<groupId>net.sourceforge.mstparser</groupId>
+<artifactId>mstparser</artifactId>
+<version>0.5.1</version>
+</dependency>MSTParser is a non-projective dependency parser that searches for maximum spanning trees over directed graphs. Models of dependency structure are based on large-margin discriminative training methods. Projective parsing is also supported.
+
+mstparser 0.5.1 is now available via Maven Central. If you use Maven as your build tool, then you can add it as a dependency in your pom.xml file:
+
+<dependency>
+<groupId>net.sourceforge.mstparser</groupId>
+<artifactId>mstparser</artifactId>
+<version>0.5.1</version>
+</dependency>","Categories
+Artificial Intelligence, HMI"
+"That project aims at providing a clean API, and the corresponding C++ implementation, able to generate demand for travel solutions (e.g., from JFK to PEK on 25-05-2009) according to characteristics (e.g., Willingness-To-Pay, preferred airline, etc).That project aims at providing a clean API, and the corresponding C++ implementation, able to generate demand for travel solutions (e.g., from JFK to PEK on 25-05-2009) according to characteristics (e.g., Willingness-To-Pay, preferred airline, etc).","Categories
+Object Oriented, Simulation, Ecosystem Sciences, Mathematics, Information Analysis, Libraries"
+"We are proud to introduce version 4 of CAMPARI. Maintaining the philosophy introduced with V3 to speed up (almost) everything with the help of OpenMP (threads parallelism), we have added a number of new algorithms from the recent literature, most notably an entire module dealing with small molecules of arbitrary chemistry for applications in computational docking and drug design. Naturally, CAMPARI continues to provide the reference implementation of the ABSINTH force field paradigm and implicit solvation model.
+
+CAMPARI is a joint package for performing and analyzing molecular simulations, in particular of systems of biological relevance. It focuses on a wide availability of algorithms for (advanced) sampling and is capable of combining Monte Carlo and molecular dynamics in seamless fashion. CAMPARI offers the user a very high level of control over all implemented features. For more information and features, please refer to the project's homepage at http://campari.sourceforge.net.We are proud to introduce version 4 of CAMPARI. Maintaining the philosophy introduced with V3 to speed up (almost) everything with the help of OpenMP (threads parallelism), we have added a number of new algorithms from the recent literature, most notably an entire module dealing with small molecules of arbitrary chemistry for applications in computational docking and drug design. Naturally, CAMPARI continues to provide the reference implementation of the ABSINTH force field paradigm and implicit solvation model.
+
+CAMPARI is a joint package for performing and analyzing molecular simulations, in particular of systems of biological relevance. It focuses on a wide availability of algorithms for (advanced) sampling and is capable of combining Monte Carlo and molecular dynamics in seamless fashion. CAMPARI offers the user a very high level of control over all implemented features. For more information and features, please refer to the project's homepage at http://campari.sourceforge.net.","Categories
+Molecular Science, Physics, Molecular Mechanics"
+"simECG is an ECG signal simulator aimed for basic training and experimenting. As a full software ECG signal generator, it's ideal for training and demonstration purposes. You can create customizable signals usually present in many pathologies.simECG is an ECG signal simulator aimed for basic training and experimenting. As a full software ECG signal generator, it's ideal for training and demonstration purposes. You can create customizable signals usually present in many pathologies.","Categories
+Medical"
+"NxBRE is a lightweight Business Rule Engine (aka Rule Based Engine) for the .NET platform, composed of a forward-chaining inference engine and an XML-driven flow control engine. It supports RuleML 0.9 Naf Datalog and Visio 2003 modeling.NxBRE is a lightweight Business Rule Engine (aka Rule Based Engine) for the .NET platform, composed of a forward-chaining inference engine and an XML-driven flow control engine. It supports RuleML 0.9 Naf Datalog and Visio 2003 modeling.","Categories
+Software Development, Artificial Intelligence"
+"newLISP for BSDs, LINUX, MacOS X, SunOS and Win32: small, fast 350+ functions, a -C-, MySQL, PostgreSQL, SQLite, ODBC, TCP/IP, UDP, XML, Java interface, string processing, regular expressions , math, financial, statistical functions, Win32 DLLnewLISP for BSDs, LINUX, MacOS X, SunOS and Win32: small, fast 350+ functions, a -C-, MySQL, PostgreSQL, SQLite, ODBC, TCP/IP, UDP, XML, Java interface, string processing, regular expressions , math, financial, statistical functions, Win32 DLL","Categories
+Interpreters, Artificial Intelligence, Mathematics"
+sql_LV.llb is a high-performance library for interfacing your LabView application with your ODBC or MySQL-based database. Result and data sets are handled as cluster arrays.sql_LV.llb is a high-performance library for interfacing your LabView application with your ODBC or MySQL-based database. Result and data sets are handled as cluster arrays.,"Categories
+Database, Software Development, Scientific/Engineering"
+"Kabeja is a java library for parsing DXF and converting to SVG (dxf2svg). The library supports the SAX-api and can integrated into other applications (Cocoon,Batik). Tools for converting svg to jpeg, tiff, png and pdf are included .Kabeja is a java library for parsing DXF and converting to SVG (dxf2svg). The library supports the SAX-api and can integrated into other applications (Cocoon,Batik). Tools for converting svg to jpeg, tiff, png and pdf are included .","Categories
+Data Formats, Image Converters, Data Visualization"
+"A GUI application which estimates toxic hazard of chemical compounds. The latest version includes the following toxicity prediction modules:
+
+-Cramer rules (oral toxicity)
+-Toxicity mode of action via Verhaar scheme
+-Skin irritation and Eye irritation prediction
+-Benigni / Bossa rulebase for mutagenicity and carcinogenicity prediction
+-START biodegradation and persistence prediction
+-Skin sensitisation reactivity domain
+-Kroes TTC Decision tree
+-SMARTCyp - Cytochrome P450-Mediated Drug Metabolism and metabolites prediction
+-Structure Alerts for the in vivo micronucleus assay in rodents (ISSMIC)
+-Structural Alerts for Functional Group Identification (ISSFUNC)
+-Structural alerts associated with covalent protein binding and DNA binding.
+- Ames mutagenicity
+
+Toxtree provides a plugin framework to incorporate different approaches to the estimation. Platform independent (written in Java), with the use of The Chemistry Development Kit.A GUI application which estimates toxic hazard of chemical compounds. The latest version includes the following toxicity prediction modules:
+
+-Cramer rules (oral toxicity)
+-Toxicity mode of action via Verhaar scheme
+-Skin irritation and Eye irritation prediction
+-Benigni / Bossa rulebase for mutagenicity and carcinogenicity prediction
+-START biodegradation and persistence prediction
+-Skin sensitisation reactivity domain
+-Kroes TTC Decision tree
+-SMARTCyp - Cytochrome P450-Mediated Drug Metabolism and metabolites prediction
+-Structure Alerts for the in vivo micronucleus assay in rodents (ISSMIC)
+-Structural Alerts for Functional Group Identification (ISSFUNC)
+-Structural alerts associated with covalent protein binding and DNA binding.
+- Ames mutagenicity
+
+Toxtree provides a plugin framework to incorporate different approaches to the estimation. Platform independent (written in Java), with the use of The Chemistry Development Kit.","Categories
+Molecular Science, Chemistry, Bio-Informatics"
+"Taverna is *no longer* hosted on SourceForge, but has moved to the Apache Software Foundation: https://taverna.apache.org
+
+These pages and mailing list archives are provided for *archival purposes* for older Taverna 1.x releases.
+
+See https://taverna.apache.org/download/ for the latest releases from Apache Taverna.Taverna is *no longer* hosted on SourceForge, but has moved to the Apache Software Foundation: https://taverna.apache.org
+
+These pages and mailing list archives are provided for *archival purposes* for older Taverna 1.x releases.
+
+See https://taverna.apache.org/download/ for the latest releases from Apache Taverna.","Categories
+Dynamic Content, Interface Engine/Protocol Translator, Bio-Informatics, Medical"
+"GPlates is a plate-tectonics program. Manipulate reconstructions of geological and paleo-geographic features through geological time. Interactively visualize vector, raster and volume data. PyGPlates is the GPlates Python library. Get fine-grained access to GPlates functionality in your Python scripts.GPlates is a plate-tectonics program. Manipulate reconstructions of geological and paleo-geographic features through geological time. Interactively visualize vector, raster and volume data. PyGPlates is the GPlates Python library. Get fine-grained access to GPlates functionality in your Python scripts.","Categories
+Data Visualization, Earth Sciences, GIS"

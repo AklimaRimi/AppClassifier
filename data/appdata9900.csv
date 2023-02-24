@@ -1,0 +1,780 @@
+Description,Category
+"PINN is an enhancement of NOOBS for the Raspberry Pi.
+It allows the installation of MULTIPLE OSes on the same SD/HDD/SSD device with an OS chooser when booting.
+Built-in Admin tools allow you to backup & restore your OSes and fix OS problems by including basic disk checking, password changing, and a command shell.PINN is an enhancement of NOOBS for the Raspberry Pi.
+It allows the installation of MULTIPLE OSes on the same SD/HDD/SSD device with an OS chooser when booting.
+Built-in Admin tools allow you to backup & restore your OSes and fix OS problems by including basic disk checking, password changing, and a command shell.","Categories
+Installation/Setup, OS distribution"
+"RedDwarf is a horizontally scalable application server for low latency apps such as online games, virtual worlds, and social networking applications. It is the official community fork for Project Darkstar, previously sponsored by Sun Microsystems.RedDwarf is a horizontally scalable application server for low latency apps such as online games, virtual worlds, and social networking applications. It is the official community fork for Project Darkstar, previously sponsored by Sun Microsystems.","Categories
+Games/Entertainment, Distributed Computing, Application Servers"
+"One-JAR(TM) is a simple solution to a vexing problem in Java: how to distribute an application as a single jar-file, when it depends on multiple other jar-files. One-JAR uses a custom classloader to discover library jar files inside the main jar.One-JAR(TM) is a simple solution to a vexing problem in Java: how to distribute an application as a single jar-file, when it depends on multiple other jar-files. One-JAR uses a custom classloader to discover library jar files inside the main jar.","Categories
+Build Tools, Installation/Setup"
+"NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process. NetHogs does not rely on a special kernel module to be loaded.NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process. NetHogs does not rely on a special kernel module to be loaded.","Categories
+Monitoring"
+"QP real-time embedded frameworks (RTEFs) provide lightweight, modern event-driven architecture based on active objects (actors) and hierarchical state machines. The matching QM model-based design tool and other host-based tools complement the QP frameworks by supporting graphical modeling, code generation, software tracing and unit testing for event-driven embedded software. Visit https://www.state-machine.com for more information.
+
+The QP RTEFs can run on bare-metal single-chip microcontrollers, completely replacing a traditional RTOS. The frameworks contain a selection of built-in real-time kernels (RTOS kernels), such as the cooperative QV kernel, the preemptive non-blocking QK kernel, and the unique preemptive, dual-mode (blocking/non-blocking) QXK kernel. Native QP ports and ready-to-use examples are provided for ARM Cortex-M (M0/M0+/M3/M4F/M7) as well as other CPUs.
+
+The QP RTEFs can also work with many traditional RTOSes and desktop OSes, such as Linux and Windows.QP real-time embedded frameworks (RTEFs) provide lightweight, modern event-driven architecture based on active objects (actors) and hierarchical state machines. The matching QM model-based design tool and other host-based tools complement the QP frameworks by supporting graphical modeling, code generation, software tracing and unit testing for event-driven embedded software. Visit https://www.state-machine.com for more information.
+
+The QP RTEFs can run on bare-metal single-chip microcontrollers, completely replacing a traditional RTOS. The frameworks contain a selection of built-in real-time kernels (RTOS kernels), such as the cooperative QV kernel, the preemptive non-blocking QK kernel, and the unique preemptive, dual-mode (blocking/non-blocking) QXK kernel. Native QP ports and ready-to-use examples are provided for ARM Cortex-M (M0/M0+/M3/M4F/M7) as well as other CPUs.
+
+The QP RTEFs can also work with many traditional RTOSes and desktop OSes, such as Linux and Windows.","Categories
+Frameworks, Operating System Kernels, Embedded Systems"
+"NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname and open ports of network hosts through packet sniffing or by parsing a PCAP file. NetworkMiner can also extract transmitted files from network traffic.
+
+New versions of NetworkMiner are released exclusively on www.netresec.com since version 2.0 of NetworkMiner. This page on SourceForge is only kept to provide hosting of older versions of the software.
+
+To get the latest version of NetworkMiner, please visit:
+http://www.netresec.com/?page=NetworkMinerNetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname and open ports of network hosts through packet sniffing or by parsing a PCAP file. NetworkMiner can also extract transmitted files from network traffic.
+
+New versions of NetworkMiner are released exclusively on www.netresec.com since version 2.0 of NetworkMiner. This page on SourceForge is only kept to provide hosting of older versions of the software.
+
+To get the latest version of NetworkMiner, please visit:
+http://www.netresec.com/?page=NetworkMiner","Categories
+Security, Monitoring, Information Analysis"
+"PeerGuardian is a privacy oriented firewall application. It blocks connections to and from hosts specified in huge blocklists (thousands or millions of IP ranges). Its origin seeds in targeting aggressive IPs while you use P2P.
+
+PeerGuardian Linux:
+Not developed actively anymore. Team might still be around. Some unreleased changes on git. Outdated technology.
+
+Peerguardian OS X:
+Not developed anymore. We've lost contact with the OS X developer.
+
+PeerGuardian Windows:
+Not developed anymore. It's highly recommended to use PeerBlock instead, which is a continuation of PeerGuardian's development in Windows, with bug fixes and support for Windows Vista and Windows 7. Collaboration with peerblock.com is welcome!
+
+PeerGuardian is an open project. Not only is its source code open for you to read, use, and modify - but the project is open for you to join and contribute in any form (code, documentation, bug reports, web and support).PeerGuardian is a privacy oriented firewall application. It blocks connections to and from hosts specified in huge blocklists (thousands or millions of IP ranges). Its origin seeds in targeting aggressive IPs while you use P2P.
+
+PeerGuardian Linux:
+Not developed actively anymore. Team might still be around. Some unreleased changes on git. Outdated technology.
+
+Peerguardian OS X:
+Not developed anymore. We've lost contact with the OS X developer.
+
+PeerGuardian Windows:
+Not developed anymore. It's highly recommended to use PeerBlock instead, which is a continuation of PeerGuardian's development in Windows, with bug fixes and support for Windows Vista and Windows 7. Collaboration with peerblock.com is welcome!
+
+PeerGuardian is an open project. Not only is its source code open for you to read, use, and modify - but the project is open for you to join and contribute in any form (code, documentation, bug reports, web and support).","Categories
+File Sharing, Firewall"
+"Untangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.comUntangle is a Linux-based network gateway with pluggable modules for network applications like spam blocking, web filtering, anti-virus, anti-spyware, intrusion prevention, bandwidth control, captive portal, VPN, firewall, and more. Visit http://untangle.com","Categories
+Email, Security, Networking, Logging, Internet"
+"A GNU Emacs binary distribution for users who want to use Emacs natively in 64-Bit Windows (x86_64). This project will focus on providing unmodified, up-to-date (from git master and newest release), and optimized w64 binary builds.
+
+Also available on GitHub:
+
+https://github.com/zklhp/emacs-w64/releases
+
+For details concerning the build, please see the wiki page on https://sourceforge.net/p/emacsbinw64/wiki/Build%20guideline%20for%20MSYS2-MinGW-w64%20system/. 中文版请看这里：
+http://chriszheng.science/2015/03/19/Chinese-version-of-Emacs-building-guideline/.A GNU Emacs binary distribution for users who want to use Emacs natively in 64-Bit Windows (x86_64). This project will focus on providing unmodified, up-to-date (from git master and newest release), and optimized w64 binary builds.
+
+Also available on GitHub:
+
+https://github.com/zklhp/emacs-w64/releases
+
+For details concerning the build, please see the wiki page on https://sourceforge.net/p/emacsbinw64/wiki/Build%20guideline%20for%20MSYS2-MinGW-w64%20system/. 中文版请看这里：
+http://chriszheng.science/2015/03/19/Chinese-version-of-Emacs-building-guideline/.","Categories
+Emacs, OS distribution"
+"Get Linux is a portable and open source download client, which interacts with a server side library for downloading numerous Linux-based operating systems. With the help of this utility, you can download more than 100 Linux distributions, by simply selecting their name from the available list. This makes it easy to obtain the most updated Linux OS, without having to manually search and download the ISO file via a browser.Get Linux is a portable and open source download client, which interacts with a server side library for downloading numerous Linux-based operating systems. With the help of this utility, you can download more than 100 Linux distributions, by simply selecting their name from the available list. This makes it easy to obtain the most updated Linux OS, without having to manually search and download the ISO file via a browser.","Categories
+Installation/Setup"
+"An USB programmer for various devices, including PIC, dsPIC, AVR microcontrollers, and various kinds of serial eepromsAn USB programmer for various devices, including PIC, dsPIC, AVR microcontrollers, and various kinds of serial eeproms","Categories
+Hardware, Scientific/Engineering"
+"System Stability Tester is a multi platform open source clone of SuperPI and comes with a GUI and a CLI. It can be used for CPU and RAM burning, stressing and benchmarking.System Stability Tester is a multi platform open source clone of SuperPI and comes with a GUI and a CLI. It can be used for CPU and RAM burning, stressing and benchmarking.","Categories
+Symmetric Multiprocessing (SMP), Benchmark, Mathematics"
+"Hermes provides a Swing GUI to access JMS queues and topics for common tasks such as sending messages, removing messages and copying messages between queues and topics.Hermes provides a Swing GUI to access JMS queues and topics for common tasks such as sending messages, removing messages and copying messages between queues and topics.","Categories
+Networking"
+"Open1X is an open source implementation of the IEEE 802.1X protocol. This project includes support for the supplicant, while other projects (e.g., FreeRADIUS) provide support for the authentication server.Open1X is an open source implementation of the IEEE 802.1X protocol. This project includes support for the supplicant, while other projects (e.g., FreeRADIUS) provide support for the authentication server.","Categories
+Security, Systems Administration, Networking"
+"https://github.com/a2o/snoopy
+
+Snoopy development has been migrated to github. Please follow the link ""Snoopy Logger Web Site"" below.
+
+Snoopy is designed to aid a sysadmin by providing a log of commands executed. Snoopy is completely transparent to the user and applications. It is linked into programs to provide a wrapper around calls to execve(). Logging is done via syslog.https://github.com/a2o/snoopy
+
+Snoopy development has been migrated to github. Please follow the link ""Snoopy Logger Web Site"" below.
+
+Snoopy is designed to aid a sysadmin by providing a log of commands executed. Snoopy is completely transparent to the user and applications. It is linked into programs to provide a wrapper around calls to execve(). Logging is done via syslog.","Categories
+Systems Administration"
+"Super CSV is a fast, programmer-friendly, open-source library for reading and writing CSV files with Java.
+
+PLEASE NOTE: As of January 2015 we have now moved to GitHub (https://github.com/super-csv/super-csv). This SourceForge page will remain, but with limited functionality (please go to GitHub to report issues and for project downloads).
+
+It is highly configurable, and supports reading and writing with POJOs, Maps and Lists. It also has support for deep-mapping and index-based mapping with POJOs, using the powerful Dozer extension.
+
+Its flexible 'Cell Processor' API automates data type conversions (parsing and formatting Dates, Integers, Booleans etc) and enforces constraints (mandatory columns, matching against regular expressions etc) - and it's easy to write your own if required.
+
+Super CSV is actively maintained, and the developers are ready and willing to help out if you get stuck :)
+
+Please check out the project website for examples and help getting startedSuper CSV is a fast, programmer-friendly, open-source library for reading and writing CSV files with Java.
+
+PLEASE NOTE: As of January 2015 we have now moved to GitHub (https://github.com/super-csv/super-csv). This SourceForge page will remain, but with limited functionality (please go to GitHub to report issues and for project downloads).
+
+It is highly configurable, and supports reading and writing with POJOs, Maps and Lists. It also has support for deep-mapping and index-based mapping with POJOs, using the powerful Dozer extension.
+
+Its flexible 'Cell Processor' API automates data type conversions (parsing and formatting Dates, Integers, Booleans etc) and enforces constraints (mandatory columns, matching against regular expressions etc) - and it's easy to write your own if required.
+
+Super CSV is actively maintained, and the developers are ready and willing to help out if you get stuck :)
+
+Please check out the project website for examples and help getting started","Categories
+File Managers, CSV, Libraries"
+GPL Driver for the Alcatel Speedtouch USB under *nixGPL Driver for the Alcatel Speedtouch USB under *nix,"Categories
+Hardware Drivers"
+"Opensource frimware for platforms based on some SoC (Realtek RTL8186 - Wive-NG, Realtek RTL8671B/RTL8671BH/RTL8672 - Wive-NG-DSL, Ralink RT3050/RT3052 - Wive-NG-RTNL, MT7620/MT7621 - Wive-NG-MT)
+
+For detailed discussion of commercial use please mail to info@wi-cat.ru.
+
+For more details in russian please go to https://wi-cat.ru
+Any support for end user only in https://wi-cat.ru/forums/ forum page.
+Author page: http://wive-ng.sf.net
+Commercial support support@wi-cat.ru
+
+Supported device list:
+1) Wive-NG-HQ - latest FW tree (only commercial access)
+2) Wive-NG-MT (current) - https://wi-cat.ru/wive-ng/ustroystva-postavlyaemyie-s-os-wive-ng-mt-s-zavoda-2015-2017g/
+3) Wive-NG-RTNL (EOL) - http://wive-ng.sourceforge.net/?WR-NL_RT3050%282%29:Sovmestimye_ustroystva
+4) Wive-NG-ADSL (EOL) - http://wive-ng.sourceforge.net/?W422G.v3_8671BH_%284%2F16%29Opensource frimware for platforms based on some SoC (Realtek RTL8186 - Wive-NG, Realtek RTL8671B/RTL8671BH/RTL8672 - Wive-NG-DSL, Ralink RT3050/RT3052 - Wive-NG-RTNL, MT7620/MT7621 - Wive-NG-MT)
+
+For detailed discussion of commercial use please mail to info@wi-cat.ru.
+
+For more details in russian please go to https://wi-cat.ru
+Any support for end user only in https://wi-cat.ru/forums/ forum page.
+Author page: http://wive-ng.sf.net
+Commercial support support@wi-cat.ru
+
+Supported device list:
+1) Wive-NG-HQ - latest FW tree (only commercial access)
+2) Wive-NG-MT (current) - https://wi-cat.ru/wive-ng/ustroystva-postavlyaemyie-s-os-wive-ng-mt-s-zavoda-2015-2017g/
+3) Wive-NG-RTNL (EOL) - http://wive-ng.sourceforge.net/?WR-NL_RT3050%282%29:Sovmestimye_ustroystva
+4) Wive-NG-ADSL (EOL) - http://wive-ng.sourceforge.net/?W422G.v3_8671BH_%284%2F16%29","Categories
+Ham Radio, Wireless"
+"This project serves as a collection of different free software projects that I'm working on. The major ones are currently ""HFSExplorer"", ""DMGExtractor"", and ""NTFS-3G for Mac OS X"".This project serves as a collection of different free software projects that I'm working on. The major ones are currently ""HFSExplorer"", ""DMGExtractor"", and ""NTFS-3G for Mac OS X"".","Categories
+File Systems"
+Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters. Supports clusters up to 2000 nodes in size.Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters. Supports clusters up to 2000 nodes in size.,"Categories
+Site Management, Systems Administration, Monitoring, Clustering, Distributed Computing"
+"Locate32 finds files and directories based on file and folder names stored in a database. Locate32 saves to a database the names of all files on your hard drives. Once the file indexing has occurred, you can locate files quickly by using the application's search form. It works like ""updatedb"" and ""locate"" commands in Unix. In other words, it uses databases to store information about directory structures and uses these databases in searches. The use of these databases provides very fast searching speed. The software includes a dialog-based application as well as console programs that can be used to update and access the databases. Locate32 is not primarily meant to find text or data within files, but it has a primitive feature to do this.Locate32 finds files and directories based on file and folder names stored in a database. Locate32 saves to a database the names of all files on your hard drives. Once the file indexing has occurred, you can locate files quickly by using the application's search form. It works like ""updatedb"" and ""locate"" commands in Unix. In other words, it uses databases to store information about directory structures and uses these databases in searches. The use of these databases provides very fast searching speed. The software includes a dialog-based application as well as console programs that can be used to update and access the databases. Locate32 is not primarily meant to find text or data within files, but it has a primitive feature to do this.","Categories
+Search"
+"Joone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base componentJoone is a neural net framework written in Java(tm). It's composed by a core engine, a GUI editor and a distributed training environment and can be extended by writing new modules to implement new algorithms or architectures starting from base component","Categories
+Software Development, Distributed Computing, Artificial Intelligence"
+"SystemRescue is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions.
+
+It comes with a lot of software such as disk management tools (parted, partimage, fsarchiver, filesystem tools, ...), network administration programs and simple text editors . It can be used for both Linux and windows computers, and on desktops as well as servers.
+
+This rescue system requires no installation as it can be booted from a CD/DVD drive, and USB stick, or from the network using PXE. But it can be installed on the hard disk if you wish. It comes with up to date kernels to provide support for recent hardware and also for all important file systems (ext2/ext3/ext4, xfs, btrfs, ntfs, reiserfs, vfat), as well as network filesystems (samba and nfs).SystemRescue is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions.
+
+It comes with a lot of software such as disk management tools (parted, partimage, fsarchiver, filesystem tools, ...), network administration programs and simple text editors . It can be used for both Linux and windows computers, and on desktops as well as servers.
+
+This rescue system requires no installation as it can be booted from a CD/DVD drive, and USB stick, or from the network using PXE. But it can be installed on the hard disk if you wish. It comes with up to date kernels to provide support for recent hardware and also for all important file systems (ext2/ext3/ext4, xfs, btrfs, ntfs, reiserfs, vfat), as well as network filesystems (samba and nfs).","Categories
+ROMs"
+"Darik's Boot and Nuke (""DBAN"") is a self-contained boot image that securely wipes the hard disks of most computers. DBAN is appropriate for bulk or emergency data destruction.Darik's Boot and Nuke (""DBAN"") is a self-contained boot image that securely wipes the hard disks of most computers. DBAN is appropriate for bulk or emergency data destruction.","Categories
+Security, File Systems"
+"UltraDefrag is a disk defragmenter for Windows, which supports defragmentation of locked system files by running during the boot process. It is easy to use without any complicated scripting or a huge load of configuration settings. You can filter the files processed by size, number of fragments, file name and path. You can terminate the process early by specifying an execution time limit.UltraDefrag is a disk defragmenter for Windows, which supports defragmentation of locked system files by running during the boot process. It is easy to use without any complicated scripting or a huge load of configuration settings. You can filter the files processed by size, number of fragments, file name and path. You can terminate the process early by specifying an execution time limit.","Categories
+File Managers, Systems Administration, File Systems"
+"DocFetcher is an Open Source desktop search application: It allows you to search the contents of files on your computer. — You can think of it as Google for your local files. The application runs on Windows, Linux and Mac OS X.DocFetcher is an Open Source desktop search application: It allows you to search the contents of files on your computer. — You can think of it as Google for your local files. The application runs on Windows, Linux and Mac OS X.","Categories
+File Managers, Search, Source Code Management"
+"Synkron is a simple Qt application that allows you to sync folders, for example a flash disk with a folder on your hard disk.Synkron is a simple Qt application that allows you to sync folders, for example a flash disk with a folder on your hard disk.","Categories
+File Managers"
+"ISPConfig - ISP management and Hosting Control Panel. ISPConfig manages one or more webservers, mailservers, BIND DNS server, FTP servers, MySQL databases and virtual Servers with an easy to use webinterface for administrators, resellers and clients.ISPConfig - ISP management and Hosting Control Panel. ISPConfig manages one or more webservers, mailservers, BIND DNS server, FTP servers, MySQL databases and virtual Servers with an easy to use webinterface for administrators, resellers and clients.","Categories
+Site Management, Systems Administration, Email Servers"
+"Firewall Builder is a GUI firewall management application for iptables, PF, Cisco ASA/PIX/FWSM, Cisco router ACL and more. Firewall configuration data is stored in a central file that can scale to hundreds of firewalls managed from a single UI.
+
+A message from project maintainers:
+
+After working on Firewall Builder for many years it is with some sadness that Vadim and I are announcing that we have suspended all development activity for this project. Firewall Builder has been a great project to work on and we have truly appreciated all the support and positive feedback that the user community has provided. Without you we wouldn’t have been able to keep things going this long.
+
+You might be wondering why we are doing this... We had an exciting opportunity come up to start a company developing advanced security automation solutions. This was a chance of a lifetime that we just couldn’t pass up and unfortunately it means that we no longer have time available to work on improvFirewall Builder is a GUI firewall management application for iptables, PF, Cisco ASA/PIX/FWSM, Cisco router ACL and more. Firewall configuration data is stored in a central file that can scale to hundreds of firewalls managed from a single UI.
+
+A message from project maintainers:
+
+After working on Firewall Builder for many years it is with some sadness that Vadim and I are announcing that we have suspended all development activity for this project. Firewall Builder has been a great project to work on and we have truly appreciated all the support and positive feedback that the user community has provided. Without you we wouldn’t have been able to keep things going this long.
+
+You might be wondering why we are doing this... We had an exciting opportunity come up to start a company developing advanced security automation solutions. This was a chance of a lifetime that we just couldn’t pass up and unfortunately it means that we no longer have time available to work on improv","Categories
+Firewall"
+"OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information. This program also converts external formats (BMP, GIF, PNM and TIFF) to optimized PNG, and performs PNG integrity checks and corrections.OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information. This program also converts external formats (BMP, GIF, PNM and TIFF) to optimized PNG, and performs PNG integrity checks and corrections.","Categories
+File Compression, Image Converters"
+"EJBCA is an enterprise class PKI Certificate Authority built on JEE technology. It is a robust, high performance, platform independent, flexible, and component based CA to be used standalone or integrated in other JEE applications.EJBCA is an enterprise class PKI Certificate Authority built on JEE technology. It is a robust, high performance, platform independent, flexible, and component based CA to be used standalone or integrated in other JEE applications.","Categories
+Cryptography, Authentication/Directory"
+"FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. FileZilla's dynamic tools help you move files between your local machine and your Web site's server effortlessly. For example, Filezilla lets you compare your files with in-directory server files to manage file syncing. You can also tab browse between servers and transfer files to them simultaneously, as well as edit server files on the go. And Filezilla is available in 47 languages worldwide!","Categories
+File Sharing, File Transfer Protocol (FTP), Networking, FTP Clients"
+KernelEx is an Open Source compatibility layer with an aim to allow running Windows 2000/XP-only applications on Microsoft Windows 98 and Microsoft Windows Millennium operating systems.KernelEx is an Open Source compatibility layer with an aim to allow running Windows 2000/XP-only applications on Microsoft Windows 98 and Microsoft Windows Millennium operating systems.,"Categories
+Emulators"
+"AppleJack is a user friendly troubleshooting assistant for Mac OS X. With AppleJack you can troubleshoot a computer even if you can`t load the GUI, or don`t have a startup CD handy. AppleJack runs in Single User Mode and is menu-based for ease of useAppleJack is a user friendly troubleshooting assistant for Mac OS X. With AppleJack you can troubleshoot a computer even if you can`t load the GUI, or don`t have a startup CD handy. AppleJack runs in Single User Mode and is menu-based for ease of use","Categories
+Systems Administration"
+"A very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linuxA very nice MSN compatible messenger application, aMSN Messenger is a multiplatform MSN messenger clone. Works pretty much like its Windows based counterpart. Perfect for keeping in touch with those friends who have not yet seen the light. Works on linux","Categories
+MSN Messenger, Networking, Internet, Messaging"
+"Javier Gutiérrez Chamorro (Guti) Open source projects
+Author's website: https://www.javiergutierrezchamorro.comJavier Gutiérrez Chamorro (Guti) Open source projects
+Author's website: https://www.javiergutierrezchamorro.com","Categories
+File Managers, File Compression, File Systems"
+"myFocuserPro2 is an ASCOM - INDI - LINUX telescope focuser with a large range of options.
+
+226,000+ file downloads. The most popular focuser project.
+
+(c) Copyright Robert Brown 2014-2023. All Rights Reserved.
+Code or portions of code may not be copied or used without appropriate credit given to author.
+
+myFP2E WiFi - https://sourceforge.net/projects/myfocuserpro2-esp32/ [ESP32/ESP8266]
+
+myFP2N - Nextion touch screen display - https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/myFocuserPro2N%20NEXTION%20TFT%20DISPLAY/
+
+Build a simple controller
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Build%20a%20simple%20myFP2M-100.pdf/download
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown)myFocuserPro2 is an ASCOM - INDI - LINUX telescope focuser with a large range of options.
+
+226,000+ file downloads. The most popular focuser project.
+
+(c) Copyright Robert Brown 2014-2023. All Rights Reserved.
+Code or portions of code may not be copied or used without appropriate credit given to author.
+
+myFP2E WiFi - https://sourceforge.net/projects/myfocuserpro2-esp32/ [ESP32/ESP8266]
+
+myFP2N - Nextion touch screen display - https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/myFocuserPro2N%20NEXTION%20TFT%20DISPLAY/
+
+Build a simple controller
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Build%20a%20simple%20myFP2M-100.pdf/download
+
+Spreadsheet to calculate what stepper motor to use.
+https://sourceforge.net/projects/arduinoascomfocuserpro2diy/files/Documentation/Nema-Stepper-Motors.xlsx/download
+
+CONTRIBUTIONS
+If you find this useful, please send a donation to me via PayPal to rbb1brown@gmail.com (Robert Brown)","Categories
+Hardware, Astronomy, IoT"
+"Why to pay tens of thousands $$$ for your network management software?
+
+Get visibility into your networks and complex processes inside with NG-NetMS now!
+
+NG-NetMS is a new end-to-end network management platform for your Linux servers, Cisco, Juniper, HP and Extreme routers, switches and firewalls.
+
+NG-NetMS is precise, quick and efficient. It collects most complete information about the network inventory, topology, map of IPv4 addresses quickly and with minimum hassle.
+Most important you will be able to collect, process and analyse Syslog events and SNMP alarms both in near-real-time and from the historical archives in a new way.
+
+We successfully used NG-NetMS for delivery of network assessment services for our customers worldwide for many years. And now we want to share this unique and fully functional tool with community. It is not capped in terms of performance or number of nodes. The only limit is the hardware you deploy it on.
+
+http://www.opt-net.eu/Why to pay tens of thousands $$$ for your network management software?
+
+Get visibility into your networks and complex processes inside with NG-NetMS now!
+
+NG-NetMS is a new end-to-end network management platform for your Linux servers, Cisco, Juniper, HP and Extreme routers, switches and firewalls.
+
+NG-NetMS is precise, quick and efficient. It collects most complete information about the network inventory, topology, map of IPv4 addresses quickly and with minimum hassle.
+Most important you will be able to collect, process and analyse Syslog events and SNMP alarms both in near-real-time and from the historical archives in a new way.
+
+We successfully used NG-NetMS for delivery of network assessment services for our customers worldwide for many years. And now we want to share this unique and fully functional tool with community. It is not capped in terms of performance or number of nodes. The only limit is the hardware you deploy it on.
+
+http://www.opt-net.eu/","Categories
+Monitoring, Logging"
+"Shorten your time of reading mega bytes of log files! DE 2016-01
+Supporting Don HO's NotePad++ see http://notepad-plus-plus.org/
+This sources are a dockable pattern search plugin for Notepad++ version 5.1 or later. With this plugin you can search for multiple patterns in any of the opened documents in NotePad++.
+You may want to tune your search using all fancy tricks from NPP like regular expressions or escaped patterns and give each of the searches different colors. The result will be stored in a dockable window in same ordering as in the origin and a double click allows you to jump to the original position.
+
+It is designed to treat log-files of typical size like 60MB. More features can be found in the help dialogue of the plugin. For generating the dll file I use a msdev compiler. If you like to port it to other OSs just let me know your changes and I'll incorporate it.
+Best Regards,
+Mattes H.Shorten your time of reading mega bytes of log files! DE 2016-01
+Supporting Don HO's NotePad++ see http://notepad-plus-plus.org/
+This sources are a dockable pattern search plugin for Notepad++ version 5.1 or later. With this plugin you can search for multiple patterns in any of the opened documents in NotePad++.
+You may want to tune your search using all fancy tricks from NPP like regular expressions or escaped patterns and give each of the searches different colors. The result will be stored in a dockable window in same ordering as in the origin and a double click allows you to jump to the original position.
+
+It is designed to treat log-files of typical size like 60MB. More features can be found in the help dialogue of the plugin. For generating the dll file I use a msdev compiler. If you like to port it to other OSs just let me know your changes and I'll incorporate it.
+Best Regards,
+Mattes H.","Categories
+Text Processing, Log Analysis, Logging"
+mochad is a Linux TCP gateway daemon for the X10 CM15A RF (radio frequency) and PL (power line) controller and the CM19A RF controller.mochad is a Linux TCP gateway daemon for the X10 CM15A RF (radio frequency) and PL (power line) controller and the CM19A RF controller.,"Categories
+Hardware Drivers"
+"USBDM BDM Interface for Freescale Microcontrollers
+
+USBDM consists of two components:
+
+Hardware interfaces for various target devices
+This includes interfaces ranging from very simple hardware to more complete and capable hardware.
+
+Software to support these interfaces
+This includes:
+- Plugins to work with Freescale's Codewarrior software under Windows
+- Plugins to extend the usabilty of Eclipse with USBDM and Codesourcery & ARM toolchains. This includes GDB sprites providing a complete open source development toolchain.
+- A set of stand-alone programmer applications. These support programming of RS08, HCS08, HCS12, Coldfire and Kinetis devices.
+
+Where applicable, the software is available for Windows and Linux.USBDM BDM Interface for Freescale Microcontrollers
+
+USBDM consists of two components:
+
+Hardware interfaces for various target devices
+This includes interfaces ranging from very simple hardware to more complete and capable hardware.
+
+Software to support these interfaces
+This includes:
+- Plugins to work with Freescale's Codewarrior software under Windows
+- Plugins to extend the usabilty of Eclipse with USBDM and Codesourcery & ARM toolchains. This includes GDB sprites providing a complete open source development toolchain.
+- A set of stand-alone programmer applications. These support programming of RS08, HCS08, HCS12, Coldfire and Kinetis devices.
+
+Where applicable, the software is available for Windows and Linux.","Categories
+Debuggers, Embedded Systems"
+"Based on the source code of Sun Grid Engine, we are continuing the open source development effort here on sourceforge.Based on the source code of Sun Grid Engine, we are continuing the open source development effort here on sourceforge.","Categories
+Clustering, Distributed Computing"
+"Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.Liberté Linux is a secure, lightweight, and easy to use Gentoo-based Linux distribution intended as a communication aid in hostile environments. Liberté installs on a USB key, and boots on any computer or laptop.","Categories
+Email, Security, Live CD"
+Logwatch is a customizable log analysis system. Logwatch parses through your system's logs and creates a report analyzing areas that you specify. Logwatch is easy to use and will work right out of the package on most systems.Logwatch is a customizable log analysis system. Logwatch parses through your system's logs and creates a report analyzing areas that you specify. Logwatch is easy to use and will work right out of the package on most systems.,"Categories
+Logging"
+"DAR is a command-line backup and archiving tool that uses selective compression (not compressing already compressed files), strong encryption, may split an archive in different files of given size and provides on-fly hashing, supports differential backup with or without binary delta, ftp and sftp protocols to remote cloud storage
+
+Archive internal's catalog, allows very quick restoration even a single file from a huge, eventually sliced, compressed, encrypted archive eventually located on a remote cloud storage, by only reading/fetching the necessary data to perform the operation.
+
+Dar saves *all* UNIX inode types, takes care of hard links, sparse files as well as Extended Attributes (MacOS X file forks, Linux ACL, SELinux tags, user attributes) and some Filesystem Specific Attributes (Linux ext2/3/4, Mac OS X HFS+)
+
+more details at: http://dar.linux.free.fr/doc/Features.htmlDAR is a command-line backup and archiving tool that uses selective compression (not compressing already compressed files), strong encryption, may split an archive in different files of given size and provides on-fly hashing, supports differential backup with or without binary delta, ftp and sftp protocols to remote cloud storage
+
+Archive internal's catalog, allows very quick restoration even a single file from a huge, eventually sliced, compressed, encrypted archive eventually located on a remote cloud storage, by only reading/fetching the necessary data to perform the operation.
+
+Dar saves *all* UNIX inode types, takes care of hard links, sparse files as well as Extended Attributes (MacOS X file forks, Linux ACL, SELinux tags, user attributes) and some Filesystem Specific Attributes (Linux ext2/3/4, Mac OS X HFS+)
+
+more details at: http://dar.linux.free.fr/doc/Features.html","Categories
+Cryptography, Backup, Systems Administration"
+"This is Java 2 Micro Edition (J2ME) CLDC/MIDP Emulator. Allows demonstrate MIDlet based applications in web browser applet, also can be run as standalone java application.This is Java 2 Micro Edition (J2ME) CLDC/MIDP Emulator. Allows demonstrate MIDlet based applications in web browser applet, also can be run as standalone java application.","Categories
+Software Development, Emulators"
+"Pexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpectPexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpect","Categories
+Terminals, Build Tools, Systems Administration, Installation/Setup"
+"NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.NetTime is a simple, free time synchronization client for Win32, providing a client and server for SNTP and RFC868. Its main claim to fame is that it is small, simple and unobtrusive.","Categories
+Communications, Networking, Internet"
+"This project is now deprecated. More informations :
+
+English version : https://www.lolokaiconseil.com/fully-automated-nagios-f-a-n-2/
+French version : https://www.lolokaiconseil.com/fully-automated-nagios-f-a-n/
+
+FAN is based on CentOS. All CentOS packages remain available, so that you can keep all the advantages of CentOS while having the Nagios tools already installed and configured for you.
+Tools provided by FAN : Linux, MySQL, Nagios, Nagios Plugins, NagVis, Centreon, Net-SNMP and NDOUtils...This project is now deprecated. More informations :
+
+English version : https://www.lolokaiconseil.com/fully-automated-nagios-f-a-n-2/
+French version : https://www.lolokaiconseil.com/fully-automated-nagios-f-a-n/
+
+FAN is based on CentOS. All CentOS packages remain available, so that you can keep all the advantages of CentOS while having the Nagios tools already installed and configured for you.
+Tools provided by FAN : Linux, MySQL, Nagios, Nagios Plugins, NagVis, Centreon, Net-SNMP and NDOUtils...","Categories
+Software Distribution, Monitoring"
+"Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.","Categories
+Terminals, Communications, Software Development, Networking, Internet"
+"Peers is a very simple softphone. It's a SIP User-Agent, written in java, it works on windows, linux and mac. It can be used with SIP servers like opensips or asterisk IPBX. It supports G711 codec (PCMU and PCMA) and telephone-events (DTMF).Peers is a very simple softphone. It's a SIP User-Agent, written in java, it works on windows, linux and mac. It can be used with SIP servers like opensips or asterisk IPBX. It supports G711 codec (PCMU and PCMA) and telephone-events (DTMF).","Categories
+Internet Phone, Telephony, Networking, Softphones"
+RED searches and deletes empty directories recursively below a given start folder and shows the result in a well arranged tree. Further you can create some custom rules for keeping and deleting folders. Empty files in directories can also be ignored.RED searches and deletes empty directories recursively below a given start folder and shows the result in a well arranged tree. Further you can create some custom rules for keeping and deleting folders. Empty files in directories can also be ignored.,"Categories
+File Managers, Search"
+"Self Integrated DNS DHCP Server Open Source Freeware Windows/Linux. Works as DHCP or DNS Server or both. Using both services automatically adds DHCP allotted hosts automatically to DNS Server. Support Relay Agent, PXEBOOT, BOOTP, Zone Trasfer, DHCP Range Filters. Download.Self Integrated DNS DHCP Server Open Source Freeware Windows/Linux. Works as DHCP or DNS Server or both. Using both services automatically adds DHCP allotted hosts automatically to DNS Server. Support Relay Agent, PXEBOOT, BOOTP, Zone Trasfer, DHCP Range Filters. Download.","Categories
+DNS, Networking, Init"
+"SparkyLinux is a GNU/Linux distribution created on the top of Debian GNU/Linux operating system.
+
+Sparky is fast, lightweight and fully customizable OS which offers a few versions for different users and different tasks.
+
+Sparky is in-between the distros that are beginner-friendly and those, that require some amount of Linux knowledge. Beginning Linux users are advised to consult the project forums regarding any issues or doubts.SparkyLinux is a GNU/Linux distribution created on the top of Debian GNU/Linux operating system.
+
+Sparky is fast, lightweight and fully customizable OS which offers a few versions for different users and different tasks.
+
+Sparky is in-between the distros that are beginner-friendly and those, that require some amount of Linux knowledge. Beginning Linux users are advised to consult the project forums regarding any issues or doubts.","Categories
+Live CD"
+"antiX is a fast, lightweight and easy to install linux live CD distribution based on Debian Stable for Intel-AMD x86 compatible systems.antiX is a fast, lightweight and easy to install linux live CD distribution based on Debian Stable for Intel-AMD x86 compatible systems.","Categories
+OS distribution, Live CD"
+"A java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.comA java LDAP client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features.
+
+The commercial version is available at https://jxworkbench.com for $9.95. It extends JXplorer to include:
+- custom LDAP reporting - to pdf, word etc.
+- Find and Replace with regexp and attribute substitution
+- A secure password vault to store directory connections
+- etc.
+
+Support for JXplorer and JXWorkbench is available at http://jxplorer.org.
+
+Commercial support available from sales@jxworkbench.com","Categories
+Other/Nonlisted Topic, Security, LDAP"
+"DHCP Server Open Source Freeware Windows/Linux. MultiSubnet DHCP Server supports Dynamic, Static Leases, Relay Agents, BOOTP, PXEBOOT. Global, Range and Client Specific Options. Supports filtering of ranges on Mac Address, Vendor and User Class.DHCP Server Open Source Freeware Windows/Linux. MultiSubnet DHCP Server supports Dynamic, Static Leases, Relay Agents, BOOTP, PXEBOOT. Global, Range and Client Specific Options. Supports filtering of ranges on Mac Address, Vendor and User Class.","Categories
+Init"
+"Keyboard/mouse/WinLIRC/joystick shortcuts for exe files, documents, folders, www pages and commands: shutdown, hibernate, desktop resolution, volume, process priority, eject CD, wallpaper, always on top, hide active window, kill process, paste text,Keyboard/mouse/WinLIRC/joystick shortcuts for exe files, documents, folders, www pages and commands: shutdown, hibernate, desktop resolution, volume, process priority, eject CD, wallpaper, always on top, hide active window, kill process, paste text,","Categories
+System"
+"Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/Cntlm is an NTLM / NTLMv2 authenticating HTTP/1.1 proxy. It caches auth'd connections for reuse, offers TCP/IP tunneling (port forwarding) thru parent proxy and much much more. It's in C, very fast and resource-efficient. Go to http://cntlm.sf.net/","Categories
+Security, Desktop Environment, WWW/HTTP, Networking"
+TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/,"Categories
+Terminals, Communications, Hardware Drivers"
+"Areca-Backup is a file backup software that supports incremental, image and delta backup on local drives or FTP servers. Areca-Backup also allows you to browse your backups and navigate among different version of the files contained in your archives.Areca-Backup is a file backup software that supports incremental, image and delta backup on local drives or FTP servers. Areca-Backup also allows you to browse your backups and navigate among different version of the files contained in your archives.","Categories
+File Compression, Backup, Data Recovery"
+"Rescatux is a GNU/Linux repair cd (and eventually also Windows) but it is not like other rescue disks. Rescatux comes with Rescapp. Rescapp is a nice wizard that will guide you through your rescue and repair tasks.
+
+When the wizard is not able to solve your problem you can also enjoy of Rescatux unique support features:
+
+* Chat: Open the chat for asking help directly in Rescatux channel.
+* Share log: After running an option you can share its log (the action registry that it has done) so that in the chat they can help you better. O better, even, you can help debug and fix Rescatux bugs on the fly.
+* Share log on forum: Prepares a forum post alike text so that you can just copy and paste it in your favourite forum. Logs are nicely inserted into it with [CODE] symbols.
+* Boot Info Script: Run Boot Info Script option to share your computer configuration (specially boot one).Rescatux is a GNU/Linux repair cd (and eventually also Windows) but it is not like other rescue disks. Rescatux comes with Rescapp. Rescapp is a nice wizard that will guide you through your rescue and repair tasks.
+
+When the wizard is not able to solve your problem you can also enjoy of Rescatux unique support features:
+
+* Chat: Open the chat for asking help directly in Rescatux channel.
+* Share log: After running an option you can share its log (the action registry that it has done) so that in the chat they can help you better. O better, even, you can help debug and fix Rescatux bugs on the fly.
+* Share log on forum: Prepares a forum post alike text so that you can just copy and paste it in your favourite forum. Logs are nicely inserted into it with [CODE] symbols.
+* Boot Info Script: Run Boot Info Script option to share your computer configuration (specially boot one).","Categories
+Systems Administration, Installation/Setup, Live CD"
+"EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.EchoVNC is a secure, ""firewall-friendly"" remote-desktop tool with support for VNC, Remote Desktop, and RAdmin servers and viewers. With it, a Windows PC or OSX Mac can be remotely accessed regardless of firewall, router or web-proxy configuration.","Categories
+Communications, Networking, Internet, Remote Desktop"
+"The USB/IP Project aims to develop a general USB device sharing system over IP network. To share USB devices between computers with their full functionality, USB/IP encapsulates USB I/O requests into IP packets and transmits them between computers.The USB/IP Project aims to develop a general USB device sharing system over IP network. To share USB devices between computers with their full functionality, USB/IP encapsulates USB I/O requests into IP packets and transmits them between computers.","Categories
+Data Formats, Operating System Kernels, Hardware Drivers"
+WinCDEmu source code has moved to GitHub: https://github.com/sysprogs/WinCDEmuWinCDEmu source code has moved to GitHub: https://github.com/sysprogs/WinCDEmu,"Categories
+Emulators"
+"A custom ROM built around Lineage OS 18.1, with more extended functionality in mind.A custom ROM built around Lineage OS 18.1, with more extended functionality in mind.","Categories
+ROMs"
+"To get അങ്ങനെ simply type ""angane"" this is known as malayalam transliteration you have to simply type what you need in "" manglish"" it will be automatically converted to malayalam (screenshot 4) or in the traditional way click buttons(screenshot 3)
+HariSree Malayalam Keyboard consists of keyboard based entry and transliteration based (based on Mozhi scheme) entry for typing malayalam.
+HariSree Malayalam Keyboard(later referred as HMK ) is a leading software in malayalam computing with over 200,000 customers in over 140 nations.With the success of initial release of HMK the option for transliteration scheme based entry was implemented on Varamozhi scheme considering its popularity.
+HMK is the proprietary property of HariSree Software Solutions however the source code for the same is available for download here.There are no restrictions in viewing the source code.Although it is primarily for malayalam other languages can be usTo get അങ്ങനെ simply type ""angane"" this is known as malayalam transliteration you have to simply type what you need in "" manglish"" it will be automatically converted to malayalam (screenshot 4) or in the traditional way click buttons(screenshot 3)
+HariSree Malayalam Keyboard consists of keyboard based entry and transliteration based (based on Mozhi scheme) entry for typing malayalam.
+HariSree Malayalam Keyboard(later referred as HMK ) is a leading software in malayalam computing with over 200,000 customers in over 140 nations.With the success of initial release of HMK the option for transliteration scheme based entry was implemented on Varamozhi scheme considering its popularity.
+HMK is the proprietary property of HariSree Software Solutions however the source code for the same is available for download here.There are no restrictions in viewing the source code.Although it is primarily for malayalam other languages can be us","Categories
+Software Distribution, Fonts, Languages"
+"Simple IP Config is a small ip changer utility to change common Windows network settings quickly and easily. This includes IP Address, Subnet Mask, Gateway, and DNS Server.
+
+Simple IP Config is no longer developed at SF, and has moved to GitHub. Please visit https://github.com/KurtisLiggett/Simple-IP-Config.
+
+Releases up to 2.8 can be found here. Future releases can be found at https://github.com/KurtisLiggett/Simple-IP-Config.Simple IP Config is a small ip changer utility to change common Windows network settings quickly and easily. This includes IP Address, Subnet Mask, Gateway, and DNS Server.
+
+Simple IP Config is no longer developed at SF, and has moved to GitHub. Please visit https://github.com/KurtisLiggett/Simple-IP-Config.
+
+Releases up to 2.8 can be found here. Future releases can be found at https://github.com/KurtisLiggett/Simple-IP-Config.","Categories
+Networking"
+"TinTin++ is a console mud client for any type of text mud or bbs. The mud client's main assets are an easy to learn scripting language, triggers, automapping, and a split screen interface to separate mud output from client input.
+
+Installation instructions for Android, iOS, and several other operating systems are available on the website.
+
+https://tintin.mudhalla.netTinTin++ is a console mud client for any type of text mud or bbs. The mud client's main assets are an easy to learn scripting language, triggers, automapping, and a split screen interface to separate mud output from client input.
+
+Installation instructions for Android, iOS, and several other operating systems are available on the website.
+
+https://tintin.mudhalla.net","Categories
+Telnet, Multi-User Dungeons (MUD), System Shells"
+Cobian Backup is a backup program that can be executed in 2 ways: as a normal application or as a Windows Service. The program can schedule automatic backups for files and directories locally or to FTP servers and can use compression and encryption.Cobian Backup is a backup program that can be executed in 2 ways: as a normal application or as a Windows Service. The program can schedule automatic backups for files and directories locally or to FTP servers and can use compression and encryption.,"Categories
+Backup"
+"Netdisco is an SNMP-based L2/L3 network management tool designed for moderate to large networks. Routers and switches are polled to log IP and MAC addresses and map them to switch ports. Automatic L2 network topology discovery, display, and inventory.Netdisco is an SNMP-based L2/L3 network management tool designed for moderate to large networks. Routers and switches are polled to log IP and MAC addresses and map them to switch ports. Automatic L2 network topology discovery, display, and inventory.","Categories
+Security, Systems Administration, Monitoring"
+"*** This project moved to Github ***
+https://github.com/phaag/nfdump
+
+However, you may want to download older versions from here.
+
+nfdump is a set of tools to collect and process netflow data. It's fast and has a powerful filter pcap like syntax. It supports netflow versions v1, v5, v7, v9 and IPFIX as well as a limited set of sflow. It includes support for CISCO ASA (NSEL) and CISCO NAT (NEL) devices, which export event logging records as v9 flows.
+nfdump is fully IPv6 compatible.*** This project moved to Github ***
+https://github.com/phaag/nfdump
+
+However, you may want to download older versions from here.
+
+nfdump is a set of tools to collect and process netflow data. It's fast and has a powerful filter pcap like syntax. It supports netflow versions v1, v5, v7, v9 and IPFIX as well as a limited set of sflow. It includes support for CISCO ASA (NSEL) and CISCO NAT (NEL) devices, which export event logging records as v9 flows.
+nfdump is fully IPv6 compatible.","Categories
+Monitoring"
+"Nuttx is a real time embedded operating system (RTOS). Its goals are: (1) small footprint usable in deeply embedded, resource constrained environments, (2) fully scalable from tiny (8-bit) to moderate (32-bit), (3) standards compliance, (4) real time, and (5) totally open. Think ""Tiny Linux"".
+
+NuttX is now and Apache project in incubation. See https://nuttx.apache.org/download/ for the latest downloads.Nuttx is a real time embedded operating system (RTOS). Its goals are: (1) small footprint usable in deeply embedded, resource constrained environments, (2) fully scalable from tiny (8-bit) to moderate (32-bit), (3) standards compliance, (4) real time, and (5) totally open. Think ""Tiny Linux"".
+
+NuttX is now and Apache project in incubation. See https://nuttx.apache.org/download/ for the latest downloads.","Categories
+Operating System Kernels"
+"Remote Desktop Client for the GNOME Desktop. Supported protocols: RDP, VNC, SSH. Configured sessions can be saved to the built in list. Additional programs required: rdesktop, tightvnc, ssh, gnome-terminal. Application can be run with Mono runtime.Remote Desktop Client for the GNOME Desktop. Supported protocols: RDP, VNC, SSH. Configured sessions can be saved to the built in list. Additional programs required: rdesktop, tightvnc, ssh, gnome-terminal. Application can be run with Mono runtime.","Categories
+Terminals, System Shells, Systems Administration, Remote Desktop"
+NSClient++ is a windows service that allows performance metrics to be gathered by Nagios (and possibly other monitoring tools). It is an attempt to create a NSClient and NRPE compatible but yet extendable performance service for windows.NSClient++ is a windows service that allows performance metrics to be gathered by Nagios (and possibly other monitoring tools). It is an attempt to create a NSClient and NRPE compatible but yet extendable performance service for windows.,"Categories
+Systems Administration, Monitoring, Logging"
+"FileBot is the ultimate tool for renaming your movies, tv shows or anime and downloading subtitles. It's smart, streamlined for simplicity and just works. FileBot supports Windows, Linux and Mac, plus there's a full-featured command-line interface for all sorts of automation.FileBot is the ultimate tool for renaming your movies, tv shows or anime and downloading subtitles. It's smart, streamlined for simplicity and just works. FileBot supports Windows, Linux and Mac, plus there's a full-featured command-line interface for all sorts of automation.","Categories
+File Sharing, File Managers, Cataloguing"
+"The professional way to manage your WiFi network using FreeRADIUS
+RADIUSdesk offers:
+
+* A Modern dashboard that is easy to navigate
+* Easy to use API that makes third party integration a snap
+* Login pages applet for central hotspot login page management.
+* Support Social Login (Facebook etc) integration for CoovaChilli and Mikrotik.
+* A device manager which makes BYOD a pleasure for any enterprise.
+* Fine grained rights management.
+* Extensive usage graphs for fine grained trend analysis and capacity planning.
+* i18n. Easy translations. Also supporting rtl languages.
+
+* Advanced debug trace applet to allow real-time debug traces on FreeRADIUS by using Websocket.
+
+* MESHdesk applet that helps to set-up, manage and monitor Batman-adv mesh networksThe professional way to manage your WiFi network using FreeRADIUS
+RADIUSdesk offers:
+
+* A Modern dashboard that is easy to navigate
+* Easy to use API that makes third party integration a snap
+* Login pages applet for central hotspot login page management.
+* Support Social Login (Facebook etc) integration for CoovaChilli and Mikrotik.
+* A device manager which makes BYOD a pleasure for any enterprise.
+* Fine grained rights management.
+* Extensive usage graphs for fine grained trend analysis and capacity planning.
+* i18n. Easy translations. Also supporting rtl languages.
+
+* Advanced debug trace applet to allow real-time debug traces on FreeRADIUS by using Websocket.
+
+* MESHdesk applet that helps to set-up, manage and monitor Batman-adv mesh networks","Categories
+Systems Administration, Wireless, Router"
+This project consist in a portable image of Ubuntu that could run in Windows as a native win32 application. You could execute Linux applications and integrate it in your Windows desktop. This system can be bringing in any removable device such as pendrivThis project consist in a portable image of Ubuntu that could run in Windows as a native win32 application. You could execute Linux applications and integrate it in your Windows desktop. This system can be bringing in any removable device such as pendriv,"Categories
+Emulators, Operating System Kernels"
+"Cybera is an Internet cafe administration system. It works with prepaid cards or client accounts or in a post paid Self Service mode. Features include workstation control, user rights lockdown, accounting, stats and screen replication for CAI.Cybera is an Internet cafe administration system. It works with prepaid cards or client accounts or in a post paid Self Service mode. Features include workstation control, user rights lockdown, accounting, stats and screen replication for CAI.","Categories
+Other/Nonlisted Topic, Point of Sale (POS), Systems Administration, Computer Aided Instruction (CAI)"
+"AutoAP is a script that continuously scans for open Wi-Fi connections, tests them for validity, and connects to the strongest signal. If the connection is lost, the script scans again and finds the strongest valid signal again, and maintains a continuous connection to the internet in a mobile or portable environment. The script paremeters are highly configurable, including ability to configure secure connections.
+
+AutoAP is an add on to DD-WRT that allows routers to continuously scan for and connect to open (and predefined WEP) wireless networks. Ultimately the goal is to develop an easily deployable firmware that facilitates fast and easy mesh network creation.
+
+Typically, you would use this script on your router while in Repeater Mode, Client Mode, or Client-Bridged Mode.AutoAP is a script that continuously scans for open Wi-Fi connections, tests them for validity, and connects to the strongest signal. If the connection is lost, the script scans again and finds the strongest valid signal again, and maintains a continuous connection to the internet in a mobile or portable environment. The script paremeters are highly configurable, including ability to configure secure connections.
+
+AutoAP is an add on to DD-WRT that allows routers to continuously scan for and connect to open (and predefined WEP) wireless networks. Ultimately the goal is to develop an easily deployable firmware that facilitates fast and easy mesh network creation.
+
+Typically, you would use this script on your router while in Repeater Mode, Client Mode, or Client-Bridged Mode.","Categories
+Wireless"
+"MultiThreaded TFTP Server Open Source Freeware Windows/Unix for PXEBOOT, firmware load, support tsize, blksize, timeout Server Port Ranges, Block Number Rollover for Large Files. Runs as Service/daemon. Single Port version also available. DownloadMultiThreaded TFTP Server Open Source Freeware Windows/Unix for PXEBOOT, firmware load, support tsize, blksize, timeout Server Port Ranges, Block Number Rollover for Large Files. Runs as Service/daemon. Single Port version also available. Download","Categories
+File Transfer Protocol (FTP), Networking, Boot"
+"pdfcrack is a command line, password recovery tool for PDF-files.pdfcrack is a command line, password recovery tool for PDF-files.","Categories
+Cryptography, Benchmark, PDF, Password Recovery"
+"Contiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.xContiki is an open source, highly portable, networked, multi-tasking operating system for memory-constrained systems.
+
+Contiki current source code: https://github.com/contiki-os/contiki
+
+Contiki historical source code: https://github.com/adamdunkels/contiki-1.x","Categories
+Desktop Environment, Browsers, HTTP Servers, Networking, Operating System Kernels"
+"Remmina has moved away from SourceForge in favor of GitLab and it's own domain.
+
+Thanks a lot for your understanding and we look forward to seeing very
+soon on:
+
+http://www.remmina.org/
+https://gitlab.com/Remmina/RemminaRemmina has moved away from SourceForge in favor of GitLab and it's own domain.
+
+Thanks a lot for your understanding and we look forward to seeing very
+soon on:
+
+http://www.remmina.org/
+https://gitlab.com/Remmina/Remmina","Categories
+GNOME, Systems Administration, Networking, Remote Desktop"
+"TightVNC is an improved version of VNC, great free remote-desktop tool. The improvements include bandwidth-friendly ""Tight"" encoding, file transfers in the Windows version, enhanced GUI, many bugfixes, and more.TightVNC is an improved version of VNC, great free remote-desktop tool. The improvements include bandwidth-friendly ""Tight"" encoding, file transfers in the Windows version, enhanced GUI, many bugfixes, and more.","Categories
+Systems Administration, Remote Desktop"
+Cooperative Linux is the first method for optimally running Linux on Windows and other operating systems natively. It is a port of the Linux kernel and support code that allows it to run cooperatively without emulation along with another operating system.Cooperative Linux is the first method for optimally running Linux on Windows and other operating systems natively. It is a port of the Linux kernel and support code that allows it to run cooperatively without emulation along with another operating system.,"Categories
+Operating System Kernels"
+"IsoCreator (could also be called Folder-to-ISO or Directory-to-ISO) C#.NET 2.0 application which creates ISO 9660 Joliet CD images from a given folder or volume. Can also create ISO with virtual files, given a tree representing a directory structure.IsoCreator (could also be called Folder-to-ISO or Directory-to-ISO) C#.NET 2.0 application which creates ISO 9660 Joliet CD images from a given folder or volume. Can also create ISO with virtual files, given a tree representing a directory structure.","Categories
+File Managers, Application Packaging"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+Apache License V2.0","Categories
+Data Formats, Storage"
+"Ventoy is an open source tool that lets you create a bootable USB drive for ISO files. Now there’s no need to format the disk again and again or to extract anything-- with Ventoy simply copy the ISO file to the USB drive and boot it. You can copy several ISO files at a time, and Ventoy will offer a boot menu where you can select them. It’s incredibly easy to use, with Legacy BIOS and UEFI being supported in the same way. There are over 260 ISO files tested, and a “Ventoy Compatible” concept has been introduced to help support any ISO file.Ventoy is an open source tool that lets you create a bootable USB drive for ISO files. Now there’s no need to format the disk again and again or to extract anything-- with Ventoy simply copy the ISO file to the USB drive and boot it. You can copy several ISO files at a time, and Ventoy will offer a boot menu where you can select them. It’s incredibly easy to use, with Legacy BIOS and UEFI being supported in the same way. There are over 260 ISO files tested, and a “Ventoy Compatible” concept has been introduced to help support any ISO file.","Categories
+Boot"
+"Automated network based hard disk drives / storage devices erasure is server based software which installs on a central server. Server is connected to network switches and several PXE boot enabled workstations are attached to the network. As soon as the workstation is powered on, it boots off the network via the server and begins wiping all the attached hard disk drives. Once all the hard drives are wiped, data related to each hard disk is stored in the central server’s database. Read WIKI
+
+Automated unattended network based data
+erasure wiping
+Comprehensive Reporting
+Web GUI reporting
+Generates certificate of data erasure
+Barcodes Labels
+Graphs Pie / Bar / Line Charts
+Hard Disks bad sectors & health reporting
+Hard Disk SMART Data collection
+Database Driven Distributed System
+Hard Disk Drives health reports
+Part Open Source
+* Friendly GUI Graphical User Interface
+Mass Hard Disk Drive Destruction Data Wiping
+HDD Data Eraser
+Storage Array Data WipeAutomated network based hard disk drives / storage devices erasure is server based software which installs on a central server. Server is connected to network switches and several PXE boot enabled workstations are attached to the network. As soon as the workstation is powered on, it boots off the network via the server and begins wiping all the attached hard disk drives. Once all the hard drives are wiped, data related to each hard disk is stored in the central server’s database. Read WIKI
+
+Automated unattended network based data
+erasure wiping
+Comprehensive Reporting
+Web GUI reporting
+Generates certificate of data erasure
+Barcodes Labels
+Graphs Pie / Bar / Line Charts
+Hard Disks bad sectors & health reporting
+Hard Disk SMART Data collection
+Database Driven Distributed System
+Hard Disk Drives health reports
+Part Open Source
+* Friendly GUI Graphical User Interface
+Mass Hard Disk Drive Destruction Data Wiping
+HDD Data Eraser
+Storage Array Data Wipe","Categories
+Security, Networking, Logging"
+"The eznixOS is a respin of Debian GNU/Linux, currently based on the Debian Stable release. The Debian live-build tool is used to build the ISO and the complete build files are located in /usr/share/eznixOS116X1 and /usr/share/eznixOS116K2 for the Xfce and Plasma builds.
+
+The current releases are eznixOS116X1-amd64.iso and eznixOS116K2-amd64.iso. The numbering scheme is 116 that corresponds to Debian release 11.6 and the X1 for Xfce and K2 for Plasma. Complete build docs and configuration files are in the eznix116X1-20221218.tar and eznix116K2-20221218.tar files.
+
+Live System :
+username: user
+password: live
+
+OSDN:
+https://osdn.net/projects/eznix-os/The eznixOS is a respin of Debian GNU/Linux, currently based on the Debian Stable release. The Debian live-build tool is used to build the ISO and the complete build files are located in /usr/share/eznixOS116X1 and /usr/share/eznixOS116K2 for the Xfce and Plasma builds.
+
+The current releases are eznixOS116X1-amd64.iso and eznixOS116K2-amd64.iso. The numbering scheme is 116 that corresponds to Debian release 11.6 and the X1 for Xfce and K2 for Plasma. Complete build docs and configuration files are in the eznix116X1-20221218.tar and eznix116K2-20221218.tar files.
+
+Live System :
+username: user
+password: live
+
+OSDN:
+https://osdn.net/projects/eznix-os/","Categories
+OS distribution, Live CD"
+"An Open Source OS, based on Android, that incorporates many customization options and added security features.
+One of our main focuses is to provide a quality ROM/OS that can run on all your devices, preserving customizations and options by syncing across all platforms. We try to include all the features you can imagine, for just about any situation.
+Bliss comes in a few variants. On top of our traditional device builds of Bliss ROM, our GSI/Treble builds will work on most treble compatible devices (Android Pie+)An Open Source OS, based on Android, that incorporates many customization options and added security features.
+One of our main focuses is to provide a quality ROM/OS that can run on all your devices, preserving customizations and options by syncing across all platforms. We try to include all the features you can imagine, for just about any situation.
+Bliss comes in a few variants. On top of our traditional device builds of Bliss ROM, our GSI/Treble builds will work on most treble compatible devices (Android Pie+)","Categories
+ROMs"
+"EPIC ROM IS A CUSTOM ROM BASED ON MIUI, BUT WITH SOME MODS AND IMPROVEMENTS THAT YOU CAN SEE BY CLICKING ON THE RESPECTIVE DEVICE'S BUTTON. THE FOCUS OF THIS ROM IS TO IMPROVE MIUI OFFICIAL STOCK EXPERIENCE ON DEVICES BY IMPLEMENTING MANY MODSEPIC ROM IS A CUSTOM ROM BASED ON MIUI, BUT WITH SOME MODS AND IMPROVEMENTS THAT YOU CAN SEE BY CLICKING ON THE RESPECTIVE DEVICE'S BUTTON. THE FOCUS OF THIS ROM IS TO IMPROVE MIUI OFFICIAL STOCK EXPERIENCE ON DEVICES BY IMPLEMENTING MANY MODS","Categories
+ROMs"
+"Denise is a cycle accurate and platform independant c64 / amiga (not yet) emulator.
+My motivation for this project is understanding how it works and write clean and easy readable code.
+New in Denise are fast loaders such as ProfDOS, PrologicDOS, DolphinDOS, ProSpeed 1571, Turbo Trans and 1571 floppy emulation.
+
+Denise supports REU, GeoRam, EasyFlash, EasyFlash³, Gmod2, Retro Replay, Action Replay, Final Cartridge, Light Guns/Pens, GunStick, Mouse 1351, Mouse Neos, Paddles.
+I have added runAhead, PAL and CRT emulation, FreeSync/G-Sync support, drag'n'drop and command line support.
+
+Denise consists of 4 main modules.
+""guikit"", ""driver"", ""emulation"" could be used in any other project. ""program"" links these modules together.
+
+GIT repo: https://bitbucket.org/piciji/denise/src/master/Denise is a cycle accurate and platform independant c64 / amiga (not yet) emulator.
+My motivation for this project is understanding how it works and write clean and easy readable code.
+New in Denise are fast loaders such as ProfDOS, PrologicDOS, DolphinDOS, ProSpeed 1571, Turbo Trans and 1571 floppy emulation.
+
+Denise supports REU, GeoRam, EasyFlash, EasyFlash³, Gmod2, Retro Replay, Action Replay, Final Cartridge, Light Guns/Pens, GunStick, Mouse 1351, Mouse Neos, Paddles.
+I have added runAhead, PAL and CRT emulation, FreeSync/G-Sync support, drag'n'drop and command line support.
+
+Denise consists of 4 main modules.
+""guikit"", ""driver"", ""emulation"" could be used in any other project. ""program"" links these modules together.
+
+GIT repo: https://bitbucket.org/piciji/denise/src/master/","Categories
+Games/Entertainment, Emulators"
+"The script installs dependencies and configure the OS automatically for you in order to obtain the best Remote Desktop Gateway!
+
+This Install Script works in a clean CentOS 6/7 installation and install Guacamole 0.9.13-incubating version for a local users authentication.
+
+Task of this script:
+Install Packages Dependencies
+Download Guacamole and MySQL Connector packages
+Install Guacamole Server
+Install Guacamole Client
+Install MySQL Connector
+Configure MariaDB or MySQL
+Setting Tomcat Server
+Generates a Java KeyStore for SSL Support
+Install and Setting Nginx Proxy (SPDY enabled)
+Generates a Self-Signed Certificate for SSL Support
+Configure SELinux for Nginx Proxy
+Configure FirewallD or iptables
+
+If you have any comments or suggestions please send an email to correo@nacimientohernan.com.ar
+
+You can find the Guacamole Project on guacamole.incubator.apache.orgThe script installs dependencies and configure the OS automatically for you in order to obtain the best Remote Desktop Gateway!
+
+This Install Script works in a clean CentOS 6/7 installation and install Guacamole 0.9.13-incubating version for a local users authentication.
+
+Task of this script:
+Install Packages Dependencies
+Download Guacamole and MySQL Connector packages
+Install Guacamole Server
+Install Guacamole Client
+Install MySQL Connector
+Configure MariaDB or MySQL
+Setting Tomcat Server
+Generates a Java KeyStore for SSL Support
+Install and Setting Nginx Proxy (SPDY enabled)
+Generates a Self-Signed Certificate for SSL Support
+Configure SELinux for Nginx Proxy
+Configure FirewallD or iptables
+
+If you have any comments or suggestions please send an email to correo@nacimientohernan.com.ar
+
+You can find the Guacamole Project on guacamole.incubator.apache.org","Categories
+Remote Desktop"
+Find recursively corrupted or password protected PDF files.Find recursively corrupted or password protected PDF files.,"Categories
+File Managers"
+"*** This repository has been migrated here: https://gitlab.com/dps8m/dps8m ***
+
+""Multics rulez, UNIX droolz""
+
+Multics lives.... we did it!
+
+If you are interested in running your own Multics system see the wiki here: https://multics-wiki.swenson.org/index.php.
+
+If you are interested the DPS8M emulator, read on.
+
+!!!! Please read disclaimers in our Wiki, Files or GIT sections before downloading anything from this project
+
+FLASH! * FLASH! * FLASH! * FLASH! * FLASH!
+Please see wiki for latest news!
+
+2015-11-05: The Ritter Park RCC Multics installation was ""[T]aken down after a month of uptime.""
+
+2017-03-07: The DPS8M Development Team released Multics Release MR12.6f.
+
+2017-07-08: Announcing v1.0
+
+The purpose of this project is to create a simulator reproducing in sufficient detail the function and capabilities of the Honeywell/Bull dps-8/m processor with the ultimate goal of resurrecting Multi*** This repository has been migrated here: https://gitlab.com/dps8m/dps8m ***
+
+""Multics rulez, UNIX droolz""
+
+Multics lives.... we did it!
+
+If you are interested in running your own Multics system see the wiki here: https://multics-wiki.swenson.org/index.php.
+
+If you are interested the DPS8M emulator, read on.
+
+!!!! Please read disclaimers in our Wiki, Files or GIT sections before downloading anything from this project
+
+FLASH! * FLASH! * FLASH! * FLASH! * FLASH!
+Please see wiki for latest news!
+
+2015-11-05: The Ritter Park RCC Multics installation was ""[T]aken down after a month of uptime.""
+
+2017-03-07: The DPS8M Development Team released Multics Release MR12.6f.
+
+2017-07-08: Announcing v1.0
+
+The purpose of this project is to create a simulator reproducing in sufficient detail the function and capabilities of the Honeywell/Bull dps-8/m processor with the ultimate goal of resurrecting Multi","Categories
+Emulators"
+"Phoebetria lets you take control of your BitFenix Recon fan controller on more operating systems than the official software. It offers all of the same features as the official software, with the exception of remote access, and has been tested on Windows, Linux, and OS X.
+
+The current plan is that future releases will add functionality and control that the official software does not provide -- giving you even more control over your fans.Phoebetria lets you take control of your BitFenix Recon fan controller on more operating systems than the official software. It offers all of the same features as the official software, with the exception of remote access, and has been tested on Windows, Linux, and OS X.
+
+The current plan is that future releases will add functionality and control that the official software does not provide -- giving you even more control over your fans.","Categories
+Hardware, Hardware Drivers"
+"- English (Thanks Steve for translation this text)
+Create your MultiBoot LiveUSB simply with MultiSystem.
+Just Drag & Drop your .iso on a window and that's it!
+MultiSystem enables a LiveUSB to do everything,
+ideal for exploring different Linux distributions without installing them on your PC, easily !
+
+- Français
+Avec MultiSystem Créez votre LiveUSB MultiBoot simplement.
+Vous avez juste à Glisser/Déposer vos fichiers .iso sur une fenêtre et c'est tout !
+MultiSystem permet de réaliser un LiveUSB à tout faire,
+idéal pour découvrir différentes distributions linux sans les installer sur votre PC, et ce de manière fluide.- English (Thanks Steve for translation this text)
+Create your MultiBoot LiveUSB simply with MultiSystem.
+Just Drag & Drop your .iso on a window and that's it!
+MultiSystem enables a LiveUSB to do everything,
+ideal for exploring different Linux distributions without installing them on your PC, easily !
+
+- Français
+Avec MultiSystem Créez votre LiveUSB MultiBoot simplement.
+Vous avez juste à Glisser/Déposer vos fichiers .iso sur une fenêtre et c'est tout !
+MultiSystem permet de réaliser un LiveUSB à tout faire,
+idéal pour découvrir différentes distributions linux sans les installer sur votre PC, et ce de manière fluide.","Categories
+Software Distribution, Live CD"
+Debugger for Bash version 3(Bourne again shell). Plugin for Eclipse. Will only work with shell script editor ShellEd.Debugger for Bash version 3(Bourne again shell). Plugin for Eclipse. Will only work with shell script editor ShellEd.,"Categories
+Debuggers, System Shells"

@@ -1,0 +1,487 @@
+Description,Category
+"OBSOLETE AS OF OMEGAT 3.0.3. DO NOT USE.
+
+Third-party plugins for OmegaT (https://sourceforge.net/projects/omegat)OBSOLETE AS OF OMEGAT 3.0.3. DO NOT USE.
+
+Third-party plugins for OmegaT (https://sourceforge.net/projects/omegat)","Categories
+Text Processing, Localization (L10N), Computer Aided Translation (CAT)"
+"Qore is a scripting language supporting threading and embedded logic, designed for applying a flexible scripting-based approach to enterprise interface development but is also useful as a general purpose language.
+
+No more development or releases happen on sourceforge; development has moved to https://github.com/qorelanguage/qoreQore is a scripting language supporting threading and embedded logic, designed for applying a flexible scripting-based approach to enterprise interface development but is also useful as a general purpose language.
+
+No more development or releases happen on sourceforge; development has moved to https://github.com/qorelanguage/qore","Categories
+Interpreters"
+"Our objective: to provide a unit testing framework for PL/SQL developers modeled on the Junit and Xunit frameworks. Based on the Extreme Programming methodology, utPLSQL makes it easy for developers to set up and execute unit tests of packages.
+
+Active development of this project is now on GitHubOur objective: to provide a unit testing framework for PL/SQL developers modeled on the Junit and Xunit frameworks. Based on the Extreme Programming methodology, utPLSQL makes it easy for developers to set up and execute unit tests of packages.
+
+Active development of this project is now on GitHub","Categories
+Database Engines/Servers, Software Development, Unit Testing"
+"Platform-independent PostgreSQL diff tool that is useful for schema upgrades. The tool compares two schema dump files and creates output file that can be used for upgrade of old schema.
+
+Project sources and issue tracker has been moved to https://github.com/fordfrog/apgdiff.Platform-independent PostgreSQL diff tool that is useful for schema upgrades. The tool compares two schema dump files and creates output file that can be used for upgrade of old schema.
+
+Project sources and issue tracker has been moved to https://github.com/fordfrog/apgdiff.","Categories
+Database, Code Generators, Diff Tools"
+"The Python programming language, an object-oriented scripting and rapid application development language. You can download it from http://www.python.org/downloadThe Python programming language, an object-oriented scripting and rapid application development language. You can download it from http://www.python.org/download","Categories
+Interpreters"
+"NOTE: This project page is dead. Please visit the new home for the project here: https://github.com/rjpcomputing/wxpack/wiki
+
+A complete wxWidgets Developement Kit. Includes: wxWidgets source/binaries, wxFormBuilder (RAD Tool), and various contributed widgets.NOTE: This project page is dead. Please visit the new home for the project here: https://github.com/rjpcomputing/wxpack/wiki
+
+A complete wxWidgets Developement Kit. Includes: wxWidgets source/binaries, wxFormBuilder (RAD Tool), and various contributed widgets.","Categories
+Build Tools, Frameworks"
+The Java Embedding Plugin allows other web browsers than Apple's Safari to use the most recent versions of Java (1.4.X and above) on Mac OS X.The Java Embedding Plugin allows other web browsers than Apple's Safari to use the most recent versions of Java (1.4.X and above) on Mac OS X.,"Categories
+Browsers, Software Development, System"
+"JavaScript Lint is a development tool that validates JavaScript code for best coding practices, finding common mistakes without actually running the script or opening the web page.JavaScript Lint is a development tool that validates JavaScript code for best coding practices, finding common mistakes without actually running the script or opening the web page.","Categories
+Build Tools"
+"Open-source tool to access Amazon S3 file storage. S3cmd is a free command line tool and client for uploading, retrieving and managing data in Amazon S3 and other cloud storage service providers that use the S3 protocol, such as Google Cloud Storage. Lots of features and options have been added to s3cmd since its very first release in 2008.... we recently counted more than 60 command line options, including multipart uploads, encryption, incremental backup, s3 sync, ACL and Metadata management, S3 bucket size, bucket policies, and more!Open-source tool to access Amazon S3 file storage. S3cmd is a free command line tool and client for uploading, retrieving and managing data in Amazon S3 and other cloud storage service providers that use the S3 protocol, such as Google Cloud Storage. Lots of features and options have been added to s3cmd since its very first release in 2008.... we recently counted more than 60 command line options, including multipart uploads, encryption, incremental backup, s3 sync, ACL and Metadata management, S3 bucket size, bucket policies, and more!","Categories
+Networking, File Systems, Command Line Tools"
+The freeWrap program turns TCL/TK scripts into single-file binary executable programs. freeWrap can wrap TCL/TK applications that consist of multiple script and binary files. freeWrap combines all the files together into a single executable file.The freeWrap program turns TCL/TK scripts into single-file binary executable programs. freeWrap can wrap TCL/TK applications that consist of multiple script and binary files. freeWrap combines all the files together into a single executable file.,"Categories
+Build Tools, Compilers, Interpreters"
+"Jar Explorer is a simple, easy-to-use application to browse the contents of jar files. It also includes a class decompiler.Jar Explorer is a simple, easy-to-use application to browse the contents of jar files. It also includes a class decompiler.","Categories
+Software Development"
+"This is analog for NCover application, but have some advantages
+
+The project is not in work actually, so you may try the following projects instead:
+
+https://github.com/sawilde/partcover.net4 - original fork
+
+https://github.com/sawilde/opencover - another cover from blessed man who was able to keep PartCover live.
+
+Regarding license: all sources (here at SF) are open. You are free to copy/modify/distribute without any confirm from my side. I cannot garantee the same for files in other locations.
+
+Best regards!This is analog for NCover application, but have some advantages
+
+The project is not in work actually, so you may try the following projects instead:
+
+https://github.com/sawilde/partcover.net4 - original fork
+
+https://github.com/sawilde/opencover - another cover from blessed man who was able to keep PartCover live.
+
+Regarding license: all sources (here at SF) are open. You are free to copy/modify/distribute without any confirm from my side. I cannot garantee the same for files in other locations.
+
+Best regards!","Categories
+Profiling"
+"Software tools for building interactive information visualization applications. Prefuse supports a rich set of features for data modeling, visualization, animation, and interaction for both Java (prefuse) and Flash (prefuse flare).Software tools for building interactive information visualization applications. Prefuse supports a rich set of features for data modeling, visualization, animation, and interaction for both Java (prefuse) and Flash (prefuse flare).","Categories
+User Interface (UI), Data Visualization, HMI"
+GDBI is a genealogy program integrator. It includes an editor and the lifelines report language. It interfaces to multiple GEDCOM databases and is most popular as a PhpGedView client. At the core is a Java API to simplify adding databases and editors.GDBI is a genealogy program integrator. It includes an editor and the lifelines report language. It interfaces to multiple GEDCOM databases and is most popular as a PhpGedView client. At the core is a Java API to simplify adding databases and editors.,"Categories
+Database, Software Development, Genealogy"
+"NOTE: THIS PROJECT IS UNMAINTAINED
+
+The canonical repository for this project is now hosted on Github (https://github.com/proxool/proxool) but even that hasn't been updated since 2011.
+
+A Java SQL Driver that provides a connection pool wrapper around another Driver of your choice. Very simple to migrate existing code. Fully configurable. Fast, mature and robust. Transparently adds connection pooling to your existing JDBC driver.NOTE: THIS PROJECT IS UNMAINTAINED
+
+The canonical repository for this project is now hosted on Github (https://github.com/proxool/proxool) but even that hasn't been updated since 2011.
+
+A Java SQL Driver that provides a connection pool wrapper around another Driver of your choice. Very simple to migrate existing code. Fully configurable. Fast, mature and robust. Transparently adds connection pooling to your existing JDBC driver.","Categories
+Database, Software Development"
+"Meld is a gnome2 diff and merge tool with pluggable support for version control systems such as cvs, subversion, bzr, darcs, mercurial, monotone, tla.Meld is a gnome2 diff and merge tool with pluggable support for version control systems such as cvs, subversion, bzr, darcs, mercurial, monotone, tla.","Categories
+GNOME, Version Control"
+"PHPLIB is an object-oriented application development toolkit for PHP. It is primarily of benefit to Web application developers, but contains classes which are useful to other PHP developers as well.PHPLIB is an object-oriented application development toolkit for PHP. It is primarily of benefit to Web application developers, but contains classes which are useful to other PHP developers as well.","Categories
+Dynamic Content, Software Development"
+XML-RPC for Delphi is a library used on the server or client side of an XML-RPC communication. It is designed to compile under Delphi for Windows and Kylix for GNU/Linux. XML-RPC for Delphi requires the Open Source Indy components be installed.XML-RPC for Delphi is a library used on the server or client side of an XML-RPC communication. It is designed to compile under Delphi for Windows and Kylix for GNU/Linux. XML-RPC for Delphi requires the Open Source Indy components be installed.,"Categories
+Object Brokering"
+"A framework for learning from a continuous supply of examples, a data stream. Includes classification, regression, clustering, outlier detection and recommender systems. Related to the WEKA project, also written in Java, while scaling to adaptive large scale machine learning.A framework for learning from a continuous supply of examples, a data stream. Includes classification, regression, clustering, outlier detection and recommender systems. Related to the WEKA project, also written in Java, while scaling to adaptive large scale machine learning.","Categories
+Algorithms, Artificial Intelligence"
+"Enable Java programs to detect MIME types based on file extensions, magic data and content sniffing. Supports detection from java.io.File, java.io.InputStream, java.net.URL and byte arrays. See the project website www.eoss.org.nz/mime-util for detailEnable Java programs to detect MIME types based on file extensions, magic data and content sniffing. Supports detection from java.io.File, java.io.InputStream, java.net.URL and byte arrays. See the project website www.eoss.org.nz/mime-util for detail","Categories
+Software Development"
+"Imaging is native Object Pascal (Delphi and FPC) image loading, saving and manipulation library. It is available for several platforms and does not require any third party dynamic libraries.Imaging is native Object Pascal (Delphi and FPC) image loading, saving and manipulation library. It is available for several platforms and does not require any third party dynamic libraries.","Categories
+Data Formats, Graphics, Libraries"
+"Blitz templates is a fast template engine written in C and compiled as a PHP module. It started as a php_templates replacement, but developed into much more. It is based on extensible template controllers (PHP) and weakly-active templates (HTML).Blitz templates is a fast template engine written in C and compiled as a PHP module. It started as a php_templates replacement, but developed into much more. It is based on extensible template controllers (PHP) and weakly-active templates (HTML).","Categories
+Dynamic Content, Frameworks"
+"Critterding is a ""Petri dish"" universe in 3D that demonstrates evolving artificial life. Critters start out with completely random brains and bodies, but will automatically start evolving into something with much better survival skills.Critterding is a ""Petri dish"" universe in 3D that demonstrates evolving artificial life. Critters start out with completely random brains and bodies, but will automatically start evolving into something with much better survival skills.","Categories
+Genetic Algorithms, Robotics, Simulation, Bio-Informatics, Intelligent Agents"
+"EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven. Instead, all GUI interactions are invoked by simple function calls.EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven. Instead, all GUI interactions are invoked by simple function calls.","Categories
+User Interface (UI), Languages"
+"The Mylyn connector for MantisBT allows you to manage your bugs straight from Eclipse. Supported features include creating and updating tasks, synchronizing tasks, commenting, uploading and downloading attachments.The Mylyn connector for MantisBT allows you to manage your bugs straight from Eclipse. Supported features include creating and updating tasks, synchronizing tasks, commenting, uploading and downloading attachments.","Categories
+User Interface (UI)"
+"http://www.filehelpers.net
+
+The FileHelpers are an easy to use .NET library written in C#. Is designed to read/write data from flat files with fixed length or delimited records (CSV). Also has support to import/export data from different data storages (Excel, Access, SqlServer)
+
+Code on GitHub: https://github.com/MarcosMeli/FileHelpershttp://www.filehelpers.net
+
+The FileHelpers are an easy to use .NET library written in C#. Is designed to read/write data from flat files with fixed length or delimited records (CSV). Also has support to import/export data from different data storages (Excel, Access, SqlServer)
+
+Code on GitHub: https://github.com/MarcosMeli/FileHelpers","Categories
+Algorithms, Frameworks, Object Oriented"
+"JMEDS is a lightweight, modular and extendable software framework for using the ""Devices Profile for Web-Services (DPWS)"" in Java based environments. It runs on Java CLDC (e.g. on embedded devices), CDC, Android and SE platforms.
+
+12.02.2014 v2.0.0 beta 10
+fixed the EXI release and included schema files for EXI's schema informed mode,
+multiple other bug fixes
+
+25.09.2013
+Bugfix release of JMEDS Framework: v2.0.0 beta 9a
+
+30.08.2013 v2.0.0 beta 9
+New version of JMEDS Framework
+
+We are doing our best to answer all questions from you and fix the bugs that are found as fast as we can! So don't hesitate to ask questions or report unexpected behaviour/bugs that you might find.
+
+DPWS Explorer released on http://ws4d.e-technik.uni-rostock.de/dpws-explorer/JMEDS is a lightweight, modular and extendable software framework for using the ""Devices Profile for Web-Services (DPWS)"" in Java based environments. It runs on Java CLDC (e.g. on embedded devices), CDC, Android and SE platforms.
+
+12.02.2014 v2.0.0 beta 10
+fixed the EXI release and included schema files for EXI's schema informed mode,
+multiple other bug fixes
+
+25.09.2013
+Bugfix release of JMEDS Framework: v2.0.0 beta 9a
+
+30.08.2013 v2.0.0 beta 9
+New version of JMEDS Framework
+
+We are doing our best to answer all questions from you and fix the bugs that are found as fast as we can! So don't hesitate to ask questions or report unexpected behaviour/bugs that you might find.
+
+DPWS Explorer released on http://ws4d.e-technik.uni-rostock.de/dpws-explorer/","Categories
+SOAP, Frameworks, Web Services"
+"luabind is a library, inspired by and similar to Boost.Python, that helps you create bindings between C++ and Lua. It has the ability to expose functions and classes, written in C++, to Lua.luabind is a library, inspired by and similar to Boost.Python, that helps you create bindings between C++ and Lua. It has the ability to expose functions and classes, written in C++, to Lua.","Categories
+Software Development"
+"Sarissa is a cross-browser ECMAScript lib that helps with browser incompatibilities in XMLHttpRequest/XML/XSLT/XPath along with some bonus utility methods. People call some of this Ajax nowdays, but the term was not available back in early 2003 ;-)Sarissa is a cross-browser ECMAScript lib that helps with browser incompatibilities in XMLHttpRequest/XML/XSLT/XPath along with some bonus utility methods. People call some of this Ajax nowdays, but the term was not available back in early 2003 ;-)","Categories
+Browsers, Dynamic Content, Software Development"
+"WinXP, Vista, Win7, linux, OpenSolaris native port of the BSD PSPSDK (ps2dev.org), with freely distributable import libraries and header files (DevPaks) for building cross compiled homebrew Sony PSP (PlayStation Portable) applications.WinXP, Vista, Win7, linux, OpenSolaris native port of the BSD PSPSDK (ps2dev.org), with freely distributable import libraries and header files (DevPaks) for building cross compiled homebrew Sony PSP (PlayStation Portable) applications.","Categories
+Debuggers, Compilers, Cross Compilers"
+GNU GetText translation tools for Borland Delphi and Borland C++ BuilderGNU GetText translation tools for Borland Delphi and Borland C++ Builder,"Categories
+Software Development"
+"The JavaCC Eclipse Plugin provides a JavaCC & JTB editors and builders which process .jj, .jjt & .jtb files and integrates with Eclipse's incremental build system.
+Compatible with Eclipse 3.7.0+ and Java 1.7+. Also embeds JTB 1.4.11.The JavaCC Eclipse Plugin provides a JavaCC & JTB editors and builders which process .jj, .jjt & .jtb files and integrates with Eclipse's incremental build system.
+Compatible with Eclipse 3.7.0+ and Java 1.7+. Also embeds JTB 1.4.11.","Categories
+Code Generators"
+cgdb has moved! Please find us at: http://cgdb.github.com/cgdb has moved! Please find us at: http://cgdb.github.com/,"Categories
+Debuggers"
+Integrate JBoss into Nagios monitoring through a small Collector MBean and a perl based Nagios plugin. Lets you read you and monitor JMX values from JBoss servers very efficiently. On the Nagios server no JDK or JBoss installation is needed.Integrate JBoss into Nagios monitoring through a small Collector MBean and a perl based Nagios plugin. Lets you read you and monitor JMX values from JBoss servers very efficiently. On the Nagios server no JDK or JBoss installation is needed.,"Categories
+Enterprise, Monitoring, Application Servers"
+"Implementation of an open source FTP Server which comply with RFC 959, RFC 2228, RFC 2389 and RFC 2428. Implemented in Java. This server can be run as a stand alone FTP server and can be easily embedded in any java project. Please visit our project hImplementation of an open source FTP Server which comply with RFC 959, RFC 2228, RFC 2389 and RFC 2428. Implemented in Java. This server can be run as a stand alone FTP server and can be easily embedded in any java project. Please visit our project h","Categories
+File Transfer Protocol (FTP), Application Servers"
+threadpool is a cross-platform C++ thread pool library. It provides a convenient way for dispatching asynchronous tasks and can be easily customized. threadpool is based on the high-quality Boost source libraries.threadpool is a cross-platform C++ thread pool library. It provides a convenient way for dispatching asynchronous tasks and can be easily customized. threadpool is based on the high-quality Boost source libraries.,"Categories
+Algorithms, Frameworks"
+"JIP is a high performance, low overhead profiler that is written entirely in Java. JIP gives the developer the ability to turn the profiler on and off while the VM is running. You can also filter out classes and packages as well as control the output.JIP is a high performance, low overhead profiler that is written entirely in Java. JIP gives the developer the ability to turn the profiler on and off while the VM is running. You can also filter out classes and packages as well as control the output.","Categories
+Profiling"
+"SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.","Categories
+Cryptography, Software Testing, Systems Administration, Networking, Internet"
+"Open Information Systems for Emergency Services (Open ISES) is a community of software developers, paramedics, EMTs, law enforcement & fire fighters working together to create open source software & training materials for the emergency service community.Open Information Systems for Emergency Services (Open ISES) is a community of software developers, paramedics, EMTs, law enforcement & fire fighters working together to create open source software & training materials for the emergency service community.","Categories
+Communications, Database, Software Development, Software Distribution, Bio-Informatics, Education"
+"gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.gputils is a collection of tools for Microchip PIC microcontrollers. Its goal is to be fully compatible with Microchip's tools, MPASM, MPLINK, and MPLIB.","Categories
+Data Formats, Compilers, Electronic Design Automation (EDA), Earth Sciences"
+Open source and free library in 'C' programming language for work with NMEA protocol. Small and easy to use. The library build on different compilers under different platforms (see below). The code was tested in real projects. Just download and try...Open source and free library in 'C' programming language for work with NMEA protocol. Small and easy to use. The library build on different compilers under different platforms (see below). The code was tested in real projects. Just download and try...,"Categories
+Frameworks"
+"The Free Connectionist Q-learning Java Framework is an library for developing learning systems. Keywords: qlearning, artificial intelligence, alife, neural nets, neural networks, machine learning, reinforcement learning unsupervised learning agents lejosThe Free Connectionist Q-learning Java Framework is an library for developing learning systems. Keywords: qlearning, artificial intelligence, alife, neural nets, neural networks, machine learning, reinforcement learning unsupervised learning agents lejos","Categories
+Algorithms, Robotics, Intelligent Agents"
+This Java application serves to transform W3C XML Schema instances into interactive diagrams in SVG format. The diagram represents structure of XML files and provides information about individual items – elements and attributes.This Java application serves to transform W3C XML Schema instances into interactive diagrams in SVG format. The diagram represents structure of XML files and provides information about individual items – elements and attributes.,"Categories
+XML, Documentation, Presentation, Data Visualization"
+"We extend the Eclipse IDE with tools for development in Haskell, a functional programming language, providing support for a wide range of tools (compilers, interpreters, doc tools etc.) in a coherent, convenient and configurable environment.We extend the Eclipse IDE with tools for development in Haskell, a functional programming language, providing support for a wide range of tools (compilers, interpreters, doc tools etc.) in a coherent, convenient and configurable environment.","Categories
+Integrated Development Environments (IDE), Build Tools, Debuggers, Compilers, Interpreters"
+"ffnet is a fast and easy-to-use feed-forward neural network training solution for python. Many nice features are implemented: arbitrary network connectivity, automatic data normalization, very efficient training tools, network export to fortran code.
+
+Now ffnet has also a GUI called ffnetui.ffnet is a fast and easy-to-use feed-forward neural network training solution for python. Many nice features are implemented: arbitrary network connectivity, automatic data normalization, very efficient training tools, network export to fortran code.
+
+Now ffnet has also a GUI called ffnetui.","Categories
+Artificial Intelligence, Neural Network Libraries"
+Andorra 2D is the new generation 2D Engine for Delphi and Lazarus. Andorra 2D is capable to use DirectX or OpenGL through graphic plugins. Andorra 2D is built in a very modular way and is yet easy to use.Andorra 2D is the new generation 2D Engine for Delphi and Lazarus. Andorra 2D is capable to use DirectX or OpenGL through graphic plugins. Andorra 2D is built in a very modular way and is yet easy to use.,"Categories
+Games/Entertainment, Frameworks, Graphics"
+"Generate scripting code from an iMacros macro and vice versa. Supported codestyles: VBS, VB, C#, Java, JavaScript, PhpGenerate scripting code from an iMacros macro and vice versa. Supported codestyles: VBS, VB, C#, Java, JavaScript, Php","Categories
+Code Generators"
+"Modern scripting language and the first one that presents the concept of programming with direct fiction description using a clear subset of pure human language.
+Using Supernova you can write the source code using Arabic and/or English keywords and you can create GUI applications for Windows and Linux.Modern scripting language and the first one that presents the concept of programming with direct fiction description using a clear subset of pure human language.
+Using Supernova you can write the source code using Arabic and/or English keywords and you can create GUI applications for Windows and Linux.","Categories
+Compilers, Virtual Machine, Artificial Intelligence"
+"This IBM i (aka iSeries, AS400) command provides for code modernisation by converting fixed-format RPG and RPGLE source code into fully free-form RPGLE source in a non-destructive manner.
+
+Converts:
+* H-Specs
+* F-Specs
+* D-Specs
+* C-Specs
+* P-Specs (Subprocedures)
+* Key Lists
+* Parameter Lists
+
+**PLEASE REPORT ANY ISSUES YOU FIND**
+
+NOTE: Requires V7R2M0 or higher.
+
+Some Background:
+This started out as a 'quick and dirty' program for my own needs, but it got a little out of hand! :) It's not an example of my best work, as it has grown organically over time, rather than having been built sytematically, so hopefully you'll forgive some of my coding faux-pas.
+
+** If you find something that won't convert, or doesn't convert properly, please let me know, and I'll fix it for you and the benefit of everyone else. **
+
+Other Projects:
+iMenu - flexible menu system: https://sourceforge.net/projects/i-menu/This IBM i (aka iSeries, AS400) command provides for code modernisation by converting fixed-format RPG and RPGLE source code into fully free-form RPGLE source in a non-destructive manner.
+
+Converts:
+* H-Specs
+* F-Specs
+* D-Specs
+* C-Specs
+* P-Specs (Subprocedures)
+* Key Lists
+* Parameter Lists
+
+**PLEASE REPORT ANY ISSUES YOU FIND**
+
+NOTE: Requires V7R2M0 or higher.
+
+Some Background:
+This started out as a 'quick and dirty' program for my own needs, but it got a little out of hand! :) It's not an example of my best work, as it has grown organically over time, rather than having been built sytematically, so hopefully you'll forgive some of my coding faux-pas.
+
+** If you find something that won't convert, or doesn't convert properly, please let me know, and I'll fix it for you and the benefit of everyone else. **
+
+Other Projects:
+iMenu - flexible menu system: https://sourceforge.net/projects/i-menu/","Categories
+Software Development, Build Tools"
+"pdfsandwich generates ""sandwich"" OCR pdf files, i.e. pdf files which contain only images (but no editable text) will be processed by optical character recognition (OCR) and the text will be added to each page invisibly ""behind"" the images.
+
+pdfsandwich is a command line tool which is supposed to be useful to OCR scanned books or journals. It is able to recognize the page layout even for multicolumn text.
+
+Essentially, pdfsandwich is a wrapper script which calls the following binaries: convert, unpaper, tesseract, gs, and hocr2pdf (if tesseract < 3.03). It is known to run on Unix systems and has been tested on Linux and MacOS X. It supports parallel processing on multiprocessor systems.
+
+In contrast to most competing sandwich programs, it performs preprocessing of the scanned images, such as de-skewing or removal of dark edges etc.
+
+For further information please read the manual: http://www.tobias-elze.de/pdfsandwich/index.htmlpdfsandwich generates ""sandwich"" OCR pdf files, i.e. pdf files which contain only images (but no editable text) will be processed by optical character recognition (OCR) and the text will be added to each page invisibly ""behind"" the images.
+
+pdfsandwich is a command line tool which is supposed to be useful to OCR scanned books or journals. It is able to recognize the page layout even for multicolumn text.
+
+Essentially, pdfsandwich is a wrapper script which calls the following binaries: convert, unpaper, tesseract, gs, and hocr2pdf (if tesseract < 3.03). It is known to run on Unix systems and has been tested on Linux and MacOS X. It supports parallel processing on multiprocessor systems.
+
+In contrast to most competing sandwich programs, it performs preprocessing of the scanned images, such as de-skewing or removal of dark edges etc.
+
+For further information please read the manual: http://www.tobias-elze.de/pdfsandwich/index.html","Categories
+Office/Business, Command Line Tools, OCR"
+"ORBADA is a database, SQL, query client using JDBC drivers. It is a tool to administrate and manage database structure. It Is for Oracle, SQLite, Firebird, HSQLDB, DerbyDB, MySQL, PostgreSQL and other databases.ORBADA is a database, SQL, query client using JDBC drivers. It is a tool to administrate and manage database structure. It Is for Oracle, SQLite, Firebird, HSQLDB, DerbyDB, MySQL, PostgreSQL and other databases.","Categories
+Front-Ends, Software Development, Systems Administration"
+"Integrated Development Environment for some microcontrollers based on 8051(e.g. AT89S8253). Supported languages are Assembly and C. It has its own simulator, assembler, editor and many other tools. See the project web site for more details and the newest updates.Integrated Development Environment for some microcontrollers based on 8051(e.g. AT89S8253). Supported languages are Assembly and C. It has its own simulator, assembler, editor and many other tools. See the project web site for more details and the newest updates.","Categories
+Cross Compilers, Simulation, Exam, Macros, Scientific Calculators"
+"Atmel AVR Assembler for all platforms. Compatible with Atmel's own assembler. Extra macro features, auto type conversion for macros, conditional assembly, creates .coff files for debugging, special 100% identical output compared to orig. Atmel AssemAtmel AVR Assembler for all platforms. Compatible with Atmel's own assembler. Extra macro features, auto type conversion for macros, conditional assembly, creates .coff files for debugging, special 100% identical output compared to orig. Atmel Assem","Categories
+Assemblers"
+"Rico is a JavaScript library for creating rich internet applications. Version 1 is JavaScript only. Versions 2 & 3 include server-side code (asp, asp.net, and php) to make creating web apps even easier. Versions 1 & 2 are based on Prototype and include grids, calendar & tree controls, drag & drop, and cinematic effects. Version 3 goes beyond Prototype, and includes support for jQuery, MooTools, Dojo, Ext, and BBC Glow libraries. Version 3 is only available in the SVN repository. The rico3.net branch includes a .net server control.Rico is a JavaScript library for creating rich internet applications. Version 1 is JavaScript only. Versions 2 & 3 include server-side code (asp, asp.net, and php) to make creating web apps even easier. Versions 1 & 2 are based on Prototype and include grids, calendar & tree controls, drag & drop, and cinematic effects. Version 3 goes beyond Prototype, and includes support for jQuery, MooTools, Dojo, Ext, and BBC Glow libraries. Version 3 is only available in the SVN repository. The rico3.net branch includes a .net server control.","Categories
+Dynamic Content, Frameworks, User Interface (UI)"
+BITswitcher is a firmware-developing-project for BCM96348GW based ADSL-Router like the Targa WR500 Voip or the Speedport W500V sold by Deutsche Telekom AG. There have been included many applications and an web-frontend to administrate the new functions.BITswitcher is a firmware-developing-project for BCM96348GW based ADSL-Router like the Targa WR500 Voip or the Speedport W500V sold by Deutsche Telekom AG. There have been included many applications and an web-frontend to administrate the new functions.,"Categories
+Cross Compilers"
+"A user-friendly drawing and verification tool for Message Sequence Charts (MSC, HMSC) and UML Sequence Diagrams. Integrated with Microsoft Visio.A user-friendly drawing and verification tool for Message Sequence Charts (MSC, HMSC) and UML Sequence Diagrams. Integrated with Microsoft Visio.","Categories
+Computer-Aided Software Engineering (CASE)"
+PyXB (“pixbee”) is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema. In concept it is similar to JAXB for Java and CodeSynthesis XSD for C++.PyXB (“pixbee”) is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema. In concept it is similar to JAXB for Java and CodeSynthesis XSD for C++.,"Categories
+XML, Code Generators, Web Services"
+"benerator is a framework for creating realistic and valid high-volume test data, used for load and performance testing and showcase setup. Data is generated from an easily configurable metadata model and exported to databases, XML, CSV or flat files.benerator is a framework for creating realistic and valid high-volume test data, used for load and performance testing and showcase setup. Data is generated from an easily configurable metadata model and exported to databases, XML, CSV or flat files.","Categories
+Software Testing"
+"Linguistic Tree Constructor (LTC) is a tool for drawing lingusitic syntax trees of already-existing text.
+
+It is a syntax editor, not a text editor, so the text has to exist already. It is best suited for large-scale, rapid creation of hand-annotated treebanks.
+
+The user can define their own node categories, and can label each node with labels, also definable by the user. LTC supports ""generic"", X-Bar and RRG trees.
+
+Supports interlinear texts in SIL SFM format.Linguistic Tree Constructor (LTC) is a tool for drawing lingusitic syntax trees of already-existing text.
+
+It is a syntax editor, not a text editor, so the text has to exist already. It is best suited for large-scale, rapid creation of hand-annotated treebanks.
+
+The user can define their own node categories, and can label each node with labels, also definable by the user. LTC supports ""generic"", X-Bar and RRG trees.
+
+Supports interlinear texts in SIL SFM format.","Categories
+UML, Education"
+"A cross platform GUI for several code formatter, beautifier and indenter like AStyle, GNU Indent, GreatCode, HTML Tidy, Uncrustify and many more. Main feature is a live preview to directly see how the selected formatting option affects the source code.A cross platform GUI for several code formatter, beautifier and indenter like AStyle, GNU Indent, GreatCode, HTML Tidy, Uncrustify and many more. Main feature is a live preview to directly see how the selected formatting option affects the source code.","Categories
+User Interface (UI), Usability, GPS"
+"The Java Curses Library (JCurses) is a library for developing text terminal based applications using Java programming language. It is implemented as a Windowing toolkit similar to AWT, but built upon the UNIX ""curses"" windowing system.The Java Curses Library (JCurses) is a library for developing text terminal based applications using Java programming language. It is implemented as a Windowing toolkit similar to AWT, but built upon the UNIX ""curses"" windowing system.","Categories
+Terminals, Libraries"
+"Erlang/Scala IDE based on NetBeans. With syntax checking, syntax highlighting, auto-completion, pretty formatter, occurrences mark, brace matching, indentation, code folding, function navigator, go to declaration, project management, shell console.Erlang/Scala IDE based on NetBeans. With syntax checking, syntax highlighting, auto-completion, pretty formatter, occurrences mark, brace matching, indentation, code folding, function navigator, go to declaration, project management, shell console.","Categories
+Software Development"
+"A tool to generate compiled help files (CHM) and Java Help files from MS Word or HTML files. It splits the document on different topics pages by the ""titles"" sections. It can too generate a web site, a PDF and a XPS with the help content.A tool to generate compiled help files (CHM) and Java Help files from MS Word or HTML files. It splits the document on different topics pages by the ""titles"" sections. It can too generate a web site, a PDF and a XPS with the help content.","Categories
+Word Processors, Text Processing, Documentation"
+"The best developer's or admin's GUI tool for Sqlite3 (sqlite) in the world. No joking here (or just a bit only) - it contains the most complete feature set of all tools available. Visit project homepage for more info, bugtracker, documentation, etcThe best developer's or admin's GUI tool for Sqlite3 (sqlite) in the world. No joking here (or just a bit only) - it contains the most complete feature set of all tools available. Visit project homepage for more info, bugtracker, documentation, etc","Categories
+Front-Ends, Software Development"
+"Multiplatform Serial Port Module for Python (Win32, Jython, Linux, BSD and more)Multiplatform Serial Port Module for Python (Win32, Jython, Linux, BSD and more)","Categories
+Serial, Software Development"
+"A high performance Common Lisp compiler. In addition to standard ANSI Common Lisp, it provides an interactive environment including an a debugger, a statistical profiler, a code coverage tool, and many other extensions.A high performance Common Lisp compiler. In addition to standard ANSI Common Lisp, it provides an interactive environment including an a debugger, a statistical profiler, a code coverage tool, and many other extensions.","Categories
+Software Development, Compilers"
+"GDL - GNU Data Language, a free IDL (Interactive Data Language, see http://ittvis.com/idl/) compatible incremental compiler.GDL - GNU Data Language, a free IDL (Interactive Data Language, see http://ittvis.com/idl/) compatible incremental compiler.","Categories
+Compilers, Interpreters, Data Visualization, Information Analysis"
+"AVR-Eclipse is a plugin for the Eclipse IDE which adds toolchain support, through CDT, for the gcc compiler for the Atmel AVR series of microcontrollers, and adds a toolbar button to allow quick upload of produced code to a target device.AVR-Eclipse is a plugin for the Eclipse IDE which adds toolchain support, through CDT, for the gcc compiler for the Atmel AVR series of microcontrollers, and adds a toolbar button to allow quick upload of produced code to a target device.","Categories
+Build Tools"
+"The MSX emulator that aims for perfection.
+
+NOTE: this project moved to GitHub. The content of this project page is frozen and will not be updated. The project is alive and kicking, though! Check out our website for the new project pages.The MSX emulator that aims for perfection.
+
+NOTE: this project moved to GitHub. The content of this project page is frozen and will not be updated. The project is alive and kicking, though! Check out our website for the new project pages.","Categories
+Debuggers, Emulators"
+"A display driver for Mac OS 10.5+ running as a VMware guest OS.
+
+Update [September 7th, 2014]: As of VMware Fusion 7.0.0, VMware Tools for Mac (darwin.iso) - VMwareGfx.kext has all the features of VMsvga2 and is maintained by VMware. It is recommended to transition to VMwareGfx.kext, as VMsvga2 is no longer under development.
+Additionally, guestd_patches do not work with darwin.iso from Fusion 7.0.0 - the patch causes vmware-tools-daemon to crash.A display driver for Mac OS 10.5+ running as a VMware guest OS.
+
+Update [September 7th, 2014]: As of VMware Fusion 7.0.0, VMware Tools for Mac (darwin.iso) - VMwareGfx.kext has all the features of VMsvga2 and is maintained by VMware. It is recommended to transition to VMwareGfx.kext, as VMsvga2 is no longer under development.
+Additionally, guestd_patches do not work with darwin.iso from Fusion 7.0.0 - the patch causes vmware-tools-daemon to crash.","Categories
+Virtual Machine, Hardware Drivers"
+"DDay.iCal is an iCal (RFC 5545) class library for .NET 2.0 and above, Silverlight. It aims at being as RFC 5545 compliant as possible, while targeting compatibility with popular calendaring applications, like Apple iCal, Outlook 2007, etc.DDay.iCal is an iCal (RFC 5545) class library for .NET 2.0 and above, Silverlight. It aims at being as RFC 5545 compliant as possible, while targeting compatibility with popular calendaring applications, like Apple iCal, Outlook 2007, etc.","Categories
+Data Formats, Calendar, Resource Management, Interpreters"
+"PAC is a Perl/GTK replacement for SecureCRT/Putty/etc (linux ssh/telnet/... gui)... It provides a GUI to configure connections: users, passwords, EXPECT regular expressions, macros, etc. You like 'SecureCRT/SSHMenu'? Check this tool and let me knowPAC is a Perl/GTK replacement for SecureCRT/Putty/etc (linux ssh/telnet/... gui)... It provides a GUI to configure connections: users, passwords, EXPECT regular expressions, macros, etc. You like 'SecureCRT/SSHMenu'? Check this tool and let me know","Categories
+Terminals, Password Managers, SSH"
+"ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash).
+As Windows console window enhancement (local terminal emulator), it presents multiple consoles and simple GUI applications as one customizable tabbed GUI window with various features.
+
+Also, due to deep integration, ConEmu is the best companion for Far Manager, my favorite shell replacement.
+
+Disclaimer.
+ConEmu is not a shell, so it does not provide ""shell features"" like tab-completion, command history and others. But you can run any shell or remote access client of your choice in ConEmu! Try Clink for bash-style completion in cmd.exe and PSReadLine or PowerTab in powershell.exe. Or just run Bash from your favourite distro.
+Also, ConEmu does not provide remote access (SSH/Telnet/...) too, just use your remote client (ssh.exe, telnet.exe) instead.ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash).
+As Windows console window enhancement (local terminal emulator), it presents multiple consoles and simple GUI applications as one customizable tabbed GUI window with various features.
+
+Also, due to deep integration, ConEmu is the best companion for Far Manager, my favorite shell replacement.
+
+Disclaimer.
+ConEmu is not a shell, so it does not provide ""shell features"" like tab-completion, command history and others. But you can run any shell or remote access client of your choice in ConEmu! Try Clink for bash-style completion in cmd.exe and PSReadLine or PowerTab in powershell.exe. Or just run Bash from your favourite distro.
+Also, ConEmu does not provide remote access (SSH/Telnet/...) too, just use your remote client (ssh.exe, telnet.exe) instead.","Categories
+Terminals, Usability, Emulators"
+"Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual C++ 2012 Express Edition. Source code can also be compiled with VS2008, VS2008 Express Edition and VS2010 Express Edition, although current project and makefile are not fully compatible anymore.
+
+Versions starting from 1.14.3.0 are not compatible with Windows XP anymore.Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual C++ 2012 Express Edition. Source code can also be compiled with VS2008, VS2008 Express Edition and VS2010 Express Edition, although current project and makefile are not fully compatible anymore.
+
+Versions starting from 1.14.3.0 are not compatible with Windows XP anymore.","Categories
+Terminal Emulators, Window Managers"
+PuTTY SSH client for Symbian OSPuTTY SSH client for Symbian OS,"Categories
+Terminal Emulators, Communications, Cryptography, Internet"
+"Console is a Windows console window enhancement. Console features include: multiple tabs, text editor-like text selection, different background types, alpha and color-key transparency, configurable font, different window stylesConsole is a Windows console window enhancement. Console features include: multiple tabs, text editor-like text selection, different background types, alpha and color-key transparency, configurable font, different window styles","Categories
+Terminals, Desktop Environment, System"
+"Engineering, testing and debugging of serial communication. Supports RS-232/422/423/485 as well as TCP/IP Client/Server/AutoSocket, UDP/IP Client/Server/PairSocket and USB Ser/HID. Optimized for simple command sets of e.g. embedded systems.Engineering, testing and debugging of serial communication. Supports RS-232/422/423/485 as well as TCP/IP Client/Server/AutoSocket, UDP/IP Client/Server/PairSocket and USB Ser/HID. Optimized for simple command sets of e.g. embedded systems.","Categories
+Serial, Communications, Scientific/Engineering"
+ClusterSSH controls a number of xterm windows via a single graphical console window to allow commands to be interactively run on multiple servers over an ssh connection.ClusterSSH controls a number of xterm windows via a single graphical console window to allow commands to be interactively run on multiple servers over an ssh connection.,"Categories
+Terminal Emulators, Systems Administration, Installation/Setup, Clustering"
+"This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.This project now hosts the third-generation of Java SSH API, Maverick Synergy. This API builds on the Maverick Legacy commercial APIs and delivers a new API in a unified client/server framework. This API is available to the community under the LGPL open source license.
+
+This update includes ed25519 support, support for the new OpenSSH private key file format and stronger key exchange algorithms.
+
+The project continues to host both the original API and legacy applications created around it, however, these are now considered deprecated and we do not recommend their use in anyway.","Categories
+Terminals, Security, Software Development, Systems Administration, Networking, Internet"
+"Serial terminal program for engineering. Ideal for development, reverse engineering, debugging, datalogging and capture, and automatic test.
+
+The website is a comprehensive manual for Realterm.
+
+It has an comprehensive ActiveX/COM automation support so it can be used a serial component by other programs.
+An extensive commandline interface supports batch files and simple automatic test programming. Commands can be sent to running instances, and commands can be stored and run in files.
+[ActiveX](http://realterm.sourceforge.net/index.html#ActiveX_Interface) and [Command Line](http://realterm.sourceforge.net/index.html#Command_Line_Parameters) commands are well documented.
+
+
+Sourceforge major releases are only made occasionally. To follow development versions see News and subscribe.Serial terminal program for engineering. Ideal for development, reverse engineering, debugging, datalogging and capture, and automatic test.
+
+The website is a comprehensive manual for Realterm.
+
+It has an comprehensive ActiveX/COM automation support so it can be used a serial component by other programs.
+An extensive commandline interface supports batch files and simple automatic test programming. Commands can be sent to running instances, and commands can be stored and run in files.
+[ActiveX](http://realterm.sourceforge.net/index.html#ActiveX_Interface) and [Command Line](http://realterm.sourceforge.net/index.html#Command_Line_Parameters) commands are well documented.
+
+
+Sourceforge major releases are only made occasionally. To follow development versions see News and subscribe.","Categories
+Serial, Telnet, Communications"
+This project provides a proxy that allows telnet/tcp connections to be made to serial ports on a machine.This project provides a proxy that allows telnet/tcp connections to be made to serial ports on a machine.,"Categories
+Serial"
+"phpFileManager is a complete filesystem management tool on a single file.
+
+This is a tool meant for rapid file access, and also to verify the server php configuration and security.
+The script can be renamed and deployed on an unique known url, and offers password protection.
+
+Online Demo: http://phpfm-demo.dulldusk.com
+Feel free to mess around! This is a public demo installation, and will reset itself every hour.phpFileManager is a complete filesystem management tool on a single file.
+
+This is a tool meant for rapid file access, and also to verify the server php configuration and security.
+The script can be renamed and deployed on an unique known url, and offers password protection.
+
+Online Demo: http://phpfm-demo.dulldusk.com
+Feel free to mess around! This is a public demo installation, and will reset itself every hour.","Categories
+Terminal Emulators, File Systems"
+"ScriptCommunicator is a scriptable cross-platform data terminal that supports serial port (RS232, USB to serial), UDP, TCP client/server, SPI, I2C, and CAN.
+
+All sent and received data can be shown in a console and can be logged in an html and a text log.
+
+In addition to the simple sending and receiving of data, ScriptCommunicator has a QtScript (similar to JavaScript) interface.
+This script interface has the following features:
+- Scripts can send and receive data with the main interface.
+- In addition to the main interface scripts can create and use their own interfaces (serial port (RS232, USB to serial), UDP, TCP client, TCP server, PCAN, and SPI/I2C).
+- Scripts can use their own GUI (GUI files which have been created with QtDesigner (is included) or QtCreator).
+- Multiple plot windows can be created by scripts (QCustomPlot developed by Emanuel Eichhammer is used)ScriptCommunicator is a scriptable cross-platform data terminal that supports serial port (RS232, USB to serial), UDP, TCP client/server, SPI, I2C, and CAN.
+
+All sent and received data can be shown in a console and can be logged in an html and a text log.
+
+In addition to the simple sending and receiving of data, ScriptCommunicator has a QtScript (similar to JavaScript) interface.
+This script interface has the following features:
+- Scripts can send and receive data with the main interface.
+- In addition to the main interface scripts can create and use their own interfaces (serial port (RS232, USB to serial), UDP, TCP client, TCP server, PCAN, and SPI/I2C).
+- Scripts can use their own GUI (GUI files which have been created with QtDesigner (is included) or QtCreator).
+- Multiple plot windows can be created by scripts (QCustomPlot developed by Emanuel Eichhammer is used)","Categories
+Serial"
+"iTerm is an enhanced terminal emulator program for MacOS X written in Objective-C. It features VT100/ANSI/XTERM emulation, full i18n support, full-screen, multi-tab and other convenient GUI features.
+
+This project is indefinitely on hold, and we recommend that you try http://www.iterm2.com/ instead.iTerm is an enhanced terminal emulator program for MacOS X written in Objective-C. It features VT100/ANSI/XTERM emulation, full i18n support, full-screen, multi-tab and other convenient GUI features.
+
+This project is indefinitely on hold, and we recommend that you try http://www.iterm2.com/ instead.","Categories
+Terminal Emulators"
+"Thinstation is a thin client linux distro using std. x86 hw. It can boot from network, pxe, syslinux, CD, floppy or flash-disk and connect to servers using VNC, RDP, XDM, SSH, Telnet, tn5250, tarentella, 2X, NX, Thinlinc, VMWare VDI or ICA.Thinstation is a thin client linux distro using std. x86 hw. It can boot from network, pxe, syslinux, CD, floppy or flash-disk and connect to servers using VNC, RDP, XDM, SSH, Telnet, tn5250, tarentella, 2X, NX, Thinlinc, VMWare VDI or ICA.","Categories
+Terminal Emulators, OS distribution, Live CD"
+"Pexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpectPexpect is a Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect can be used for automating interactive applications such as ssh, ftp, passwd, telnet, etc. Pexpect is pure Python.
+
+Note that Pexpect development has moved to Github: https://github.com/pexpect/pexpect","Categories
+Terminals, Build Tools, Systems Administration, Installation/Setup"
+"Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.Async Professional is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI, and the Microsoft Speech API. It supports faxing, terminal emulation, VOIP, & more.","Categories
+Terminals, Communications, Software Development, Networking, Internet"
+TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/TComPort by Dejan Crnila. Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes. Alternative to the TurboPower ASYNCPro at http://sourceforge.net/projects/tpapro/,"Categories
+Terminals, Communications, Hardware Drivers"
+"TinTin++ is a console mud client for any type of text mud or bbs. The mud client's main assets are an easy to learn scripting language, triggers, automapping, and a split screen interface to separate mud output from client input.
+
+Installation instructions for Android, iOS, and several other operating systems are available on the website.
+
+https://tintin.mudhalla.netTinTin++ is a console mud client for any type of text mud or bbs. The mud client's main assets are an easy to learn scripting language, triggers, automapping, and a split screen interface to separate mud output from client input.
+
+Installation instructions for Android, iOS, and several other operating systems are available on the website.
+
+https://tintin.mudhalla.net","Categories
+Telnet, Multi-User Dungeons (MUD), System Shells"
+"Remote Desktop Client for the GNOME Desktop. Supported protocols: RDP, VNC, SSH. Configured sessions can be saved to the built in list. Additional programs required: rdesktop, tightvnc, ssh, gnome-terminal. Application can be run with Mono runtime.Remote Desktop Client for the GNOME Desktop. Supported protocols: RDP, VNC, SSH. Configured sessions can be saved to the built in list. Additional programs required: rdesktop, tightvnc, ssh, gnome-terminal. Application can be run with Mono runtime.","Categories
+Terminals, System Shells, Systems Administration, Remote Desktop"
+RDP Server - An open source RDP server and X server capable of accepting connections from rdesktop and ms terminal server clients.RDP Server - An open source RDP server and X server capable of accepting connections from rdesktop and ms terminal server clients.,"Categories
+Terminals, Desktop Environment"
+"SSVNC adds encryption security to VNC. It provides a GUI for Windows, MacOSX, and Unix that automatically starts up an SSL or SSH tunnel for connections to any VNC server. It also supports VeNCrypt encryption. The Unix viewer has many new features.SSVNC adds encryption security to VNC. It provides a GUI for Windows, MacOSX, and Unix that automatically starts up an SSL or SSH tunnel for connections to any VNC server. It also supports VeNCrypt encryption. The Unix viewer has many new features.","Categories
+Terminal Emulators, Conferencing"
+"The Null-modem emulator (com0com) is a kernel-mode virtual serial port driver for Windows. You can create an unlimited number of virtual COM port pairs and use any pair to connect one COM port based application to another. The HUB for communications (hub4com) allows to receive data and signals from one COM or TCP port, modify and send it to a number of other COM or TCP ports and vice versa.The Null-modem emulator (com0com) is a kernel-mode virtual serial port driver for Windows. You can create an unlimited number of virtual COM port pairs and use any pair to connect one COM port based application to another. The HUB for communications (hub4com) allows to receive data and signals from one COM or TCP port, modify and send it to a number of other COM or TCP ports and vice versa.","Categories
+Serial, Telnet, Emulators"
+"Twin is a text-mode window environment. It supports mouse and multiple windows, has a built-in terminal emulator and window manager, and can serve as display for client applications. Its retro look-and-feel comes with very modern features: it is best described as a VNC-like server, that can use a variety of displays - all with mouse support: from a plain text terminal, to a Linux console, to a full kde, gnome or X11 desktop.
+
+Source code hosted at https://github.com/cosmos72/twinTwin is a text-mode window environment. It supports mouse and multiple windows, has a built-in terminal emulator and window manager, and can serve as display for client applications. Its retro look-and-feel comes with very modern features: it is best described as a VNC-like server, that can use a variety of displays - all with mouse support: from a plain text terminal, to a Linux console, to a full kde, gnome or X11 desktop.
+
+Source code hosted at https://github.com/cosmos72/twin","Categories
+Terminal Emulators, Window Managers"
+"A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.A cross-platform ANSI-BBS terminal designed to connect to remote BBSs via telnet, rlogin, or SSH. Supports ANSI music and the IBM charset when possible. Will run from a console, under X11 using XLib, or using SDL.","Categories
+Telnet, BBS, SSH"
+"JLine is a java library for reading and editing user input in console applications. It features tab-completion, command history, password masking, customizable keybindings, and pass-through handlers to use to chain to other console applications.
+
+PROJECT REPOSITORY HAS MOVED:
+
+https://github.com/jlineJLine is a java library for reading and editing user input in console applications. It features tab-completion, command history, password masking, customizable keybindings, and pass-through handlers to use to chain to other console applications.
+
+PROJECT REPOSITORY HAS MOVED:
+
+https://github.com/jline","Categories
+Terminals, Software Development"
+"Linux is an excellent environment for deploying diskless thin clients. Whether you are installing a 2nd workstation at home, 50 workstations in a CyberCafe or 500 workstations in a major university or corporation, the LTSP can help you be successful.Linux is an excellent environment for deploying diskless thin clients. Whether you are installing a 2nd workstation at home, 50 workstations in a CyberCafe or 500 workstations in a major university or corporation, the LTSP can help you be successful.","Categories
+Terminal Emulators, Installation/Setup, Boot"
+"openthinclient is a free open source thin client solution consisting of a Linux based operating system along with a comprehensive Java based management GUI and server component.
+It is intended for environments where a medium to large number of thin clients must be supported and managed efficiently.openthinclient is a free open source thin client solution consisting of a Linux based operating system along with a comprehensive Java based management GUI and server component.
+It is intended for environments where a medium to large number of thin clients must be supported and managed efficiently.","Categories
+Terminal Emulators, Networking, Installation/Setup"
+"ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/","Categories
+Serial, Communications, Router"
+SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.,"Categories
+Serial, Home Automation, Performance Testing"

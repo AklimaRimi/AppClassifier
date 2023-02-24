@@ -1,0 +1,473 @@
+Description,Category
+PHPRtfLite is an API enabling developers to create rtf documents with php. PHPRtfLite is designed on OOP principles.PHPRtfLite is an API enabling developers to create rtf documents with php. PHPRtfLite is designed on OOP principles.,"Categories
+Office Suites, Object Oriented"
+A Python interface to the gnuplot plotting program.A Python interface to the gnuplot plotting program.,"Categories
+CGI Scripts, Software Development, Presentation, Data Visualization"
+NAnt is a Ant like build tool for .NETNAnt is a Ant like build tool for .NET,"Categories
+Build Tools"
+"This is a simple templatized C++ library for parsing command line arguments. The library provides a simple, flexible object-oriented interface to the command line that automates argument parsing, USAGE creation and type casting.This is a simple templatized C++ library for parsing command line arguments. The library provides a simple, flexible object-oriented interface to the command line that automates argument parsing, USAGE creation and type casting.","Categories
+Software Development"
+"Easy control of virtual machines of VirtualBox (virtualization solution) on a Linux headless server. Autostart and autosave on boot/halt. Start, stop, save, backup and show status of sessions in batch mode from command line.Easy control of virtual machines of VirtualBox (virtualization solution) on a Linux headless server. Autostart and autosave on boot/halt. Start, stop, save, backup and show status of sessions in batch mode from command line.","Categories
+Virtual Machine"
+Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.Power searching on your desktop without the pain. Perform powerful desktop searches without having to index your system using regular expressions. Graphical equivalent to find/grep. Available for Windows (JAVA) and Linux (Gnome & KDE) and easy to translate into your locale.,"Categories
+Desktop Environment, Software Development, Search"
+"SQLObject is an object-relational mapper for Python. It supports MySQL, PostgreSQL, SQLite, Firebird, MaxDB/SapDB, MS SQL and Sybase. It supports Python versions back to 2.7.SQLObject is an object-relational mapper for Python. It supports MySQL, PostgreSQL, SQLite, Firebird, MaxDB/SapDB, MS SQL and Sybase. It supports Python versions back to 2.7.","Categories
+Front-Ends, Object-Relational Mapping (ORM)"
+"SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman). Work provided by UK Sheffield University funded by (AKT) an IRC sponsored by EPSRC, grant number GR/N15764/01.SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman). Work provided by UK Sheffield University funded by (AKT) an IRC sponsored by EPSRC, grant number GR/N15764/01.","Categories
+Algorithms, Artificial Intelligence"
+"The source code has been migrated and is now hosted on Github: https://github.com/jenetics/jenetics
+
+Jenetics is an advanced Genetic Algorithm, Evolutionary Algorithm and Genetic Programming library, respectively, written in modern day Java. It is designed with a clear separation of the several algorithm concepts, e. g. Gene, Chromosome, Genotype, Phenotype, Population and fitness Function. Jenetics allows you to minimize or maximize the given fitness function without tweaking it. In contrast to other GA implementations, the library uses the concept of an evolution stream (EvolutionStream) for executing the evolution steps. Since the EvolutionStream implements the Java Stream interface, it works smoothly with the rest of the Java Stream API.
+
+Other repositories:
+- https://github.com/jenetics/jenetics
+
+Maven:
+- https://mvnrepository.com/artifact/io.jeneticsThe source code has been migrated and is now hosted on Github: https://github.com/jenetics/jenetics
+
+Jenetics is an advanced Genetic Algorithm, Evolutionary Algorithm and Genetic Programming library, respectively, written in modern day Java. It is designed with a clear separation of the several algorithm concepts, e. g. Gene, Chromosome, Genotype, Phenotype, Population and fitness Function. Jenetics allows you to minimize or maximize the given fitness function without tweaking it. In contrast to other GA implementations, the library uses the concept of an evolution stream (EvolutionStream) for executing the evolution steps. Since the EvolutionStream implements the Java Stream interface, it works smoothly with the rest of the Java Stream API.
+
+Other repositories:
+- https://github.com/jenetics/jenetics
+
+Maven:
+- https://mvnrepository.com/artifact/io.jenetics","Categories
+Genetic Algorithms, Bio-Informatics, Artificial Intelligence"
+cglib has moved to https://github.com/cglib/cglibcglib has moved to https://github.com/cglib/cglib,"Categories
+Code Generators"
+"Plex86 is an OSS virtual machine project for x86. It can be used on its own to run
+Linux VMs using lightweight VM technology, or in conjunction with the bochs emulator
+as an accelerator to run non VM-friendly OSes.Plex86 is an OSS virtual machine project for x86. It can be used on its own to run
+Linux VMs using lightweight VM technology, or in conjunction with the bochs emulator
+as an accelerator to run non VM-friendly OSes.","Categories
+Interpreters, Virtual Machine"
+"XForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is availableXForms to XHTML+Javascript (AJAX) conversion based on a unique XSL transformation. Suitable server-side (PHP) or client-side (Internet Explorer, Mozilla FireFox, Opera, Safari) browser treatement where an XSLT 1.0 engine is available","Categories
+HTML/XHTML, Browsers, User Interface (UI)"
+The open-vm-tools project provides a suite of open source virtualization utilities and drivers to improve the functionality and user experience of virtualization. The project currently runs in guest operating systems under VMware virtualization.The open-vm-tools project provides a suite of open source virtualization utilities and drivers to improve the functionality and user experience of virtualization. The project currently runs in guest operating systems under VMware virtualization.,"Categories
+Virtual Machine"
+"A framework and runtime environment for exploring agent-based models designed to support the definition of models using an expressive, high-level and extensible Java API and to support the exploration of these models in both interactive and batch modA framework and runtime environment for exploring agent-based models designed to support the definition of models using an expressive, high-level and extensible Java API and to support the exploration of these models in both interactive and batch mod","Categories
+Frameworks, Simulation"
+"Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.Fsum Frontend is a files integrity checker. It can calculate 96 hash and checksum algorithms(CRC32, MD5, SHA1, SHA2, ADLER, DHA256, FORK256, ...). You can verify your files using a .sfv/.md5/.sha1/.sha2 file or create your own checksum file.","Categories
+Cryptography, Algorithms, File Managers"
+"The goal of this project is to bring the Aqua User Interface to POSIX Operating Systems (GNU/LInux, FreeBSD, openSolaris etc.). The project is built for desktop environments based on GTK2.
+
+Follow developer Anirudh Acharya (@infra_red_dude)The goal of this project is to bring the Aqua User Interface to POSIX Operating Systems (GNU/LInux, FreeBSD, openSolaris etc.). The project is built for desktop environments based on GTK2.
+
+Follow developer Anirudh Acharya (@infra_red_dude)","Categories
+User Interface (UI)"
+"libusb-win32 is a port of the USB library libusb-0.1 (http://sf.net/projects/libusb/) to 32/64bit Windows. The library allows user space applications to access many USB device on Windows.
+
+Development of libusb-win32 is now at github https://github.com/mcuee/libusb-win32. Please use github if you need to report issues or submit patches.libusb-win32 is a port of the USB library libusb-0.1 (http://sf.net/projects/libusb/) to 32/64bit Windows. The library allows user space applications to access many USB device on Windows.
+
+Development of libusb-win32 is now at github https://github.com/mcuee/libusb-win32. Please use github if you need to report issues or submit patches.","Categories
+Software Development"
+"SAXPATH HAS BEEN INCORPORATED INTO JAXEN AT http://jaxen.codehaus.org
+
+
+SAXPath has been merged into the Jaxen codebase and is no longer being maintained separately.SAXPATH HAS BEEN INCORPORATED INTO JAXEN AT http://jaxen.codehaus.org
+
+
+SAXPath has been merged into the Jaxen codebase and is no longer being maintained separately.","Categories
+Software Development"
+"AllChars provides a quick, easy-to-remember way of creating accents like é Ü ç î æ and special characters like ƒ ² ‰ © £ ± ß ° 1/2 ¿ « » ™ „ in most Windows programs. AllChars emulates the *nix Compose key on Windows.AllChars provides a quick, easy-to-remember way of creating accents like é Ü ç î æ and special characters like ƒ ² ‰ © £ ± ß ° 1/2 ¿ « » ™ „ in most Windows programs. AllChars emulates the *nix Compose key on Windows.","Categories
+Other/Nonlisted Topic, Office/Business, Internationalization (I18N)"
+Library to enable user space application programs to communicate with USB devicesLibrary to enable user space application programs to communicate with USB devices,"Categories
+Software Development, Hardware, Libraries"
+Exuberant Ctags is a multilanguage reimplementation of the Unix ctags utility. Ctags generates an index of source code definitions which is used by numerous editors and utilities to instantly locate the definitions.Exuberant Ctags is a multilanguage reimplementation of the Unix ctags utility. Ctags generates an index of source code definitions which is used by numerous editors and utilities to instantly locate the definitions.,"Categories
+Software Development"
+"Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.Eagle Mode is a zoomable user interface (ZUI) with file manager, file viewers, games, and more.
+
+This project is about a futuristic style of human-computer interaction, where the user can visit almost everything simply by zooming in. It features a portable C++ toolkit API for developing such ZUIs, and it features the Eagle Mode application, which provides a virtual cosmos with plugin applications.
+
+The most important one is the professional file manager with its rich, scriptable command set. It integrates file viewers for most of the common file types, as well as an audio and video player. Furthermore, the virtual cosmos contains a chess game, a netwalk game, a 3D minesweeper game, a multi-function clock, a stock watchlist, some fractals, and a Linux kernel configurator in form of a kernel patch.","Categories
+Board Games, Puzzle Games, User Interface (UI), File Managers, HMI, Media Players"
+Endeavour Agile ALM is an Open Source solution to manage the creation of large-scale enterprise systems in an iterative and incremental agile software development process.Endeavour Agile ALM is an Open Source solution to manage the creation of large-scale enterprise systems in an iterative and incremental agile software development process.,"Categories
+Project Management, Collaborative Development, Agile Development Tools"
+"This project provides a full set of libraries to manage VMware Infrastructure and vSphere. 2.0+ includes a new Web Service engine much faster/smaller than Apach AXIS. Start @ http://vijava.sf.net Blog @ http://doublecloud.org Twitter: @sjin2008
+
+For commercial support and product vijavaNG, visit http://www.doublecloud.net.This project provides a full set of libraries to manage VMware Infrastructure and vSphere. 2.0+ includes a new Web Service engine much faster/smaller than Apach AXIS. Start @ http://vijava.sf.net Blog @ http://doublecloud.org Twitter: @sjin2008
+
+For commercial support and product vijavaNG, visit http://www.doublecloud.net.","Categories
+Virtual Machine, Systems Administration"
+"CppUnit is the C++ port of the famous JUnit framework for unit testing.
+Test output is in XML or text format for automatic testing and GUI based for supervised tests.CppUnit is the C++ port of the famous JUnit framework for unit testing.
+Test output is in XML or text format for automatic testing and GUI based for supervised tests.","Categories
+QA Automation"
+"Talend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.comTalend Open Studio for Data Integration is only available for download from https://www.talend.com/lp/open-studio-for-data-integration/.
+
+Open Studio for Data Integration is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.
+
+Millions of downloads and a full range of robust, open source integration software tools have made Talend the open source leader in cloud and big data integration.
+
+For more information, visit community.talend.com or help.talend.com","Categories
+Data Formats, Enterprise, Data Warehousing, Front-Ends, Code Generators, Distributed Computing, ETL"
+"Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO moduleHunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex compounding or character encoding. Hunspell interfaces: Curses, Ispell compatible pipe interface, OpenOffice.org UNO module","Categories
+Word Processors, Search Engines, Internationalization (I18N), Artificial Intelligence, HMI, Information Analysis"
+"CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.CLISP is a portable ANSI Common Lisp implementation and development environment by Bruno Haible. Interpreter, compiler, debugger, CLOS, MOP, FFI, Unicode, sockets, CLX. UI in English, German, French, Spanish, Dutch, Russian, and Danish.","Categories
+Build Tools, Compilers, Interpreters, System Shells, Artificial Intelligence, Mathematics"
+"The ""Open On-Chip Debugger"" provides JTAG/SWD access from GDB (or directly with TCL scripts) to processors with ARM and MIPS based cores.
+
+See website for full list of supported targets.The ""Open On-Chip Debugger"" provides JTAG/SWD access from GDB (or directly with TCL scripts) to processors with ARM and MIPS based cores.
+
+See website for full list of supported targets.","Categories
+Debuggers, Hardware"
+"Genji is a web based Scrum tool and task management system. It offers powerful filtering capabilities, many customization features, reports, integration with Jenkins, SVN, Git, Maven, and more.
+
+Support for RACI project management matrix and the Getting Things Done method is built in.Genji is a web based Scrum tool and task management system. It offers powerful filtering capabilities, many customization features, reports, integration with Jenkins, SVN, Git, Maven, and more.
+
+Support for RACI project management matrix and the Getting Things Done method is built in.","Categories
+Agile Development Tools, Task Managers"
+"This program is designed to simplify the creation of scripts (update.zip) for Android
+
+Can not download? - https://sites.google.com/view/osasc/download
+
+[Requirements for Windows]
+Systems: Windows XP/Vista/7/8/8.1/10 x86\x64
+Hard disk space: 200 mb
+Installed Java JDK (is not necessarily)
+Not a long path to the program (Java will stop signing)
+
+[Requirements for Linux \ MAC OS \ Solaris] (and anywhere can run Wine)
+You must install Wine, from the site www.winehq.org or from application manager
+Hard disk space: 150 mb
+Not a long path to the program (Java will stop signing)
+
+Post on XDA-Developers portal - http://www.xda-developers.com/easily-create-an-updater-script-using-a-windows-based-tool/
+DevDB Project XDA-Developers - http://forum.xda-developers.com/showthread.php?p=52558189#post52558189
+Information of develop (Blog) - http://vk.com/asc_os
+Source code: https://sourceforge.net/projects/androidscript/files/Source/This program is designed to simplify the creation of scripts (update.zip) for Android
+
+Can not download? - https://sites.google.com/view/osasc/download
+
+[Requirements for Windows]
+Systems: Windows XP/Vista/7/8/8.1/10 x86\x64
+Hard disk space: 200 mb
+Installed Java JDK (is not necessarily)
+Not a long path to the program (Java will stop signing)
+
+[Requirements for Linux \ MAC OS \ Solaris] (and anywhere can run Wine)
+You must install Wine, from the site www.winehq.org or from application manager
+Hard disk space: 150 mb
+Not a long path to the program (Java will stop signing)
+
+Post on XDA-Developers portal - http://www.xda-developers.com/easily-create-an-updater-script-using-a-windows-based-tool/
+DevDB Project XDA-Developers - http://forum.xda-developers.com/showthread.php?p=52558189#post52558189
+Information of develop (Blog) - http://vk.com/asc_os
+Source code: https://sourceforge.net/projects/androidscript/files/Source/","Categories
+Software Development, Cross Compilers"
+"PROJECT CLOSED!
+
+Alternative builds of Qt framework and Qt Creator for Windows x86 and x86-64.
+Multiple compilers:
+- MinGW (sjlj, seh, dw2 exception handling, posix threading),
+- Microsoft Visual C++ 2010, 2012, 2013.
+Additional components:
+- OpenSSL,
+- MySQL client,
+- PostgreSQL client.PROJECT CLOSED!
+
+Alternative builds of Qt framework and Qt Creator for Windows x86 and x86-64.
+Multiple compilers:
+- MinGW (sjlj, seh, dw2 exception handling, posix threading),
+- Microsoft Visual C++ 2010, 2012, 2013.
+Additional components:
+- OpenSSL,
+- MySQL client,
+- PostgreSQL client.","Categories
+Frameworks"
+"The Eclipse Tomcat Plugin provides simple integration of a tomcat servlet container for the development of java web applications.
+
+You can join us for discussion in our IRC channel #tomcatplugin on Freenode. Please be patient if noone is answering instantly. You can also create a new ticket if you need help.
+
+This project is a fork of the original Sysdeo Tomcat Plugin.
+
+Please use http://tomcatplugin.sf.net/update for installation.The Eclipse Tomcat Plugin provides simple integration of a tomcat servlet container for the development of java web applications.
+
+You can join us for discussion in our IRC channel #tomcatplugin on Freenode. Please be patient if noone is answering instantly. You can also create a new ticket if you need help.
+
+This project is a fork of the original Sysdeo Tomcat Plugin.
+
+Please use http://tomcatplugin.sf.net/update for installation.","Categories
+Software Development"
+"Using an embedded jetty server, this project exposes the core functionality of Sikuli for use within .NET projects. The nuGet package can be installed with the following command entered in the package manager:
+
+Install-Package Sikuli4Net
+
+Requires a working installation of the latest version of Sikuli.
+
+Additional setup required: See screenshots for examples of how to implement this tool. NUnit setup and teardown methods are required.
+
+NuGet package page is located here: https://www.nuget.org/packages/Sikuli4NetUsing an embedded jetty server, this project exposes the core functionality of Sikuli for use within .NET projects. The nuGet package can be installed with the following command entered in the package manager:
+
+Install-Package Sikuli4Net
+
+Requires a working installation of the latest version of Sikuli.
+
+Additional setup required: See screenshots for examples of how to implement this tool. NUnit setup and teardown methods are required.
+
+NuGet package page is located here: https://www.nuget.org/packages/Sikuli4Net","Categories
+QA Automation"
+"OtrosLogViewer is hosted on https://github.com/otros-systems/otroslogviewer. On sf.net you can download distribution pacakges.
+
+New versions are uploaded to GitHub: https://github.com/otros-systems/otroslogviewer/releasesOtrosLogViewer is hosted on https://github.com/otros-systems/otroslogviewer. On sf.net you can download distribution pacakges.
+
+New versions are uploaded to GitHub: https://github.com/otros-systems/otroslogviewer/releases","Categories
+Software Development, QA Automation"
+"It is not easy to find a perfect combination of open source automation tool and a free enterprise grade automation framework on top it. You can have this combination working for you when you use OpKey Personal Edition - The Tool Agnostic Test Automation Platform with Selenium RC(OpKey 1.0) and Selenium WebDriver(OpKey 2.0)- The most popular open source tool. And good news is - its FREE! So download it and start automating from day 1.
+
+Have Questions? Mail us at support.opkey@crestechglobal.com
+
+- Join our linked in group - https://www.linkedin.com/groups/OpKey-Smartest-Automation-Framework-4965478
+
+- Like OpKey Facebook Page - https://www.facebook.com/pages/OpKey-The-Tool-Agnostic-Test-Automation-Platform/682846981753261?ref_type=bookmark
+
+Note:- Please register at - (https://opkey.crestechglobal.com/opkey-registration/?from=personal) for FREE activation key of OpKey Personal Edition.It is not easy to find a perfect combination of open source automation tool and a free enterprise grade automation framework on top it. You can have this combination working for you when you use OpKey Personal Edition - The Tool Agnostic Test Automation Platform with Selenium RC(OpKey 1.0) and Selenium WebDriver(OpKey 2.0)- The most popular open source tool. And good news is - its FREE! So download it and start automating from day 1.
+
+Have Questions? Mail us at support.opkey@crestechglobal.com
+
+- Join our linked in group - https://www.linkedin.com/groups/OpKey-Smartest-Automation-Framework-4965478
+
+- Like OpKey Facebook Page - https://www.facebook.com/pages/OpKey-The-Tool-Agnostic-Test-Automation-Platform/682846981753261?ref_type=bookmark
+
+Note:- Please register at - (https://opkey.crestechglobal.com/opkey-registration/?from=personal) for FREE activation key of OpKey Personal Edition.","Categories
+Automated Testing"
+"A native AML compiler and IDE for OS X, with syntax coloring, tree navigation, automated patching, online patch file repositories, and iASL binary updates. Written entirely in Cocoa, conforms to OS X guidelinesA native AML compiler and IDE for OS X, with syntax coloring, tree navigation, automated patching, online patch file repositories, and iASL binary updates. Written entirely in Cocoa, conforms to OS X guidelines","Categories
+Compilers"
+"This is a complete API to access World of Warcraft armory at battle.net. This also includes cache control, so you can keep below the daily request limit.
+
+Ideas is more than welcome.
+Change log: http://sourceforge.net/p/wowarmoryapi/home/ChangelogThis is a complete API to access World of Warcraft armory at battle.net. This also includes cache control, so you can keep below the daily request limit.
+
+Ideas is more than welcome.
+Change log: http://sourceforge.net/p/wowarmoryapi/home/Changelog","Categories
+Multi-User Dungeons (MUD), CGI Scripts, Frameworks"
+"The ULTIMATE RCT3!!!! ""CTR/CS/Editor/Custom Utility/Custom Mod/Custom Stall/Creator/SID Editor Data/CTR & CS Creator Plugin/RCT3 Model/RCT3 Model Plugin/"" Mass Roller Coaster Tycoon 3 Repository!!!! (100% Safe/Legal!!!)The ULTIMATE RCT3!!!! ""CTR/CS/Editor/Custom Utility/Custom Mod/Custom Stall/Creator/SID Editor Data/CTR & CS Creator Plugin/RCT3 Model/RCT3 Model Plugin/"" Mass Roller Coaster Tycoon 3 Repository!!!! (100% Safe/Legal!!!)","Categories
+3D Modeling, Subversion, Game Development Frameworks"
+"AudioGenie is a fast Library with many functions to analyze audiofiles (like Bitrate, Samplerate, Frames, Duration, Version-Number, etc) and for tagging. This DLL can read and modify audio tags like id3v1, id3v2, ape, lyrics and mp4, ogg,flac & more.AudioGenie is a fast Library with many functions to analyze audiofiles (like Bitrate, Samplerate, Frames, Duration, Version-Number, etc) and for tagging. This DLL can read and modify audio tags like id3v1, id3v2, ape, lyrics and mp4, ogg,flac & more.","Categories
+Libraries"
+"HMG is a xBase development system based on Harbour compiler, MingW compiler and HMG library.HMG is a xBase development system based on Harbour compiler, MingW compiler and HMG library.","Categories
+Cross Compilers, Agile Development Tools, Libraries"
+"OpenMCDF is a 100% .net / C# component that allows developers to manipulate Microsoft Compound Document File Format for OLE structured storage. It supports read/write operations on streams and storages and traversal of structures tree.
+
+Development and issue tracking has moved to github platform at https://github.com/ironfede/openmcdfOpenMCDF is a 100% .net / C# component that allows developers to manipulate Microsoft Compound Document File Format for OLE structured storage. It supports read/write operations on streams and storages and traversal of structures tree.
+
+Development and issue tracking has moved to github platform at https://github.com/ironfede/openmcdf","Categories
+Libraries"
+"Technology demonstrator of 3D rendering and navigation within a standards compliant web page (requires browser SVG support), no need for a plugin. Intended for use creating basic informative diagrams, ideal for live 3D animations through a web 2.0 mashup. Uses JavaScript to generate SVG (inline) from X3D (inline) using a VRMLScript compliant environment object (an implementation of the VRMLScript standard in JS).Technology demonstrator of 3D rendering and navigation within a standards compliant web page (requires browser SVG support), no need for a plugin. Intended for use creating basic informative diagrams, ideal for live 3D animations through a web 2.0 mashup. Uses JavaScript to generate SVG (inline) from X3D (inline) using a VRMLScript compliant environment object (an implementation of the VRMLScript standard in JS).","Categories
+Software Development, Internet, 3D Rendering"
+"An experimental IDE for developing native applications in D. It manages your projects, contains a code completion engine and supports full symbolic debugging.
+
+Note: This software is not being actively developed anymore. Go have a look at http://wiki.dlang.org/IDEs to check out more updated IDEs like Mono-D which is D-IDE's descendant.An experimental IDE for developing native applications in D. It manages your projects, contains a code completion engine and supports full symbolic debugging.
+
+Note: This software is not being actively developed anymore. Go have a look at http://wiki.dlang.org/IDEs to check out more updated IDEs like Mono-D which is D-IDE's descendant.","Categories
+Integrated Development Environments (IDE), Build Tools"
+"Qt Jambi is the Qt library made available to Java. It is an open source technology aimed at all desktop programmers wanting to write rich GUI clients using the Java language, while at the same time taking advantage of Qt’s power and efficiency.Qt Jambi is the Qt library made available to Java. It is an open source technology aimed at all desktop programmers wanting to write rich GUI clients using the Java language, while at the same time taking advantage of Qt’s power and efficiency.","Categories
+User Interface (UI)"
+"Yunus is a simple ""visual"" script language. Yunus is obsolete (left in 2004). However this site exhibits many projects; you will find my other ""PHP, VS.NET, Flash, Delphi"" projects. eOgr is my second complete application after Yunus.Yunus is a simple ""visual"" script language. Yunus is obsolete (left in 2004). However this site exhibits many projects; you will find my other ""PHP, VS.NET, Flash, Delphi"" projects. eOgr is my second complete application after Yunus.","Categories
+Integrated Development Environments (IDE), Frameworks, Design"
+"C++, Matlab and Python library for Hidden-state Conditional Random Fields. Implements 3 algorithms: LDCRF, HCRF and CRF. For Windows and Linux, 32- and 64-bits. Optimized for multi-threading. Works with sparse or dense input features.C++, Matlab and Python library for Hidden-state Conditional Random Fields. Implements 3 algorithms: LDCRF, HCRF and CRF. For Windows and Linux, 32- and 64-bits. Optimized for multi-threading. Works with sparse or dense input features.","Categories
+Algorithms, Library, Information Analysis"
+"XMLPartner helps add the power of XML to Borland Delphi, C++ Builder, and Kylix projects through native, easy to use VCL and CLX components. These powerful components simplify the process of creating, modifying, and parsing XML data documents.XMLPartner helps add the power of XML to Borland Delphi, C++ Builder, and Kylix projects through native, easy to use VCL and CLX components. These powerful components simplify the process of creating, modifying, and parsing XML data documents.","Categories
+Software Development"
+"Trixul is an XML and JavaScript GUI toolkit that supports MacOS X, Linux, and Windows directly via Cocoa, Gtk+, and .NET. JavaScript code can call C++ components directly. Please visit the project web page (www.trixul.org) for additional information.Trixul is an XML and JavaScript GUI toolkit that supports MacOS X, Linux, and Windows directly via Cocoa, Gtk+, and .NET. JavaScript code can call C++ components directly. Please visit the project web page (www.trixul.org) for additional information.","Categories
+Software Development"
+"This ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1cThis ASN.1 compiler turns ASN.1 specifications into C code. The asn1c is shipped together with conformant BER/DER/XER/PER codecs. The X.509, GSM TAP3, MEGACO, RRC and LDAP encoding and decoding examples are part of the source code distribution.
+
+NOTE: THE asn1c PROJECT HAS LARGELY MOVED TO GITHUB: http://github.com/vlm/asn1c","Categories
+Telephony, Cryptography, Code Generators, Compilers, Networking, Interface Engine/Protocol Translator"
+"This library allows you to easily send and receive MIDI messages on the Arduino serial port. The purpose of this library is not to make a big MIDI controller or synth out of an Arduino board, but to help you do it, the application remains yours.
+
+/!\ PLEASE NOTE /!\
+Project is hosted on GitHub:
+https://github.com/FortySevenEffects/arduino_midi_library
+This SourceForge project is deprecated. Please download source/releases and post bug reports on GitHub.
+
+Documentation:
+http://arduinomidilib.fortyseveneffects.comThis library allows you to easily send and receive MIDI messages on the Arduino serial port. The purpose of this library is not to make a big MIDI controller or synth out of an Arduino board, but to help you do it, the application remains yours.
+
+/!\ PLEASE NOTE /!\
+Project is hosted on GitHub:
+https://github.com/FortySevenEffects/arduino_midi_library
+This SourceForge project is deprecated. Please download source/releases and post bug reports on GitHub.
+
+Documentation:
+http://arduinomidilib.fortyseveneffects.com","Categories
+MIDI, Libraries"
+"Turtle is a C++ mock object library based on Boost with a focus on usability, simplicity and flexibility.Turtle is a C++ mock object library based on Boost with a focus on usability, simplicity and flexibility.","Categories
+Software Testing"
+"OCILIB is an open source and cross platform Oracle Driver that delivers efficient access to Oracle databases. It offers a full featured, easy and productive API. Written in ISO C and C++ on top of OCI, OCILIB runs on all Oracle platforms.
+
+NOTE : The project has moved to GitHub !
+Website URL : http://www.ocilib.net
+GitHub URL : https://github.com/vrogier/ocilibOCILIB is an open source and cross platform Oracle Driver that delivers efficient access to Oracle databases. It offers a full featured, easy and productive API. Written in ISO C and C++ on top of OCI, OCILIB runs on all Oracle platforms.
+
+NOTE : The project has moved to GitHub !
+Website URL : http://www.ocilib.net
+GitHub URL : https://github.com/vrogier/ocilib","Categories
+Database, Frameworks"
+"Set of classes for PHP that allow Excel XML files to be generated dynamically.
+Nearly a full implementation of the MS XML architecture.
+Requires PHP 5+
+Does not require any XML librariesSet of classes for PHP that allow Excel XML files to be generated dynamically.
+Nearly a full implementation of the MS XML architecture.
+Requires PHP 5+
+Does not require any XML libraries","Categories
+XML, Libraries, Report Generators"
+"JWasm is a Masm-compatible assembler. It supports 16-, 32- and 64-bit code, instructions up to AVX and various output formats. It's written in C.JWasm is a Masm-compatible assembler. It supports 16-, 32- and 64-bit code, instructions up to AVX and various output formats. It's written in C.","Categories
+Compilers, Cross Compilers, Assemblers"
+a Java library for the automatic stimulation and testing of web applicationsa Java library for the automatic stimulation and testing of web applications,"Categories
+WWW/HTTP, Software Development"
+"This is a hash table, implemented in C, supporting constant-time add/find/remove of C structures. Any structure having a unique, arbitrarily-typed key member can be hashed by adding a UT_hash_handle member to the structure and calling these macros.This is a hash table, implemented in C, supporting constant-time add/find/remove of C structures. Any structure having a unique, arbitrarily-typed key member can be hashed by adding a UT_hash_handle member to the structure and calling these macros.","Categories
+Algorithms"
+"Eclipse Development Plugins: DB Manager, DB Designer, Report Designer for JasperReports, Dev Assistant, Properties EditorEclipse Development Plugins: DB Manager, DB Designer, Report Designer for JasperReports, Dev Assistant, Properties Editor","Categories
+Software Development"
+"Natural Docs is an open-source documentation generator for multiple programming languages. You document your code in a natural syntax that reads like plain English. Natural Docs then scans your code and builds high-quality HTML documentation from it.
+
+SourceForge houses the source code and issue database for the old Perl version of Natural Docs, version 1.52. It is still available but no longer being updated. Please see NaturalDocs.org for the 2.x source code and issue database.
+
+However, you can still download the both the old and the new 2.x releases of Natural Docs here.Natural Docs is an open-source documentation generator for multiple programming languages. You document your code in a natural syntax that reads like plain English. Natural Docs then scans your code and builds high-quality HTML documentation from it.
+
+SourceForge houses the source code and issue database for the old Perl version of Natural Docs, version 1.52. It is still available but no longer being updated. Please see NaturalDocs.org for the 2.x source code and issue database.
+
+However, you can still download the both the old and the new 2.x releases of Natural Docs here.","Categories
+Documentation"
+Eclim is a set of eclipse and vim plugins to integrate the two projects.Eclim is a set of eclipse and vim plugins to integrate the two projects.,"Categories
+Integrated Development Environments (IDE), Software Development, Scientific/Engineering"
+"Metawidget is a smart User Interface widget that populates itself, at runtime, with UI components to match the properties of your business objects. Supports Swing, Java Server Faces (JSF), GWT, Spring, Struts, Android, Hibernate, Groovy, JPA and moreMetawidget is a smart User Interface widget that populates itself, at runtime, with UI components to match the properties of your business objects. Supports Swing, Java Server Faces (JSF), GWT, Spring, Struts, Android, Hibernate, Groovy, JPA and more","Categories
+Frameworks, User Interface (UI)"
+"AJT is a set of utility classes for Java for handling some bioinformatics data, graphics file export, GUI widgets, and classes that should long have been added to the official Java API.AJT is a set of utility classes for Java for handling some bioinformatics data, graphics file export, GUI widgets, and classes that should long have been added to the official Java API.","Categories
+Software Development, Graphics, Bio-Informatics"
+"CoffeeMud is a text-based virtual reality game engine (a MUD). It is a mature, full-featured Java codebase. It includes web (HTTP) and email (SMTP) servers, chat (IMC2 and I3) and web clients, and supports ANSI, MXP, and MSP.CoffeeMud is a text-based virtual reality game engine (a MUD). It is a mature, full-featured Java codebase. It includes web (HTTP) and email (SMTP) servers, chat (IMC2 and I3) and web clients, and supports ANSI, MXP, and MSP.","Categories
+Game Engines, VR Development, Virtual Reality"
+The Abstract Large File (ALF) project is a portable library for writing files that can be larger than 2GB or contain holes on systems that don't natively support one or both properties.The Abstract Large File (ALF) project is a portable library for writing files that can be larger than 2GB or contain holes on systems that don't natively support one or both properties.,"Categories
+Software Development, File Systems"
+"Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.Wapiti is a vulnerability scanner for web applications.
+
+It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, XXE injections, CRLF injections, Server Side Request Forgery, Open Redirects...
+
+It use the Python 3 programming language.","Categories
+Security, WWW/HTTP, Software Testing, Vulnerability Scanners"
+"Programming library for writing an XML-RPC server or client in C or C++. XML-RPC is a standard network protocol to allow a client program to make a simple remote procedure call (RPC) type request of a server. Like SOAP or CORBA, but much simpler.Programming library for writing an XML-RPC server or client in C or C++. XML-RPC is a standard network protocol to allow a client program to make a simple remote procedure call (RPC) type request of a server. Like SOAP or CORBA, but much simpler.","Categories
+WWW/HTTP, Object Brokering"
+"A Tcl library extension for managing virtually any kind of images. It can load, save, display, transform images in a very simple and fast way. Supports the following image types: BMP,GIF,ICO,TGA,PCX,WBMP,WMF,PNM,PPM,PGM,RAS,JPEG-2000,JBIG,TIFF,MNG,PNG,JPA Tcl library extension for managing virtually any kind of images. It can load, save, display, transform images in a very simple and fast way. Supports the following image types: BMP,GIF,ICO,TGA,PCX,WBMP,WMF,PNM,PPM,PGM,RAS,JPEG-2000,JBIG,TIFF,MNG,PNG,JP","Categories
+Software Development"
+"UCDetector (Unnecessary Code Detector) is a Open Source Eclipse Plugin Tool. UCDetector finds unnecessary (dead) public Java code. It suggests to make code final, protected or private.UCDetector (Unnecessary Code Detector) is a Open Source Eclipse Plugin Tool. UCDetector finds unnecessary (dead) public Java code. It suggests to make code final, protected or private.","Categories
+Object Oriented, QA Automation, Source Code Analysis"
+"Application Server to make Java Components available for AS/400 RPG programs, runs on as400, i5, iSeries, System i or any other java platform. Packaged with ArdGate to access any JDBC database using all native SQL interfaces from AS/400.Application Server to make Java Components available for AS/400 RPG programs, runs on as400, i5, iSeries, System i or any other java platform. Packaged with ArdGate to access any JDBC database using all native SQL interfaces from AS/400.","Categories
+Frameworks, Application Servers"
+"Gilead permits you to use your Persistent POJO (and especially the partially loaded ones) outside the JVM (GWT, Flex, XML, Google AppEngine...) without pain. No lazy initialisation or serialization exception. Just POJO and Domain Driven Design :) !Gilead permits you to use your Persistent POJO (and especially the partially loaded ones) outside the JVM (GWT, Flex, XML, Google AppEngine...) without pain. No lazy initialisation or serialization exception. Just POJO and Domain Driven Design :) !","Categories
+Software Development"
+"Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.Comgt is a command line tool for controlling, configuring and interacting with Option Wireless 3G and 2G ( HSDPA, UMTS, EDGE, GPRS, GSM) data devices within the Linux environment.","Categories
+Communications, Wireless, Command Line Tools"
+DataNucleus provides Java data persistence to a range of datastores using JDO/JPA/REST APIs. *** Note that code development is no longer on SourceForge (code on SourceForge is for versions up to 3.3.5 only) ***DataNucleus provides Java data persistence to a range of datastores using JDO/JPA/REST APIs. *** Note that code development is no longer on SourceForge (code on SourceForge is for versions up to 3.3.5 only) ***,"Categories
+Object-Relational Mapping (ORM)"
+The Technical Library Template Interface is a library capable of providing standardized interfaces in Creative Commons EAL-4 standards to the open source community.The Technical Library Template Interface is a library capable of providing standardized interfaces in Creative Commons EAL-4 standards to the open source community.,"Categories
+Frameworks, System Shells, Systems Administration"
+"*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.*NOTE* Migrated to http://github.com/cracklib/cracklib
+
+Next generation version of libCrack password checking library. As of Oct 2008 (reflected in 2.8.15 code release), licensed under LGPL.","Categories
+Security, Authentication/Directory, Libraries"
+"Phido (Pronounced Fido) is an Integrated Desktop Environment for PHP, made with Java for Cross-platform compatiability. It features a debugging mode to view your web pages in action, and tab capabilities for editing multiple files.Phido (Pronounced Fido) is an Integrated Desktop Environment for PHP, made with Java for Cross-platform compatiability. It features a debugging mode to view your web pages in action, and tab capabilities for editing multiple files.","Categories
+Integrated Development Environments (IDE), User Interface (UI), Design"
+InstallJammer is a multiplatform GUI installer and builder. InstallJammer is no longer under active development.InstallJammer is a multiplatform GUI installer and builder. InstallJammer is no longer under active development.,"Categories
+Software Development, Software Distribution, Installation/Setup"
+Unitils is an open source library aimed at making unit and integration testing easy and maintainable.Unitils is an open source library aimed at making unit and integration testing easy and maintainable.,"Categories
+Software Testing"
+Configurable tool which allows Java applications to be installed and controlled like native NT or Unix services. Includes fault correction software to automatically restart crashed or frozen JVMs. Critical when app is needed 24x7. Built for flexibility.Configurable tool which allows Java applications to be installed and controlled like native NT or Unix services. Includes fault correction software to automatically restart crashed or frozen JVMs. Critical when app is needed 24x7. Built for flexibility.,"Categories
+Software Development, Monitoring, Installation/Setup"
+"Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.Paleta de Componentes para as Linguagens Delphi e Lazarus, compatível com Windows e Linux, que permite acesso direto a equipamentos de Automação Comercial, sem DLL's, interagindo com eles direto na porta serial.","Categories
+Communications, Office/Business, Frameworks, Hardware Drivers, Interface Engine/Protocol Translator"
+"The aim of the project is to develop an open source iSCSI target with professional features, works well in enterprise environment under real workload, and is scalable and versatile enough to meet the challenge of future storage needs and developements.The aim of the project is to develop an open source iSCSI target with professional features, works well in enterprise environment under real workload, and is scalable and versatile enough to meet the challenge of future storage needs and developements.","Categories
+Software Development, Backup, Networking, Hardware Drivers, Clustering, Scientific/Engineering"
+PGRFileManager is a free (MIT license) ajax-based file manager you can use standalone or with FCKEditor & CKEditorPGRFileManager is a free (MIT license) ajax-based file manager you can use standalone or with FCKEditor & CKEditor,"Categories
+Software Development, File Managers"
+"Open-source, free, multi-platform BASIC compiler, with syntax similar MS-QuickBASIC (including the GFX statements), that adds new features such as pointers, unsigned data types, inline assembly, a pre-processor and many others.Open-source, free, multi-platform BASIC compiler, with syntax similar MS-QuickBASIC (including the GFX statements), that adds new features such as pointers, unsigned data types, inline assembly, a pre-processor and many others.","Categories
+Build Tools, Code Generators, Compilers"
+"Formerly known as DotNetOpenId, this library brings easy and flexible OpenID, OAuth and InfoCard to the .NET platform. Official web site is at http://www.dotnetopenauth.net/, which includes source code downloads.Formerly known as DotNetOpenId, this library brings easy and flexible OpenID, OAuth and InfoCard to the .NET platform. Official web site is at http://www.dotnetopenauth.net/, which includes source code downloads.","Categories
+Cryptography, Libraries"
+"Funambol is the leading mobile cloud sync solution . The software in this repository is the open source version which consists of a sync server, clients/apps/sdks for mobile devices and computers, and connector software to interface with other systems. The open source version syncs PIM data such as contacts (address books), calendars (agendas), tasks and notes. The commercial version (unavailable on sourceforge) syncs additional data and media.Funambol is the leading mobile cloud sync solution . The software in this repository is the open source version which consists of a sync server, clients/apps/sdks for mobile devices and computers, and connector software to interface with other systems. The open source version syncs PIM data such as contacts (address books), calendars (agendas), tasks and notes. The commercial version (unavailable on sourceforge) syncs additional data and media.","Categories
+Software Development, Mobile"
+"OpenBEXI is a WYSIWYG HTML builder using the magic of HTML5 and CSS3 . By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
+All texts using the DOJO editor, pictures, charts, chart-flows, Dygraphs, timelines, lists and DOJO widgets edited on your browser look like the HTML page you are going to publish to your web site.
+OpenBEXI provides a powerful CSS and JavaScript editor to change on the fly the presentation and the behavior of your web pages.
+Tools allow you to create, manage and publish web projects and HTML pages for Internet.OpenBEXI is a WYSIWYG HTML builder using the magic of HTML5 and CSS3 . By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
+All texts using the DOJO editor, pictures, charts, chart-flows, Dygraphs, timelines, lists and DOJO widgets edited on your browser look like the HTML page you are going to publish to your web site.
+OpenBEXI provides a powerful CSS and JavaScript editor to change on the fly the presentation and the behavior of your web pages.
+Tools allow you to create, manage and publish web projects and HTML pages for Internet.","Categories
+HTML/XHTML, Web Development, Web Design"
+The mingw-w64 project is a complete runtime environment for gcc to support binaries native to Windows 64-bit and 32-bit operating systems.The mingw-w64 project is a complete runtime environment for gcc to support binaries native to Windows 64-bit and 32-bit operating systems.,"Categories
+Compilers, Cross Compilers"
+"Dave Raggett's excellent HTML Tidy lived here at SourceForge! And this site is kept for historic reasons only. Bugs, issues, feature requests should be filed on the current github site.Dave Raggett's excellent HTML Tidy lived here at SourceForge! And this site is kept for historic reasons only. Bugs, issues, feature requests should be filed on the current github site.","Categories
+WWW/HTTP, Software Development"
+"Eric is a Python IDE written using PyQt and QScintilla. It provides various features such as any number of open editors, an integrated (remote) debugger, project management facilities, unit test, refactoring and much more.Eric is a Python IDE written using PyQt and QScintilla. It provides various features such as any number of open editors, an integrated (remote) debugger, project management facilities, unit test, refactoring and much more.","Categories
+Browsers, Software Development"
+"Provides a ClearCase plug-in for the eclipse development environment.
+The plug-in Require a ClearCase client installed. We welcome feedback
+from end-user to make the plug-in more user-friendly. Release info will
+be published on release mailing-list.
+
+Version 2.2.36 --> requires java 1.7 or higher.
+
+Version 2.2.42 --> requires java 1.8 or higher.Provides a ClearCase plug-in for the eclipse development environment.
+The plug-in Require a ClearCase client installed. We welcome feedback
+from end-user to make the plug-in more user-friendly. Release info will
+be published on release mailing-list.
+
+Version 2.2.36 --> requires java 1.7 or higher.
+
+Version 2.2.42 --> requires java 1.8 or higher.","Categories
+Integrated Development Environments (IDE), Version Control"
+".NET C# USB library for WinUSB, LibUsb-Win32, and libusb-1.0. Using the common device classes, applications work with all operating systems and drivers without modification. Lots of example code. Open source software at sourceforge.net..NET C# USB library for WinUSB, LibUsb-Win32, and libusb-1.0. Using the common device classes, applications work with all operating systems and drivers without modification. Lots of example code. Open source software at sourceforge.net.","Categories
+Libraries"
+"FTGL is a free cross-platform Open Source C++ library that uses Freetype2 to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps, texture maps, outlines, polygon mesh, and extruded polygon rendering modes.FTGL is a free cross-platform Open Source C++ library that uses Freetype2 to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps, texture maps, outlines, polygon mesh, and extruded polygon rendering modes.","Categories
+Software Development, Graphics"
+"WebIssues is an open source, multi-platform system for issue tracking and team collaboration. It can be used to store, share and track issues with various attributes, description, comments and file attachments. The system is easy to install and use but has many capabilities and is highly customizable.
+
+Website: https://webissues.mimec.org/
+
+The current development version of WebIssues can be found at https://github.com/mimecorg/webissuesWebIssues is an open source, multi-platform system for issue tracking and team collaboration. It can be used to store, share and track issues with various attributes, description, comments and file attachments. The system is easy to install and use but has many capabilities and is highly customizable.
+
+Website: https://webissues.mimec.org/
+
+The current development version of WebIssues can be found at https://github.com/mimecorg/webissues","Categories
+Project Management, QA Automation, Help Desk"
+Simple is an XML serialization framework for Java. Its goal is to provide an XML serialization framework that enables rapid development of XML configuration and XML communication applications.Simple is an XML serialization framework for Java. Its goal is to provide an XML serialization framework that enables rapid development of XML configuration and XML communication applications.,"Categories
+Frameworks"
+"Colorer provides source text syntax highlighting services. It colorizes source codes in editor systems (more than 200 syntaxes). Uses powerful HRC format(XML, RE, context free grammas), allowing to support any language. Available as Eclipse plugin.Colorer provides source text syntax highlighting services. It colorizes source codes in editor systems (more than 200 syntaxes). Uses powerful HRC format(XML, RE, context free grammas), allowing to support any language. Available as Eclipse plugin.","Categories
+Integrated Development Environments (IDE), Text Processing, Frameworks"
+"The SoftPixel Engine is an OpenSource high level realtime 3D engine for C++ (GNU C++ & VisualC++). It supports Direct3D11, Direct3D9, OpenGL 1.1 - 4.1, OpenGL|ES 1.1 and OpenGL|ES 2.0 and runs on Windows, Linux, Android and iOS.The SoftPixel Engine is an OpenSource high level realtime 3D engine for C++ (GNU C++ & VisualC++). It supports Direct3D11, Direct3D9, OpenGL 1.1 - 4.1, OpenGL|ES 1.1 and OpenGL|ES 2.0 and runs on Windows, Linux, Android and iOS.","Categories
+Games/Entertainment, Software Development, 3D Rendering"
+"POSH is a social PHP widget portal, web-based content and RSS feed reader, customizable and compliant with Netvibes. Usable in an educational, associative or enterprise intranet context.POSH is a social PHP widget portal, web-based content and RSS feed reader, customizable and compliant with Netvibes. Usable in an educational, associative or enterprise intranet context.","Categories
+Enterprise, User Interface (UI), Social Networking"
+"Dev-PHP is a well-featured IDE for PHP. Fast and powerful, it is easy to use and has a lot of cool features : class browser, scripts preview, integration with PHP parsers, PHP-GTK library, and Xdebug of course. Dev-PHP-usb slips even into your pocket.Dev-PHP is a well-featured IDE for PHP. Fast and powerful, it is easy to use and has a lot of cool features : class browser, scripts preview, integration with PHP parsers, PHP-GTK library, and Xdebug of course. Dev-PHP-usb slips even into your pocket.","Categories
+Integrated Development Environments (IDE), Dynamic Content, Code Generators"
+"The goal of the project is to provide a Microsoft Visual SourceSafe (VSS) team provider plugin for Eclipse 4.x from the www.eclipse.org project. The plugin is well integrated in the IDE environment and provides support for all daily VSS operations.
+
+You can download it using the update site at: http://vssplugin.sourceforge.net/updates
+Help => Install New Software => Add as a update site => select vss plugin to install it.The goal of the project is to provide a Microsoft Visual SourceSafe (VSS) team provider plugin for Eclipse 4.x from the www.eclipse.org project. The plugin is well integrated in the IDE environment and provides support for all daily VSS operations.
+
+You can download it using the update site at: http://vssplugin.sourceforge.net/updates
+Help => Install New Software => Add as a update site => select vss plugin to install it.","Categories
+Version Control"
+"log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.","Categories
+Software Development, Logging"
+Open tool platform for the cost effective rigorous development of dependable complex software systems services. This platform is based on the event-B formal method and provides natural support for refinement and mathematical proof.Open tool platform for the cost effective rigorous development of dependable complex software systems services. This platform is based on the event-B formal method and provides natural support for refinement and mathematical proof.,"Categories
+Integrated Development Environments (IDE), UML, Mathematics"

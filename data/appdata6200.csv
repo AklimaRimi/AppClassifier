@@ -1,0 +1,804 @@
+Description,Category
+Easy FTP Server with many options.Easy FTP Server with many options.,"Categories
+File Transfer Protocol (FTP)"
+"PHPLIB is an object-oriented application development toolkit for PHP. It is primarily of benefit to Web application developers, but contains classes which are useful to other PHP developers as well.PHPLIB is an object-oriented application development toolkit for PHP. It is primarily of benefit to Web application developers, but contains classes which are useful to other PHP developers as well.","Categories
+Dynamic Content, Software Development"
+Diplomacy is a popular turn based strategy game in which you battle to control Europe; to win you must be diplomatic and strategic. webDiplomacy lets you play Diplomacy online. Official game server: http://webdiplomacy.net/Diplomacy is a popular turn based strategy game in which you battle to control Europe; to win you must be diplomatic and strategic. webDiplomacy lets you play Diplomacy online. Official game server: http://webdiplomacy.net/,"Categories
+Board Games, Turn Based Strategy, Dynamic Content"
+"Blitz templates is a fast template engine written in C and compiled as a PHP module. It started as a php_templates replacement, but developed into much more. It is based on extensible template controllers (PHP) and weakly-active templates (HTML).Blitz templates is a fast template engine written in C and compiled as a PHP module. It started as a php_templates replacement, but developed into much more. It is based on extensible template controllers (PHP) and weakly-active templates (HTML).","Categories
+Dynamic Content, Frameworks"
+"ConcatPDF is the tool to concatenate PDF files. It can concatenate, extract, encrypt, decrypt, configure PDF files, convert image files to PDF. GUI version and CUI version are both available.
+
+iText.NET is iText porting on .NET Framework by J#. This library allows you to generate PDF, (X)HTML, XML, RTF files on Microsoft.NET Framework including ASP.NET.ConcatPDF is the tool to concatenate PDF files. It can concatenate, extract, encrypt, decrypt, configure PDF files, convert image files to PDF. GUI version and CUI version are both available.
+
+iText.NET is iText porting on .NET Framework by J#. This library allows you to generate PDF, (X)HTML, XML, RTF files on Microsoft.NET Framework including ASP.NET.","Categories
+Text Processing, Dynamic Content, PDF"
+"Sarissa is a cross-browser ECMAScript lib that helps with browser incompatibilities in XMLHttpRequest/XML/XSLT/XPath along with some bonus utility methods. People call some of this Ajax nowdays, but the term was not available back in early 2003 ;-)Sarissa is a cross-browser ECMAScript lib that helps with browser incompatibilities in XMLHttpRequest/XML/XSLT/XPath along with some bonus utility methods. People call some of this Ajax nowdays, but the term was not available back in early 2003 ;-)","Categories
+Browsers, Dynamic Content, Software Development"
+"Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.Development of this project has been moved to https://github.com/jonelo/jacksum. This site has been left for historical purposes ONLY, you find older Jacksum versions here. Please visit the GitHub site for current development.
+
+Jacksum 1.7.0 is a platform independent checksum utility (written entirely in Java) for computing and verifying (integrity check) checksums, CRC and hashes (fingerprints). It supports 58 popular hash algorithms and a lot of unique features.","Categories
+Office/Business, Security, Systems Administration, Internet, Scientific/Engineering, Education"
+"Decodes CGI data from standard input, $QUERY_STRING , and $HTTP_COOKIE. Stores data in lookup table(s) for easy retrieval. Uploads files by copying
+directly to files created with mkstemp(). Has several handy string conversion
+functions.Decodes CGI data from standard input, $QUERY_STRING , and $HTTP_COOKIE. Stores data in lookup table(s) for easy retrieval. Uploads files by copying
+directly to files created with mkstemp(). Has several handy string conversion
+functions.","Categories
+HTML/XHTML, CGI Scripts"
+"Implementation of an open source FTP Server which comply with RFC 959, RFC 2228, RFC 2389 and RFC 2428. Implemented in Java. This server can be run as a stand alone FTP server and can be easily embedded in any java project. Please visit our project hImplementation of an open source FTP Server which comply with RFC 959, RFC 2228, RFC 2389 and RFC 2428. Implemented in Java. This server can be run as a stand alone FTP server and can be easily embedded in any java project. Please visit our project h","Categories
+File Transfer Protocol (FTP), Application Servers"
+"GloryLands is a Web-based, Massive Multiplayer Online RPG/Strategy game written entirely in PHP/MySQL. It aims to be endless and always interesting, using the constant contribution of the Game community.GloryLands is a Web-based, Massive Multiplayer Online RPG/Strategy game written entirely in PHP/MySQL. It aims to be endless and always interesting, using the constant contribution of the Game community.","Categories
+Turn Based Strategy, Role-Playing Games (RPG), WWW/HTTP"
+"SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported. SSLScan is designed to be easy, lean and fast. The output includes prefered ciphers of the SSL service, the certificate and is in Text and XML formats.","Categories
+Cryptography, Software Testing, Systems Administration, Networking, Internet"
+"The Wikipedia Miner toolkit provides simplified access to Wikipedia. This open encyclopedia represents a vast, constantly evolving multilingual database of concepts and semantic relations; a promising resource for nlp and related research.The Wikipedia Miner toolkit provides simplified access to Wikipedia. This open encyclopedia represents a vast, constantly evolving multilingual database of concepts and semantic relations; a promising resource for nlp and related research.","Categories
+Search Engines, Information Analysis"
+JODReports is a solution for generating dynamic documents and reports in Java based on the OpenDocument format (ODF). Templates can be easily composed with a word processor such as OpenOffice.org Writer. Data sources include POJOs and XML.JODReports is a solution for generating dynamic documents and reports in Java based on the OpenDocument format (ODF). Templates can be easily composed with a word processor such as OpenOffice.org Writer. Data sources include POJOs and XML.,"Categories
+Text Processing, Office/Business, Dynamic Content"
+SItema de Votaciones para top-sitesSItema de Votaciones para top-sites,"Categories
+Content Management Systems (CMS), MMORPG"
+"Get a HTML text and generate a PDF file to make it printer-friendly. This PHP script is based upon FPDF PHP script (www.fpdf.org). More info can be found on the home page (http://html2fpdf.sourceforge.net/).
+
+(Note: this project is no longer updated - but it still works for what it was made for: very simple HTML 2 PDF with PHP only [no need to install anything])Get a HTML text and generate a PDF file to make it printer-friendly. This PHP script is based upon FPDF PHP script (www.fpdf.org). More info can be found on the home page (http://html2fpdf.sourceforge.net/).
+
+(Note: this project is no longer updated - but it still works for what it was made for: very simple HTML 2 PDF with PHP only [no need to install anything])","Categories
+CGI Scripts"
+"Mambo is a mature, award winning, feature rich content management system used for everything from simple websites to complex corporate applications. NOTE: Files here are older releases only. Please visit http://mambo-code.org for the latest releases.Mambo is a mature, award winning, feature rich content management system used for everything from simple websites to complex corporate applications. NOTE: Files here are older releases only. Please visit http://mambo-code.org for the latest releases.","Categories
+Site Management, Content Management Systems (CMS)"
+"Logs Analyzer, Alerter & Reporter with a Web InterfaceLogs Analyzer, Alerter & Reporter with a Web Interface","Categories
+Security, Log Analysis, Logging"
+"Rico is a JavaScript library for creating rich internet applications. Version 1 is JavaScript only. Versions 2 & 3 include server-side code (asp, asp.net, and php) to make creating web apps even easier. Versions 1 & 2 are based on Prototype and include grids, calendar & tree controls, drag & drop, and cinematic effects. Version 3 goes beyond Prototype, and includes support for jQuery, MooTools, Dojo, Ext, and BBC Glow libraries. Version 3 is only available in the SVN repository. The rico3.net branch includes a .net server control.Rico is a JavaScript library for creating rich internet applications. Version 1 is JavaScript only. Versions 2 & 3 include server-side code (asp, asp.net, and php) to make creating web apps even easier. Versions 1 & 2 are based on Prototype and include grids, calendar & tree controls, drag & drop, and cinematic effects. Version 3 goes beyond Prototype, and includes support for jQuery, MooTools, Dojo, Ext, and BBC Glow libraries. Version 3 is only available in the SVN repository. The rico3.net branch includes a .net server control.","Categories
+Dynamic Content, Frameworks, User Interface (UI)"
+Open source php/mysql fully featured auction script. Perfect for those who want to start their own auction site.Open source php/mysql fully featured auction script. Perfect for those who want to start their own auction site.,"Categories
+Enterprise, Internet, eCommerce"
+"This editor is a free and open-source online tool which lets you design html pages with an interface very close to dreamweaver's or powerpoint's one. But we've put a special touch in it ;)
+
+The HTML5 editor is now available online and called Silex. Only developers will want to download Silex source code from github.
+
+**No need to download it, simply follow the link bellow**This editor is a free and open-source online tool which lets you design html pages with an interface very close to dreamweaver's or powerpoint's one. But we've put a special touch in it ;)
+
+The HTML5 editor is now available online and called Silex. Only developers will want to download Silex source code from github.
+
+**No need to download it, simply follow the link bellow**","Categories
+Site Management, Graphic Design, Content Management Systems (CMS)"
+CHM Reader is a Firefox extension that make Compiled HTML Files can be viewed with Firefox directly.CHM Reader is a Firefox extension that make Compiled HTML Files can be viewed with Firefox directly.,"Categories
+Browsers"
+"YVD is a small graphical program to download videos from Youtube.com. YVD support choosing the video quality to download, downloading multi videos and setting up your own proxy settings.YVD is a small graphical program to download videos from Youtube.com. YVD support choosing the video quality to download, downloading multi videos and setting up your own proxy settings.","Categories
+Internet, Video Downloaders, YouTube Downloaders"
+"BBSSH is a Blackberry Telnet and SSH client for legacy BlackBerry devices (OS 7.1 and earlier).
+
+Please see the official website at http://bbssh.org/ for features and downloads.BBSSH is a Blackberry Telnet and SSH client for legacy BlackBerry devices (OS 7.1 and earlier).
+
+Please see the official website at http://bbssh.org/ for features and downloads.","Categories
+Terminals, SSH"
+"SCREEM is a GNOME website / tag based html editor (ie not WYSIWYG) which aims not only to aid in creating web pages, but also to provide useful site maintainance facilities as well, including automatic link updating, and site upload facilities.SCREEM is a GNOME website / tag based html editor (ie not WYSIWYG) which aims not only to aid in creating web pages, but also to provide useful site maintainance facilities as well, including automatic link updating, and site upload facilities.","Categories
+Integrated Development Environments (IDE), GNOME, Site Management"
+"wxDownload Fast is a multi-platform download manager. It downloads faster by getting segments from multiple locations at the same time. It was created in C++ using the wxWidgets library.
+
+ALERT: There is a malware using the name wxdownload (or wxdownloadmanager). The malware site use some of the original screenshots and texts. Be carefully. The wxDownload Fast original files are aways hosted in SourceForge.net.wxDownload Fast is a multi-platform download manager. It downloads faster by getting segments from multiple locations at the same time. It was created in C++ using the wxWidgets library.
+
+ALERT: There is a malware using the name wxdownload (or wxdownloadmanager). The malware site use some of the original screenshots and texts. Be carefully. The wxDownload Fast original files are aways hosted in SourceForge.net.","Categories
+Internet, Download Managers"
+"Revive Adserver (ex OpenX Source, phpAdsNew) is an open-source ad server, with an integrated banner management interface and tracking system for gathering statistics.
+
+This page is left for historical purposes only.Revive Adserver (ex OpenX Source, phpAdsNew) is an open-source ad server, with an integrated banner management interface and tracking system for gathering statistics.
+
+This page is left for historical purposes only.","Categories
+Dynamic Content"
+MultiGet is a http/ftp downloader with a nice GUI for linux/windows/unix desktop users. It can run on almost all desktops without any configuration. It has many powerful functions comparing to others.MultiGet is a http/ftp downloader with a nice GUI for linux/windows/unix desktop users. It can run on almost all desktops without any configuration. It has many powerful functions comparing to others.,"Categories
+Desktop Environment, File Transfer Protocol (FTP), WWW/HTTP"
+"DL-Learner is a tool for learning concepts in Description Logics (DLs) from user-provided examples. Equivalently, it can be used to learn classes in OWL ontologies from selected objects.
+
+As of August 2014, the source code management of DL-Learner has moved to Github: https://github.com/AKSW/DL-Learner
+
+Please use this for the latest code and issue tracking and the website (http://dl-learner.org) for general information.DL-Learner is a tool for learning concepts in Description Logics (DLs) from user-provided examples. Equivalently, it can be used to learn classes in OWL ontologies from selected objects.
+
+As of August 2014, the source code management of DL-Learner has moved to Github: https://github.com/AKSW/DL-Learner
+
+Please use this for the latest code and issue tracking and the website (http://dl-learner.org) for general information.","Categories
+WWW/HTTP, Artificial Intelligence"
+"Primeleaf Consulting's KRYSTAL Document Management and Imaging Software Systems enables organizations and individuals to Scan, Index, Capture, Retrieve, Manage, Control and Distribute critical business document safely and securely. Our document management software systems, replaces paper-based processes with electronic procedures, eliminating the printing, posting and manual filing of paper documents and thus it will drive significant cost savings across your organization.
+
+Please visit https:///www.krystaldms.in for more details.
+
+KRYSTAL DMS - Community Edition 2022 is easy to use, powerful and completely free document management software that allows companies and individuals to centralize the management, storage, retrieval and distribution of documents.
+
+KRYSTAL DMS - Community Edition 2022 comes bundled with an Open Source database and users do not have to invest in any other software.Primeleaf Consulting's KRYSTAL Document Management and Imaging Software Systems enables organizations and individuals to Scan, Index, Capture, Retrieve, Manage, Control and Distribute critical business document safely and securely. Our document management software systems, replaces paper-based processes with electronic procedures, eliminating the printing, posting and manual filing of paper documents and thus it will drive significant cost savings across your organization.
+
+Please visit https:///www.krystaldms.in for more details.
+
+KRYSTAL DMS - Community Edition 2022 is easy to use, powerful and completely free document management software that allows companies and individuals to centralize the management, storage, retrieval and distribution of documents.
+
+KRYSTAL DMS - Community Edition 2022 comes bundled with an Open Source database and users do not have to invest in any other software.","Categories
+File Managers, Content Management Systems (CMS), Knowledge Management, Document Management"
+"Lobo is an extensible all-Java web browser and RIA platform. It supports HTML 4, Javascript (AJAX) and CSS 2 plus direct JavaFX and Java (Swing/AWT) rendering. Cobra is the web browser's renderer API; also a Javascript-aware HTML parser.Lobo is an extensible all-Java web browser and RIA platform. It supports HTML 4, Javascript (AJAX) and CSS 2 plus direct JavaFX and Java (Swing/AWT) rendering. Cobra is the web browser's renderer API; also a Javascript-aware HTML parser.","Categories
+Desktop Environment, Software Development, Internet"
+"AutoIndex is a PHP script that makes a table that lists the files in a directory, and lets users access the files and subdirectories.
+It includes searching, icons for each file type, an admin panel, uploads, access logging, file descriptions, and more.AutoIndex is a PHP script that makes a table that lists the files in a directory, and lets users access the files and subdirectories.
+It includes searching, icons for each file type, an admin panel, uploads, access logging, file descriptions, and more.","Categories
+Dynamic Content, Search Engines, Site Management, Log Analysis, Authentication/Directory"
+"BitTorrent is a tool for distributed download. Go to http://www.bittorrent.com/ for the latest version, or http://www.bittorrent.com/dl/?C=M;O=D for source and older versions.BitTorrent is a tool for distributed download. Go to http://www.bittorrent.com/ for the latest version, or http://www.bittorrent.com/dl/?C=M;O=D for source and older versions.","Categories
+File Sharing, File Transfer Protocol (FTP), WWW/HTTP"
+A web based mp3 player and content management solution for digital music libraries.A web based mp3 player and content management solution for digital music libraries.,"Categories
+Site Management, MP3"
+"PHP Pick 'Em is a free php web application that allows you to host a weekly NFL pick 'em football pool on your website. Much simpler than fantasy football, but just as fun.
+
+PROJECT HAS MOVED TO GITHUB: https://github.com/rothkj1022/phppickemPHP Pick 'Em is a free php web application that allows you to host a weekly NFL pick 'em football pool on your website. Much simpler than fantasy football, but just as fun.
+
+PROJECT HAS MOVED TO GITHUB: https://github.com/rothkj1022/phppickem","Categories
+Dynamic Content"
+"Strict DLP Chinese (SDC) is a strict DLP based on the eMule Xtreme (official) version. SoftBan list in SDC includes the eMule VeryCD Mod and the easyMule (1) because of GPL-breaker, private network, community leecher and other behavior.Strict DLP Chinese (SDC) is a strict DLP based on the eMule Xtreme (official) version. SoftBan list in SDC includes the eMule VeryCD Mod and the easyMule (1) because of GPL-breaker, private network, community leecher and other behavior.","Categories
+Other file transfer protocol"
+"AnyTM (pronounced Any-Tea-M) stands for Any Team Management System. It is a Drupal (drupal.org) Installation Profile that aims to help you simply set up a powerful custom website for organising and managing Any Team, from a sports clubs to a business.AnyTM (pronounced Any-Tea-M) stands for Any Team Management System. It is a Drupal (drupal.org) Installation Profile that aims to help you simply set up a powerful custom website for organising and managing Any Team, from a sports clubs to a business.","Categories
+Scheduling, WWW/HTTP"
+"Firmware para placa de desarrollo Arduino ESP32-S2 Mini v1.0.0 LOLIN-WIF WEMOS
+ESP32S2 Dev para Montar Servidor Host AP Playstation 4
+
+Para conectar con la placa ESP32-S2 Mini
+
+WiFi SSID: PS4-Host-AP
+Password: password
+
+Página del administrador
+http://10.1.1.1/admin.html
+http://ps4.local/admin.html
+
+Nota Importante 1:
+En la sección configuración General en Conexión WIFI marcar la casilla INICIAR WIFI:
+y conectar a su wifi local para poder administrar desde una PC,
+Así podrá subir archivos, borrarlos y Actualizar el Firmware de la placa
+
+Nota Importante 2:
+La herramienta NodeMCU-PyFlasher solo la necesita cuando su placa ESP32-S2 este vacía,
+es decir, sin ningún firmware, luego que cargue este firmware,
+no volverá a necesitarla y para actualizar solo requerirá descargar la última versión fwupdate.bin
+
+Información de la Placa:
+https://www.wemos.cc/en/latest/s2/s2_mini.html
+
+La placa se puede adquirir en el siguiente link
+https://es.aliexpress.com/item/Firmware para placa de desarrollo Arduino ESP32-S2 Mini v1.0.0 LOLIN-WIF WEMOS
+ESP32S2 Dev para Montar Servidor Host AP Playstation 4
+
+Para conectar con la placa ESP32-S2 Mini
+
+WiFi SSID: PS4-Host-AP
+Password: password
+
+Página del administrador
+http://10.1.1.1/admin.html
+http://ps4.local/admin.html
+
+Nota Importante 1:
+En la sección configuración General en Conexión WIFI marcar la casilla INICIAR WIFI:
+y conectar a su wifi local para poder administrar desde una PC,
+Así podrá subir archivos, borrarlos y Actualizar el Firmware de la placa
+
+Nota Importante 2:
+La herramienta NodeMCU-PyFlasher solo la necesita cuando su placa ESP32-S2 este vacía,
+es decir, sin ningún firmware, luego que cargue este firmware,
+no volverá a necesitarla y para actualizar solo requerirá descargar la última versión fwupdate.bin
+
+Información de la Placa:
+https://www.wemos.cc/en/latest/s2/s2_mini.html
+
+La placa se puede adquirir en el siguiente link
+https://es.aliexpress.com/item/","Categories
+HTTP Servers, Software Development"
+"Yet another way to transfer files that strikes a good balance between speed, security or simplicity by using relay-assisted peer-to-peer transactions and end-to-end encryption via password-authenticated key exchange. There are a lot of ways to transfer files. Above the basic necessity of preserving the data during the transfer, sharing data should be fast, secure, and most of all, easy. Most file transfer utilities I’ve used encompass two thirds of these qualities. I’ve wanted to make a utility that encompasses all three, without compromising any one of them. A common way to transfer a file is to first upload data to a server, and then, once uploaded, the link is shared with someone who goes to download it. This method is easy, but slow, the transfer rate of the file is half the harmonic mean of the upload and download speeds which makes it slower than either just uploading or downloading.Yet another way to transfer files that strikes a good balance between speed, security or simplicity by using relay-assisted peer-to-peer transactions and end-to-end encryption via password-authenticated key exchange. There are a lot of ways to transfer files. Above the basic necessity of preserving the data during the transfer, sharing data should be fast, secure, and most of all, easy. Most file transfer utilities I’ve used encompass two thirds of these qualities. I’ve wanted to make a utility that encompasses all three, without compromising any one of them. A common way to transfer a file is to first upload data to a server, and then, once uploaded, the link is shared with someone who goes to download it. This method is easy, but slow, the transfer rate of the file is half the harmonic mean of the upload and download speeds which makes it slower than either just uploading or downloading.","Categories
+File Transfer Protocol (FTP)"
+"Motrix is a full-featured, cross-platform download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk and more. It’s got an interface that’s clean, simple and easy to use, plus a number of great features. It can handle up to 10 concurrent downloads, can support 64 threads in a single task, support speed limit and more! It comes in both Chinese and English with many other translations in the works, and has dark mode available.Motrix is a full-featured, cross-platform download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk and more. It’s got an interface that’s clean, simple and easy to use, plus a number of great features. It can handle up to 10 concurrent downloads, can support 64 threads in a single task, support speed limit and more! It comes in both Chinese and English with many other translations in the works, and has dark mode available.","Categories
+File Sharing, BitTorrent, File Transfer Protocol (FTP), Download Managers"
+"SCart e-commerce: Free open source for businesses
+Demo admin: https://demo.s-cart.org/sc_admin
+Demo shop: https://demo.s-cart.org
+Homepage: https://s-cart.org/
+Document: https://s-cart.org/docs/master
+Github: https://github.com/s-cart/s-cart
+Group: https://www.facebook.com/groups/scart.opensource
+
+List Functions:
+
+===== SHOPPING =====
+
+- Multi store (website)
+- Multi-language
+- Multi-currency
+- Multi-address customer
+- Multi-supplies
+- Product: price sale, cost price, promotion price, quantity, multi images, attributes ..
+- Blogs, news content
+- Api manager
+
+======= SYSTEM MANAGEMENT =======
+
+- Admin roles, permissions powerful
+- Customer management
+- Order management
+- Report: chart, statistics, export csv, pdf...
+- Image management
+- Plugin management: Shipping, Discount, Payment
+- Tempplate, layout managementSCart e-commerce: Free open source for businesses
+Demo admin: https://demo.s-cart.org/sc_admin
+Demo shop: https://demo.s-cart.org
+Homepage: https://s-cart.org/
+Document: https://s-cart.org/docs/master
+Github: https://github.com/s-cart/s-cart
+Group: https://www.facebook.com/groups/scart.opensource
+
+List Functions:
+
+===== SHOPPING =====
+
+- Multi store (website)
+- Multi-language
+- Multi-currency
+- Multi-address customer
+- Multi-supplies
+- Product: price sale, cost price, promotion price, quantity, multi images, attributes ..
+- Blogs, news content
+- Api manager
+
+======= SYSTEM MANAGEMENT =======
+
+- Admin roles, permissions powerful
+- Customer management
+- Order management
+- Report: chart, statistics, export csv, pdf...
+- Image management
+- Plugin management: Shipping, Discount, Payment
+- Tempplate, layout management","Categories
+Content Management Systems (CMS), eCommerce, Shopping Carts"
+"AWGG comes from Advanced Wget GUI. AWGG is a lightweight multiplatform and multilanguage download manager, basically a wget frontend and other tools like aria2, curl, youtube-dl and axel. AWGG is written in Free Pascal , using CodeTyphon and Lazarus IDE.AWGG comes from Advanced Wget GUI. AWGG is a lightweight multiplatform and multilanguage download manager, basically a wget frontend and other tools like aria2, curl, youtube-dl and axel. AWGG is written in Free Pascal , using CodeTyphon and Lazarus IDE.","Categories
+File Transfer Protocol (FTP), Internet, Download Managers"
+"Bruv is a basic browser. Minimalism is the central theme of Bruv. It is less than 1 Megabyte in size. With less time to fire up than other browsers it is specifically created for those operating under time constraint.
+This is my first major C# project. I am 14 years old.
+Any constructive criticism or feedback is always welcome.
+Bruv requires .NET Framework 4.5 or higher to run.
+Source Code for the project is provider with the application in the same directory once you install Bruv.Bruv is a basic browser. Minimalism is the central theme of Bruv. It is less than 1 Megabyte in size. With less time to fire up than other browsers it is specifically created for those operating under time constraint.
+This is my first major C# project. I am 14 years old.
+Any constructive criticism or feedback is always welcome.
+Bruv requires .NET Framework 4.5 or higher to run.
+Source Code for the project is provider with the application in the same directory once you install Bruv.","Categories
+Browsers"
+"What's New?
+Add Dialler and IP hunter
+Add menu log plink
+Add menu Restart Plink and Bitvise
+Add menu Install and remove Tap adapter
+Add Tun2Sock Forwarder
+Add Feature No-Proxy System
+Add Brazil (portugis) Language
+Re - new some interface on text
+Add Start-time Tool duration
+New System Encrypt Config
+New System on Load and Save Config ( You can load config without import, just click your config twice or open With this tool)What's New?
+Add Dialler and IP hunter
+Add menu log plink
+Add menu Restart Plink and Bitvise
+Add menu Install and remove Tap adapter
+Add Tun2Sock Forwarder
+Add Feature No-Proxy System
+Add Brazil (portugis) Language
+Re - new some interface on text
+Add Start-time Tool duration
+New System Encrypt Config
+New System on Load and Save Config ( You can load config without import, just click your config twice or open With this tool)","Categories
+Internet, SSH"
+"package update 10/24/2020
+- due to recent changes to dev repo of youtube-dl project, youtube-dl binary is excluded from the package (You will need to download it separately in order to use tube downloading features.)
+
+Thanks to youtube-dl project http://youtube-dl.org/
+Downloads Video/Audio from supported sites (plus generic video sites)
+Thanks to Aria2c project; https://aria2.github.io/
+Downloads from virtually any protocols , magnet links / torrent networks with chunked multi connection option!
+- Downloads Playlists at once ! (mp3/mp4 format)
+- Converts downloaded videos to mp4.
+- Pause-Resume dl's (just enter same URL to resume).
+- Builtin update for youtube-dl
+- No privacy intrusion, home-calls, telemetry, analytics, ads etc.package update 10/24/2020
+- due to recent changes to dev repo of youtube-dl project, youtube-dl binary is excluded from the package (You will need to download it separately in order to use tube downloading features.)
+
+Thanks to youtube-dl project http://youtube-dl.org/
+Downloads Video/Audio from supported sites (plus generic video sites)
+Thanks to Aria2c project; https://aria2.github.io/
+Downloads from virtually any protocols , magnet links / torrent networks with chunked multi connection option!
+- Downloads Playlists at once ! (mp3/mp4 format)
+- Converts downloaded videos to mp4.
+- Pause-Resume dl's (just enter same URL to resume).
+- Builtin update for youtube-dl
+- No privacy intrusion, home-calls, telemetry, analytics, ads etc.","Categories
+File Sharing, File Transfer Protocol (FTP), Other file transfer protocol"
+"CSZ CMS is an open source web application that allows to manage all content and settings on the websites. CSZ CMS was built on the basis of Codeigniter and design the structure of Bootstrap, this should make your website fully responsive with ease.
+
+CSZ CMS is based on the server side script language PHP and uses a MySQL or MariaDB database for data storage. CSZ CMS is open-source Content Management System. And all is free under the Astian Develop Public License (ADPL).CSZ CMS is an open source web application that allows to manage all content and settings on the websites. CSZ CMS was built on the basis of Codeigniter and design the structure of Bootstrap, this should make your website fully responsive with ease.
+
+CSZ CMS is based on the server side script language PHP and uses a MySQL or MariaDB database for data storage. CSZ CMS is open-source Content Management System. And all is free under the Astian Develop Public License (ADPL).","Categories
+Content Management Systems (CMS)"
+"In Files there is WebCrawlerMySQL.jar which supports MySql Connection
+
+Please follow this link to get latest version
+https://sourceforge.net/projects/web-spider-web-crawler-extract/
+
+
+Free Web Spider & Crawler. Extracts Information from Web by parsing millions of pages. Store data into Derby OR MySQL Database and data are not being lost after force closing the spider.
+
+- Free Web Spider , Parser, Extractor, Crawler
+- Extraction of Emails , Phones and Custom Text from Web
+- Export to Excel File
+- Data Saved into Derby Database
+- Written in Java Cross Platform
+
+See also Free Email Sender in this link:
+https://sourceforge.net/projects/gitst-free-email-ender/
+
+Please install Microsoft OpenJDK to start the application
+https://www.microsoft.com/openjdkIn Files there is WebCrawlerMySQL.jar which supports MySql Connection
+
+Please follow this link to get latest version
+https://sourceforge.net/projects/web-spider-web-crawler-extract/
+
+
+Free Web Spider & Crawler. Extracts Information from Web by parsing millions of pages. Store data into Derby OR MySQL Database and data are not being lost after force closing the spider.
+
+- Free Web Spider , Parser, Extractor, Crawler
+- Extraction of Emails , Phones and Custom Text from Web
+- Export to Excel File
+- Data Saved into Derby Database
+- Written in Java Cross Platform
+
+See also Free Email Sender in this link:
+https://sourceforge.net/projects/gitst-free-email-ender/
+
+Please install Microsoft OpenJDK to start the application
+https://www.microsoft.com/openjdk","Categories
+Browsers, Search Engines, Internet"
+"Ajude nosso trabalho faça uma doação de qualquer valor http://mpago.la/YQYO
+
+Nova versão com restauração do backup e correção na execução do backup
+o sistema não trava, com execução 100% mais
+seguro todos os dados da conta ftp, mysql e
+são gravados em um arquivo ini criptografados,
+localizado na pasta ""C:\TyttoSoft\BKPConfig.ini""
+Execução de backup mysql com extenção *.sql
+Envio do backup por FTP (File Transfer Protocol)
+com proteção TLS (Transport Layer Security).
+Sistema com logs de erro salvos em arquivo *.txt,
+quando ocorrer algum, erro sistema abre uma tela de aviso com
+o problema ocorrido.
+**Arquivos do sistema**
+-TyttoSoftBKP.exe salvo na C:\TyttoSoft
+-logs.exe salvo na C:\TyttoSoft
+-libmysql.dll salvo na C:\Windows
+-libmysql41.dll salvo na C:\Windows
+-libmySQL50.dll salvo na C:\Windows
+-libmysql51.dll salvo na C:\Windows
+-libmysql55.dll salvo na C:\WindowsAjude nosso trabalho faça uma doação de qualquer valor http://mpago.la/YQYO
+
+Nova versão com restauração do backup e correção na execução do backup
+o sistema não trava, com execução 100% mais
+seguro todos os dados da conta ftp, mysql e
+são gravados em um arquivo ini criptografados,
+localizado na pasta ""C:\TyttoSoft\BKPConfig.ini""
+Execução de backup mysql com extenção *.sql
+Envio do backup por FTP (File Transfer Protocol)
+com proteção TLS (Transport Layer Security).
+Sistema com logs de erro salvos em arquivo *.txt,
+quando ocorrer algum, erro sistema abre uma tela de aviso com
+o problema ocorrido.
+**Arquivos do sistema**
+-TyttoSoftBKP.exe salvo na C:\TyttoSoft
+-logs.exe salvo na C:\TyttoSoft
+-libmysql.dll salvo na C:\Windows
+-libmysql41.dll salvo na C:\Windows
+-libmySQL50.dll salvo na C:\Windows
+-libmysql51.dll salvo na C:\Windows
+-libmysql55.dll salvo na C:\Windows","Categories
+Database, File Transfer Protocol (FTP)"
+"builds of current WebKit frameworks for Mac OS X 10.5 (PowerPC G4, PowerPC G5).
+
+In order to revive the Snow Leopard builds at least one volunteer with skills in building open source software is needed!builds of current WebKit frameworks for Mac OS X 10.5 (PowerPC G4, PowerPC G5).
+
+In order to revive the Snow Leopard builds at least one volunteer with skills in building open source software is needed!","Categories
+WWW/HTTP, Browsers, Frameworks"
+"NOTE: THE PAYPAL FEES HAVE CHANGED FROM $0.30 + 2.9% (2.2% FOR NON-PROFITS) TO $0.49 + 3.49% (1.99% FOR NON-PROFITS). THE OLR-CONFIG.PHP FILE NEEDS TO BE UPDATED FOR THE NEW FEES . SEE PAGE 20 OF THE V 1.7 USER GUIDE.
+
+Online registration and payment system for events, to be added to an existing web site (HTML or WordPress). Can be used for any type of registration that requires payment, such as events, membership, etc.
+Consists of HTML, CSS, Javascript, PHP, and MySQL files.
+Requirements:
+PayPal Seller account linked to a bank account
+Web Server with PHP scripting (version 5, 7, or 8) and MySQL databaseNOTE: THE PAYPAL FEES HAVE CHANGED FROM $0.30 + 2.9% (2.2% FOR NON-PROFITS) TO $0.49 + 3.49% (1.99% FOR NON-PROFITS). THE OLR-CONFIG.PHP FILE NEEDS TO BE UPDATED FOR THE NEW FEES . SEE PAGE 20 OF THE V 1.7 USER GUIDE.
+
+Online registration and payment system for events, to be added to an existing web site (HTML or WordPress). Can be used for any type of registration that requires payment, such as events, membership, etc.
+Consists of HTML, CSS, Javascript, PHP, and MySQL files.
+Requirements:
+PayPal Seller account linked to a bank account
+Web Server with PHP scripting (version 5, 7, or 8) and MySQL database","Categories
+Help Desk"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+c est un firefox en x86
+il est optimisé avec les extensions qui sont intégrés a firefox
+la langue est en francais","Categories
+Browsers"
+"Firefox, Thunderbird and Pale Moon autoconfig module for manage user preferences and user profile CA certificates from Active Directory Group Policy.
+
+I highly recommend using the Group Policy addon with Firefox ESR releases.
+Regular releases may contain changes to which the addon is not adapted.
+
+Since 53 Firefox support only WebExtensions. WebExtensions can't access to registry and can't do anything with application preferences. Therefore the **last version** of Firefox in which this **add-on** works - 52 ESR, because of this since 1.0 version its **autoconfig module**.Firefox, Thunderbird and Pale Moon autoconfig module for manage user preferences and user profile CA certificates from Active Directory Group Policy.
+
+I highly recommend using the Group Policy addon with Firefox ESR releases.
+Regular releases may contain changes to which the addon is not adapted.
+
+Since 53 Firefox support only WebExtensions. WebExtensions can't access to registry and can't do anything with application preferences. Therefore the **last version** of Firefox in which this **add-on** works - 52 ESR, because of this since 1.0 version its **autoconfig module**.","Categories
+Systems Administration, Browser Extensions and Plugins"
+"InjectSOCKS is an open source utility for Microsoft Windows. It forces foreign software to create any TCP connection through a SOCKS V5 tunnel like Tor. It also covers DNS requests of the foreign software in a way that they aren't leaked. The implemented technology is independent from the used protocols on TCP, so it works for HTTP, HTTPS, passive FTP, SMTP, etc.InjectSOCKS is an open source utility for Microsoft Windows. It forces foreign software to create any TCP connection through a SOCKS V5 tunnel like Tor. It also covers DNS requests of the foreign software in a way that they aren't leaked. The implemented technology is independent from the used protocols on TCP, so it works for HTTP, HTTPS, passive FTP, SMTP, etc.","Categories
+DNS, Networking, Internet"
+"Please note that there are no guarantees that XPI installations will work in advertised minVersion and maxVersion. Farby did include some basics for SeaMonkey however a few things seem to be missing.
+
+The current HEAD here will probably not work directly in Firefox and nor should you be using this fork in Firefox. It is intended for SeaMonkey users only.
+
+Announcements at https://openuserjs.org/announcements/Greasemonkey_Port_UpdatePlease note that there are no guarantees that XPI installations will work in advertised minVersion and maxVersion. Farby did include some basics for SeaMonkey however a few things seem to be missing.
+
+The current HEAD here will probably not work directly in Firefox and nor should you be using this fork in Firefox. It is intended for SeaMonkey users only.
+
+Announcements at https://openuserjs.org/announcements/Greasemonkey_Port_Update","Categories
+Software Development, Browser Extensions and Plugins"
+"The fork of Xtereme Download manager that it's page is in https://sourceforge.net/projects/xdman/?source=directory, has more features, for some informations go to
+http://ubuntuone.com/3dvE3Z0ZC8H1sBCca9zqpv
+Brought you by Subhra Das Gupta and Ali Torabi .
+Please use orginal and the forked to compare bothThe fork of Xtereme Download manager that it's page is in https://sourceforge.net/projects/xdman/?source=directory, has more features, for some informations go to
+http://ubuntuone.com/3dvE3Z0ZC8H1sBCca9zqpv
+Brought you by Subhra Das Gupta and Ali Torabi .
+Please use orginal and the forked to compare both","Categories
+Internet, YouTube Downloaders, Download Managers"
+"Now known as UltimateFox
+Compiled for SSE2
+Based on Mozilla source code
+
+ENHANCEMENTS:
+Useful for processors with 4+ cores or threads
+Better use of internet bandwidth
+Image and DNS cache enhanced
+Better browsing on image galleries or sites with lots of images
+Web cache can be set up to 2GB
+Custom Installer included
+Based on Mozilla Source 37.0.1
+Using Windows SDK 8.1 (VS2013)
+
+Go blog to see change-log.
+
+Current version 1.00.10
+Full Windows XP/Server 2003 compatibility
+32 and 64 bit versions.
+
+You can help this project
+I'm accepting donations
+email me a jadjkorn64 at gmail dot com
+
+Thanks for using my version.
+Special thanks to pcxFirefox, tete009 and lawliettfox developers
+
+TODO: new icons, logos, imagery and installer and more.
+NOTE: new installers will be available as soon as possible.
+
+
+Like Ultimate Fox?
+Get the most of your internet with FoxSpeed Ultimate!
+Free internet accelerator for Windows
+https://sourceforge.net/projects/foxspeedNow known as UltimateFox
+Compiled for SSE2
+Based on Mozilla source code
+
+ENHANCEMENTS:
+Useful for processors with 4+ cores or threads
+Better use of internet bandwidth
+Image and DNS cache enhanced
+Better browsing on image galleries or sites with lots of images
+Web cache can be set up to 2GB
+Custom Installer included
+Based on Mozilla Source 37.0.1
+Using Windows SDK 8.1 (VS2013)
+
+Go blog to see change-log.
+
+Current version 1.00.10
+Full Windows XP/Server 2003 compatibility
+32 and 64 bit versions.
+
+You can help this project
+I'm accepting donations
+email me a jadjkorn64 at gmail dot com
+
+Thanks for using my version.
+Special thanks to pcxFirefox, tete009 and lawliettfox developers
+
+TODO: new icons, logos, imagery and installer and more.
+NOTE: new installers will be available as soon as possible.
+
+
+Like Ultimate Fox?
+Get the most of your internet with FoxSpeed Ultimate!
+Free internet accelerator for Windows
+https://sourceforge.net/projects/foxspeed","Categories
+Browsers"
+"UFTP is an encrypted multicast file transfer program, designed to securely, reliably, and efficiently transfer files to multiple receivers simultaneously. This is useful for distributing large files to a large number of receivers, and is especially useful for data distribution over a satellite link (with two way communication), where the inherent delay makes any TCP based communication highly inefficient. The multicast encryption scheme is based on TLS with extensions to allow multiple receivers to share a common key. UFTP also has the capability to communicate over disjoint networks separated by one or more firewalls (NAT traversal) and without full end-to-end multicast capability (multicast tunneling) through the use of a UFTP proxy server. These proxies also provide scalability by aggregating responses from a group of receivers.UFTP is an encrypted multicast file transfer program, designed to securely, reliably, and efficiently transfer files to multiple receivers simultaneously. This is useful for distributing large files to a large number of receivers, and is especially useful for data distribution over a satellite link (with two way communication), where the inherent delay makes any TCP based communication highly inefficient. The multicast encryption scheme is based on TLS with extensions to allow multiple receivers to share a common key. UFTP also has the capability to communicate over disjoint networks separated by one or more firewalls (NAT traversal) and without full end-to-end multicast capability (multicast tunneling) through the use of a UFTP proxy server. These proxies also provide scalability by aggregating responses from a group of receivers.","Categories
+Networking, Other file transfer protocol, Proxy Servers"
+"(no longer supported)
+Delightful Labor offers many features to help manage your non-profit, including:
+
+- CRM (customer relationship management) to track the constituents, supporters, and businesses
+- Donation management, including
+* Accounts and campaigns
+* Multi-currency support
+* Honorariums/memorials
+* Gift Acknowledgement
+* Soft-cash relationships
+* In-kind donations
+- Personalization features - custom tables and fields.
+- Documents and Images - upload documents and images for clients, sponsors, people and businesses, volunteers, etc.
+- Silent Auctions / generates pdf bid sheets
+- Client management - tracks of your current and past clients, manage their status, keep track of sponsor relationships
+- Sponsorship program management
+- Supports multiple sponsorship programs
+- Sponsorship payment management
+- Multi-currency support
+- Features to facilitate sponsors/clients communications
+- Volunteer/event management(no longer supported)
+Delightful Labor offers many features to help manage your non-profit, including:
+
+- CRM (customer relationship management) to track the constituents, supporters, and businesses
+- Donation management, including
+* Accounts and campaigns
+* Multi-currency support
+* Honorariums/memorials
+* Gift Acknowledgement
+* Soft-cash relationships
+* In-kind donations
+- Personalization features - custom tables and fields.
+- Documents and Images - upload documents and images for clients, sponsors, people and businesses, volunteers, etc.
+- Silent Auctions / generates pdf bid sheets
+- Client management - tracks of your current and past clients, manage their status, keep track of sponsor relationships
+- Sponsorship program management
+- Supports multiple sponsorship programs
+- Sponsorship payment management
+- Multi-currency support
+- Features to facilitate sponsors/clients communications
+- Volunteer/event management","Categories
+CRM, Social Networking, Humanitarianism"
+"* SecretManager V2 started.
+
+*New design and new features
+
+************************************
+
+This tool allows you to store (AES 256) and share passwords. Passwords are placed in groups. Groups are associated with user profiles. Finally, we associate user porfiles with users. So users have access to passwords for which they are authorized. In addition, it is possible to supervise the access to secrets (alarm and all access).* SecretManager V2 started.
+
+*New design and new features
+
+************************************
+
+This tool allows you to store (AES 256) and share passwords. Passwords are placed in groups. Groups are associated with user profiles. Finally, we associate user porfiles with users. So users have access to passwords for which they are authorized. In addition, it is possible to supervise the access to secrets (alarm and all access).","Categories
+Dynamic Content, Password Managers, Knowledge Management"
+"Content Management System for website, website template, online web shop site builder, CMS Web template auto installer.
+Featured: Easy Control Panel, Seo friendly, safety token, ect
+
+Need assistant please email: srinielton[et]gmail[dot]com
+
+Live Preview pleese visit: http://www.dewiswedding.com
+
+For more information please visit http://www.catering-murah.web.id or directly click link this below:Content Management System for website, website template, online web shop site builder, CMS Web template auto installer.
+Featured: Easy Control Panel, Seo friendly, safety token, ect
+
+Need assistant please email: srinielton[et]gmail[dot]com
+
+Live Preview pleese visit: http://www.dewiswedding.com
+
+For more information please visit http://www.catering-murah.web.id or directly click link this below:","Categories
+Site Management"
+"This project has moved to:
+https://addons.mozilla.org/firefox/addon/update-scanner/This project has moved to:
+https://addons.mozilla.org/firefox/addon/update-scanner/","Categories
+Browser Extensions and Plugins"
+"Java Desktop application capable to ""Crawl"" a site and return a report of the status of all the link present at the page, then it moves to another internal page and so on.
+LinkCrawlers provides a nice HTML5 report with the information of all link per WebPage, Easy to Read.
+
+This tool is useful for Web QA testersJava Desktop application capable to ""Crawl"" a site and return a report of the status of all the link present at the page, then it moves to another internal page and so on.
+LinkCrawlers provides a nice HTML5 report with the information of all link per WebPage, Easy to Read.
+
+This tool is useful for Web QA testers","Categories
+Link Checking, Internet"
+"Zeromus Web Browser (called zBrowser) is a simple browser whose feature list includes things like ""History"", ""Bookmarks"" and ""zLink"", that is a page to see the most visited hosts.
+
+It is small, less then 10,000 lines of code and very fast.
+
+The 1.0.0 update of NightSky includes a new homepage, a new zLink page, new keyboard shortcuts, a streamlined interface, and a major modification of the search engines.
+The 1.1.0 update included the removal of the editor page and activation of AdBlock.
+
+Note: zBrowser is a fork of Arora and NightSky is a alternative version with a new interface thinked to you.Zeromus Web Browser (called zBrowser) is a simple browser whose feature list includes things like ""History"", ""Bookmarks"" and ""zLink"", that is a page to see the most visited hosts.
+
+It is small, less then 10,000 lines of code and very fast.
+
+The 1.0.0 update of NightSky includes a new homepage, a new zLink page, new keyboard shortcuts, a streamlined interface, and a major modification of the search engines.
+The 1.1.0 update included the removal of the editor page and activation of AdBlock.
+
+Note: zBrowser is a fork of Arora and NightSky is a alternative version with a new interface thinked to you.","Categories
+Browsers, Download Managers"
+"Flamingo is a open-source Big Data Platform that combine a Ajax Rich Web Interface + Workflow Engine + Workflow Designer + MapReduce + Hive Editor + Pig Editor.
+
+1. Easy Tool for big data
+2. Use comfortable in Hadoop EcoSystem projects
+3. Based GPL V3 License
+
+Supporting Pig IDE, Hive IDE, HDFS Browser, Scheduler, Hadoop Job Monitoring, Workflow Engine, Workflow Designer, MapReduce.Flamingo is a open-source Big Data Platform that combine a Ajax Rich Web Interface + Workflow Engine + Workflow Designer + MapReduce + Hive Editor + Pig Editor.
+
+1. Easy Tool for big data
+2. Use comfortable in Hadoop EcoSystem projects
+3. Based GPL V3 License
+
+Supporting Pig IDE, Hive IDE, HDFS Browser, Scheduler, Hadoop Job Monitoring, Workflow Engine, Workflow Designer, MapReduce.","Categories
+Log Analysis, Algorithms, Machine Learning"
+"ProxySwap is a small Windows application, written in C#, that allows you to change your system proxy with ease.
+It allows you to keep most recently used proxies in one place and quickly switch between them.ProxySwap is a small Windows application, written in C#, that allows you to change your system proxy with ease.
+It allows you to keep most recently used proxies in one place and quickly switch between them.","Categories
+WWW/HTTP, Proxy Servers"
+"Docebo is a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It is a Free web application for e-learning
+This projects aims to save the open source comnunity of docebo, still active on http://www.elearningcommunity.net
+NEW:
+You can find the fork that aims to continue the development as formalms project at http://sourceforge.net/projects/forma/Docebo is a Learning Management System (LMS) or a Virtual Learning Environment (VLE). It is a Free web application for e-learning
+This projects aims to save the open source comnunity of docebo, still active on http://www.elearningcommunity.net
+NEW:
+You can find the fork that aims to continue the development as formalms project at http://sourceforge.net/projects/forma/","Categories
+Communications, Education, Content Management Systems (CMS), Learning Management Systems (LMS)"
+"Wave is a PHP micro-framework that is built loosely following model-view-control architecture and factory method design pattern. It is made for web services, websites and info-systems and is built to support a native API architecture, caching, user control and smart resource management. Wave is a compact framework that does not include bloated libraries and features and is developed keeping lightweight speed and optimizations in mind. While not necessary for using Wave Framework, it comes by default with a URL and View controllers intended for building websites by solving URL requests and loading views.
+
+Mercurial and Git repositories is available for developers who are interested in following the development.
+
+Official website and documentation:
+http://www.waveframework.com
+
+Social networks for latest news:
+Google+ - http://plus.google.com/106969835456865671988
+Facebook - http://www.facebook.com/waveframework
+Twitter - http://www.twitter.com/WWWFrameworkWave is a PHP micro-framework that is built loosely following model-view-control architecture and factory method design pattern. It is made for web services, websites and info-systems and is built to support a native API architecture, caching, user control and smart resource management. Wave is a compact framework that does not include bloated libraries and features and is developed keeping lightweight speed and optimizations in mind. While not necessary for using Wave Framework, it comes by default with a URL and View controllers intended for building websites by solving URL requests and loading views.
+
+Mercurial and Git repositories is available for developers who are interested in following the development.
+
+Official website and documentation:
+http://www.waveframework.com
+
+Social networks for latest news:
+Google+ - http://plus.google.com/106969835456865671988
+Facebook - http://www.facebook.com/waveframework
+Twitter - http://www.twitter.com/WWWFramework","Categories
+WWW/HTTP, Software Development, Frameworks"
+Users can now search Imgur for any phrase and ImgurDL/Loadur will automatically search for matching images. ImgurDL/Loadur will download the images while displaying the progress to the user.Users can now search Imgur for any phrase and ImgurDL/Loadur will automatically search for matching images. ImgurDL/Loadur will download the images while displaying the progress to the user.,"Categories
+Search Engines"
+"The pimped Apache status makes the Apache server status readable, sortable and searchable.
+The pimped Apache status can merge the status of several servers that opens the possibility to identify the troubleshooter even in a loadbalanced website.
+
+The webbased tool offers a multilanguage, skinable interface with a built-in updater.
+
+In several views you see most requested pages, vhosts, used methods, IPs that make the most requests and more. All views are sortable tables you can filter by a keyword and are available as API Request too to get its data as CSV, XML or JSON.
+
+Compatible with PHP 7+8 (and should run on PHP 5.x - but is not supported).The pimped Apache status makes the Apache server status readable, sortable and searchable.
+The pimped Apache status can merge the status of several servers that opens the possibility to identify the troubleshooter even in a loadbalanced website.
+
+The webbased tool offers a multilanguage, skinable interface with a built-in updater.
+
+In several views you see most requested pages, vhosts, used methods, IPs that make the most requests and more. All views are sortable tables you can filter by a keyword and are available as API Request too to get its data as CSV, XML or JSON.
+
+Compatible with PHP 7+8 (and should run on PHP 5.x - but is not supported).","Categories
+WWW/HTTP, Log Analysis, Monitoring"
+"uLogin is a PHP library for developing secure login and authentication systems. Provides secured user sessions, password storage and logins for multiple user databases. It uses multiple measures to counter online and offline attacks.
+
+THE REPOSITORY IS MOVING TO GITHUB!
+https://github.com/pylorak/uloginuLogin is a PHP library for developing secure login and authentication systems. Provides secured user sessions, password storage and logins for multiple user databases. It uses multiple measures to counter online and offline attacks.
+
+THE REPOSITORY IS MOVING TO GITHUB!
+https://github.com/pylorak/ulogin","Categories
+WWW/HTTP"
+"Church Rota is the web software to simplify the organisation of church rotas, meaning churches spend less time organising and more time doing the mission that God called them into.Church Rota is the web software to simplify the organisation of church rotas, meaning churches spend less time organising and more time doing the mission that God called them into.","Categories
+Dynamic Content, Religion and Philosophy"
+"*aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México***aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México**","Categories
+Security, Desktop Environment, Internet"
+Ftp client console app designed to be used on devices with limited resources like Windows CE. Implements the common ftp functionality plus some extra like bulk upload / download files. It should work on most Windows CE platforms and normal Windows.Ftp client console app designed to be used on devices with limited resources like Windows CE. Implements the common ftp functionality plus some extra like bulk upload / download files. It should work on most Windows CE platforms and normal Windows.,"Categories
+FTP Clients"
+"Free, Fast, Secure and User-Friendly WebbrowserFree, Fast, Secure and User-Friendly Webbrowser","Categories
+Browsers"
+"Il nuovo sistema di gestione documentale italiano, nativamente integrato con funzioni di protocollo, workflow e conservazione sostitutiva.Il nuovo sistema di gestione documentale italiano, nativamente integrato con funzioni di protocollo, workflow e conservazione sostitutiva.","Categories
+Office/Business, Dynamic Content, Site Management"
+"Develop professional database applications, highly performant with little source code. JVx is a full-stack application framework to create multi tier applications with Single Sourcing for different technologies (Swing, vaadin, react, ...).
+
+Nightly builds are available: https://dev.sibvisions.com/jvx.nightly/
+
+Maven snapshots are available: https://oss.sonatype.org/content/repositories/snapshots
+
+Eclipse plugin is available: http://marketplace.eclipse.org/search/site/eplugDevelop professional database applications, highly performant with little source code. JVx is a full-stack application framework to create multi tier applications with Single Sourcing for different technologies (Swing, vaadin, react, ...).
+
+Nightly builds are available: https://dev.sibvisions.com/jvx.nightly/
+
+Maven snapshots are available: https://oss.sonatype.org/content/repositories/snapshots
+
+Eclipse plugin is available: http://marketplace.eclipse.org/search/site/eplug","Categories
+Front-Ends, Frameworks, Internet"
+"The MangaStream Downloader is an open source application written in Java for managing and downloading manga from the site mangastream.com and mangafox.me. It is written under the GNU-GPL license and uses an open source HTML parser - TagSoup.
+
+Follow the project page on Facebook for updates: https://www.facebook.com/MangastreamDownloaderThe MangaStream Downloader is an open source application written in Java for managing and downloading manga from the site mangastream.com and mangafox.me. It is written under the GNU-GPL license and uses an open source HTML parser - TagSoup.
+
+Follow the project page on Facebook for updates: https://www.facebook.com/MangastreamDownloader","Categories
+Search Engines, Multimedia"
+"Firefox add-on that displays and checks RDFa.
+
+RDFa Developer project has been moved to BitBucket
+
+https://bitbucket.org/fundacionctic/rdfadevFirefox add-on that displays and checks RDFa.
+
+RDFa Developer project has been moved to BitBucket
+
+https://bitbucket.org/fundacionctic/rdfadev","Categories
+Browser Extensions and Plugins"
+A graphical SNMP MIB browser based on GTK+ and Net-SNMPA graphical SNMP MIB browser based on GTK+ and Net-SNMP,"Categories
+Internet"
+"PHFTP ( PHP HTTP FTP ) is a simple and fast Web FTP application. You can upload, download and administer files on FTP servers without a local FTP client, even if you are behind firewalls and proxies.PHFTP ( PHP HTTP FTP ) is a simple and fast Web FTP application. You can upload, download and administer files on FTP servers without a local FTP client, even if you are behind firewalls and proxies.","Categories
+File Transfer Protocol (FTP), Site Management, Content Management Systems (CMS), FTP Clients"
+"A Joomla! component/module. The component uses an upload of the GRAMPS xml database export and shows genealogical information and overviews.
+
+The component and the module are compatible with Joomla 1.5
+
+The highest version (version 0.3) is compatible with GRAMPS 3.3.0 and higher. Users of lower versions of GRAMPS should use version 0.2.A Joomla! component/module. The component uses an upload of the GRAMPS xml database export and shows genealogical information and overviews.
+
+The component and the module are compatible with Joomla 1.5
+
+The highest version (version 0.3) is compatible with GRAMPS 3.3.0 and higher. Users of lower versions of GRAMPS should use version 0.2.","Categories
+Content Management Systems (CMS)"
+XDCC Browser A mIRC based XDCC download manager.XDCC Browser A mIRC based XDCC download manager.,"Categories
+Chat, File Sharing, Other file transfer protocol, Download Managers"
+"Sharetronix is a multimedia micro-social platform. It helps people in a community, company, or group to exchange short messages over the web. Download Sharetronix here: http://sharetronix.com/opensource/downloadSharetronix is a multimedia micro-social platform. It helps people in a community, company, or group to exchange short messages over the web. Download Sharetronix here: http://sharetronix.com/opensource/download","Categories
+Communications, Internet, Multimedia"
+This software is used to grab articles from a wordpress 'master site' and post articles back to a bunch of wordpress sister sites. This is mostly used by SEO professionnals to generate backlinks. This software is not a wordpress plugin!This software is used to grab articles from a wordpress 'master site' and post articles back to a bunch of wordpress sister sites. This is mostly used by SEO professionnals to generate backlinks. This software is not a wordpress plugin!,"Categories
+Blogging"
+A framework in PHP for websitesA framework in PHP for websites,"Categories
+Dynamic Content"
+"Web Security Dojo is a virtual machine that provides the tools, targets, and documentation to learn and practice web application security testing. A preconfigured, stand-alone training environment ideal for classroom and conferences. No Internet required to use. Ideal for those interested in getting hands-on practice for ethical hacking, penetration testing, bug bounties, and capture the flag (CTF). A single OVA file will import into VirtualBox and VMware. There is also an Ansible script for those brave souls that want transform their stock Ubuntu into a virtual dojo. Bow to your sensei!
+
+username: dojo
+password: dojoWeb Security Dojo is a virtual machine that provides the tools, targets, and documentation to learn and practice web application security testing. A preconfigured, stand-alone training environment ideal for classroom and conferences. No Internet required to use. Ideal for those interested in getting hands-on practice for ethical hacking, penetration testing, bug bounties, and capture the flag (CTF). A single OVA file will import into VirtualBox and VMware. There is also an Ansible script for those brave souls that want transform their stock Ubuntu into a virtual dojo. Bow to your sensei!
+
+username: dojo
+password: dojo","Categories
+Security, WWW/HTTP, Education, Penetration Testing"
+MTASC is an open-source (GPLv2) ActionScript 2.0 compiler developed by Motion-Twin Technologies (http://www.mtasc.org/). Motion-Twin no longer releases updates to MTASC though. This project is a community fork of MTASC with new improvements.MTASC is an open-source (GPLv2) ActionScript 2.0 compiler developed by Motion-Twin Technologies (http://www.mtasc.org/). Motion-Twin no longer releases updates to MTASC though. This project is a community fork of MTASC with new improvements.,"Categories
+Compilers, Internet"
+Joomla! lack of header tags in article titles is making it harder for a website to get higher rankings in search engines. This project includes two small Joomla! Plugins that accomplish that.Joomla! lack of header tags in article titles is making it harder for a website to get higher rankings in search engines. This project includes two small Joomla! Plugins that accomplish that.,"Categories
+Search Engines, Site Management, Content Management Systems (CMS)"
+"PyLucid is a Open Source web content management system written in Python using the Django Framework. fully customizable output, expandable with plugins, i18n, L10n, Revision controled, support many database engines, WSGI conform and many more...PyLucid is a Open Source web content management system written in Python using the Django Framework. fully customizable output, expandable with plugins, i18n, L10n, Revision controled, support many database engines, WSGI conform and many more...","Categories
+Front-Ends, CGI Scripts, Site Management"
+Automne is a CMS written in PHP/MSQL with that comes with an intuitive EXTJS user interface and a web application generator. Templates and rows can mix XML syntax and PHP. Automne is built for speed and embed a customizable cache system.Automne is a CMS written in PHP/MSQL with that comes with an intuitive EXTJS user interface and a web application generator. Templates and rows can mix XML syntax and PHP. Automne is built for speed and embed a customizable cache system.,"Categories
+Content Management Systems (CMS)"
+"PHP - Support for the Eclipse IDE Framework ( www.eclipse.org ). Some Features are PHP parser, debugger, code formatter, outline view, templates...(Programming Language: Java)PHP - Support for the Eclipse IDE Framework ( www.eclipse.org ). Some Features are PHP parser, debugger, code formatter, outline view, templates...(Programming Language: Java)","Categories
+Integrated Development Environments (IDE), Dynamic Content, Software Development"
+"JsMath is a means of including mathematical notation in web pages. It interprets TeX code within your document and uses JavaScript, CSS and unicode fonts to typeset the resulting formulas. It works across multiple browsers and platforms, without MathMLJsMath is a means of including mathematical notation in web pages. It interprets TeX code within your document and uses JavaScript, CSS and unicode fonts to typeset the resulting formulas. It works across multiple browsers and platforms, without MathML","Categories
+Message Board, Mathematics"
+Flazr is a Java implementation of protocols such as RTMP used for multimedia streaming. The Flazr project includes a streaming media server and related utilities.Flazr is a Java implementation of protocols such as RTMP used for multimedia streaming. The Flazr project includes a streaming media server and related utilities.,"Categories
+Streaming, Video Capture, Video Conferencing, Proxy Servers"
+"Java servlet that provides an implementation of the webdav protocol. Underlying data-storage (database, custom file systems) can be easily plugged in.Java servlet that provides an implementation of the webdav protocol. Underlying data-storage (database, custom file systems) can be easily plugged in.","Categories
+WWW/HTTP"
+"Like Access, from basic features such as table management, form and report generator as well as charting and workflow features it can be dynamically modeled with one another to any product solution. Limbas is based on PHP.Like Access, from basic features such as table management, form and report generator as well as charting and workflow features it can be dynamically modeled with one another to any product solution. Limbas is based on PHP.","Categories
+Enterprise, Scheduling, Front-Ends, Dynamic Content, Frameworks"
+"A convenient interface to execute shell-commands or browse the filesystem on your remote web server. Similar to a telnet or SSH connection. Use it for administration and maintenance of your web site using commands like ps, cat, gunzip, and more.
+
+Additional website: https://phpshell.sourceforge.io/A convenient interface to execute shell-commands or browse the filesystem on your remote web server. Similar to a telnet or SSH connection. Use it for administration and maintenance of your web site using commands like ps, cat, gunzip, and more.
+
+Additional website: https://phpshell.sourceforge.io/","Categories
+Terminals, CGI Scripts, Site Management, Systems Administration"
+"A blosxom weblog editor for Mac OS X, Blapp streamlines the blogging process with a convenient, native editing interface for blosxom weblogs. It presents a view of the weblog hierarchy with post titles, displays live-updating HTML preview in the editor, aA blosxom weblog editor for Mac OS X, Blapp streamlines the blogging process with a convenient, native editing interface for blosxom weblogs. It presents a view of the weblog hierarchy with post titles, displays live-updating HTML preview in the editor, a","Categories
+Text Editors, Communications, Internet"
+"AChat enables you to chat on your local network (LAN). But you can also share entire directories or send specific files, show images to other users and send messages even to users who are currently offline. Everything with full Unicode support.AChat enables you to chat on your local network (LAN). But you can also share entire directories or send specific files, show images to other users and send messages even to users who are currently offline. Everything with full Unicode support.","Categories
+Chat, File Sharing, WWW/HTTP"
+A HTTP REST interface to MySQL written in PHP.A HTTP REST interface to MySQL written in PHP.,"Categories
+WWW/HTTP"
+"Web services for Python programmers, both client and servers. This includes SOAP, WSDL, UDDI, etc.Web services for Python programmers, both client and servers. This includes SOAP, WSDL, UDDI, etc.","Categories
+WWW/HTTP, Software Development"

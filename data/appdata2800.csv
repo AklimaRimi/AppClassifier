@@ -1,0 +1,227 @@
+Description,Category
+A dock and DE independent terminal applet for the masses. Details: http://www.omgubuntu.co.uk/2011/02/vterminal-is-a-lightweight-pop-up-terminal/A dock and DE independent terminal applet for the masses. Details: http://www.omgubuntu.co.uk/2011/02/vterminal-is-a-lightweight-pop-up-terminal/,"Categories
+Terminal Emulators"
+"This is my first source project please do not rip me off and steal my project, Its Open Source now in English and Spanish, I speak English and english only so spanish is translated so i might now make another spanish one again.This is my first source project please do not rip me off and steal my project, Its Open Source now in English and Spanish, I speak English and english only so spanish is translated so i might now make another spanish one again.","Categories
+Terminal Emulators"
+"If you're a frequent shell user, BASH Shortcuts will help you navigate smoothly and quickly between frequently-visited directories by enabling you to reference a lengthy directory path using a meaningful keyword (shortcut).If you're a frequent shell user, BASH Shortcuts will help you navigate smoothly and quickly between frequently-visited directories by enabling you to reference a lengthy directory path using a meaningful keyword (shortcut).","Categories
+Terminals, System Shells"
+"Pastebin CLI allows users to upload snippets of text ,usually code.which returns a permanent link to the uploaded snippet.Pastebins are very popular in chat groups like IRC. Note-This code is not from pastebin.com. PLEASE READ README file to installPastebin CLI allows users to upload snippets of text ,usually code.which returns a permanent link to the uploaded snippet.Pastebins are very popular in chat groups like IRC. Note-This code is not from pastebin.com. PLEASE READ README file to install","Categories
+Terminal Emulators, IRC Clients, File Sharing"
+Morph is a cross-platform program that abstracts the Windows and Linux command line environments to help teach students or others not familiar with the command line how to use it in a way that is user friendly.Morph is a cross-platform program that abstracts the Windows and Linux command line environments to help teach students or others not familiar with the command line how to use it in a way that is user friendly.,"Categories
+Terminals, Desktop Environment, Systems Administration"
+"Java Serial Port Terminal allows you to open asynchronous serial COM ports on your computer. For all you Java fans out there, this is an example of how to access a serial port. Produced by BreezeElectronics.Net. Help link is added to Version 1.00Java Serial Port Terminal allows you to open asynchronous serial COM ports on your computer. For all you Java fans out there, this is an example of how to access a serial port. Produced by BreezeElectronics.Net. Help link is added to Version 1.00","Categories
+Serial"
+"Shooting Chrony Data Downloader, a program that allows downloading of data acquired by the deviceShooting Chrony Data Downloader, a program that allows downloading of data acquired by the device","Categories
+Serial, Physics"
+"Este projeto visa controlar através da porta serial um dispositivo. compatível com hardware da Robotica Simples, porem pode ser modificado para qualquer outro produto serial. O Hardware atendido é a placa controladora de 8 reles.Este projeto visa controlar através da porta serial um dispositivo. compatível com hardware da Robotica Simples, porem pode ser modificado para qualquer outro produto serial. O Hardware atendido é a placa controladora de 8 reles.","Categories
+Serial, Robotics, Electronic Design Automation (EDA)"
+"lterm is a vte-based terminal emulator for GNU/Linux systems. It is mainly used as SSH/Telnet client but can be very easily configured to use any other protocol.
+
+Furthermore it can be a usual terminal on local host.
+
+Includes some features in order to ease user's work, avoid repetitive tasks and improve speed in operations, see a list below.lterm is a vte-based terminal emulator for GNU/Linux systems. It is mainly used as SSH/Telnet client but can be very easily configured to use any other protocol.
+
+Furthermore it can be a usual terminal on local host.
+
+Includes some features in order to ease user's work, avoid repetitive tasks and improve speed in operations, see a list below.","Categories
+Terminal Emulators"
+BikiSoft contains the windows software and atmel firmware for the BikiRom Mega-board product line. The bikirom boards are used to re-tune 1990-2002 Nissan SR20 based ECUs and ER34 ECUs. The hardware is available seperately.BikiSoft contains the windows software and atmel firmware for the BikiRom Mega-board product line. The bikirom boards are used to re-tune 1990-2002 Nissan SR20 based ECUs and ER34 ECUs. The hardware is available seperately.,"Categories
+Serial, Libraries"
+"Icephis is a VTE-based terminal emulator.
+
+Icephis is written in C and ""compile-time configurable"" like evilvte,
+but with well-ordered source code so that users can make customized one easily.Icephis is a VTE-based terminal emulator.
+
+Icephis is written in C and ""compile-time configurable"" like evilvte,
+but with well-ordered source code so that users can make customized one easily.","Categories
+Terminal Emulators"
+"vtysh is a cli config tools used for the fw,utm,nac device to config the base information
+it come from the zebra vtysh,but i simplify it.vtysh is a cli config tools used for the fw,utm,nac device to config the base information
+it come from the zebra vtysh,but i simplify it.","Categories
+Terminals, Systems Administration"
+"This is another terminal program named ""Just Another TERMinal""This is another terminal program named ""Just Another TERMinal""","Categories
+Terminals"
+"Qt Embedded 2.3.8 terminal emulator for Motomagx mobile phone Motorola EM30. There are <alpha> versions for Motorola VE66, EM35, Z6, V8, U9, ZN5, VA76, E8 .Qt Embedded 2.3.8 terminal emulator for Motomagx mobile phone Motorola EM30. There are <alpha> versions for Motorola VE66, EM35, Z6, V8, U9, ZN5, VA76, E8 .","Categories
+Terminal Emulators"
+Попытка создать opensource проект для съема статистики с миниАТС и создания отчетов для начальстваПопытка создать opensource проект для съема статистики с миниАТС и создания отчетов для начальства,"Categories
+Serial"
+"SeamlessRDP is an implementation of seamless windows server components for rdesktop based on code contributed by Cendio AB http://www.cendio.com/seamlessrdp/ . In seamless mode, rdesktop creates a X11 window for each window on the server side.SeamlessRDP is an implementation of seamless windows server components for rdesktop based on code contributed by Cendio AB http://www.cendio.com/seamlessrdp/ . In seamless mode, rdesktop creates a X11 window for each window on the server side.","Categories
+Terminals, Enterprise, Window Managers"
+"python client to display simple text messages on lcdproc
+it reads text from stdin or file and has some options like display_time and blinking
+useful for monitoring and custom status displayspython client to display simple text messages on lcdproc
+it reads text from stdin or file and has some options like display_time and blinking
+useful for monitoring and custom status displays","Categories
+Terminals, Systems Administration"
+Nanoterm is a terminal emulator with a minimal font for the Linux framebuffer. It is mainly intended to be used on the Ben Nanonote.Nanoterm is a terminal emulator with a minimal font for the Linux framebuffer. It is mainly intended to be used on the Ben Nanonote.,"Categories
+Terminal Emulators, Embedded Systems"
+"PyLine is a shell that is designed for users who want a easier alternative to cmd, but it is in its earlier stages, so it may not have as many commands. Works on Linux and Windows, and may work on Mac.PyLine is a shell that is designed for users who want a easier alternative to cmd, but it is in its earlier stages, so it may not have as many commands. Works on Linux and Windows, and may work on Mac.","Categories
+Terminals, System Shells"
+"Immersion Cooker Mk II: A food-oriented, feature-rich water-bath controller for slow cooking sous vide.
+Cook just about anything to perfection with open source hardware and software.Immersion Cooker Mk II: A food-oriented, feature-rich water-bath controller for slow cooking sous vide.
+Cook just about anything to perfection with open source hardware and software.","Categories
+Serial, Hardware, Home Automation"
+A command shell with purely hard-coded functions designed to provide a Unix-esque shell experience within the confines of Windows.A command shell with purely hard-coded functions designed to provide a Unix-esque shell experience within the confines of Windows.,"Categories
+Terminals, System Shells"
+My first official project in Perl - Shell for Linux designed on IRC. This is good alternative for bash and shMy first official project in Perl - Shell for Linux designed on IRC. This is good alternative for bash and sh,"Categories
+Terminals, System Shells"
+"BASIC interpreter for the 16bit PIC microcontroller 24FJ64GA002. The interpreter runs on the chip only, no compiler/tokenizer is needed. Communication with PC is done by USB-to-serial converter cable.BASIC interpreter for the 16bit PIC microcontroller 24FJ64GA002. The interpreter runs on the chip only, no compiler/tokenizer is needed. Communication with PC is done by USB-to-serial converter cable.","Categories
+Serial, Interpreters, Embedded Systems"
+"Is a complete GUI replacement for the gnome terminal which allows you to manage your connections, cluster mode (for sending commands for several servers at the same time) and support for ssh, ftp, telnet, vnc and rdesktop.Is a complete GUI replacement for the gnome terminal which allows you to manage your connections, cluster mode (for sending commands for several servers at the same time) and support for ssh, ftp, telnet, vnc and rdesktop.","Categories
+Terminal Emulators, GNOME, SSH"
+"FCUtilsLibrary provides a collection of functions to communicate and control Danfoss frequency converters. One of the main targets is, to create an “easy to use” library which is independent from the operation system and the physical network.FCUtilsLibrary provides a collection of functions to communicate and control Danfoss frequency converters. One of the main targets is, to create an “easy to use” library which is independent from the operation system and the physical network.","Categories
+Serial, Test and Measurement"
+vexterm is a tabbed virtual terminal emulator based on libvexterm and thus using gtk / pango / cairovexterm is a tabbed virtual terminal emulator based on libvexterm and thus using gtk / pango / cairo,"Categories
+Terminal Emulators, GNOME"
+libvexterm is a library for virtual terminal emulation based on gtk / pango / cairolibvexterm is a library for virtual terminal emulation based on gtk / pango / cairo,"Categories
+Terminal Emulators, GNOME, Libraries"
+cloneNX is a fork of freenx to bypass the time till neatx (Google) or tacix is production ready.cloneNX is a fork of freenx to bypass the time till neatx (Google) or tacix is production ready.,"Categories
+Terminal Emulators"
+X-UI-Gen intends to automate the any project to integrate an UI System to Have Customized operations in place. It intends to support C/C++/Java/J2EE. It tends to use UI Operation as an Subset of operations. It intends ot use JSP/GTK+/QT/Servlets.X-UI-Gen intends to automate the any project to integrate an UI System to Have Customized operations in place. It intends to support C/C++/Java/J2EE. It tends to use UI Operation as an Subset of operations. It intends ot use JSP/GTK+/QT/Servlets.,"Categories
+Terminals"
+The goal of this project is the creation of an VNC Server implemented in Delphi.The goal of this project is the creation of an VNC Server implemented in Delphi.,"Categories
+Terminals"
+Simple terminal utility that changes the console colorSimple terminal utility that changes the console color,"Categories
+Terminals, System Shells"
+"This is a cross platform tool to monitor traffic between two TCP endpoints. Allows to send users data to each endpoint, make data snapshots,manage multiple clients connections. Consists from forwarding server and client as stand along parts.This is a cross platform tool to monitor traffic between two TCP endpoints. Allows to send users data to each endpoint, make data snapshots,manage multiple clients connections. Consists from forwarding server and client as stand along parts.","Categories
+Terminals, QA Automation, Monitoring"
+"This software records Linux terminal sessions with util-linux ""script"" and converts the recorded binary file (with timing) to a human-readable XML file. This file can be replayed with the Javascript-HTML terminal that behaves as a real terminal.This software records Linux terminal sessions with util-linux ""script"" and converts the recorded binary file (with timing) to a human-readable XML file. This file can be replayed with the Javascript-HTML terminal that behaves as a real terminal.","Categories
+XML, Terminals, Computer Aided Instruction (CAI)"
+"thi-scripts are a set of scripts to get help on the console for entire processes with many different commands and plenty of options preconfigured. thi-scripts offer these commands to the user. The user then decides which commands to use. The console is always free.
+thi-scripts are a kind of super-man pages ...:)thi-scripts are a set of scripts to get help on the console for entire processes with many different commands and plenty of options preconfigured. thi-scripts offer these commands to the user. The user then decides which commands to use. The console is always free.
+thi-scripts are a kind of super-man pages ...:)","Categories
+Terminals, Systems Administration"
+Vi move (vimv) - rename the files in a directory using the vi text editor.Vi move (vimv) - rename the files in a directory using the vi text editor.,"Categories
+Terminals, File Managers, Vi/Vim"
+Serlook is a tool aimed to inspect and debug serial line data traffic developed in a Linux+KDE environment.Serlook is a tool aimed to inspect and debug serial line data traffic developed in a Linux+KDE environment.,"Categories
+Serial"
+A simple SMS gateway for Linux written in C. Capable of sending and receiving SMS text messages like a mobile phone. An additional java-package is provided for easy communication with the integrated TCP-server.A simple SMS gateway for Linux written in C. Capable of sending and receiving SMS text messages like a mobile phone. An additional java-package is provided for easy communication with the integrated TCP-server.,"Categories
+Serial, Telephony"
+"Terminal Desktop with Windows, ""Icons"" (aka Shortcuts), Popup-Menu and mouse usage. Its Look- and Feel is similar to the old Mac/Atari ST-GUI. Termdesk depends on ncurses and a heavily changed version of librote.Terminal Desktop with Windows, ""Icons"" (aka Shortcuts), Popup-Menu and mouse usage. Its Look- and Feel is similar to the old Mac/Atari ST-GUI. Termdesk depends on ncurses and a heavily changed version of librote.","Categories
+Terminal Emulators, Desktop Environment"
+IFP (ISPF for Python) is a console based full screen text user interface and API based on IBM's ISFP.IFP (ISPF for Python) is a console based full screen text user interface and API based on IBM's ISFP.,"Categories
+Terminals, Frameworks"
+Tablatures emulator which generates simple tones on the internal speakerTablatures emulator which generates simple tones on the internal speaker,"Categories
+Terminals"
+"This is soft-terminal emulator library. Applications could use that API to work with any full-duplex byte stream as with video terminal having specific display and keyboard. Supported terminals VT220, VT100, VT52.This is soft-terminal emulator library. Applications could use that API to work with any full-duplex byte stream as with video terminal having specific display and keyboard. Supported terminals VT220, VT100, VT52.","Categories
+Terminal Emulators"
+"The PHP Toolbox is an extensible, cross-browser script written in PHP for developers and system administrators. It was designed for rapid deployment to provide the user with on-demand tools for common server-side tasks. (http://www.phptoolbox.org)The PHP Toolbox is an extensible, cross-browser script written in PHP for developers and system administrators. It was designed for rapid deployment to provide the user with on-demand tools for common server-side tasks. (http://www.phptoolbox.org)","Categories
+Terminals, File Managers, Systems Administration"
+NimpSmartCard is a framework to interact with smart cards through PC/SC readers as well as test/production readers such as Micropross and Smartware. The framework comes with sample tasks and a sample terminal manager which supports scripts and logsNimpSmartCard is a framework to interact with smart cards through PC/SC readers as well as test/production readers such as Micropross and Smartware. The framework comes with sample tasks and a sample terminal manager which supports scripts and logs,"Categories
+Terminals, Cryptography, Frameworks"
+Cross platform command line created for debuggers and system administrators. Initial release will have server security check commands and other great debugging/Tech Assistance.Cross platform command line created for debuggers and system administrators. Initial release will have server security check commands and other great debugging/Tech Assistance.,"Categories
+Terminal Emulators"
+BirdTerm - Bold Inventions Terminal -- A Java-based Serial Port Terminal program like TeraTerm. It implements ANSI sequences for setting text color and cursor position. It uses SWT/JFace and the RXTX Communication API.BirdTerm - Bold Inventions Terminal -- A Java-based Serial Port Terminal program like TeraTerm. It implements ANSI sequences for setting text color and cursor position. It uses SWT/JFace and the RXTX Communication API.,"Categories
+Serial"
+from http://www.anime.net/freevt3k/ - freevt3k is a free NS/VT terminal emulator which can establish term session to the HP3000. xhpterm is an x11 blockmode version of freevt3k with extensive HP terminal emulation.from http://www.anime.net/freevt3k/ - freevt3k is a free NS/VT terminal emulator which can establish term session to the HP3000. xhpterm is an x11 blockmode version of freevt3k with extensive HP terminal emulation.,"Categories
+Terminal Emulators"
+This program control keyboard language indication on linux-console. The indication is realized by VGA border color or (in case framebuffer console) by the color of last screen row. Kernel patches are included.This program control keyboard language indication on linux-console. The indication is realized by VGA border color or (in case framebuffer console) by the color of last screen row. Kernel patches are included.,"Categories
+Terminals"
+"etcWebClient is a Unix/Linux server application that allows users to connect to the server from a browser. The web-based application includes an Editor, filesystem Treeview, and Console (etc).etcWebClient is a Unix/Linux server application that allows users to connect to the server from a browser. The web-based application includes an Editor, filesystem Treeview, and Console (etc).","Categories
+Text Editors, Terminal Emulators, Dynamic Content"
+"The J2MEGL (Java 2 Micro Edition Game Library) is a high-customizable library to speed up the development process involved in games when dealing with repainting, sprites and movement. It is based on the MIDP-1.0 specification.The J2MEGL (Java 2 Micro Edition Game Library) is a high-customizable library to speed up the development process involved in games when dealing with repainting, sprites and movement. It is based on the MIDP-1.0 specification.","Categories
+Terminals, Games/Entertainment, Software Development, Graphics"
+Backend for scripts to control an SBIG ST-4 CCD camera.Backend for scripts to control an SBIG ST-4 CCD camera.,"Categories
+Serial, Digital Camera, Astronomy, Physics"
+"Live Security/Forensics Linux Distribution, built from scratch and packed full of tools useful for vulnerability analysis, penetration tests, and forensic analysis.Live Security/Forensics Linux Distribution, built from scratch and packed full of tools useful for vulnerability analysis, penetration tests, and forensic analysis.","Categories
+Serial, Cryptography, Enlightenment, Firewall, Operating System Kernels"
+"TightVNC2 is an improved version of TightVNC, great free remote-desktop tool. The improvements include bandwidth-friendly ""Tight"" encoding, local cursor support on the client side, enhanced GUI, many bugfixes, and more.TightVNC2 is an improved version of TightVNC, great free remote-desktop tool. The improvements include bandwidth-friendly ""Tight"" encoding, local cursor support on the client side, enhanced GUI, many bugfixes, and more.","Categories
+Terminal Emulators, Remote Desktop"
+"The aim of the APterm project was to develop a terminal program running on TI-89 (possibly TI-92+ and V200 too). Some work was done, but due to TI's choice of cable it is not practically possible to make a terminal application. What the project has proThe aim of the APterm project was to develop a terminal program running on TI-89 (possibly TI-92+ and V200 too). Some work was done, but due to TI's choice of cable it is not practically possible to make a terminal application. What the project has pro","Categories
+Serial"
+"Terminal escape sequence converter/generator, designed to give ability to use complex key combinations in modern X terminal emulators and linux console.Terminal escape sequence converter/generator, designed to give ability to use complex key combinations in modern X terminal emulators and linux console.","Categories
+Terminal Emulators"
+kcWebTelnet is a PHP Script that allows users to run Unix or Linux shell commands where TELNET is not provided from their web broswer.kcWebTelnet is a PHP Script that allows users to run Unix or Linux shell commands where TELNET is not provided from their web broswer.,"Categories
+Telnet, Site Management, System Shells, Systems Administration, Monitoring"
+IrLex (Win console telnet & ssh client)IrLex (Win console telnet & ssh client),"Categories
+Telnet, Internet"
+"The A(?) Input/Output Terminal (AIOT) is aimed to make an open-source UNIX-like program(not an operating system), to: a: learn to use Command-Line Interfaces(CLI), b: to give other developers ideas, and, c: to test how interesting C++ programs can be!The A(?) Input/Output Terminal (AIOT) is aimed to make an open-source UNIX-like program(not an operating system), to: a: learn to use Command-Line Interfaces(CLI), b: to give other developers ideas, and, c: to test how interesting C++ programs can be!","Categories
+Terminals"
+A MUD driver and library written in the PIKE interpreted language.A MUD driver and library written in the PIKE interpreted language.,"Categories
+Telnet, Multi-User Dungeons (MUD), Dynamic Content"
+java telnet client libraryjava telnet client library,"Categories
+Telnet"
+"Micro-80 aims to simulate a Z80 homebrew computer down to the bare metal: 64K RAM, ADM-3A terminal, parallel port, serial port and...3.5"" 1.44MB floppy drive?!Micro-80 aims to simulate a Z80 homebrew computer down to the bare metal: 64K RAM, ADM-3A terminal, parallel port, serial port and...3.5"" 1.44MB floppy drive?!","Categories
+Terminal Emulators, Emulators, Operating System Kernels"
+"KBtin is a MUD/MUSH/MOO/telnet client, a heavily extended clone of tintin++. It is not limited to games however, as it can be used to run any line-based program. It uses full screen text mode, with portability preferred over graphical looks.KBtin is a MUD/MUSH/MOO/telnet client, a heavily extended clone of tintin++. It is not limited to games however, as it can be used to run any line-based program. It uses full screen text mode, with portability preferred over graphical looks.","Categories
+Telnet, Multi-User Dungeons (MUD)"
+The Keeper Core Mud is a system that allows creating multiple mud instances running on the same core server.The Keeper Core Mud is a system that allows creating multiple mud instances running on the same core server.,"Categories
+Telnet, Role-Playing Games (RPG), Multiplayer, Game Development Frameworks"
+"Xming is the leading X Window System Server for Microsoft Windows 8/7/Vista/XP (+ server 2012/2008/2003). It is fully featured, small and fast, simple to install and because it is standalone native Microsoft Windows, easily made portable (not needing a machine-specific installation).Xming is the leading X Window System Server for Microsoft Windows 8/7/Vista/XP (+ server 2012/2008/2003). It is fully featured, small and fast, simple to install and because it is standalone native Microsoft Windows, easily made portable (not needing a machine-specific installation).","Categories
+Terminal Emulators, Window Managers, Distributed Computing"
+Get and display the traffic counter of a Fritz!Box 7270 (or similar) in a human readable form on local host. The telnet daemon has to be enabled on the FritzBox to download the data file from the AVM router to local host.Get and display the traffic counter of a Fritz!Box 7270 (or similar) in a human readable form on local host. The telnet daemon has to be enabled on the FritzBox to download the data file from the AVM router to local host.,"Categories
+Telnet, Log Analysis, System Shells, Hardware"
+"Slightly modified BSD telnet client with STARTTLS command support, allowing to establish SSL session at current communication point. Also STOPTLS command implemented.Slightly modified BSD telnet client with STARTTLS command support, allowing to establish SSL session at current communication point. Also STOPTLS command implemented.","Categories
+Telnet, Security, Systems Administration"
+vcsadump is a tool for taking full-color snapshots of Linux virtual consoles (VC screenshots) in HTML format.vcsadump is a tool for taking full-color snapshots of Linux virtual consoles (VC screenshots) in HTML format.,"Categories
+Terminals, WWW/HTTP, Systems Administration"
+"A gathering spot for terminal emulators written in RealBasic and specifically mud clients. As a starting point, we provide RB Terminal Emulation Suite, an extensible frame work for developing terminal emulator clients.A gathering spot for terminal emulators written in RealBasic and specifically mud clients. As a starting point, we provide RB Terminal Emulation Suite, an extensible frame work for developing terminal emulator clients.","Categories
+Terminal Emulators, Telnet, Multi-User Dungeons (MUD)"
+A small pure Java port of BSD's NCurses console management tool. Makes heavy use of ANSI escape sequences.A small pure Java port of BSD's NCurses console management tool. Makes heavy use of ANSI escape sequences.,"Categories
+Terminals, Desktop Environment, Software Development"
+"ScriptEchoColor simplifies Linux terminal text colorizing, formatting and several steps of script coding.ScriptEchoColor simplifies Linux terminal text colorizing, formatting and several steps of script coding.","Categories
+Text Processing, Terminal Emulators, Other/Nonlisted Topic, Usability, System Shells"
+GbDas is a real-time data acquisition software written in Gambas. It uses Advantech 4000 series modules via RS-232 to acquire data from a variety of meteorological sensorsGbDas is a real-time data acquisition software written in Gambas. It uses Advantech 4000 series modules via RS-232 to acquire data from a variety of meteorological sensors,"Categories
+Serial"
+"FreeM** is a flexible client for MOO, MUD, and similar. Feature requests welcome; send them to funnyman3595@gmail.com.FreeM** is a flexible client for MOO, MUD, and similar. Feature requests welcome; send them to funnyman3595@gmail.com.","Categories
+Terminals, Communications, Multi-User Dungeons (MUD)"
+"ValDisk is a boot/root floppy set made for low-end machines (laptops) to be put to good use, such as for serial or network clients. It's goal is to run in as little as 4 MB of RAM, therefor it does not use a ramdisk.ValDisk is a boot/root floppy set made for low-end machines (laptops) to be put to good use, such as for serial or network clients. It's goal is to run in as little as 4 MB of RAM, therefor it does not use a ramdisk.","Categories
+Terminals, Boot"
+SoftDash PC allows realtime control of the Connect2Car MFC controller unit installed in a vehicle. Softdash PC can communicate with the MFC hardware either via a serial connection or a Bluetooth Connection. This project allows for open ended expansion.SoftDash PC allows realtime control of the Connect2Car MFC controller unit installed in a vehicle. Softdash PC can communicate with the MFC hardware either via a serial connection or a Bluetooth Connection. This project allows for open ended expansion.,"Categories
+Serial, User Interface (UI), Hardware Drivers, HMI"
+ev2vnc sends USB keyboard and mouse events to a VNC sessionev2vnc sends USB keyboard and mouse events to a VNC session,"Categories
+Terminals"
+NewaIO is an internet application system separate from the web.NewaIO is an internet application system separate from the web.,"Categories
+Data Formats, Terminals, Communications, Internet, Sound/Audio"
+"This is a telnet chat server that allows multiple people to connect and chat at once, similar to IRC. Any telnet client can be used as the client. Multiple telnet clients have been tested.This is a telnet chat server that allows multiple people to connect and chat at once, similar to IRC. Any telnet client can be used as the client. Multiple telnet clients have been tested.","Categories
+Telnet, Chat"
+"Gapito, Gnome Parallel Terminal, allows to run several SSH or telnet sessions in parallel, replicating user input over all of them. It is very useful to administrate clusters of machines.Gapito, Gnome Parallel Terminal, allows to run several SSH or telnet sessions in parallel, replicating user input over all of them. It is very useful to administrate clusters of machines.","Categories
+Terminal Emulators"
+<Console-Based Windows Process Manager><Console-Based Windows Process Manager>,"Categories
+Terminal Emulators, System Shells"
+"A lightweight, tabbed terminal emulator written in GTK 2.A lightweight, tabbed terminal emulator written in GTK 2.","Categories
+Terminal Emulators"
+httpShell is a way for connecting remotely to a computer with an indirect connection by help of a PHP-enabled HTTP server.httpShell is a way for connecting remotely to a computer with an indirect connection by help of a PHP-enabled HTTP server.,"Categories
+Terminals, WWW/HTTP"
+"NetStation is a linux distribution for diskless thin clients terminals using standard x86 hardware. It can boot from network, floppy or flash-disk and connect to an application server using VNC, RDP, XDM, SSH, Telnet or Citrix ICA.NetStation is a linux distribution for diskless thin clients terminals using standard x86 hardware. It can boot from network, floppy or flash-disk and connect to an application server using VNC, RDP, XDM, SSH, Telnet or Citrix ICA.","Categories
+Terminal Emulators"
+CSE Senior Design Project for an automated Robotic Truck. This will be software and hardware that allows for the autonomous nature of a the RC vehicle.CSE Senior Design Project for an automated Robotic Truck. This will be software and hardware that allows for the autonomous nature of a the RC vehicle.,"Categories
+Telnet, Simulation, Intelligent Agents"
+Some useful utilities for basic actions on the commmand line. Input and output functions allow an easy way of taking text from input and converting it into python objects. And a standard interface for terminal control features such as coloring.Some useful utilities for basic actions on the commmand line. Input and output functions allow an easy way of taking text from input and converting it into python objects. And a standard interface for terminal control features such as coloring.,"Categories
+Terminals"
+"TFFC i mean Terminal(or Trivial) Functions for Curses. I need some functions for text mode in DJGPP under pdcurses(it works also with ncurses) for input text,menu, scrolling text on the screen and others. I don't like(it very difficult to write some prTFFC i mean Terminal(or Trivial) Functions for Curses. I need some functions for text mode in DJGPP under pdcurses(it works also with ncurses) for input text,menu, scrolling text on the screen and others. I don't like(it very difficult to write some pr","Categories
+Terminals"
+Xpacket - the porpular Packet-Radio Terminal Plan is a Port to Linux. Actually there are the Sources from 1.81b8 . We need all Help!Xpacket - the porpular Packet-Radio Terminal Plan is a Port to Linux. Actually there are the Sources from 1.81b8 . We need all Help!,"Categories
+Serial"
+This project is dll which can help user to communicate with serial port.This project is dll which can help user to communicate with serial port.,"Categories
+Serial"
+Wrapped shell scripts to change the OS X Finder. One script to display hidden files and another script to return Finder to normal mode. Just double click them to use.Wrapped shell scripts to change the OS X Finder. One script to display hidden files and another script to return Finder to normal mode. Just double click them to use.,"Categories
+Terminals, Desktop Environment, File Managers"
+Simple Serial COM read/write program. I needed it for Caller ID read modem driver so it has command auto complete for AT commands. It is a good replacement for HyperTerminal. Made for .NET Framework 2.0Simple Serial COM read/write program. I needed it for Caller ID read modem driver so it has command auto complete for AT commands. It is a good replacement for HyperTerminal. Made for .NET Framework 2.0,"Categories
+Serial, Telephony, Interface Engine/Protocol Translator"
+"wMug.NET is a scriptable, skinnable TCP/IP control application allowing users to create and control TCP/IP connections to a variety of chat servers, such as IRC, MSN, MUD, MUGs, or servers of any other type deemed suitable for the application. [Note examwMug.NET is a scriptable, skinnable TCP/IP control application allowing users to create and control TCP/IP connections to a variety of chat servers, such as IRC, MSN, MUD, MUGs, or servers of any other type deemed suitable for the application. [Note exam","Categories
+Telnet, Chat"
+"Soicmp is a remote shell system, similar to telnet or netcat that allows a user to connect to a remote shell daemon, by using ICMP protocol instead of classical TCP. http://soicmp.sourceforge.net/ http://billiejoex.altervista.org/Prj_Py_soicmp.shtmlSoicmp is a remote shell system, similar to telnet or netcat that allows a user to connect to a remote shell daemon, by using ICMP protocol instead of classical TCP. http://soicmp.sourceforge.net/ http://billiejoex.altervista.org/Prj_Py_soicmp.shtml","Categories
+Terminals, Security, Networking"
+"OS X RS232 Serial monitor program for sending and receiving data and monitoring and controlling the handshake signals. It can be used for debugging serial connections, serial device drivers, embedded systems connected to the serial etc.OS X RS232 Serial monitor program for sending and receiving data and monitoring and controlling the handshake signals. It can be used for debugging serial connections, serial device drivers, embedded systems connected to the serial etc.","Categories
+Serial, Communications"
+"MUD client for use with the Discworld MUD, if it works for any other MUDs that's a bonus!MUD client for use with the Discworld MUD, if it works for any other MUDs that's a bonus!","Categories
+Telnet, Multi-User Dungeons (MUD)"
+"A simple, quick and plug-and-play wrapper for the curses library that provides a shell-like UI. Features include customizable prompt, tab completion, command history and thread-safety (simultaneous input/output). Scotty stands for Shell CreatiOn ToolkiT.A simple, quick and plug-and-play wrapper for the curses library that provides a shell-like UI. Features include customizable prompt, tab completion, command history and thread-safety (simultaneous input/output). Scotty stands for Shell CreatiOn ToolkiT.","Categories
+Terminals, User Interface (UI)"
+"The goal of this project is to make a program (or a set of programs) to fully control a remote machine trought a TCP/IP network.
+The project consist on two parts: The host app to receive & interpret commands and a GUI to send the commands (the client).The goal of this project is to make a program (or a set of programs) to fully control a remote machine trought a TCP/IP network.
+The project consist on two parts: The host app to receive & interpret commands and a GUI to send the commands (the client).","Categories
+Terminals, Communications, Window Managers, Systems Administration"
+Home Server Download Daemon (HSDD) is free non-GUI download manager for home network servers written in Java. HSDD is controlled remotely by telnet protocol.Home Server Download Daemon (HSDD) is free non-GUI download manager for home network servers written in Java. HSDD is controlled remotely by telnet protocol.,"Categories
+Telnet, File Transfer Protocol (FTP), WWW/HTTP, Download Managers"
+RS232 Terminal ProgramRS232 Terminal Program,"Categories
+Serial"
+A terminal program for the GGI graphics systemA terminal program for the GGI graphics system,"Categories
+Terminal Emulators"
+"AsmFind is a small, fast disk search utility. It will search for files, directories or text using a Boyer-Moore search.AsmFind is a small, fast disk search utility. It will search for files, directories or text using a Boyer-Moore search.","Categories
+Terminal Emulators, Desktop Environment"
+"An ANSI drawing tool supporting most formats (ANSI/ASCII), AVATAR, BINARY, PCBOARD. It does support TheDrawFonts file too. It will be a replacement for the good old dos based TheDraw and it is designed in the spirit of ACiD DrawAn ANSI drawing tool supporting most formats (ANSI/ASCII), AVATAR, BINARY, PCBOARD. It does support TheDrawFonts file too. It will be a replacement for the good old dos based TheDraw and it is designed in the spirit of ACiD Draw","Categories
+Terminals, BBS, Graphic Design"
+"Gnome-sshman is an SSH session manager for GNOME. It is easy and fast to use, and is useful for system administrators that need to connect to many SSH servers.Gnome-sshman is an SSH session manager for GNOME. It is easy and fast to use, and is useful for system administrators that need to connect to many SSH servers.","Categories
+Telnet"

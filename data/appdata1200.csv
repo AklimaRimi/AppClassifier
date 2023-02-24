@@ -1,0 +1,247 @@
+Description,Category
+"The sandbox libraries (libsandbox & pysandbox) are an open-source suite of software components for C/C++ and Python developers to create automated profiling tools and watchdog programs. The API's are designed for executing and instrumenting simple (single process) tasks, featuring policy-based behavioral auditing, resource quota, and statistics collecting.
+
+The sandbox libraries were originally designed and utilized as the core security module of a full-fledged online judge system for ACM/ICPC training. They have since then evolved into a general-purpose tool for binary program testing, profiling, and security restriction. The sandbox libraries are currently maintained by the OpenJudge Alliance (http://openjudge.net/) as a standalone, open-source project to facilitate various assignment grading solutions for IT/CS education.
+
+See project page at https://github.com/openjudge/sandbox for details.The sandbox libraries (libsandbox & pysandbox) are an open-source suite of software components for C/C++ and Python developers to create automated profiling tools and watchdog programs. The API's are designed for executing and instrumenting simple (single process) tasks, featuring policy-based behavioral auditing, resource quota, and statistics collecting.
+
+The sandbox libraries were originally designed and utilized as the core security module of a full-fledged online judge system for ACM/ICPC training. They have since then evolved into a general-purpose tool for binary program testing, profiling, and security restriction. The sandbox libraries are currently maintained by the OpenJudge Alliance (http://openjudge.net/) as a standalone, open-source project to facilitate various assignment grading solutions for IT/CS education.
+
+See project page at https://github.com/openjudge/sandbox for details.","Categories
+Security, Software Testing, Profiling, Exam"
+"This site is destined to distributed different tools to provide security mechanisms for wireless networks. For example, distribute an implementation of the Watchdog mechanism and the Reputation mechanism ready to be use in your network.This site is destined to distributed different tools to provide security mechanisms for wireless networks. For example, distribute an implementation of the Watchdog mechanism and the Reputation mechanism ready to be use in your network.","Categories
+Security"
+"Tidbits is a web-based digital wallet. Use it to store usernames, passwords, phone numbers, or any little tidbit you might easily forget. Then you need only remember your one Tidbits password to access all your important details.
+
+Tidbits 2 is optimized for mobile touch-based devices like the iPhone and iPad (it works well on desktop browsers, too).
+
+The integrated search engine makes it a snap to find all those little nuggets you don't want to have to remember but want to be able to access anytime, anywhere.Tidbits is a web-based digital wallet. Use it to store usernames, passwords, phone numbers, or any little tidbit you might easily forget. Then you need only remember your one Tidbits password to access all your important details.
+
+Tidbits 2 is optimized for mobile touch-based devices like the iPhone and iPad (it works well on desktop browsers, too).
+
+The integrated search engine makes it a snap to find all those little nuggets you don't want to have to remember but want to be able to access anytime, anywhere.","Categories
+Mobile, Password Managers, Knowledge Management"
+"Antispyd is an HTTP/HTTPS threats filtering proxy server written in pure C under Linux. The main goal of the project is to develop a free, secure, fast and extensible solution to fight against current Web threats, anonymize and control web traffic.Antispyd is an HTTP/HTTPS threats filtering proxy server written in pure C under Linux. The main goal of the project is to develop a free, secure, fast and extensible solution to fight against current Web threats, anonymize and control web traffic.","Categories
+Security, WWW/HTTP, Systems Administration, Monitoring, Proxy Servers"
+WebScarab for Eclipse is an extensible framework for analyzing applications that communicate using the HTTP protocol. It includes an HTTP monitor and an HTTP proxy for recording all messages between your machine and remote servers.WebScarab for Eclipse is an extensible framework for analyzing applications that communicate using the HTTP protocol. It includes an HTTP monitor and an HTTP proxy for recording all messages between your machine and remote servers.,"Categories
+Security, WWW/HTTP, Monitoring"
+"tpm4java is a java-library which makes it easy to use your trusted plattform module (tpm chip) in your java applications. A tpm chip offers a random number generator, a secure keystore, an rsa-engine and some other cryptographic functionality.tpm4java is a java-library which makes it easy to use your trusted plattform module (tpm chip) in your java applications. A tpm chip offers a random number generator, a secure keystore, an rsa-engine and some other cryptographic functionality.","Categories
+Security, Hardware Drivers"
+"Create and use your own personalized, yet very secure, encoding script!Create and use your own personalized, yet very secure, encoding script!","Categories
+Cryptography, Algorithms, Code Generators"
+"A criteria selection for guiding and assuring activities concerned with the analysis of digital evidence, It covers legal, police and operational aspects. It is not a technical manual for computer forensic analysis, It is a criteria-based manual.A criteria selection for guiding and assuring activities concerned with the analysis of digital evidence, It covers legal, police and operational aspects. It is not a technical manual for computer forensic analysis, It is a criteria-based manual.","Categories
+Other/Nonlisted Topic, Security"
+"pamtester is a tiny utility program to test the pluggable authentication modules (PAM) facility, specifically designed to help PAM module authors to intensively test their own modules.pamtester is a tiny utility program to test the pluggable authentication modules (PAM) facility, specifically designed to help PAM module authors to intensively test their own modules.","Categories
+Security, Software Testing"
+"File Crypter is a Simple program, that is able to encrypt your files and decrypt them. A version of File Crypter is included as an example in the xCrypter Library and is called ""ncrypter"" which is short for ""new crypter"".File Crypter is a Simple program, that is able to encrypt your files and decrypt them. A version of File Crypter is included as an example in the xCrypter Library and is called ""ncrypter"" which is short for ""new crypter"".","Categories
+Cryptography"
+"RAS-SMS is a simple extension to Microsoft's Remote Access Service (RAS). RAS-SMS adds two factor authentication to standard VPN/PPTP clients on Windows, Mac-OS and Linux. RAS-SMS uses your mobile phone instead of smart cards, RSA keys or USB tokens.RAS-SMS is a simple extension to Microsoft's Remote Access Service (RAS). RAS-SMS adds two factor authentication to standard VPN/PPTP clients on Windows, Mac-OS and Linux. RAS-SMS uses your mobile phone instead of smart cards, RSA keys or USB tokens.","Categories
+Security, Networking, VPN"
+"Intrusion Detection System made in Java using Snort rule files. The main feature of Nyx are distributiveness, Java based, Software Agent implemented. Iteration 1 has finished. Still more features has to be extendedIntrusion Detection System made in Java using Snort rule files. The main feature of Nyx are distributiveness, Java based, Software Agent implemented. Iteration 1 has finished. Still more features has to be extended","Categories
+Security"
+"Combine the output of multiple tools, add your own manual findings and screenshots and generate a report.
+
+Everyone on the same, working better, together.Combine the output of multiple tools, add your own manual findings and screenshots and generate a report.
+
+Everyone on the same, working better, together.","Categories
+Security"
+The Entitlements Library provides for the enforcement and administration of application software entitlements or permissions. The Administration component permits the creation of roles and is Servlet based.The Entitlements Library provides for the enforcement and administration of application software entitlements or permissions. The Administration component permits the creation of roles and is Servlet based.,"Categories
+Security, CGI Scripts"
+"Simple-to-use Mac OS X application to store passwords or other notes securely. Encrypts with 320-bit Blowfish, includes random password generation, and a very clean interface. Uses the system's OpenSSL for encryption.Simple-to-use Mac OS X application to store passwords or other notes securely. Encrypts with 320-bit Blowfish, includes random password generation, and a very clean interface. Uses the system's OpenSSL for encryption.","Categories
+Security"
+nf-HiPAC is a high performance packet filter for Linux. It provides the same rich feature set as iptables but uses an advanced algorithm to minimize the number of memory lookups per packet.nf-HiPAC is a high performance packet filter for Linux. It provides the same rich feature set as iptables but uses an advanced algorithm to minimize the number of memory lookups per packet.,"Categories
+Security, Firewall, Operating System Kernels"
+EncFS - virtual encrypted filesystem for LinuxEncFS - virtual encrypted filesystem for Linux,"Categories
+Cryptography, File Systems"
+"OpenSIMS 2.0 is coming. It will provide a services layer for tying together various security tools into a common collaborative framework taking ""Community Centric Security"" from dream to reality. 1.0 is still available, but with no upgrade path to 2.0.OpenSIMS 2.0 is coming. It will provide a services layer for tying together various security tools into a common collaborative framework taking ""Community Centric Security"" from dream to reality. 1.0 is still available, but with no upgrade path to 2.0.","Categories
+Security, Systems Administration, Networking"
+Oinkmaster is a simple yet powerful Perl script to update and manage Snort signatures.Oinkmaster is a simple yet powerful Perl script to update and manage Snort signatures.,"Categories
+Security"
+"The Nemesis Project is designed to be a command line based, portable human
+IP stack for UNIX-like and Windows systems. The suite is broken down by
+protocol, and should allow for useful scripting of injected packets from
+simple shell scripts.The Nemesis Project is designed to be a command line based, portable human
+IP stack for UNIX-like and Windows systems. The suite is broken down by
+protocol, and should allow for useful scripting of injected packets from
+simple shell scripts.","Categories
+Communications, Security, Firewall, Monitoring, Internet"
+"VXE (Virtual eXecuting Environment) is an Intrusion Prevention System (IPS). It protects Linux servers from hacker attacks from network, etc. It protects software subsystems, such as: SMTP, HTTP and any other subsystem, already installed at the server.VXE (Virtual eXecuting Environment) is an Intrusion Prevention System (IPS). It protects Linux servers from hacker attacks from network, etc. It protects software subsystems, such as: SMTP, HTTP and any other subsystem, already installed at the server.","Categories
+Security"
+PrivaSphere Secure Messaging Service is a convinced user of open source. This is to give back to the community. The first contribution is a port of best practice crypto to Java.PrivaSphere Secure Messaging Service is a convinced user of open source. This is to give back to the community. The first contribution is a port of best practice crypto to Java.,"Categories
+Security"
+The goal of the project is to build a framework to allow Astaro firewall users to install optional software packages on their firewalls. (Astaro is a Linux-based firewall available from www.astaro.com.) Such a framework includes a package-management systThe goal of the project is to build a framework to allow Astaro firewall users to install optional software packages on their firewalls. (Astaro is a Linux-based firewall available from www.astaro.com.) Such a framework includes a package-management syst,"Categories
+Security, Firewall"
+A linux distribution for Wardrivers. It is available on disk and bootable CD. It's main intended use is for systems administrators that want to audit and evaluate thier wireless network installations. Should be handy for wardriving also.A linux distribution for Wardrivers. It is available on disk and bootable CD. It's main intended use is for systems administrators that want to audit and evaluate thier wireless network installations. Should be handy for wardriving also.,"Categories
+Security, Systems Administration, Networking"
+"Steganography tool which establishes a full-duplex steganographic data transfer protocol utilizing Real-time Transfer Protocol (RTP) packet payloads as the cover medium. The tool provides interactive chat, file transfer, and remote shell access.Steganography tool which establishes a full-duplex steganographic data transfer protocol utilizing Real-time Transfer Protocol (RTP) packet payloads as the cover medium. The tool provides interactive chat, file transfer, and remote shell access.","Categories
+Terminals, Internet Phone, Chat, Streaming, File Sharing, Security"
+"EasyIDS is an easy to install intrusion detection system based upon Snort. EasyIDS is designed for the network security beginner with minimal Linux experience. EasyIDS includes CentOS linux, Snort, Barnyard, mysql, BASE, ntop, arpwatch, and more.EasyIDS is an easy to install intrusion detection system based upon Snort. EasyIDS is designed for the network security beginner with minimal Linux experience. EasyIDS includes CentOS linux, Snort, Barnyard, mysql, BASE, ntop, arpwatch, and more.","Categories
+Security"
+"Portable, optimised implementation of Bruce Schneier's 64-bit symmetric block cipher, Blowfish. Includes support for ECB, CBC, CFB, OFB and CTR block cipher modes, weak key detection and parallelisation using OpenMP.Portable, optimised implementation of Bruce Schneier's 64-bit symmetric block cipher, Blowfish. Includes support for ECB, CBC, CFB, OFB and CTR block cipher modes, weak key detection and parallelisation using OpenMP.","Categories
+Cryptography, Algorithms"
+"Security Analyst Network Connection Profiler [sancp] is a network security tool designed to create connection logs and record network traffic for the purpose of auditing, historical analysis, and network activity discovery.Security Analyst Network Connection Profiler [sancp] is a network security tool designed to create connection logs and record network traffic for the purpose of auditing, historical analysis, and network activity discovery.","Categories
+Security, Monitoring, Internet"
+"HashserGUI is a GUI interface for Jacksum. It is intended to provide a graphical tool to create hashes for files within a directory, and check the hashes generated. It works with many hash functions, as md5, sha1, sha256, sha512, md4, crc, etc.HashserGUI is a GUI interface for Jacksum. It is intended to provide a graphical tool to create hashes for files within a directory, and check the hashes generated. It works with many hash functions, as md5, sha1, sha256, sha512, md4, crc, etc.","Categories
+Cryptography"
+"A replacement to traditional syslog daemons. Including cryptographic log protection, mysql, postgresql. Supported on Linux, BSD, Irix, Solaris and AIX.A replacement to traditional syslog daemons. Including cryptographic log protection, mysql, postgresql. Supported on Linux, BSD, Irix, Solaris and AIX.","Categories
+Security, Logging"
+Taof is a GUI cross-platform Python generic network protocol fuzzer. It has been designed for minimizing set-up time during fuzzing sessions and it is especially useful for fast testing of proprietary or undocumented protocols.Taof is a GUI cross-platform Python generic network protocol fuzzer. It has been designed for minimizing set-up time during fuzzing sessions and it is especially useful for fast testing of proprietary or undocumented protocols.,"Categories
+Security"
+"Novus Ordo Seclorum (Ordo for short) is a pathologically secured, invitation only secure communications framework. It is built on top of the Freenet
+crypto libraries.Novus Ordo Seclorum (Ordo for short) is a pathologically secured, invitation only secure communications framework. It is built on top of the Freenet
+crypto libraries.","Categories
+Chat, Conferencing, Cryptography"
+"ArpON (ARP handler inspection) is a Host-based solution that make the ARP standardized protocol secure in order to avoid the Man In The Middle (MITM) attack through the ARP spoofing, ARP cache poisoning or ARP poison routing attack.ArpON (ARP handler inspection) is a Host-based solution that make the ARP standardized protocol secure in order to avoid the Man In The Middle (MITM) attack through the ARP spoofing, ARP cache poisoning or ARP poison routing attack.","Categories
+Security, Algorithms, Networking"
+"AVirCAP is a system for manual and / or automated detection of CodeRed and Nimda type of hack attempts and virtually all other kinds of ""logable"" intrusion attempts. It can work stand alone or together with other additional AVirCAP machines in the LAN/WAVirCAP is a system for manual and / or automated detection of CodeRed and Nimda type of hack attempts and virtually all other kinds of ""logable"" intrusion attempts. It can work stand alone or together with other additional AVirCAP machines in the LAN/W","Categories
+Security, Log Analysis, Logging"
+winKeyLock utility enables to lock computer access quickly. Disables the Windows keyboard and mouse so a DVD/Movie can be watched by a small child without changing anything! During lock the current screen stays transparent not like during screen server.winKeyLock utility enables to lock computer access quickly. Disables the Windows keyboard and mouse so a DVD/Movie can be watched by a small child without changing anything! During lock the current screen stays transparent not like during screen server.,"Categories
+Security, Screen Savers"
+"Blockpost plugin for Agnitum Outpost Firewall.
+Every IP-packet from or to IP address in ""Restricted Zone"" list to be dropped/rejected. Good for p2p spyware blocking.Blockpost plugin for Agnitum Outpost Firewall.
+Every IP-packet from or to IP address in ""Restricted Zone"" list to be dropped/rejected. Good for p2p spyware blocking.","Categories
+Security, Internet"
+tcpreplay is a suite of tools to edit and replay captured network traffic.tcpreplay is a suite of tools to edit and replay captured network traffic.,"Categories
+Security, Networking, Internet"
+Misc pentest tools on the linux boxMisc pentest tools on the linux box,"Categories
+Security"
+"microCODE is a PHP module that allows inclusion of encrypted PHP sourcecode instead of plain PHP scripts.
+Protect your intellectual property using standard encryption algorithms like DES or AES.microCODE is a PHP module that allows inclusion of encrypted PHP sourcecode instead of plain PHP scripts.
+Protect your intellectual property using standard encryption algorithms like DES or AES.","Categories
+Security, CGI Scripts, HTTP Servers"
+"SAE provides a secure password-based authentication mechanism for 802.11. It is resistant to passive attack, active attack, and dictionary attack.SAE provides a secure password-based authentication mechanism for 802.11. It is resistant to passive attack, active attack, and dictionary attack.","Categories
+Cryptography, Wireless"
+The Firepoint Firewall Management Server provides the missing link between iptables and Firewall Builder to make a complete firewall system.The Firepoint Firewall Management Server provides the missing link between iptables and Firewall Builder to make a complete firewall system.,"Categories
+Security, Firewall"
+jdiscover is a Java-based packet sniffing and network analysis utility for building a graphical view of a local area network and analyzing weaknesses and vulnerabilities for security management and assessments.jdiscover is a Java-based packet sniffing and network analysis utility for building a graphical view of a local area network and analyzing weaknesses and vulnerabilities for security management and assessments.,"Categories
+Security"
+"Accepts machine specific, time sensitive password from standard user to then allow the user to run a new application as local Administrator. Released under GPL.Accepts machine specific, time sensitive password from standard user to then allow the user to run a new application as local Administrator. Released under GPL.","Categories
+Other/Nonlisted Topic, Security"
+"A community repository to develop Commodity Grid (CoG) Software for the access of Grids, through high level interfaces. The main repository is maintained at http://www.cogkit.orgA community repository to develop Commodity Grid (CoG) Software for the access of Grids, through high level interfaces. The main repository is maintained at http://www.cogkit.org","Categories
+Security, File Managers, Clustering, Distributed Computing"
+"watches for Regristry-changes of keys like HKLMSoftwareMicrosoftWindowsCurrentVersionRun etc. and pops up if something has changed, logs it, can ask google for the key found. Protects against Trojans and Viruses.watches for Regristry-changes of keys like HKLMSoftwareMicrosoftWindowsCurrentVersionRun etc. and pops up if something has changed, logs it, can ask google for the key found. Protects against Trojans and Viruses.","Categories
+Security, Logging, Boot"
+This project implements IPSec as NDIS Intermediate filter driver in Windows 2000. This IPSec driver appears as Virtual NIC to protocol drivers like TCP/IP driver. The network applications need not be aware of the existance of this IPSec driverThis project implements IPSec as NDIS Intermediate filter driver in Windows 2000. This IPSec driver appears as Virtual NIC to protocol drivers like TCP/IP driver. The network applications need not be aware of the existance of this IPSec driver,"Categories
+Security, Internet"
+"jWaste is a Java based implemtation of the WASTE-Protocol. WASTE is a mesh-based workgroup tool that allows for encrypted, private communication between distant parties on the internet, independant of local network organization.jWaste is a Java based implemtation of the WASTE-Protocol. WASTE is a mesh-based workgroup tool that allows for encrypted, private communication between distant parties on the internet, independant of local network organization.","Categories
+Chat, Conferencing, File Sharing, Cryptography"
+"A Network User Authentication System for Public and Mobile Terminals - It is an authentication gateway (captive portal type) for open network. It is applicable to wireless lan(WLAN), wired lan, and public terminals. See Home Page for detail.
+
+MAIN DEVELOPMENT SITE IS MOVED FROM here TO ""https://osdn.jp/projects/opengate/"".A Network User Authentication System for Public and Mobile Terminals - It is an authentication gateway (captive portal type) for open network. It is applicable to wireless lan(WLAN), wired lan, and public terminals. See Home Page for detail.
+
+MAIN DEVELOPMENT SITE IS MOVED FROM here TO ""https://osdn.jp/projects/opengate/"".","Categories
+Security, Wireless"
+"Cross platform GUI managing bookmarks and shortcuts in a portable way. Support import/export, search, encryption, hierarchical tags, USB key installation, various environments integration, OS-dependent shortcuts, plugins extensibility.Cross platform GUI managing bookmarks and shortcuts in a portable way. Support import/export, search, encryption, hierarchical tags, USB key installation, various environments integration, OS-dependent shortcuts, plugins extensibility.","Categories
+Cryptography, Desktop Environment, Link Checking, Browser Extensions and Plugins, Agile Development Tools, Social Bookmarking"
+"Rainmaker is a command line pseudo random number generator designed to work on multiple platforms. Rainmaker can be used produce cryptographically strong non-blocking output in many formats (Base-16, Alphanumeric, Numeric , and Alpha only modes).Rainmaker is a command line pseudo random number generator designed to work on multiple platforms. Rainmaker can be used produce cryptographically strong non-blocking output in many formats (Base-16, Alphanumeric, Numeric , and Alpha only modes).","Categories
+Cryptography"
+BogoSec is a utility that calculates source code security quality metrics. A flexible framework interprets the results of existing scanners to compute these metrics. BogoSec is useful to track security quality across releases and competing packages.BogoSec is a utility that calculates source code security quality metrics. A flexible framework interprets the results of existing scanners to compute these metrics. BogoSec is useful to track security quality across releases and competing packages.,"Categories
+Security, QA Automation"
+VisualHunter is a simple GUI for rkhunter build with C and GTK+ libraries.VisualHunter is a simple GUI for rkhunter build with C and GTK+ libraries.,"Categories
+Security"
+"yaSSL, or yet another SSL, is an embedded ssl library for programmers building security functionality into their applications and devices. yaSSL is highly portable, and runs on standard as well as embedded platforms(QNX, ThreadX, VxWorks, Tron)
+
+yaSSL is still available but no longer being developed. Current development on the same project continues under wolfSSL. Visit yaSSL Home above for the latest stable release.yaSSL, or yet another SSL, is an embedded ssl library for programmers building security functionality into their applications and devices. yaSSL is highly portable, and runs on standard as well as embedded platforms(QNX, ThreadX, VxWorks, Tron)
+
+yaSSL is still available but no longer being developed. Current development on the same project continues under wolfSSL. Visit yaSSL Home above for the latest stable release.","Categories
+Cryptography, Networking, Mobile"
+"Open source DRM for MPEG-4 and MPEG-2 adhering to ISO/MPEG IPMP open standards (MPEG IPMP Hooks and IPMP-X), ISMAcryp and OMA DRM 2 specs. Includes CA, PKI, DOI mgmt, ISMA streaming, license server, encoding/encryption, player, plugin architecture, etcOpen source DRM for MPEG-4 and MPEG-2 adhering to ISO/MPEG IPMP open standards (MPEG IPMP Hooks and IPMP-X), ISMAcryp and OMA DRM 2 specs. Includes CA, PKI, DOI mgmt, ISMA streaming, license server, encoding/encryption, player, plugin architecture, etc","Categories
+Security, Video, Sound/Audio"
+"Apache security module. Makes Apache configurable to work as diffrent user, group and diffrent chroot() environment for each VirtualServer and for ~user request. Designed mostly for ISP to make Apache secure.Apache security module. Makes Apache configurable to work as diffrent user, group and diffrent chroot() environment for each VirtualServer and for ~user request. Designed mostly for ISP to make Apache secure.","Categories
+Security"
+SnortKonsole is a Java-Frontend for the Open Source Network Intrusion Detection System Snort. It supports all configuration-aspects of Snort. The configuration distribution and activating of sensors is done via scp/ssh.SnortKonsole is a Java-Frontend for the Open Source Network Intrusion Detection System Snort. It supports all configuration-aspects of Snort. The configuration distribution and activating of sensors is done via scp/ssh.,"Categories
+Security, Systems Administration, Monitoring"
+Thoughts is an electronic journal/diary program based on the .NET framework (C#). It allows entries to be saved locally and/or remotely via web service or directly to a database. The entries can also be encrypted prior to saving.Thoughts is an electronic journal/diary program based on the .NET framework (C#). It allows entries to be saved locally and/or remotely via web service or directly to a database. The entries can also be encrypted prior to saving.,"Categories
+Communications, Cryptography, Sociology"
+"This is an Android front end for the PasswordSafe password management utility. This utility allows you to easily and securely manage multiple passwords, in a format that is compatible with the original PasswordSafe utility.This is an Android front end for the PasswordSafe password management utility. This utility allows you to easily and securely manage multiple passwords, in a format that is compatible with the original PasswordSafe utility.","Categories
+Cryptography, Mobile"
+"netleak is a collection of small perlscripts that detects connectivity between network segments. It is mostly useful to detect ""leaks"" in large organizations that have private network segments physically separated from the Internet.netleak is a collection of small perlscripts that detects connectivity between network segments. It is mostly useful to detect ""leaks"" in large organizations that have private network segments physically separated from the Internet.","Categories
+Security, Systems Administration, Monitoring, Logging"
+Python bindings for libselinuxPython bindings for libselinux,"Categories
+Security"
+"KMyFirewall is a KDE/Qt Programm that tries to provide an easy to use and comfortable GUI for the Linux ""iptables"" command. An easy to use plugin architecture allows fast and easy development of rule option extentions.KMyFirewall is a KDE/Qt Programm that tries to provide an easy to use and comfortable GUI for the Linux ""iptables"" command. An easy to use plugin architecture allows fast and easy development of rule option extentions.","Categories
+Security, KDE, Firewall"
+"This is a tool that has per objective to audit a system Unix. In order to make this procedure, this tool has verifications of configurations and variables of the Operating system.This is a tool that has per objective to audit a system Unix. In order to make this procedure, this tool has verifications of configurations and variables of the Operating system.","Categories
+Security, Monitoring"
+"PAM module which permits authentication for arbitrary services via ssh-agent. Written with sudo in mind, but like any auth PAM module, can be used for for many purposes.PAM module which permits authentication for arbitrary services via ssh-agent. Written with sudo in mind, but like any auth PAM module, can be used for for many purposes.","Categories
+Security, Authentication/Directory"
+"Shasummer is a SHA hashsum utility in Java. It can calculate SHA1, SHA256 and SHA512 hashes of a file or of a directory (and its subdirectories) and verify the hashes later. Shasummer has a graphical and a command-line interface.Shasummer is a SHA hashsum utility in Java. It can calculate SHA1, SHA256 and SHA512 hashes of a file or of a directory (and its subdirectories) and verify the hashes later. Shasummer has a graphical and a command-line interface.","Categories
+Cryptography, Systems Administration"
+A graphical application created in C# .Net 1.1 that helps the penetration tester to inject SQL commands on a web page. Its main strength is its capacity to automate tedious blind SQL injection with several threads. Under Clarified Artistic LicenseA graphical application created in C# .Net 1.1 that helps the penetration tester to inject SQL commands on a web page. Its main strength is its capacity to automate tedious blind SQL injection with several threads. Under Clarified Artistic License,"Categories
+Database, Security"
+"XFwall is a multi-distro professional graphical firewall software for Linux aimed at advanced users. The software has been adopted by private and governmental companies. XFwall can be used with client, servers, and (mainly) gateway machines.XFwall is a multi-distro professional graphical firewall software for Linux aimed at advanced users. The software has been adopted by private and governmental companies. XFwall can be used with client, servers, and (mainly) gateway machines.","Categories
+Security"
+"tcpick is a textmode sniffer; it tracks tcp streams, shows the status, reassembles and saves the data captured in files or displays them in the terminal in different modes (ascii, hex..). There is a color-mode. Useful to get files passively.tcpick is a textmode sniffer; it tracks tcp streams, shows the status, reassembles and saves the data captured in files or displays them in the terminal in different modes (ascii, hex..). There is a color-mode. Useful to get files passively.","Categories
+Communications, Security, File Transfer Protocol (FTP), Monitoring, Logging"
+"Multi-CA solution with support for complex certificate chains.
+Perfect for central management for several certificate authorities.Multi-CA solution with support for complex certificate chains.
+Perfect for central management for several certificate authorities.","Categories
+Cryptography"
+"Boot Integrity Services (BIS) is a CDSA application. BIS adds digital signatures to boot images obtained via PXE and DHCP/BOOTP protocols. BIS includes tools for creating keys, certificates, and digital signatures, and remotely configuring BIS clients.Boot Integrity Services (BIS) is a CDSA application. BIS adds digital signatures to boot images obtained via PXE and DHCP/BOOTP protocols. BIS includes tools for creating keys, certificates, and digital signatures, and remotely configuring BIS clients.","Categories
+Cryptography, Boot"
+"This is an IRCd based off of bahamut-1.4.35 that includes IPv6 and SSL support. We will be adding more advanced features as well such as host hiding (+x), IRC operator levels, halfops support, more channel modes, etc.This is an IRCd based off of bahamut-1.4.35 that includes IPv6 and SSL support. We will be adding more advanced features as well such as host hiding (+x), IRC operator levels, halfops support, more channel modes, etc.","Categories
+IRC Clients, Cryptography"
+Easy integrity check system is easy to install and use file integrity system. Primarily ment for system administrators to aid in intrusion detection.Easy integrity check system is easy to install and use file integrity system. Primarily ment for system administrators to aid in intrusion detection.,"Categories
+Security, Systems Administration"
+"deface-no-tnx is an anti-defacement system that monitors your Web files and notifies you about unallowed changes. It also replaces the defaced page with a standard ""error"" page,so that no offensive/joking content can be frauodolently added to your sitedeface-no-tnx is an anti-defacement system that monitors your Web files and notifies you about unallowed changes. It also replaces the defaced page with a standard ""error"" page,so that no offensive/joking content can be frauodolently added to your site","Categories
+Security, Firewall, Monitoring, Internet"
+"Panoptis plans to create a network security tool (N-IDS) to detect and block DoS and DDoS attacks. The programming language is C++, and the input is being provided by routers.Panoptis plans to create a network security tool (N-IDS) to detect and block DoS and DDoS attacks. The programming language is C++, and the input is being provided by routers.","Categories
+Security, Log Analysis, Monitoring"
+"Yet another Windows password manager, easy to learn and easy to use, no categorization, strong Blowfish encryption. There is no installation, just a single executable in a small package, no mess with the windows system registry.Yet another Windows password manager, easy to learn and easy to use, no categorization, strong Blowfish encryption. There is no installation, just a single executable in a small package, no mess with the windows system registry.","Categories
+Cryptography"
+"LibIDMEF is an implementation of the Internet Engineering Task Force (IETF), Intrusion Detection Exchange Format Charter Working Group (IDWG), draft standard Intrusion Detection Message Exchange Format (IDMEF) protocol.LibIDMEF is an implementation of the Internet Engineering Task Force (IETF), Intrusion Detection Exchange Format Charter Working Group (IDWG), draft standard Intrusion Detection Message Exchange Format (IDMEF) protocol.","Categories
+Security, Monitoring"
+"Alfandega is a strong and Modular IpTables Firewall. It provides NAT, port-forwarding, spoofing list, blacklist of crackers and spywares sites, protection for tcp/udp scans, DOS/DDOS and Smurf attacks, TCP tuning, DHCP and PPP support and much more.Alfandega is a strong and Modular IpTables Firewall. It provides NAT, port-forwarding, spoofing list, blacklist of crackers and spywares sites, protection for tcp/udp scans, DOS/DDOS and Smurf attacks, TCP tuning, DHCP and PPP support and much more.","Categories
+Security, Systems Administration, Firewall"
+NMAP Configurator is a GUI frontend for NMAP on Windows systems. User must have installed NMAP for this program to work properly. New version fixes the problem of inability to access buttons if display is set to 800x600.NMAP Configurator is a GUI frontend for NMAP on Windows systems. User must have installed NMAP for this program to work properly. New version fixes the problem of inability to access buttons if display is set to 800x600.,"Categories
+Security, Monitoring"
+"Track all IP/TCP, IP/UDP, NetBeui, IPX/SPX connections and ARP/RARP traffic. Optionally save connections in MySQL database. Implement http server so you can view connections with web browser or GTK client. Can send fake ARP reply and kill TCP connectionTrack all IP/TCP, IP/UDP, NetBeui, IPX/SPX connections and ARP/RARP traffic. Optionally save connections in MySQL database. Implement http server so you can view connections with web browser or GTK client. Can send fake ARP reply and kill TCP connection","Categories
+Communications, Security, Systems Administration, Monitoring"
+Publish your junit test report in pdf format. Plug and Play integration. Home page: http://junitpdfreport.sourceforge.net/Publish your junit test report in pdf format. Plug and Play integration. Home page: http://junitpdfreport.sourceforge.net/,"Categories
+Security, Software Testing, QA Automation, Systems Administration"
+The SSTCP protocol permits to establish a simple TCP/IP connexion across multiple AES secured channel. Simple but (/so?) secured and strong cryptographic methods are used. OpenSSTCP is the LGPL implementation of the SSTCP protocol.The SSTCP protocol permits to establish a simple TCP/IP connexion across multiple AES secured channel. Simple but (/so?) secured and strong cryptographic methods are used. OpenSSTCP is the LGPL implementation of the SSTCP protocol.,"Categories
+Communications, Cryptography, Software Development, Networking, Internet"
+"With Tiger Envelopes you can stop snoops from reading your email. Same email client. No extra steps. One click to install on Windows and Linux. Configures Outlook, Thunderbird, and KMail. Supports GPG, PGP, Bouncy Castle encryption.With Tiger Envelopes you can stop snoops from reading your email. Same email client. No extra steps. One click to install on Windows and Linux. Configures Outlook, Thunderbird, and KMail. Supports GPG, PGP, Bouncy Castle encryption.","Categories
+Email Spam Filter, Email Clients, Cryptography"
+"Perl script (with GUI) for email sevices testing (XSS, CDDAF vulnerabilities)Perl script (with GUI) for email sevices testing (XSS, CDDAF vulnerabilities)","Categories
+Security"
+The main purpose of this project is to develop a Graphic policy definition editor implemented in Java language and based on the XACML standard which manages access control policiesThe main purpose of this project is to develop a Graphic policy definition editor implemented in Java language and based on the XACML standard which manages access control policies,"Categories
+XML, Security, Systems Administration, Networking"
+"PHP Screw is a PHP script encryption tool. When you are developing a commercial package using PHP, the script can be distributed as encrypted up until just before execution, preserving your intellectual property.PHP Screw is a PHP script encryption tool. When you are developing a commercial package using PHP, the script can be distributed as encrypted up until just before execution, preserving your intellectual property.","Categories
+WWW/HTTP, Software Development, Encryption"
+"This is rarbrute, a shell script to brute force encrypted rar files under unix and linux. A long wordlist and a paper about security in internet cafes is included.This is rarbrute, a shell script to brute force encrypted rar files under unix and linux. A long wordlist and a paper about security in internet cafes is included.","Categories
+Cryptography"
+"NOTE: dkim-milter has been replaced by OpenDKIM, available at http://opendkim.org/
+
+dkim-milter consists of two parts: A milter-based application (dkim-filter) which plugs in to Sendmail to provide DomainKeys Identified Mail service, and a library (libdkim) which can be used to build DKIM-compliant applications or MTAs.NOTE: dkim-milter has been replaced by OpenDKIM, available at http://opendkim.org/
+
+dkim-milter consists of two parts: A milter-based application (dkim-filter) which plugs in to Sendmail to provide DomainKeys Identified Mail service, and a library (libdkim) which can be used to build DKIM-compliant applications or MTAs.","Categories
+Email Spam Filter, Cryptography"
+Hippikon is a powerful authorization API that was developed for enterprise software applications and is now provided free under the GNU LGPL. Hippikon may be integrated in any java application or framework to provide complex security models with ease.Hippikon is a powerful authorization API that was developed for enterprise software applications and is now provided free under the GNU LGPL. Hippikon may be integrated in any java application or framework to provide complex security models with ease.,"Categories
+Security, Frameworks"
+"qingy is a replacement of getty. Written in C, it uses DirectFB to provide a fast, nice GUI without the overhead of the X Window System. It allows the user to log in and start the session of his choice (text console, gnome, kde, wmaker, ...).qingy is a replacement of getty. Written in C, it uses DirectFB to provide a fast, nice GUI without the overhead of the X Window System. It allows the user to log in and start the session of his choice (text console, gnome, kde, wmaker, ...).","Categories
+Security, Systems Administration, Init"
+"This is a free PHP login script that allows users to log in and sign up for pages on your website. You can have unlimited members, page, groups and permission masks. The administration panel and group panel use AJAX for fast functionality.This is a free PHP login script that allows users to log in and sign up for pages on your website. You can have unlimited members, page, groups and permission masks. The administration panel and group panel use AJAX for fast functionality.","Categories
+Security, Dynamic Content, Site Management"
+Estonian national ID Card management GUI tool.Estonian national ID Card management GUI tool.,"Categories
+Other/Nonlisted Topic, Cryptography"
+"The purpose of this project is to demonstrate Information Card interoperability on heterogeneous platforms written using Java language to support Apache Tomcat, JBoss & SUN Application Server platforms running on Linux.The purpose of this project is to demonstrate Information Card interoperability on heterogeneous platforms written using Java language to support Apache Tomcat, JBoss & SUN Application Server platforms running on Linux.","Categories
+Security, Frameworks, Authentication/Directory"
+VoIP Hopper is a security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.VoIP Hopper is a security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.,"Categories
+Security"
+"OceanStore is an architecture for a global-scale file system which uses erasure coding, cryptography, and Byzantine agreement to provide available, highly durable storage in a peer-to-peer environment.OceanStore is an architecture for a global-scale file system which uses erasure coding, cryptography, and Byzantine agreement to provide available, highly durable storage in a peer-to-peer environment.","Categories
+Cryptography, Archiving, Networking, Distributed Computing, File Systems"
+"Open Legacy Storage Document: Generic Document Archiving on Disk and Network(using MINA) Framework in Java for huge number of docs(up to 2^192 documents), efficient(Java NIO), crypto, net transfert, web retrieve, J2EE and eMail archiving compatible.Open Legacy Storage Document: Generic Document Archiving on Disk and Network(using MINA) Framework in Java for huge number of docs(up to 2^192 documents), efficient(Java NIO), crypto, net transfert, web retrieve, J2EE and eMail archiving compatible.","Categories
+File Sharing, Enterprise, CRM, Cryptography, Frameworks, Archiving"
+"SIPES (Security Incident Pollicy Enforcement System) aims to provide an automated e-mail,XML and PKI based system for automated security policy enforcement based on statefull risk assesment and open exchange formats.SIPES (Security Incident Pollicy Enforcement System) aims to provide an automated e-mail,XML and PKI based system for automated security policy enforcement based on statefull risk assesment and open exchange formats.","Categories
+Office/Business, Security, Systems Administration, Monitoring"
+A php script to generate iptables firewall script. A interface used to keep track of ip address which you choose to block.A php script to generate iptables firewall script. A interface used to keep track of ip address which you choose to block.,"Categories
+Security"
+Dranzer: ActiveX vulnerability discovery tool. CERT developed this open source tool so that software developers can test ActiveX controls for vulnerabilities before the software is released to the public.Dranzer: ActiveX vulnerability discovery tool. CERT developed this open source tool so that software developers can test ActiveX controls for vulnerabilities before the software is released to the public.,"Categories
+Security, Software Testing, Debuggers, QA Automation"
+"md5crkPHPGUI is a PHP based graphical interface for md5crk clients (http://sourceforge.net/projects/md5crk/). It features live status updates, hardware info and user stats info.md5crkPHPGUI is a PHP based graphical interface for md5crk clients (http://sourceforge.net/projects/md5crk/). It features live status updates, hardware info and user stats info.","Categories
+Cryptography, Dynamic Content"
+"The OWASP JBroFuzz Project is a web application fuzzer for requests being made over HTTP and/or HTTPS. Its purpose is to provide a single, portable application that offers stable web protocol fuzzing capabilities.The OWASP JBroFuzz Project is a web application fuzzer for requests being made over HTTP and/or HTTPS. Its purpose is to provide a single, portable application that offers stable web protocol fuzzing capabilities.","Categories
+Security"
+A pre configured virtual machine for automatically running DBAN with PXE.A pre configured virtual machine for automatically running DBAN with PXE.,"Categories
+Security, Installation/Setup"

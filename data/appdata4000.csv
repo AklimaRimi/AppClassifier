@@ -1,0 +1,554 @@
+Description,Category
+"This system provides printed and cursive handwriting recognition service as a shared library on GNU/Linux/Unix systems.
+Until someone writes another client, try the S/HIP:
+https://sourceforge.net/projects/ship-project/This system provides printed and cursive handwriting recognition service as a shared library on GNU/Linux/Unix systems.
+Until someone writes another client, try the S/HIP:
+https://sourceforge.net/projects/ship-project/","Categories
+Desktop Environment, User Interface (UI), Handwriting Recognition"
+UniChars is a Windows Keyboard Extender written with AutoHotkey on the model of AllChars. Enter hundreds of characters not present on your keyboard with a simple short code that you can freely configure. Full Unicode support. All languages possible.UniChars is a Windows Keyboard Extender written with AutoHotkey on the model of AllChars. Enter hundreds of characters not present on your keyboard with a simple short code that you can freely configure. Full Unicode support. All languages possible.,"Categories
+Desktop Environment"
+Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.,"Categories
+Desktop Environment, Command Line Tools, Clipboard Managers"
+WinRun4J is a Windows native launcher for your Java application. The goal is to provide a more professional deployment mechanism for Java apps on Windows.WinRun4J is a Windows native launcher for your Java application. The goal is to provide a more professional deployment mechanism for Java apps on Windows.,"Categories
+Desktop Environment, Installation/Setup"
+"This project is an attempt to provide the same functionality of Stickies,program on a Macintosh on a Windows P.C. Features:email, clock, alarm, customise style, plus heaps more. Keyword: post-it, postit, note, notes, reminderThis project is an attempt to provide the same functionality of Stickies,program on a Macintosh on a Windows P.C. Features:email, clock, alarm, customise style, plus heaps more. Keyword: post-it, postit, note, notes, reminder","Categories
+Desktop Environment"
+"wxMathPlot is an add-on library for wxWidgets which provides a framework for easy plotting of mathematical functions, sampled data and generic 2D plots.wxMathPlot is an add-on library for wxWidgets which provides a framework for easy plotting of mathematical functions, sampled data and generic 2D plots.","Categories
+Window Managers, Mathematics"
+"This is an open-source project for ASUS Eee PC series. It provides a center for the community of Eee PC users and developers, including source code, documentation and experience sharing. The project is officially supported by ASUS.This is an open-source project for ASUS Eee PC series. It provides a center for the community of Eee PC users and developers, including source code, documentation and experience sharing. The project is officially supported by ASUS.","Categories
+Desktop Environment"
+"The environment modules package provides for an easy dynamic modification of a user's environment via modulefiles. which typically instruct the module command to alter or set shell environment variables such as PATH, MANPATH, etc. as well as define aliases over a variety of shells.The environment modules package provides for an easy dynamic modification of a user's environment via modulefiles. which typically instruct the module command to alter or set shell environment variables such as PATH, MANPATH, etc. as well as define aliases over a variety of shells.","Categories
+Other/Nonlisted Topic, Desktop Environment, System"
+"TTCalc is an open source bignum mathematical calculator. It features arithmetical functions, trigonometric functions, inverse trigonometric functions, hyperbolic functions, inverse hyperbolic functions, logical operators, logarithms and so on.TTCalc is an open source bignum mathematical calculator. It features arithmetical functions, trigonometric functions, inverse trigonometric functions, hyperbolic functions, inverse hyperbolic functions, logical operators, logarithms and so on.","Categories
+Office/Business, Desktop Environment, Scientific/Engineering, Education, Calculators"
+JWM (Joe's Window Manager) is a Window Manager for X11 using at minimum Xlib.JWM (Joe's Window Manager) is a Window Manager for X11 using at minimum Xlib.,"Categories
+Window Managers"
+"Screen Ruler is a lightweight and configurable ruler tool for Windows Desktop.
+It allows you to measure the size of elements on the screen in different units, including pixels, centimeters and inches.
+Measuring is possible either using a two-dimensional, rectangular ruler scale or a one-dimensional, horizontal or vertical scale.
+The ruler can be moved and resized precisely using either the mouse or the keyboard and custom marking lines can be added.
+Besides coming with a light and a dark theme, Screen Ruler also allows you to fully customize its appearance by changing all color settings.
+
+Get support:
+https://sourceforge.net/p/screenruler/discussion/
+https://github.com/bluegrams/ScreenRuler/issues
+
+Support the development:
+https://ko-fi.com/alxnullScreen Ruler is a lightweight and configurable ruler tool for Windows Desktop.
+It allows you to measure the size of elements on the screen in different units, including pixels, centimeters and inches.
+Measuring is possible either using a two-dimensional, rectangular ruler scale or a one-dimensional, horizontal or vertical scale.
+The ruler can be moved and resized precisely using either the mouse or the keyboard and custom marking lines can be added.
+Besides coming with a light and a dark theme, Screen Ruler also allows you to fully customize its appearance by changing all color settings.
+
+Get support:
+https://sourceforge.net/p/screenruler/discussion/
+https://github.com/bluegrams/ScreenRuler/issues
+
+Support the development:
+https://ko-fi.com/alxnull","Categories
+Desktop Environment"
+"Snarl displays short bursts of information on screen in the form of small, beautiful, pop-ups that fade in and out.
+
+However, it's much more than just that: connect applications and external sources into Snarl to provide a rich array of notifications in a single place, then create rules to forward these notifications to your mobile devices, email inbox - or even friends, family, or a workforce.Snarl displays short bursts of information on screen in the form of small, beautiful, pop-ups that fade in and out.
+
+However, it's much more than just that: connect applications and external sources into Snarl to provide a rich array of notifications in a single place, then create rules to forward these notifications to your mobile devices, email inbox - or even friends, family, or a workforce.","Categories
+Desktop Environment"
+Computer Modern Unicode fonts were converted from metafont sources using mftrace with autotrace backend and fontforge. Their main purpose is to create free good quality fonts for use in X applications supporting many languages.Computer Modern Unicode fonts were converted from metafont sources using mftrace with autotrace backend and fontforge. Their main purpose is to create free good quality fonts for use in X applications supporting many languages.,"Categories
+Fonts"
+"The project tries to create a free, fast and feature-full virtual desktop manager for Microsoft Windows.
+
+This application enhances the Microsoft ""Window Manager"" up to the level of usual Unix Window Manager, by providing virtual desktops, as well as some additional features, like always on top, window shading...The project tries to create a free, fast and feature-full virtual desktop manager for Microsoft Windows.
+
+This application enhances the Microsoft ""Window Manager"" up to the level of usual Unix Window Manager, by providing virtual desktops, as well as some additional features, like always on top, window shading...","Categories
+Window Managers"
+K3b is a highly usable and very userfriendly cd writing program.K3b is a highly usable and very userfriendly cd writing program.,"Categories
+KDE, Archiving, CD Ripping"
+"This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.","Categories
+Terminals, Desktop Environment, System"
+"Plugin for Launchy, meant as replacement for apparently dead plugin mathy. MathyResurrected will try to replicate Mathy functionality.Plugin for Launchy, meant as replacement for apparently dead plugin mathy. MathyResurrected will try to replicate Mathy functionality.","Categories
+Desktop Environment"
+Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.,"Categories
+Desktop Environment, Search, HMI"
+"Xfce Evolution is a linux/freebsd theme focused on providing a consistent look on the Xfce desktop for all standard GUI toolkits.
+
+Based on Ambiance:gtk2, Adwaita:gtk3, and Greybird:xfwm4
+Development and testing on Xubuntu 18.04 LTS
+
+LAST CHANGES
+=============
+Xfce Evolution development has been discontinued, the followup theme is 'Xfce ClassicLooks' maintained at http://classiclooks.sourceforge.netXfce Evolution is a linux/freebsd theme focused on providing a consistent look on the Xfce desktop for all standard GUI toolkits.
+
+Based on Ambiance:gtk2, Adwaita:gtk3, and Greybird:xfwm4
+Development and testing on Xubuntu 18.04 LTS
+
+LAST CHANGES
+=============
+Xfce Evolution development has been discontinued, the followup theme is 'Xfce ClassicLooks' maintained at http://classiclooks.sourceforge.net","Categories
+Desktop Environment, System Shells"
+"AcademiX GNU/Linux is a Debian-based Linux distribution developed specifically for education. The distribution was built on the Debian Linux (Stretch / Buster) distribution and contains free software for education. The programs included in the distribution are for all levels of education – from primary to upper and / or university levels.
+The AcademiX Linux distribution includes an installation utility that can be used to install a variety of applications in mathematics, physics, chemistry, geography, biology, statistics, electronics, amateur radio, graphics, office, programming – which are accompanied by virtual interactive labs, and a virtual microscope developed in collaboration with NASA. Robotics Laboratories successfully complete the list of educational programs provided by the distribution.
+
+Vote: https://distrowatch.com/table.php?distribution=academixAcademiX GNU/Linux is a Debian-based Linux distribution developed specifically for education. The distribution was built on the Debian Linux (Stretch / Buster) distribution and contains free software for education. The programs included in the distribution are for all levels of education – from primary to upper and / or university levels.
+The AcademiX Linux distribution includes an installation utility that can be used to install a variety of applications in mathematics, physics, chemistry, geography, biology, statistics, electronics, amateur radio, graphics, office, programming – which are accompanied by virtual interactive labs, and a virtual microscope developed in collaboration with NASA. Robotics Laboratories successfully complete the list of educational programs provided by the distribution.
+
+Vote: https://distrowatch.com/table.php?distribution=academix","Categories
+Desktop Environment, Education, Multimedia"
+"Sardi is a complete restyling and optimisation of svg code. 6 choices for your applications and 10 kind of folders to use in your file manager. The sardi icons are meant to be changed by the user. Scripts make it easy for you. Tutorials have been created. Desktop theming articles have been written. Change the sardi icons and surprise me.
+
+Download the zip file. Extract it and copy/paste it your hidden folder ~/.icons in your home folder. Make one if you do not have one yet.
+
+
+A LOT MORE PICTURES AND INFORMATION ON
+http://erikdubois.online
+https://github.com/erikdubois/SardiSardi is a complete restyling and optimisation of svg code. 6 choices for your applications and 10 kind of folders to use in your file manager. The sardi icons are meant to be changed by the user. Scripts make it easy for you. Tutorials have been created. Desktop theming articles have been written. Change the sardi icons and surprise me.
+
+Download the zip file. Extract it and copy/paste it your hidden folder ~/.icons in your home folder. Make one if you do not have one yet.
+
+
+A LOT MORE PICTURES AND INFORMATION ON
+http://erikdubois.online
+https://github.com/erikdubois/Sardi","Categories
+Desktop Environment"
+"The purpose of Antergos is to provide a modern, elegant and powerful operating system based on one of the best Linux distributions out there, Arch Linux.
+
+Antergos is easy to use and very customizable
+It is open source, free and based on the fast and lightweight Arch Linux. Antergos uses the official Arch Linux package repositories and the AUR (user-submitted packages) along with its own software repositories. As with other GNU/Linux systems, Antergos is virtually free of viruses and spywareThe purpose of Antergos is to provide a modern, elegant and powerful operating system based on one of the best Linux distributions out there, Arch Linux.
+
+Antergos is easy to use and very customizable
+It is open source, free and based on the fast and lightweight Arch Linux. Antergos uses the official Arch Linux package repositories and the AUR (user-submitted packages) along with its own software repositories. As with other GNU/Linux systems, Antergos is virtually free of viruses and spyware","Categories
+Desktop Environment, OS distribution, Live CD"
+"dwm window manager from suckless for speed and efficiency.
+dwmX runs on a default Debian 10 Buster base.
+I hope you enjoy your dwmX experience.
+All feedback is most welcome.
+TEST folder for PRE releases.
+
+
+mrneilypops (at) gmail (dot) comdwm window manager from suckless for speed and efficiency.
+dwmX runs on a default Debian 10 Buster base.
+I hope you enjoy your dwmX experience.
+All feedback is most welcome.
+TEST folder for PRE releases.
+
+
+mrneilypops (at) gmail (dot) com","Categories
+Window Managers, Operating System Kernels, Live CD"
+"MATE Desktop Environment, a non-intuitive and unattractive desktop for users, using traditional computing desktop metaphor. Also known as the GNOME2 fork.MATE Desktop Environment, a non-intuitive and unattractive desktop for users, using traditional computing desktop metaphor. Also known as the GNOME2 fork.","Categories
+GNOME"
+"Symbiose, a free and flexible webos.Symbiose, a free and flexible webos.","Categories
+Office/Business, Desktop Environment, WWW/HTTP"
+"This utility is used to turn off monitor for PC, notebook, or netbook which is have monitor. Just run the program, then your monitor will be turned off. Actually this program used for notebook or netbook which is used for conserve the battery.This utility is used to turn off monitor for PC, notebook, or netbook which is have monitor. Just run the program, then your monitor will be turned off. Actually this program used for notebook or netbook which is used for conserve the battery.","Categories
+Desktop Environment"
+"Fork of Element OS, Webb HTPC's goal is to create an end to end solution for home theater pc needs. It is based off of mint and tailored for reading from a TV with a 1080P resolution. Newest version is a complete rewrite based on linux mint 14. Download from torrent above with you favorite bittorrent client.Fork of Element OS, Webb HTPC's goal is to create an end to end solution for home theater pc needs. It is based off of mint and tailored for reading from a TV with a 1080P resolution. Newest version is a complete rewrite based on linux mint 14. Download from torrent above with you favorite bittorrent client.","Categories
+Desktop Environment"
+"A simple application launcher. Group applications, folders, scripts, etc. Supports drag and drop. No need to remember all those hot keys; just activate and press one number key to select a tab(group) and another key(letter/symbol) to launch.
+
+*** CHECK OUT THE NEWER PROJECT MaxLauncher at http://maxlauncher.sourceforge.net/ ***A simple application launcher. Group applications, folders, scripts, etc. Supports drag and drop. No need to remember all those hot keys; just activate and press one number key to select a tab(group) and another key(letter/symbol) to launch.
+
+*** CHECK OUT THE NEWER PROJECT MaxLauncher at http://maxlauncher.sourceforge.net/ ***","Categories
+Desktop Environment, File Managers"
+"The OpenCD project offers a selection of high quality OSS for Windows users in Persian. OpenCD provides a free alternative to costly software, with equal or often better quality equivalents to proprietary one, and to educate users of Linux as an OS.The OpenCD project offers a selection of high quality OSS for Windows users in Persian. OpenCD provides a free alternative to costly software, with equal or often better quality equivalents to proprietary one, and to educate users of Linux as an OS.","Categories
+Email, Education, Fonts"
+"This will allow 2 mouses to be active on one computer. This will be useful for dual display or spanning monitors. 2 people can use one computer at the same time.
+surf the net x 2.
+Mustafa Sa from Syria has been added to this project as developer. Initial concept my me !This will allow 2 mouses to be active on one computer. This will be useful for dual display or spanning monitors. 2 people can use one computer at the same time.
+surf the net x 2.
+Mustafa Sa from Syria has been added to this project as developer. Initial concept my me !","Categories
+Enlightenment Themes"
+"A system tray widget which shows the current date/time in multiple time zones. It also allows the user to display ""what time is it in XXX if it's this time in YYY"". Available for any Java 6 (or better) platform.A system tray widget which shows the current date/time in multiple time zones. It also allows the user to display ""what time is it in XXX if it's this time in YYY"". Available for any Java 6 (or better) platform.","Categories
+Desktop Environment"
+"This project has been moved to Github, Look there insteadThis project has been moved to Github, Look there instead","Categories
+GNOME, Graphics, Mathematics"
+"Karsten SlideShow is a playlist-based slide show program for picture and movie files on Windows. It offers flexible, item-related control over the presentation sequence, and runs shows in a window, the screen saver, or the desktop wallpaper.Karsten SlideShow is a playlist-based slide show program for picture and movie files on Windows. It offers flexible, item-related control over the presentation sequence, and runs shows in a window, the screen saver, or the desktop wallpaper.","Categories
+Screen Savers, Presentation, Image Viewers, Media Players"
+"GnoTime (formerly GTT, the Gnome Time Tracker) is a desktop utility for tracking the amount of time spent on projects, keeping a to-do list, maintaining a diary, and generating reports and invoices based on that time.GnoTime (formerly GTT, the Gnome Time Tracker) is a desktop utility for tracking the amount of time spent on projects, keeping a to-do list, maintaining a diary, and generating reports and invoices based on that time.","Categories
+Financial, Scheduling, GNOME"
+"This program will let you use two screens on two different computers as if they were connected to the same computer. It even works between different operating systems.
+
+If you have two or more computers on your desk and you are tired of having severalThis program will let you use two screens on two different computers as if they were connected to the same computer. It even works between different operating systems.
+
+If you have two or more computers on your desk and you are tired of having several","Categories
+Window Managers, Networking"
+"Anjuta DevStudio is a versatile Integrated Development Environment (IDE) for software development on GNU/Linux. It features many advanced facilities such as project management, application wizards, interactive debugger, source browsing etc.Anjuta DevStudio is a versatile Integrated Development Environment (IDE) for software development on GNU/Linux. It features many advanced facilities such as project management, application wizards, interactive debugger, source browsing etc.","Categories
+GNOME, Software Development"
+"Multi Zone Clock is a simple and highly configurable multi time zone clock and calendar plus highly configurable advance alarm clock. This Program creates any number of clocks with deferent time zones and many more . Give it a try and enjoy :P
+
+Update : Donations link does not work it seems, if any one like to donate or have technical issues please feel free to connect me on weerakoon123@gmail.comMulti Zone Clock is a simple and highly configurable multi time zone clock and calendar plus highly configurable advance alarm clock. This Program creates any number of clocks with deferent time zones and many more . Give it a try and enjoy :P
+
+Update : Donations link does not work it seems, if any one like to donate or have technical issues please feel free to connect me on weerakoon123@gmail.com","Categories
+Time Tracking, Desktop Environment"
+"Automate almost anything by sending keystrokes & mouse clicks (macros). Create hotkeys for keyboard, mouse, joystick, & handheld remote controls. Define abbreviations that expand as you type them (AutoText). Create graphical user interfaces & menu bars.Automate almost anything by sending keystrokes & mouse clicks (macros). Create hotkeys for keyboard, mouse, joystick, & handheld remote controls. Define abbreviations that expand as you type them (AutoText). Create graphical user interfaces & menu bars.","Categories
+Office/Business, Desktop Environment, Software Testing, Interpreters, User Interface (UI), Systems Administration"
+"Parcellite is a lightweight GTK+ clipboard manager. This is a stripped down, basic-features-only clipboard manager with a small memory footprint for those who like simplicity.Parcellite is a lightweight GTK+ clipboard manager. This is a stripped down, basic-features-only clipboard manager with a small memory footprint for those who like simplicity.","Categories
+Other/Nonlisted Topic, Desktop Environment, Clipboard Managers"
+"Menu Maker is 100% Python heuristics-driven menu generator for a number of X Window Managers and desktop environments. It features large knowledge base of known programs, powerful and flexible search algorithms, persistence of menus across several WMsMenu Maker is 100% Python heuristics-driven menu generator for a number of X Window Managers and desktop environments. It features large knowledge base of known programs, powerful and flexible search algorithms, persistence of menus across several WMs","Categories
+Window Managers, Installation/Setup"
+"Meld is a gnome2 diff and merge tool with pluggable support for version control systems such as cvs, subversion, bzr, darcs, mercurial, monotone, tla.Meld is a gnome2 diff and merge tool with pluggable support for version control systems such as cvs, subversion, bzr, darcs, mercurial, monotone, tla.","Categories
+GNOME, Version Control"
+"Clipman is an extension of the standard clipboard shipped with Windows. You can store all the items copied in a list, send them back at the clipboard or forward to the plugins. If you want, you can also edit the images in the list.Clipman is an extension of the standard clipboard shipped with Windows. You can store all the items copied in a list, send them back at the clipboard or forward to the plugins. If you want, you can also edit the images in the list.","Categories
+Desktop Environment, Clipboard Managers"
+"The Virtual Tab Window Manager. vtwm is a descendant of the reference X11 window manager, twm, enhanced to provide virtual desktops plus many other features, whilst remaining small and efficient.The Virtual Tab Window Manager. vtwm is a descendant of the reference X11 window manager, twm, enhanced to provide virtual desktops plus many other features, whilst remaining small and efficient.","Categories
+Window Managers"
+"OpenMandriva Lx is a unique and independent distribution
+and direct descendant of Mandriva Linux.
+
+It comes from a 100% community-driven association that believes in the values of free software & collaboration and whose founding values are development, equality, co-operation, openness, freedom, group achievement, independence, and solidarity.
+
+Source code:
+Software:
+https://github.com/OpenMandrivaSoftware
+Packages:
+https://github.com/OpenMandrivaAssociation
+
+Build system:
+https://abf.openmandriva.org/
+
+Contact:
+* Chat - https://wiki.openmandriva.org/en/team/chat
+* Forum - https://forum.openmandriva.org
+
+Issue tracking and feature requests:
+* Issue Tracking - https://github.com/OpenMandrivaAssociation/distribution/issues
+
+Donate - https://liberapay.com/OpenMandrivaOpenMandriva Lx is a unique and independent distribution
+and direct descendant of Mandriva Linux.
+
+It comes from a 100% community-driven association that believes in the values of free software & collaboration and whose founding values are development, equality, co-operation, openness, freedom, group achievement, independence, and solidarity.
+
+Source code:
+Software:
+https://github.com/OpenMandrivaSoftware
+Packages:
+https://github.com/OpenMandrivaAssociation
+
+Build system:
+https://abf.openmandriva.org/
+
+Contact:
+* Chat - https://wiki.openmandriva.org/en/team/chat
+* Forum - https://forum.openmandriva.org
+
+Issue tracking and feature requests:
+* Issue Tracking - https://github.com/OpenMandrivaAssociation/distribution/issues
+
+Donate - https://liberapay.com/OpenMandriva","Categories
+KDE, Operating System Kernels, Live CD"
+"Easily manage disks, partitions and file systems on your KDE Desktop: Create, resize, move, copy, back up, restore or delete partitions.Easily manage disks, partitions and file systems on your KDE Desktop: Create, resize, move, copy, back up, restore or delete partitions.","Categories
+KDE, File Systems"
+"Googsystray is a system tray app for Google Voice, GMail, Google Calendar, Google Reader, and Google Docs. It notifies on new messages, alerts, etc., and provides basic services quickly.Googsystray is a system tray app for Google Voice, GMail, Google Calendar, Google Reader, and Google Docs. It notifies on new messages, alerts, etc., and provides basic services quickly.","Categories
+Telephony, Email, Desktop Environment"
+"The Window Maker Live CD is an installable Linux live CD/ISO, and is based mostly on the recently released “Jessie” branch of Debian. While its main purpose is to provide a show case for the Window Maker window manager, which serves as its default graphical user interface and therefore has received special preconfiguration care, it can also be considered as an alternative installation CD for Debian/Jessie. As such, wmlive is fully compatible with and relies on the official Debian/Jessie repositories for security updates and bug fixes. Refer to http://wmlive.rumbero.org for more detailed information and even more screenshots.The Window Maker Live CD is an installable Linux live CD/ISO, and is based mostly on the recently released “Jessie” branch of Debian. While its main purpose is to provide a show case for the Window Maker window manager, which serves as its default graphical user interface and therefore has received special preconfiguration care, it can also be considered as an alternative installation CD for Debian/Jessie. As such, wmlive is fully compatible with and relies on the official Debian/Jessie repositories for security updates and bug fixes. Refer to http://wmlive.rumbero.org for more detailed information and even more screenshots.","Categories
+Window Managers, User Interface (UI), Live CD"
+"CamDesk is a free, open source, desktop webcam widget, that was created as home surveillance application. Although others have used it for demonstrations even with CamStudio, and QuickTime Player for screen casting.CamDesk is a free, open source, desktop webcam widget, that was created as home surveillance application. Although others have used it for demonstrations even with CamStudio, and QuickTime Player for screen casting.","Categories
+Security, Desktop Environment, Still Capture"
+"SCREEM is a GNOME website / tag based html editor (ie not WYSIWYG) which aims not only to aid in creating web pages, but also to provide useful site maintainance facilities as well, including automatic link updating, and site upload facilities.SCREEM is a GNOME website / tag based html editor (ie not WYSIWYG) which aims not only to aid in creating web pages, but also to provide useful site maintainance facilities as well, including automatic link updating, and site upload facilities.","Categories
+Integrated Development Environments (IDE), GNOME, Site Management"
+"Flash Linux is a compact distribution designed exclusively to run off 256Mb USB keys or other bootable Flash based media. It includes hardware detection [including LAN and Modem], auto configuration, a Gnome desktop, and associated office tools.Flash Linux is a compact distribution designed exclusively to run off 256Mb USB keys or other bootable Flash based media. It includes hardware detection [including LAN and Modem], auto configuration, a Gnome desktop, and associated office tools.","Categories
+Office/Business, GNOME, Operating System Kernels"
+MultiGet is a http/ftp downloader with a nice GUI for linux/windows/unix desktop users. It can run on almost all desktops without any configuration. It has many powerful functions comparing to others.MultiGet is a http/ftp downloader with a nice GUI for linux/windows/unix desktop users. It can run on almost all desktops without any configuration. It has many powerful functions comparing to others.,"Categories
+Desktop Environment, File Transfer Protocol (FTP), WWW/HTTP"
+"A cross-platform Bible application for the Linux & Windows communities.
+
+Xiphos is no longer developed at SF; the SVN tree has been locked, the mailing lists are disabled, and we have moved to GitHub. Please see https://github.com/crosswire/xiphos.
+
+Releases up to 4.0.4 are present here. From 4.0.5 onward, see GitHub.A cross-platform Bible application for the Linux & Windows communities.
+
+Xiphos is no longer developed at SF; the SVN tree has been locked, the mailing lists are disabled, and we have moved to GitHub. Please see https://github.com/crosswire/xiphos.
+
+Releases up to 4.0.4 are present here. From 4.0.5 onward, see GitHub.","Categories
+GNOME, Religion and Philosophy, Computer Aided Instruction (CAI)"
+"Lobo is an extensible all-Java web browser and RIA platform. It supports HTML 4, Javascript (AJAX) and CSS 2 plus direct JavaFX and Java (Swing/AWT) rendering. Cobra is the web browser's renderer API; also a Javascript-aware HTML parser.Lobo is an extensible all-Java web browser and RIA platform. It supports HTML 4, Javascript (AJAX) and CSS 2 plus direct JavaFX and Java (Swing/AWT) rendering. Cobra is the web browser's renderer API; also a Javascript-aware HTML parser.","Categories
+Desktop Environment, Software Development, Internet"
+TrueType fonts editor. Allows for editing vector-based glyphsTrueType fonts editor. Allows for editing vector-based glyphs,"Categories
+Desktop Environment, Vector Graphics"
+"ClamTk is a graphical interface for Clam Antivirus. It is designed to be an easy-to-use, lightweight, on-demand desktop virus scanner for Linux.ClamTk is a graphical interface for Clam Antivirus. It is designed to be an easy-to-use, lightweight, on-demand desktop virus scanner for Linux.","Categories
+Desktop Environment, Antivirus, Anti-Malware"
+"The Gedit ""builder"" plugin is a plugin for the Gnome Text Editor that allows you to compile source code and then click on the compiler output errors to go to those errors in the source code.The Gedit ""builder"" plugin is a plugin for the Gnome Text Editor that allows you to compile source code and then click on the compiler output errors to go to those errors in the source code.","Categories
+Text Editors, GNOME, Build Tools"
+A cool-looking mouse menu that opens upon a global hot-key. Allows sub-menus which will be displayed in an adjacent partly circle. RadiS is easy to configure and comfortable to use.A cool-looking mouse menu that opens upon a global hot-key. Allows sub-menus which will be displayed in an adjacent partly circle. RadiS is easy to configure and comfortable to use.,"Categories
+Desktop Environment"
+This is a QuickLook plugin for MacOS-X 10.5/10.6 that allows QuickLook preview of Animated GIFs. The current GIF support in the Finder doesn't show animations. This plugin extends the Finder to allow QuickLook to display the GIF in its animated form.This is a QuickLook plugin for MacOS-X 10.5/10.6 that allows QuickLook preview of Animated GIFs. The current GIF support in the Finder doesn't show animations. This plugin extends the Finder to allow QuickLook to display the GIF in its animated form.,"Categories
+Desktop Environment"
+"SLiM (Simple Login Manager) is a graphical login manager for X11. It aims to be simple, fast and independent from the various desktop environments. SLiM was originally based on latest stable release of Login.app by Per Lidén.
+The SLiM project used to be hosted on Berlios.de with a mirror on SourceForge. Then the code got moved to Github. Then all the maintainers lost interest and it died. Nine years later, I'm still using it as I find it the most easily configurable, most lightweight option for the small Linux systems I build. But with upstream being dead and Gentoo needing 13 patch files to make it work, there was a risk it would vanish from the repository. So I forked it, applied all the patches, plus some of my own, and started my own spin-off here.SLiM (Simple Login Manager) is a graphical login manager for X11. It aims to be simple, fast and independent from the various desktop environments. SLiM was originally based on latest stable release of Login.app by Per Lidén.
+The SLiM project used to be hosted on Berlios.de with a mirror on SourceForge. Then the code got moved to Github. Then all the maintainers lost interest and it died. Nine years later, I'm still using it as I find it the most easily configurable, most lightweight option for the small Linux systems I build. But with upstream being dead and Gentoo needing 13 patch files to make it work, there was a risk it would vanish from the repository. So I forked it, applied all the patches, plus some of my own, and started my own spin-off here.","Categories
+Desktop Environment"
+"STL is an easy to use and light OCR translator tool that can be use to translate your screen. Made with python by utilizing Tesseract and opencv-python.
+
+For full view of the project you can check the Github repository:
+https://github.com/Dadangdut33/Screen-Translate
+
+REQUIREMENTS
+- Tesseract : https://github.com/UB-Mannheim/tesseract/wiki.
+Needed for the ocr. Install it with all the language pack.
+- Libretranslate (Optional for offline translation support)
+- Internet connection for translation if not using libretranslate
+
+# Tutorial on How To Setup
+https://github.com/Dadangdut33/Screen-Translate#installation-and-setupSTL is an easy to use and light OCR translator tool that can be use to translate your screen. Made with python by utilizing Tesseract and opencv-python.
+
+For full view of the project you can check the Github repository:
+https://github.com/Dadangdut33/Screen-Translate
+
+REQUIREMENTS
+- Tesseract : https://github.com/UB-Mannheim/tesseract/wiki.
+Needed for the ocr. Install it with all the language pack.
+- Libretranslate (Optional for offline translation support)
+- Internet connection for translation if not using libretranslate
+
+# Tutorial on How To Setup
+https://github.com/Dadangdut33/Screen-Translate#installation-and-setup","Categories
+Desktop Environment, OCR"
+"Archcraft is an arch-based rolling-release distribution aimed at users who cares more about minimalism and aesthetics of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 500Mb of memory. There's no desktop environment in (main) Archcraft, just two highly configured window managers - Openbox and Bspwm.
+
+The default username & password is 'liveuser' for live ISO.
+
+The installer can be found in the app launcher and in openbox menu under the Application > System category, namely 'Install Archcraft'. Archcraft uses two Installers, Calamares and ABIFArchcraft is an arch-based rolling-release distribution aimed at users who cares more about minimalism and aesthetics of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 500Mb of memory. There's no desktop environment in (main) Archcraft, just two highly configured window managers - Openbox and Bspwm.
+
+The default username & password is 'liveuser' for live ISO.
+
+The installer can be found in the app launcher and in openbox menu under the Application > System category, namely 'Install Archcraft'. Archcraft uses two Installers, Calamares and ABIF","Categories
+Window Managers, Operating System Kernels, Live CD"
+"PinWin is a minimal Windows system tray application that allows you to pin any windows to the top of the screen with one click.
+
+Support the development:
+https://ko-fi.com/alxnullPinWin is a minimal Windows system tray application that allows you to pin any windows to the top of the screen with one click.
+
+Support the development:
+https://ko-fi.com/alxnull","Categories
+Desktop Environment"
+"Colora is a useful small color converter and screen color picker tool for Windows. Colora makes it easy to pick colors from screen and save them.
+The color picker is tested to work with Windows 10 and DPI scaling. Picked colors can be configured and converted between various formats such as RGB, Hex, HSB, HSL and CMYK. The integrated palette tool then allows you to create color palettes from selected colors or the history of picked colors.
+
+Support:
+https://sourceforge.net/p/colora/discussion/
+https://github.com/bluegrams/colora/issuesColora is a useful small color converter and screen color picker tool for Windows. Colora makes it easy to pick colors from screen and save them.
+The color picker is tested to work with Windows 10 and DPI scaling. Picked colors can be configured and converted between various formats such as RGB, Hex, HSB, HSL and CMYK. The integrated palette tool then allows you to create color palettes from selected colors or the history of picked colors.
+
+Support:
+https://sourceforge.net/p/colora/discussion/
+https://github.com/bluegrams/colora/issues","Categories
+Desktop Environment, User Interface (UI), Screen Capture"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+Creative Commons Attribution License","Categories
+Desktop Environment"
+"Play your favorite games fullscreen and borderless with Borderless Gaming. It's a simple tool that allows you to turn windowed video games into ""fullscreen"" applications without all of the negative side effects and time-consuming alt-tabs.Play your favorite games fullscreen and borderless with Borderless Gaming. It's a simple tool that allows you to turn windowed video games into ""fullscreen"" applications without all of the negative side effects and time-consuming alt-tabs.","Categories
+Window Managers, Games/Entertainment"
+"I was tired of always having to start a new instance of notepad to take a note of something during my busy work day. All the other note applications seem very bulky and didn't really work with the fast pace that I work at.
+
+So... I made TotesNotes!.
+
+Click the little tray icon and up pops a note pad to pop text into. There are even a few tabs if you want to seperate them a little bit.
+
+* Requires .NET 4.5
+
+Note : If you dont see the icon in your tray, just drag it next to your clock. It should stay there for future use.
+
+
+Feel free to add ideas and suggestions to the discussion group.I was tired of always having to start a new instance of notepad to take a note of something during my busy work day. All the other note applications seem very bulky and didn't really work with the fast pace that I work at.
+
+So... I made TotesNotes!.
+
+Click the little tray icon and up pops a note pad to pop text into. There are even a few tabs if you want to seperate them a little bit.
+
+* Requires .NET 4.5
+
+Note : If you dont see the icon in your tray, just drag it next to your clock. It should stay there for future use.
+
+
+Feel free to add ideas and suggestions to the discussion group.","Categories
+Text Editors, Text Processing, Desktop Environment"
+"Before you download please visit the Lightning Linux Website and the Youtube Playlist
+http://emmett31.wix.com/lightningdownload
+https://www.youtube.com/watch?v=4fRBNxNJUL8&list=PLXrG1x9jbtaS4gd0tjGaNesSoZJpsQEZ8
+
+Lightning Linux NOW has Doom and Quake installed
+
+Lightning Linux is an operating system designed for both older and newer computers. Lightning Linux runs particularly well on older computers.
+
+Lightning Linux improves older computers by enabling you to install the newest versions of software and offering a clean, stylish appearance. Lightning Linux uses the Gnome Classic desktop environment. While Lightning Linux Lite uses the LXDE desktop environment. Lightning Linux allows you to bring new life into your old computer. Try it for free!Before you download please visit the Lightning Linux Website and the Youtube Playlist
+http://emmett31.wix.com/lightningdownload
+https://www.youtube.com/watch?v=4fRBNxNJUL8&list=PLXrG1x9jbtaS4gd0tjGaNesSoZJpsQEZ8
+
+Lightning Linux NOW has Doom and Quake installed
+
+Lightning Linux is an operating system designed for both older and newer computers. Lightning Linux runs particularly well on older computers.
+
+Lightning Linux improves older computers by enabling you to install the newest versions of software and offering a clean, stylish appearance. Lightning Linux uses the Gnome Classic desktop environment. While Lightning Linux Lite uses the LXDE desktop environment. Lightning Linux allows you to bring new life into your old computer. Try it for free!","Categories
+GNOME, Operating System Kernels, Live CD"
+"Debox GNU/Linux Live CD is a live hybrid distribution based on Debian and OpenBox. Can be used on computers supporting 32-bit (x86) or 64-bit (x86_64) instruction set architectures.
+
+Debox was made with the middle and novice user in mind. Includes a wide range of software: word processor, media players, internet browser, email client, disk utilities, java and few games.
+Also, a plenty of printers, scanners, bluethooth, web cams, digital tv, fax are supported by default.
+
+Different from the majority of the distributions, the Debox desktop environment does not tightly integrate every component but use various programs and tweaks that give the final result.
+
+Debox Live CD is full persistence capable so you can store your favorite data on hard disk/USB stick.
+
+Debox Live CD can run in old computers that have more of 256MB of Ram whith a 700MHz CPU (but strongly advised 2GB of Ram and unleast 2Ghz CPU)Debox GNU/Linux Live CD is a live hybrid distribution based on Debian and OpenBox. Can be used on computers supporting 32-bit (x86) or 64-bit (x86_64) instruction set architectures.
+
+Debox was made with the middle and novice user in mind. Includes a wide range of software: word processor, media players, internet browser, email client, disk utilities, java and few games.
+Also, a plenty of printers, scanners, bluethooth, web cams, digital tv, fax are supported by default.
+
+Different from the majority of the distributions, the Debox desktop environment does not tightly integrate every component but use various programs and tweaks that give the final result.
+
+Debox Live CD is full persistence capable so you can store your favorite data on hard disk/USB stick.
+
+Debox Live CD can run in old computers that have more of 256MB of Ram whith a 700MHz CPU (but strongly advised 2GB of Ram and unleast 2Ghz CPU)","Categories
+Desktop Environment, OS distribution, Live CD"
+"Starting a different tool as notepad.exe but with useful minimal impact to your system.
+
+The program consists of the starter and some registry entries doing the job.
+
+This tool is based on the sources from Stepho 2005
+Additions are done by me to ensure function on all windows systems
+including Windows 7 and 10. As well as adding the same to an installer program.
+
+It's a little Notepad++ launcher which allows you to replace notepad.exe completely
+by Notepad++. (Without need for removing anything from the windows system.)
+
+Concept:
+NppLauncher make use of a debugger feature in Windows the system will call a hooked
+process with appended parameters to allow debugging the intended application.
+This hook application will be call whenever the correct application was resolved.
+
+Regards, MattesStarting a different tool as notepad.exe but with useful minimal impact to your system.
+
+The program consists of the starter and some registry entries doing the job.
+
+This tool is based on the sources from Stepho 2005
+Additions are done by me to ensure function on all windows systems
+including Windows 7 and 10. As well as adding the same to an installer program.
+
+It's a little Notepad++ launcher which allows you to replace notepad.exe completely
+by Notepad++. (Without need for removing anything from the windows system.)
+
+Concept:
+NppLauncher make use of a debugger feature in Windows the system will call a hooked
+process with appended parameters to allow debugging the intended application.
+This hook application will be call whenever the correct application was resolved.
+
+Regards, Mattes","Categories
+Desktop Environment"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Desktop Environment, Libraries"
+"""Persian Numerals"" allows using Persian Numerals while writing in Persian language in Windows OS. If the Persian language is not installed on the system, the program will also provide the ability for the user to type in Persian language by simulating a Persian keyboard layout. Your feedbacks are welcome at me@aminbandali.com
+
+Version 2.0.0.0:
+Quick demo
+http://youtu.be/d03xNVqIrkQ
+
+Version 1.0.0.0:
+Quick demo
+http://youtu.be/Lv7NMrO2si0""Persian Numerals"" allows using Persian Numerals while writing in Persian language in Windows OS. If the Persian language is not installed on the system, the program will also provide the ability for the user to type in Persian language by simulating a Persian keyboard layout. Your feedbacks are welcome at me@aminbandali.com
+
+Version 2.0.0.0:
+Quick demo
+http://youtu.be/d03xNVqIrkQ
+
+Version 1.0.0.0:
+Quick demo
+http://youtu.be/Lv7NMrO2si0","Categories
+Fonts"
+"Hifito is a small utility for Windows, which allows to quickly toggle the ""Show hidden files"" and ""Hide extensions for known file types"" Explorer settings. The utility is written in C using only the win32 API, so it's really fast and lightweight.Hifito is a small utility for Windows, which allows to quickly toggle the ""Show hidden files"" and ""Hide extensions for known file types"" Explorer settings. The utility is written in C using only the win32 API, so it's really fast and lightweight.","Categories
+Desktop Environment, File Managers"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Attractive look and design. Visibility and cleaning experience.
+Almost 300 monochrome icons for real and potential use in the plasma theme.
+One of the most complete and pioneer plasma themes in KDE desktop.
+Always improving and increasing the compatibility.","Categories
+KDE, KDE Themes"
+A very small and simple application that gives you time remaining to charge or discharge your battery (even if windows cannot).The final goal is to have an accurate timer that will tell how much time until your computer dies or fully charged.A very small and simple application that gives you time remaining to charge or discharge your battery (even if windows cannot).The final goal is to have an accurate timer that will tell how much time until your computer dies or fully charged.,"Categories
+Desktop Environment, Battery Monitoring, Hardware"
+"*aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México***aparece archivos ocultos x Viruz * appear files hidden due Virus**mazatlá, sinaloa México**","Categories
+Security, Desktop Environment, Internet"
+"NEWS: For use with PHPMyAdmin versions 3.3 or less. PMAHomme has since become the official look of phpMyAdmin for v3.4.x . Still a clean, modern and easy to use phpMyAdmin theme!NEWS: For use with PHPMyAdmin versions 3.3 or less. PMAHomme has since become the official look of phpMyAdmin for v3.4.x . Still a clean, modern and easy to use phpMyAdmin theme!","Categories
+Icon Sets"
+A simple no frills large green seven segment desktop clock. Intended for use as a large clock display on netbooks sized screens. The Big Green Clock is avalable for the Windows and Linux operating systems.A simple no frills large green seven segment desktop clock. Intended for use as a large clock display on netbooks sized screens. The Big Green Clock is avalable for the Windows and Linux operating systems.,"Categories
+Desktop Environment"
+"A GNU/Windows distribution with package manager. Consists of open source applications natively ported to Windows platform. Evolution, Gimp, Inkscape and more; MinGW gcc, MSYS; graphical cygwin-like package manager.A GNU/Windows distribution with package manager. Consists of open source applications natively ported to Windows platform. Evolution, Gimp, Inkscape and more; MinGW gcc, MSYS; graphical cygwin-like package manager.","Categories
+Desktop Environment, Software Development"
+"Keybreeze Desktop lets you perform a variety of tasks from a hotkey-activated, command-line toolbar. Press a hotkey on your keyboard. Then type a few letters and press Enter to open programs and websites, search websites such as Google or Wikipedia, paste custom text into text fields, create sticky notes and set reminders, automate actions with macros, perform multiline calculations, keep windows on top of other windows, and more.Keybreeze Desktop lets you perform a variety of tasks from a hotkey-activated, command-line toolbar. Press a hotkey on your keyboard. Then type a few letters and press Enter to open programs and websites, search websites such as Google or Wikipedia, paste custom text into text fields, create sticky notes and set reminders, automate actions with macros, perform multiline calculations, keep windows on top of other windows, and more.","Categories
+Desktop Environment, Window Managers, Search"
+Tadween is a powerful multilingual application allowing users to write Arabic in applications that support Unicode but don't fully support Arabic.Tadween is a powerful multilingual application allowing users to write Arabic in applications that support Unicode but don't fully support Arabic.,"Categories
+Graphics, Desktop Publishing, Fonts"
+"Wmping is a simple usefull program that allows to check host status
+in your network environment. It can be used for monitoring servers in the network.Wmping is a simple usefull program that allows to check host status
+in your network environment. It can be used for monitoring servers in the network.","Categories
+Window Managers, Monitoring"
+"x2go is a ""server based computing environment"". It can be sized from single PC-installations to enterprise networks with multiple servers and LDAP Trees. You may use SmardCards for Authentification. Sessions can be suspended and resumed.x2go is a ""server based computing environment"". It can be sized from single PC-installations to enterprise networks with multiple servers and LDAP Trees. You may use SmardCards for Authentification. Sessions can be suspended and resumed.","Categories
+KDE, LDAP"
+"Gnaughty is an utility to automatically download adult sex content, i.e. porn movies and pictures, from a known internet porn directory (sublimedirectory.com). Providing a friendly interface, users who feel like having some porn can have it served fastlyGnaughty is an utility to automatically download adult sex content, i.e. porn movies and pictures, from a known internet porn directory (sublimedirectory.com). Providing a friendly interface, users who feel like having some porn can have it served fastly","Categories
+GNOME, WWW/HTTP"
+"DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.DIET-PC (DIskless Embedded Technology Personal Computer) is a software kitset enabling IT professionals to build an open source GUI appliance based on commodity x86 (PC), PowerPC (Mac) or ARM (handheld) hardware, using an embedded Linux methodology.","Categories
+Data Formats, Terminal Emulators, Desktop Environment, Software Development, Networking"
+"Star Trek 24/7: LCARS (Starfleet) GUI, full-screen alarm clock & calendar, games, utilities, sims, maps, graphical LCARS library, file manager, viewers, players, animation. Requires a HighColor/TrueColor DOS-based laptop w/ std. graphics & sound cards.Star Trek 24/7: LCARS (Starfleet) GUI, full-screen alarm clock & calendar, games, utilities, sims, maps, graphical LCARS library, file manager, viewers, players, animation. Requires a HighColor/TrueColor DOS-based laptop w/ std. graphics & sound cards.","Categories
+Window Managers, Puzzle Games, Image Viewers"
+"OpenVPN-Admin is a GUI for OpenVPN, programmed in Mono. Packages are available for Linux and Windows. Packages for Nokia 770 are under development. OpenVPN-Admin should work on every platform where Mono runs. Included in OpenVPN-Admin is a Certificate wiOpenVPN-Admin is a GUI for OpenVPN, programmed in Mono. Packages are available for Linux and Windows. Packages for Nokia 770 are under development. OpenVPN-Admin should work on every platform where Mono runs. Included in OpenVPN-Admin is a Certificate wi","Categories
+Security, Desktop Environment"
+A collection of scalable Hebrew fonts for GNU/Linux.A collection of scalable Hebrew fonts for GNU/Linux.,"Categories
+Desktop Environment, Printing"
+"This project site maintains several projects that support the acerhk.ko linux module and provide a GUI interface for the module to activate and deactivate the wireless and bluetooth radios.
+
+Please see this projects Wiki for more information: https://sourceforge.net/p/acerhkgui/wiki/Home/
+
+Programs:
+AcerHK GUI -- Main program. Updated 2015-03-05. Version 0.7.2.5 should work. Please report errors, as it may still require some work.
+
+Cinnamon Desktop Applet -- simple system tray icon to provide radio on and off controls. It is also available at: http://cinnamon-spices.linuxmint.com/applets/view/219
+
+Ubuntu AppIndicator Applet -- currently in development. Stay posted for this.
+
+Build Script for acerhk.ko. Use the 11.04+. Includes source code.
+
+Please see this projects Wiki for more information.This project site maintains several projects that support the acerhk.ko linux module and provide a GUI interface for the module to activate and deactivate the wireless and bluetooth radios.
+
+Please see this projects Wiki for more information: https://sourceforge.net/p/acerhkgui/wiki/Home/
+
+Programs:
+AcerHK GUI -- Main program. Updated 2015-03-05. Version 0.7.2.5 should work. Please report errors, as it may still require some work.
+
+Cinnamon Desktop Applet -- simple system tray icon to provide radio on and off controls. It is also available at: http://cinnamon-spices.linuxmint.com/applets/view/219
+
+Ubuntu AppIndicator Applet -- currently in development. Stay posted for this.
+
+Build Script for acerhk.ko. Use the 11.04+. Includes source code.
+
+Please see this projects Wiki for more information.","Categories
+GNOME, Wireless, Hardware Drivers"
+"AmphetaDesk is a cross-platform, highly customizable, news aggregator - it sits on your desktop, downloads the latest news that interests you, and displays them in a quick, easy to use and customizable webpage. No webserver required.AmphetaDesk is a cross-platform, highly customizable, news aggregator - it sits on your desktop, downloads the latest news that interests you, and displays them in a quick, easy to use and customizable webpage. No webserver required.","Categories
+Communications, Desktop Environment, Internet"
+"TkDND is an extension that adds native drag & drop capabilities to the Tk toolkit. It can be used with any Tk version equal or greater to 8.3.3 and currently only the UNIX (X-Windows), Microsoft Windows (XP, Vista, 7) and OS X (Leopard) operating systems.
+
+Please note that sources have been moved to: https://github.com/petasis/tkdndTkDND is an extension that adds native drag & drop capabilities to the Tk toolkit. It can be used with any Tk version equal or greater to 8.3.3 and currently only the UNIX (X-Windows), Microsoft Windows (XP, Vista, 7) and OS X (Leopard) operating systems.
+
+Please note that sources have been moved to: https://github.com/petasis/tkdnd","Categories
+Desktop Environment"
+"GStreamer is a streaming-media framework, based on graphs of filters which operate on media data. Applications using this library can do anything from real-time sound processing to playing videos, and just about anything else media-related. Project iGStreamer is a streaming-media framework, based on graphs of filters which operate on media data. Applications using this library can do anything from real-time sound processing to playing videos, and just about anything else media-related. Project i","Categories
+KDE, GNOME, Software Development, Multimedia"
+The ROX Desktop is a desktop based around ROX-Filer - a powerful file manager.The ROX Desktop is a desktop based around ROX-Filer - a powerful file manager.,"Categories
+Desktop Environment, System"
+"JNode is a Java New Operating system Design Effort.
+JNode is a simple to use and install Java operating system for personal use on modern devices. Any java application runs on it, fast and safe.
+See our homepage for additional information.JNode is a Java New Operating system Design Effort.
+JNode is a simple to use and install Java operating system for personal use on modern devices. Any java application runs on it, fast and safe.
+See our homepage for additional information.","Categories
+Desktop Environment, Compilers, Virtual Machine, Operating System Kernels, Hardware Drivers, File Systems"
+"A simple program which provides a ""run program"" window, featuring a bash-like TAB completion. It uses GTK+ interface.
+
+Also, supports CTRL-R / CTRL-S / ""!"" for searching through history. Running commands in a terminal with CTRL-Enter. URL handlers.A simple program which provides a ""run program"" window, featuring a bash-like TAB completion. It uses GTK+ interface.
+
+Also, supports CTRL-R / CTRL-S / ""!"" for searching through history. Running commands in a terminal with CTRL-Enter. URL handlers.","Categories
+GNOME"
+"Catalogs your media files (HD & CD-R). Lets you browse, sort, search and organize them once indexed. Features user-friendly GUI, hierarchical categories, ADC (.cat) & XML catalog support, filtered search & statistics, installer. Reads CD labels & mp3ID3Catalogs your media files (HD & CD-R). Lets you browse, sort, search and organize them once indexed. Features user-friendly GUI, hierarchical categories, ADC (.cat) & XML catalog support, filtered search & statistics, installer. Reads CD labels & mp3ID3","Categories
+Database, Desktop Environment, Multimedia"
+"kchildlock restricts the time a children spends on the PC. Limits can be specified per day of the week, by lower and upper hour limits, max daily usage time, and max weekly usage time. Restriction limits can be applied to applications. Linux/ KDE4.kchildlock restricts the time a children spends on the PC. Limits can be specified per day of the week, by lower and upper hour limits, max daily usage time, and max weekly usage time. Restriction limits can be applied to applications. Linux/ KDE4.","Categories
+KDE, System"
+"pin 'em up is a tool for placing small notes/post-its (e.g. TODOs/Reminders) on your desktop and organize them in various ways (categorize,hide,upload,export,...). Due to platform independence, the notes can also be shared on different operating systemspin 'em up is a tool for placing small notes/post-its (e.g. TODOs/Reminders) on your desktop and organize them in various ways (categorize,hide,upload,export,...). Due to platform independence, the notes can also be shared on different operating systems","Categories
+Scheduling, To-Do Lists, Desktop Environment"
+Tools and plugins related to bart's PEBuilderTools and plugins related to bart's PEBuilder,"Categories
+Desktop Environment, Operating System Kernels, Boot, Multimedia"
+"CtrlSee is a clipboard manager. Better yet, Ctrl See makes is easy to pull recently copied text and images back into the clipboard for use. It works specifically with hotkeys and allows you to preview the clipboard items prior to selecting them.CtrlSee is a clipboard manager. Better yet, Ctrl See makes is easy to pull recently copied text and images back into the clipboard for use. It works specifically with hotkeys and allows you to preview the clipboard items prior to selecting them.","Categories
+Other/Nonlisted Topic, Desktop Environment, Data Recovery, Clipboard Managers"
+"Improve your productivity and user experience with Open Shell, a Windows start menu alternative for Windows 10. Bringing back the classic start menu style, OpenShell is a fork and continuation of the project Classic Shell.Improve your productivity and user experience with Open Shell, a Windows start menu alternative for Windows 10. Bringing back the classic start menu style, OpenShell is a fork and continuation of the project Classic Shell.","Categories
+Desktop Environment"

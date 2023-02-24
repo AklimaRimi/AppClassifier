@@ -1,0 +1,693 @@
+Description,Category
+wview is a unix application for weather stations. It archives weather data from the station. Generates full html web sites with graphics. ftp/ssh export capability. MySQL/PostgreSQL archiving. International. Weather alarms. Data feed. RSS feed.wview is a unix application for weather stations. It archives weather data from the station. Generates full html web sites with graphics. ftp/ssh export capability. MySQL/PostgreSQL archiving. International. Weather alarms. Data feed. RSS feed.,"Categories
+WWW/HTTP, Archiving, Information Analysis, Weather, Weather Station"
+"Webminstats is a Webmin's module which display a graphical log of historic information. It's modular in design, as to be able to log everything from CPU usage to email box size.Webminstats is a Webmin's module which display a graphical log of historic information. It's modular in design, as to be able to log everything from CPU usage to email box size.","Categories
+Systems Administration, Monitoring"
+The PTP daemon (PTPd) implements the Precision Time protocol (PTP) as defined by the IEEE 1588 standard. PTP was developed to provide very precise time coordination of LAN connected computers. PTPd boasts an advanced set of features and is highly configurable.The PTP daemon (PTPd) implements the Precision Time protocol (PTP) as defined by the IEEE 1588 standard. PTP was developed to provide very precise time coordination of LAN connected computers. PTPd boasts an advanced set of features and is highly configurable.,"Categories
+Other/Nonlisted Topic, System, Test and Measurement"
+"Collectl is a light-weight performance monitoring tool capable of reporting interactively as well as logging to disk. It reports statistics on cpu, disk, infiniband, lustre, memory, network, nfs, process, quadrics, slabs and more in easy to read format.Collectl is a light-weight performance monitoring tool capable of reporting interactively as well as logging to disk. It reports statistics on cpu, disk, infiniband, lustre, memory, network, nfs, process, quadrics, slabs and more in easy to read format.","Categories
+Software Testing, Systems Administration, Monitoring, Benchmark, Clustering, File Systems"
+"RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.","Categories
+Cryptography, Algorithms, System"
+Interleave is a business process management application. It enables you to model your business process and make it available online. It's meant to replace processes which currently rely on paper or spreadsheets and it has a good workflow engine.Interleave is a business process management application. It enables you to model your business process and make it available online. It's meant to replace processes which currently rely on paper or spreadsheets and it has a good workflow engine.,"Categories
+Office/Business, Search Engines, Archiving, Systems Administration"
+"eChanter is an Open Source electronic bagpipe project, based on the Arduino platform, using capacitive touch sensors, with polyphonic wavetable synthesis PCM audio at 8KHz. See Files for the development version, eChanter v3.0.eChanter is an Open Source electronic bagpipe project, based on the Arduino platform, using capacitive touch sensors, with polyphonic wavetable synthesis PCM audio at 8KHz. See Files for the development version, eChanter v3.0.","Categories
+MIDI, Sound Synthesis, Embedded Systems"
+The Saint Jude Project is a Project to develop Kernel-Level IDS mechinisms to protect the integrity of host systems.The Saint Jude Project is a Project to develop Kernel-Level IDS mechinisms to protect the integrity of host systems.,"Categories
+Security, Operating System Kernels"
+GLDirect is the utility package for Windows 95/98/Me/2000/XP that enables OpenGL based games and applications to access 3D hardware acceleration through the Direct3D drivers provided by your graphics hardware manufacturer.GLDirect is the utility package for Windows 95/98/Me/2000/XP that enables OpenGL based games and applications to access 3D hardware acceleration through the Direct3D drivers provided by your graphics hardware manufacturer.,"Categories
+Hardware Drivers"
+"cIPS is a robust TCP/IP stack for embedded devices.The cIPS library runs without an Operating System and is entirely abstract from any platform. However, it has been fully tested on the Xilinx Spartan 3E Starter Kit.cIPS is a robust TCP/IP stack for embedded devices.The cIPS library runs without an Operating System and is entirely abstract from any platform. However, it has been fully tested on the Xilinx Spartan 3E Starter Kit.","Categories
+Streaming, Networking, Internet"
+AIDE - Advanced Intrusion Detection EnvironmentAIDE - Advanced Intrusion Detection Environment,"Categories
+Systems Administration, Monitoring, Logging, Internet"
+"CD recording in DAO mode, console and Gnome based application.CD recording in DAO mode, console and Gnome based application.","Categories
+Archiving, CD Audio"
+"The AROS Research Operating System is an effort to implement an Open Source and portable operating system that is compatible with AmigaOS(TM). Originally, it was meant as a direct reimplementation, but already has features not existing in AmigaOS.The AROS Research Operating System is an effort to implement an Open Source and portable operating system that is compatible with AmigaOS(TM). Originally, it was meant as a direct reimplementation, but already has features not existing in AmigaOS.","Categories
+Operating System Kernels"
+"Allows editing of any size file in hexadecimal, decimal and ASCII. A great tool that allows you to edit and analyze the contents for either the data or resource fork of any type of file. 68K, PPC and Carbon run on MacOS 7-9 and X.Allows editing of any size file in hexadecimal, decimal and ASCII. A great tool that allows you to edit and analyze the contents for either the data or resource fork of any type of file. 68K, PPC and Carbon run on MacOS 7-9 and X.","Categories
+Text Editors, CGI Scripts, Software Development, Frameworks, Code Generators, System"
+A scanner button daemon for Linux (and possibly other Unix-like operating systems) which allows you to trigger certain actions (e.g. run a shell script) whenever one of the scanner's front panel buttons has been pressed.A scanner button daemon for Linux (and possibly other Unix-like operating systems) which allows you to trigger certain actions (e.g. run a shell script) whenever one of the scanner's front panel buttons has been pressed.,"Categories
+Hardware"
+"LCD Smartie displays information on your LCD/VFD. It supports LCDs with a Hitachi HD44780 Controller via parallel port & Matrix Orbital and Crystalfontz serial/USB LCD/VFDs.
+
+Info includes: CPU temps, fan speed, the BBC World News, Stocks indexes etc.LCD Smartie displays information on your LCD/VFD. It supports LCDs with a Hitachi HD44780 Controller via parallel port & Matrix Orbital and Crystalfontz serial/USB LCD/VFDs.
+
+Info includes: CPU temps, fan speed, the BBC World News, Stocks indexes etc.","Categories
+Serial, Monitoring, Hardware"
+"Loki Render allows you to create your own render farm, serving Blender render jobs to a group of computers. Loki is easy to setup and runs on Linux, Windows or Mac, making it a quick and flexible distributed network rendering solution!Loki Render allows you to create your own render farm, serving Blender render jobs to a group of computers. Loki is easy to setup and runs on Linux, Windows or Mac, making it a quick and flexible distributed network rendering solution!","Categories
+Distributed Computing, 3D Modeling, 3D Rendering"
+SNMP Trap Translator is used to 'translate' traps received from the NET-SNMP / UCD-SNMP snmptrapd trap daemon into easy to understand messages.SNMP Trap Translator is used to 'translate' traps received from the NET-SNMP / UCD-SNMP snmptrapd trap daemon into easy to understand messages.,"Categories
+Monitoring"
+FirefoxADM is a way of allowing centrally managed locked and/or default settings in Firefox via Group Policy and Administrative Templates in Active Directory Latest news about FirefoxADM at http://ick2.wordpress.comFirefoxADM is a way of allowing centrally managed locked and/or default settings in Firefox via Group Policy and Administrative Templates in Active Directory Latest news about FirefoxADM at http://ick2.wordpress.com,"Categories
+Systems Administration, Internet"
+Rootsh is a wrapper for shells which logs all echoed keystrokes and terminal output to a file and/or to syslog. It's main purpose is the auditing of users who need a shell with root privileges. They start rootsh through the sudo mechanism.Rootsh is a wrapper for shells which logs all echoed keystrokes and terminal output to a file and/or to syslog. It's main purpose is the auditing of users who need a shell with root privileges. They start rootsh through the sudo mechanism.,"Categories
+System Shells, Logging"
+"The GlobalPlatform card specification is a standard for the management of the contents on a smart card. Mainly this comprises the installation and the removal of applications. This project offers a C library and a command line shell.
+
+Find more information on https://kaoh.github.io/globalplatform/The GlobalPlatform card specification is a standard for the management of the contents on a smart card. Mainly this comprises the installation and the removal of applications. This project offers a C library and a command line shell.
+
+Find more information on https://kaoh.github.io/globalplatform/","Categories
+Security, Installation/Setup, Hardware"
+"The environment modules package provides for an easy dynamic modification of a user's environment via modulefiles. which typically instruct the module command to alter or set shell environment variables such as PATH, MANPATH, etc. as well as define aliases over a variety of shells.The environment modules package provides for an easy dynamic modification of a user's environment via modulefiles. which typically instruct the module command to alter or set shell environment variables such as PATH, MANPATH, etc. as well as define aliases over a variety of shells.","Categories
+Other/Nonlisted Topic, Desktop Environment, System"
+Splix is a driver for SPL printers (Samsung and several Xerox printers)Splix is a driver for SPL printers (Samsung and several Xerox printers),"Categories
+Hardware Drivers"
+"Master/node to gather and graph ""everything"" on your systems using Tobi Oetiker's rrdtool. It can optionally warn your surveillance software. This software package was originally called LRRD. The project. Please see http://munin-monitoring.org/Master/node to gather and graph ""everything"" on your systems using Tobi Oetiker's rrdtool. It can optionally warn your surveillance software. This software package was originally called LRRD. The project. Please see http://munin-monitoring.org/","Categories
+Systems Administration, Monitoring, Benchmark"
+"A project to provide change control for OpenDocument files via subversion under Unix. Can check in internal changes in files and allows users to recover any previous version, view logs and compare with older versions.A project to provide change control for OpenDocument files via subversion under Unix. Can check in internal changes in files and allows users to recover any previous version, view logs and compare with older versions.","Categories
+Office Suites, Backup, Subversion"
+This project is a random collection of Linux kernel-related projects and source code.This project is a random collection of Linux kernel-related projects and source code.,"Categories
+Operating System Kernels"
+The Doszip Commander is an LFN-aware TUI file manager (NC clone) with built-in Zip and UnZip for DOS and Windows.The Doszip Commander is an LFN-aware TUI file manager (NC clone) with built-in Zip and UnZip for DOS and Windows.,"Categories
+File Managers, System Shells"
+Drcom-Client is an open source ISP client for logging in to the 2133 Broadband Remote Access Server (also known as Dr.COM). It is released under the GNU General Public License. It is available for GNU/Linux and Windows now.Drcom-Client is an open source ISP client for logging in to the 2133 Broadband Remote Access Server (also known as Dr.COM). It is released under the GNU General Public License. It is available for GNU/Linux and Windows now.,"Categories
+Networking"
+DaedalusX64 is the continuation of the original Daedalus PSP port by StrmnNrmn. It is a GPL Open Source project. The official support and discussion forum is located at http://DaedalusX64.comDaedalusX64 is the continuation of the original Daedalus PSP port by StrmnNrmn. It is a GPL Open Source project. The official support and discussion forum is located at http://DaedalusX64.com,"Categories
+Emulators"
+iplist is a list based packet handler which uses the netfilter netlink-queue library (kernel 2.6.14 or later). It filters by IP-address and is optimized for thousands of IP-address ranges.iplist is a list based packet handler which uses the netfilter netlink-queue library (kernel 2.6.14 or later). It filters by IP-address and is optimized for thousands of IP-address ranges.,"Categories
+File Sharing, Firewall"
+"NOTE: THIS PROJECT HAS MOVED TO GITHUB.
+
+Download from http://nquake.com
+Source code: http://github.com/nquake
+
+QuakeWorld is a very fragmented game. Installing QuakeWorld involves installing Quake, downloading a client, downloading textures, scripts, addons, maps and much more. nQuake does all this for you with a simple online installer. nQuake always installs a completely updated package of QuakeWorld that simply works.
+
+nQuake has become the standard within QuakeWorld, so even if you don't like the content of nQuake, it's a very good base for your installation. If you run into problems - simply install nQuake fresh and modify it until you are satisfied. Getting help with issues you bump into will be a lot easier if you started out with nQuake.NOTE: THIS PROJECT HAS MOVED TO GITHUB.
+
+Download from http://nquake.com
+Source code: http://github.com/nquake
+
+QuakeWorld is a very fragmented game. Installing QuakeWorld involves installing Quake, downloading a client, downloading textures, scripts, addons, maps and much more. nQuake does all this for you with a simple online installer. nQuake always installs a completely updated package of QuakeWorld that simply works.
+
+nQuake has become the standard within QuakeWorld, so even if you don't like the content of nQuake, it's a very good base for your installation. If you run into problems - simply install nQuake fresh and modify it until you are satisfied. Getting help with issues you bump into will be a lot easier if you started out with nQuake.","Categories
+First Person Shooters, Installation/Setup"
+"Wubi is an officially supported Ubuntu installer for Windows users that can bring you to the Linux world with a single click. The website has moved to http://www.ubuntu.com/desktop/get-ubuntu/windows-installer, where you can find the latest release.Wubi is an officially supported Ubuntu installer for Windows users that can bring you to the Linux world with a single click. The website has moved to http://www.ubuntu.com/desktop/get-ubuntu/windows-installer, where you can find the latest release.","Categories
+Emulators, Installation/Setup"
+"Kosmos distributed file system provides high performance combined with availability and reliability. It is intended to be used as the backend storage infrastructure for data intensive apps such as, search engines, data mining, grid computing etc.Kosmos distributed file system provides high performance combined with availability and reliability. It is intended to be used as the backend storage infrastructure for data intensive apps such as, search engines, data mining, grid computing etc.","Categories
+File Systems"
+"IMPORTANT: The project has moved. The latest version can be found at https://github.com/gkiefer/backup2l.
+
+
+backup2l is a lightweight tool for generating, maintaining and restoring backups on a mountable file system. The main design goals are low maintenance effort, efficiency, transparency and robustness.IMPORTANT: The project has moved. The latest version can be found at https://github.com/gkiefer/backup2l.
+
+
+backup2l is a lightweight tool for generating, maintaining and restoring backups on a mountable file system. The main design goals are low maintenance effort, efficiency, transparency and robustness.","Categories
+Backup"
+"PNP is an addon for the Nagios Network Monitoring System. PNP provides easy to use, easy to configure RRDTools based performance charts feeded by the performance data output of the Nagios Plugins.PNP is an addon for the Nagios Network Monitoring System. PNP provides easy to use, easy to configure RRDTools based performance charts feeded by the performance data output of the Nagios Plugins.","Categories
+Monitoring"
+"Tools for using C-motech hardware with Linux. Initially, a program to switch the CNU-680 USB Modem from CD to modem mode will be provided. It is typically used in conjunction with udev. The CNU-680 is sold as ""D-50"" by ice.net.Tools for using C-motech hardware with Linux. Initially, a program to switch the CNU-680 USB Modem from CD to modem mode will be provided. It is typically used in conjunction with udev. The CNU-680 is sold as ""D-50"" by ice.net.","Categories
+Wireless"
+"""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.","Categories
+XML, Interpreters, System Shells"
+Environment Variables Manager (EnvMan) is a tool written in C# .Net intended to handle the administration of Windows Shell Environment Variables. It is designed to replace Control Panel System Environment Manager and easily manage long variable values.Environment Variables Manager (EnvMan) is a tool written in C# .Net intended to handle the administration of Windows Shell Environment Variables. It is designed to replace Control Panel System Environment Manager and easily manage long variable values.,"Categories
+Systems Administration"
+"DownloadDaemon is a comfortable download-manager with many features like one-click-hoster support, etc.
+It can be remote-controled in several ways (web/gui/console clients), which makes it perfect for file- and root-servers, as well as for local use.DownloadDaemon is a comfortable download-manager with many features like one-click-hoster support, etc.
+It can be remote-controled in several ways (web/gui/console clients), which makes it perfect for file- and root-servers, as well as for local use.","Categories
+File Sharing, Internet, Download Managers"
+"EVACopy is a backup program that has versioning and easy restoration in mind. It's light-weight, portable (no setup required, no dependencies, no repository, no database), easily deployed to multiple workstations, simple to use. ideal for home users tooEVACopy is a backup program that has versioning and easy restoration in mind. It's light-weight, portable (no setup required, no dependencies, no repository, no database), easily deployed to multiple workstations, simple to use. ideal for home users too","Categories
+Version Control, Backup, Data Recovery"
+JMStella is a J2ME Atari 2600 VCS emulator based upon JStella 0.95. It allows one to play Atari 2600 games on a java-enabled mobile phone.JMStella is a J2ME Atari 2600 VCS emulator based upon JStella 0.95. It allows one to play Atari 2600 games on a java-enabled mobile phone.,"Categories
+Games/Entertainment, Emulators"
+"Openfiler is a browser-based network storage management utility. Linux-powered, Openfiler delivers file-based Network Attached Storage (NAS) and block-based SAN in a single framework. It supports CIFS, NFS, HTTP/DAV, FTP, and iSCSI.Openfiler is a browser-based network storage management utility. Linux-powered, Openfiler delivers file-based Network Attached Storage (NAS) and block-based SAN in a single framework. It supports CIFS, NFS, HTTP/DAV, FTP, and iSCSI.","Categories
+Enterprise, Backup, File Systems"
+SHOUTcast Management Interface (BETA) - Create and modify shoutcast servers with the ease of a web based interface. This is a free open source stream control panel for PHP5 enabled web servers with MySQL 4.1 or newer.SHOUTcast Management Interface (BETA) - Create and modify shoutcast servers with the ease of a web based interface. This is a free open source stream control panel for PHP5 enabled web servers with MySQL 4.1 or newer.,"Categories
+Streaming, Systems Administration, Sound/Audio"
+"Zorin OS is the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy respecting.
+
+This page is deprecated. Please download Zorin OS from https://zorin.com/os/downloadZorin OS is the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy respecting.
+
+This page is deprecated. Please download Zorin OS from https://zorin.com/os/download","Categories
+Software Distribution, OS distribution, Live CD"
+"Find And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit.
+
+Moved to https://github.com/lionello/fart-itFind And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit.
+
+Moved to https://github.com/lionello/fart-it","Categories
+Text Processing, Systems Administration"
+"TGM is a gaming macro that lets you have a macro mouse and keyboard functionally with ordinary one.
+
+You can create or record multiple macros and assign them to any key combinations to trigger and loop them when you need how you need.
+
+TGM is made for gamers but it's capable of so much more. So you can use it for daily tasks as well.
+
+For any question, bug report or feature request feel free to visit forum tab.
+
+Note: To simulate arrow keys you might need to turn off NumLock.
+
+VirusTotal Result:
+#Portable
+https://www.virustotal.com/gui/file/07a8cba055e9e2034af48824c5e7b710d2f9e81fb55e81e1ce5d7d5ea8aed91e
+#Installer
+https://www.virustotal.com/gui/file/fe1b650250802b85ddbda6fe2c0f74600b068e3a33cd45724ea98ce322e3ea8fTGM is a gaming macro that lets you have a macro mouse and keyboard functionally with ordinary one.
+
+You can create or record multiple macros and assign them to any key combinations to trigger and loop them when you need how you need.
+
+TGM is made for gamers but it's capable of so much more. So you can use it for daily tasks as well.
+
+For any question, bug report or feature request feel free to visit forum tab.
+
+Note: To simulate arrow keys you might need to turn off NumLock.
+
+VirusTotal Result:
+#Portable
+https://www.virustotal.com/gui/file/07a8cba055e9e2034af48824c5e7b710d2f9e81fb55e81e1ce5d7d5ea8aed91e
+#Installer
+https://www.virustotal.com/gui/file/fe1b650250802b85ddbda6fe2c0f74600b068e3a33cd45724ea98ce322e3ea8f","Categories
+Games/Entertainment, Systems Administration, Macros"
+"Mini Mouse Macro is a great free mouse and keyboard recording macro. Mini Mouse Macro if different to other mouse macro's out there because it can actively record your mouse movements, clicks and keys. Lower standard macro's require you to actually enter the x and y position of your mouse and then ask you what to do.....Mini Mouse Macro recorder takes it to the next level by recording your actions in real time.
+
+Another great feature of Mini Mouse Macro is the ability to save your macro's and load up whatever macro you need when you need it.
+
+Mini Mouse Macro is totally portable - a single executable file!
+
+Checkout VirusTotal https://www.virustotal.com/gui/file/ab83463d785f91e915b8faf8b5d87b94aba9f1510f51962f982eaddece643f68
+
+Check out the forum https://minimousemacro.proboards.com/
+
+Want a fee copy of Pro? Create a YouTube video of your macro and send me the link! https://www.turnssoft.com/mmmyoutube.html
+
+Check out my Patreon https://www.patreon.com/minimousemacroMini Mouse Macro is a great free mouse and keyboard recording macro. Mini Mouse Macro if different to other mouse macro's out there because it can actively record your mouse movements, clicks and keys. Lower standard macro's require you to actually enter the x and y position of your mouse and then ask you what to do.....Mini Mouse Macro recorder takes it to the next level by recording your actions in real time.
+
+Another great feature of Mini Mouse Macro is the ability to save your macro's and load up whatever macro you need when you need it.
+
+Mini Mouse Macro is totally portable - a single executable file!
+
+Checkout VirusTotal https://www.virustotal.com/gui/file/ab83463d785f91e915b8faf8b5d87b94aba9f1510f51962f982eaddece643f68
+
+Check out the forum https://minimousemacro.proboards.com/
+
+Want a fee copy of Pro? Create a YouTube video of your macro and send me the link! https://www.turnssoft.com/mmmyoutube.html
+
+Check out my Patreon https://www.patreon.com/minimousemacro","Categories
+Auto Clicker, Macros, Auto Mouse Movers, Macro Recorders"
+"cx_Freeze is a set of utilities for freezing Python scripts into executables using many of the techniques found in Thomas Heller's py2exe, Gordon McMillan's Installer and the Freeze utility that ships with Python itselfcx_Freeze is a set of utilities for freezing Python scripts into executables using many of the techniques found in Thomas Heller's py2exe, Gordon McMillan's Installer and the Freeze utility that ships with Python itself","Categories
+Build Tools, Software Distribution"
+"A cross platform file and folder mass renamer, allows many different renaming operations in a GUI.
+
+Please note that development has moved to GitHub:
+https://github.com/metamorphoseA cross platform file and folder mass renamer, allows many different renaming operations in a GUI.
+
+Please note that development has moved to GitHub:
+https://github.com/metamorphose","Categories
+File Managers"
+"The sbackup suite is a simple backup solution for Gnome desktop. All configuration is accessable via Gnome interface. File and paths can be included and excluded directly or by regex, local and remote backups supported.The sbackup suite is a simple backup solution for Gnome desktop. All configuration is accessable via Gnome interface. File and paths can be included and excluded directly or by regex, local and remote backups supported.","Categories
+Backup"
+"Windows 10 Setup Helper for gamers, power users and administrators.
+Script is no longer in active development because Windows 10 is being updated too frequently.
+Version 9:
+rmApps.cmd -> Script with Y/N interaction
+autoRmApps.cmd -> Script without interaction
+advRmApps.cmd -> Script without limitation. Can remove everything with Y/N interaction. Warning!!! Wrong usage can break your Windows! (Remove Cortana with this script after autoRmApps.cmd script finished)
+- clean uninstall of Apps via dism.exe (All Users)
+- tweaks from Windows Privacy Tweaker
+- nearly every app can be removed
+- service configuration choice: Safe or Microsoft (Black Viper's Service Configuration)
+- removed some more stuff for your privacy (Privacy And Shit Script)
+- OneDrive can be removed before it gets installedWindows 10 Setup Helper for gamers, power users and administrators.
+Script is no longer in active development because Windows 10 is being updated too frequently.
+Version 9:
+rmApps.cmd -> Script with Y/N interaction
+autoRmApps.cmd -> Script without interaction
+advRmApps.cmd -> Script without limitation. Can remove everything with Y/N interaction. Warning!!! Wrong usage can break your Windows! (Remove Cortana with this script after autoRmApps.cmd script finished)
+- clean uninstall of Apps via dism.exe (All Users)
+- tweaks from Windows Privacy Tweaker
+- nearly every app can be removed
+- service configuration choice: Safe or Microsoft (Black Viper's Service Configuration)
+- removed some more stuff for your privacy (Privacy And Shit Script)
+- OneDrive can be removed before it gets installed","Categories
+Systems Administration"
+"Berryboot is a simple operating system installer and boot selection screen for ARM devices such as the Raspberry Pi and Cubieboard.
+
+It allows you to put multiple Linux distribution on a single SD card.Berryboot is a simple operating system installer and boot selection screen for ARM devices such as the Raspberry Pi and Cubieboard.
+
+It allows you to put multiple Linux distribution on a single SD card.","Categories
+OS distribution"
+"This project was originally designed to provide an open-source replacement for PPJoy. The product, at this point, consists of virtual joystick devices that is seen by the system as a standard joystick but its position-data is written to it by a feeder application. An existing feeder application that takes advantage of this product is SmartPropoPlus. If you are an application writer you can very easily write an application that controls a joystick (e.g. mouse-to-joystick, keyboard-to-joystick). If you are a beginner in device drivers you can take this code and enhance it to support more (or less) axes, buttons or POVs.This project was originally designed to provide an open-source replacement for PPJoy. The product, at this point, consists of virtual joystick devices that is seen by the system as a standard joystick but its position-data is written to it by a feeder application. An existing feeder application that takes advantage of this product is SmartPropoPlus. If you are an application writer you can very easily write an application that controls a joystick (e.g. mouse-to-joystick, keyboard-to-joystick). If you are a beginner in device drivers you can take this code and enhance it to support more (or less) axes, buttons or POVs.","Categories
+Hardware Drivers, Flight Simulator"
+"PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.","Categories
+Site Management, Compilers, Interpreters, Design, Software Distribution, Presentation, Scientific/Engineering, Exam"
+"An open source NES Emulator for Windows and Unix that features solid emulation accuracy and state of the art tools for power users.
+
+FCEUX's source code is now hosted at https://github.com/TASVideos/fceux/
+
+win32 autobuilds @ https://ci.appveyor.com/project/zeromus/fceux/build/artifactsAn open source NES Emulator for Windows and Unix that features solid emulation accuracy and state of the art tools for power users.
+
+FCEUX's source code is now hosted at https://github.com/TASVideos/fceux/
+
+win32 autobuilds @ https://ci.appveyor.com/project/zeromus/fceux/build/artifacts","Categories
+Games/Entertainment, Emulators"
+"IP Monitor is a simple application which monitors your public IP address for changes and lets you set different kinds of notifications such as email, audio, pop up or executing a command. It can also run in background as a Windows service or Linux/Mac daemon.IP Monitor is a simple application which monitors your public IP address for changes and lets you set different kinds of notifications such as email, audio, pop up or executing a command. It can also run in background as a Windows service or Linux/Mac daemon.","Categories
+Monitoring"
+"Another duplicate file finder/remover. But this one is ULTRA FAST, safe, easy to use and of course free and open source.Another duplicate file finder/remover. But this one is ULTRA FAST, safe, easy to use and of course free and open source.","Categories
+File Managers"
+"Etcher is a powerful OS image flasher. It protects a user from accidentally overwriting hard-drives by making drive selection obvious; and with validated flashing there is no more writing images to corrupted drives. It is also called balenaEtcher since it is developed by balena.
+
+In addition, Etcher can flash directly Raspberry Pi devices that support usbboot. Use for .iso and .img files, as well as zipped folders to create live SD cards and USB flash drives.
+
+Written with Electron for cross platform use (windows, macOS, and Linux).Etcher is a powerful OS image flasher. It protects a user from accidentally overwriting hard-drives by making drive selection obvious; and with validated flashing there is no more writing images to corrupted drives. It is also called balenaEtcher since it is developed by balena.
+
+In addition, Etcher can flash directly Raspberry Pi devices that support usbboot. Use for .iso and .img files, as well as zipped folders to create live SD cards and USB flash drives.
+
+Written with Electron for cross platform use (windows, macOS, and Linux).","Categories
+System, Systems Administration"
+"LxPup is a version of Puppy Linux using the LXDE desktop environment and is an updated “descendent” of loukitchou’s LxPup13.01.
+LxPup offers the Openbox window manager, LxPanel panel manager and PCManFM file manager.
+There are various ""flavours"" of LxPup some built as derivatives of official Puppy Linux builds (based on Slackware and Ubuntu components) and one a new woof-ce build (Slackware based). The various flavours offer different kernels and access to the software repositories of the base system.
+LxPup combines all the significant advantages of Puppy Linux - small iso size, extensive hardware support, wide range of applications built-in, live cd and frugal installs, friendly supportive user forum etc etc, with the lightweight but modern LXDE desktop environment.
+Visit the support website for more details.LxPup is a version of Puppy Linux using the LXDE desktop environment and is an updated “descendent” of loukitchou’s LxPup13.01.
+LxPup offers the Openbox window manager, LxPanel panel manager and PCManFM file manager.
+There are various ""flavours"" of LxPup some built as derivatives of official Puppy Linux builds (based on Slackware and Ubuntu components) and one a new woof-ce build (Slackware based). The various flavours offer different kernels and access to the software repositories of the base system.
+LxPup combines all the significant advantages of Puppy Linux - small iso size, extensive hardware support, wide range of applications built-in, live cd and frugal installs, friendly supportive user forum etc etc, with the lightweight but modern LXDE desktop environment.
+Visit the support website for more details.","Categories
+System, OS distribution, Live CD"
+"*NOTE*
+I am currently rewriting this and hope to have something in a couple of weeks.
+
+It can be frustrating to manually reinstall Firefox with all its extensions, themes, personas and other add-ons. Even for those administrators who need to deploy Firefox on hundreds of network computers will find it a cumbersome task to do it manually. To assist you in building a silent Firefox installer with all of the settings preset, here is FFaM, aka Firefox Addon Maker.
+
+
+This is an application written in C# that will create a silent installer. The installer can be created in Windows XP, Vista or Windows 7, 32-bit or 64-bit. The installers can be installed in Windows XP, Vista or Windows 7, 32-bit or 64-bit. You can create an installer with all of your settings intact, an installer with no modifications. Or, anything in between. You can create an installer from one of the three versions posted by Mozilla, the Current version, the Previous version and the Beta version.*NOTE*
+I am currently rewriting this and hope to have something in a couple of weeks.
+
+It can be frustrating to manually reinstall Firefox with all its extensions, themes, personas and other add-ons. Even for those administrators who need to deploy Firefox on hundreds of network computers will find it a cumbersome task to do it manually. To assist you in building a silent Firefox installer with all of the settings preset, here is FFaM, aka Firefox Addon Maker.
+
+
+This is an application written in C# that will create a silent installer. The installer can be created in Windows XP, Vista or Windows 7, 32-bit or 64-bit. The installers can be installed in Windows XP, Vista or Windows 7, 32-bit or 64-bit. You can create an installer with all of your settings intact, an installer with no modifications. Or, anything in between. You can create an installer from one of the three versions posted by Mozilla, the Current version, the Previous version and the Beta version.","Categories
+Browsers, Application Packaging"
+"bitfarm-Archiv is a powerful Document Management (DMS), Enterprise Content Management (ECM) and Knowledge Management System (KMS) with Workflow Components. Features: Scanning, OCR, Full text search, Email archiving.
+
+Help us!
+As we live in the internet age, the best thing, you can help, is to write a short statement about your scenario and your use of the DMS, along with your experiences and put it on your own website or in a blog or forum. It would help us best, if you can also add a hyperlink to our site http://www.bitfarm-archiv.com. By this you help the software to gain a better presence in the web which helps distribute it. This, however, will allow us to acquire more enterprise customers which gives us more resources, e.g. for further development of the GPL version.bitfarm-Archiv is a powerful Document Management (DMS), Enterprise Content Management (ECM) and Knowledge Management System (KMS) with Workflow Components. Features: Scanning, OCR, Full text search, Email archiving.
+
+Help us!
+As we live in the internet age, the best thing, you can help, is to write a short statement about your scenario and your use of the DMS, along with your experiences and put it on your own website or in a blog or forum. It would help us best, if you can also add a hyperlink to our site http://www.bitfarm-archiv.com. By this you help the software to gain a better presence in the web which helps distribute it. This, however, will allow us to acquire more enterprise customers which gives us more resources, e.g. for further development of the GPL version.","Categories
+Archiving, Workflow Management, Knowledge Management, OCR"
+symbian s60 port of the DOSBox emulator for devices running s60 3rd edition feature pack 1 (or later)symbian s60 port of the DOSBox emulator for devices running s60 3rd edition feature pack 1 (or later),"Categories
+Games/Entertainment, Emulators, Mobile"
+Tux Commander is an open-source file manager with 2 panels side by side written for GTK2.Tux Commander is an open-source file manager with 2 panels side by side written for GTK2.,"Categories
+File Managers"
+"Tool for controlling the special features of a ""U3 smart drive"" USB Flash disk.Tool for controlling the special features of a ""U3 smart drive"" USB Flash disk.","Categories
+Hardware Drivers"
+"FreeNFS is a NFS 2.0 and 3.0 Compliant Server for Windows.
+FreeNFSE is a NFS 2.0 and 3.0 Compliant Server for Windows to a Embedded System Client.
+
+Adding more protocols to better serve embedded systems and video streaming.
+
+Insure to read the Blog, for current information on whats new!FreeNFS is a NFS 2.0 and 3.0 Compliant Server for Windows.
+FreeNFSE is a NFS 2.0 and 3.0 Compliant Server for Windows to a Embedded System Client.
+
+Adding more protocols to better serve embedded systems and video streaming.
+
+Insure to read the Blog, for current information on whats new!","Categories
+Systems Administration, Networking, Embedded Systems"
+SSL VPN Client for Windows (OpenVPN).SSL VPN Client for Windows (OpenVPN).,"Categories
+Security, Networking, Mobile, VPN"
+"Catalog the content of removable volumes like CD and DVD disks for off-line searching. Folders and files can also be arranged in a single, virtual file system. Each folder of this virtual file system can contain files from many disks.Catalog the content of removable volumes like CD and DVD disks for off-line searching. Folders and files can also be arranged in a single, virtual file system. Each folder of this virtual file system can contain files from many disks.","Categories
+Database, File Managers, Archiving"
+This is a virtual floppy drive for Windows NT / 2000 / XP / 2003 / Vista / Windows 7 (both 32-bit and 64-bit versions)This is a virtual floppy drive for Windows NT / 2000 / XP / 2003 / Vista / Windows 7 (both 32-bit and 64-bit versions),"Categories
+File Managers, Hardware, File Systems"
+"Available on:
+iPhone 2G
+iPhone 3G
+iPod Touch 1G
+iPod Touch 2G - MB
+iPod Touch 2G - MC
+
+Speed up your device and get new amazing features.Available on:
+iPhone 2G
+iPhone 3G
+iPod Touch 1G
+iPod Touch 2G - MB
+iPod Touch 2G - MC
+
+Speed up your device and get new amazing features.","Categories
+OS distribution"
+"Acrylic is a local DNS proxy for Windows which improves the performance of your computer by caching the responses coming from your DNS servers and helps you fight unwanted ads through the use of a custom HOSTS file (optimized for handling hundreds of thousands of domain names) with support for wildcards and regular expressions.
+
+When you browse a web page a portion of the loading time is dedicated to name resolution while the rest is dedicated to the transfer of the web page contents. What Acrylic does is to reduce the time dedicated to name resolution for frequently visited addresses closest to zero possible. Furthermore Acrylic's sliding expiration caching mechanism and DNS silent updates are able to improve the browsing experience independently of the browser.
+
+With Acrylic you can also gracefully overcome downtimes of your DNS servers without disrupting your work, because in that case you will at least be able to connect to your favourite websites and to your email server.Acrylic is a local DNS proxy for Windows which improves the performance of your computer by caching the responses coming from your DNS servers and helps you fight unwanted ads through the use of a custom HOSTS file (optimized for handling hundreds of thousands of domain names) with support for wildcards and regular expressions.
+
+When you browse a web page a portion of the loading time is dedicated to name resolution while the rest is dedicated to the transfer of the web page contents. What Acrylic does is to reduce the time dedicated to name resolution for frequently visited addresses closest to zero possible. Furthermore Acrylic's sliding expiration caching mechanism and DNS silent updates are able to improve the browsing experience independently of the browser.
+
+With Acrylic you can also gracefully overcome downtimes of your DNS servers without disrupting your work, because in that case you will at least be able to connect to your favourite websites and to your email server.","Categories
+Communications, DNS, Networking, Email Servers"
+External diff Tool is an Eclipse plugin that allows the launch of an external diff tool for file compares rather than the default built-in Eclipse diff tool. This plugin doesn't replace the built-in Eclipse tool. It only adds a new menu item to the GUI.External diff Tool is an Eclipse plugin that allows the launch of an external diff tool for file compares rather than the default built-in Eclipse diff tool. This plugin doesn't replace the built-in Eclipse tool. It only adds a new menu item to the GUI.,"Categories
+Integrated Development Environments (IDE), Version Control, Diff Tools"
+K3b is a highly usable and very userfriendly cd writing program.K3b is a highly usable and very userfriendly cd writing program.,"Categories
+KDE, Archiving, CD Ripping"
+"DarwiinRemote is a tiny program & library which reads data from and sends data to Nintendo Wii Remote (Wiimote), nunchuk, & classic controller.DarwiinRemote is a tiny program & library which reads data from and sends data to Nintendo Wii Remote (Wiimote), nunchuk, & classic controller.","Categories
+Games/Entertainment, Hardware, HMI"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.","Categories
+System"
+"GAG is a graphical boot manager, designed to be easy-to-use and intuitive, but without loosing advanced features, like passwords or swapping drives.GAG is a graphical boot manager, designed to be easy-to-use and intuitive, but without loosing advanced features, like passwords or swapping drives.","Categories
+Boot"
+"Vine Server(OSXvnc) is a robust, full-featured VNC server for MacOS X. It allows VNC clients to remotely view or control the machine. It is provided by TestPlant, for use with Vine Viewer AND Eggplant for cross-platform testing,Vine Server(OSXvnc) is a robust, full-featured VNC server for MacOS X. It allows VNC clients to remotely view or control the machine. It is provided by TestPlant, for use with Vine Viewer AND Eggplant for cross-platform testing,","Categories
+Communications, Distributed Computing"
+"Duplicate Files Finder is a cross-platform application for finding and removing duplicate files by deleting, creating hardlinks or creating symbolic links. A special algorithm minimizes the amount of data read from disk, so the program is very fast.Duplicate Files Finder is a cross-platform application for finding and removing duplicate files by deleting, creating hardlinks or creating symbolic links. A special algorithm minimizes the amount of data read from disk, so the program is very fast.","Categories
+File Managers, Duplicate File Finders"
+"This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.This is a development branch of Console by bozho (http://sourceforge.net/projects/console/). It adds: explorer context menu support, reactivation of existing tabs and more.","Categories
+Terminals, Desktop Environment, System"
+rtmc9s12-Target is a MATLAB/Simulink block-set for real-time control on Freescale MC9S12 microcontrollers.rtmc9s12-Target is a MATLAB/Simulink block-set for real-time control on Freescale MC9S12 microcontrollers.,"Categories
+Robotics, Embedded Systems"
+Publish on Gallery is a plugin for Windows Live Photo Gallery (WLPG) that enables publishing to PHP Gallery (http://gallery.menalto.com). It currently supports publishing photos directly to Gallery2. Plans for supporting Gallery 3 are in early stages.Publish on Gallery is a plugin for Windows Live Photo Gallery (WLPG) that enables publishing to PHP Gallery (http://gallery.menalto.com). It currently supports publishing photos directly to Gallery2. Plans for supporting Gallery 3 are in early stages.,"Categories
+File Managers, Photo Management"
+Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.Blaze is an application launcher that distinguishes from amongst the others by being able to automate recurrent tasks performed in the file-system or even any application on Microsoft Windows.,"Categories
+Desktop Environment, Search, HMI"
+"Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. Platform-independent, it can retrieve data from both the IMDb's web server and a local copy of the whole db.Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. Platform-independent, it can retrieve data from both the IMDb's web server and a local copy of the whole db.","Categories
+Front-Ends, CGI Scripts, Software Development, Software Testing, Debuggers, QA Automation, Profiling, Logging"
+"Barrier is a software that works just like a KVM (keyboard, video and mouse) switch, which allows you to use a single mouse and keyboard to control several different computers by physically turning a dial on the box to switch the machine you're controlling at any given time. Barrier is able to do this in software, giving you control over different machines by simply moving your mouse to the edge of the screen, or by using a keypress to switch focus to a different system.
+
+Barrier was built to be simple and reliable, allowing you to control a different machine by simply using your mouse and keyboard from another. It works on all major operating systems (Linux, Windows, MacOS/OS X), including FreeBSD and OpenBSD.Barrier is a software that works just like a KVM (keyboard, video and mouse) switch, which allows you to use a single mouse and keyboard to control several different computers by physically turning a dial on the box to switch the machine you're controlling at any given time. Barrier is able to do this in software, giving you control over different machines by simply moving your mouse to the edge of the screen, or by using a keypress to switch focus to a different system.
+
+Barrier was built to be simple and reliable, allowing you to control a different machine by simply using your mouse and keyboard from another. It works on all major operating systems (Linux, Windows, MacOS/OS X), including FreeBSD and OpenBSD.","Categories
+Hardware, Hardware Drivers"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Animated Lockscreen styles
+Random Color
+Face Unlock
+SystemInfo in QS and as Tile
+Calculator, Camera, Calendar/Event, Dialer, Language tiles
+More Accent colors
+More Darkmodes
+More Fonts and styles
+More Lockscreen clock and date styles
+Optimize icons padding for notched devices
+Full ANX support
+Intelligent PerformanceProfiles integration
+QS Header/ System battery modes
+Lockscreen, Charging and AOD animations
+and much much much more","Categories
+ROMs"
+"Экспертная система для проверки легальности установленных на компьютере программ. Поддерживается три типа поиска: ручной, автоматический и медиа.
+Открытый исходный код гарантирует безопасность использования программы.
+Подробное описание: https://континентсвободы.рф/утилиты/система/licensechecker-легальность-программ.html
+
+Списки свободных программ для замены платных https://sourceforge.net/p/licensechecker/wiki/browse_pages/Экспертная система для проверки легальности установленных на компьютере программ. Поддерживается три типа поиска: ручной, автоматический и медиа.
+Открытый исходный код гарантирует безопасность использования программы.
+Подробное описание: https://континентсвободы.рф/утилиты/система/licensechecker-легальность-программ.html
+
+Списки свободных программ для замены платных https://sourceforge.net/p/licensechecker/wiki/browse_pages/","Categories
+Systems Administration"
+"All about RealMe C2 (RMX1941/1945)- Stock Firmware, ROM, Guides, MODs, NEWS, everything.
+
+SourceForge : https://sourceforge.net/projects/realme-c2/files/
+Group : https://t.me/RealmeC2Community
+Channel : https://t.me/realmec2updateAll about RealMe C2 (RMX1941/1945)- Stock Firmware, ROM, Guides, MODs, NEWS, everything.
+
+SourceForge : https://sourceforge.net/projects/realme-c2/files/
+Group : https://t.me/RealmeC2Community
+Channel : https://t.me/realmec2update","Categories
+ROMs"
+"We are the ViperOS team, an organized and Brazilian team that aims to jointly develop a clean and useful Android operational system. We value pure android, but it always looks more beautiful with more details, does not it? We offer a simple and easy menu for customization of your device, we value a clean and direct interface, putting in your device possibilities of customizations and a good experience. We offer useful resources for your day-to-day life. Updated every month with security patch according to Google. Our ROM offers a theme engine for you to customize to your liking, our philosophy is to deliver a stable ROM with useful features and we cherish a lightweight interface prioritizing performance and battery for your device.We are the ViperOS team, an organized and Brazilian team that aims to jointly develop a clean and useful Android operational system. We value pure android, but it always looks more beautiful with more details, does not it? We offer a simple and easy menu for customization of your device, we value a clean and direct interface, putting in your device possibilities of customizations and a good experience. We offer useful resources for your day-to-day life. Updated every month with security patch according to Google. Our ROM offers a theme engine for you to customize to your liking, our philosophy is to deliver a stable ROM with useful features and we cherish a lightweight interface prioritizing performance and battery for your device.","Categories
+ROMs"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.Features
+Smooth
+Unique
+Stable","Categories
+OS distribution"
+"O nome do projeto no sourceforge.net era apcupsd-brazil e mudou para apcctrl.
+
+Caso seu nobreak não seja da APC Brasil (como os modelos importados) utilize o projeto http://www.apcupsd.org/
+
+Esse projeto não é oficial da APC Brasil. É uma solução independente e de código aberto.
+
+Não deixe de ler a wiki do projeto. É fundamental para compilar e ter acesso a outras orientações.
+
+Modelos suportados:
+1) BACK-UPS BR 1200VA (BZ1200BI-BR e BZ1200-BR) *modelos com USB
+2) BACK-UPS BR 1500VA (BZ1500PBI-BR e BZ1500BI-BR)
+3) BACK-UPS BR 2200VA (BZ2200BI-BR e BZ2200I-BR)
+4) SMART-UPS BR 1000VA (SUA1000BI-BR e SOLIS1000BI)
+5) SMART-UPS BR 1500VA (SUA1500BI-BR e SOLIS1500BI)
+6) SMART-UPS BR 2000VA (SUA2000BI-BR)
+7) SMART-UPS BR 3000VA (SUA3000BI-BR)
+
+Para entrar em contato, utilize lo formulário no site http://www.apcctrl.com.brO nome do projeto no sourceforge.net era apcupsd-brazil e mudou para apcctrl.
+
+Caso seu nobreak não seja da APC Brasil (como os modelos importados) utilize o projeto http://www.apcupsd.org/
+
+Esse projeto não é oficial da APC Brasil. É uma solução independente e de código aberto.
+
+Não deixe de ler a wiki do projeto. É fundamental para compilar e ter acesso a outras orientações.
+
+Modelos suportados:
+1) BACK-UPS BR 1200VA (BZ1200BI-BR e BZ1200-BR) *modelos com USB
+2) BACK-UPS BR 1500VA (BZ1500PBI-BR e BZ1500BI-BR)
+3) BACK-UPS BR 2200VA (BZ2200BI-BR e BZ2200I-BR)
+4) SMART-UPS BR 1000VA (SUA1000BI-BR e SOLIS1000BI)
+5) SMART-UPS BR 1500VA (SUA1500BI-BR e SOLIS1500BI)
+6) SMART-UPS BR 2000VA (SUA2000BI-BR)
+7) SMART-UPS BR 3000VA (SUA3000BI-BR)
+
+Para entrar em contato, utilize lo formulário no site http://www.apcctrl.com.br","Categories
+Battery Monitoring"
+"This is a easy to use Mass-IP-Blocker/Blacklister Tool.
+Much more efficient than a Batch-Script.
+You can automatically block IP Addresses from a Online-IP-List, or just paste in your own IP's you want to block.This is a easy to use Mass-IP-Blocker/Blacklister Tool.
+Much more efficient than a Batch-Script.
+You can automatically block IP Addresses from a Online-IP-List, or just paste in your own IP's you want to block.","Categories
+Security, Networking, Firewall"
+Woof-CE 32-bit pae builds of Puppy Linux using Ubuntu components starting with Bionic Beaver (18.04) and subsequent versionsWoof-CE 32-bit pae builds of Puppy Linux using Ubuntu components starting with Bionic Beaver (18.04) and subsequent versions,"Categories
+Live CD"
+"Xfce Evolution is a linux/freebsd theme focused on providing a consistent look on the Xfce desktop for all standard GUI toolkits.
+
+Based on Ambiance:gtk2, Adwaita:gtk3, and Greybird:xfwm4
+Development and testing on Xubuntu 18.04 LTS
+
+LAST CHANGES
+=============
+Xfce Evolution development has been discontinued, the followup theme is 'Xfce ClassicLooks' maintained at http://classiclooks.sourceforge.netXfce Evolution is a linux/freebsd theme focused on providing a consistent look on the Xfce desktop for all standard GUI toolkits.
+
+Based on Ambiance:gtk2, Adwaita:gtk3, and Greybird:xfwm4
+Development and testing on Xubuntu 18.04 LTS
+
+LAST CHANGES
+=============
+Xfce Evolution development has been discontinued, the followup theme is 'Xfce ClassicLooks' maintained at http://classiclooks.sourceforge.net","Categories
+Desktop Environment, System Shells"
+"Tag folders and files (including multimedia) by dragging the tags on them, you can create tags of various shapes and colors for a more intuitive classification.
+
+Precise search possibilities, with various input fields, allowing to add all the necessary tags that you want. For example, in one field you can add the tags ‘cat' and 'white' and in another field you can add the tags 'dog' and 'brown', so the search result will return all white cats and brown dogs. You can also indicate that the folders where they are must have certain tags.
+
+Multimedia files preview in both explorer and searcher results cards. The cover images of epubs also are shown.
+
+For images both system's default image viewer and program's new internal viewer can be launched alternatively.
+
+Usual file management actions by dragging and dropping or pressing buttons; copy, move, delete, rename. And undo button.
+
+It's possible to export/import the tagging data to a file, so data is available in any computer.Tag folders and files (including multimedia) by dragging the tags on them, you can create tags of various shapes and colors for a more intuitive classification.
+
+Precise search possibilities, with various input fields, allowing to add all the necessary tags that you want. For example, in one field you can add the tags ‘cat' and 'white' and in another field you can add the tags 'dog' and 'brown', so the search result will return all white cats and brown dogs. You can also indicate that the folders where they are must have certain tags.
+
+Multimedia files preview in both explorer and searcher results cards. The cover images of epubs also are shown.
+
+For images both system's default image viewer and program's new internal viewer can be launched alternatively.
+
+Usual file management actions by dragging and dropping or pressing buttons; copy, move, delete, rename. And undo button.
+
+It's possible to export/import the tagging data to a file, so data is available in any computer.","Categories
+File Managers, Photo Management, Cataloguing"
+"Bobuntu V2.0 LIVE
+
+* Based off Lubuntu Linux 16.04.4
+
+* LIVE Desktop Application
+
+* Custom Theme & Wallpaper
+
+* Very lightweight & easy to use
+
+* Designed for media creation, general home
+use, gaming & live streaming
+
+* Installed Programs
+
+UFW - Firewall installed and enabled out the
+box
+Easy software updater & software centre
+OBS - Studio for video recording/streaming
+Gimp - for photo/graphic work
+AbiWord/Gnumeric - word
+processor/spreadsheet
+Google Chrome - web browser
+Spotify Client - music streaming
+VLC - media playback
+Pulse Audio - sound control
+Pidgin - instant messenger
+Slypheed - email client
+Transmission - bittorrent client
+guvcview - webcam software
+Xfburn - cd/dvd creation software
+Bleachbit - file cleaning software
+Systemback - Backup software
+Steam - Game Client
+Gnome-Boxes - Virtualisation
+uGet - Download Manager
+LIVE SupportBobuntu V2.0 LIVE
+
+* Based off Lubuntu Linux 16.04.4
+
+* LIVE Desktop Application
+
+* Custom Theme & Wallpaper
+
+* Very lightweight & easy to use
+
+* Designed for media creation, general home
+use, gaming & live streaming
+
+* Installed Programs
+
+UFW - Firewall installed and enabled out the
+box
+Easy software updater & software centre
+OBS - Studio for video recording/streaming
+Gimp - for photo/graphic work
+AbiWord/Gnumeric - word
+processor/spreadsheet
+Google Chrome - web browser
+Spotify Client - music streaming
+VLC - media playback
+Pulse Audio - sound control
+Pidgin - instant messenger
+Slypheed - email client
+Transmission - bittorrent client
+guvcview - webcam software
+Xfburn - cd/dvd creation software
+Bleachbit - file cleaning software
+Systemback - Backup software
+Steam - Game Client
+Gnome-Boxes - Virtualisation
+uGet - Download Manager
+LIVE Support","Categories
+Download Managers"
+"Linux System Optimizer and Monitoring
+
+Github Repository: https://github.com/oguzhaninan/StacerLinux System Optimizer and Monitoring
+
+Github Repository: https://github.com/oguzhaninan/Stacer","Categories
+System"
+"Ping Monster is a freeware ping monitoring tool that comes with some alert actions including email and sound alerts and HTTP post.
+
+Version 1.9Ping Monster is a freeware ping monitoring tool that comes with some alert actions including email and sound alerts and HTTP post.
+
+Version 1.9","Categories
+Monitoring"
+Empty Directories Finder expires empty directories and allows you to conveniently select the required directories before deleting. New version available. Improved user interface.Empty Directories Finder expires empty directories and allows you to conveniently select the required directories before deleting. New version available. Improved user interface.,"Categories
+System, Search"
+"This will change life of your laptop's battery
+This app will notify the user to remove the charger when his battery will be fully charged or is about to die.
+
+Obviously you have to setup the minimum and maximum threshold of battery level.
+
+you can enable or disable the app by clicking on on/off switch on main window.
+
+before this i had made very simple gui for this app so many users message me for gui,
+due to my workload i have not much time so i finished this little late sorry for incovenience
+i tried to do my best now its your turn to provide me feedback
+
+
+
+it is very light weight app ,
+it require only first time run, following times it will start automatically on windows startup
+project Hosted On Github
+https://github.com/daudmalik06/Battery-Saver
+
+feel free to contact us
+please send us bug reports so we can make it better for you
+comment it if you like
+p.s english isn't my first language sorry for any typo or mistakeThis will change life of your laptop's battery
+This app will notify the user to remove the charger when his battery will be fully charged or is about to die.
+
+Obviously you have to setup the minimum and maximum threshold of battery level.
+
+you can enable or disable the app by clicking on on/off switch on main window.
+
+before this i had made very simple gui for this app so many users message me for gui,
+due to my workload i have not much time so i finished this little late sorry for incovenience
+i tried to do my best now its your turn to provide me feedback
+
+
+
+it is very light weight app ,
+it require only first time run, following times it will start automatically on windows startup
+project Hosted On Github
+https://github.com/daudmalik06/Battery-Saver
+
+feel free to contact us
+please send us bug reports so we can make it better for you
+comment it if you like
+p.s english isn't my first language sorry for any typo or mistake","Categories
+System, Software Distribution"
+"Nitrux is a Linux desktop distribution directly based on Debian. It uses the Calamares installer and includes NX Desktop and NX Firewall on the KDE Plasma 5 desktop environment and KDE Applications. Nitrux emphasizes the use of AppImages to manage end-user software. Nitrux also does not use systemD as its init system; instead, it uses OpenRC.
+
+Nitrux includes a suite of convergent applications called Maui Apps. We use MauiKit, our convergent, cross-platform UI framework, to create these applications. Both MauiKit and the Maui Apps are entirely free and open-source software.
+
+In addition to this, we include a curated selection of free and open-source software by default; we don’t add proprietary software. And for those looking for a 100% free (as in freedom) operating system, the optional Linux Libre kernel is available to install.
+
+Nitrux is always up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers.Nitrux is a Linux desktop distribution directly based on Debian. It uses the Calamares installer and includes NX Desktop and NX Firewall on the KDE Plasma 5 desktop environment and KDE Applications. Nitrux emphasizes the use of AppImages to manage end-user software. Nitrux also does not use systemD as its init system; instead, it uses OpenRC.
+
+Nitrux includes a suite of convergent applications called Maui Apps. We use MauiKit, our convergent, cross-platform UI framework, to create these applications. Both MauiKit and the Maui Apps are entirely free and open-source software.
+
+In addition to this, we include a curated selection of free and open-source software by default; we don’t add proprietary software. And for those looking for a 100% free (as in freedom) operating system, the optional Linux Libre kernel is available to install.
+
+Nitrux is always up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers.","Categories
+OS distribution, Live CD"
+"V2 Beta Features: (Release on 18/07/2016)
+- Apply to Google Domain Dynamic DNS (DDNS) services
+- Support to update 3 domains as the same time
+- Provide 2 servers to get the external IP address
+- Auto update in specified minutes (Max:10000 Mins)
+- Able to minimize to system tray
+- Able to Save or Load the settings
+- Able to Save Log as txt file
+
+Changes between V1.0.0.0 (Released on 18/07/2016) and V2 Beta
+- Supported number of domain from 1 domain increase to 3 domains
+- Update and add one more servers for getting the external IP address
+- Open the settings for user to specified the interval of auto update
+- Fix the minimize to system tray function
+- More details log
+- Add save log as txt file function
+
+About Google Domain:
+http://goo.gl/2TVxAl
+
+About Google Domain Dynamic DNS (DDNS) services:
+http://goo.gl/HToaIx
+
+Google Domains Help Center:
+http://goo.gl/mOrq2p
+
+For any suggestion or bug report, please leave message to the blog or email to nylryan@gmail.comV2 Beta Features: (Release on 18/07/2016)
+- Apply to Google Domain Dynamic DNS (DDNS) services
+- Support to update 3 domains as the same time
+- Provide 2 servers to get the external IP address
+- Auto update in specified minutes (Max:10000 Mins)
+- Able to minimize to system tray
+- Able to Save or Load the settings
+- Able to Save Log as txt file
+
+Changes between V1.0.0.0 (Released on 18/07/2016) and V2 Beta
+- Supported number of domain from 1 domain increase to 3 domains
+- Update and add one more servers for getting the external IP address
+- Open the settings for user to specified the interval of auto update
+- Fix the minimize to system tray function
+- More details log
+- Add save log as txt file function
+
+About Google Domain:
+http://goo.gl/2TVxAl
+
+About Google Domain Dynamic DNS (DDNS) services:
+http://goo.gl/HToaIx
+
+Google Domains Help Center:
+http://goo.gl/mOrq2p
+
+For any suggestion or bug report, please leave message to the blog or email to nylryan@gmail.com","Categories
+DNS, File Sync, Router"

@@ -1,0 +1,766 @@
+Description,Category
+"Bonsole is a set of tool (Web Browser, client library) to allow writing rich console applications. It uses xslt2 and xml2 libraries to allow of creating semantic output, (xml) which is parsed by xslt to create html/xml file to be parsed by browser, or which is parsed by xslt to create text output with escape sequences.Bonsole is a set of tool (Web Browser, client library) to allow writing rich console applications. It uses xslt2 and xml2 libraries to allow of creating semantic output, (xml) which is parsed by xslt to create html/xml file to be parsed by browser, or which is parsed by xslt to create text output with escape sequences.","Categories
+Terminals, Terminal Emulators"
+"- - - 𝑫𝒆𝒇𝑳𝒂𝒏𝒈,𝑽𝒆𝒓𝒚 𝑺𝒊𝒎𝒑𝒍𝒆,𝑽𝒆𝒓𝒚 𝑬𝒍𝒆𝒈𝒂𝒏𝒕 - - -
+This is DefLang.
+It’s work on NodeJS.
+News : I added DefLang to Package.
+Type “npm install deflang”!
+Please Upvote this! : https://repl.it/language-requests/p/deflang
+This Language need some package.
+Please install package by go deflang directory and type “npm install”
+Latest Version : 3.5.0 (deflang350.zip)
+(deflapp.exe for Linux Users,it’s can run by “./DefLang [filename]”)- - - 𝑫𝒆𝒇𝑳𝒂𝒏𝒈,𝑽𝒆𝒓𝒚 𝑺𝒊𝒎𝒑𝒍𝒆,𝑽𝒆𝒓𝒚 𝑬𝒍𝒆𝒈𝒂𝒏𝒕 - - -
+This is DefLang.
+It’s work on NodeJS.
+News : I added DefLang to Package.
+Type “npm install deflang”!
+Please Upvote this! : https://repl.it/language-requests/p/deflang
+This Language need some package.
+Please install package by go deflang directory and type “npm install”
+Latest Version : 3.5.0 (deflang350.zip)
+(deflapp.exe for Linux Users,it’s can run by “./DefLang [filename]”)","Categories
+Terminals, Office/Business, Languages"
+"This should be the best COM tools you ever used. A modern UI and powerful functions that gives you best understand of you serial port data.
+这可能是最好的串口助手软件。现代化的外观设计和强大的功能设置会帮助你更好的理解你的串口日志。
+
+Please select the right file to fit your system, comNG support Windows, Mac OS and Debian based linux distributions.
+请选择正确的安装文件，comNG支持Windows， Mac 和 基于Debian的Linux系统（包括Deepin 20，我自己试过了）。
+
+For details please refer to github repo: https://github.com/xenkuo/comNG
+需要了解详细用法请访问 gitee 页面： https://gitee.com/xenkuo/comNG
+
+However the best doc is located at: https://xenkuo.github.io/
+不过最完整的介绍是在： https://xenkuo.github.io/This should be the best COM tools you ever used. A modern UI and powerful functions that gives you best understand of you serial port data.
+这可能是最好的串口助手软件。现代化的外观设计和强大的功能设置会帮助你更好的理解你的串口日志。
+
+Please select the right file to fit your system, comNG support Windows, Mac OS and Debian based linux distributions.
+请选择正确的安装文件，comNG支持Windows， Mac 和 基于Debian的Linux系统（包括Deepin 20，我自己试过了）。
+
+For details please refer to github repo: https://github.com/xenkuo/comNG
+需要了解详细用法请访问 gitee 页面： https://gitee.com/xenkuo/comNG
+
+However the best doc is located at: https://xenkuo.github.io/
+不过最完整的介绍是在： https://xenkuo.github.io/","Categories
+Serial"
+"COM Serial Terminal
+Linux-Ubuntu x64 VersionCOM Serial Terminal
+Linux-Ubuntu x64 Version","Categories
+Serial, Hardware Drivers, Embedded Systems"
+"LCXterm is a ncurses-based terminal emulator that brings additional conveniences to the raw Linux console and other terminals. LCXterm can: enable GPM mouse to work through a network connection; speed up the console significantly; provide a long and persistent scrollback; transfer files via Xmodem, Ymodem, Zmodem, and Kermit; provide user-defined function key macros; and many more.LCXterm is a ncurses-based terminal emulator that brings additional conveniences to the raw Linux console and other terminals. LCXterm can: enable GPM mouse to work through a network connection; speed up the console significantly; provide a long and persistent scrollback; transfer files via Xmodem, Ymodem, Zmodem, and Kermit; provide user-defined function key macros; and many more.","Categories
+Terminals, Terminal Emulators, Other file transfer protocol"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.Features
+Fully featured.
+Compatible with Arduino.","Categories
+Serial"
+"PROJECT MOVED TO: https://github.com/damogranlabs/serial-tool
+See releases page: https://github.com/damogranlabs/serial-tool/releases
+
+
+Serial Tool is a utility for developing serial communications, custom protocols or device testing. You can set up bytes to send accordingly to your protocol and save configuration to a file – which can be used another time.
+You can send multiple byte arrays, you can send sequence of different byte arrays and put delay between them. You can read data in HEX or ASCII. You can even write a note to yourself like: “CH1: toggle LED 1”.PROJECT MOVED TO: https://github.com/damogranlabs/serial-tool
+See releases page: https://github.com/damogranlabs/serial-tool/releases
+
+
+Serial Tool is a utility for developing serial communications, custom protocols or device testing. You can set up bytes to send accordingly to your protocol and save configuration to a file – which can be used another time.
+You can send multiple byte arrays, you can send sequence of different byte arrays and put delay between them. You can read data in HEX or ASCII. You can even write a note to yourself like: “CH1: toggle LED 1”.","Categories
+Serial, Communications"
+"A small, simple terminal program capable of detecting packet delimiting silent period.
+This is just something for refresh on Win32 programming for me, and will be part of a bigger project in the future.A small, simple terminal program capable of detecting packet delimiting silent period.
+This is just something for refresh on Win32 programming for me, and will be part of a bigger project in the future.","Categories
+Serial"
+"Full Telnet ANSI terminal for 8-bit Commodore GEOS (and compatible operating systems) with C64Net WiFi Modems:
+See README for details.Full Telnet ANSI terminal for 8-bit Commodore GEOS (and compatible operating systems) with C64Net WiFi Modems:
+See README for details.","Categories
+Telnet"
+"Input : non blocking keyboard handling.
+Output : clean console, print at x,y coordinates, echo on/off, cursor on/off.
+
+Developed for learning game programming and MVC.
+
+Uses native code through JNI. Provides windows and linux versions. Includes code:blocks and eclipse projects for native and java code.
+
+You can use the classes InputProxy and OutpoutProxy in your projects. For usage examples, see their main() methods.Input : non blocking keyboard handling.
+Output : clean console, print at x,y coordinates, echo on/off, cursor on/off.
+
+Developed for learning game programming and MVC.
+
+Uses native code through JNI. Provides windows and linux versions. Includes code:blocks and eclipse projects for native and java code.
+
+You can use the classes InputProxy and OutpoutProxy in your projects. For usage examples, see their main() methods.","Categories
+Terminals, Console Games, Libraries"
+"NOTE: This project's source code is hosted at GitLab. View the source code here:
+https://gitlab.com/jessieh/eopkg-fish-completions
+
+This .fish file provides full completion definitions with descriptions for the eopkg package manager. It includes context-sensitive option completion and package name caching for both installed and remotely available packages.
+
+The cache files are built from system metadata files that are maintained by eopkg, so caching is highly performant.NOTE: This project's source code is hosted at GitLab. View the source code here:
+https://gitlab.com/jessieh/eopkg-fish-completions
+
+This .fish file provides full completion definitions with descriptions for the eopkg package manager. It includes context-sensitive option completion and package name caching for both installed and remotely available packages.
+
+The cache files are built from system metadata files that are maintained by eopkg, so caching is highly performant.","Categories
+Terminals, System Shells"
+"2.2.1:
+• Bug fixing VPN
+Make your Raspberry Pi 3, Pi 4 or a Ubuntu PC to a thin client system. xtc is easy to install and easy to configure. Connect to your server with RDP, VNC, XDMCP, X2GO or ssh. Make a connection to a server with VPN. Support for Raspberry Pi 400 and Pi 4 case oneninedesign and case Argon ONE with power switch.
+
+Download: https://vmfree.org/xtc/xtcen.html2.2.1:
+• Bug fixing VPN
+Make your Raspberry Pi 3, Pi 4 or a Ubuntu PC to a thin client system. xtc is easy to install and easy to configure. Connect to your server with RDP, VNC, XDMCP, X2GO or ssh. Make a connection to a server with VPN. Support for Raspberry Pi 400 and Pi 4 case oneninedesign and case Argon ONE with power switch.
+
+Download: https://vmfree.org/xtc/xtcen.html","Categories
+Terminal Emulators, Office/Business"
+"Uart32 is a C++ wrapper around the win32 Serial Port API that allows blocking-mode access to the COM port. This library works great for accessing a UART serial port from a background worker thread. It features: a simple c++ class. (temporarily removed for maintainance. Use DLL API Instead)
+built in per access timeout on data receive.
+a C-API wrapper that is exportable to
+C# DLL import classUart32 is a C++ wrapper around the win32 Serial Port API that allows blocking-mode access to the COM port. This library works great for accessing a UART serial port from a background worker thread. It features: a simple c++ class. (temporarily removed for maintainance. Use DLL API Instead)
+built in per access timeout on data receive.
+a C-API wrapper that is exportable to
+C# DLL import class","Categories
+Serial, Hardware Drivers, Libraries"
+讓你可以暢遊 Ptt.cc !讓你可以暢遊 Ptt.cc !,"Categories
+Telnet, BBS"
+..,"Categories
+Terminals"
+"Conjunto de scripts de configuração que existiam no antigo sistema derivado do Knoppix e do Debian chamado Kurumin.
+
+No conjunto encontram-se scripts para BASH, algo em Perl e Python, também algo para SED e possivelmente AWK pode ser usado internamente.
+
+Também há as interfaces de controle projetadas para funcionar em KDE.Conjunto de scripts de configuração que existiam no antigo sistema derivado do Knoppix e do Debian chamado Kurumin.
+
+No conjunto encontram-se scripts para BASH, algo em Perl e Python, também algo para SED e possivelmente AWK pode ser usado internamente.
+
+Também há as interfaces de controle projetadas para funcionar em KDE.","Categories
+Terminals, Software Development, System Shells"
+"Note: Update folder is for beta pre-1.0.0 updates only, to download download the entire repository from gitlab.Note: Update folder is for beta pre-1.0.0 updates only, to download download the entire repository from gitlab.","Categories
+Terminals"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+Terminals"
+"Send serial commands to your project from any device with a headphone jack that supports HTML5 and JavaScript. Does potentially require a few components to be added to your project. Designed for reliable results by default, but allows many adjustments. Uses 9600 8N1 by default. The baud rate is easily changed. The library is heavily commented to assist with any tweaking you want to do.
+
+For schematics of how to connect to your MCU/MPU, see http://www.robots-everywhere.com/re_wiki/pub/web/Cookbook.AudioSerial.html
+
+To add this library to your webpage, include this.
+<script src='https://audioserial.sourceforge.io/serial-1.0.js'></script> or
+<script src='http://audioserial.sourceforge.io/serial-1.0.js'></script>
+
+To see a working demo, click here.
+http://audioserial.sourceforge.io/serialdemo.htmlSend serial commands to your project from any device with a headphone jack that supports HTML5 and JavaScript. Does potentially require a few components to be added to your project. Designed for reliable results by default, but allows many adjustments. Uses 9600 8N1 by default. The baud rate is easily changed. The library is heavily commented to assist with any tweaking you want to do.
+
+For schematics of how to connect to your MCU/MPU, see http://www.robots-everywhere.com/re_wiki/pub/web/Cookbook.AudioSerial.html
+
+To add this library to your webpage, include this.
+<script src='https://audioserial.sourceforge.io/serial-1.0.js'></script> or
+<script src='http://audioserial.sourceforge.io/serial-1.0.js'></script>
+
+To see a working demo, click here.
+http://audioserial.sourceforge.io/serialdemo.html","Categories
+Serial, Communications"
+"Designed for data-logging applications (weather, hydroponics, greenhouses, aquariums, home automation, power consumpion, solar or wind generators etc.), this solution can be useful also in alarms and burglar.
+Now you can develop MySQL and web enabled Arduino applications only working on Arduino and PHP.
+To keep ligth the Arduino Sketch, you can port all not realtime logic to PHP side.
+At the end your application will works on XQ+Arduino UNO even 24/7 with only 20 Watt AC power, and can be controlled by smartphone via WiFi or from Internet using some free dynamic IP.
+What more?
+Enjoy.
+
+Sources in github https://github.com/msillano/USBphpTunnel
+
+Preconditions:
+MXQ + Palapa Web server, Arduino UNO
+
+Install:
+- Download USBphpTunnel11_d.apk and the full test_files dir
+- See file /test_files/readme.txtDesigned for data-logging applications (weather, hydroponics, greenhouses, aquariums, home automation, power consumpion, solar or wind generators etc.), this solution can be useful also in alarms and burglar.
+Now you can develop MySQL and web enabled Arduino applications only working on Arduino and PHP.
+To keep ligth the Arduino Sketch, you can port all not realtime logic to PHP side.
+At the end your application will works on XQ+Arduino UNO even 24/7 with only 20 Watt AC power, and can be controlled by smartphone via WiFi or from Internet using some free dynamic IP.
+What more?
+Enjoy.
+
+Sources in github https://github.com/msillano/USBphpTunnel
+
+Preconditions:
+MXQ + Palapa Web server, Arduino UNO
+
+Install:
+- Download USBphpTunnel11_d.apk and the full test_files dir
+- See file /test_files/readme.txt","Categories
+Serial, Hardware Drivers, Interface Engine/Protocol Translator"
+Jexer is an open-source Text User Interface (TUI) designed to outwardly resemble the Turbo Vision library used by various Borland products.Jexer is an open-source Text User Interface (TUI) designed to outwardly resemble the Turbo Vision library used by various Borland products.,"Categories
+Integrated Development Environments (IDE), Terminal Emulators, User Interface (UI)"
+"Генератор ISO-образов операционной системы, которая основывается на базе Linux и позволяет подключаться к:
+
+* Терминальному серверу Windows Server (RDP сервер)
+* VNC серверу
+* SSH, Telnet серверу
+* и другим
+
+При наличии настроенного терминального сервера (RDP, VNC, SSH, ...) с помощью программы ThinStation ISO-Image Generator можно всего за несколько минут сформировать образ операционной системы готовой к запуску с CD диска.
+Записав полученный образ на диск практически любой компьютер можно превратить в рабочую станцию - терминальный клиент.Генератор ISO-образов операционной системы, которая основывается на базе Linux и позволяет подключаться к:
+
+* Терминальному серверу Windows Server (RDP сервер)
+* VNC серверу
+* SSH, Telnet серверу
+* и другим
+
+При наличии настроенного терминального сервера (RDP, VNC, SSH, ...) с помощью программы ThinStation ISO-Image Generator можно всего за несколько минут сформировать образ операционной системы готовой к запуску с CD диска.
+Записав полученный образ на диск практически любой компьютер можно превратить в рабочую станцию - терминальный клиент.","Categories
+Terminals"
+"Tool is used for development and maintenance SW that has a trace mechanism (e.g. serial port or standard IO console).
+xTracer supports macros and extensions through custom plugins to work with specific protocols, such as CAN and other.Tool is used for development and maintenance SW that has a trace mechanism (e.g. serial port or standard IO console).
+xTracer supports macros and extensions through custom plugins to work with specific protocols, such as CAN and other.","Categories
+Serial"
+"one-file (1f) project is a collection of utilities and tools primarily written for console use, with text output, or using SDL 1.2 for framebuffer ""gui stuff"".
+
+When individually compiled, the source is appended, either as TEXT, or ZIP, to the resulting binary. That source contains command line options to extract that source, as well as the command line used to compile said source.
+
+There are no hard and fast rules, except ""name-1f"", must append source, and source must contain compile time command, and any ""depends"" info.
+
+one-file (1f) is based on an original idea implemented in the late 1990's Windows app SpASM32, a self editing & self compiling 32bit windows assembler, that attached its source to itself, or a programs source code to the resulting programs compiled binary.
+
+Either download all sources in the zip, or get the individual source files from the project homepage.
+
+SDL coding is not bound to any windowing system.one-file (1f) project is a collection of utilities and tools primarily written for console use, with text output, or using SDL 1.2 for framebuffer ""gui stuff"".
+
+When individually compiled, the source is appended, either as TEXT, or ZIP, to the resulting binary. That source contains command line options to extract that source, as well as the command line used to compile said source.
+
+There are no hard and fast rules, except ""name-1f"", must append source, and source must contain compile time command, and any ""depends"" info.
+
+one-file (1f) is based on an original idea implemented in the late 1990's Windows app SpASM32, a self editing & self compiling 32bit windows assembler, that attached its source to itself, or a programs source code to the resulting programs compiled binary.
+
+Either download all sources in the zip, or get the individual source files from the project homepage.
+
+SDL coding is not bound to any windowing system.","Categories
+Terminals, Software Distribution, Systems Administration"
+"Pysole is a graphical console simulation pygame wrapper or in simpler terms, Pysole uses pygame to simulate a text interface, such as Windows powershell or the Linux Console. Initially Pysole was built to emulate .NET Console Applications with their dynamic text and background colouring. However, .NET Console Applications, without the support of mono cannot run on operating systems other then windows. Pysole can run on any os that python and pygame can.Pysole is a graphical console simulation pygame wrapper or in simpler terms, Pysole uses pygame to simulate a text interface, such as Windows powershell or the Linux Console. Initially Pysole was built to emulate .NET Console Applications with their dynamic text and background colouring. However, .NET Console Applications, without the support of mono cannot run on operating systems other then windows. Pysole can run on any os that python and pygame can.","Categories
+Terminals, Terminal Emulators, Libraries"
+"compile the lone C programme
+get a new command that take a transliteration as parameter and print a bannercompile the lone C programme
+get a new command that take a transliteration as parameter and print a banner","Categories
+Text Editors, Terminals"
+"display information from speedpot 724 alias speedport.ip
+
+EXE & SourceCode included. Use r.bat to make your own exe ....display information from speedpot 724 alias speedport.ip
+
+EXE & SourceCode included. Use r.bat to make your own exe ....","Categories
+Terminals, Communications, Dynamic Content"
+"Ampare Read Books Records is a console software written in python that automatically track which book already read , how many page , status , progress , delete and more.
+
+Coming to Launchpad PPA soon . Need some helpAmpare Read Books Records is a console software written in python that automatically track which book already read , how many page , status , progress , delete and more.
+
+Coming to Launchpad PPA soon . Need some help","Categories
+Terminal Emulators, Library, Business Intelligence"
+"Control Master Beta v 1.0 (Control Panel) Designed to Control all the Internal Activity of the Operating system and/or to boost and keep the stability of the PC.It can also be used to find out or Detect the bugs in the system/Can Generate the Error Logs for the System or Apps that are being crashed on any Interval of time
+Not just this much but it can also be used to control high data traffic for you if you have a new website running by your side (By Combining the tools that can connect various Hard Drives and big Databases over the system)
+
+Moreover it the be used as an advanced but simple Control Panel for your device that can Intrude into your system very deeply as it combines all the Control switches and Control Panel options of the Windows Operating System
+It also has the stability for all versions of windows whether it be 32 bit or 64 bit
+
+It is going to be Eventually more efficient in the coming future as far as the development goes on and on
+Programmed by
+©Amish HackerControl Master Beta v 1.0 (Control Panel) Designed to Control all the Internal Activity of the Operating system and/or to boost and keep the stability of the PC.It can also be used to find out or Detect the bugs in the system/Can Generate the Error Logs for the System or Apps that are being crashed on any Interval of time
+Not just this much but it can also be used to control high data traffic for you if you have a new website running by your side (By Combining the tools that can connect various Hard Drives and big Databases over the system)
+
+Moreover it the be used as an advanced but simple Control Panel for your device that can Intrude into your system very deeply as it combines all the Control switches and Control Panel options of the Windows Operating System
+It also has the stability for all versions of windows whether it be 32 bit or 64 bit
+
+It is going to be Eventually more efficient in the coming future as far as the development goes on and on
+Programmed by
+©Amish Hacker","Categories
+Terminals"
+"""alefa"" is a command line utility that allows to control the launch and execution of other programs.
+
+""alefa"" means ""run"", ""go"", ""launch"" or ""execute"" in malagasy language.
+
+It is often useful to write (more or less) simple scripts to rerun some commands until they ""succeed"", or to launch other commands indefinitely. There are numerous common use cases.
+
+Such things should be easily automated so that we can do other tasks without being distracted and without having to restart such frustrating commands ourselves by hand: without creating scripts!
+
+""alefa"" fixes that. I decided to create it a day that I was tired of creating, modifying and adapting such scripts to make yet simple and routine tasks.
+
+""alefa"" returns command or application's last ExitCode, so you could do something depending of the result.""alefa"" is a command line utility that allows to control the launch and execution of other programs.
+
+""alefa"" means ""run"", ""go"", ""launch"" or ""execute"" in malagasy language.
+
+It is often useful to write (more or less) simple scripts to rerun some commands until they ""succeed"", or to launch other commands indefinitely. There are numerous common use cases.
+
+Such things should be easily automated so that we can do other tasks without being distracted and without having to restart such frustrating commands ourselves by hand: without creating scripts!
+
+""alefa"" fixes that. I decided to create it a day that I was tired of creating, modifying and adapting such scripts to make yet simple and routine tasks.
+
+""alefa"" returns command or application's last ExitCode, so you could do something depending of the result.","Categories
+Terminals, System, Cron and Job Scheduler"
+"A smart and easy way to manage SSH and SFTP connections for test and production environments.
+
+The project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.A smart and easy way to manage SSH and SFTP connections for test and production environments.
+
+The project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.","Categories
+Terminals, Networking, SSH"
+Efficient use of the Linux command line in the Bash shellEfficient use of the Linux command line in the Bash shell,"Categories
+Terminals, User Interface (UI), System Shells"
+"View Sixel formatted images on a Windows platform without needing a DEC VT emulator. Convert Sixel formatted images into BMP format. Save as BMP and print Sixel image capability. Supports both RGB and HLS formatted Sixel images with up to the full 256 color specification. Supports up to and including Windows 11. Included are many new and old and free Sixel images.
+
+If you have sixel images you would like to contribute e-mail me.
+
+Version 1.2.7 released 11/09/2022 various minor improvements, several images added to files - Sixel_PicsView Sixel formatted images on a Windows platform without needing a DEC VT emulator. Convert Sixel formatted images into BMP format. Save as BMP and print Sixel image capability. Supports both RGB and HLS formatted Sixel images with up to the full 256 color specification. Supports up to and including Windows 11. Included are many new and old and free Sixel images.
+
+If you have sixel images you would like to contribute e-mail me.
+
+Version 1.2.7 released 11/09/2022 various minor improvements, several images added to files - Sixel_Pics","Categories
+Data Formats, Terminals, Image Viewers"
+Find installed Slackware packages.// Busca y muestra paquete/s instalado/s en Slackware GNU/Linux.Find installed Slackware packages.// Busca y muestra paquete/s instalado/s en Slackware GNU/Linux.,"Categories
+Terminals, Systems Administration"
+"Sredird is a serial port redirector that is compliant with the RFC 2217 ""Telnet Com Port Control Option"" protocol. This protocol lets you share a serial port through the network. RFC 2217 was orginally implemented in Cisco Terminal Servers in IOS version 11.x.Sredird is a serial port redirector that is compliant with the RFC 2217 ""Telnet Com Port Control Option"" protocol. This protocol lets you share a serial port through the network. RFC 2217 was orginally implemented in Cisco Terminal Servers in IOS version 11.x.","Categories
+Serial, Telnet"
+"Change From Visual Basic to Bat file to fix False Positive Detection Error
+
+This Software will use the old shutdown method of Windows that allow you to completely shutdown your pc . No hibernation or Fast Startup.
+
+Allow you to recovery file , Installing Dual Boot Linux and even more with just a click of this simple tools
+
+
+Donate us : http://www.juthawong.com/donateChange From Visual Basic to Bat file to fix False Positive Detection Error
+
+This Software will use the old shutdown method of Windows that allow you to completely shutdown your pc . No hibernation or Fast Startup.
+
+Allow you to recovery file , Installing Dual Boot Linux and even more with just a click of this simple tools
+
+
+Donate us : http://www.juthawong.com/donate","Categories
+Terminal Emulators, System Shells, Business Intelligence"
+"JSK - Free Cross-Platform Java System Konsole - same as Windows ""cmd"", or Linux ""terminal/console"" - KDE Konsole and Gnome-Terminal, or xterm/rxvt. Need JRE 1.8. 100%-pure Java.JSK - Free Cross-Platform Java System Konsole - same as Windows ""cmd"", or Linux ""terminal/console"" - KDE Konsole and Gnome-Terminal, or xterm/rxvt. Need JRE 1.8. 100%-pure Java.","Categories
+Terminals, System Shells, Systems Administration"
+"VMath is a free math console.
+Currently the project is work only with Windows. For other OS please download Wine.VMath is a free math console.
+Currently the project is work only with Windows. For other OS please download Wine.","Categories
+Terminals, Algorithms, Education"
+"PySide QtSerialPort
+Binding
+Shiboken
+LGPL3
+
+QtSerialPort is officially part of Qt (http://www.qt.io).
+info link:
+http://wiki.qt.io/QtSerialPortPySide QtSerialPort
+Binding
+Shiboken
+LGPL3
+
+QtSerialPort is officially part of Qt (http://www.qt.io).
+info link:
+http://wiki.qt.io/QtSerialPort","Categories
+Serial, System, Libraries"
+"The goal of this project is to provide a minimal X Window System which will run out of the box on any Windows 7+ system. To realize this, I take a suitable installation package from the project VcXsrv Windows X Server (see https://sourceforge.net/projects/vcxsrv/), install it, remove all files that aren't needed for basic functionality and archive it to a .zip file.
+
+Portable X-Server also integrates seamlessly into WinSSHTerm, a tabbed SSH solution for Windows:
+http://www.winsshterm.netThe goal of this project is to provide a minimal X Window System which will run out of the box on any Windows 7+ system. To realize this, I take a suitable installation package from the project VcXsrv Windows X Server (see https://sourceforge.net/projects/vcxsrv/), install it, remove all files that aren't needed for basic functionality and archive it to a .zip file.
+
+Portable X-Server also integrates seamlessly into WinSSHTerm, a tabbed SSH solution for Windows:
+http://www.winsshterm.net","Categories
+Terminal Emulators"
+"A BASH, SH and KSH (and maybe others) initialisation framework that enables your shell environment to handle logging on to different sites & operating systems and configure your environment and the different software installed at different sites etc.A BASH, SH and KSH (and maybe others) initialisation framework that enables your shell environment to handle logging on to different sites & operating systems and configure your environment and the different software installed at different sites etc.","Categories
+Terminals, Desktop Environment, System Shells"
+"Gerenciador de conexões SSH, RDP e SQL*Plus (Oracle).
+
+Os dados das conexões são armazenados no MySQL, e o shell gerencia as mesmas, para se conectar com servidores via SSH é chamado o openssh, para conectar com servidores Windows via RDP, é chamado o rdesktop e para se conectar com o banco de dados Oracle é chamado sqlplus.Gerenciador de conexões SSH, RDP e SQL*Plus (Oracle).
+
+Os dados das conexões são armazenados no MySQL, e o shell gerencia as mesmas, para se conectar com servidores via SSH é chamado o openssh, para conectar com servidores Windows via RDP, é chamado o rdesktop e para se conectar com o banco de dados Oracle é chamado sqlplus.","Categories
+Terminals, System Shells, SSH"
+"A DIY gadget that creates an isolated micro environment to grow any kind of plant using minimal space.
+
+Check the Wiki for more info:
+https://sourceforge.net/p/fumenbot/wiki/Home
+
+FumenBot v0.71
+https://sourceforge.net/p/fumenbot/code
+Electronics based on Arduino (at328p), firmware wrote in C, working but still WIP.
+
+FumenBot v0.6
+https://sourceforge.net/p/fumenbot/v0.6
+https://code.google.com/p/fumenbot/
+This is first publication original hosted at google code.
+It intended to use an old PC to control relays through parallel port.
+
+
+Ending this description, I would like to clarify, I do FumenBot with learning purpose only.-A DIY gadget that creates an isolated micro environment to grow any kind of plant using minimal space.
+
+Check the Wiki for more info:
+https://sourceforge.net/p/fumenbot/wiki/Home
+
+FumenBot v0.71
+https://sourceforge.net/p/fumenbot/code
+Electronics based on Arduino (at328p), firmware wrote in C, working but still WIP.
+
+FumenBot v0.6
+https://sourceforge.net/p/fumenbot/v0.6
+https://code.google.com/p/fumenbot/
+This is first publication original hosted at google code.
+It intended to use an old PC to control relays through parallel port.
+
+
+Ending this description, I would like to clarify, I do FumenBot with learning purpose only.-","Categories
+Serial, Embedded Systems, Home Automation"
+"EasySXB is a terminal emulator designed for use with the SXB line of 6502/65816-based board-level products from Western Design Center. A graphical interface is provided for quick access to monitor functions, such as changing registers or uploading programs.
+
+The following products are currently supported:
+* W65C265SXB
+* W65C134SXBEasySXB is a terminal emulator designed for use with the SXB line of 6502/65816-based board-level products from Western Design Center. A graphical interface is provided for quick access to monitor functions, such as changing registers or uploading programs.
+
+The following products are currently supported:
+* W65C265SXB
+* W65C134SXB","Categories
+Serial"
+"This is studying project in CUFE intended to develop a temperature and security system based on a microcontroller with a serial communication with PC
+
+The Embedded software is developed on AVR Atmega16 microcontroller while the PC user interface is programmed with C# .Net 4.5
+
+Project Description: https://goo.gl/KK9AqcThis is studying project in CUFE intended to develop a temperature and security system based on a microcontroller with a serial communication with PC
+
+The Embedded software is developed on AVR Atmega16 microcontroller while the PC user interface is programmed with C# .Net 4.5
+
+Project Description: https://goo.gl/KK9Aqc","Categories
+Serial, Monitoring"
+"This actually extends the Socket Java class giving an opportunity to go via an HTTP proxy server with HTTP Basic authentication (BA). By itself, this program would be useful for receiving information in a command-line interface (CLI). Feel free to find another use for this class.This actually extends the Socket Java class giving an opportunity to go via an HTTP proxy server with HTTP Basic authentication (BA). By itself, this program would be useful for receiving information in a command-line interface (CLI). Feel free to find another use for this class.","Categories
+Telnet, Proxy Servers"
+A simple Echo server (RFC 862) written in Java. It works via HTTP/1.0. It has several modes of operation. For further information run it with the --help option. Use telnet or a web browser to access the server.A simple Echo server (RFC 862) written in Java. It works via HTTP/1.0. It has several modes of operation. For further information run it with the --help option. Use telnet or a web browser to access the server.,"Categories
+Telnet, Communications"
+"Copyright (C) 2016 Jonas Penno
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License,
+or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses.Copyright (C) 2016 Jonas Penno
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License,
+or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses.","Categories
+Terminals, Cryptography, Games/Entertainment"
+"Console X, The alternative windows console.Console X, The alternative windows console.","Categories
+Terminals, System Shells, Systems Administration"
+"TCP Terminal is a tool for testing and debugging a TCP communication.
+
+- Works both as a server and a client.
+- Accepts input and prints output in HEX and ASCII format.
+- Separately display sent and received data.TCP Terminal is a tool for testing and debugging a TCP communication.
+
+- Works both as a server and a client.
+- Accepts input and prints output in HEX and ASCII format.
+- Separately display sent and received data.","Categories
+Terminals, Communications"
+The project shows implementation of Telnet Server in java that uses Knock Knock jokes for conversation with the client.The project shows implementation of Telnet Server in java that uses Knock Knock jokes for conversation with the client.,"Categories
+Telnet"
+Alarm is command line alarm clock utility written in Python language.Alarm is command line alarm clock utility written in Python language.,"Categories
+Terminals, Sound/Audio"
+"The Program Which Is Build By Using Pascal To ""CMD""-Like.
+There's A Screen That Require You To Enter Key, Just <Enter> To Skip That;
+Else, For The Best Experiment, This Program Recommend You To Use DOSBox;
+The Project Has Changed Its Name To VMath Xplorer. For Newer Version, go to https://sourceforge.net/projects/vmath-xplorer/The Program Which Is Build By Using Pascal To ""CMD""-Like.
+There's A Screen That Require You To Enter Key, Just <Enter> To Skip That;
+Else, For The Best Experiment, This Program Recommend You To Use DOSBox;
+The Project Has Changed Its Name To VMath Xplorer. For Newer Version, go to https://sourceforge.net/projects/vmath-xplorer/","Categories
+Terminals, Software Development"
+"This Project combines several small Projects on AVR Base.
+Each Project has its own SVR archieve.This Project combines several small Projects on AVR Base.
+Each Project has its own SVR archieve.","Categories
+Terminals, Embedded Systems"
+"Hornero Backup is a software that it allows to realize full backups (with option of encryption on external device), incremental and differential backups in Linux Systems.Hornero Backup is a software that it allows to realize full backups (with option of encryption on external device), incremental and differential backups in Linux Systems.","Categories
+Terminals"
+"This .NET Program allows easy communication with serial devices, using the .NET 4 framework and open source.
+It provides a half-console easy-to-learn interface, and does not require any major resources at all!This .NET Program allows easy communication with serial devices, using the .NET 4 framework and open source.
+It provides a half-console easy-to-learn interface, and does not require any major resources at all!","Categories
+Serial, Logging"
+"Simple terminal emulator for serial communication.
+File inport and export function.
+Triple visualization of input and output: Text, Enhanced, Hex.Simple terminal emulator for serial communication.
+File inport and export function.
+Triple visualization of input and output: Text, Enhanced, Hex.","Categories
+Serial"
+"<b>PROJECT MOVED TO GITHUB</b>
+https://github.com/SpongeBobSun/QTerm
+
+This is a terminal emulator written in QT.
+Support telnet protocol and support TLS encryption.
+You can use this emulator to connect mainframes like HP nonstop server & etc.
+Since it's written in QT so it's cross platform (Windows, Mac OS X,Linux).<b>PROJECT MOVED TO GITHUB</b>
+https://github.com/SpongeBobSun/QTerm
+
+This is a terminal emulator written in QT.
+Support telnet protocol and support TLS encryption.
+You can use this emulator to connect mainframes like HP nonstop server & etc.
+Since it's written in QT so it's cross platform (Windows, Mac OS X,Linux).","Categories
+Telnet"
+"Program Manager Eternity is an application for launching applications in DOS. Mainly, It is for the still very active FreeDOS platform. It is built on top of the newly created QuickCrt object-oriented framework for Turbo Pascal 7.0.Program Manager Eternity is an application for launching applications in DOS. Mainly, It is for the still very active FreeDOS platform. It is built on top of the newly created QuickCrt object-oriented framework for Turbo Pascal 7.0.","Categories
+Terminals, Console Games, System Shells"
+This command-line interface has been written in Java 7+. The datasheet is available at http://debian.nostalgy.net.ru/Java_console/.This command-line interface has been written in Java 7+. The datasheet is available at http://debian.nostalgy.net.ru/Java_console/.,"Categories
+Terminals, Proxy Servers"
+"Características
+Utilización simple (al menos para el cliente).
+Multiplataforma (aplicación web).
+Interfaz gráfica escalable adaptable a diferentes formatos / resoluciones.
+Historial de comandos.
+Aceleradores: Mensajes nuevos, propios, lectura, estado del bbs, etc.
+Texto enriquecido. Reconocimiento de palabras clave (url's, correos electrónicos, números de mensaje, licencias, etc).
+Descarga / Visualización directa de YAPP / 7+ (a implementar).Características
+Utilización simple (al menos para el cliente).
+Multiplataforma (aplicación web).
+Interfaz gráfica escalable adaptable a diferentes formatos / resoluciones.
+Historial de comandos.
+Aceleradores: Mensajes nuevos, propios, lectura, estado del bbs, etc.
+Texto enriquecido. Reconocimiento de palabras clave (url's, correos electrónicos, números de mensaje, licencias, etc).
+Descarga / Visualización directa de YAPP / 7+ (a implementar).","Categories
+Telnet, Ham Radio, BBS"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Control you server from telnet panel
+Change password from telnet
+Check your network configuration","Categories
+Telnet"
+"Norton commander style, native Linux file manager and sophisticated editor. Whole app is aimed at developing source code. It is supposed to be your terminal and file manager and source code editor all together integrated in a really cool way.
+Written in JavaScript, Node.js and npm based, thus extremely configurable and scriptable.
+This program is for true geeks. It is neither terminal program nor traditional gui. It has terminal client built in. Easy switch between panels and terminal and text editor and hex viewer.
+It's developed by a single person so far therefore any help is appreciated, spread the word, localize, write docs, add features.
+Installation instructions are here: https://github.com/exebook/deodar/blob/master/установка.буквNorton commander style, native Linux file manager and sophisticated editor. Whole app is aimed at developing source code. It is supposed to be your terminal and file manager and source code editor all together integrated in a really cool way.
+Written in JavaScript, Node.js and npm based, thus extremely configurable and scriptable.
+This program is for true geeks. It is neither terminal program nor traditional gui. It has terminal client built in. Easy switch between panels and terminal and text editor and hex viewer.
+It's developed by a single person so far therefore any help is appreciated, spread the word, localize, write docs, add features.
+Installation instructions are here: https://github.com/exebook/deodar/blob/master/установка.букв","Categories
+Integrated Development Environments (IDE), Terminal Emulators, Source Code Management"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.","Categories
+Terminals"
+I find the current setup process for Cygwin a bit cumbersome and over burdened. It doesn't have to be and you can have a small Cygwin footprint. This project will help provide you with instruction and zip files for a basic setup.I find the current setup process for Cygwin a bit cumbersome and over burdened. It doesn't have to be and you can have a small Cygwin footprint. This project will help provide you with instruction and zip files for a basic setup.,"Categories
+Terminals, Software Development, System Shells"
+"To hide or show console use Ctrl+F12 to restart console use Ctrl+Shift+F12.
+To set width of Console please use Console properties.
+On 1920x1080 width 240 will fill whole screen.To hide or show console use Ctrl+F12 to restart console use Ctrl+Shift+F12.
+To set width of Console please use Console properties.
+On 1920x1080 width 240 will fill whole screen.","Categories
+Terminals, Software Development, System Shells"
+Tool untuk melihat status mahasiswa Amikom Yogyakarta melalui command line/command promptTool untuk melihat status mahasiswa Amikom Yogyakarta melalui command line/command prompt,"Categories
+Terminals"
+"Serial ports are a classic way for computers and peripheral devices to communicate. Originally modems, printers and laboratory equiptment had serial ports. The serial ports were hardware chips with known addresses.
+Modern computers and devices often use USB to emulate serial communications. This works well, except the device has a serial address (e.g. ttyUSB0) and a USB address.
+tty2usb is a utility that probe system information to display the link between USB and serial addresses.Serial ports are a classic way for computers and peripheral devices to communicate. Originally modems, printers and laboratory equiptment had serial ports. The serial ports were hardware chips with known addresses.
+Modern computers and devices often use USB to emulate serial communications. This works well, except the device has a serial address (e.g. ttyUSB0) and a USB address.
+tty2usb is a utility that probe system information to display the link between USB and serial addresses.","Categories
+Serial, Communications, Interface Engine/Protocol Translator"
+"A shell loosely based on the old Commodore and Tandy BASIC interpreters, with some small updating to modern computer systemsA shell loosely based on the old Commodore and Tandy BASIC interpreters, with some small updating to modern computer systems","Categories
+Terminal Emulators, Interpreters, System Shells"
+"This library, then DLL, designed for use with weighing terminal CI-5010A on the RS-422/485 or RS-232 via a physical or virtual COM port over USB in OS NT/2000/2003/XP/Vista/7/8 and reads and decodes the data of the operation, gross weight, net weight, unit number, value and sign weight, units and features indicators. Restoring communications using virtual serial port automatically.
+
+ORDER use and limitations:
+
+1. You can optionally set the COM port in the procedure 'reinit()' with constantly raised the flag of activation in the library is being processed.
+2. Parameter gl_count procedure 'getdata' indicates the number of received packets of COM-port.
+3. Implemented AutoTrack pulling converter RS-485/USB (via SetupAPI) and reconnect to the specified port initialization.This library, then DLL, designed for use with weighing terminal CI-5010A on the RS-422/485 or RS-232 via a physical or virtual COM port over USB in OS NT/2000/2003/XP/Vista/7/8 and reads and decodes the data of the operation, gross weight, net weight, unit number, value and sign weight, units and features indicators. Restoring communications using virtual serial port automatically.
+
+ORDER use and limitations:
+
+1. You can optionally set the COM port in the procedure 'reinit()' with constantly raised the flag of activation in the library is being processed.
+2. Parameter gl_count procedure 'getdata' indicates the number of received packets of COM-port.
+3. Implemented AutoTrack pulling converter RS-485/USB (via SetupAPI) and reconnect to the specified port initialization.","Categories
+Serial, Library, Data Visualization"
+"Find the next step in your career. Find and apply for remote jobs and jobs in your area using the Slashdot Job Board. Browse by job, company, location, and more.Features
+Easy to use
+Versatile
+Open Source","Categories
+Terminals, System Shells"
+"This is the software which can Serial communicate such as RS232C or UART.
+
+It's especially for Emblembed system Debuging or Developing.
+
+It can communicate with String, Binary, Octal, Decimal and Hexadecimal.This is the software which can Serial communicate such as RS232C or UART.
+
+It's especially for Emblembed system Debuging or Developing.
+
+It can communicate with String, Binary, Octal, Decimal and Hexadecimal.","Categories
+Serial"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.License
+Apache License V2.0","Categories
+Terminals, Serial, Telnet"
+"A cross platform GUI configuration tool for Ciseco XRF radio devices accessed over serial or USB.
+
+This product is produced independently from Ciseco, and carries no guarantee from Ciseco about quality, suitability or anything else. The supplier of this product assumes all responsibility for it.A cross platform GUI configuration tool for Ciseco XRF radio devices accessed over serial or USB.
+
+This product is produced independently from Ciseco, and carries no guarantee from Ciseco about quality, suitability or anything else. The supplier of this product assumes all responsibility for it.","Categories
+Serial, Hardware, Embedded Systems"
+"Shellpic uses escape codes to display images in a terminal, IRC or NUTS client.Shellpic uses escape codes to display images in a terminal, IRC or NUTS client.","Categories
+Terminals, Chat, Games/Entertainment"
+RDP Thin client and/or recovery toolkitRDP Thin client and/or recovery toolkit,"Categories
+Terminals, OS distribution"
+"Publishing updates of resources on a Moodle server requires to click click and click again. If you propose several resources and want to update them times to times, this becomes boring. The proposed tools may ease this. Then, you can for instance automate your update with a script.
+
+Moreover you can easily adapt those tools to your needs. (These are shell scripts.)Publishing updates of resources on a Moodle server requires to click click and click again. If you propose several resources and want to update them times to times, this becomes boring. The proposed tools may ease this. Then, you can for instance automate your update with a script.
+
+Moreover you can easily adapt those tools to your needs. (These are shell scripts.)","Categories
+Terminals, School Management"
+"PesoLib é uma biblioteca que é capaz de detectar e conectar-se
+à uma balança plugada no computador, os pesos podem ser recebidos
+sem a necessidade de solicitação, ou seja quando um item for colocado sobre
+a balança a biblioteca enviará o peso automaticamente para sua aplicação.PesoLib é uma biblioteca que é capaz de detectar e conectar-se
+à uma balança plugada no computador, os pesos podem ser recebidos
+sem a necessidade de solicitação, ou seja quando um item for colocado sobre
+a balança a biblioteca enviará o peso automaticamente para sua aplicação.","Categories
+Serial, Libraries"
+"JDKSelector is a Menu Bar application that allows you to change quickly your Java version running on Terminal. You can have several different instances of Terminal windows running different java versions.
+
+The program detects automatically the Java VM's available and shows a list of options to select, returning a new Terminal window (using the selected Java Version).
+
+You can also delete the Apple System Logs using the option Tune Terminal, which increases the speed of launching new Terminal windows.JDKSelector is a Menu Bar application that allows you to change quickly your Java version running on Terminal. You can have several different instances of Terminal windows running different java versions.
+
+The program detects automatically the Java VM's available and shows a list of options to select, returning a new Terminal window (using the selected Java Version).
+
+You can also delete the Apple System Logs using the option Tune Terminal, which increases the speed of launching new Terminal windows.","Categories
+Terminals, Software Testing, Virtual Machine"
+A Pass Protection For BrowsersA Pass Protection For Browsers,"Categories
+Terminals"
+"System base on Hosts file to cut communication of all ADS server !
+
+système basé sur la redirection par le fichier Hosts de LinuxSystem base on Hosts file to cut communication of all ADS server !
+
+système basé sur la redirection par le fichier Hosts de Linux","Categories
+Terminals, Browsers, Anti-Spam"
+"www.abandonedrealms.com
+http://tintin.sourceforge.net/
+
+Enjoy MMORPG in it's purest form, a shared text based adventure like the one everquest was fashioned after. www.abandonedrealms.comwww.abandonedrealms.com
+http://tintin.sourceforge.net/
+
+Enjoy MMORPG in it's purest form, a shared text based adventure like the one everquest was fashioned after. www.abandonedrealms.com","Categories
+Telnet, Console Games, Multi-User Dungeons (MUD)"
+"Command line tool to replace quickly strings in files.
+Replaces recursively in directories, handles huge files, accepts regulars expression patterns, can replace binary chunks...Command line tool to replace quickly strings in files.
+Replaces recursively in directories, handles huge files, accepts regulars expression patterns, can replace binary chunks...","Categories
+Terminals, File Systems, Command Line Tools"
+"This software, consisting of a daemon and a command shell, is meant to be used together with the Xtreme GM7 GPS tracker to help simplify its management and to make it possible to monitor alerts sent by the tracker.
+
+The software is intended to be run as a GNU/Linux service that always runs in the background and can be used to both receive location updates from a remote tracker as well as configuring the tracker (over both USB and a GPRS link to the device).
+
+All received events are stored in a database and the daemon supports export of events to GPX, KML, CSV format. It is also possible to have specific action scripts executed upon receiving specific events or generate mail notifications.
+
+The daemon and command shell comes with extensive reference documentation (HTML & PDF) and Unix man pages.This software, consisting of a daemon and a command shell, is meant to be used together with the Xtreme GM7 GPS tracker to help simplify its management and to make it possible to monitor alerts sent by the tracker.
+
+The software is intended to be run as a GNU/Linux service that always runs in the background and can be used to both receive location updates from a remote tracker as well as configuring the tracker (over both USB and a GPRS link to the device).
+
+All received events are stored in a database and the daemon supports export of events to GPX, KML, CSV format. It is also possible to have specific action scripts executed upon receiving specific events or generate mail notifications.
+
+The daemon and command shell comes with extensive reference documentation (HTML & PDF) and Unix man pages.","Categories
+Serial, Communications"
+"With PigTerm you can chat with your Linux terminal. PigTerm connects you to your/your friends/your office Linux computer's terminal trough Jabber messaging (XMPP Protocol services like Gtalk). So that you do not need ssh access to do this.
+Think of pigterm as a Remote Assistant for Linux Console.
+This is useful specially when your remote computer do not have a valid IP address.
+The software uses QXMPP opensource library (http://code.google.com/p/qxmpp/). The complete code of this library is imported into source tree so that you do not need to compile and install that first.
+
+All communication is encrypted using QCA Library. The software does not involve with export control regulations as in QCA (http://delta.affinix.co/docs/qca/) Site they wrote:
+Functionality is supplied via plugins. ... . Also, by pushing crypto functionality into plugins, your application is free of legal issues, such as export regulations.With PigTerm you can chat with your Linux terminal. PigTerm connects you to your/your friends/your office Linux computer's terminal trough Jabber messaging (XMPP Protocol services like Gtalk). So that you do not need ssh access to do this.
+Think of pigterm as a Remote Assistant for Linux Console.
+This is useful specially when your remote computer do not have a valid IP address.
+The software uses QXMPP opensource library (http://code.google.com/p/qxmpp/). The complete code of this library is imported into source tree so that you do not need to compile and install that first.
+
+All communication is encrypted using QCA Library. The software does not involve with export control regulations as in QCA (http://delta.affinix.co/docs/qca/) Site they wrote:
+Functionality is supplied via plugins. ... . Also, by pushing crypto functionality into plugins, your application is free of legal issues, such as export regulations.","Categories
+Terminals, XMPP, Customer Service"
+"A TN5250 client in four parts: A telnet client DLL, a 5250 emulator DLL, a host access LIPI server client DLL, and a Windows GUI. The DLLs can be integrated into your own GUI if you desire.A TN5250 client in four parts: A telnet client DLL, a 5250 emulator DLL, a host access LIPI server client DLL, and a Windows GUI. The DLLs can be integrated into your own GUI if you desire.","Categories
+Terminal Emulators, Telnet, Communications"
+"--English--
+RRRP is a very simple remote protocol with tools of both server and client sides.
+The project is currently in development phase.
+First release will end up with
+- protocol specifications (very short :-))
+- keyboard emulation
+- mouse emulation
+- server script (Windows OS specific)
+- client app (Android OS specific)
+The project - and the protocol - has been named as both founders nick names: Ric and Ry.
+
+--French--
+RRRP est un procotole très simple de contrôle à distance et l'implémentation des deux côtés.
+Ce projet est actuellement en cours de développement.
+Les objectifs premiers sont
+- les specs du protocole (ça sera court :-))
+- l'émulation du clavier
+- l'émulation de la souris
+- le script côté server (spécifique Windows OS)
+- l'appli client (spécifique Android OS)
+Le projet - et le protocole associé - a été nommé d'après les surnoms des deux fondateurs : Ric et Ry.--English--
+RRRP is a very simple remote protocol with tools of both server and client sides.
+The project is currently in development phase.
+First release will end up with
+- protocol specifications (very short :-))
+- keyboard emulation
+- mouse emulation
+- server script (Windows OS specific)
+- client app (Android OS specific)
+The project - and the protocol - has been named as both founders nick names: Ric and Ry.
+
+--French--
+RRRP est un procotole très simple de contrôle à distance et l'implémentation des deux côtés.
+Ce projet est actuellement en cours de développement.
+Les objectifs premiers sont
+- les specs du protocole (ça sera court :-))
+- l'émulation du clavier
+- l'émulation de la souris
+- le script côté server (spécifique Windows OS)
+- l'appli client (spécifique Android OS)
+Le projet - et le protocole associé - a été nommé d'après les surnoms des deux fondateurs : Ric et Ry.","Categories
+Data Formats, Terminals, Emulators"
+Frases para o /usr/share/games/fortune em português do BrasilFrases para o /usr/share/games/fortune em português do Brasil,"Categories
+Terminal Emulators, Education, Hobbies"
+Convert mht (MHTML) to text in bash.Convert mht (MHTML) to text in bash.,"Categories
+Terminals"
+"Welcome to use InvisibleShortcuts!
+InvisibleShortcuts is a invisible service which allow you to create your own customized shortcuts to launch applications, visit folders and websites, manipulate files, execute system command lines or do anything.Welcome to use InvisibleShortcuts!
+InvisibleShortcuts is a invisible service which allow you to create your own customized shortcuts to launch applications, visit folders and websites, manipulate files, execute system command lines or do anything.","Categories
+Terminals, Software Development, System Shells"
+"Mainly designed for embedded & software engineers, UartVide is a flat-UI and straightforward and lightweight RS232 serial port communication utility that allows you to configure the connection parameters and communicate via the port.
+UartVide runs on all platforms supported by PySide2 including Windows, Linux.
+(MyTerm was renamed to UartVide from version 2.4)Mainly designed for embedded & software engineers, UartVide is a flat-UI and straightforward and lightweight RS232 serial port communication utility that allows you to configure the connection parameters and communicate via the port.
+UartVide runs on all platforms supported by PySide2 including Windows, Linux.
+(MyTerm was renamed to UartVide from version 2.4)","Categories
+Serial"
+"Cereal Communicator is a free software designed for implementing serial communication through RS-232 interface. With this sofware, you can send and receive binary, hexadecimal and ASCII data. Requirements: .NET Framework 2.0. Works only on Windows.Cereal Communicator is a free software designed for implementing serial communication through RS-232 interface. With this sofware, you can send and receive binary, hexadecimal and ASCII data. Requirements: .NET Framework 2.0. Works only on Windows.","Categories
+Serial, Communications"
+"AlphaBase is a very powerful Bash which may help you to debug your PSP and provides you useful instruments like: Macro System, Commands Creator, LUA Parser with some advantages on complex math calculator. It has all the functionalities of a normal shell, but it was especially coded for anyone who wants to write a PSP LUA Program so could be named apparently as another LUA IDE even if it isn't really. By its being multi-environment and multi-user, it privileges security: there is a very complex Login System with hierarchy levels that could be set by an Admin. The Admin could also perform bans or suspensions on every non-admin user that executes unappropriate code for the AlphaBase Environment.
+AB provides also a multi-medial set of commands that allows you to, for example, print a text using a font file previously loaded, to draw a rectangle, a line, to blit images, to associate some screen ares to a certain commands set that could be clicked by a cursor etc...AlphaBase is a very powerful Bash which may help you to debug your PSP and provides you useful instruments like: Macro System, Commands Creator, LUA Parser with some advantages on complex math calculator. It has all the functionalities of a normal shell, but it was especially coded for anyone who wants to write a PSP LUA Program so could be named apparently as another LUA IDE even if it isn't really. By its being multi-environment and multi-user, it privileges security: there is a very complex Login System with hierarchy levels that could be set by an Admin. The Admin could also perform bans or suspensions on every non-admin user that executes unappropriate code for the AlphaBase Environment.
+AB provides also a multi-medial set of commands that allows you to, for example, print a text using a font file previously loaded, to draw a rectangle, a line, to blit images, to associate some screen ares to a certain commands set that could be clicked by a cursor etc...","Categories
+Integrated Development Environments (IDE), Terminal Emulators, Debuggers"
+A Qt/PySize based terminal emulator with emphasis on extensible plugins.A Qt/PySize based terminal emulator with emphasis on extensible plugins.,"Categories
+Terminal Emulators"
+Pure Perl module for terminal screen and keyboard management for Linux.Pure Perl module for terminal screen and keyboard management for Linux.,"Categories
+Terminals"
+"PAGE NOT UPDATED ANY LONGER, PLEASE SEE PROJECT AT GITHUB PAGE: https://github.com/hal-ullr/cmdfetchPAGE NOT UPDATED ANY LONGER, PLEASE SEE PROJECT AT GITHUB PAGE: https://github.com/hal-ullr/cmdfetch","Categories
+Terminals"
+Moved to https://github.com/nahooda/batchrenameMoved to https://github.com/nahooda/batchrename,"Categories
+Terminals"
+"The LanChat Messenger is a series of batch files that interatct together to form a system in which you can communicate with other machines on your network as long as the machine can map a network drive, execute batch files, and change files and folders. The Lanchat Messenger was inspired from another work of messaging, it was extremely simple and easy to use. My messenger works towards the same goals with the advantage of customizable features and adaptable windows.The LanChat Messenger is a series of batch files that interatct together to form a system in which you can communicate with other machines on your network as long as the machine can map a network drive, execute batch files, and change files and folders. The Lanchat Messenger was inspired from another work of messaging, it was extremely simple and easy to use. My messenger works towards the same goals with the advantage of customizable features and adaptable windows.","Categories
+Telnet, Wireless, Direct Connect, Messaging"
+"EN: Polish users only!
+PL: Program umożliwia szybką konwersję między konkretnymi systemami kodowania polskich znaków. Zaleca się używać go jako dodatek do Programmers Notepad lub dowolnych innych programów tego typu. Plik przekazywany w argumencie jest również plikiem docelowym. Znaczy to, że zmiany są dokonywane bezpośrednio w przekazywanym pliku. Jest to o tyle dobre, że nie wymaga gromadzenia danych w plikach tymczasowych.EN: Polish users only!
+PL: Program umożliwia szybką konwersję między konkretnymi systemami kodowania polskich znaków. Zaleca się używać go jako dodatek do Programmers Notepad lub dowolnych innych programów tego typu. Plik przekazywany w argumencie jest również plikiem docelowym. Znaczy to, że zmiany są dokonywane bezpośrednio w przekazywanym pliku. Jest to o tyle dobre, że nie wymaga gromadzenia danych w plikach tymczasowych.","Categories
+Text Editors, Terminals"
+"QuTTY is a multi-tabbed, multi-paned SSH/Telnet client with a terminal emulator. The goal is to support advanced features similar to iterm2.
+
+Just download and try it. If you see any issues you can install one of the Visual Studio runtimes VC++ 2012 or VC++ 2010. If you still face issues report it to us.
+
+Report any issues or feature-requests in issue-tracker. We need help from volunteers to find and fix any blocking issues, so that a stable release can be made soon.QuTTY is a multi-tabbed, multi-paned SSH/Telnet client with a terminal emulator. The goal is to support advanced features similar to iterm2.
+
+Just download and try it. If you see any issues you can install one of the Visual Studio runtimes VC++ 2012 or VC++ 2010. If you still face issues report it to us.
+
+Report any issues or feature-requests in issue-tracker. We need help from volunteers to find and fix any blocking issues, so that a stable release can be made soon.","Categories
+Telnet, NIS, SSH"

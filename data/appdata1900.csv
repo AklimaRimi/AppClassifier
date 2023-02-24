@@ -1,0 +1,529 @@
+Description,Category
+"mAP is a free open-source, GPLv3, Java 6 to 14, 32/64-bit, utf-8, multilingual, standalone and portable application (no installer).
+
+mAP is a time management software that brings you the best of two worlds: Agile's most common practices and the Pomodoro Technique®.
+
+mAP is flexible: use it as a Agile software, a Pomodoro timer or simply a ToDo list.
+
+mAP is meant for individuals and small size teams in war rooms.
+
+Visit mAP's Web Site for more on mAP and Agile practices : https://philkaroo.github.io/myagilepomodoro/
+
+----------------------------------------------------------------------------
+
+Go to the Files page to download :
+- the executable file: .exe (Windows) or .jar (MAC, Linux...)
+- the user guide
+- the Pomodoro Technique® v1.3 free book
+
+Refer to the Wiki page for details and 'installation' (mAP requires Java) and the user guide for insights.mAP is a free open-source, GPLv3, Java 6 to 14, 32/64-bit, utf-8, multilingual, standalone and portable application (no installer).
+
+mAP is a time management software that brings you the best of two worlds: Agile's most common practices and the Pomodoro Technique®.
+
+mAP is flexible: use it as a Agile software, a Pomodoro timer or simply a ToDo list.
+
+mAP is meant for individuals and small size teams in war rooms.
+
+Visit mAP's Web Site for more on mAP and Agile practices : https://philkaroo.github.io/myagilepomodoro/
+
+----------------------------------------------------------------------------
+
+Go to the Files page to download :
+- the executable file: .exe (Windows) or .jar (MAC, Linux...)
+- the user guide
+- the Pomodoro Technique® v1.3 free book
+
+Refer to the Wiki page for details and 'installation' (mAP requires Java) and the user guide for insights.","Categories
+Time Tracking, Project Management, Agile Development Tools"
+"GUI Turbo Assembler is an essential Multilingual Integrated Development Environment for Assembly language.
+GUI Turbo Assembler comes integrated with Borland Turbo Assembler and Turbo Linker for assembling and building assembly codes. It is powered by DOSBox for handling Borland Turbo Assembler and Turbo Linker in 64-bit environment.
+The IDE is loaded with powerful feature like syntax highlighting, code folding along with the other regular features to work with any assembly source code.
+It supports compiling and building of assembly codes to windows executable with a single click.GUI Turbo Assembler is an essential Multilingual Integrated Development Environment for Assembly language.
+GUI Turbo Assembler comes integrated with Borland Turbo Assembler and Turbo Linker for assembling and building assembly codes. It is powered by DOSBox for handling Borland Turbo Assembler and Turbo Linker in 64-bit environment.
+The IDE is loaded with powerful feature like syntax highlighting, code folding along with the other regular features to work with any assembly source code.
+It supports compiling and building of assembly codes to windows executable with a single click.","Categories
+Assemblers"
+"C/C++ compilers and tools to compile and build for targets
+DOS 16/32-bit, RDOS, Windows 16/32-bit, OS/2 16/32 bit, Linux 32-bit (x86), Netware
+
+running on host OS
+DOS, Windows 16/32/64-bit, OS/2, Linux 32/64-bit (x86/x64)
+
+Now it is completely moved to GitHub
+Open Watcom 2.0
+https://github.com/open-watcom/open-watcom-v2#open-watcom-v2-fork
+Open Watcom 1.9
+https://github.com/open-watcom/open-watcom-1.9C/C++ compilers and tools to compile and build for targets
+DOS 16/32-bit, RDOS, Windows 16/32-bit, OS/2 16/32 bit, Linux 32-bit (x86), Netware
+
+running on host OS
+DOS, Windows 16/32/64-bit, OS/2, Linux 32/64-bit (x86/x64)
+
+Now it is completely moved to GitHub
+Open Watcom 2.0
+https://github.com/open-watcom/open-watcom-v2#open-watcom-v2-fork
+Open Watcom 1.9
+https://github.com/open-watcom/open-watcom-1.9","Categories
+Compilers, Cross Compilers"
+"QtAV is a cross-platform and high performance multimedia playback framework based on Qt and FFmpeg.
+Features: timeline preview, gpu decoding etcQtAV is a cross-platform and high performance multimedia playback framework based on Qt and FFmpeg.
+Features: timeline preview, gpu decoding etc","Categories
+Frameworks, Video, Libraries"
+"The Javascript Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+
+Javascript Clipper is a port of Angus Johnson's Clipper library: https://sourceforge.net/projects/polyclipping
+
+LIVE DEMO: http://jsclipper.sourceforge.net/6.4.2.2/main_demo.html
+
+LIVE DEMO (FPoint):
+http://jsclipper.sourceforge.net/6.4.2.2_fpoint/main_demo.html
+
+Information and examples:
+http://jsclipper.sourceforge.net/6.4.2.2
+
+Information and examples (FPoint):
+http://jsclipper.sourceforge.net/6.4.2.2_fpoint
+
+Donate Javascript Clipper Project: https://sourceforge.net/p/jsclipper/wiki/Donations/
+
+Use cases:
+* Over 1500 schools in the UK uses Javascript Clipper in Digimap for Schools service. Read more:
+https://mobilegeo.wordpress.com and
+http://digimapforschools.edina.ac.uk/cosmo-free/osmapperThe Javascript Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+
+Javascript Clipper is a port of Angus Johnson's Clipper library: https://sourceforge.net/projects/polyclipping
+
+LIVE DEMO: http://jsclipper.sourceforge.net/6.4.2.2/main_demo.html
+
+LIVE DEMO (FPoint):
+http://jsclipper.sourceforge.net/6.4.2.2_fpoint/main_demo.html
+
+Information and examples:
+http://jsclipper.sourceforge.net/6.4.2.2
+
+Information and examples (FPoint):
+http://jsclipper.sourceforge.net/6.4.2.2_fpoint
+
+Donate Javascript Clipper Project: https://sourceforge.net/p/jsclipper/wiki/Donations/
+
+Use cases:
+* Over 1500 schools in the UK uses Javascript Clipper in Digimap for Schools service. Read more:
+https://mobilegeo.wordpress.com and
+http://digimapforschools.edina.ac.uk/cosmo-free/osmapper","Categories
+Algorithms, Graphics"
+"A centralized repository for OpenVMS based Open Source ports and Freeware. Intended to provide a focus for Open Source development on and porting to OpenVMS as well as a mechanism to prevent orphaned software in this environment.
+
+Any and all OpenVMS based Open Source and Freeware can be hosted here.
+
+VMS-Ports is a complement to the SourceForge GNV Project (https://sourceforge.net/projects/gnv/) which implements a framework based upon GNU utilities to ease the porting of open source software packages to OpenVMS.A centralized repository for OpenVMS based Open Source ports and Freeware. Intended to provide a focus for Open Source development on and porting to OpenVMS as well as a mechanism to prevent orphaned software in this environment.
+
+Any and all OpenVMS based Open Source and Freeware can be hosted here.
+
+VMS-Ports is a complement to the SourceForge GNV Project (https://sourceforge.net/projects/gnv/) which implements a framework based upon GNU utilities to ease the porting of open source software packages to OpenVMS.","Categories
+Software Development"
+"The KDE desktop environment uses the Oxygen theme by default. By default, Java applications don't follow this theme at all. The Joxy Look and Feel is a ""skin"" to let Java Swing applications look like the Oxygen theme. Joxy is not an application itself, but a skin for other programs.
+
+For installation instructions, please see Joxy's website. Questions about Joxy can be asked in the Discussion section.The KDE desktop environment uses the Oxygen theme by default. By default, Java applications don't follow this theme at all. The Joxy Look and Feel is a ""skin"" to let Java Swing applications look like the Oxygen theme. Joxy is not an application itself, but a skin for other programs.
+
+For installation instructions, please see Joxy's website. Questions about Joxy can be asked in the Discussion section.","Categories
+KDE, KDE Themes, User Interface (UI)"
+SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.,"Categories
+Serial, Home Automation, Performance Testing"
+"NEW! Works with current IE, Firefox, and Chrome browsers. See the 'Loading & Saving' Woas page for details (in Woas file).
+
+Woas is a complete wiki in a single HTML file that works in every major browser, including older versions (even IE6!). It can store and display images and files within itself and is incredibly useful for research and documentation.
+
+This is my version of the WoaS (stickwiki) project. It is starting out as the home of my fixes to the 0.12.0 version that I am calling 0.13.0 (and hope will be published as such in the WoaS project), but may transition over time into a new and possibly incompatible version of the original tool, depending on what happens in the original project.
+
+I have dropped the 'Legacy' subproject; this project performs essentially the same function. After two years of inactivity it appears there may be life in the old project yet, so I am not making any decisions right now beyond using this project for my own, fixed version of WoaS 0.12.0.NEW! Works with current IE, Firefox, and Chrome browsers. See the 'Loading & Saving' Woas page for details (in Woas file).
+
+Woas is a complete wiki in a single HTML file that works in every major browser, including older versions (even IE6!). It can store and display images and files within itself and is incredibly useful for research and documentation.
+
+This is my version of the WoaS (stickwiki) project. It is starting out as the home of my fixes to the 0.12.0 version that I am calling 0.13.0 (and hope will be published as such in the WoaS project), but may transition over time into a new and possibly incompatible version of the original tool, depending on what happens in the original project.
+
+I have dropped the 'Legacy' subproject; this project performs essentially the same function. After two years of inactivity it appears there may be life in the old project yet, so I am not making any decisions right now beyond using this project for my own, fixed version of WoaS 0.12.0.","Categories
+Other/Nonlisted Topic, Documentation"
+A video thumbnail generator based on FFMPEG.A video thumbnail generator based on FFMPEG.,"Categories
+Screen Capture, Command Line Tools, Thumbnail Makers"
+"VaultClipse is a plugin for Eclipse which allows users to import, export and merge content between from Day CQ and CRX repositories and Eclipse.VaultClipse is a plugin for Eclipse which allows users to import, export and merge content between from Day CQ and CRX repositories and Eclipse.","Categories
+Enterprise, Software Development, Content Management Systems (CMS)"
+"This system provides printed and cursive handwriting recognition service as a shared library on GNU/Linux/Unix systems.
+Until someone writes another client, try the S/HIP:
+https://sourceforge.net/projects/ship-project/This system provides printed and cursive handwriting recognition service as a shared library on GNU/Linux/Unix systems.
+Until someone writes another client, try the S/HIP:
+https://sourceforge.net/projects/ship-project/","Categories
+Desktop Environment, User Interface (UI), Handwriting Recognition"
+[ Moved to https://github.com/rhcad/x3c ] x3c is designed as a plugin-framework that uses C++ and STL. This framework has many frequently-used and lightweight plugins. x3c can be used to easily develop plugins and applications for multiple platforms.[ Moved to https://github.com/rhcad/x3c ] x3c is designed as a plugin-framework that uses C++ and STL. This framework has many frequently-used and lightweight plugins. x3c can be used to easily develop plugins and applications for multiple platforms.,"Categories
+Frameworks"
+IST helps test teams managing complexity by adaptively selecting and prioritizing the test cases according to past test results. ISTT guides the testers through a test session with high-level test scenarios generated on the fly.IST helps test teams managing complexity by adaptively selecting and prioritizing the test cases according to past test results. ISTT guides the testers through a test session with high-level test scenarios generated on the fly.,"Categories
+Software Testing, QA Automation, Test and Measurement"
+"AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.AsterixInspector - displays contents of files in Eurocontrol Asterix format. Asterix is a binary data exchange format in aviation, standardized by Eurocontrol.","Categories
+Data Formats, Software Development, Mechanical and Civil Engineering"
+FileRunner is a two pane file manager for Unix and Unix like systems. It is simple and efficient and has a built-in FTP and SFTP client. It also does a reasonable (and improving) job on Windows systems. New and improved from a FileRunner of long ago.FileRunner is a two pane file manager for Unix and Unix like systems. It is simple and efficient and has a built-in FTP and SFTP client. It also does a reasonable (and improving) job on Windows systems. New and improved from a FileRunner of long ago.,"Categories
+Usability, File Managers, FTP Clients, SFTP Clients"
+"ODABA is an terminology-oriented database management system (TODBMS) on a high conceptual level. It provides a number of enhanced features based on natural language analysis. Terminology orientation allows designing user oriented data models.
+Enhanced event model and Active Data Link technology support rapid development of GUI applications.
+Several development, documentation, test and analyzing tools are provided in order to support developers and administrators.
+.NET interface and a powerful object-orjented script language (OSI) improve development efficiency.ODABA is an terminology-oriented database management system (TODBMS) on a high conceptual level. It provides a number of enhanced features based on natural language analysis. Terminology orientation allows designing user oriented data models.
+Enhanced event model and Active Data Link technology support rapid development of GUI applications.
+Several development, documentation, test and analyzing tools are provided in order to support developers and administrators.
+.NET interface and a powerful object-orjented script language (OSI) improve development efficiency.","Categories
+Database Engines/Servers, UML, Code Generators"
+"A Java library for executing, parsing and persisting NMap output.A Java library for executing, parsing and persisting NMap output.","Categories
+Security, Networking, Libraries"
+Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.,"Categories
+Desktop Environment, Command Line Tools, Clipboard Managers"
+"VIVO is a semantic web project built on the Jena semantic web framework, and is an application to facilitate the discovery of researchers and collaborators across the country and internationally.VIVO is a semantic web project built on the Jena semantic web framework, and is an application to facilitate the discovery of researchers and collaborators across the country and internationally.","Categories
+Web Development Frameworks"
+AJAX based wiki designed to operate like a desktop help viewer(chm)AJAX based wiki designed to operate like a desktop help viewer(chm),"Categories
+Documentation, Internet"
+"Test automation framework, for building fast, re-usable and reliable system tests under windows OS. It includes a tool for developing automation in .NET, and a GUI tool to compose automation with no coding skills. Learn more: http:/qaliber.orgTest automation framework, for building fast, re-usable and reliable system tests under windows OS. It includes a tool for developing automation in .NET, and a GUI tool to compose automation with no coding skills. Learn more: http:/qaliber.org","Categories
+Software Testing, QA Automation, Test Frameworks, Automated Testing"
+"The projects aims to provide a Mylyn connector for Quality Center. Support Eclipse 3.4.2, 3.5, Mylyn 3.1+The projects aims to provide a Mylyn connector for Quality Center. Support Eclipse 3.4.2, 3.5, Mylyn 3.1+","Categories
+Software Development"
+"maXbox: Precompiled Object Based Scripting Tool
+maXbox is a free scripter tool with an inbuilt object pascal delphi engine in one exe! It is designed for teaching, develop, test and analyzing apps and algorithms and runs under Win, Mac and Linux (CLX) to set code in a box without installation and no administration. The tool is based on an educational program with examples and exercises (from biorhythm, REST services , form building to how math works). Pure Code for Object Scripting. Lib Units are precompiled and objects invokable! With a 102 part tutorial for coders.maXbox: Precompiled Object Based Scripting Tool
+maXbox is a free scripter tool with an inbuilt object pascal delphi engine in one exe! It is designed for teaching, develop, test and analyzing apps and algorithms and runs under Win, Mac and Linux (CLX) to set code in a box without installation and no administration. The tool is based on an educational program with examples and exercises (from biorhythm, REST services , form building to how math works). Pure Code for Object Scripting. Lib Units are precompiled and objects invokable! With a 102 part tutorial for coders.","Categories
+Agile Development Tools"
+"Choco is not hosted on sourceforge anymore.
+Please now visit http://choco-solver.org/ !Choco is not hosted on sourceforge anymore.
+Please now visit http://choco-solver.org/ !","Categories
+Software Development, Artificial Intelligence, Research"
+DelphiCodeToDoc is a free documentation system for Delphi / Pascal with JavaDoc support. It uses information about source code symbols and formatted comments in files to produce accurate documentation from your application and component.DelphiCodeToDoc is a free documentation system for Delphi / Pascal with JavaDoc support. It uses information about source code symbols and formatted comments in files to produce accurate documentation from your application and component.,"Categories
+Software Development"
+This library allows developers to access native libraries (DLL and lib.so) from java. You do NOT need to compile a line of C/C++ to use it: it's dynamic !! Now Win32 DLL and shared libraries are usable with Java ;)This library allows developers to access native libraries (DLL and lib.so) from java. You do NOT need to compile a line of C/C++ to use it: it's dynamic !! Now Win32 DLL and shared libraries are usable with Java ;),"Categories
+Software Development"
+"JUEL is an implementation of the Unified Expression Language (EL), specified as part of the JSP 2.1 standard (JSR-245), which has been introduced in JEE5. JUEL 2.2 implements the JSP 2.2 maintenance release specification for full JEE6 compliance.JUEL is an implementation of the Unified Expression Language (EL), specified as part of the JSP 2.1 standard (JSR-245), which has been introduced in JEE5. JUEL 2.2 implements the JSP 2.2 maintenance release specification for full JEE6 compliance.","Categories
+Dynamic Content, Software Development"
+"NDoc3 is based on NDoc, and is a code documentation generation tool for .NET developers. The goal is to make a fast, extensible, multi-platform .NET documentation tool which supports all of the .NET languages specifications including but not only, C#NDoc3 is based on NDoc, and is a code documentation generation tool for .NET developers. The goal is to make a fast, extensible, multi-platform .NET documentation tool which supports all of the .NET languages specifications including but not only, C#","Categories
+Documentation"
+Mozilla Widget for Java SwingMozilla Widget for Java Swing,"Categories
+Browsers, User Interface (UI)"
+"Dozer is a Java Bean to Java Bean mapper. Typically, these Java Beans will be of different complex types. Dozer supports simple property mapping, complex type mapping, bi-directional mapping, as well as recursive mapping.Dozer is a Java Bean to Java Bean mapper. Typically, these Java Beans will be of different complex types. Dozer supports simple property mapping, complex type mapping, bi-directional mapping, as well as recursive mapping.","Categories
+Software Development"
+"CodeNarc is a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices. CodeNarc applies predefined and/or custom rules to each Groovy file, and generates an HTML or XML report.
+
+This project has been moved to https://github.com/CodeNarc/CodeNarc.CodeNarc is a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices. CodeNarc applies predefined and/or custom rules to each Groovy file, and generates an HTML or XML report.
+
+This project has been moved to https://github.com/CodeNarc/CodeNarc.","Categories
+Software Testing, QA Automation, Design"
+"PhatStudio is a Visual Studio plugin which lets you quickly navigate to any file in your project in just a few keystrokes, even for very large projects.PhatStudio is a Visual Studio plugin which lets you quickly navigate to any file in your project in just a few keystrokes, even for very large projects.","Categories
+User Interface (UI), Source Code Management, Agile Development Tools"
+"ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1ASN.1 types and codecs (BER, CER, DER) implementation in Python programming language.
+
+A collection of various ASN.1-based protocols data structures is supplied in a dedicated Python package.
+
+Project moved to GitHub: https://github.com/etingof/pyasn1","Categories
+Data Formats, Code Generators, Compilers, Interface Engine/Protocol Translator"
+Integrated development environment for the FreeBASIC compiler.Integrated development environment for the FreeBASIC compiler.,"Categories
+Software Development"
+"ELENA is a general-purpose, pure object-oriented language with late binding. It promotes more object-oriented program design, reusable and more standardized code. The package includes compiler, IDE, ELENA libraries and samplesELENA is a general-purpose, pure object-oriented language with late binding. It promotes more object-oriented program design, reusable and more standardized code. The package includes compiler, IDE, ELENA libraries and samples","Categories
+Object Oriented, Debuggers, Compilers"
+"UnCodeX analyses UnrealScript code and provides an easy interface to browse through the code, it can also produce a JavaDoc like documentation of the source code.
+This is also the home for other UnrealEngine productivity tools like the UC PreProcessor.UnCodeX analyses UnrealScript code and provides an easy interface to browse through the code, it can also produce a JavaDoc like documentation of the source code.
+This is also the home for other UnrealEngine productivity tools like the UC PreProcessor.","Categories
+Games/Entertainment, Software Development"
+"C library for robot creators using certain AVR microcontrollers with support for 3rd party hardware boards for various sensors and motor controllers. Comprehensive PDF manual included in the download.
+
+Version 2 code stream - requires that projects are created using Project Designer from my web site. If your board isn't listed in Project Designer then look at Board Designer on my web-site to create your own custom board - or if its a commercial board then let me know and, with permission, I will add your design to the release.
+
+Version 1 code stream - requires you to do everything by hand and will be discontinued in the near future.C library for robot creators using certain AVR microcontrollers with support for 3rd party hardware boards for various sensors and motor controllers. Comprehensive PDF manual included in the download.
+
+Version 2 code stream - requires that projects are created using Project Designer from my web site. If your board isn't listed in Project Designer then look at Board Designer on my web-site to create your own custom board - or if its a commercial board then let me know and, with permission, I will add your design to the release.
+
+Version 1 code stream - requires you to do everything by hand and will be discontinued in the near future.","Categories
+Frameworks, Robotics, Libraries"
+"Marathon provides an integrated environment for test script creation and execution.
+Supported FW: Web, Java Swing/ Java FX. Currently, Marathon supports JRuby script models for recording the test scripts.Marathon test runner generates Allure test reports.Marathon allows for grouping of test cases.It also has an option of inserting modules while recording(in MarathonITE while recording). It allows tester to inset checklist while recording and also takes screen capture and annotate it in playing the test cases. Extraction of code into modules and inserting it is very easy using marathon.It has different themes of UI which attracts tester to do work on it. Object mapping is quite simple and configuring is very easy for tester to understand and do the work. Debugging of test scripts is also easy and has script console which takes selenium commands. Slow play of test cases is also available.It allows to create multiple fixtures for different types of tests.Marathon provides an integrated environment for test script creation and execution.
+Supported FW: Web, Java Swing/ Java FX. Currently, Marathon supports JRuby script models for recording the test scripts.Marathon test runner generates Allure test reports.Marathon allows for grouping of test cases.It also has an option of inserting modules while recording(in MarathonITE while recording). It allows tester to inset checklist while recording and also takes screen capture and annotate it in playing the test cases. Extraction of code into modules and inserting it is very easy using marathon.It has different themes of UI which attracts tester to do work on it. Object mapping is quite simple and configuring is very easy for tester to understand and do the work. Debugging of test scripts is also easy and has script console which takes selenium commands. Slow play of test cases is also available.It allows to create multiple fixtures for different types of tests.","Categories
+Software Testing, QA Automation, Performance Testing"
+"Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.","Categories
+Libraries"
+"CruiseControl is a framework for a continuous build process. It includes, but is not limited to, plugins for email notification, Ant, and various source control tools. A web interface is provided to view the details of the current and previous builds.CruiseControl is a framework for a continuous build process. It includes, but is not limited to, plugins for email notification, Ant, and various source control tools. A web interface is provided to view the details of the current and previous builds.","Categories
+Build Tools"
+"A collection of open source and public domain software for Java, XML, and Cocoa, primarily. Some projects: ThreadWorker, Xmlizable, Base64, Tabu Search.A collection of open source and public domain software for Java, XML, and Cocoa, primarily. Some projects: ThreadWorker, Xmlizable, Base64, Tabu Search.","Categories
+Software Development, Internet"
+"wxLua is a Lua scripting language wrapper for the wxWidgets cross-platform GUI library. It consists of executables for editing, running, and debugging wxLua scripts, a library for extending C++ programs with a fast, small, fully embeddable scripting language, and a variety of sample programs. With wxLua you can quickly write full-featured programs with graphics, networking, printing, etc. for MS Windows, Linux, and OSX.wxLua is a Lua scripting language wrapper for the wxWidgets cross-platform GUI library. It consists of executables for editing, running, and debugging wxLua scripts, a library for extending C++ programs with a fast, small, fully embeddable scripting language, and a variety of sample programs. With wxLua you can quickly write full-featured programs with graphics, networking, printing, etc. for MS Windows, Linux, and OSX.","Categories
+Integrated Development Environments (IDE), Frameworks, User Interface (UI)"
+"Collectl is a light-weight performance monitoring tool capable of reporting interactively as well as logging to disk. It reports statistics on cpu, disk, infiniband, lustre, memory, network, nfs, process, quadrics, slabs and more in easy to read format.Collectl is a light-weight performance monitoring tool capable of reporting interactively as well as logging to disk. It reports statistics on cpu, disk, infiniband, lustre, memory, network, nfs, process, quadrics, slabs and more in easy to read format.","Categories
+Software Testing, Systems Administration, Monitoring, Benchmark, Clustering, File Systems"
+"CodeCover is a free glass box testing tool that measures statement, branch, loop, MC/DC, ?-operator, and sync- coverage. CodeCover supports coverage reports per each test case. Available languages: Java and COBOL.CodeCover is a free glass box testing tool that measures statement, branch, loop, MC/DC, ?-operator, and sync- coverage. CodeCover supports coverage reports per each test case. Available languages: Java and COBOL.","Categories
+Software Testing, QA Automation"
+"RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.RHash (Recursive Hasher) is a console utility for computing and verifying hash sums of files. It supports CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BTIH, Tiger, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool.","Categories
+Cryptography, Algorithms, System"
+"C3D is a command-line tool for converting 3D images between common file formats. The tool also includes a growing list of commands for image manipulation, such as thresholding and resampling.C3D is a command-line tool for converting 3D images between common file formats. The tool also includes a growing list of commands for image manipulation, such as thresholding and resampling.","Categories
+Medical, Command Line Tools"
+"IMPORTANT: MoreUnit code has moved to https://github.com/MoreUnit/MoreUnit-Eclipse
+
+MoreUnit is an Eclipse plugin that should assist you in writing more unit tests. It supports all programming languages (switching between tests and classes under tests...) and has specific support for Java (creating test stubs, mock support, decoration, refactoring support...).IMPORTANT: MoreUnit code has moved to https://github.com/MoreUnit/MoreUnit-Eclipse
+
+MoreUnit is an Eclipse plugin that should assist you in writing more unit tests. It supports all programming languages (switching between tests and classes under tests...) and has specific support for Java (creating test stubs, mock support, decoration, refactoring support...).","Categories
+Software Testing, QA Automation"
+"A collection of tools and scripts for processing images and video from attached USB and FireWire webcams on Mac OS X. To start things off, there is a command-line tool for capturing webcam images.A collection of tools and scripts for processing images and video from attached USB and FireWire webcams on Mac OS X. To start things off, there is a command-line tool for capturing webcam images.","Categories
+Video Capture, Command Line Tools"
+"!!! NOTE !!! The latest file upload (Simple.zip) is a simplified version of the Starter Framework meant for single-schema applications. It only offers logging, error handling and table-driven parameters (with a few extra supporting packages for writing to screen and file, and manipulating dates, strings and numbers). In order to access the simplified framework, click ""Browse All Files"" and choose the plsqlfmwksimplet folder, then the 2.1 folder. Download Simple.zip.
+
+The full framework (Starter_Full_2.0.zip) is meant for multiple applications resident in multiple schemas on the same database, where the common framework is shared between them all. It is a collection of PL/SQL packages and related tables, which provide a starter framework for custom PL/SQL-based applications. Save months of design/build time. Includes logging, debugging, timing, locks, common messages, file reading/writing/management, email from within the DB, user/role security, and more.!!! NOTE !!! The latest file upload (Simple.zip) is a simplified version of the Starter Framework meant for single-schema applications. It only offers logging, error handling and table-driven parameters (with a few extra supporting packages for writing to screen and file, and manipulating dates, strings and numbers). In order to access the simplified framework, click ""Browse All Files"" and choose the plsqlfmwksimplet folder, then the 2.1 folder. Download Simple.zip.
+
+The full framework (Starter_Full_2.0.zip) is meant for multiple applications resident in multiple schemas on the same database, where the common framework is shared between them all. It is a collection of PL/SQL packages and related tables, which provide a starter framework for custom PL/SQL-based applications. Save months of design/build time. Includes logging, debugging, timing, locks, common messages, file reading/writing/management, email from within the DB, user/role security, and more.","Categories
+Database, Frameworks"
+"Allows editing of any size file in hexadecimal, decimal and ASCII. A great tool that allows you to edit and analyze the contents for either the data or resource fork of any type of file. 68K, PPC and Carbon run on MacOS 7-9 and X.Allows editing of any size file in hexadecimal, decimal and ASCII. A great tool that allows you to edit and analyze the contents for either the data or resource fork of any type of file. 68K, PPC and Carbon run on MacOS 7-9 and X.","Categories
+Text Editors, CGI Scripts, Software Development, Frameworks, Code Generators, System"
+"This is a delphi library implementing JSON (XML alternative, http://www.json.org) data format and objects structure. Lightweight and fast.This is a delphi library implementing JSON (XML alternative, http://www.json.org) data format and objects structure. Lightweight and fast.","Categories
+Data Formats, Software Development"
+MacPerl supports the Perl programming language on Mac OS (not Mac OS X). Mac OS 8.1 - 9.x are supported; 7.5.5 is supported by the MPW tool and older versions of the app. 5.6.1r2 is the current version (based on perl 5.6.1); MacPerl 5.8 is in developmentMacPerl supports the Perl programming language on Mac OS (not Mac OS X). Mac OS 8.1 - 9.x are supported; 7.5.5 is supported by the MPW tool and older versions of the app. 5.6.1r2 is the current version (based on perl 5.6.1); MacPerl 5.8 is in development,"Categories
+Compilers, Interpreters"
+ZenTao is an open source Scrum tool for application development projects with features including Backlog Management✓ Sprint and task✓ bug tracking✓ Scrum✓ Waterfall✓ Roadmap✓ Burndown✓ Kanban✓ SaaS✓ Self Hosting✓ZenTao is an open source Scrum tool for application development projects with features including Backlog Management✓ Sprint and task✓ bug tracking✓ Scrum✓ Waterfall✓ Roadmap✓ Burndown✓ Kanban✓ SaaS✓ Self Hosting✓,"Categories
+Project Management, Test Management"
+"USE is a system for the specification and validation of information systems based on a subset of the Unified Modeling Language (UML) and the Object Constraint Language (OCL). Please report any encountered bugs using the ticket system.
+
+The USE documentation can be found on the project homepage linked below.
+
+Downloads for the most popular plugins can be found here:
+http://sourceforge.net/projects/useocl/files/Plugins/USE is a system for the specification and validation of information systems based on a subset of the Unified Modeling Language (UML) and the Object Constraint Language (OCL). Please report any encountered bugs using the ticket system.
+
+The USE documentation can be found on the project homepage linked below.
+
+Downloads for the most popular plugins can be found here:
+http://sourceforge.net/projects/useocl/files/Plugins/","Categories
+UML, Computer-Aided Software Engineering (CASE)"
+"In 1984, Knuth introduced the idea of literate programming. The idea was that a programmer wrote one document, the web file, that combined documentation with code. Nuweb works with any programming language and LaTeX.In 1984, Knuth introduced the idea of literate programming. The idea was that a programmer wrote one document, the web file, that combined documentation with code. Nuweb works with any programming language and LaTeX.","Categories
+Software Development"
+"ROBODoc is a documentation tool. It extracts the documentation from your source code and formats it in HTML, RTF, TeX, XML DocBook (PDF), or ASCII. Works with C, C++, Fortran, Perl, Scripts, Assembler, Tcl, Basic, and any language that supports remarks.ROBODoc is a documentation tool. It extracts the documentation from your source code and formats it in HTML, RTF, TeX, XML DocBook (PDF), or ASCII. Works with C, C++, Fortran, Perl, Scripts, Assembler, Tcl, Basic, and any language that supports remarks.","Categories
+Documentation"
+Freekode is an open source multi platform implementation of the OpenKODE 1.0 Specification.Freekode is an open source multi platform implementation of the OpenKODE 1.0 Specification.,"Categories
+Games/Entertainment, Frameworks, Multimedia"
+"The project moved to GitHub, https://github.com/aevdokimenko/tsqlunit
+
+TSQLUnit is a framework to write tests for applications written in Transact-SQL. It follows the tradition of the ""xUnit"" framework that is available for almost all programming languages.The project moved to GitHub, https://github.com/aevdokimenko/tsqlunit
+
+TSQLUnit is a framework to write tests for applications written in Transact-SQL. It follows the tradition of the ""xUnit"" framework that is available for almost all programming languages.","Categories
+Database, Software Testing, Unit Testing"
+"AsciiDoc is a presentable text document format for writing articles, UNIX man pages and other small to medium sized documents. The asciidoc(1) command translates AsciiDoc files to HTML, DocBook and LinuxDoc formats.AsciiDoc is a presentable text document format for writing articles, UNIX man pages and other small to medium sized documents. The asciidoc(1) command translates AsciiDoc files to HTML, DocBook and LinuxDoc formats.","Categories
+Documentation"
+"A 6502 disassembler, designed to specifically support Atari binary files.A 6502 disassembler, designed to specifically support Atari binary files.","Categories
+Debuggers"
+"Russian Template for Bugzilla. Bugzilla is a bugtracking system by Mozilla.org. This project contains the files needed for a Russian interface for it.
+
+To install, extract the ""template/ru-RU"" directory in the package, and place ""ru-RU"" directory and its contents into Bugzilla's ""template"" directory, so that it sits alongside the ""en"" directory Bugzilla ships with.Russian Template for Bugzilla. Bugzilla is a bugtracking system by Mozilla.org. This project contains the files needed for a Russian interface for it.
+
+To install, extract the ""template/ru-RU"" directory in the package, and place ""ru-RU"" directory and its contents into Bugzilla's ""template"" directory, so that it sits alongside the ""en"" directory Bugzilla ships with.","Categories
+To-Do Lists, Software Development, Collaborative Development"
+Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.,"Categories
+Software Development"
+"Fire is a fast, themable UI toolkit and xHTML/CSS renderer for mobile application and game development. It is an eye-candy alternative to the standard midp2 UI components and unlike them it produces a superior UI result on all mobile devices!Fire is a fast, themable UI toolkit and xHTML/CSS renderer for mobile application and game development. It is an eye-candy alternative to the standard midp2 UI components and unlike them it produces a superior UI result on all mobile devices!","Categories
+User Interface (UI)"
+"Green, an Eclipse plugin, is an advanced yet simple UML class-diagram tool, developed primarily for student use. It does live round-tripping, so it's easy to move between diagram and code views. It's extensible: users can define their own relationsGreen, an Eclipse plugin, is an advanced yet simple UML class-diagram tool, developed primarily for student use. It does live round-tripping, so it's easy to move between diagram and code views. It's extensible: users can define their own relations","Categories
+Integrated Development Environments (IDE), UML, Code Generators, Computer-Aided Software Engineering (CASE), Design, Education"
+asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.,"Categories
+Software Development"
+"Druid is a GUI tool for database build and management. Users can add/change/delete DB objects (tables, fields, etc). Druid generates for you: SQL scripts, docs in XHTML, PDF, DocBook, etc; code in C, C++ & Java Beans even for JDO and support Castor & OJBDruid is a GUI tool for database build and management. Users can add/change/delete DB objects (tables, fields, etc). Druid generates for you: SQL scripts, docs in XHTML, PDF, DocBook, etc; code in C, C++ & Java Beans even for JDO and support Castor & OJB","Categories
+Front-Ends, Build Tools, Code Generators"
+"Framewave is a collection of popular image and signal processing routines designed to accelerate application development, debugging, and optimization on x86-class processor platforms.Framewave is a collection of popular image and signal processing routines designed to accelerate application development, debugging, and optimization on x86-class processor platforms.","Categories
+Software Development, Scientific/Engineering, Multimedia"
+This software application allows you to use your Nintendo Wii remote to create a very low-cost interactive whiteboard system or tablet display. It uses the infrared(IR) camera built into the tip of each Wii remote to track the location IR light pens.This software application allows you to use your Nintendo Wii remote to create a very low-cost interactive whiteboard system or tablet display. It uses the infrared(IR) camera built into the tip of each Wii remote to track the location IR light pens.,"Categories
+User Interface (UI)"
+"""Aubit 4GL"" is a project to make GPL, OpenSource, Informix-4GL compatible compiler, and continue to extend functionality needed to write most efficient and productive business related, database oriented applications. See ""Home Page"" link for more.""Aubit 4GL"" is a project to make GPL, OpenSource, Informix-4GL compatible compiler, and continue to extend functionality needed to write most efficient and productive business related, database oriented applications. See ""Home Page"" link for more.","Categories
+Office/Business, Front-Ends, Code Generators, Compilers"
+"A project to provide change control for OpenDocument files via subversion under Unix. Can check in internal changes in files and allows users to recover any previous version, view logs and compare with older versions.A project to provide change control for OpenDocument files via subversion under Unix. Can check in internal changes in files and allows users to recover any previous version, view logs and compare with older versions.","Categories
+Office Suites, Backup, Subversion"
+"Liquibase is an open source, database-independent library for tracking, managing and applying database changes
+
+See more at http://liquibase.orgLiquibase is an open source, database-independent library for tracking, managing and applying database changes
+
+See more at http://liquibase.org","Categories
+Database, Software Development"
+"Entando is the lightest open source Digital Transformation Platform for Modern
+Applications. We help customers bring to production enterprise applications that are lightweight, cloud native, and highly customized, and do so significantly faster than their competitors. Our platform harmonizes user experience across enterprise omnichannel applications, accelerating time to market, and increasing development efficiency.
+
+Get the latest version of Entando's Community Edition and its Plugins on Github (http://github.com/entando).Entando is the lightest open source Digital Transformation Platform for Modern
+Applications. We help customers bring to production enterprise applications that are lightweight, cloud native, and highly customized, and do so significantly faster than their competitors. Our platform harmonizes user experience across enterprise omnichannel applications, accelerating time to market, and increasing development efficiency.
+
+Get the latest version of Entando's Community Edition and its Plugins on Github (http://github.com/entando).","Categories
+Software Development, Frameworks, User Interface (UI)"
+AMD’s Close-to-the-Metal presents a virtual machine abstraction for GPUs. CTM presents a thin interface to this hardware by hiding graphics-specific features of the device.AMD’s Close-to-the-Metal presents a virtual machine abstraction for GPUs. CTM presents a thin interface to this hardware by hiding graphics-specific features of the device.,"Categories
+Software Development"
+"Chapel is an emerging parallel programming language whose design and development are being led by HPE in collaboration with academia, computing labs, and industry. Chapel's goal is to improve the productivity of parallel programmers, from laptops to supercomputers.
+
+**Please note that Chapel development has moved to GitHub**Chapel is an emerging parallel programming language whose design and development are being led by HPE in collaboration with academia, computing labs, and industry. Chapel's goal is to improve the productivity of parallel programmers, from laptops to supercomputers.
+
+**Please note that Chapel development has moved to GitHub**","Categories
+Compilers, Scientific/Engineering, Languages"
+"Cjax is a very basic lightweight but powerful cross browser Ajax Framework written in PHP and JavaScript.
+
+Download From: ( *NEW* official location )
+https://github.com/ajaxboy/cjax
+
+For Demos & Documentation:
+http://cjax.sourceforge.net/examples/
+
+
+Key Points Of the Ajax Framework
+
+* Lightweight > 100kb
+* 100% Ajax
+* Zero Configuration
+* No page footprint
+* No inline codes
+* No Snippets or JavaScript needed
+* No front-end JavaScript.
+* 100% server side
+* Insanely Fast
+* Lives in harmony, not in competition with other frameworks
+* Uses a combination of data services objects, xml/json
+* Easy and Generic API
+* 5+ Years of Improvements and development growth
+* 50% PHP, 50% JavaScript
+* Docs+Samples+Demos+API Available
+* Clean Code and 100% OOP
+* Extendible (through plugins)Cjax is a very basic lightweight but powerful cross browser Ajax Framework written in PHP and JavaScript.
+
+Download From: ( *NEW* official location )
+https://github.com/ajaxboy/cjax
+
+For Demos & Documentation:
+http://cjax.sourceforge.net/examples/
+
+
+Key Points Of the Ajax Framework
+
+* Lightweight > 100kb
+* 100% Ajax
+* Zero Configuration
+* No page footprint
+* No inline codes
+* No Snippets or JavaScript needed
+* No front-end JavaScript.
+* 100% server side
+* Insanely Fast
+* Lives in harmony, not in competition with other frameworks
+* Uses a combination of data services objects, xml/json
+* Easy and Generic API
+* 5+ Years of Improvements and development growth
+* 50% PHP, 50% JavaScript
+* Docs+Samples+Demos+API Available
+* Clean Code and 100% OOP
+* Extendible (through plugins)","Categories
+Frameworks"
+"FORTRAN Unit Test Framework, written in FORTRAN 95. So that all FORTRAN features can be tested. FRUIT has assertion, fixture, setup, teardown, report, spec, driver generation. Rake used as build tool. Tutorials at http://fortranxunit.wiki.sourceforge.net
+
+The core testing part is in FORTRAN, this part can be used independent of the Ruby codes.
+
+The Ruby code is to make fixtures and reports easier.
+
+Rake is to build the project elegantly. This project also demonstrate a new way to build mixed language code in an alternative way than Make.
+
+Most of the FORTRAN are important in nature, used in nuclear and aerospace codes, etc, and maintained and written actively. Please help to bring TDD practices to the FORTRAN community. The change could be very hard, personally, I quit, since I could not make the change. I hope your organization will be successful.
+
+Enjoy a cup of fruit while maintaining FORTRAN !
+
+Andrew Hang Chen and other maintainers who feel importance of TDD in crFORTRAN Unit Test Framework, written in FORTRAN 95. So that all FORTRAN features can be tested. FRUIT has assertion, fixture, setup, teardown, report, spec, driver generation. Rake used as build tool. Tutorials at http://fortranxunit.wiki.sourceforge.net
+
+The core testing part is in FORTRAN, this part can be used independent of the Ruby codes.
+
+The Ruby code is to make fixtures and reports easier.
+
+Rake is to build the project elegantly. This project also demonstrate a new way to build mixed language code in an alternative way than Make.
+
+Most of the FORTRAN are important in nature, used in nuclear and aerospace codes, etc, and maintained and written actively. Please help to bring TDD practices to the FORTRAN community. The change could be very hard, personally, I quit, since I could not make the change. I hope your organization will be successful.
+
+Enjoy a cup of fruit while maintaining FORTRAN !
+
+Andrew Hang Chen and other maintainers who feel importance of TDD in cr","Categories
+Information Analysis, Unit Testing, Test Frameworks"
+"All-in-one program for creating 2D scrolling games. Compile your games into stand-alone .NET executables or customizable C# source code. The IDE and framework are build on OpenTK, which wraps OpenGL, so generated games can be cross-platform.All-in-one program for creating 2D scrolling games. Compile your games into stand-alone .NET executables or customizable C# source code. The IDE and framework are build on OpenTK, which wraps OpenGL, so generated games can be cross-platform.","Categories
+XML, Side-Scrolling, Frameworks, Code Generators, Design, Raster Graphics"
+"Eclipse 4diac is an open source PLC environment allowing to implement industrial control solutions in a vendor neutral way. 4diac implements IEC 61499 extending IEC 61131-3 with improved support for controller to controller communication and dynamic reconfiguration. With that 4diac provides the infrastructure for Industrie 4.0 and industrial IoT.
+Further information and the latest versions can be found here: https://www.fordiac.orgEclipse 4diac is an open source PLC environment allowing to implement industrial control solutions in a vendor neutral way. 4diac implements IEC 61499 extending IEC 61131-3 with improved support for controller to controller communication and dynamic reconfiguration. With that 4diac provides the infrastructure for Industrie 4.0 and industrial IoT.
+Further information and the latest versions can be found here: https://www.fordiac.org","Categories
+Frameworks, Scientific/Engineering, Building Automation"
+"A graphical tool for designing finite state machines and exporting them to Hardware Description Languages, such as VHDL, AHDL, Verilog, or Ragel/SMC files for C, C++, Objective-C, Java, Python, PHP, Perl, Lua code generation.A graphical tool for designing finite state machines and exporting them to Hardware Description Languages, such as VHDL, AHDL, Verilog, or Ragel/SMC files for C, C++, Objective-C, Java, Python, PHP, Perl, Lua code generation.","Categories
+Design, Vector Graphics, Electronic Design Automation (EDA)"
+"""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.""xmlsh"" is derived from the design and goals the unix shell and core commands but with XML expressions and documents added as core features to the shell. xmlsh can be used as a drop-in replacement for scripting xml transformations instead of sh.","Categories
+XML, Interpreters, System Shells"
+"The BVRDE is a fully integrated development environment (IDE)
+for remote cross-platform compiling and debugging of UNIX and LINUX console applications.
+BVRDE runs on a Windows platform, but compiles and debugs applications on UNIX systems.The BVRDE is a fully integrated development environment (IDE)
+for remote cross-platform compiling and debugging of UNIX and LINUX console applications.
+BVRDE runs on a Windows platform, but compiles and debugs applications on UNIX systems.","Categories
+Integrated Development Environments (IDE), Build Tools, Debuggers"
+"MyGUI is a library for creating Graphical User Interfaces (GUIs) for games and 3D applications. The main goals of MyGUI are: speed, flexibility and ease of use.MyGUI is a library for creating Graphical User Interfaces (GUIs) for games and 3D applications. The main goals of MyGUI are: speed, flexibility and ease of use.","Categories
+Games/Entertainment, User Interface (UI)"
+"This project has moved to GitHub ! The version here at SourceForge will remain for historic purpose.
+
+Koopa is a parser generator, made for COBOL. It can handle source files in isolation (no preprocessing required) and doesn't mind the presence of CICS/SQL fragments. The grammar is easily extensible in a way which minimizes the impact on the overall code.This project has moved to GitHub ! The version here at SourceForge will remain for historic purpose.
+
+Koopa is a parser generator, made for COBOL. It can handle source files in isolation (no preprocessing required) and doesn't mind the presence of CICS/SQL fragments. The grammar is easily extensible in a way which minimizes the impact on the overall code.","Categories
+Frameworks, Code Generators, Source Code Analysis"
+"EVACopy is a backup program that has versioning and easy restoration in mind. It's light-weight, portable (no setup required, no dependencies, no repository, no database), easily deployed to multiple workstations, simple to use. ideal for home users tooEVACopy is a backup program that has versioning and easy restoration in mind. It's light-weight, portable (no setup required, no dependencies, no repository, no database), easily deployed to multiple workstations, simple to use. ideal for home users too","Categories
+Version Control, Backup, Data Recovery"
+"Porting tool, to make Windows programs/games into Mac OS X apps. GUI building, made for ease of use and customization.Porting tool, to make Windows programs/games into Mac OS X apps. GUI building, made for ease of use and customization.","Categories
+Other/Nonlisted Topic, Software Development"
+"Web data extraction (web data mining, web scraping) tool. It leverages well proved XML and text processing techologies in order to easely extract useful data from arbitrary web pages.Web data extraction (web data mining, web scraping) tool. It leverages well proved XML and text processing techologies in order to easely extract useful data from arbitrary web pages.","Categories
+XML, HTML/XHTML, Search Engines, Frameworks"
+"Development of this library has been moved to https://github.com/kordamp/json-lib/
+
+Json-lib is a java library for transforming beans, maps, collections, java arrays and XML to JSON and back again to beans and DynaBeans. It is based on the work by Douglas Crockford in http://www.json.org/java.Development of this library has been moved to https://github.com/kordamp/json-lib/
+
+Json-lib is a java library for transforming beans, maps, collections, java arrays and XML to JSON and back again to beans and DynaBeans. It is based on the work by Douglas Crockford in http://www.json.org/java.","Categories
+Frameworks"
+"Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outperforms the standard TBitmap/TCanvas methods.Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outperforms the standard TBitmap/TCanvas methods.","Categories
+Frameworks, Graphics"
+A RAD GUI Building IDE for wxPython.A RAD GUI Building IDE for wxPython.,"Categories
+Integrated Development Environments (IDE), Code Generators, Debuggers"
+"Codepage Converter - Convert HTML/Text files to different encoding formats e.g. ANSI to UTF-8 or Unicode. Convert multiple files with 1 click. Works with all encodings.
+
+* The issue with UTF-8 has now been fixed.Codepage Converter - Convert HTML/Text files to different encoding formats e.g. ANSI to UTF-8 or Unicode. Convert multiple files with 1 click. Works with all encodings.
+
+* The issue with UTF-8 has now been fixed.","Categories
+Data Formats, Site Management, Localization (L10N), Internationalization (I18N)"
+"Orpheus is an award-winning UI toolkit for Borland Delphi &
+C++Builder. It contains over 120 components covering everything from
+data entry to calendars and clocks. Other noteworthy components
+include an Object Inspector, LookOut bar, & report views.Orpheus is an award-winning UI toolkit for Borland Delphi &
+C++Builder. It contains over 120 components covering everything from
+data entry to calendars and clocks. Other noteworthy components
+include an Object Inspector, LookOut bar, & report views.","Categories
+Software Development"
+"A lightweight zero-install Web server package that runs on Windows. The project aims to provide the latest production/stable versions of Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator, and Alternative PHP Cache (APC) to boost server performance.A lightweight zero-install Web server package that runs on Windows. The project aims to provide the latest production/stable versions of Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator, and Alternative PHP Cache (APC) to boost server performance.","Categories
+Database Engines/Servers, HTTP Servers, Interpreters"
+"cx_Freeze is a set of utilities for freezing Python scripts into executables using many of the techniques found in Thomas Heller's py2exe, Gordon McMillan's Installer and the Freeze utility that ships with Python itselfcx_Freeze is a set of utilities for freezing Python scripts into executables using many of the techniques found in Thomas Heller's py2exe, Gordon McMillan's Installer and the Freeze utility that ships with Python itself","Categories
+Build Tools, Software Distribution"
+"Game Editor is the game design software that gives you the power to create the games of your dreams, and gives you the chance to get the source code of the game creator and develop 2D games for personal computers as well as mobile devices like iPhoneGame Editor is the game design software that gives you the power to create the games of your dreams, and gives you the chance to get the source code of the game creator and develop 2D games for personal computers as well as mobile devices like iPhone","Categories
+Code Generators, Mobile, Game Development Frameworks"
+"Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!Test, validate and diagnose communication protocols in medical environments (DICOM, HL7 and IHE). DVTk is a must have for software developers, test engineers and service engineers that work in the healthcare domain. NEW. Services on www.dvtk.org!","Categories
+Data Formats, Software Testing, Interface Engine/Protocol Translator"
+"PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.PEBL (Psychology Experiment Building Language) is a system designed for creating psychology and neuroscience experiments and tests. It is cross-platform, with the intention to run the same experiment, unchanged, on Linux, Windows, and Macintosh PCs.","Categories
+Site Management, Compilers, Interpreters, Design, Software Distribution, Presentation, Scientific/Engineering, Exam"
+"Personal wiki that lives in one self-modifying XHTML containing software, interface and data. Very useful for creating small websites and mantaining notes or todo-lists; completely javascript-programmable, supports encryption and file embedding.Personal wiki that lives in one self-modifying XHTML containing software, interface and data. Very useful for creating small websites and mantaining notes or todo-lists; completely javascript-programmable, supports encryption and file embedding.","Categories
+Text Editors, To-Do Lists, Documentation"
+"Autor ANTONIO CARLOS NICOLODI, 38 anos na área de informática como: Analista de sistemas, desenvolvedor de softwares em várias linguagens de programação: C++, Assembly, Pascal(Delphi), Basic, Cobol, Clipper, Java, etc. Refiz esta nova versão e estou disponibilizando GRÁTIS o: ""VISUALG 3.0"". Entre outras : (novo layout, nova roupagem até 05 tipos de peles) e novos comandos, também reconhece comandos em português correto: ( PARA ... FAÇA, SE .. ENTÃO .. SENÃO) e o operador lógico NÃO, mas em maiúsculo e os comandos antigos ainda são reconhecidos para manter a compatibilidade.
+Contactos por e-mail/twitter/Blog :
+E-mail:professor.antonio.nicolodi@gmail.com
+Twitter: @visualg30
+Blog: http://antonionicolodi.blogspot.com.br/
+
+Baixem e leiam o arquivo LEIA-ME.TXT ou LEIAME.TXT ou README.TXT
+
+Usem com sabedoria e bons estudos:Autor ANTONIO CARLOS NICOLODI, 38 anos na área de informática como: Analista de sistemas, desenvolvedor de softwares em várias linguagens de programação: C++, Assembly, Pascal(Delphi), Basic, Cobol, Clipper, Java, etc. Refiz esta nova versão e estou disponibilizando GRÁTIS o: ""VISUALG 3.0"". Entre outras : (novo layout, nova roupagem até 05 tipos de peles) e novos comandos, também reconhece comandos em português correto: ( PARA ... FAÇA, SE .. ENTÃO .. SENÃO) e o operador lógico NÃO, mas em maiúsculo e os comandos antigos ainda são reconhecidos para manter a compatibilidade.
+Contactos por e-mail/twitter/Blog :
+E-mail:professor.antonio.nicolodi@gmail.com
+Twitter: @visualg30
+Blog: http://antonionicolodi.blogspot.com.br/
+
+Baixem e leiam o arquivo LEIA-ME.TXT ou LEIAME.TXT ou README.TXT
+
+Usem com sabedoria e bons estudos:","Categories
+Algorithms, Education, Languages"
+"iDempiere. Community Powered Enterprise
+
+iDempiere Business Suite ERP/CRM/SCM done the community way. Focus is on the Community that includes Subject Matter Specialists, Implementors and End-Users.
+iDempiere is based on original Compiere/Adempiere plus a new architecture to use state-of-the-art technologies like OSGi, Buckminster, zk.iDempiere. Community Powered Enterprise
+
+iDempiere Business Suite ERP/CRM/SCM done the community way. Focus is on the Community that includes Subject Matter Specialists, Implementors and End-Users.
+iDempiere is based on original Compiere/Adempiere plus a new architecture to use state-of-the-art technologies like OSGi, Buckminster, zk.","Categories
+ERP, Frameworks"

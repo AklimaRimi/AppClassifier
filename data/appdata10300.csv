@@ -1,0 +1,840 @@
+Description,Category
+"Linux is an excellent environment for deploying diskless thin clients. Whether you are installing a 2nd workstation at home, 50 workstations in a CyberCafe or 500 workstations in a major university or corporation, the LTSP can help you be successful.Linux is an excellent environment for deploying diskless thin clients. Whether you are installing a 2nd workstation at home, 50 workstations in a CyberCafe or 500 workstations in a major university or corporation, the LTSP can help you be successful.","Categories
+Terminal Emulators, Installation/Setup, Boot"
+"A replacement firmware distribution for the 3com 3CRADSL72 a.k.a 3com wireless 11g (distributed by Ya.com) and its identical twin, the SMC7804WBRA, with an ucLinux kernel based system and associated system tools.A replacement firmware distribution for the 3com 3CRADSL72 a.k.a 3com wireless 11g (distributed by Ya.com) and its identical twin, the SMC7804WBRA, with an ucLinux kernel based system and associated system tools.","Categories
+Communications, Firewall, Operating System Kernels, Hardware, Internet"
+"Simscan enables qmail to reject viruses, spam, and block attachments during the SMTP conversation so the email never makes it into your email server. Supports ClamAV, SpamAssassin, DSpam and other virus scanners. Very efficient and written in C.Simscan enables qmail to reject viruses, spam, and block attachments during the SMTP conversation so the email never makes it into your email server. Supports ClamAV, SpamAssassin, DSpam and other virus scanners. Very efficient and written in C.","Categories
+Email Spam Filter, Email Servers"
+"View OS is a user configurable, modular process virtual machine, or system call hypervisor. For each process the user is able to define a ""view of the world"" in terms of file system, networking, devices, permissions, users, time and so on.View OS is a user configurable, modular process virtual machine, or system call hypervisor. For each process the user is able to define a ""view of the world"" in terms of file system, networking, devices, permissions, users, time and so on.","Categories
+Operating System Kernels"
+"logview4net is a log viewer/log monitor for data created by various sources. It can listen to UDP, tail a file, tail a SQL table, monitor the eventlog and watch RSS and Atom feeds. It requires the Microsoft .NET Framework 2.0logview4net is a log viewer/log monitor for data created by various sources. It can listen to UDP, tail a file, tail a SQL table, monitor the eventlog and watch RSS and Atom feeds. It requires the Microsoft .NET Framework 2.0","Categories
+Debuggers, Profiling, Systems Administration, Logging"
+"SysTools is a library of utility routines & classes for Borland Delphi, C++Builder, & environments that support COM. It includes 1-D & 2-D bar codes, sorting, money routines, logging, high-precision math, a run-time math expression analyzer, & much more.SysTools is a library of utility routines & classes for Borland Delphi, C++Builder, & environments that support COM. It includes 1-D & 2-D bar codes, sorting, money routines, logging, high-precision math, a run-time math expression analyzer, & much more.","Categories
+Financial, Software Development, Networking, Logging, Astronomy"
+"UrJTAG aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more. It is a descendant of the popular openwince JTAG tools with a lot of additional features and enhancements.UrJTAG aims to create an enhanced, modern tool for communicating over JTAG with flash chips, CPUs, and many more. It is a descendant of the popular openwince JTAG tools with a lot of additional features and enhancements.","Categories
+Hardware Drivers, Interface Engine/Protocol Translator, Electronic Design Automation (EDA)"
+CDemu - a virtual CD/DVD drive for Linux. Project includes Linux kernel module & userspace utilities.CDemu - a virtual CD/DVD drive for Linux. Project includes Linux kernel module & userspace utilities.,"Categories
+Storage, Emulators, File Systems"
+"This SourceForge download page was to grant users to download my source built GSIs, based upon phhusson's great work. I build both Android Pie and Android 10 unofficial GSIs, which includes the likes of Pixel Experience, Resurrection Remix and Havoc OS for all users to use no matter what architecture or partition layout you are using.This SourceForge download page was to grant users to download my source built GSIs, based upon phhusson's great work. I build both Android Pie and Android 10 unofficial GSIs, which includes the likes of Pixel Experience, Resurrection Remix and Havoc OS for all users to use no matter what architecture or partition layout you are using.","Categories
+ROMs"
+"This project is a fork of the original Nestopia source code, plus the Linux port. The purpose of the project is to enhance the original, and ensure it continues to work on modern operating systems.This project is a fork of the original Nestopia source code, plus the Linux port. The purpose of the project is to enhance the original, and ensure it continues to work on modern operating systems.","Categories
+Console Games, Emulators, Hobbies"
+This tool let's you control the frequency and fan settings of your AMD/ATI video card. It depends on the proprietary AMD/ATI Catalyst display driver and makes use of the AMD Display Library (ADL).This tool let's you control the frequency and fan settings of your AMD/ATI video card. It depends on the proprietary AMD/ATI Catalyst display driver and makes use of the AMD Display Library (ADL).,"Categories
+Hardware"
+"Project continued at github, see https://github.com/wolfc01/procexp/blob/master/README.md
+
+
+Graphical process explorer for Linux. Shows process information: process tree, TCP IP connections and graphical performance figures for processes. Aims to mimic Windows procexp from sysinternals, and aims to be more usable than top and ps, especially for advanced users.
+
+Audience for this tool:
+* Advanced system administrators trying to analyze on process level what is going on in a production server;
+* Software developers analyzing the troughput of their process: e.g. TCP throughput, memory usage, memory leaks;
+
+The most advanced feature is the monitoring of TCP/IP traffic figures, for each SINGLE process (actual connections and throughput). As far as known no other tool has this capability. In the process tree, use the right mouse button to monitor process details.Project continued at github, see https://github.com/wolfc01/procexp/blob/master/README.md
+
+
+Graphical process explorer for Linux. Shows process information: process tree, TCP IP connections and graphical performance figures for processes. Aims to mimic Windows procexp from sysinternals, and aims to be more usable than top and ps, especially for advanced users.
+
+Audience for this tool:
+* Advanced system administrators trying to analyze on process level what is going on in a production server;
+* Software developers analyzing the troughput of their process: e.g. TCP throughput, memory usage, memory leaks;
+
+The most advanced feature is the monitoring of TCP/IP traffic figures, for each SINGLE process (actual connections and throughput). As far as known no other tool has this capability. In the process tree, use the right mouse button to monitor process details.","Categories
+Systems Administration, Distributed Computing, Performance Testing"
+"We are developing a set of Delphi components to communicate with a ModBus PLC over TCP/IP. The library provides components to implement both a ModBus master and a Modbus slave, and is based on the Indy component set (both Indy 9 and 10 are supported)
+
+De source code of the project has been moved to GitHub!We are developing a set of Delphi components to communicate with a ModBus PLC over TCP/IP. The library provides components to implement both a ModBus master and a Modbus slave, and is based on the Indy component set (both Indy 9 and 10 are supported)
+
+De source code of the project has been moved to GitHub!","Categories
+Software Development, Networking, Hardware"
+"Syllable Desktop is a complete operating system that is easy to use, powerful, lightweight and extraordinarily fast and responsive. It has its own kernel, filesystem, GUI and applications. Syllable Server is a matching small and efficient Linux server.Syllable Desktop is a complete operating system that is easy to use, powerful, lightweight and extraordinarily fast and responsive. It has its own kernel, filesystem, GUI and applications. Syllable Server is a matching small and efficient Linux server.","Categories
+Desktop Environment, Operating System Kernels, OS distribution"
+CurlFtpFS is a filesystem for acessing ftp hosts based on FUSE and libcurl. Automatically reconnects if the server times out.CurlFtpFS is a filesystem for acessing ftp hosts based on FUSE and libcurl. Automatically reconnects if the server times out.,"Categories
+File Transfer Protocol (FTP), File Systems"
+wipfw - IPv4 packet filter and traffic shaper for Windows based on IPFW (FreeBSD firewall).wipfw - IPv4 packet filter and traffic shaper for Windows based on IPFW (FreeBSD firewall).,"Categories
+Firewall"
+"IMPORTANT NEWS: UPX has moved to GitHub
+
+https://upx.github.io
+
+========================IMPORTANT NEWS: UPX has moved to GitHub
+
+https://upx.github.io
+
+========================","Categories
+File Compression, Application Packaging, Boot"
+"jNetMap is a graphical network monitoring and documentation tool. It will ping all registered devices every x minutes, updating the status according to the result of the ping.
+
+Requires Java 8 or higherjNetMap is a graphical network monitoring and documentation tool. It will ping all registered devices every x minutes, updating the status according to the result of the ping.
+
+Requires Java 8 or higher","Categories
+Systems Administration, Monitoring"
+Switchmap is a Perl program that creates HTML pages that show information about a set of Ethernet switches. It uses SNMP to gather data from the switches. Samples of Switchmap output can be found on the Project home page.Switchmap is a Perl program that creates HTML pages that show information about a set of Ethernet switches. It uses SNMP to gather data from the switches. Samples of Switchmap output can be found on the Project home page.,"Categories
+Monitoring"
+FileSearch is a multi-threaded documents searcher. No indexes need to be updated ; no background service is required. The more you have drives the more search speed is increased thanks to its multi-threading technic.FileSearch is a multi-threaded documents searcher. No indexes need to be updated ; no background service is required. The more you have drives the more search speed is increased thanks to its multi-threading technic.,"Categories
+Search Engines, File Managers, Cataloguing"
+Monolingual is a program for removing unnecessary language resources from Mac OS X.Monolingual is a program for removing unnecessary language resources from Mac OS X.,"Categories
+File Managers, Systems Administration"
+"PostInstallerF will install all the software that Fedora Linux and others doesn't include by default, after running Fedora for the first time. Its easy for a new user. PostInstallerF contains everything that you need for your daily computing.
+
+SPANISH
+PostinstallerF Instalara todo software que no se incluye por defecto. Es fácil para el nuevo usuario. No te compliques!
+---------------------------------------------------
+*How to Install PostInstallerF*
+
+from a terminal (5 steps):
+-----------------------------
+* FEDORA 23/24 *
+-----------------------------
+1) su
+
+2) dnf -y install wget
+
+3) rpm --import https://raw.githubusercontent.com/kuboosoft/postinstallerf/master/GPG/$(rpm -E %fedora)/RPM-GPG-KEY-postinstallerf
+
+4) wget -P /etc/yum.repos.d/ https://raw.github.com/kuboosoft/postinstallerf/master/postinstallerf.repo
+
+5) dnf clean all && dnf -y install postinstallerfPostInstallerF will install all the software that Fedora Linux and others doesn't include by default, after running Fedora for the first time. Its easy for a new user. PostInstallerF contains everything that you need for your daily computing.
+
+SPANISH
+PostinstallerF Instalara todo software que no se incluye por defecto. Es fácil para el nuevo usuario. No te compliques!
+---------------------------------------------------
+*How to Install PostInstallerF*
+
+from a terminal (5 steps):
+-----------------------------
+* FEDORA 23/24 *
+-----------------------------
+1) su
+
+2) dnf -y install wget
+
+3) rpm --import https://raw.githubusercontent.com/kuboosoft/postinstallerf/master/GPG/$(rpm -E %fedora)/RPM-GPG-KEY-postinstallerf
+
+4) wget -P /etc/yum.repos.d/ https://raw.github.com/kuboosoft/postinstallerf/master/postinstallerf.repo
+
+5) dnf clean all && dnf -y install postinstallerf","Categories
+System, Home Automation"
+"Debreate is a utility to aid in creating installable Debian packages (.deb).
+
+The goal behind the project is to make developing for Debian based Linux distributions more appealing, with an easy to use interface for packaging applications, artwork, media, themes, etc.
+
+Currently, it only supports ""binary"" packaging which allows packaging of anything that does not require being compiled from source, such as scripted applications or media. These packages can then be used for personal distribution.
+
+Plans for using backends such as dh_make & debuild for creating source packages are in the works. But source packaging can be quite different & is a must if you want to get your packages into a distribution's official repositories or a Launchpad Personal Package Archive (PPA).Debreate is a utility to aid in creating installable Debian packages (.deb).
+
+The goal behind the project is to make developing for Debian based Linux distributions more appealing, with an easy to use interface for packaging applications, artwork, media, themes, etc.
+
+Currently, it only supports ""binary"" packaging which allows packaging of anything that does not require being compiled from source, such as scripted applications or media. These packages can then be used for personal distribution.
+
+Plans for using backends such as dh_make & debuild for creating source packages are in the works. But source packaging can be quite different & is a must if you want to get your packages into a distribution's official repositories or a Launchpad Personal Package Archive (PPA).","Categories
+Software Development, Build Tools, Software Distribution"
+"IPplan is a web based, multilingual, IP address management, DNS and tracking tool based on php 4, simplifying the administration of your IP address space. IPplan can handle a single network or cater for multiple networks with overlapping address space.IPplan is a web based, multilingual, IP address management, DNS and tracking tool based on php 4, simplifying the administration of your IP address space. IPplan can handle a single network or cater for multiple networks with overlapping address space.","Categories
+Monitoring"
+AQEMU is a GUI for virtual machines using QEMU as the backend. Support for the KVM accelerator on Linux is provided. The application has a user-friendly interface and allows to set a large number of options.AQEMU is a GUI for virtual machines using QEMU as the backend. Support for the KVM accelerator on Linux is provided. The application has a user-friendly interface and allows to set a large number of options.,"Categories
+Virtual Machine, Emulators"
+"This program is designed to write a raw disk image to a removable device or backup a removable device to a raw image file. It is very useful for embedded development, namely Arm development projects (Android, Ubuntu on Arm, etc). Anyone is free to branch and modify this program. Patches are always welcome.
+
+This release is for Windows 7/8.1/10. It will should also work on Windows Server 2008/2012/2016 (although not tested by the developmers). For Windows XP/Vista, please use v0.9 (in the files archive).
+
+Warning: Issues have been reported when using to write to USB Floppy drives (and occasionally other USB devices, although very rare). While this has been fixed in v1.0, it is highly recommended that before an image is written to a device, the user should do a Read to a temporary file first. If this fails, please report the failure along with your system information.
+
+Known issues:
+Currently, the program will crash if you are using a Ramdisk. This is being debugged.This program is designed to write a raw disk image to a removable device or backup a removable device to a raw image file. It is very useful for embedded development, namely Arm development projects (Android, Ubuntu on Arm, etc). Anyone is free to branch and modify this program. Patches are always welcome.
+
+This release is for Windows 7/8.1/10. It will should also work on Windows Server 2008/2012/2016 (although not tested by the developmers). For Windows XP/Vista, please use v0.9 (in the files archive).
+
+Warning: Issues have been reported when using to write to USB Floppy drives (and occasionally other USB devices, although very rare). While this has been fixed in v1.0, it is highly recommended that before an image is written to a device, the user should do a Read to a temporary file first. If this fails, please report the failure along with your system information.
+
+Known issues:
+Currently, the program will crash if you are using a Ramdisk. This is being debugged.","Categories
+Storage, File Systems, Embedded Systems"
+"Hive Mind LOIC is a version of the Low Ordbit Ion Cannon made by Praetox, which was adapted for centralized control by NewEraCracker, when the project was then taken on by me. The amongst a few fixes I added RSS control (Such as via Twitter).Hive Mind LOIC is a version of the Low Ordbit Ion Cannon made by Praetox, which was adapted for centralized control by NewEraCracker, when the project was then taken on by me. The amongst a few fixes I added RSS control (Such as via Twitter).","Categories
+Security, Benchmark, Internet"
+Ping for life is a complete solution for network administrators and for people who must know the connection status through ICMP. It's the simpliest and most powerful ping graphical tool.Ping for life is a complete solution for network administrators and for people who must know the connection status through ICMP. It's the simpliest and most powerful ping graphical tool.,"Categories
+Monitoring"
+Update the Java JRE at the click of a button. JavaRa is a simple tool that does a simple job: it removes old and redundant versions of the Java Runtime Environment (JRE).Update the Java JRE at the click of a button. JavaRa is a simple tool that does a simple job: it removes old and redundant versions of the Java Runtime Environment (JRE).,"Categories
+Installation/Setup"
+"Front End to VPNC, a command line VPN client for Cisco VPN hardware. This client is known to work on: Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008 and Windows 7. It supports both 32 bit (x86) and 64 bit (x64/x86_64).Front End to VPNC, a command line VPN client for Cisco VPN hardware. This client is known to work on: Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008 and Windows 7. It supports both 32 bit (x86) and 64 bit (x64/x86_64).","Categories
+Networking, VPN"
+"Smoothwall is a best-of-breed Internet firewall/router, designed to run on commodity hardware and to provide an easy-to-use administration interface to those using it. Built using open source and Free software, it's distributed under the GNU Public License.Smoothwall is a best-of-breed Internet firewall/router, designed to run on commodity hardware and to provide an easy-to-use administration interface to those using it. Built using open source and Free software, it's distributed under the GNU Public License.","Categories
+Firewall"
+"openthinclient is a free open source thin client solution consisting of a Linux based operating system along with a comprehensive Java based management GUI and server component.
+It is intended for environments where a medium to large number of thin clients must be supported and managed efficiently.openthinclient is a free open source thin client solution consisting of a Linux based operating system along with a comprehensive Java based management GUI and server component.
+It is intended for environments where a medium to large number of thin clients must be supported and managed efficiently.","Categories
+Terminal Emulators, Networking, Installation/Setup"
+"These source codes for Synology NAS and related projects allow you to modify packages with the most languages on a single PC.
+The licenses used by these projects vary. Please refer to the LICENSE / COPYING / COPYRIGHT files included in each project or announcements in the source code.
+Please note that starting from 2021/7, we are moving some of these projects to this webpage (https://archive.synology.com/download/ToolChain). You can also find more resources in Synology Dev Center (https://www.synology.com/support/developer#tool).These source codes for Synology NAS and related projects allow you to modify packages with the most languages on a single PC.
+The licenses used by these projects vary. Please refer to the LICENSE / COPYING / COPYRIGHT files included in each project or announcements in the source code.
+Please note that starting from 2021/7, we are moving some of these projects to this webpage (https://archive.synology.com/download/ToolChain). You can also find more resources in Synology Dev Center (https://www.synology.com/support/developer#tool).","Categories
+File Managers"
+"usbpicprog is a Microchip PIC programmer with simple hardware: one PIC18F2550 and some components. It's therefore easy and cheap to build. Usbpicprog consists of 3 components: Hardware, Embedded software and a stand-alone program for Win, Mac and Linux.usbpicprog is a Microchip PIC programmer with simple hardware: one PIC18F2550 and some components. It's therefore easy and cheap to build. Usbpicprog consists of 3 components: Hardware, Embedded software and a stand-alone program for Win, Mac and Linux.","Categories
+Hardware, Scientific/Engineering"
+UDT: UDP-based Data Transfer ProtocolUDT: UDP-based Data Transfer Protocol,"Categories
+Communications, Networking, Internet"
+Allows control of fans in Apple computers in Windows and monitoring of temperatures. All Intel Macs supported + any conflicting programs are automatically closed and reopened. Project is no longer being actively developed. See forum for alternatives.Allows control of fans in Apple computers in Windows and monitoring of temperatures. All Intel Macs supported + any conflicting programs are automatically closed and reopened. Project is no longer being actively developed. See forum for alternatives.,"Categories
+Hardware Drivers"
+CoRD is a Mac OS X remote desktop client for Windows servers running Microsoft Remote Desktop or Terminal Services.CoRD is a Mac OS X remote desktop client for Windows servers running Microsoft Remote Desktop or Terminal Services.,"Categories
+Systems Administration, Remote Desktop"
+"pcapsipdump is libpcap-based SIP sniffer with per-call sorting capabilities. It writes SIP/RTP sessions to disk in a same format, as ""tcpdump -w"", but one file per SIP session (even if there is thousands of concurrent SIP sessions).
+
+Getting started: http://pcapsipdump.sf.net/pcapsipdump is libpcap-based SIP sniffer with per-call sorting capabilities. It writes SIP/RTP sessions to disk in a same format, as ""tcpdump -w"", but one file per SIP session (even if there is thousands of concurrent SIP sessions).
+
+Getting started: http://pcapsipdump.sf.net/","Categories
+Monitoring, Logging, VoIP"
+"Lilidog is a lightweight full featured distribution based on Debian with Openbox. Click on ""Files"" for a full description and available versions.
+The Download button defaults to the stable Lilidog-amd64 Bullseye version. Please go to Files -> Releases, to access the other versions.
+
+Website: https://lilidog.org/
+Forum: https://www.forum.lilidog.org/Lilidog is a lightweight full featured distribution based on Debian with Openbox. Click on ""Files"" for a full description and available versions.
+The Download button defaults to the stable Lilidog-amd64 Bullseye version. Please go to Files -> Releases, to access the other versions.
+
+Website: https://lilidog.org/
+Forum: https://www.forum.lilidog.org/","Categories
+Window Managers, OS distribution, Live CD"
+"Fully Customisable and Super Fast Free auto clicker. Fully-fledged with many modes of automatic clicking. Change click speed, cursor position, hotkeys and more with all settings saved.
+
+Forge Auto Clicker brings new, never seen before features to auto clicking. The AutoClicker is fully customizable with many useful functions as well as being easy to use, fast and free! As well as this, Forge Auto Clicker comes with no ads or malware making an amazing user experience!
+
+Use this autoclicker on ANY game! Minecraft, Roblox and more!
+
+Forge Auto Clicker Tutorial: https://youtu.be/v8_nevMgjL8
+
+Official Website for Help and More: https://flynnsforge.com/
+
+NOTE: Forge Auto Clicker is NOT a virus, certain anti-virus programs and search engines detect this as a false positive, however, it will not harm your computer. For more info, head to https://flynnsforge.com
+
+Find out what's new in Version 1.1.2 here: https://flynnsforge.com/forge-auto-clicker-update-1-1-2-released/Fully Customisable and Super Fast Free auto clicker. Fully-fledged with many modes of automatic clicking. Change click speed, cursor position, hotkeys and more with all settings saved.
+
+Forge Auto Clicker brings new, never seen before features to auto clicking. The AutoClicker is fully customizable with many useful functions as well as being easy to use, fast and free! As well as this, Forge Auto Clicker comes with no ads or malware making an amazing user experience!
+
+Use this autoclicker on ANY game! Minecraft, Roblox and more!
+
+Forge Auto Clicker Tutorial: https://youtu.be/v8_nevMgjL8
+
+Official Website for Help and More: https://flynnsforge.com/
+
+NOTE: Forge Auto Clicker is NOT a virus, certain anti-virus programs and search engines detect this as a false positive, however, it will not harm your computer. For more info, head to https://flynnsforge.com
+
+Find out what's new in Version 1.1.2 here: https://flynnsforge.com/forge-auto-clicker-update-1-1-2-released/","Categories
+Auto Clicker, Roblox Mods, Minecraft Mods"
+"you can follow progress, new stuff at https://www.EliteDevelopment.com.pk
+Support on: https://Paypal.me/deanfauzifirdausyou can follow progress, new stuff at https://www.EliteDevelopment.com.pk
+Support on: https://Paypal.me/deanfauzifirdaus","Categories
+ROMs"
+"Autoclicker and holder for mouse buttons and keyboard keys.
+
+A small program to autoclick or hold keyboard keys or mouse buttons.
+
+Can be downloaded as .exe as well as the original .py file.
+
+The source code is written in Python with alongside PySide6 and Pynput.
+
+The program is distributed under the Unlicense ( https://unlicense.org/ )
+
+Program created in collaboration with Luigi Panetti.
+
+------------------------------------------------------------------------------------------
+
+Un piccolo programma per autocliccare o tenere premuti dei tasti della tastiera o il tasto sinistro/destro del mouse
+
+Visita il nostro sito: softwareveloce.weebly.com
+
+Disponibile in .exe e il file .py originale.
+
+Il codice sorgente è scritto in Python insieme a Tkinter, Pynput, Pyautogui, Time, Threading e Webbrowser.
+
+Programma creato in collaborazione con Luigi Panetti.Autoclicker and holder for mouse buttons and keyboard keys.
+
+A small program to autoclick or hold keyboard keys or mouse buttons.
+
+Can be downloaded as .exe as well as the original .py file.
+
+The source code is written in Python with alongside PySide6 and Pynput.
+
+The program is distributed under the Unlicense ( https://unlicense.org/ )
+
+Program created in collaboration with Luigi Panetti.
+
+------------------------------------------------------------------------------------------
+
+Un piccolo programma per autocliccare o tenere premuti dei tasti della tastiera o il tasto sinistro/destro del mouse
+
+Visita il nostro sito: softwareveloce.weebly.com
+
+Disponibile in .exe e il file .py originale.
+
+Il codice sorgente è scritto in Python insieme a Tkinter, Pynput, Pyautogui, Time, Threading e Webbrowser.
+
+Programma creato in collaborazione con Luigi Panetti.","Categories
+Auto Clicker"
+"SystemTrayMenu is an open source 'Desktop Toolbar' or 'Start Menu' alternative.
+It offers a clear, personalized menu which can be controlled via keyboard, mouse or touchscreen. Files, links and folders are organized in several levels as dropdown menus. Various options like appearance, hotkey, autostart and behavior can be adjusted.
+It is written in C# and using .NET 6.
+
+SystemTrayMenu is portable, so it does not need to be installed. After downloading the zip file, unzip the folder, then start SystemTrayMenu.exe. After starting the application the first time you have to choose the root directory. In this directory you should put shortcuts, files and folders (App, Game, Script, URL, Network), which you are often using and especially when you can not find them over the windows start menu search. You can also consider to put there all files from your desktop.
+
+If you have ideas, questions or a problem you can contact the developer Markus Hofknecht via GitHub or email.SystemTrayMenu is an open source 'Desktop Toolbar' or 'Start Menu' alternative.
+It offers a clear, personalized menu which can be controlled via keyboard, mouse or touchscreen. Files, links and folders are organized in several levels as dropdown menus. Various options like appearance, hotkey, autostart and behavior can be adjusted.
+It is written in C# and using .NET 6.
+
+SystemTrayMenu is portable, so it does not need to be installed. After downloading the zip file, unzip the folder, then start SystemTrayMenu.exe. After starting the application the first time you have to choose the root directory. In this directory you should put shortcuts, files and folders (App, Game, Script, URL, Network), which you are often using and especially when you can not find them over the windows start menu search. You can also consider to put there all files from your desktop.
+
+If you have ideas, questions or a problem you can contact the developer Markus Hofknecht via GitHub or email.","Categories
+Window Managers, Search, File Systems"
+"Welcome to Guzram's Ports World! This is the only official sourceforge of Guzram's Build, take a look of the available OEM Ports collection and have fun with it!
+
+Please note : All of these ports is NOT PORTED GSI based.
+
+A Great Support by AncientFamily
+Big thanks to All my DragonMembers of lavender and whyred <3
+And you who susbscribed my channel <3Welcome to Guzram's Ports World! This is the only official sourceforge of Guzram's Build, take a look of the available OEM Ports collection and have fun with it!
+
+Please note : All of these ports is NOT PORTED GSI based.
+
+A Great Support by AncientFamily
+Big thanks to All my DragonMembers of lavender and whyred <3
+And you who susbscribed my channel <3","Categories
+ROMs"
+DS4Window is an open-source program that will allow someone to get the experience of using a Playstation 4 DualShock Controller on a PC by emulating a Xbox 360 Controller.DS4Window is an open-source program that will allow someone to get the experience of using a Playstation 4 DualShock Controller on a PC by emulating a Xbox 360 Controller.,"Categories
+Games/Entertainment, Hardware Drivers"
+"Bliss OS (x86)
+Android for your PC
+An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years
+
+Our support options use Telegram chats.
+Bliss OS (x86) Support chat: https://t.me/blissx86
+Bliss ROM/OS Build Support chat: https://t.me/Team_Bliss_Build_Support
+Android-Generic Project development chat:
+https://t.me/androidgenericpcBliss OS (x86)
+Android for your PC
+An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years
+
+Our support options use Telegram chats.
+Bliss OS (x86) Support chat: https://t.me/blissx86
+Bliss ROM/OS Build Support chat: https://t.me/Team_Bliss_Build_Support
+Android-Generic Project development chat:
+https://t.me/androidgenericpc","Categories
+OS distribution, Live CD, ROMs"
+"Now in Strategic Collaboration with Innotech http://Inotechsoln.com
+
+An open source Linux Distro that is based on Debian 10, and was made possible with the great support from eznix (https://sourceforge.net/projects/eznixos/ ).
+Made for ease of use and reasonably secure with minimum resource utilization for office, home, internet and off-line use
+PakOS on Debian Derivatives List (https://wiki.debian.org/Derivatives/Census/PakOS)
+PakOS on LWN as one of the 1st Pakistan Based Linux Distro (https://static.lwn.net/Distributions/#pakistan)
+
+PakOS accepted on DistroWatch as Only Pakistani Linux OS
+https://distrowatch.com/table.php?distribution=pakos&pkglist=true&version=2020-08-24
+
+Please contact me on gsm.pakos@gmail.com for tips, tricks, advice and suggestions or join my Discord server at https://discord.gg/DvBGxAW2D4 to learn together.
+
+A New Fan Made Video Channel at https://www.youtube.com/channel/UCpfNVxHxmtVNpNqASBC14BQ for PakOS tips and tricksNow in Strategic Collaboration with Innotech http://Inotechsoln.com
+
+An open source Linux Distro that is based on Debian 10, and was made possible with the great support from eznix (https://sourceforge.net/projects/eznixos/ ).
+Made for ease of use and reasonably secure with minimum resource utilization for office, home, internet and off-line use
+PakOS on Debian Derivatives List (https://wiki.debian.org/Derivatives/Census/PakOS)
+PakOS on LWN as one of the 1st Pakistan Based Linux Distro (https://static.lwn.net/Distributions/#pakistan)
+
+PakOS accepted on DistroWatch as Only Pakistani Linux OS
+https://distrowatch.com/table.php?distribution=pakos&pkglist=true&version=2020-08-24
+
+Please contact me on gsm.pakos@gmail.com for tips, tricks, advice and suggestions or join my Discord server at https://discord.gg/DvBGxAW2D4 to learn together.
+
+A New Fan Made Video Channel at https://www.youtube.com/channel/UCpfNVxHxmtVNpNqASBC14BQ for PakOS tips and tricks","Categories
+OS distribution"
+"Pixel Dust ROM is based off directly from AOSP -- our philosophy is to keep the Pixel Dust Experience as close as possible to Android as Google intended.
+
+We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. Thanks to all android open source development teams.Pixel Dust ROM is based off directly from AOSP -- our philosophy is to keep the Pixel Dust Experience as close as possible to Android as Google intended.
+
+We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. Thanks to all android open source development teams.","Categories
+ROMs"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Project Samples","Categories
+ROMs"
+"This tool will help you to monitoring your office IT environment.
+
+It will signals to you, if some hosts are unavailable (or answer time is to long, its ""CPU is overloaded"", ""available RAM is Low"", ""low logical disks free space"", ""disks overloaded"" or 'network adapters overloaded...').
+
+Data data retrieval support ICMP, Windows and Linux Agents, SNMP OID metrics;
+
+Notifications by: E-Mail, SMS, Push, Telegram Bot (also control via telegram bot) and Sound Notifications.
+
+
+Logging. Statistics Reporting.
+
+Import hosts from Active Directory or CSV
+
+Open Web API and Web Console.
+
+Official website : https://spm-monitoring.com/
+Version Change Log: https://spm-monitoring.com/change-log/
+
+Web Console Open Source : https://github.com/dmitrykw/SPM-Monitoring-WebConsoleThis tool will help you to monitoring your office IT environment.
+
+It will signals to you, if some hosts are unavailable (or answer time is to long, its ""CPU is overloaded"", ""available RAM is Low"", ""low logical disks free space"", ""disks overloaded"" or 'network adapters overloaded...').
+
+Data data retrieval support ICMP, Windows and Linux Agents, SNMP OID metrics;
+
+Notifications by: E-Mail, SMS, Push, Telegram Bot (also control via telegram bot) and Sound Notifications.
+
+
+Logging. Statistics Reporting.
+
+Import hosts from Active Directory or CSV
+
+Open Web API and Web Console.
+
+Official website : https://spm-monitoring.com/
+Version Change Log: https://spm-monitoring.com/change-log/
+
+Web Console Open Source : https://github.com/dmitrykw/SPM-Monitoring-WebConsole","Categories
+Systems Administration, Networking, Monitoring"
+"LibreOffice is a free and powerful office suite. Word processor, spreadsheet, presentations, diagrams, databases, formula editors, charts, and more. Compatible with Windows, Mac, and Linux.Features
+Based on Arch Linux
+Gnome 3 Desktop
+Stylish Themes & Icons
+Rolling Release
+Startup greeting","Categories
+GNOME, Operating System Kernels"
+Cleans your windows Installer directory of orphaned and redundant installation (.msi) and patch (.msp) filesCleans your windows Installer directory of orphaned and redundant installation (.msi) and patch (.msp) files,"Categories
+Installation/Setup, File Systems"
+"Mabox is a Manjaro based, desktop Linux distribution. The project ships with Openbox as the default desktop with pinch of customistations and home-brewed tools, like improved menu, side-panels and Mabox Control Center.
+Works great even on weaker computers.Mabox is a Manjaro based, desktop Linux distribution. The project ships with Openbox as the default desktop with pinch of customistations and home-brewed tools, like improved menu, side-panels and Mabox Control Center.
+Works great even on weaker computers.","Categories
+System"
+"ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/ScriptCommunicator (scriptable data terminal) script which routes:
+- serial port (RS232, USB to serial) <-> TCP/IP (Client/Server)
+- serial port (RS232, USB to serial) <-> UDP/IP
+- TCP/IP (Client/Server) <-> UDP/IP
+
+ScriptCommunicator can be found here: https://sourceforge.net/projects/scriptcommunicator/","Categories
+Serial, Communications, Router"
+"Visual Syslog Server for Windows is a free open source program to receive and view syslog messages.
+Useful when setting up routers and systems based on Unix/Linux.
+
+Visual Syslog Server for Windows has a live messages view: switches to a new received message. Helpful color highlighting.
+Useful message filtering. Customizable notification and actions.
+
+Sources hosted on the GitHub:
+https://github.com/MaxBelkov/visualsyslogVisual Syslog Server for Windows is a free open source program to receive and view syslog messages.
+Useful when setting up routers and systems based on Unix/Linux.
+
+Visual Syslog Server for Windows has a live messages view: switches to a new received message. Helpful color highlighting.
+Useful message filtering. Customizable notification and actions.
+
+Sources hosted on the GitHub:
+https://github.com/MaxBelkov/visualsyslog","Categories
+Log Analysis, Monitoring, Logging"
+"Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodingsAegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports.
+
+Binaries are available in the form of NuGet package:
+https://www.nuget.org/packages/AIM
+
+Please check http://pki.tools/aim.html as well
+
+AIM Supports :
+* None Ssl Mails
+* Implicit Ssl Mails
+* Explicit Ssl Mails
+* Smtp Connection test
+* Detect Ssl type of mail server
+* Attachments for MIME and S/MIME message.
+* In-line attachment and separate file attachment
+* All content types and mimes
+* SMIME , Signed and Encrypted mails
+In an integrated way
+
+Sadly, Microsoft.Net.Mail Ssl Mails does not support Implicit Ssl Mail and it is still used by many servers, including port 465 of Gmail here AIM comes to make a readable and fast alternative to send your smtp mails.
+
+
+For unicode issues please refer to https://sourceforge.net/p/netimplicitssl/tickets/4/ . We really appriciate any help in testing of different encodings","Categories
+Email, Email Clients, Cryptography, Email Servers"
+"The aim of this small windows network bridging utility is to administrate network bridges by command line. Currently Microsoft Windows only supports modifying bridges by GUI. Builtin netsh has only spare support for network bridges and is restricted to setting compatibility mode for specific adapters.
+
+Todos: Windows 8/8.1 supportThe aim of this small windows network bridging utility is to administrate network bridges by command line. Currently Microsoft Windows only supports modifying bridges by GUI. Builtin netsh has only spare support for network bridges and is restricted to setting compatibility mode for specific adapters.
+
+Todos: Windows 8/8.1 support","Categories
+Systems Administration, Networking"
+"AmiPUP is a very small, lightweight “live boot” Linux system built on the Puppy Linux distro. AmiPUP works with almost any x86 computer that can boot from CD or USB (USB booting doesn't work with Macs). At boot, AmiPUP loads EVERYTHING into ram, so all applications load blazing fast! Changes can be saved to the USB or multi-session CD boot device (or not at all). The host system is never touched!AmiPUP is a very small, lightweight “live boot” Linux system built on the Puppy Linux distro. AmiPUP works with almost any x86 computer that can boot from CD or USB (USB booting doesn't work with Macs). At boot, AmiPUP loads EVERYTHING into ram, so all applications load blazing fast! Changes can be saved to the USB or multi-session CD boot device (or not at all). The host system is never touched!","Categories
+Live CD"
+C++ Application to Control a Logitech Harmony Hub. See the Readme in the Files section for more information.C++ Application to Control a Logitech Harmony Hub. See the Readme in the Files section for more information.,"Categories
+Hardware Drivers"
+Angel Linux 3 now availableAngel Linux 3 now available,"Categories
+OS distribution, Live CD"
+"Xiaopan OS is an easy to use software package for beginners and experts that includes a number of advanced hacking tools to penetrate WPA / WPA2 / WPS / WEP wireless networks.
+
+Based on the Tiny Core Linux (TCL) operating system (OS), it has a slick graphical user interface (GUI) requiring no need for typing Linux commands. Xiaopan OS is Windows, Mac and Linux compatible and users can simply install and boot this ~70mb OS through a USB pen drive or in a virtual machine (VM) environment.
+
+Some of the tools included are Inflator, Aircrack-ng, Minidwep GTK, XFE, wifite and feeding bottle. Supported cards include RTL8187L, RT3070, AR9271 and many more.Xiaopan OS is an easy to use software package for beginners and experts that includes a number of advanced hacking tools to penetrate WPA / WPA2 / WPS / WEP wireless networks.
+
+Based on the Tiny Core Linux (TCL) operating system (OS), it has a slick graphical user interface (GUI) requiring no need for typing Linux commands. Xiaopan OS is Windows, Mac and Linux compatible and users can simply install and boot this ~70mb OS through a USB pen drive or in a virtual machine (VM) environment.
+
+Some of the tools included are Inflator, Aircrack-ng, Minidwep GTK, XFE, wifite and feeding bottle. Supported cards include RTL8187L, RT3070, AR9271 and many more.","Categories
+Security, Software Distribution, Live CD"
+"The tool offers you end-to-end views of your storage environment including LAN and SAN and can save you significant money in operation monitoring and by predicting utilization bottlenecks in your virtualized environment.
+You can also generate policy-based alerts, view overall health status of your systems, reduce service downtime, use capacity and forecasting data
+
+- Real-time storage performance visibility in LAN and SAN multi-vendor environment
+- Historical reporting (graph, CSV, PDF)
+- Alerting based on performance thresholds
+- Storage event monitoring
+
+The tool supports enterprise class level storage devices from major storage vendors like: IBM, Dell EMC, NetAPP, HPE, Hitachi, Lenovo, Pure Storage, Huawei, Dot Hill, INFINIDAT, Fujitsu, DataCore, Quantum, QNAP, FalconStor,Ceph, Synology, RAIDIX, Qumulo,Inspur,Veritas
+
+Monitoring of the SAN supports Brocade, Qlogic and Cisco SAN switches
+Monitoring of the LAN network
+
+Try demo at http://demo.stor2rrd.comThe tool offers you end-to-end views of your storage environment including LAN and SAN and can save you significant money in operation monitoring and by predicting utilization bottlenecks in your virtualized environment.
+You can also generate policy-based alerts, view overall health status of your systems, reduce service downtime, use capacity and forecasting data
+
+- Real-time storage performance visibility in LAN and SAN multi-vendor environment
+- Historical reporting (graph, CSV, PDF)
+- Alerting based on performance thresholds
+- Storage event monitoring
+
+The tool supports enterprise class level storage devices from major storage vendors like: IBM, Dell EMC, NetAPP, HPE, Hitachi, Lenovo, Pure Storage, Huawei, Dot Hill, INFINIDAT, Fujitsu, DataCore, Quantum, QNAP, FalconStor,Ceph, Synology, RAIDIX, Qumulo,Inspur,Veritas
+
+Monitoring of the SAN supports Brocade, Qlogic and Cisco SAN switches
+Monitoring of the LAN network
+
+Try demo at http://demo.stor2rrd.com","Categories
+Storage, Systems Administration, Monitoring"
+"# Summary:
+Tux Hat Linux is a Arch Linux Based Distro. K.I.S.S. principle, keeping the UNIX logic within a GNU/Linux System. This OS has a main menu script / auto session program call tuxhatlinux within that you can load up Fluxbox, also have setup-tuxhat to setup the system live session and to install it to a HDD. It is a very lightweight distro. and giving the users the freedom at hands.
+
+# Tux Hat Linux Pastebin to use, modified, study, and learn from the source.
+http://pastebin.com/u/unixwz0r
+
+# Info:
+The Live ISO is under 700mb and can be put on a CD-R/DVD-R/USB and boot up on any x86 & x86_64 PC computers. Fluxbox has a simular config to FluxBSD, and Fluxbox has been updated to 1.3.7.
+
+# IRC Freenode:
+irc.freenode.net #bsdgeekclub
+@UNIXwz0r (owner) Tux Hat Linux Project
+
+# More Screenshots
+http://ipodpunker.deviantart.com# Summary:
+Tux Hat Linux is a Arch Linux Based Distro. K.I.S.S. principle, keeping the UNIX logic within a GNU/Linux System. This OS has a main menu script / auto session program call tuxhatlinux within that you can load up Fluxbox, also have setup-tuxhat to setup the system live session and to install it to a HDD. It is a very lightweight distro. and giving the users the freedom at hands.
+
+# Tux Hat Linux Pastebin to use, modified, study, and learn from the source.
+http://pastebin.com/u/unixwz0r
+
+# Info:
+The Live ISO is under 700mb and can be put on a CD-R/DVD-R/USB and boot up on any x86 & x86_64 PC computers. Fluxbox has a simular config to FluxBSD, and Fluxbox has been updated to 1.3.7.
+
+# IRC Freenode:
+irc.freenode.net #bsdgeekclub
+@UNIXwz0r (owner) Tux Hat Linux Project
+
+# More Screenshots
+http://ipodpunker.deviantart.com","Categories
+Operating System Kernels, Live CD"
+"BitKiller securely shreds files and directories, removing them completely from your hard disk. It can quickly and efficiently overwrite files using anything from random data to the Gutmann method. It also changes filenames to make them harder to find. No setup or installation needed.BitKiller securely shreds files and directories, removing them completely from your hard disk. It can quickly and efficiently overwrite files using anything from random data to the Gutmann method. It also changes filenames to make them harder to find. No setup or installation needed.","Categories
+Security, File Systems"
+"Operative Systems Suported are:
+Linux-ubuntu, kali-linux, backtack-linux (un-continued), freeBSD, Mac osx (un-continued)
+
+Netool its a toolkit written using 'bash, python, ruby' that allows you to automate frameworks like Nmap, Driftnet, Sslstrip, Metasploit and Ettercap MitM attacks. this toolkit makes it easy tasks such as SNIFFING tcp/udp traffic, Man-In-The-Middle attacks, SSL-sniff, DNS-spoofing, D0S attacks in wan/lan networks, TCP/UDP packet manipulation using etter-filters, and gives you the ability to capture pictures of target webbrowser surfing (driftnet), also uses macchanger to decoy scans changing the mac address.
+
+Rootsector module allows you to automate some attacks over DNS_SPOOF + MitM (phishing - social engineering) using metasploit, apache2 and ettercap frameworks. Like the generation of payloads, shellcode, backdoors delivered using dns_spoof and MitM method to redirect a target to your phishing webpage. recent as introducted the scanner inurlbr (by cleiton)Operative Systems Suported are:
+Linux-ubuntu, kali-linux, backtack-linux (un-continued), freeBSD, Mac osx (un-continued)
+
+Netool its a toolkit written using 'bash, python, ruby' that allows you to automate frameworks like Nmap, Driftnet, Sslstrip, Metasploit and Ettercap MitM attacks. this toolkit makes it easy tasks such as SNIFFING tcp/udp traffic, Man-In-The-Middle attacks, SSL-sniff, DNS-spoofing, D0S attacks in wan/lan networks, TCP/UDP packet manipulation using etter-filters, and gives you the ability to capture pictures of target webbrowser surfing (driftnet), also uses macchanger to decoy scans changing the mac address.
+
+Rootsector module allows you to automate some attacks over DNS_SPOOF + MitM (phishing - social engineering) using metasploit, apache2 and ettercap frameworks. Like the generation of payloads, shellcode, backdoors delivered using dns_spoof and MitM method to redirect a target to your phishing webpage. recent as introducted the scanner inurlbr (by cleiton)","Categories
+Security, Monitoring"
+"THIS IS NOT WHONIX'S HOMEPAGE. Please go to:
+https://www.whonix.org/
+
+(This is only Whonix's sourceforge must-have project page.)
+
+Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
+
+Whonix consists of two parts: One solely runs Tor and acts as a gateway, which we call Whonix-Gateway. The other, which we call Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible.
+
+Whonix is produced independently of, and carries no guarantee from, The Tor Project.
+
+For download:
+https://www.whonix.org/wiki/DownloadTHIS IS NOT WHONIX'S HOMEPAGE. Please go to:
+https://www.whonix.org/
+
+(This is only Whonix's sourceforge must-have project page.)
+
+Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
+
+Whonix consists of two parts: One solely runs Tor and acts as a gateway, which we call Whonix-Gateway. The other, which we call Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible.
+
+Whonix is produced independently of, and carries no guarantee from, The Tor Project.
+
+For download:
+https://www.whonix.org/wiki/Download","Categories
+Security, Software Distribution"
+"Emmabuntüs is a desktop GNU/Linux distribution based on Debian Stable on XFCE/LXQt, made specifically for refurbished computers destined for humanitarian organisations, and to promote the discovery of GNU/Linux by beginners, as well as to extend the lifespan of hardware and to reduce over consumption & waste in electronics.
+
+It strives to be beginner-friendly and reasonably light on resources so that it can be used on older computers. It also includes many modern features, such as a large number of pre-configured programs for everyday use, dockbar for launching applications, easy installation of non-free software and media codecs, and quick setup through automated scripts.
+
+Emmabuntüs is also a method of refurbishing key : https://emmabuntus.org/realisation-de-la-cle-usb-de-reemploi-emmabuntus-sous-ventoy/
+
+Tutorials : https://emmabuntus.org/tutoriels/
+
+All international reviews: http://distrowatch.com/table.php?distribution=emmabuntusEmmabuntüs is a desktop GNU/Linux distribution based on Debian Stable on XFCE/LXQt, made specifically for refurbished computers destined for humanitarian organisations, and to promote the discovery of GNU/Linux by beginners, as well as to extend the lifespan of hardware and to reduce over consumption & waste in electronics.
+
+It strives to be beginner-friendly and reasonably light on resources so that it can be used on older computers. It also includes many modern features, such as a large number of pre-configured programs for everyday use, dockbar for launching applications, easy installation of non-free software and media codecs, and quick setup through automated scripts.
+
+Emmabuntüs is also a method of refurbishing key : https://emmabuntus.org/realisation-de-la-cle-usb-de-reemploi-emmabuntus-sous-ventoy/
+
+Tutorials : https://emmabuntus.org/tutoriels/
+
+All international reviews: http://distrowatch.com/table.php?distribution=emmabuntus","Categories
+Software Distribution, OS distribution, Live CD"
+"Smartcard access lib for Arduino based boards connected directly to a smartcard.
+
+This is currently a work in progress.
+
+Currently it is possible to communicate with a smartcard directly connected to a Arduino board or connected via a TDA8024T (or compatible chips. e.g. DS8024).
+
+All tests have been done with a smart card slot connected directly to the Aruino board.
+
+Working:
+- Activation of asynchronous and synchronous smart cards
+- Exchanging data with supported Smart card (Sending / Receiving)
+- Asychron T=0 APDU communication.
+- Basic sychron communication
+- ETU calculation from TS byte.
+- Support class for SLE4432 / SLE4442 / SLE4441 and SLE4440 compatible sychron smartcards.
+Mostly used for secure data storage.
+
+Open points:
+- Error handling not completly implemented.
+No retries if parity error is found.
+- Setup of communication parameters from ATR
+- T=1 communication not supported (Still possible via ""raw"" sendBytes(..) / receiveBytes(..))Smartcard access lib for Arduino based boards connected directly to a smartcard.
+
+This is currently a work in progress.
+
+Currently it is possible to communicate with a smartcard directly connected to a Arduino board or connected via a TDA8024T (or compatible chips. e.g. DS8024).
+
+All tests have been done with a smart card slot connected directly to the Aruino board.
+
+Working:
+- Activation of asynchronous and synchronous smart cards
+- Exchanging data with supported Smart card (Sending / Receiving)
+- Asychron T=0 APDU communication.
+- Basic sychron communication
+- ETU calculation from TS byte.
+- Support class for SLE4432 / SLE4442 / SLE4441 and SLE4440 compatible sychron smartcards.
+Mostly used for secure data storage.
+
+Open points:
+- Error handling not completly implemented.
+No retries if parity error is found.
+- Setup of communication parameters from ATR
+- T=1 communication not supported (Still possible via ""raw"" sendBytes(..) / receiveBytes(..))","Categories
+Hardware Drivers"
+"Volume Step Adjuster allows you to adjust the increment/decrement step of your system volume when you use your multimedia keys. By default, this step is 2% or 4%, which may be not appropriate for high-precision setting. With Volume Step Adjuster you can set this volume step to any valid value, for example, you can set the volume step to 1% or even 0.1%. The real volume step resolution available depends on your device.
+
+Note, however, that this tool only configures increment/decrement step. It does not adjusts increment/decrement speed or any other parameters.
+
+This program will only run on Windows 7 and, probably, later versions. This app may work incorrectly or may not work at all, if you're running any programs which intercept volume control multimedia keys input.Volume Step Adjuster allows you to adjust the increment/decrement step of your system volume when you use your multimedia keys. By default, this step is 2% or 4%, which may be not appropriate for high-precision setting. With Volume Step Adjuster you can set this volume step to any valid value, for example, you can set the volume step to 1% or even 0.1%. The real volume step resolution available depends on your device.
+
+Note, however, that this tool only configures increment/decrement step. It does not adjusts increment/decrement speed or any other parameters.
+
+This program will only run on Windows 7 and, probably, later versions. This app may work incorrectly or may not work at all, if you're running any programs which intercept volume control multimedia keys input.","Categories
+System, Sound/Audio"
+"Porting Android to the iPAQ 200/210/211/212/214 or equilivalent. It has a 4-inch VGA Screen (TFT LCD display), resistive touchscreen, WiFi, Bluetooth, SD/MMC, CF. Originally it is running Windows Mobile 6 Classic. For help, see README files and the wiki. This project is in Alpha state, that means it is not suitable for daily usage unless developing for the project. NOT FOR THE FAINTHEARTED AND/OR COMPUTER IDIOTS!Porting Android to the iPAQ 200/210/211/212/214 or equilivalent. It has a 4-inch VGA Screen (TFT LCD display), resistive touchscreen, WiFi, Bluetooth, SD/MMC, CF. Originally it is running Windows Mobile 6 Classic. For help, see README files and the wiki. This project is in Alpha state, that means it is not suitable for daily usage unless developing for the project. NOT FOR THE FAINTHEARTED AND/OR COMPUTER IDIOTS!","Categories
+Embedded Systems"
+"TeemIp is a free, open source, WEB based, IP Address Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4, IPv6 and DNS spaces: track user requests, discover and allocate IPs, manage your IP plan, your subnet space, your zones and DNS records in accordance with best in class DDI practices.
+
+At the same time, TeemIp's CMDB allows you to manage your IT inventory and links your CIs to the IPs they use.
+
+Project source code is located on https://github.com/TeemIPTeemIp is a free, open source, WEB based, IP Address Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4, IPv6 and DNS spaces: track user requests, discover and allocate IPs, manage your IP plan, your subnet space, your zones and DNS records in accordance with best in class DDI practices.
+
+At the same time, TeemIp's CMDB allows you to manage your IT inventory and links your CIs to the IPs they use.
+
+Project source code is located on https://github.com/TeemIP","Categories
+DNS, Networking, Configuration Management Database (CMDB), IT Subnet Calculators"
+"FATSort is a small utilitiy for Linux that sorts directory structures of FAT12, FAT16, FAT32 and exFAT file systems. It is written in C and can be run from the command line.FATSort is a small utilitiy for Linux that sorts directory structures of FAT12, FAT16, FAT32 and exFAT file systems. It is written in C and can be run from the command line.","Categories
+File Systems"
+SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.SerialToIP is a simple Terminal Server software providing transparent pipe either in TCP server or TCP client socket mode from TCP/IP to a pre-configured serial port. Implemented in C# for .NET 2.0 so the command line version could work in Mono-runtime as well.,"Categories
+Serial, Home Automation, Performance Testing"
+"Finalmente um layout de teclado completo de ABNT2 para Mac OS X. Este projeto possui dois layouts:
+
+* Para teclados do Mac Book e Mac Book Pro
+* Para teclados ABNT2 conectados em seu Mac por USB ou PS/2
+
+----
+Atualização 0.5
+Por algum motivo estranho, a Apple mudou o código da saida das teclas '"" para \| e vice-versa, para o layout PC. Essa versão arruma isso.
+
+----
+Wow... 12k downloads ao longo do tempo. Quem diria. Espero que gostem.
+
+Qualquer problema, deixem comentários. Adorarei saber que ainda existem pessoas usando isso.Finalmente um layout de teclado completo de ABNT2 para Mac OS X. Este projeto possui dois layouts:
+
+* Para teclados do Mac Book e Mac Book Pro
+* Para teclados ABNT2 conectados em seu Mac por USB ou PS/2
+
+----
+Atualização 0.5
+Por algum motivo estranho, a Apple mudou o código da saida das teclas '"" para \| e vice-versa, para o layout PC. Essa versão arruma isso.
+
+----
+Wow... 12k downloads ao longo do tempo. Quem diria. Espero que gostem.
+
+Qualquer problema, deixem comentários. Adorarei saber que ainda existem pessoas usando isso.","Categories
+Hardware Drivers"
+"Resara Server is an Active Directory compatible open source server for small businesses designed around Samba 4. It is designed to be simple and easy to use. The management console lets you manage users, share files, and configure DHCP and DNS.Resara Server is an Active Directory compatible open source server for small businesses designed around Samba 4. It is designed to be simple and easy to use. The management console lets you manage users, share files, and configure DHCP and DNS.","Categories
+File Sharing, Networking"
+High performance PPTP/L2TP/PPPoE/IPoE server for Linux.High performance PPTP/L2TP/PPPoE/IPoE server for Linux.,"Categories
+Networking"
+"This project has created scientific firmware for the HP-20b and HP-30b business calculators.
+
+WP 34S turns either of these calculators into a powerful keystroke programmable scientific device. According to our customers, it's the most powerful and fastest RPN scientific pocket calculator ever built.
+
+WP 34S is alive and stable since 2011. We have succeeded in satisfying the most picky users - read about their experiences on http://www.hpmuseum.org/forum/forum-8.html. Since 2014, WP 34S runs in version 3.3. Our customers confirm its documentation is excellent and comprehensive (see feedback); a full-color printed edition is available from https://www.amazon.com/dp/153366238X since 2018-10-15. Alternatively, you can get a personalized pdf-manual for a ≥ 9 US$ donation here.
+
+We have also produced the WP 31S which is derived from the WP 34S source code. This is an entry-level scientific calculator. Its printed manual is available from https://www.amazon.com/dp/1499231164 .This project has created scientific firmware for the HP-20b and HP-30b business calculators.
+
+WP 34S turns either of these calculators into a powerful keystroke programmable scientific device. According to our customers, it's the most powerful and fastest RPN scientific pocket calculator ever built.
+
+WP 34S is alive and stable since 2011. We have succeeded in satisfying the most picky users - read about their experiences on http://www.hpmuseum.org/forum/forum-8.html. Since 2014, WP 34S runs in version 3.3. Our customers confirm its documentation is excellent and comprehensive (see feedback); a full-color printed edition is available from https://www.amazon.com/dp/153366238X since 2018-10-15. Alternatively, you can get a personalized pdf-manual for a ≥ 9 US$ donation here.
+
+We have also produced the WP 31S which is derived from the WP 34S source code. This is an entry-level scientific calculator. Its printed manual is available from https://www.amazon.com/dp/1499231164 .","Categories
+Scientific/Engineering, Embedded Systems, Calculators, Scientific Calculators, RPN Calculators"
+"vRenamer is an easy to use mass renamer with a lot of options. It's able to insert, remove, and replace strings, extract audio and images metadata, write audio metadata, change length, numbrering, undo/redo, and much more. Tested in Windows, Mac and Linux.vRenamer is an easy to use mass renamer with a lot of options. It's able to insert, remove, and replace strings, extract audio and images metadata, write audio metadata, change length, numbrering, undo/redo, and much more. Tested in Windows, Mac and Linux.","Categories
+File Managers"
+AriOS is an ubuntu remix with a unique look and feel and loads of extra software. More info at http://arioslinux.org :: کاربران ایرانی و فارسی‌زبان لطفا نسخه مخصوص ایران را دریافت کنید.AriOS is an ubuntu remix with a unique look and feel and loads of extra software. More info at http://arioslinux.org :: کاربران ایرانی و فارسی‌زبان لطفا نسخه مخصوص ایران را دریافت کنید.,"Categories
+Live CD"
+FileRunner is a two pane file manager for Unix and Unix like systems. It is simple and efficient and has a built-in FTP and SFTP client. It also does a reasonable (and improving) job on Windows systems. New and improved from a FileRunner of long ago.FileRunner is a two pane file manager for Unix and Unix like systems. It is simple and efficient and has a built-in FTP and SFTP client. It also does a reasonable (and improving) job on Windows systems. New and improved from a FileRunner of long ago.,"Categories
+Usability, File Managers, FTP Clients, SFTP Clients"
+"The ""Hobbit Monitor"" (hobbitmon has been renamed to Xymon. Please go to https://sourceforge.net/projects/xymon/The ""Hobbit Monitor"" (hobbitmon has been renamed to Xymon. Please go to https://sourceforge.net/projects/xymon/","Categories
+Systems Administration, Monitoring"
+GoAccess is a real-time Apache web log analyzer and interactive viewer that runs in a terminal and provides fast and valuable HTTP statistics for system administrators that require a visual report on the fly.GoAccess is a real-time Apache web log analyzer and interactive viewer that runs in a terminal and provides fast and valuable HTTP statistics for system administrators that require a visual report on the fly.,"Categories
+Log Analysis, Systems Administration, Monitoring"
+"A Java library for executing, parsing and persisting NMap output.A Java library for executing, parsing and persisting NMap output.","Categories
+Security, Networking, Libraries"
+"OpenXenManager is a graphical interface to manage XenServer / Xen Cloud Platform (XCP) hosts through the network. OpenXenManager is an open-source multiplatform clone of XenCenter (Citrix).
+
+The source code can now be found on GitHub using the homepage link belowOpenXenManager is a graphical interface to manage XenServer / Xen Cloud Platform (XCP) hosts through the network. OpenXenManager is an open-source multiplatform clone of XenCenter (Citrix).
+
+The source code can now be found on GitHub using the homepage link below","Categories
+Systems Administration"
+Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.Anamnesis is a clipboard manager. It stores all clipboard history and offers an easy interface to do a full-text search on the items of its history.,"Categories
+Desktop Environment, Command Line Tools, Clipboard Managers"
+"An attempt to write a driver for Canon CAPT-printers, including, but not limited to, LBP-2900.
+
+THIS PROJECT IS OUTDATED AND INACTIVE. The new and supported version is located at https://github.com/agalakhov/captdriverAn attempt to write a driver for Canon CAPT-printers, including, but not limited to, LBP-2900.
+
+THIS PROJECT IS OUTDATED AND INACTIVE. The new and supported version is located at https://github.com/agalakhov/captdriver","Categories
+Hardware Drivers"
+Postgres-XC is a write-scalable synchronous multi-master PostgreSQL cluster with the following features. 1) Both read and write scalability. 2) Configured with more than one server. 3) Complete global transaction and visibility management.Postgres-XC is a write-scalable synchronous multi-master PostgreSQL cluster with the following features. 1) Both read and write scalability. 2) Configured with more than one server. 3) Complete global transaction and visibility management.,"Categories
+Database Engines/Servers, Clustering"
+"io GNU/Linux is a powerful operating system that will turn a high-end computer into a state-of-the-art multimedia workstation.
+
+It is based on the Debian GNU/Linux distribution, built around the Enlightenment desktop environment and includes a wide range of open source applications suitable for audio, graphics and production.
+
+32 and 64-bit images are available with installer, check the download page:
+https://sourceforge.net/projects/io-gnu-linux/files
+
+io GNU/Linux is free software, if you find this project usefull and would like to help keeping it active and getting better, please consider making a donation.
+
+This project is member of live.debian.net, linuxaudio.org and linuxmao.org
+
+Enjoy :o)
+
+Coming back with io GNU/Linux 2020.01 soon...
+https://www.youtube.com/watch?v=e9CCsz70yJYio GNU/Linux is a powerful operating system that will turn a high-end computer into a state-of-the-art multimedia workstation.
+
+It is based on the Debian GNU/Linux distribution, built around the Enlightenment desktop environment and includes a wide range of open source applications suitable for audio, graphics and production.
+
+32 and 64-bit images are available with installer, check the download page:
+https://sourceforge.net/projects/io-gnu-linux/files
+
+io GNU/Linux is free software, if you find this project usefull and would like to help keeping it active and getting better, please consider making a donation.
+
+This project is member of live.debian.net, linuxaudio.org and linuxmao.org
+
+Enjoy :o)
+
+Coming back with io GNU/Linux 2020.01 soon...
+https://www.youtube.com/watch?v=e9CCsz70yJY","Categories
+Live CD"
+MSLB is a crossplatform Simple Logbook program / application to write work logs or even a diary. MSLB can also use a bunch of presets that you can add with a simple doubleclick :) Logs get saved in a simple folder system. And its all portable.MSLB is a crossplatform Simple Logbook program / application to write work logs or even a diary. MSLB can also use a bunch of presets that you can add with a simple doubleclick :) Logs get saved in a simple folder system. And its all portable.,"Categories
+Text Editors, Office/Business, Logging"
+"This project aims to provide software usefull in automation tasks like building automation. Different backends are supported like KNX or OpenHAB.
+
+Note: The project has moved to GitHub. Please consult:
+https://github.com/CometVisu/CometVisu - for the CometVisu
+https://github.com/OpenAutomationProject - for the different OpenAutomation subprojectsThis project aims to provide software usefull in automation tasks like building automation. Different backends are supported like KNX or OpenHAB.
+
+Note: The project has moved to GitHub. Please consult:
+https://github.com/CometVisu/CometVisu - for the CometVisu
+https://github.com/OpenAutomationProject - for the different OpenAutomation subprojects","Categories
+SCADA, Home Automation"
+"opsi is a Client Management System for Windows and Linux clients based on Linux servers.
+opsi is used for automatic OS installation, software depolyment, hard- and software inventory, distributed software depots.opsi is a Client Management System for Windows and Linux clients based on Linux servers.
+opsi is used for automatic OS installation, software depolyment, hard- and software inventory, distributed software depots.","Categories
+Software Distribution, Business Service Management, Product Lifecycle Management (PLM)"
+"SYDI is a project aimed to help system administrators in getting started with their Network Documentation. It can document Windows Servers, MS SQL Servers, Exchange Organizations and Linux systems.SYDI is a project aimed to help system administrators in getting started with their Network Documentation. It can document Windows Servers, MS SQL Servers, Exchange Organizations and Linux systems.","Categories
+Database, Systems Administration"
+"xpy is a small software, securing your Windows 2000/XP/2003 installation and protecting your privacy. In addition to so-called Antispy features, it disables common security threats (RPC/DCOM, LMHash) and increases your Windows performance.xpy is a small software, securing your Windows 2000/XP/2003 installation and protecting your privacy. In addition to so-called Antispy features, it disables common security threats (RPC/DCOM, LMHash) and increases your Windows performance.","Categories
+Security, System"
+"CUPS back-end for the canon printers using the proprietary USB over IP BJNP protocol. This back-end allows Cups to print over the network to a Canon printer. The design is based on reverse engineering of the protocol.
+
+
+Version 2.0 adds ink-level reporting and improved out-of-paper detection.
+Version 2.0.1 is now released under GPLv2 or later to be compatible with the changed cups license. No other changes.
+Version 2.0.2 fixes a compile error with GCC9
+Version 2.0.3 Fix GCC10 compile errors. increase status buffer size for newer printers that send larger status messagesCUPS back-end for the canon printers using the proprietary USB over IP BJNP protocol. This back-end allows Cups to print over the network to a Canon printer. The design is based on reverse engineering of the protocol.
+
+
+Version 2.0 adds ink-level reporting and improved out-of-paper detection.
+Version 2.0.1 is now released under GPLv2 or later to be compatible with the changed cups license. No other changes.
+Version 2.0.2 fixes a compile error with GCC9
+Version 2.0.3 Fix GCC10 compile errors. increase status buffer size for newer printers that send larger status messages","Categories
+Networking, Hardware Drivers, Printing"
+"Bandwidth Monitor NG is a small and console-based live network and disk-io bandwidth monitor for Linux, BSD, Solaris, Mac OS X and others. features: output of KB/s, Kb/s, packets, errors, average, max and total sum; in curses, plain console, CSV or HTML
+
+MOVED TO:
+https://github.com/vgropp/bwm-ngBandwidth Monitor NG is a small and console-based live network and disk-io bandwidth monitor for Linux, BSD, Solaris, Mac OS X and others. features: output of KB/s, Kb/s, packets, errors, average, max and total sum; in curses, plain console, CSV or HTML
+
+MOVED TO:
+https://github.com/vgropp/bwm-ng","Categories
+Monitoring"
+"ipt-netflow is high performance NetFlow exporting module for Linux kernel (up to 4.15). Designed for Linux router in high-throughput network. This is netfilter/iptables module adding support for -j NETFLOW target. Designed to work efficiently w/o conntrack. Supporting NetFlow protocols v5, v9, and IPFIX. Accounting for IPv4, IPv6 traffic, and NAT translation events (NEL). Additional options is SNMP-index translation rules, aggregation rules, Ethernet type, MPLS, VLAN, and MAC addresses exporting.ipt-netflow is high performance NetFlow exporting module for Linux kernel (up to 4.15). Designed for Linux router in high-throughput network. This is netfilter/iptables module adding support for -j NETFLOW target. Designed to work efficiently w/o conntrack. Supporting NetFlow protocols v5, v9, and IPFIX. Accounting for IPv4, IPv6 traffic, and NAT translation events (NEL). Additional options is SNMP-index translation rules, aggregation rules, Ethernet type, MPLS, VLAN, and MAC addresses exporting.","Categories
+Monitoring, Operating System Kernels, Internet"
+WinRun4J is a Windows native launcher for your Java application. The goal is to provide a more professional deployment mechanism for Java apps on Windows.WinRun4J is a Windows native launcher for your Java application. The goal is to provide a more professional deployment mechanism for Java apps on Windows.,"Categories
+Desktop Environment, Installation/Setup"
+"Cryptic Allusion Dreamcast-related development: KallistiOS, Ghetto Pong, etc.Cryptic Allusion Dreamcast-related development: KallistiOS, Ghetto Pong, etc.","Categories
+Games/Entertainment, Operating System Kernels, Embedded Systems"
+"SystemImager is software that makes the installation of Linux to masses of similar machines relatively easy. It makes software distribution, configuration, and operating system updates easy, and can also be used for content distribution.SystemImager is software that makes the installation of Linux to masses of similar machines relatively easy. It makes software distribution, configuration, and operating system updates easy, and can also be used for content distribution.","Categories
+Site Management, Backup, Software Distribution, Installation/Setup, Clustering, Scientific/Engineering"
+"WinLIRC, the Windows port of the Linux Infrared Remote Control package. Control your computer via remote!WinLIRC, the Windows port of the Linux Infrared Remote Control package. Control your computer via remote!","Categories
+Communications, Hardware, Multimedia"
