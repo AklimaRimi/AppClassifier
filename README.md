@@ -1,3 +1,4 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAklimaRimi%2FAppClassifier%2F&label=views&labelColor=%23697689&countColor=%23f47373)
 # AppClassifier
 
 ## Motive
