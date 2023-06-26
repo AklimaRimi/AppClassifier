@@ -5,6 +5,10 @@
 
 AppClassifier is a `multilabel` `NLP` project. Almost 360+ labels are used in this project which is deployed and rendered.
 
+HuggingFace API           |  Rendered website
+:-------------------------:|:-------------------------:
+![](https://github.com/AklimaRimi/AppClassifier/blob/main/images/hugging.png)  |  ![](https://github.com/AklimaRimi/AppClassifier/blob/main/images/website.png)
+
 ## Data Collection
 
 I collected data from : https://sourceforge.net/ <br>
